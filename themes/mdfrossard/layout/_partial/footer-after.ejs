@@ -1,0 +1,73 @@
+<script src="/js/modernizr-2.6.2.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type='text/javascript' src='/js/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.5'></script>
+<script type='text/javascript' src='/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.6.5'></script>
+<script src="/js/jquery.prettyPhoto.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
+
+
+
+<script>
+var $jq = jQuery.noConflict();
+$jq(document).ready(function() {
+  //funçao smooth scroll clicar no subir
+  $jq('#subir').click(function(){ 
+    $('html, body').animate({scrollTop:0}, 'slow');
+    return false;
+  });
+
+  //funçao smooth scroll no link ancora
+  $jq(function() {
+    $jq('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+      $('html,body').animate({
+        scrollTop: target.offset().top
+      }, 1000);
+      return false;
+      }
+    }
+    });
+  });
+});//final do doc ready
+
+(function(){
+$jq("a[rel^='prettyPhoto']").prettyPhoto({
+  social_tools: false
+});
+})();
+</script>
+
+<% if(page.id && page.id === 'contato') { %>
+  <%- partial('js-contato') %>
+<% } %>
+
+<% if(page.id && page.id === 'estrutura') { %>
+  <%- partial('js-estrutura') %>
+<% } %>
+
+<% if(page.id && page.id === 'home') { %>
+  <%- partial('js-home') %>
+<% } %>
+
+<%- partial('fb-widget') %>
+<%- partial('google-analytics') %>
+<%- partial('google-remarketing') %>
+<%- partial('google-adwords') %>
+<%- partial('phonetrack') %>
+
+<script>
+//partial('getclicky') %>
+//partial('google-plus') %>
+//partial('google-captcha') %>
+//partial('wp-akismet')
+//partial('wp-contactform7')
+//partial('wp-jetpack')
+//partial('wp-embed')
+//partial('wp-bloom')
+//partial('wp-stats')
+</script>

@@ -1,0 +1,24 @@
+
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<%- partial('_partial/head') %>
+<body class="home page-template-default page page-id-4 op-plugin et_bloom">
+  <%- partial('_partial/header') %>
+  <div class="main" id="main">
+		<div class="content">
+      <div class="container">
+        <%- body %>
+      </div>
+      <!-- container -->
+    </div>
+    <!-- content -->
+  </div>
+  <!-- main -->
+  <%- partial('_partial/footer', null, {cache: !config.relative_link}) %>
+  <div style="display:none"></div>
+  <%- partial('_partial/footer-after') %>
+</body>
+</html>

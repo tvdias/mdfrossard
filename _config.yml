@@ -1,0 +1,106 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+title: MD Frossard Odontologia
+subtitle: Dentista Barra da Tijuca e Botafogo
+description: Dentista na Barra da tijuca e em Botafogo. A Clínica Dentária MD Frossard Odontologia pode mudar seu sorriso. Confira a nossa filosofia de atendimento.
+keywords: dentista barra tijuca botafogo odontologia marcos davi frossard
+author: Davi Heringer Frossard
+language: pt_BR
+timezone: America/Sao_Paulo
+
+fb_admins: 100001667267019
+fb_app_id: MdFrossardOdontologia
+google_plus: MDFrossardOdontologiaBarraRiodeJaneiro
+twitter_id: MD_Odontologia
+
+
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: https://mdfrossard.com.br
+root: /
+#permalink: blog/:year/:month/:day/:title/
+permalink: :title/
+permalink_defaults:
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+include:
+  - _redirects
+skip_render: 
+  - "*admin/*"
+  - _redirects
+
+# Writing
+new_post_name: :title.md # File name of new posts
+default_layout: post
+titlecase: false # Transform title into titlecase
+external_link: true # Open external links in new tab
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: false
+  tab_replace:
+  
+# Home page setting
+# path: Root path for your blogs index page. (default = '')
+# per_page: Posts displayed per page. (0 = disable pagination)
+# order_by: Posts order. (Order by date descending by default)
+index_generator:
+  path: '/blog'
+  per_page: 10
+  order_by: -date
+  
+# Category & Tag
+default_category: sem-categoria
+category_map:
+tag_map:
+
+# Date / Time format
+## Hexo uses Moment.js to parse and display date
+## You can customize the date format as defined in
+## http://momentjs.com/docs/#/displaying/format/
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+
+# Pagination
+## Set per_page to 0 to disable pagination
+per_page: 10
+pagination_dir: page
+
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: mdfrossard
+
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type:
+
+sitemap:
+  path: sitemap.xml
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+
+excerpt:
+  depth: 1
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true

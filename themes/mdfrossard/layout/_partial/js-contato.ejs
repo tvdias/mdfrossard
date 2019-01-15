@@ -1,0 +1,38 @@
+<script>
+$jq("#contactform").submit(function(e) {
+    e.preventDefault();
+    var $form = $jq(this);
+    $form.find(":submit").attr("disabled", true);
+    $form.find(".ajax-loader").addClass("is-active");
+    var data = {
+        'name': $form.find("input[name=name]").val(),
+        'email': $form.find("input[name=email]").val(),
+        'subject': $form.find("input[name=subject]").val(),
+        'message': $form.find("textarea[name=message]").val()
+    };
+    return fetch('/.netlify/functions/mail', {
+        body: JSON.stringify(data),
+        method: 'POST'
+    })
+    .then(response => {
+        console.log('API response', response);
+        if (response.status >= 400) { showError($form); }
+        else { showSuccess($form); }
+    })
+    .catch(function(error) {
+        showError($form);
+    });
+});
+
+function showError($form) {
+    $form.find(".ajax-loader").removeClass("is-active");
+    $form.find(":submit").attr("disabled", false);
+    $form.find(".wpcf7-response-output").text("Ocorreu um erro ao enviar a sua mensagem. Por favor tente novamente.");
+    $form.find(".wpcf7-response-output").removeClass("wpcf7-display-none").removeClass("wpcf7-mail-sent-ok");
+}
+
+function showSuccess($form) {
+    $form.find(".ajax-loader").removeClass("is-active");
+    $form.find(".wpcf7-response-output").removeClass("wpcf7-display-none").addClass("wpcf7-mail-sent-ok");
+}
+</script>

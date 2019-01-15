@@ -1,0 +1,34 @@
+<!-- Google Captcha -->
+<script type="text/javascript">
+  ( function( grecaptcha, sitekey ) {
+  
+  var wpcf7recaptcha = {
+  execute: function() {
+    grecaptcha.execute(
+      sitekey,
+      { action: 'homepage' }
+    ).then( function( token ) {
+      var forms = document.getElementsByTagName( 'form' );
+  
+      for ( var i = 0; i < forms.length; i++ ) {
+        var fields = forms[ i ].getElementsByTagName( 'input' );
+  
+        for ( var j = 0; j < fields.length; j++ ) {
+          var field = fields[ j ];
+  
+          if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+            field.setAttribute( 'value', token );
+            break;
+          }
+        }
+      }
+    } );
+  }
+  };
+  grecaptcha.ready( wpcf7recaptcha.execute );
+  document.addEventListener( 'wpcf7submit', wpcf7recaptcha.execute, false );
+  } )( grecaptcha, '6Lcg34AUAAAAACO7x5AfJNt5leNsmn8NN1SapUWY' );
+</script>
+
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6Lcg34AUAAAAACO7x5AfJNt5leNsmn8NN1SapUWY&#038;ver=3.0'></script>
+<!-- End Google Captcha -->

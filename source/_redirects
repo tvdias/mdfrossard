@@ -1,0 +1,2 @@
+/mdf_tratamentos/*    /tratamentos/:splat             302
+/tratamentos          /tratamentos/implante-dental    302

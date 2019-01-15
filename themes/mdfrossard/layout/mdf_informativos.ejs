@@ -1,0 +1,18 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12 contpage infor">
+            <img src="/images/informativo.jpg" alt="Informativo">
+        </div><!-- col -->
+    </div><!-- row -->
+
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12 contpage infor">
+            <h2 class="t-informativo">Clique abaixo e faça download de seu informativo:</h2>
+            <ul class="download-list">
+                <% for (var index in site.data.informativos) { %>
+                    <li><a href="<%= site.data.informativos[index].link %>" target="_blank"><%= site.data.informativos[index].name %></a></li>
+                <% } %>
+            </ul>
+        </div><!-- col -->
+    </div><!-- row -->
+</div><!-- container-fluid -->

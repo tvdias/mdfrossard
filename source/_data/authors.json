@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Marcos Frossard",
+		"email": "marcos@mdfrossard.com",
+		"bio": "Formado pela UEL e com mais de 30 anos de experiência, **Dr. Marcos Frossard** atua na área de reabilitação oral, prótese e estética. Prioriza a excelência em seus atendimentos e busca atualizar-se em cursos e congressos internacionais, mantendo assim um elevado padrão de resolução de seus casos clínicos.",
+		"avatar": "/images/authors/marcos.jpg",
+		"main": true
+	},
+	{
+		"name": "Davi Heringer Frossard",
+		"email": "davifrossard1@gmail.com",
+		"bio": "Formado na UERJ, **Dr. Davi Heringer Frossard** atua e possui especialização em Implantodontia pela Faculdade São Leopoldo Mandic. É um profissional que valoriza a renovação dos conhecimentos e, para tal, frequentou vários cursos, como atualização em cirurgia periodontal em Bauru, cirurgia oral menor e atualização em restaurações estéticas pela PUC. Na área acadêmica, leciona Implantodontia em cursos de pós graduação.",
+		"avatar": "/images/authors/davi.jpg",
+		"main": true
+	},
+	{
+		"name": "Magali Ribeiro",
+		"email": "magali@mdfrossard.com",
+		"bio": "Graduação PUC-RS, especialização UFRG, mestrado e doutorado na UERJ. Professora de Periodontia IOPUC-RJ e UERJ, atuando na área de Periodontia.",
+		"avatar": "/images/authors/magali.jpg",
+		"main": false
+	},
+	{
+		"name": "Luciana Vieira Peroni",
+		"email": "davi@mdfrossard.com",
+		"bio": "Formou-se em Odontologia pela UERJ; especialização em Prótese Dentária; e, Mestrado Acadêmico pela FO-UERJ. Atua no atendimento adulto e infantil na clínica.",
+		"avatar": "/images/authors/luciana.jpg",
+		"main": false
+	},
+	{
+		"name": "Luna Mangaravite",
+		"email": "luna@mdfrossard.com",
+		"bio": "Graduada pela Faculdade de Odontologia de Nova Friburgo em julho de 2001 e terminou sua especialização em Endodontia no ano de 2007 pela Associação Brasileira de Endodontia - secção Rio de Janeiro.",
+		"avatar": "/images/authors/luna.jpg",
+		"main": false
+	}
+]

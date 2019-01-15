@@ -1,0 +1,20 @@
+<div id="sidebar" class="sidebar">
+    <div id="facebook-likebox-2" class="widget widget_facebook_likebox">
+        <div class="fb-page" data-href="https://www.facebook.com/MdFrossardOdontologia/" data-width="300" data-height="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/MdFrossardOdontologia/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/MdFrossardOdontologia/">MD Frossard Odontologia</a></blockquote></div>
+    </div>
+
+    <div id="mdf-recent-posts-2" class="widget mdf-recent-posts">
+        <div class="mdf-recent-posts-cont">
+            <h2 class="widgettitle">Publicações Recentes</h2>
+            <ul class="mdf-recent-posts-list">
+                <% site.posts.sort('date', -1).limit(5).forEach(function(post) {%>
+                <li class="clearfix">
+                    <img width="150" height="150" src="<%= post.featured_image_150 ? post.featured_image_150 : post.featured_image %>" class="attachment-thumbnail size-thumbnail wp-post-image" alt="<%= post.title.substring(0, 10) %>">
+                    <h5><a href="<%= url_for(post.path) %>"><%= post.title %></a></h5>
+                    <p><%= post.content.replace(/<(?:.|\n)*?>/gm, '').substring(0, 97) %>...</p>
+                </li>
+                <% }) %>
+            </ul>
+        </div>
+    </div>
+  </div>

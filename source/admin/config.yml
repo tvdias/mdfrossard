@@ -1,0 +1,168 @@
+backend:
+  name: git-gateway
+  repo: gitlab
+  branch: master # Branch to update (optional; defaults to master)
+  squash_merges: true
+  
+# This line should *not* be indented
+# publish_mode: editorial_workflow # works with GitHub repositories only
+
+# This line should *not* be indented
+media_folder: "source/images/uploads" # Media files will be stored in the repo under images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+display_url: https://mdfrossard.netlify.com
+logo_url: https://mdfrossard.netlify.com/img/md-frossard-logo.png
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
+
+collections:
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
+    label_singular: "Post" # Used in the UI
+    folder: "source/_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    #slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label: "Pages" # Used in the UI
+    files:
+      - label: "Home"
+        name: "home"
+        file: "source/index.md"
+        fields:
+          - {label: ID, name: id, widget: string, required: false}
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: "Layout", name: "layout", widget: "hidden", required: false}
+          - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
+          - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
+          - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Biosseguranca"
+        name: "biosseguranca"
+        file: "source/biosseguranca/index.md"
+        fields:
+          - {label: ID, name: id, widget: string, required: false}
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: "Layout", name: "layout", widget: "hidden", required: false}
+          - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
+          - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
+          - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Contato"
+        name: "contato"
+        file: "source/contato/index.md"
+        fields:
+          - {label: ID, name: id, widget: string, required: false}
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: "Layout", name: "layout", widget: "hidden", required: false}
+          - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
+          - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
+          - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Day-clinic"
+        name: "day-clinic"
+        file: "source/day-clinic/index.md"
+        fields:
+          - {label: ID, name: id, widget: string, required: false}
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: "Layout", name: "layout", widget: "hidden", required: false}
+          - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
+          - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
+          - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Depoimentos"
+        name: "depoimentos"
+        file: "source/depoimentos/index.md"
+        fields:
+          - {label: ID, name: id, widget: string, required: false}
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: "Layout", name: "layout", widget: "hidden", required: false}
+          - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
+          - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
+          - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Equipe"
+        name: "equipe"
+        file: "source/equipe/index.md"
+        fields:
+          - {label: ID, name: id, widget: string, required: false}
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: "Layout", name: "layout", widget: "hidden", required: false}
+          - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
+          - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
+          - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Estrutura"
+        name: "estrutura"
+        file: "source/estrutura/index.md"
+        fields:
+          - {label: ID, name: id, widget: string, required: false}
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: "Layout", name: "layout", widget: "hidden", required: false}
+          - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
+          - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
+          - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Informativos"
+        name: "informativos"
+        file: "source/informativos/index.md"
+        fields:
+          - {label: ID, name: id, widget: string, required: false}
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: "Layout", name: "layout", widget: "hidden", required: false}
+          - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
+          - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
+          - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Landing page: Mancha no dente"
+        name: "landing-page-mancha-no-dente"
+        file: "source/landing-page-mancha-no-dente/index.md"
+        fields:
+          - {label: ID, name: id, widget: string, required: false}
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: "Layout", name: "layout", widget: "hidden", required: false}
+          - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
+          - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
+          - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Localização"
+        name: "localizacao"
+        file: "source/localizacao/index.md"
+        fields:
+          - {label: ID, name: id, widget: string, required: false}
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: "Layout", name: "layout", widget: "hidden", required: false}
+          - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
+          - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
+          - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Odontologia Personalizada"
+        name: "odontologia-personalizada"
+        file: "source/odontologia-personalizada/index.md"
+        fields:
+          - {label: ID, name: id, widget: string, required: false}
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: "Layout", name: "layout", widget: "hidden", required: false}
+          - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
+          - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
+          - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown"}

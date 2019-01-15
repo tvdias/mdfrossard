@@ -1,0 +1,88 @@
+<header id="header" class="header">
+  <div class="l-decoration"></div><!-- l-decoration -->
+    <div class="container">
+      <div class="row">
+        <div class="telefone">
+          <a onclick="goog_report_conversion('tel:02122665955')" href="tel:02122665955" alt="Ligue Agora" title="Ligue Agora"><span class="icone1 icon-phone"></span><span class="ddd">21</span> <span class="numero">2266-5955</span></a>
+          <a onclick="goog_report_conversion('tel:02132170430')" href="tel:02132170430" alt="Ligue Agora" title="Ligue Agora"><span class="icone1 icon-phone"></span><span class="ddd">21</span> <span class="numero">3217-0430</span></a>                
+        </div>
+        
+        <% if (theme.mdf_facebook || theme.mdf_twitter || theme.mdf_whatsapp){ %>
+        <ul class="social-media nav-horizontal">
+            <% if (theme.mdf_facebook){ %>
+            <li><a href="//<%- theme.mdf_facebook %>" class="icone icon-facebook" target="_blank" alt="Facebook" title="Facebook"></a></li>
+            <% } %>
+
+            <% if (theme.mdf_twitter){ %>
+            <li><a href="//<%- theme.mdf_twitter %>" class="icone icon-twitter" target="_blank" alt="Twitter" title="Twitter"></a></li>
+            <% } %>
+
+            <% if (theme.mdf_whatsapp){ %>
+            <li><a href="//api.whatsapp.com/send?phone=<%- theme.mdf_whatsapp %>" class="icone icon-whatsapp" target="_blank" alt="Whatsapp" title="Whatsapp"></a></li>
+            <% } %>
+        </ul>
+        <% } %>
+        
+        <div class="navbar navbar-static-top">
+          <div class="navbar-header">
+            <span>
+              <a href="<%- url_for() %>" title="<%= config.title %>">
+                <h1 class="branding-name"><img src="/img/md-frossard-logo.png" alt="<%= config.title %>" /></h1>
+              </a>
+            </span>             
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainmenu">
+              MENU
+            </button>
+          </div>
+
+          <%- partial('menu') %>
+
+        </div><!--/navbar -->
+      </div><!-- row -->
+    </div><!-- container -->
+
+    <div class="newsletter hidden-xs">
+      <div class="container">
+        <div class="row">  
+          <div class="col-md-7 col-sm-7 col-xs-12">   
+            <img src="/img/dente.png" alt="dente" class="dente"/>   
+            <span class="chamada">Junte-se a este grupo de leitores inteligentes e receba atualizações, artigos e dicas imperdíveis para a sua saúde bucal e um sorriso agradável!</span>
+          </div><!-- col -->
+
+          <div class="col-md-5 col-sm-5 col-xs-12">
+            <div class="et_bloom_inline_form et_bloom_optin et_bloom_make_form_visible et_bloom_optin_1">
+              <style type="text/css">.et_bloom .et_bloom_optin_1 .et_bloom_form_content button { background-color: #eca544 !important; } .et_bloom .et_bloom_optin_1 .et_bloom_form_content button { background-color: #eca544 !important; } .et_bloom .et_bloom_optin_1 h2, .et_bloom .et_bloom_optin_1 h2 span, .et_bloom .et_bloom_optin_1 h2 strong { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; }.et_bloom .et_bloom_optin_1 p, .et_bloom .et_bloom_optin_1 p span, .et_bloom .et_bloom_optin_1 p strong, .et_bloom .et_bloom_optin_1 form input, .et_bloom .et_bloom_optin_1 form button span { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; } </style>
+
+              <div class="et_bloom_form_container  et_bloom_rounded et_bloom_form_text_dark et_bloom_form_bottom et_bloom_inline_1_field">
+                <div class="et_bloom_form_container_wrapper clearfix">
+                  <div class="et_bloom_header_outer">
+                    <div class="et_bloom_form_header et_bloom_header_text_dark"></div>
+                  </div>
+                  <div class="et_bloom_form_content et_bloom_1_field et_bloom_bottom_inline">
+                    <form action="https://mdfrossard.us7.list-manage.com/subscribe/post?u=b69d3e1d6bf4b4ea07153ab27&amp;id=5f07a5aaeb" method="post" class="clearfix" _lpchecked="1">
+                      <p class="et_bloom_popup_input et_bloom_subscribe_email">
+                        <input type="email" id="mce-EMAIL" value="" name="EMAIL" placeholder="Digite seu email aqui">
+                      </p>
+                      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b69d3e1d6bf4b4ea07153ab27_5f07a5aaeb" tabindex="-1" value=""></div>
+                      <button data-optin_id="optin_1" data-service="mailchimp" data-list_id="5f07a5aaeb" data-page_id="4" data-account="MC Frossard" data-disable_dbl_optin="" class="et_bloom_submit_subscription">
+                        <span class="et_bloom_subscribe_loader"></span>
+                        <span class="et_bloom_button_text et_bloom_button_text_color_light">Quero Receber</span>
+                      </button>
+                    </form>
+                    <div class="et_bloom_success_container">
+                      <span class="et_bloom_success_checkmark"></span>
+                    </div>
+                    <h2 class="et_bloom_success_message">Aguarde</h2>
+                  </div>
+                </div>
+
+                <span class="et_bloom_close_button"></span>
+              </div>
+            </div>
+          </div>
+        </div><!-- row -->
+      </div><!-- container -->
+    </div>            
+  </div>
+</header> <!-- header -->

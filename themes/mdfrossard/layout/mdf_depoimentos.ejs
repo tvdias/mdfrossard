@@ -1,0 +1,15 @@
+<div class="row">
+    <div class="contpage depoimentos">
+        <h1 class="title2" style="margin-bottom:20px;">Depoimentos</h1>
+        <% site.data.testimonials.forEach(function(testimonial) { %>
+        <blockquote class="depoimento">
+            <div class="quotes">
+                <%- markdown(testimonial.text) %>
+            </div>
+            <footer>
+                <cite title="<%= testimonial.author %>"><%= testimonial.author %></cite>
+            </footer>
+        </blockquote>
+        <% }) %>
+    </div><!-- col -->
+</div><!-- row -->
