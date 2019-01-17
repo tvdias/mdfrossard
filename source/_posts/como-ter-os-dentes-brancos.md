@@ -1,8 +1,8 @@
 ---
-title: Como ter os dentes mais brancos - 3 Tratamentos Básicos
+title: Como ter Dentes Brancos - 3 Tratamentos Básicos
 description: >-
-  Como ter os dentes mais brancos ? Essa pergunta é comum nos consultórios
-  dentários. Existem 3 tratamentos que possibilitam isso. 
+  Você quer ter dentes brancos e saudáveis ? Ter um sorriso agradável é o sonho
+  de muitos. Leia o texto e descubra 3 tratamentos para realizar isso.
 date: 2017-11-06T09:00:35.000Z
 featured_image: /images/uploads/2017/10/dentes-brancos.jpg
 ---
