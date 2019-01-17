@@ -1,12 +1,10 @@
 ---
-title: '[Infográfico] Coroa dentária -Tudo o que você precisa saber.'
-url: 1660.html
-featured_image: '/images/uploads/2015/07/Coroa-dentária.jpg'
-id: 1660
-categories:
-  - Sem categoria
-date: 2015-07-21 10:14:17
-tags:
+title: Coroa Dentária - Saiba TUDO sobre esse tratamento dentário.
+description: >-
+  A Coroa Dentária tem a função de devolver a mastigação e estética do dente.
+  Tire todas as suas dúvidas através de fotos, infográficos e vídeos.
+date: 2015-07-21T10:14:17.000Z
+featured_image: /images/uploads/2015/07/Coroa-dentária.jpg
 ---
 
 Quero conversar com você sobre a **Coroa dentária**. Por isso, além de realizar um texto completo sobre o tema, fiz um infográfico com informação e desenhos detalhados. A coroa protética dentária é o tratamento de escolha para {% post_link reabilitacao-oral "reabilitar" %} o dente comprometido pela cárie ou por grandes fraturas. Além disso, é possível obter uma estética similar aos dentes naturais. Na grande maioria dos casos, usamos cerâmica para fazer a anatomia do dente, o que ocasiona um aspecto natural. Esse tipo de prótese proporciona um **dente fixo** e versátil, podendo ser realizada sobre dentes e também sobre implantes dentários. No infográfico abaixo esta resumido as principais características das coroas dentárias. **Nesse texto você irá ver -**
