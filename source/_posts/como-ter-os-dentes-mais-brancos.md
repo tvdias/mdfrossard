@@ -1,13 +1,10 @@
 ---
 title: Como ter os dentes mais brancos ?
-url: 2545.html
-featured_image: >-
-  /images/uploads/2017/10/dentes-brancos-e-o-clareamento.jpg
-id: 2545
-categories:
-  - Sem categoria
-date: 2018-04-02 08:00:01
-tags:
+description: >-
+  Como ter os dentes mais brancos ? Essa pergunta é comum nos consultórios
+  dentários. Existem 3 tratamentos que possibilitam isso. 
+date: 2018-04-02T08:00:01.000Z
+featured_image: /images/uploads/2017/10/dentes-brancos-e-o-clareamento.jpg
 ---
 
 O questionamento de **como ter os dentes mais brancos** é muito comum nos consultórios dentários. Sendo uma das principais dúvidas atualmente. Você, assim como eu, queremos nos sentir bem com o nosso sorriso. Para isso, existem inúmeros tratamentos para se atingir esse objetivo. Leia texto para saber 3 opções de como ter os dentes mais brancos. Vou elencar eles em ordem de complexidade. Sendo o primeiro mais fácil de ser realizado e por qualquer pessoa. Nos outros dois é preciso de auxilio do dentista.
