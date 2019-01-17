@@ -1,14 +1,10 @@
 ---
-title: Como evitar a cárie dentária
-tags:
-  - cárie
-  - dentista
-  - md frossard
-  - saúde
-featured_image: '/images/uploads/2014/01/Cárie-dentária-1.jpg'
-categories:
-  - Prevenção
-date: 2014-06-20 07:49:19
+title: Cárie Dentária - Como evitar esse problema comum.
+description: >-
+  A Cárie dentária é a doença bucal mais comum de se ter. Porém, é possível
+  prevenir com simples atitudes. Veja aqui 10 dicas de como evitar a cárie.
+date: 2014-06-20T07:49:19.000Z
+featured_image: /images/uploads/2014/01/Cárie-dentária-1.jpg
 ---
 
 A [doença periodontal](/tratamentos/periodontia/ "Periodontia") e a **Cárie dentária** são as principais causas de perda dentária, sendo a cárie a principal responsável pelas dores de dente. Porém, elas podem ser prevenidas com simples atitudes.
