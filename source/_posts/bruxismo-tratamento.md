@@ -1,10 +1,10 @@
 ---
 title: Bruxismo tratamento e causas. Veja como se "livrar" dele.
-featured_image: '/images/uploads/2014/08/bruxismo.jpg'
-categories:
-  - Sem categoria
-date: 2014-08-25 10:00:54
-tags:
+description: >-
+  O bruxismo é um problema comum atualmente. Seu diagnóstico é importante para
+  evitar problemas futuros, veja aqui o correto tratamento.
+date: 2014-08-25T10:00:54.000Z
+featured_image: /images/uploads/2014/08/bruxismo.jpg
 ---
 
 **Bruxismo** atualmente é diagnosticado de forma rotineira nos consultórios dentários. Assim, é comum encontrar pacientes que tiveram um desgaste grande dos dentes ou que estão da fase ativa da doença. Isto está muito relacionado ao nosso estilo de vida atual. Nesse texto você verá o tratamento do Bruxismo, assim como suas causas e consequências.
