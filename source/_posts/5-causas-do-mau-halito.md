@@ -1,10 +1,10 @@
 ---
 title: 5 Causas Comuns do Mau hálito - A 3ª é a mais desconhecida
-featured_image: '/images/uploads/2016/01/causas-mau-hálito.jpg'
-categories:
-  - Sem categoria
-date: 2016-02-01 10:05:28
-tags:
+description: >-
+  Veja as 5 causas mais comuns para o Mau hálito. Aprenda como prevenir e tratar
+  esse desconfortável problema. Pode ser mais fácil do que se imagina.
+date: 2016-02-01T10:05:28.000Z
+featured_image: /images/uploads/2016/01/causas-mau-hálito.jpg
 ---
 
 Provavelmente você já passou pela situação de conversar com alguém e esta pessoa apresentar **mau hálito**. Essa é uma situação desconfortável. Porém, você já imaginou que a pessoa com o hálito alterado pode ser você ? O má notícia sobre o mau hálito é que ele pode atingir cerca de [30% a 50% da população](http://saude.terra.com.br/saude-bucal/atualidades/30-da-populacao-tem-mau-halito-veja-como-elimina-lo,19df3042284bf310VgnVCM20000099cceb0aRCRD.html), sendo que em 90% dos casos a origem do problema está na boca. Além disso, a pessoa que apresenta a halitose não percebe o odor alterado. Já que as células responsáveis pelo olfato nos humanos se acostumam com o odor se ele for constante.
