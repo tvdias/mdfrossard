@@ -1,13 +1,10 @@
 ---
-title: Dentista Barra da Tijuca
-url: 648.html
-featured_image: >-
-  /images/uploads/2014/05/dentista-na-barra-da-tijuca.jpg
-id: 648
-categories:
-  - Sem categoria
-date: 2014-05-12 11:02:32
-tags:
+title: ' Dentista na Barra da Tijuca - Clinica Dentária MD Frossard Odontologia'
+description: >-
+  Dentista na Barra da Tijuca com todos os tipos de Tratamentos Dentários e o
+  conforto que você precisa. Nossa Clínica Dentária fica no Citta América.
+date: 2014-05-12T11:02:32.000Z
+featured_image: /images/uploads/2014/05/dentista-na-barra-da-tijuca.jpg
 ---
 
 **Precisa de dentista na Barra da Tijuca ?  ** Esse bairro demonstra grande crescimento populacional nos últimos anos. Além de apresentar toda a beleza natural com suas praias, também existem diversos empreendimentos comerciais de grande porte. Caso queira saber mais sobre a Barra da tijuca, [esse texto](https://pt.wikipedia.org/wiki/Barra_da_Tijuca) do Wikipedia é bem interessante. Com uma população maior a cada ano, muitos precisam de indicação para médicos e dentistas. Nossa clínica liderada pelos dentistas Marcos Frossard e Davi Frossard é a opção certa para você. **Estamos localizados no Shopping Citta America. Ligue para 3217-0430 ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) para marcar sua consulta. ** Continue lendo para saber mais sobre a clínica.
