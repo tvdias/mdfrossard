@@ -1,12 +1,10 @@
 ---
-title: Como saber se estou com cárie ?
-url: 1984.html
-featured_image: '/images/uploads/2016/08/Dúvida-cárie.jpg'
-id: 1984
-categories:
-  - Sem categoria
-date: 2016-09-05 10:00:54
-tags:
+title: Como Saber se Estou com Cárie ? Leia tudo sobre esse tema agora.
+description: >-
+  Como saber se estou com cárie ? Leia o texto para descobrir mais sobre esse
+  problema e como tratar. Caso necessário, deixe seu comentário com sua dúvida.
+date: 2016-09-05T10:00:54.000Z
+featured_image: /images/uploads/2016/08/Dúvida-cárie.jpg
 ---
 
 A doença cárie já foi amplamente discutida em nosso blog. Entretanto, existem muitas dúvidas de clientes sobre esse tema, sendo a principal **“como saber se estou com cárie“** .
