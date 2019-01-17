@@ -1,12 +1,10 @@
 ---
-title: 'Dente siso inflamado, o que fazer ?'
-url: 2077.html
-featured_image: '/images/uploads/2017/05/dente-siso-inflamado.jpg'
-id: 2077
-categories:
-  - Sem categoria
-date: 2017-05-29 10:00:14
-tags:
+title: Dente Siso Inflamado - O que fazer nessa situação ?
+description: >-
+  A dor no dente siso inflamado é muito comum quando somos jovens. Porém, a
+  solução pode ser simples. Leia o texto e tire suas dúvidas.
+date: 2017-05-29T10:00:14.000Z
+featured_image: /images/uploads/2017/05/dente-siso-inflamado.jpg
 ---
 
 Você já ouviu vários relatos sobre a imensa dor quando se tem o siso inflamado. Esse dente, geralmente é o último a nascer em nossa arcada dentária, ocorrendo na adolescência ou até depois. Devido a sua posição bem posterior na arcada, muitos acabam tendo dificuldade para higienizá-lo, por isso sua remoção é indicada. Além disso, existem casos em que esse dente nasce em uma posição alterada, comprometendo ainda mais sua manutenção na boca. Assim, o **dente siso inflamado** ocorre quando há higienização deficiente da região, gerando dor e desconforto.  Esse problema também pode ser chamado de pericoronarite. Continue a ler para aprender mais sobre:
