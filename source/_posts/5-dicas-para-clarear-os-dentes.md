@@ -1,10 +1,10 @@
 ---
-title: 5 dicas para clarear os dentes
-featured_image: '/images/uploads/2017/08/dicas-para-clarear-os-dentes.jpg'
-categories:
-  - Sem categoria
-date: 2017-08-07 10:00:41
-tags:
+title: '5 dicas para clarear os dentes - Mude seu Sorriso. '
+description: >-
+  Veja as 5 principais dicas para clarear os dentes. Veja como você pode ter o
+  sorriso dos seus sonhos. Fique atento a quarta dica !
+date: 2017-08-07T10:00:41.000Z
+featured_image: /images/uploads/2017/08/dicas-para-clarear-os-dentes.jpg
 ---
 
 Hoje quero compartilhar 5 dicas para **clarear os dentes.** São dicas fáceis de se seguir e podem melhorar muito o sorriso.
