@@ -1,11 +1,10 @@
 ---
-title: 'Afta, Saiba Tudo sobre ela.'
-featured_image: '/images/uploads/2015/06/Afta-.jpg'
-author: Luciana Vieira Peroni
-categories:
-  - Sem categoria
-date: 2015-06-01 12:04:08
-tags:
+title: 'Afta - Saiba tudo sobre esse problema. Aprenda como evitar. '
+description: >-
+  A afta é comum na boca. Nesse texto vamos responder algumas perguntas comuns.
+  O que causa a afta e como diminuir o desconforto.
+date: 2015-06-01T12:04:08.000Z
+featured_image: /images/uploads/2015/06/Afta-.jpg
 ---
 
 Hoje quero compartilhar com você uma das doenças mais comuns na boca, **a afta** . Provavelmente você já teve afta e ela deve ter cicatrizado sem nenhum outro problema. Porém, você sabe o que causou essa problema? Será que não teria alguma maneira de diminuir a irritação na região durante a fase ativa da doença? Como evitar ? Essa são algumas perguntas que vamos explicar nesse texto.
