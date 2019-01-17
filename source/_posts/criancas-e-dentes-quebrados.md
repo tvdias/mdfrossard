@@ -1,12 +1,10 @@
 ---
-title: Crianças e dentes quebrados
-tags:
-  - dentista
-  - odontopediatria
-featured_image: '/images/uploads/2013/12/Criança-e-dentes-quebrados.png'
-categories:
-  - Crianças
-date: 2013-12-17 07:44:36
+title: 'Crianças e os Dentes Quebrados - Como Tratar e evitar. '
+description: >-
+  O que fazer com crianças e dentes quebrados ? Nesse texto você encontrará qual
+  a forma de proceder caso seu filho quebre o dente. Entre e confira.
+date: 2013-12-17T07:44:36.000Z
+featured_image: /images/uploads/2013/12/Criança-e-dentes-quebrados.png
 ---
 
 Olá a todos, Hoje direciono o post para as crianças e dentes quebrados. Elas sempre estão querendo correr, se divertir e fazer brincadeiras e isso também pode levar a alguns acidentes. Imagine, que seu filho esta se divertindo e de repente cai e bate a boca no chão, ao se verificar, nota-se que ele esta com o dente quebrado e seu lábio sangrando. O que fazer? Primeiro, fique calmo, o nervosismo não irá ajudar. Mas fique atento a não perder tempo e realizar todos os procedimentos descritos aqui.
