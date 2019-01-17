@@ -1,12 +1,10 @@
 ---
-title: Precisa de Dentista em Botafogo ?
-url: 2008.html
-featured_image: '/images/uploads/2016/10/Dentista-botafogo.jpg'
-id: 2008
-categories:
-  - Sem categoria
-date: 2016-04-24 10:13:44
-tags:
+title: Você precisa de Dentista em Botafogo no Rio de Janeiro ?
+description: >-
+  Caso você precise de Dentista em Botafogo na cidade do Rio de Janeiro veja o
+  nosso texto. Você vai ver a localização e os nossos telefones de contato
+date: 2016-04-24T10:13:44.000Z
+featured_image: /images/uploads/2016/10/Dentista-botafogo.jpg
 ---
 
 A Zona Sul do Rio de Janeiro é uma das regiões mais badaladas do Rio de Janeiro. Apresentando praias e pontos turísticos conhecidos no mundo todo. Nessa região se encontra o bairro de Botafogo, que é um dos mais antigos do Rio de Janeiro. Nossa clínica esta localizado neste mesmo Bairro há mais de 25 anos. Estamos localizados ao lado da Cobal e perto do largo dos Leões.
