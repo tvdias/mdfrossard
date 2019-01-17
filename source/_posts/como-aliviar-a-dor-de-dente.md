@@ -1,14 +1,10 @@
 ---
 title: Como aliviar a dor de dente
-url: 2017.html
-featured_image: >-
-  /images/uploads/2017/01/como-aliviar-a-dor-de-dente.jpg
-id: 2017
-categories:
-  - Prevenção
-  - Tratamentos
-date: 2017-01-30 09:23:19
-tags:
+description: >-
+  Como Aliviar a Dor de Dente ? Essa é uma questão comum mas que pode ser
+  respondida de forma fácil. Veja agora pequenas dicas para você.
+date: 2017-01-30T09:23:19.000Z
+featured_image: /images/uploads/2017/01/como-aliviar-a-dor-de-dente.jpg
 ---
 
 Dentista e dor de dente são duas coisas que ninguém gosta de pensar. Entretanto o dentista é essencial para a saúde bucal e por consequência para evitar a dor. Não observando uma rotina de consultas para revisão e acompanhamento da situação dos dentes, é muito provável que aconteça problemas dentários. Nesse caso, sempre acontece o questionamento de como aliviar a dor de dente. Em nosso blog, encontramos diversos textos sobre a {% post_link voce-pode-ter-problemas-nos-dentes-e-nao-saber "importância da revisão" %} constante e também sobre a {% post_link dor-de-dente-3-principais-causas-e-tratamentos "dor de dente" %}. Nesse texto eu vou abordar sobre **como aliviar a dor de dente** e seus desdobramentos.
