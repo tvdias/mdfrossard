@@ -1,11 +1,10 @@
 ---
-title: 3 Segredos sobre o Dente Inflamado
-featured_image: '/images/uploads/2016/01/mau-hálito.jpg'
-featured_image_150: '/images/uploads/2016/01/mau-hálito-150x150.jpg'
-categories:
-  - Sem categoria
-date: 2018-06-27 10:00:27
-tags:
+title: 'Dente Inflamado - Veja 3 segredos sobre ele agora. '
+description: >-
+  O dente inflamado é uma condição que ocasiona muita dor e desconforto. Leia
+  agora o texto completo sobre esse tema e veja 3 segredos sobre isso.
+date: 2018-06-27T10:00:27.000Z
+featured_image: /images/uploads/2016/01/mau-hálito.jpg
 ---
 
 Todos sabemos que devemos cuidar da nossa saúde bucal. Caso isso não ocorra iremos ter problemas sérios em nossos dentes e gengiva, ninguém esta alheio a isso. Sem a correta higienização da boca, podemos ter um **dente inflamado**. Nesse caso precisamos tratar dele com urgência, já que é comum a dor ser muito grande. Portanto é preciso saber como tratar e evitar que esse problema aconteça. Leia esse texto agora para saber 3 segredos sobre o dente inflamado
