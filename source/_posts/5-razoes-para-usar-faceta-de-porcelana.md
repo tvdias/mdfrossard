@@ -1,10 +1,10 @@
 ---
-title: '[infográfico] 5 Razões para usar Faceta de Porcelana'
-featured_image: '/images/uploads/2015/08/faceta-porcelana.jpg'
-categories:
-  - Sem categoria
-date: 2015-09-08 15:15:27
-tags:
+title: Faceta de Porcelana - 5 Razões para usar e mudar Seu sorriso
+description: >-
+  A Faceta de Porcelana pode mudar completamente o seu sorriso e auto-estima.
+  Veja as principais indicações para você e mude também.
+date: 2015-09-08T15:15:27.000Z
+featured_image: /images/uploads/2015/08/faceta-porcelana.jpg
 ---
 
 A procura por tratamentos estéticos está cada vez maior em nossa população. Segundo [reportagem recente](http://g1.globo.com/bemestar/noticia/2014/07/brasil-se-torna-pela-primeira-vez-lider-em-cirurgias-plasticas-diz-organizacao.html), o Brasil se tornou o líder em cirurgias plásticas, passando a frente dos EUA. Esse fenômeno também está presente nos consultórios odontológicos. Antigamente, grande parte dos pacientes procuravam atendimento devido a dor, atualmente a maior procura é para tratamentos estéticos. Seja para melhorar a cor, o posicionamento e o formato do dente, a demanda pela estética tem aumentando. Nesse quadro um tratamento se destaca é o uso da **Faceta de Porcelana. **Devido a maior divulgação desse trabalho ou pela rapidez na mudança do sorriso, muitos pacientes chegam ao consultório com a intenção de usar facetas de porcelana. Antes, vamos ver quais as principais razões para o seu uso. Assim, você saberá se esse trabalho estético é o melhor para o seu caso.
