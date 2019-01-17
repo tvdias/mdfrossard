@@ -1,16 +1,10 @@
 ---
 title: Conheça o check up digital preventivo para os dentes.
-tags:
-  - camera intra oral
-  - dentista
-  - odontologia
-  - prevenção
-url: 382.html
-featured_image: '/images/uploads/2013/07/14.jpg'
-id: 382
-categories:
-  - Sem categoria
-date: 2014-10-19 10:00:19
+description: >-
+  O check up digital preventivo é a nova e melhor forma de realizar as revisões
+  no dentista de maneira tranquila e segura. Veja agora. 
+date: 2014-10-19T10:00:19.000Z
+featured_image: /images/uploads/2013/07/14.jpg
 ---
 
 Check up digital preventivo na odontologia, você sabe o que é isso? Então leia esse texto para saber como praticamente eliminar problemas nos dentes.
