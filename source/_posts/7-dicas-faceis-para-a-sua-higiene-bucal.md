@@ -1,10 +1,10 @@
 ---
 title: 7 Dicas fáceis para a sua Higiene Bucal
-featured_image: '/images/uploads/2015/08/higiene-bucal.jpg'
-categories:
-  - Sem categoria
-date: 2015-08-17 10:30:39
-tags:
+description: >-
+  Mude a saúde dos seus dentes com pequenas dicas sobre Higiene Bucal. Você pode
+  alcançar uma boca muito mais saudável. Aprenda agora.
+date: 2015-08-17T10:30:39.000Z
+featured_image: /images/uploads/2015/08/higiene-bucal.jpg
 ---
 
 Atualmente percebemos uma grande demanda dos pacientes por [estética](/tratamentos/estetica-dos-dentes/). A procura por tratamento restauradores do tipo {% post_link facetas-dentais "facetas dentárias" %} é grande, porém o que devemos pensar é na longevidade desses tipos de trabalhos. A melhor resposta para esse questionamento é a correta **higiene bucal**. Com pequenas dicas de higiene bucal podemos evitar que tratamentos estéticos causem problemas a curto prazo. Além disso, em dentes íntegros, sem nenhum tratamento, conservamos sua vitalidade e saúde com a implementação de simples técnicas de higiene dental. Para facilitar você, vou explicar algumas dicas fáceis de serem implementadas.
