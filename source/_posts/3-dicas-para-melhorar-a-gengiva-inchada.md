@@ -1,10 +1,10 @@
 ---
-title: Gengiva Inchada - 3 Dicas para melhorar
-featured_image: '/images/uploads/2018/02/higienização-da-gengiva-inchada.jpg'
-categories:
-  - Sem categoria
-date: 2018-03-05 08:00:56
-tags:
+title: Gengiva Inchada - 3 Dicas fáceis para melhorar
+description: >-
+  A gengiva inchada é um problema comum e causa problemas para a nossa saúde. É
+  preciso tratar e prevenir esse problema. Veja agora 3 dicas práticas.
+date: 2018-03-05T08:00:56.000Z
+featured_image: /images/uploads/2018/02/higienização-da-gengiva-inchada.jpg
 ---
 
 A gengiva inchada é um problema recorrente que pode ocasionar desconforto constante em nossa boca. E quando soma-se a isso o {% post_link gengiva-sangrando "sangramento e dor" %} na região afetada? Desconfortável demais, não é mesmo? Existem diversos fatores causais e dependendo de qual seja, o tratamento pode ser totalmente diferente. Como exemplo de causas, a mais comum é a higiene bucal inadequada. Porém, fatores hormonais, o cigarro, o uso de certos medicamentos e até tratamento de quimioterapia são outras causas para se ter a gengiva inchada. A melhora gengival só é viável quando sabemos a causa do problema. Entretanto, gostaria de compartilhar 3 dicas práticas.
