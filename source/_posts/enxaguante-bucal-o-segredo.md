@@ -1,10 +1,10 @@
 ---
 title: O segredo do Enxaguante Bucal. Você deve usar ou não ?
-featured_image: '/images/uploads/2017/08/enxaguante-bucal-1.jpg'
-categories:
-  - Sem categoria
-date: 2017-09-04 08:00:57
-tags:
+description: >-
+  Será o Enxaguante Bucal essencial na nossa escovação ? Podemos usar somente
+  ele na higiene bucal diária ? Leia o texto agora e descubra !
+date: 2017-09-04T08:00:57.000Z
+featured_image: /images/uploads/2017/08/enxaguante-bucal-1.jpg
 ---
 
 Escovar os dentes 3 vezes ao dia ou após as refeições e também usar o fio dental constantemente para manter uma boa saúde da gengiva e dos dentes. Sim, eu sei, você já ouviu essa frase várias vezes do seu dentista. Mesmo assim, vale lembrar, já que muitos ignoram completamente esse hábito saudável. Entretanto, nesse texto, eu não quer discutir sobre a {% post_link escovacao-dos-dentes "técnica de escovação" %} nem sobre o uso do Fio Dental. Mas quero falar com você sobre um terceiro aspecto da nossa higiene diária. Estou falando do **Enxaguante Bucal**. Ele tem se tornado uma mania e muitos defendem que sua atuação é fundamental para uma ótima higiene bucal. Será mesmo ? Portanto, leia o texto até o final para saber alguns pontos básicos sobre o enxaguante bucal :
