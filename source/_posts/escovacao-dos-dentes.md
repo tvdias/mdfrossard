@@ -1,15 +1,10 @@
 ---
-title: Como realizar a correta escovação dos dentes ?
-tags:
-  - dentista
-  - escovação
-  - odontologia
-url: 358.html
-featured_image: '/images/uploads/2015/02/escovação-pasta.png'
-id: 358
-categories:
-  - Sem categoria
-date: 2015-02-16 10:00:49
+title: Como realizar a correta escovação dos dentes ? Tire Suas dúvidas.
+description: >-
+  A escovação dos dentes é essencial para a sua saúde bucal . Veja agora como
+  realizar a correta técnica e melhore a saúde dos seus dentes.
+date: 2015-02-16T10:00:49.000Z
+featured_image: /images/uploads/2015/02/escovação-pasta.png
 ---
 
 Todos sabem qual é o melhor caminho pra prevenir doenças bucais de ocorrerem, a boa e velha **escovação dos dentes.** Nesse texto, quero explicar como realizar corretamente a técnica de escovação e do uso do fio dental. A correta higiene bucal irá proporcionar um hálito puro e saudável, além de diminuir a chance de ter a {% post_link como-evitar-a-carie-dentaria "doença cárie" %} ou {% post_link gengiva-sangrando "periodontal" %}. Para fazer um bom trabalho de escovação dos dentes necessita-se de pelo menos dois minutos usando a técnica recomendada.
