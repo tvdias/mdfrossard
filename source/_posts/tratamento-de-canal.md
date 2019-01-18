@@ -1,12 +1,10 @@
 ---
-title: '[infográfico] Tratamento de canal - Tudo o que você precisa saber'
-url: 1919.html
-featured_image: '/images/uploads/2016/05/tratamento-de-canal.jpg'
-id: 1919
-categories:
-  - Sem categoria
-date: 2016-06-06 10:10:42
-tags:
+title: Tratamento de canal - Quando precisamos realizar esse procedimento ?!
+description: >-
+  Aprenda absolutamente tudo sobre o Tratamento de Canal. Ele pode ser rápido e
+  indolor, saiba se o canal do dente é o procedimento certo para você.
+date: 2016-06-06T10:10:42.000Z
+featured_image: /images/uploads/2016/05/tratamento-de-canal.jpg
 ---
 
 Você já sentiu aquela dor de dente muito forte, que você não sabe o que fazer ? Se a resposta for positiva, você sabe que essa sensação é uma das piores que existem. Também pode ser indicativo de que você precisa realizar o **tratamento de canal**. Tudo pode começar com uma pequena {% post_link como-evitar-a-carie-dentaria "cárie dental" %}, que se não tratada progride de pouco em pouco até comprometer o dente por completo. Quando a cárie chega perto da [polpa dentária](https://pt.wikipedia.org/wiki/Polpa_dentária) (onde fica o nervo do dente), começamos a sentir um desconforto, como ao ingerir água gelada. Após esse primeiro sinal e se não procurarmos atendimento adequado, podemos sentir uma dor aguda. Quando isso acontece é preciso realizar o tratamento de canal do dente para eliminando o desconforto. Nesse texto, quero conversar com vocês sobre como é realizado o tratamento de canal.
