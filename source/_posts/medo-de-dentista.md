@@ -1,13 +1,10 @@
 ---
-title: Medo de Dentista - Como Superar?
-featured_image: '/images/uploads/2014/07/Medo-de-dentista.png'
-author: Luciana Vieira Peroni
-date: 2014-08-11 10:00:20
-categories:
-  - Tratamentos
-tags:
-  - medo de dentista
-  - odontologia
+title: 'Medo de dentista, como superar esse problema ? Veja agora. '
+description: >-
+  O medo de dentista pode estar relacionado a vários fatores, como um trauma na
+  infância. Veja aqui como superar esse trauma e sorrir novamente.
+date: 2014-08-11T10:00:20.000Z
+featured_image: /images/uploads/2014/07/Medo-de-dentista.png
 ---
 
 Hoje o tema que abordaremos é sobre algo muito comum na população: o **medo de dentista** ou do {% post_link tratamento-dentario "tratamento dentário" %}.
