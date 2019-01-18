@@ -1,12 +1,10 @@
 ---
 title: Saiba o melhor pós operatório após uma extração de dente
-url: 1877.html
-featured_image: '/images/uploads/2016/03/extração-de-dente.jpg'
-id: 1877
-categories:
-  - Sem categoria
-date: 2016-04-25 09:39:44
-tags:
+description: >-
+  Você sabe qual o melhor pós operatório para uma extração de dente ? Com as
+  corretas informações a extração de dente pode ser menos dolorosa.
+date: 2016-04-25T09:39:44.000Z
+featured_image: /images/uploads/2016/03/extração-de-dente.jpg
 ---
 
 O {% post_link medo-de-dentista "medo de dentista" %} é o ponto mais citado em várias pesquisas sobre traumas. Você também pode ter esse medo. Porém, para cuidar e tratar problemas em seus dentes é preciso ir ao dentista. Quando finalmente superamos nosso medo inicial e vamos ao consultório dentário, podemos receber a infeliz notícia que é preciso realizar uma **extração de dente**. O fato de ter postergado a visita ao dentista causa problemas como a {% post_link como-evitar-a-carie-dentaria "cárie dentária" %} e o {% post_link gengiva-sangrando "sangramento gengival." %}  Como esses problemas não foram detectados precocemente, a condição do dente pode ser grave o que culmina na indicação mais grave, sua remoção. Em nossa clínica recebemos pacientes com este histórico. Diversas dúvidas sobre o tema da extração de dente são feitas :
