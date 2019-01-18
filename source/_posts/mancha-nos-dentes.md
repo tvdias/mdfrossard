@@ -1,15 +1,10 @@
 ---
-title: Os 5 principais tipos de Mancha nos dentes
-tags:
-  - dentista
-  - estética
-  - odontologia
-url: 728.html
-featured_image: '/images/uploads/2014/06/mancha-nos-dentes.jpg'
-id: 728
-categories:
-  - Estética
-date: 2014-06-02 16:27:59
+title: 'Mancha nos Dentes - Os 5 principais tipos. Veja agora. '
+description: >-
+  Você sabe o que pode causar Mancha nos Dentes? Veja quais são os 5 principais
+  fatores que alteram a cor do seu dente. Aprenda também como tratar.
+date: 2014-06-02T16:27:59.000Z
+featured_image: /images/uploads/2014/06/mancha-nos-dentes.jpg
 ---
 
 **Mancha nos dentes** são muito mais comuns do que se imagina. Muitas delas são de tamanho pequeno e de fácil ajuste. Outras, porém, são mais complicadas e precisam ter um diagnóstico para um tratamento diferenciado. Dessa forma, temos **alterações de cor chamadas de extrínsecas (na parte de fora do dente)**, que são ocasionadas do uso em excesso de chá, café, cigarro, bebidas com corantes artificiais ou até acúmulo de placa. O tratamento dessas alterações é mais simples de ser realizado. Temos também as chamadas **manchas intrínsecas (na parte de dentro dos dentes)** ocasionadas pelo uso de antibiótico tetraciclina e fluorose dental (uso e ingestão de flúor na infância, de forma inapropriada, que acaba manchando os dentes permanentes) ou até dentes que receberam um trauma. Em nosso consultório realizamos diferentes tipos de tratamentos estéticos para melhorar e acabar com essas manchas nos dentes, como profilaxia e jateamento com bicarbonato de sódio, clareamento dental, restaurações diretas, coroas e facetas. Assim, é importante que o paciente saiba quais tipos de manchas nos dentes ele possui e seu correto tratamento. **_Continue lendo para saber :_**
