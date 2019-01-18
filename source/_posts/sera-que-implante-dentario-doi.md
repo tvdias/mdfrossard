@@ -1,12 +1,10 @@
 ---
-title: Será que implante dentário dói ?
-url: 1891.html
-featured_image: '/images/uploads/2016/03/implante-dentário-dói.jpg'
-id: 1891
-categories:
-  - Sem categoria
-date: 2016-05-09 10:00:19
-tags:
+title: Será que Implante Dentário dói ? Descubra agora e perca o medo.
+description: >-
+  Muitos querem colocar implante, mas ficam com dúvida se Implante Dentário Dói.
+  Nesse texto explicamos sobre implantes e o controle da dor.
+date: 2016-05-09T10:00:19.000Z
+featured_image: /images/uploads/2016/03/implante-dentário-dói.jpg
 ---
 
 Dor. Essas 3 letras me causam dor de cabeça só de imaginar. Eu detesto sentir dor seja a mais leve possível. Com toda certeza eu posso afirmar que você também odeia essa palavra. Porém, pensando de outra maneira, apesar de ser contraditório, a [dor](http://www.sbed.org.br/materias.php?cd_secao=74) pode nos avisar que algo esta errado e precisamos procurar orientação. Porém, nesse texto, eu não quero abordar esse tipo de dor e sim o desconforto que pode acontecer após uma cirurgia dentária, sendo mais específico, após a instalação de um {% post_link implante-dentario "implante dentário" %}. Escutamos muito em nossa rotina clínica a seguinte pergunta , **“instalar implante dentário dói? ”**. Apesar de termos um índice de sucesso alto com implantes dentários, a dor ainda pode acontecer. Sobre isto que conversaremos a seguir.
