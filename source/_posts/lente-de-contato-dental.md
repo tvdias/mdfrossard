@@ -1,13 +1,10 @@
 ---
 title: Lente de Contato Dental - 4 pontos que devemos saber
-url: 2039.html
-featured_image: >-
-  /images/uploads/2017/05/lente-de-contato-dental.jpg
-id: 2039
-categories:
-  - Sem categoria
-date: 2017-05-15 13:45:45
-tags:
+description: >-
+  A lente de contato dental é um ótimo tratamento estético quando bem indicado.
+  Com as lentes podemos transformar o sorriso. Leia agora o texto completo.
+date: 2017-05-15T13:45:45.000Z
+featured_image: /images/uploads/2017/05/lente-de-contato-dental.jpg
 ---
 
 Estética e beleza, quem não quer ter? A odontologia, aliada a outras especialidades, pode transformar o rosto de uma pessoa. O dentista tem um papel primordial nesse aspecto, já que ele é responsável por alterar um ponto essencial, o sorriso. Atualmente, o tratamento em destaque é o uso de **lentes de contato dental.** Mas o que elas têm de tão diferente na odontologia e o que elas trazem de vantagem para vocês, nossos clientes? É isso que vamos discutir nesse texto. Continue e veja nesse texto -
