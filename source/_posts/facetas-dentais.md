@@ -1,13 +1,10 @@
 ---
-title: 'Facetas Dentais, Mude o seu sorriso'
-featured_image: '/images/uploads/2014/03/Faceta-dental-estética.jpg'
-tags:
-  - dentista
-  - facetas dentais
-  - odontologia
-categories:
-  - Estética
-date: 2014-07-04 10:08:43
+title: Facetas Dentais - Veja como esse tratamento pode mudar seu sorriso
+description: >-
+  Saiba tudo sobre as Facetas Dentais. Leia sobre as 6 principais indicações
+  desse tratamento, assim como suas principais vantagens e desvantagens. 
+date: 2014-07-04T10:08:43.000Z
+featured_image: /images/uploads/2014/03/Faceta-dental-estética.jpg
 ---
 
 A demanda por **facetas dentais e lente de contato dental** aumentaram muito nos últimos tempos. Isso se deve ao fato desses tratamentos estéticos melhorem muito a aparência do nosso sorriso. Com o uso de facetas dentais, buscamos um tratamento menos invasivo que,  ao contrário da confecção de coroas, demandará menor desgaste dental. Essa opção de tratamento pode ser usada para corrigir a aparência estética de um dente ou do sorriso todo. Entretanto, nem todos podem realizar esse tratamento já que alguns critérios são necessários. Continue lendo esse texto para aprender sobre :
