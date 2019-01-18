@@ -1,12 +1,10 @@
 ---
-title: É Possível ter uma Dentadura Fixa ?
-url: 1164.html
-featured_image: '/images/uploads/2015/02/Dentadura-e-implantes.jpg'
-id: 1164
-categories:
-  - Sem categoria
-date: 2015-03-30 10:00:07
-tags:
+title: Dentadura Fixa - É possível ter os dentes fixos novamente ?
+description: >-
+  Quer ter uma dentadura fixa ? Esse trabalho é possível e apresenta muitas
+  vantagens. Para saber mais, leia o texto completo.
+date: 2015-03-30T10:00:07.000Z
+featured_image: /images/uploads/2015/02/Dentadura-e-implantes.jpg
 ---
 
 Nesse blog já foi discutido sobre o cuidado que devemos ter com as {% post_link o-cuidado-com-a-dentadura "dentaduras" %} assim como suas vantagens e desvantagens. Apesar das próteses removíveis serem boas e conseguirem devolver de forma satisfatória a mastigação e a estética, elas ainda não são fixas, causando insegurança ao falar e ao mastigar. Assim, muitos pacientes nos perguntam: **não seria possível ter uma Dentadura fixa ?** A resposta é sim ! Esse tipo de trabalho é feito cada vez mais em consultórios dentários e é chamado pelos dentistas de “Prótese fixa sobre implantes” ou ainda “Protocolo".
