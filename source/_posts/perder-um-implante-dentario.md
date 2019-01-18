@@ -1,13 +1,10 @@
 ---
-title: Será possível perder um Implante Dentário ?
-url: 1860.html
-featured_image: >-
-  /images/uploads/2016/02/podemos-perder-um-implante-dentário1.jpg
-id: 1860
-categories:
-  - Sem categoria
-date: 2016-03-01 10:00:04
-tags:
+title: 'Será possível perder um Implante Dentário ? Tire todas as suas dúvidas. '
+description: >-
+  Afinal, será que podemos perder um implante dentário ? Devemos ficar atentos
+  para isso não acontecer. Leia o texto e evite esse problema.
+date: 2016-03-01T10:00:04.000Z
+featured_image: /images/uploads/2016/02/podemos-perder-um-implante-dentário1.jpg
 ---
 
 Recebemos diversas perguntas em nosso site, porém um tópico se destaca: o [implante dentário](/implante-dentario/). Talvez por ser um tratamento recente ou por precisar de uma cirurgia (o que em alguns gera medo), o implante gera bastante dúvidas. Dentre elas, a que mais se destaca é: **“posso perder um implante dentário?”** Por isso, resolvi escrever sobre este tema e tentar sanar todas as dúvidas.
