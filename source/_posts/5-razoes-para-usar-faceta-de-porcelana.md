@@ -6,11 +6,15 @@ description: >-
 date: 2015-09-08T15:15:27.000Z
 featured_image: /images/uploads/2015/08/faceta-porcelana.jpg
 ---
-A procura por tratamentos estéticos está cada vez maior em nossa população. Segundo [reportagem recente](http://g1.globo.com/bemestar/noticia/2014/07/brasil-se-torna-pela-primeira-vez-lider-em-cirurgias-plasticas-diz-organizacao.html), o Brasil se tornou o líder em cirurgias plásticas, passando a frente dos EUA. 
+A procura por tratamentos estéticos está cada vez maior em nossa população. 
 
-Esse fenômeno também está presente nos consultórios odontológicos. Antigamente, grande parte dos pacientes procuravam atendimento devido a dor, atualmente a maior procura é para tratamentos estéticos. 
+Segundo [reportagem recente](http://g1.globo.com/bemestar/noticia/2014/07/brasil-se-torna-pela-primeira-vez-lider-em-cirurgias-plasticas-diz-organizacao.html), o Brasil se tornou o líder em cirurgias plásticas, passando a frente dos EUA. Esse fenômeno também está presente nos consultórios odontológicos. 
 
-Seja para melhorar a cor, o posicionamento e o formato do dente, a demanda pela estética tem aumentando. Nesse quadro um tratamento se destaca é o uso da **Faceta de Porcelana. **
+Antigamente, grande parte dos pacientes procuravam atendimento devido a dor, atualmente a maior procura é para tratamentos estéticos. 
+
+Seja para melhorar a cor, o posicionamento e o formato do dente, a demanda pela estética tem aumentando. 
+
+Nesse quadro um tratamento se destaca é o uso da **Faceta de Porcelana. **
 
 Devido a maior divulgação desse trabalho ou pela rapidez na mudança do sorriso, muitos pacientes chegam ao consultório com a intenção de usar facetas de porcelana. 
 
@@ -22,7 +26,9 @@ Antes, vamos ver quais as principais razões para o seu uso. Assim, você saber�
 
 A estética elevada da {% post_link facetas-dentais "faceta dentária" %} se deve ao fato dela ser feita em porcelana, o que possibilita mimetizar de forma bastante fiel a anatomia do dente, devolvendo sua correta cor e o formato ideal do sorriso. 
 
-Entretanto, em grande parte dos casos, temos que realizar desgastes pontuais no dente para o assentamento correto da faceta. Assim, a correta indicação de cada caso é importante.
+Entretanto, em grande parte dos casos, temos que realizar desgastes pontuais no dente para o assentamento correto da faceta. 
+
+Assim, a correta indicação de cada caso é importante.
 
 #### **1 ) Cor alterada do dente**
 
@@ -58,27 +64,33 @@ Os espaços entre os dentes são uma das principais indicações para faceta, po
 
 Quando temos fratura de dente ou restaurações antigas em resina, a faceta de porcelana pode ser uma ótima opção de tratamento. 
 
-Sempre temos que avaliar o tamanho da fratura e da restauração de resina. Em determinados casos, temos que mudar o planejamento para tratamentos maiores como a instalação de coroas dentárias.
+Sempre temos que avaliar o tamanho da fratura e da restauração de resina. 
+
+Em determinados casos, temos que mudar o planejamento para tratamentos maiores como a instalação de coroas dentárias.
 
 #### **5 ) Reabilitação dentária**
 
 As facetas de porcelana também podem fazer parte de um {% post_link tratamento-dentario "tratamento de reabilitação dentária" %}. 
 
-Nesse caso, mudamos completamente o sorriso do paciente, já que temos que mexer em diversos dentes. Em um mesmo caso, podemos usar coroas, implantes e facetas. 
+Nesse caso, mudamos completamente o sorriso do paciente, já que temos que mexer em diversos dentes.
 
-Tudo proporcionando buscar a melhor estética para o nosso paciente.
+Em um mesmo caso, podemos usar coroas, implantes e facetas. Tudo proporcionando buscar a melhor estética para o nosso paciente.
 
 ## O sorriso com a faceta de porcelana fica artificial ?
 
-Sinceramente, pode ficar artificial criando um aspecto ruim no sorriso.  É comum ver pessoas com dente muito branco ou com um formato do dente meio "estranho". 
+Sinceramente, pode ficar artificial criando um aspecto ruim no sorriso.  
 
-Portanto, o planejamento inicial é extremamente importante para evitar um aspecto ruim no sorriso. E como realizar esse planejamento? 
+É comum ver pessoas com dente muito branco ou com um formato do dente meio "estranho". Portanto, o planejamento inicial é extremamente importante para evitar um aspecto ruim no sorriso. 
+
+E como realizar esse planejamento? 
 
 A resposta está nas fotos! 
 
 O uso de câmeras com alta resolução possibilita mostrar para você os principais problemas presentes no seu dente, assim como demostrar uma prévia final do tratamento. 
 
-A questão da cor também é algo importante no sorriso com faceta de porcelana. O dente com a cor muito branca irá facilmente deixar a estética artificial, portanto seguir a cor presente nos demais dentes é muito importante.
+A questão da cor também é algo importante no sorriso com faceta de porcelana. 
+
+O dente com a cor muito branca irá facilmente deixar a estética artificial, portanto seguir a cor presente nos demais dentes é muito importante.
 
 ## Vídeo sobre Faceta Dentária 
 
@@ -101,14 +113,16 @@ Então é necessário saber antecipadamente alguns fatores básicos antes de for
 
 Essas e outras dúvidas só podem ser respondidas com a consulta de análise clínica, onde vamos saber o que precisa ser feito e assim realizar o correto planejamento. 
 
-Consequentemente o preço somente pode ser dado após essa análise. Antecipadamente posso adiantar que não é um tratamento barato, pois envolve uma série de procedimentos que, se negligenciados, podem afetar a qualidade e longevidade da faceta. 
+Consequentemente o preço somente pode ser dado após essa análise. 
 
-O valor de um profissional para outro pode variar bastante, uma vez que a experiência e o material utilizado são fatores essenciais na construção do preço. O suporte do profissional para o paciente é reflexo da confiança e investimento que ele pratica.
+Antecipadamente posso adiantar que não é um tratamento barato, pois envolve uma série de procedimentos que, se negligenciados, podem afetar a qualidade e longevidade da faceta. 
+
+O valor de um profissional para outro pode variar bastante, uma vez que a experiência e o material utilizado são fatores essenciais na construção do preço. 
+
+O suporte do profissional para o paciente é reflexo da confiança e investimento que ele pratica.
 
 ## Infográfico sobre Faceta de porcelana 
 
 ![Faceta de Porcelana](/images/uploads/2015/09/Faceta-de-porcelana.-1.jpeg)   
-
-
 
 Att, Davi Frossard
