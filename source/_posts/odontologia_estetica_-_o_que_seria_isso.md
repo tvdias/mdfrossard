@@ -18,7 +18,7 @@ Os 5 principais são o clareamento dental, a realização de facetas, instalaç�
 
 Dentro da odontologia estética, talvez o clareamento dental seja o tratamento mais simples e que pode apresentar um ótimo resultado dentro de pouco tempo. Digo isso, pois não é necessário realizar nenhum desgaste ou cirurgia no dente. 
 
-Existem duas formas de realizar esse procedimento, no consultório dentário e em casa. Você pode ler o guia completo do clareamento dental, clicando aqui.
+Existem duas formas de realizar esse procedimento, no consultório dentário e em casa. Você pode ler o [guia completo do clareamento dental, clicando aqui.](https://mdfrossard.com.br/clareamento-dental/)
 
 ## FACETA DENTÁRIA
 
@@ -26,13 +26,13 @@ A faceta dentária ou também chamadas de lente de contato, atualmente são as �
 
 A faceta se diferencia da lente de contato somente na espessura do trabalho. As lentes de contato dental geralmente são mais finas. 
 
-Esse trabalho visa restabelecer a estética do sorriso, instalando pequenos fragmentos de cerâmica na “parte da frente”do dente. Também temos um texto completo sobre esse tema aqui. 
+Esse trabalho visa restabelecer a estética do sorriso, instalando pequenos fragmentos de cerâmica na “parte da frente”do dente. Também temos um texto completo sobre esse [tema aqui](https://mdfrossard.com.br/facetas-dentais/). 
 
 ## COROAS DENTÁRIAS
 
 As coroas dentárias são feitas quando se tem grande parte do dente destruído pela cárie ou por fratura. Elas apresentam um grande ganho de estética já que são feitas seguindo a cor e o formato do dente natural do paciente. 
 
-Existem vários tipos de materiais que podemos usar para realizar esse tratamento. Para ilustrar melhor, possuímos um infográfico completo explicando detalhadamente o procedimento.
+Existem vários tipos de materiais que podemos usar para realizar esse tratamento. Para ilustrar melhor, possuímos um [infográfico completo](https://mdfrossard.com.br/coroa-dentaria/) explicando detalhadamente o procedimento.
 
 ## CIRURGIA GENGIVAL
 
