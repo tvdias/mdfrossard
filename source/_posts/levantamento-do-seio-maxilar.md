@@ -1,13 +1,11 @@
 ---
-title: 'Levantamento do seio Maxilar, o que isso seria?'
-url: 783.html
-featured_image: >-
-  /images/uploads/2014/07/Levantamento-seio-maxilar.png
-id: 783
-categories:
-  - Tratamentos
-date: 2014-07-28 10:47:00
-tags:
+title: Levantamento do Seio Maxilar - Esse Tratamento é seguro ?!
+description: >-
+  A Cirurgia de Levantamento do seio maxilar causa várias dúvidas entre os
+  pacientes. Leia o texto agora e saiba se é possível realizar esse
+  procedimento.
+date: 2014-07-28T10:47:00.000Z
+featured_image: /images/uploads/2014/07/Levantamento-seio-maxilar.png
 ---
 
 Muitos pacientes que perderam os dentes posteriores superiores a bastante tempo e precisam colocar [implantes dentários](/tratamentos/implante-dentario/ "Implantodontia"), na maioria das vezes precisam realizar uma cirurgia prévia, chamada **levantamento do seio maxilar.** Boa parte da população não conhece este procedimento. Assim, com este artigo busco explicar da forma mais simples possível como é feito esse tipo de cirurgia, suas indicações e contra-indicações.
