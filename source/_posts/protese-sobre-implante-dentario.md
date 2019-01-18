@@ -1,11 +1,10 @@
 ---
-title: Prótese sobre implante dentário
-featured_image: "/images/uploads/2018/07/Protese-sobre-implante.jpg"
-featured_image_150: "/images/uploads/2018/07/Protese-sobre-implante-150x150.jpg"
-categories:
-  - Sem categoria
-date: 2018-08-13 10:00:58
-tags:
+title: Prótese sobre implante dentário - Você sabe o que é ?
+description: >-
+  A prótese sobre implante é a melhor alternativa para quando se perde um dente.
+  Sua estética e durabilidade são ótimas desde que bem cuidadas.
+date: 2018-08-13T10:00:58.000Z
+featured_image: /images/uploads/2018/07/Protese-sobre-implante.jpg
 ---
 
 Infelizmente existem situações que podem levar a perda de um dente. Nesse caso é preciso realizar sua reposição para evitar problemas de mastigação e estética. Atualmente, na odontologia, a instalação de uma **prótese sobre implante** dentário talvez seja a melhor opção para repor o dente perdido. Entretanto, ainda existem diversas dúvidas sobre esse tipo de tratamento. _Portanto continue lendo para saber sobre :_
