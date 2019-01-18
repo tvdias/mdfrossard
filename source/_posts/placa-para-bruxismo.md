@@ -1,12 +1,10 @@
 ---
 title: Placa para Bruxismo - Um ótimo tratamento para o ranger dos dentes
-url: 2543.html
-featured_image: '/images/uploads/2018/03/placa-de-bruxismo.jpg'
-id: 2543
-categories:
-  - Sem categoria
-date: 2018-03-19 08:00:14
-tags:
+description: >-
+  A placa para bruxismo é um tratamento fácil e rápido de ser realizado. Ela
+  protege os dentes contra o ranger deles e pode diminuir a dor de cabeça.
+date: 2018-03-19T08:00:14.000Z
+featured_image: /images/uploads/2018/03/placa-de-bruxismo.jpg
 ---
 
 Dor de cabeça ou na musculatura da face, aliado ao desgaste do dente são alguns fatores relacionados ao {% post_link bruxismo-tratamento "bruxismo" %}. Infelizmente, esse problema é cada vez mais comum nos consultórios dentários. Muitos pacientes estão com esses sintomas e eles podem gerar grande desconforto na mastigação. Existem diversos tratamentos propostos para esse problema. Porém, o mais comum e fácil de se realizar é a **placa para bruxismo**.
