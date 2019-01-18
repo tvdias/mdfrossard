@@ -1,10 +1,10 @@
 ---
-title: Ranger os Dentes é Normal?
-featured_image: '/images/uploads/2017/07/Ranger-os-dentes-ansiedade.jpg'
-categories:
-  - Sem categoria
-date: 2017-07-24 14:32:30
-tags:
+title: Ranger os dentes é normal ? Saiba tudo sobre isso agora.
+description: >-
+  Ranger os Dentes é um hábito que esta se tornando comum em nossa população.
+  Entretanto isso não necessariamente é bom. Confira agora a razão.
+date: 2017-07-24T14:32:30.000Z
+featured_image: /images/uploads/2017/07/Ranger-os-dentes-ansiedade.jpg
 ---
 
 **Ranger os dentes** virou um hábito comum em nossa população. Por mais incrível que pareça, você provavelmente faz isso, seja de forma consciente ou não. Já estamos cansados de saber que nossa rotina está mais corrida, estressante, e que não conseguimos executar tudo o que precisamos durante o dia. Isso tem causado vários problemas de saúde, incluindo o ranger dos dentes. Se você estiver perguntando se esse hábito é normal, pare e pense… Sim, ranger os dentes é muito ruim. Não somente para os dentes mas para toda a musculatura da face. É sobre isso que quero explicar para vocês hoje. Ranger os dentes não é algo normal e gera uma série de problemas.
