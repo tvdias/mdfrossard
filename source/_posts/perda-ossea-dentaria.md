@@ -1,13 +1,10 @@
 ---
-title: Perda óssea Dentária
-url: 1848.html
-featured_image: >-
-  /images/uploads/2016/02/radiografia-panoramica-dentista-analisa.jpg
-id: 1848
-categories:
-  - Sem categoria
-date: 2016-02-15 10:00:39
-tags:
+title: Perda Óssea Dentária - Veja as causas e como evitar.
+description: >-
+  A perda óssea dentária se não for tratada de forma adequada  causa problemas
+  nos dentes. Veja agora como a falta de higiene pode agravar essa situação. 
+date: 2016-02-15T10:00:39.000Z
+featured_image: /images/uploads/2016/02/radiografia-panoramica-dentista-analisa.jpg
 ---
 
 A **perda óssea dentária** é uma situação que pode acontecer independente da idade e varia conforme o caso. Dessa forma, será que devemos nos preocupar com a perda óssea em nossa boca? Antes, devemos ter em mente que a perda óssea dentária é mais comum quando ficamos mais velhos. Porém, quando alguma patologia está associada, esse processo pode ser mais rápido. O mais importante é saber que existem maneiras de diminuir a evolução da perda óssea nos dentes. **Nesse texto você vai ler :**
