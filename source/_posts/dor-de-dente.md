@@ -1,12 +1,10 @@
 ---
 title: 'Dor de dente, as 3 principais causas e tratamentos'
-url: 1021.html
-featured_image: '/images/uploads/2014/11/dor-de-dente.jpg'
-id: 1021
-categories:
-  - Sem categoria
-date: 2014-11-17 10:00:22
-tags:
+description: >-
+  Você tem ou já teve dor de dente? Veja agora as 3 principais causas e seus
+  corretos tratamentos para acabar com a dor de dente.
+date: 2014-11-17T10:00:22.000Z
+featured_image: /images/uploads/2014/11/dor-de-dente.jpg
 ---
 
 **Dor de dente** , essas 3 palavras literalmente tiram o sono de muita gente . O desconforto no dente ou na boca ainda acomete grande parte da população, sendo a principal causa de emergência no consultório dentário. Nesse texto irei abordar sobre as causas que levam a dor de dente ou na boca e seu tratamento.
