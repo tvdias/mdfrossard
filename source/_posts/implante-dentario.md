@@ -1,12 +1,10 @@
 ---
 title: Implante Dentário - O Guia Absolutamente Completo
-url: 965.html
-featured_image: '/images/uploads/2014/10/implante-dental-1.jpg'
-id: 965
-categories:
-  - Sem categoria
-date: 2014-10-13 09:00:10
-tags:
+description: >-
+  Saiba tudo sobre o tratamento com Implante Dentário. Ele substitue seu dente
+  perdido, devolvendo sua mastigação, estética e harmonia no sorriso.
+date: 2014-10-13T09:00:10.000Z
+featured_image: /images/uploads/2014/10/implante-dental-1.jpg
 ---
 
 O implante dentário é utilizado com frequência nos consultórios, possibilitando a reposição do dente perdido. Mesmo necessitando de uma cirurgia prévia, eles apresentam a possibilidade de devolver uma ótima mastigação ao paciente. Infelizmente, ainda existem diversas dúvidas sobre este tratamento. Questionamentos sobre a cirurgia, sobre a prótese, sobre a dor na instalação dos implantes dentais são comuns. Portanto, esse texto é para você que precisa realizar esse tratamento, mas tem medo e insegurança. Além disso, se ficar com alguma dúvida é só deixar seu comentário no final do texto. Leia esse guia completo sobre tudo sobre os implantes dentários :
