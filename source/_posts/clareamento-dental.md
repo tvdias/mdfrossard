@@ -187,14 +187,24 @@ A falta de uso do fio dental origina o acumulo de placa dental nessa região cau
 
 #### **3) Observação importante **
 
-Em todo tratamento é necessário um planejamento prévio, pois as restaurações e tratamentos protéticos antigos não são clareados. Portanto, se for realizar um tratamento de clareamento é interessante mudar as resinas antigas.  
+Em todo tratamento é necessário um planejamento prévio, pois as restaurações e tratamentos protéticos antigos não são clareados. 
+
+Portanto, se for realizar um tratamento de clareamento é interessante mudar as resinas antigas.  
 
 #### **4) Posso usar pastas para clareamento compradas em farmácia na hora da escovação dos dentes?**
 
-Em algumas situações os clientes usam as pastas de dente que prometem o branqueamento dos dentes (as chamadas "whitening"). Elas não devem ser usadas durante o clareamento dental, pois possuem um mecanismo de ação diferente dos géis clareadores, sendo mais abrasivas e causando uma maior sensibilidade.  
+Em algumas situações os clientes usam as pastas de dente que prometem o branqueamento dos dentes (as chamadas "whitening"). 
+
+Elas não devem ser usadas durante o clareamento dental, pois possuem um mecanismo de ação diferente dos géis clareadores, sendo mais abrasivas e causando uma maior sensibilidade.  
 
 ## **Orientação do dentista **
 
 ![medo de dentista e os adutos](/images/uploads/2014/08/medo-de-dentista-e-os-adutos.jpg) 
 
-Todo procedimento de clareamento deve ter a orientação do dentista. O gel clareador é agressivo para a gengiva e pode causar algumas lesões, além da possibilidade de gerar sensibilidade nos dentes. Por isso, o dentista é a pessoa que vai orientar o paciente da melhor maneira, evitando que esses problemas ocorram. Att ,  **Davi Frossard **
+Todo procedimento de clareamento deve ter a orientação do dentista. 
+
+O gel clareador é agressivo para a gengiva e pode causar algumas lesões, além da possibilidade de gerar sensibilidade nos dentes. 
+
+Por isso, o dentista é a pessoa que vai orientar o paciente da melhor maneira, evitando que esses problemas ocorram. 
+
+Att ,  **Davi Frossard **
