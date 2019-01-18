@@ -5,6 +5,7 @@ description: >-
   A odontologia estética já é uma realidade em vários consultórios. Ela se
   baseia na realização de vários procedimentos visando melhorar o seu sorriso.
 date: 2019-01-18T18:15:23.964Z
+featured_image: /images/uploads/odontologia_estetica.png
 ---
 A odontologia estética já é uma realidade nos consultórios dentários. Assim como na medicina, os procedimentos rejuvenescedores são cada vez mais procurados e realizados por profissionais capacitados.
 
