@@ -1,12 +1,11 @@
 ---
-title: Tire todas as suas dúvidas sobre a Reabilitação oral
-url: 1818.html
-featured_image: '/images/uploads/2016/01/reabilitação-oral.jpg'
-id: 1818
-categories:
-  - Sem categoria
-date: 2016-01-18 16:47:43
-tags:
+title: Reabilitação oral - Saiba o segredo para mudar os seus dentes.
+description: >-
+  A reabilitação oral pode gerar muitas dúvidas. Ela consiste na total
+  reformulação dos dentes para se adquirir uma melhor mastigação e estética.
+  Leia mais.
+date: 2016-01-18T16:47:43.000Z
+featured_image: /images/uploads/2016/01/reabilitação-oral.jpg
 ---
 
 Com o passar dos anos, podemos passar por diversos {% post_link tratamento-dentario "tratamentos dentários" %}, desde a realização de uma pequena restauração até a extração de um elemento dentário. Além disso, mesmo não realizando nenhum procedimento, ainda podemos ter desgaste dos dentes ou retração gengival. Dessa forma, existem momentos onde precisamos ou queremos devolver novamente a estética dos dentes. Nesse caso, precisamos mexer em vários dentes e envolver diversas especialidades neste processo. A isso chamamos de **Reabilitação Oral.**
