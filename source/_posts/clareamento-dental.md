@@ -155,9 +155,7 @@ Para isso, indicamos uma pasta de sensibilidade para ser usada durante o tratame
 
 Para pacientes com maior sensibilidade após as consultas de branqueamento, podemos realizar aplicação de flúor. 
 
-O mais importante é que a sensibilidade deve ser relatada ao dentista, assim ele pode avaliar, junto ao paciente, a melhor maneira de suportar ou reverter a situação. 
-
-{% post_link sensibilidade-nos-dentes "Veja mais sobre Sensibilidade nos Dentes ( Link ). " %}
+O mais importante é que a sensibilidade deve ser relatada ao dentista, assim ele pode avaliar, junto ao paciente, a melhor maneira de suportar ou reverter a situação.  {% post_link sensibilidade-nos-dentes "Veja mais sobre Sensibilidade nos Dentes ( Link ). " %}
 
 ## Vídeo sobre Clareamento Dental
 
