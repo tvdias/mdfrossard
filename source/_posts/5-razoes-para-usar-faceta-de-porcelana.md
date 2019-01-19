@@ -96,6 +96,8 @@ O dente com a cor muito branca irá facilmente deixar a estética artificial, po
 
 {% youtube Y7PhCPfVUY0 %}
 
+
+
 ## **E o preço da faceta em porcelana ?**
 
 Sim, eu sei, sua principal dúvida é qual valor será pago em um tratamento como esse. 
