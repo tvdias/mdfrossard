@@ -1,12 +1,10 @@
 ---
-title: O que é uma prótese dentária fixa ?
-url: 2024.html
-featured_image: '/images/uploads/2017/02/prótese-dentária-fixa.jpg'
-id: 2024
-categories:
-  - Sem categoria
-date: 2017-02-15 09:55:01
-tags:
+title: O que é uma prótese dentária fixa ? Aprenda tudo.
+description: >-
+  Muitos clientes nos perguntam o que é uma prótese dentária fixa . Nesse texto
+  explicamos o que seria esse tipo de trabalho e quais as suas classificações.
+date: 2017-02-15T09:55:01.000Z
+featured_image: /images/uploads/2017/02/prótese-dentária-fixa.jpg
 ---
 
 Na odontologia procuramos sempre atender o paciente da melhor forma, onde a principal meta é tratar e cuidar da cavidade bucal . Entretanto, caso você não realize as [consulta de prevenção](/tratamentos/prevencao-e-manutencao/) com a freqüência necessária, os dentes podem apresentar problemas. Nesse caso, devemos tratar e restaurar o dente afetado. Quando a destruição do dente é grande, devemos realizar tratamentos maiores, como uma **prótese dentária fixa**. Esse diagnóstico gera uma série de dúvidas no paciente e logo surge a pergunta clássica, mas o que é uma prótese dentária fixa ? E é esse tema que que vou discutir com vocês nesse texto.
