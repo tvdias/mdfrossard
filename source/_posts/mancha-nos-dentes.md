@@ -20,7 +20,7 @@ Em nosso consultório realizamos diferentes tipos de tratamentos estéticos para
 
 Assim, é importante que o paciente saiba quais tipos de manchas nos dentes ele possui e seu correto tratamento. 
 
-_**Continue lendo para saber :**_
+**_Continue lendo para saber :_**
 
 * Sobre os 5 tipos causas de alteração de cor.
 * Os principais tratamentos para manchas nos dentes.
@@ -46,9 +46,7 @@ Assim, além de prejudicar a coloração dos dentes, acabam desenvolvendo outros
 
 O tratamento básico pra essas manchas é um polimento dos dentes, juntamente com o clareamento dental. 
 
-Posteriormente o maior ou menor uso do café, cigarro e etc, vai determinar a volta da cor mais rapidamente. 
-
-{% post_link clareamento-dental "Leia mais sobre Clareamento Dental (clique)" %}
+Posteriormente o maior ou menor uso do café, cigarro e etc, vai determinar a volta da cor mais rapidamente. {% post_link clareamento-dental "Leia mais sobre Clareamento Dental (clique)" %}
 
 
 
@@ -62,9 +60,7 @@ Após a ocorrência de um trauma no dente, pode-se ter um escurecimento deste.
 
 Isso ocorre devido ao extravasamento de sangue para os túmulos dentinários. Geralmente a alteração de cor ocorre em um ou dois dentes que foram acometidos pelo trauma. 
 
-Além de um contínuo acompanhamento radiográfico do dente injuriado, o tratamento para melhorar sua cor pode ser feito utilizando-se desde um clareamento interno a até o preparo deste dente para receber uma coroa de porcelana. 
-
-{% post_link coroa-dentaria "Leia mais sobre Coroa de Porcelana ( Link )" %}
+Além de um contínuo acompanhamento radiográfico do dente injuriado, o tratamento para melhorar sua cor pode ser feito utilizando-se desde um clareamento interno a até o preparo deste dente para receber uma coroa de porcelana. {% post_link coroa-dentaria "Leia mais sobre Coroa de Porcelana ( Link )" %}
 
 
 
@@ -87,6 +83,8 @@ Em casos de restaurações extensas, pode ser necessária a [confecção de coro
 - - -
 
 ![mancha nos dentes por fluorose](/images/uploads/2014/06/mancha-nos-dentes-por-fluorose-300x190.jpg)
+
+
 
 #### O que é -
 
@@ -120,6 +118,8 @@ Vale ressaltar que o flúor é muito importante e que seu uso não deve ser desc
 
 ![mancha nos dentes - tetraciclina](/images/uploads/2014/06/mancha-nos-dentes-tetraciclina-300x200.jpg)
 
+
+
 #### O que é -
 
 Alteração comum dos dentes por uso em excesso de um antibiótico chamado tetraciclina. São manchas que podem ser de cor amarela ou marrom acinzentada, normalmente atingindo um grupo de dentes.
@@ -136,13 +136,19 @@ Casos mais simples, apenas um clareamento dental é o suficiente. Para casos mai
 
 {% post_link 5-razoes-para-usar-faceta-de-porcelana "Saiba Mais sobre Facetas de Porcelana (Clique)" %}
 
+
+
 ## Vídeo sobre Mancha no Dente
 
 {% youtube GjSIqTVHhSg %}
 
+
+
 ## E seu eu possuir uma mancha preta nos dentes, devo me preocupar?
 
 {% youtube icFCkezpxqY %}
+
+
 
 Como visto no texto acima temos diversos tipos de mancha nos dentes, algumas escuras, outras mais claras. 
 
