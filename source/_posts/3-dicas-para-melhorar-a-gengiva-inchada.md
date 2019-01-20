@@ -20,7 +20,21 @@ Um fator comum é a higiene bucal inadequada. Porém, fatores hormonais, o cigar
 
 ## **Higienização Bucal através da Escovação**
 
-O fator principal para a gengiva inflamada é o acúmulo de [placa bacteriana](https://pt.wikipedia.org/wiki/Placa_bacteriana) na superfície do dente/ gengiva. Isso ocorre por uma deficiência na escovação e no uso de fio dental. Na falta desta correta higienização, os alimentos se acumulam no dente, inflamando a gengiva. Isso irá causar o sangramento e o inchaço da região. Se isso não for corrigido, a longo prazo poderá ocasionar perda óssea e até a perda do dente em casos mais graves. **Portanto a dica é: escove o dente da maneira correta e constantemente.** Não negligencie esta etapa. Caso durante o dia a rotina seja corrida e não haja tempo ou local apropriado para executar estas ações, eleja a o horário da noite, antes de dormir, para executar uma “faxina" com uma bela higiene bucal. Com paciência e disciplina, essa rotina será cada vez mais fácil de ser executada. Veja nosso texto sobre como realizar uma {% post_link escovacao-dos-dentes "perfeita escovação" %}.
+O fator principal para a gengiva inflamada é o acúmulo de [placa bacteriana](https://pt.wikipedia.org/wiki/Placa_bacteriana) na superfície do dente/ gengiva. 
+
+Isso ocorre por uma deficiência na escovação e no uso de fio dental. Na falta desta correta higienização, os alimentos se acumulam no dente, inflamando a gengiva. 
+
+Isso irá causar o sangramento e o inchaço da região. Se isso não for corrigido, a longo prazo poderá ocasionar perda óssea e até a perda do dente em casos mais graves. 
+
+**Portanto a dica é: escove o dente da maneira correta e constantemente.** 
+
+Não negligencie esta etapa. 
+
+Caso durante o dia a rotina seja corrida e não haja tempo ou local apropriado para executar estas ações, eleja a o horário da noite, antes de dormir, para executar uma “faxina" com uma bela higiene bucal. 
+
+Com paciência e disciplina, essa rotina será cada vez mais fácil de ser executada. 
+
+Veja nosso texto sobre como realizar uma {% post_link escovacao-dos-dentes "perfeita escovação" %}.
 
 ## **Uso do fio dental para melhorar a Gengiva Inchada**
 
