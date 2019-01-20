@@ -1,12 +1,10 @@
 ---
-title: Você já pensou em ter um sorriso perfeito?
-url: 1225.html
-featured_image: '/images/uploads/2015/04/Sorriso-perfeito.jpg'
-id: 1225
-categories:
-  - Sem categoria
-date: 2015-04-28 17:45:20
-tags:
+title: 'Sorriso Perfeito - Será possível você ter ? Tire suas dúvidas. '
+description: >-
+  Você já pensou em ter um Sorriso Perfeito e bonito? A odontologia apresenta
+  diversos tratamentos que podem melhorar a estética dos dentes. Veja como.
+date: 2015-04-28T17:45:20.000Z
+featured_image: /images/uploads/2015/04/Sorriso-perfeito.jpg
 ---
 
 **Você já pensou em ter um sorriso perfeito?** Saiba que isso é possível e ao alcance de todos e a Odontologia oferece diversos tipos de tratamentos que possibilitam a obtenção de dentes bonitos e alinhados. Para cada caso devem ser consideradas as limitações do paciente e suas individualidades. Contudo, após um tratamento bem planejado e executado, conseguimos alcançar um sorriso mais agradável que se enquadre perfeitamente às necessidades do paciente. Além de sorrir com segurança , um sorriso bonito pode também facilitar as relações sociais de trabalho, amizade e relacionamento. **Ficou curioso ?** Então continue lendo o texto, para saber como ter um sorriso perfeito e quais as implicações positivas que isso pode trazer para você.
