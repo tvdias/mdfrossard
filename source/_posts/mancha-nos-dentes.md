@@ -18,9 +18,9 @@ Temos também as chamadas **manchas intrínsecas (na parte de dentro dos dentes)
 
 Em nosso consultório realizamos diferentes tipos de tratamentos estéticos para melhorar e acabar com essas manchas nos dentes, como profilaxia e jateamento com bicarbonato de sódio, clareamento dental, restaurações diretas, coroas e facetas. 
 
-Assim, é importante que o paciente saiba quais tipos de manchas nos dentes ele possui e seu correto tratamento.
+Assim, é importante que o paciente saiba quais tipos de manchas nos dentes ele possui e seu correto tratamento. 
 
- _**Continue lendo para saber :**_
+**_Continue lendo para saber :_**
 
 * Sobre os 5 tipos causas de alteração de cor.
 * Os principais tratamentos para manchas nos dentes.
@@ -34,7 +34,9 @@ Assim, é importante que o paciente saiba quais tipos de manchas nos dentes ele 
 
 São causadas por uso contínuo e em excesso, sem que haja a devida higienização após seu consumo. 
 
-Ocorre alteração de cor dos dentes com o passar do tempo devido ao acúmulo de pigmentos presentes em alimentos (como café, chás, refrigerantes e outros) na parte externa do esmalte dentário. Geralmente ocorrem de igual maneira em todos os dentes. 
+Ocorre alteração de cor dos dentes com o passar do tempo devido ao acúmulo de pigmentos presentes em alimentos (como café, chás, refrigerantes e outros) na parte externa do esmalte dentário. 
+
+Geralmente ocorrem de igual maneira em todos os dentes. 
 
 Além dos alimentos, o cigarro também contribui para esta mudança e é o que mais produz alteração de cor devido à nicotina presente. 
 
@@ -108,7 +110,7 @@ Quando o caso for mais simples com manchas menores provavelmente um clareamento 
 
 Em casos mais complexos teremos que fazer um desgaste nos dentes para posteriormente fazer uma restauração. 
 
-Vale ressaltar que o flúor é muito importante e que seu uso não deve ser descartado, apenas supervisionado quando utilizado para crianças.
+Vale ressaltar que o flúor é muito importante e que seu uso não deve ser descartado apenas supervisionado quando utilizado para crianças.
 
 ## 5 - Mancha nos dentes por Tetraciclina 
 
@@ -120,9 +122,7 @@ Vale ressaltar que o flúor é muito importante e que seu uso não deve ser desc
 
 #### O que é -
 
-Alteração comum dos dentes por uso em excesso de um antibiótico chamado tetraciclina. 
-
-São manchas que podem ser de cor amarela ou marrom acinzentada, normalmente atingindo um grupo de dentes.
+Alteração comum dos dentes por uso em excesso de um antibiótico chamado tetraciclina. São manchas que podem ser de cor amarela ou marrom acinzentada, normalmente atingindo um grupo de dentes.
 
 #### Causas -
 
@@ -132,27 +132,31 @@ Isso significa que os dentes decíduos podem ser afetados do sexto mês (no úte
 
 #### Tratamento -
 
-Casos mais simples, apenas um clareamento dental é o suficiente. 
+Casos mais simples, apenas um clareamento dental é o suficiente. Para casos mais complexos está indicado o uso de facetas. 
 
-Para casos mais complexos está indicado o uso de facetas. {% post_link 5-razoes-para-usar-faceta-de-porcelana "Saiba Mais sobre Facetas de Porcelana (Clique)" %}
+{% post_link 5-razoes-para-usar-faceta-de-porcelana "Saiba Mais sobre Facetas de Porcelana (Clique)" %}
 
 ## Vídeo sobre Mancha no Dente
 
 {% youtube GjSIqTVHhSg %}
 
+
+
 ## E seu eu possuir uma mancha preta nos dentes, devo me preocupar?
 
 {% youtube icFCkezpxqY %}
 
+
+
 Como visto no texto acima temos diversos tipos de mancha nos dentes, algumas escuras, outras mais claras. 
 
-Porém, conversando com os nosso pacientes e também analisando as perguntas enviadas pelo site , podemos ver que muitos tem dúvida sobre mancha preta no dente. 
+Porém, conversando com os nosso pacientes e também analisando as perguntas enviadas pelo site, podemos ver que muitos tem dúvida sobre mancha preta no dente. 
 
 A maior parte das pessoas pensa que mancha preta significa que ela possui cárie. 
 
 **Porém nem sempre isso é verdade.** 
 
-Nesse ponto, vamos parar e pensar. 
+Nesse ponto, vamos parar e pensar . 
 
 Quando olhamos nossos dentes, principalmente os posteriores, vemos que eles não são lisos mas apresentam irregularidades, os chamados sulcos dentários. 
 
