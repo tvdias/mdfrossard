@@ -1,12 +1,11 @@
 ---
-title: Saiba Tudo sobre a saúde bucal do idoso
-url: 1588.html
-featured_image: '/images/uploads/2015/06/saúde-bucal-do-idoso.jpg'
-id: 1588
-categories:
-  - Sem categoria
-date: 2015-06-16 10:44:54
-tags:
+title: Saúde bucal do idoso - O segredo de ter uma boa qualidade de vida.
+description: >-
+  A saúde bucal do idoso é muito importante para a correta alimentação e auto
+  estima. Saiba quais os principais problemas que se pode ter nessa fase da
+  vida.
+date: 2015-06-16T10:44:54.000Z
+featured_image: /images/uploads/2015/06/saúde-bucal-do-idoso.jpg
 ---
 
 Estamos vivendo por mais tempo! Os números apresentados pela [nações unidas](http://www.sdh.gov.br/assuntos/pessoa-idosa/dados-estatisticos/dados-sobre-o-envelhecimento-no-brasil) mostram que “1 em cada 9 pessoas no mundo tem 60 anos ou mais e estima-se um crescimento para 1 em cada 5 por volta de 2050”. No Brasil este fenômeno também ocorre. Segundo a [pesquisa de 2011 do IBGE](http://www.sdh.gov.br/assuntos/pessoa-idosa/dados-estatisticos/DadossobreoenvelhecimentonoBrasil.pdf) a população de idosos (acima de 60 anos), somam 23,5 milhões de idosos o dobro da pesquisa de 1991 quando se contabilizava 10,7 milhões de pessoas. Alguns chegam à terceira idade com a saúde boa, em ordem e aparentemente sem nenhum problema mais grave. Outros, porém, apresentam alguma enfermidade, dentre eles, {% post_link problemas-nos-dentes "problemas dentários" %}. Como o foco deste site é a odontologia, quero mostrar os problemas que você pode ter na melhor idade e como preveni-los. Se você já se encontra nessa faixa e apresenta estes quadros, fique atento com **sua saúde buca**l e saiba como cuidar bem dela aqui.
