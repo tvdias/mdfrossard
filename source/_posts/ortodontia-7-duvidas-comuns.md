@@ -1,12 +1,11 @@
 ---
-title: Ortodontia - 7 Dúvidas comuns
-url: 1090.html
-featured_image: '/images/uploads/2015/02/Ortodontia.png'
-id: 1090
-categories:
-  - Sem categoria
-date: 2015-02-22 18:49:48
-tags:
+title: Ortodontia - Veja agora 7 dúvidas comuns.
+description: >-
+  A Ortodontia promove o correto posicionamento dos dentes e ossos maxilares,
+  trazendo benefícios funcionais e estéticos. Veja 7 dúvidas comuns dos
+  pacientes.
+date: 2015-02-22T18:49:48.000Z
+featured_image: /images/uploads/2015/02/Ortodontia.png
 ---
 
 Olá a todos!
