@@ -1,13 +1,10 @@
 ---
-title: Cuidado com a Dentadura - 6 Dicas Fáceis
-url: 1110.html
-featured_image: >-
-  /images/uploads/2015/03/como-cuidar-de-sua-dentadura.jpg
-id: 1110
-categories:
-  - Sem categoria
-date: 2015-03-09 10:00:28
-tags:
+title: Cuidado com a Dentadura - 6 Dicas Simples para serem aplicadas.
+description: >-
+  Quais os cuidados com a dentadura que devemos ter ? Veja no texto 6 simples
+  dicas de como cuidar dela e prolongar sua estética.
+date: 2015-03-09T10:00:28.000Z
+featured_image: /images/uploads/2015/03/como-cuidar-de-sua-dentadura.jpg
 ---
 
 O uso de dentaduras em nossa população ainda é grande. Mesmo com a melhora na conscientização da higienização, muitos chegam a velhice usando uma prótese removível. Hoje gostaria de falar sobre a **o cuidado com a Dentadura.** A prótese removível total ou mais conhecida como dentadura, em diversos casos é uma solução para repor a perda dos dentes, devolvendo a estética e a mastigação. Nesse texto além de conversar sobre o cuidado com a dentadura, vamos citar suas vantagens e desvantagens, também iremos explicar como podemos passar de uma prótese removível para uma fixa usando implantes dentários.
