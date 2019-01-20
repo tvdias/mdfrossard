@@ -1,12 +1,10 @@
 ---
-title: Gengiva sangrando - Isto pode ser um problema sério.
-url: 896.html
-featured_image: '/images/uploads/2014/09/gengiva-sangrando.jpg'
-id: 896
-categories:
-  - Sem categoria
-date: 2014-09-08 10:00:01
-tags:
+title: Gengiva Sangrando - As 7 principais causas. Acabe com esse problema.
+description: >-
+  A Gengiva sangrando é um problema em nossa população. Existem 7 principais
+  fatores para isso acontecer. Entretanto, o tratamento pode ser fácil.
+date: 2014-09-08T10:00:01.000Z
+featured_image: /images/uploads/2014/09/gengiva-sangrando.jpg
 ---
 
 A **Gengiva sangrando** é um dos principais problemas que podemos ter na boca. Junto com a {% post_link como-evitar-a-carie-dentaria "cárie dental" %} eles são as doenças mais comuns associadas aos dentes. Diferentemente da cárie, onde o dente é a estrutura dental acometida, o sangramento da gengiva ocorre nos tecidos periodontais ao redor do dente. Porém, ambas tem uma causa comum bem definida, a inadequada escovação dos dentes. Essa é a principal causa da sua gengiva estar sangrando. Portanto saber como escovar os dentes da forma correta se torna essencial. Continue a ler o texto para saber :
