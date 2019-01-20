@@ -1,12 +1,10 @@
 ---
-title: Porque o tratamento dentário é essencial para a sua saúde
-url: 1681.html
-featured_image: '/images/uploads/2015/07/Tratamento-dentário.jpg'
-id: 1681
-categories:
-  - Sem categoria
-date: 2015-07-27 14:18:59
-tags:
+title: Porque o tratamento dentário é essencial para a sua saúde.
+description: >-
+  Tratamento Dentário e sua saúde. Saiba porque o correto cuidado com o seus
+  dentes pode mudar a sua vida. Existem diversos tratamentos dentais para você.
+date: 2015-07-27T14:18:59.000Z
+featured_image: /images/uploads/2015/07/Tratamento-dentário.jpg
 ---
 
 Todos sabem que o cuidado com o corpo é importante para termos uma boa qualidade de vida. Por isso, buscamos realizar atividades físicas, procuramos médicos de qualidade, tentamos evitar comidas calóricas e nos {% post_link 5-alimentos-que-previnem-caries "alimentamos de comidas mais saudáveis" %}. ( sim eu sei, nem sempre fazemos isso, mas tentamos ! ;-) ) . De uma maneira geral, todos nós queremos viver bem e bastante tempo. Assim, além da saúde do corpo e da mente necessitamos ter saúde dos dentes. O **tratamento dentário** é essencial para se conseguir ter uma [correta alimentação](http://www.minhavida.com.br/alimentacao/materias/17780-alimentacao-correta-e-aliada-para-evitar-o-envelhecimento-precoce).
