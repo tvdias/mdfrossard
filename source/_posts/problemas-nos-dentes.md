@@ -1,12 +1,10 @@
 ---
-title: Você pode ter Problemas nos Dentes e não saber
-url: 1775.html
-featured_image: '/images/uploads/2015/09/Problemas-nos-dentes.jpg'
-id: 1775
-categories:
-  - Sem categoria
-date: 2015-09-28 11:14:16
-tags:
+title: Você pode ter Problemas nos Dentes e não saber.
+description: >-
+  Existem diversos problemas nos dentes além da cárie e da doença periodontal.
+  Fique atento e não procure atendimento somente quando a dor aparece.
+date: 2015-09-28T11:14:16.000Z
+featured_image: /images/uploads/2015/09/Problemas-nos-dentes.jpg
 ---
 
 Existem **problemas nos dentes** que não são detectados facilmente pelas pessoas. Muitos procuram atendimento especializado somente quando pensam que apresentam alguma doença. Ou ainda pior. Em grande parte dos casos, somente procuramos o profissional de saúde, quando a doença já esta em processo avançado e a dor acontece. Nesse caso o problema no dente pode ser mais complicado e de mais difícil solução. Além disso, a {% post_link dor-de-dente-3-principais-causas-e-tratamentos "dor de dente" %} é algo extremamente desconfortável. Portanto, mesmo que talvez você não sinta nenhum problema na região bucal, sempre é importante realizar consultas de revisão.
