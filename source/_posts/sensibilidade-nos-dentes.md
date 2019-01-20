@@ -1,10 +1,11 @@
 ---
 title: Sensibilidade nos Dentes - Veja os 9 Principais Motivos .
+date: 2014-05-15T19:10:51.000Z
+author: Luciana Vieira Peroni
 description: >-
   A dor causada pela sensibilidade dental é muito comum no consultório
   odontológico. Veja os 9 principais motivos e principalmente como eliminar a
   dor.
-date: 2014-05-15T19:10:51.000Z
 featured_image: /images/uploads/2014/05/sensibilidade-dental.jpg
 ---
 ## Você já teve Sensibilidade nos Dentes ?
