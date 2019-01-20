@@ -1,14 +1,11 @@
 ---
-title: uso da chupeta e os dentes da criança
-featured_image: '/images/uploads/2013/10/chupeta.jpg'
-author: Luciana Vieira Peroni
-date: 2014-08-06 10:00:30
-categories:
-  - Crianças
-tags:
-  - chupeta
-  - dentista
-  - odontologia
+title: O uso da chupeta e os dentes da criança. Será ruim ?
+description: >-
+  O uso da chupeta e os dentes da criança, será que isso é ruim? Nesse post
+  vamos discutir a melhor maneira de usar a chupeta para não prejudicar a
+  criança.
+date: 2014-08-06T10:00:30.000Z
+featured_image: /images/uploads/2013/10/chupeta.jpg
 ---
 
 Olá a todos! Hoje gostaria de abordar um assunto muito comum no atendimento aos pequenos: **o uso da chupeta e os dentes da criança.**
