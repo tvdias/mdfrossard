@@ -20,7 +20,7 @@ Em nosso consultório realizamos diferentes tipos de tratamentos estéticos para
 
 Assim, é importante que o paciente saiba quais tipos de manchas nos dentes ele possui e seu correto tratamento. 
 
-**_Continue lendo para saber :_**
+_**Continue lendo para saber :**_
 
 * Sobre os 5 tipos causas de alteração de cor.
 * Os principais tratamentos para manchas nos dentes.
@@ -50,6 +50,8 @@ Posteriormente o maior ou menor uso do café, cigarro e etc, vai determinar a vo
 
 {% post_link clareamento-dental "Leia mais sobre Clareamento Dental (clique)" %}
 
+
+
 ## 2 - Necrose pulpar ( Traumatismo )
 
 - - -
@@ -63,6 +65,8 @@ Isso ocorre devido ao extravasamento de sangue para os túmulos dentinários. Ge
 Além de um contínuo acompanhamento radiográfico do dente injuriado, o tratamento para melhorar sua cor pode ser feito utilizando-se desde um clareamento interno a até o preparo deste dente para receber uma coroa de porcelana. 
 
 {% post_link coroa-dentaria "Leia mais sobre Coroa de Porcelana ( Link )" %}
+
+
 
 ## 3 - Manchas por Amálgama 
 
@@ -83,8 +87,6 @@ Em casos de restaurações extensas, pode ser necessária a [confecção de coro
 - - -
 
 ![mancha nos dentes por fluorose](/images/uploads/2014/06/mancha-nos-dentes-por-fluorose-300x190.jpg)
-
-
 
 #### O que é -
 
@@ -118,8 +120,6 @@ Vale ressaltar que o flúor é muito importante e que seu uso não deve ser desc
 
 ![mancha nos dentes - tetraciclina](/images/uploads/2014/06/mancha-nos-dentes-tetraciclina-300x200.jpg)
 
-
-
 #### O que é -
 
 Alteração comum dos dentes por uso em excesso de um antibiótico chamado tetraciclina. São manchas que podem ser de cor amarela ou marrom acinzentada, normalmente atingindo um grupo de dentes.
@@ -140,13 +140,9 @@ Casos mais simples, apenas um clareamento dental é o suficiente. Para casos mai
 
 {% youtube GjSIqTVHhSg %}
 
-
-
 ## E seu eu possuir uma mancha preta nos dentes, devo me preocupar?
 
 {% youtube icFCkezpxqY %}
-
-
 
 Como visto no texto acima temos diversos tipos de mancha nos dentes, algumas escuras, outras mais claras. 
 
