@@ -29,10 +29,10 @@ Portanto, quero conversar com você sobre os **Cuidados Pós Cirúrgicos. **
 
 Além disso, não devemos somente pensar **extração do dente. **Existem outras cirurgias comuns nos consultórios dentários :
 
-* {% post_link implante-de-dente "implante dentário;" %}
+* Implante Dentário
 * Enxerto ósseo;
 * Cirurgias na Gengiva;
-* {% post_link por-que-extrair-o-siso-tire-suas-duvidas-sobre-essa-cirurgia "Extração do siso" %}.
+* Extração do Siso
 
 ## **Como será o meu pós operatório após uma extração de dente ?**
 
