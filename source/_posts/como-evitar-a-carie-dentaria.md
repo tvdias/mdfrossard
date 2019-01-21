@@ -79,25 +79,35 @@ Por exemplo, não escovar os dentes após as refeições, ter uma dieta baseada 
 
 ![](/images/uploads/2014/06/cárie-dentária.jpg) 
 
-**1.** A escovação deve ser feita sempre após as refeições e com escova macia, com creme dental contendo flúor. **Escove os dentes pelo menos três vezes** ao dia e prefira escovas de cabeça pequena e com cerdas macias.   
+**DICA 1 -** 
+A escovação deve ser feita sempre após as refeições e com escova macia, com creme dental contendo flúor. **Escove os dentes pelo menos três vezes** ao dia e prefira escovas de cabeça pequena e com cerdas macias.   
 
-**2.** Ao escovar os dentes, coloque as cerdas da escova entre a gengiva e os dentes de forma que ela fique inclinada 45º. Faça movimentos leves verticais com as cerdas entre a gengiva e o dente por toda a arcada dentária, por dentro e por fora. Escove a parte interna dos dentes da frente usando a escova no sentido vertical. Escove a superfície dos dentes responsável pela mastigação com a escova apoiada em sua superfície em movimentos de vai e vem.   
+**DICA 2 -** 
+Ao escovar os dentes, coloque as cerdas da escova entre a gengiva e os dentes de forma que ela fique inclinada 45º. Faça movimentos leves verticais com as cerdas entre a gengiva e o dente por toda a arcada dentária, por dentro e por fora. Escove a parte interna dos dentes da frente usando a escova no sentido vertical. Escove a superfície dos dentes responsável pela mastigação com a escova apoiada em sua superfície em movimentos de vai e vem.   
 
-**3.** Use uma **quantidade mínima de pasta de dente.** Quando o creme dental é colocado em grande quantidade, faz espuma e dá a falsa sensação de limpeza. O creme deve ser utilizado pelo motivo de possuir flúor e ainda alguns deles tem a função de prevenir o aparecimento de placa bacteriana, mas o que realmente limpa os dentes, retirando a placa é a escovação aliada ao fio dental.   
+**DICA 3 -** 
+Use uma **quantidade mínima de pasta de dente.** Quando o creme dental é colocado em grande quantidade, faz espuma e dá a falsa sensação de limpeza. O creme deve ser utilizado pelo motivo de possuir flúor e ainda alguns deles tem a função de prevenir o aparecimento de placa bacteriana, mas o que realmente limpa os dentes, retirando a placa é a escovação aliada ao fio dental.   
 
-**4.** **Escovar a língua** é fundamental para evitar o acúmulo de bactérias na região. Existe no mercado um aparelho chamado: “raspador de língua”, e deve ser usado diariamente.   
+**DICA 4 -** 
+**Escovar a língua** é fundamental para evitar o acúmulo de bactérias na região. Existe no mercado um aparelho chamado: “raspador de língua”, e deve ser usado diariamente.   
 
-**5.** Complete a limpeza usando do enxaguatório bucal. Deve-se dar preferência aos enxaguatórios sem adição de álcool.   
+**DICA 5 -** 
+Complete a limpeza usando do enxaguatório bucal. Deve-se dar preferência aos enxaguatórios sem adição de álcool.   
 
-**6.** Evite alimentos com alto teor de açúcar, como doces, balas e biscoitos que grudam nos dentes, além de sucos, refrigerantes, leite, café adoçados com açúcar ou mel. Prefira consumí-los após o almoço pois é quando os níveis de saliva estão mais altos e isso ajuda na higienização dos dentes.   
+**DICA 6 -** 
+Evite alimentos com alto teor de açúcar, como doces, balas e biscoitos que grudam nos dentes, além de sucos, refrigerantes, leite, café adoçados com açúcar ou mel. Prefira consumí-los após o almoço pois é quando os níveis de saliva estão mais altos e isso ajuda na higienização dos dentes.   
 
-**7.** **Evite o cigarro**, pois pessoas que fumam têm maior probabilidade de desenvolver doença gengival e câncer.   
+**DICA 7 -** 
+**Evite o cigarro**, pois pessoas que fumam têm maior probabilidade de desenvolver doença gengival e câncer.   
 
-**8.** Em crianças e adolescentes deve-se fazer um tratamento preventivo com visitas semestrais ao dentista, com aplicações de flúor e selantes, para fortificar e selar os dentes e protegê-los de cáries nos locais mais suscetíveis.   
+**DICA 8 -** 
+Em crianças e adolescentes deve-se fazer um tratamento preventivo com visitas semestrais ao dentista, com aplicações de flúor e selantes, para fortificar e selar os dentes e protegê-los de cáries nos locais mais suscetíveis.   
 
-**9.** Mantenha uma alimentação balanceada, **sem excesso de açúcar**. Consumimos muitos alimentos pastosos e doces em vez de alimentos mais saudáveis e isso altera a condição da saúde bucal. Evite refrigerantes e “aquelas balas que grudam com muita facilidade no dente”.   
+**DICA 9 -** 
+Mantenha uma alimentação balanceada, **sem excesso de açúcar**. Consumimos muitos alimentos pastosos e doces em vez de alimentos mais saudáveis e isso altera a condição da saúde bucal. Evite refrigerantes e “aquelas balas que grudam com muita facilidade no dente”.   
 
-**10.** O tratamento preventivo também inclui uma visita ao dentista a cada semestre para a realização de Check-ups preventivos.
+**DICA 10 -** 
+O tratamento preventivo também inclui uma visita ao dentista a cada semestre para a realização de Check-ups preventivos.
 
 Att, 
 
