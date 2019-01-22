@@ -1,12 +1,10 @@
 ---
-title: 5 Segredos do Dente do Siso que você deveria saber
-url: 2255.html
-featured_image: '/images/uploads/2017/08/dente-do-siso.jpg'
-id: 2255
-categories:
-  - Sem categoria
-date: 2017-10-23 08:00:35
-tags:
+title: Dente do Siso - 5 Segredos que você precisa saber
+description: >-
+  A remoção do dente do siso pode ser traumática para você. Veja 5 segredos
+  sobre esse tipo de cirurgia. Talvez até não seja necessária sua remoção.
+date: 2017-10-23T08:00:35.000Z
+featured_image: /images/uploads/2017/08/dente-do-siso.jpg
 ---
 
 É provável que você tenha {% post_link medo-de-dentista "medo de dentista" %} Mesmo não tendo fobia, dificilmente é agradável ir ao dentista. Se você for uma daquelas pessoas que fica tensa somente para fazer uma pequena profilaxia, imagina para remover o **dente do siso**. Estou colocando muito terror? Talvez sim. Primeiro não é necessário tanto medo de ir ao dentista, mesmo se for para extrair o siso. Todos os procedimentos para uma extração são feitos com planejamento e segurança. Para dar a você mais segurança e menos medo eu quero discutir 5 segredos sobre a remoção do dente do siso. Confira até o final e fique atento ao ponto número 4.
