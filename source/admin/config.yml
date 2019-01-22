@@ -26,7 +26,8 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: Description, name: description, widget: string}
+      - {label: "Description", name: description, widget: string}
+      - {label: "Author", name: author, widget: "select", default: "Davi Heringer Frossard", options: ['Davi Heringer Frossard', 'Luciana Vieira Peroni'], required: true}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -37,9 +38,9 @@ collections:
         name: "home"
         file: "source/index.md"
         fields:
-          - {label: ID, name: id, widget: string, required: false}
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: "ID", name: id, widget: string, required: false}
+          - {label: "Title", name: title, widget: string}
+          - {label: "Description", name: description, widget: string}
           - {label: "Layout", name: "layout", widget: "hidden", required: false}
           - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
           - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
@@ -49,9 +50,9 @@ collections:
         name: "biosseguranca"
         file: "source/biosseguranca/index.md"
         fields:
-          - {label: ID, name: id, widget: string, required: false}
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: "ID", name: id, widget: string, required: false}
+          - {label: "Title", name: title, widget: string}
+          - {label: "Description", name: description, widget: string}
           - {label: "Layout", name: "layout", widget: "hidden", required: false}
           - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
           - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
@@ -61,9 +62,9 @@ collections:
         name: "contato"
         file: "source/contato/index.md"
         fields:
-          - {label: ID, name: id, widget: string, required: false}
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: "ID", name: id, widget: string, required: false}
+          - {label: "Title", name: title, widget: string}
+          - {label: "Description", name: description, widget: string}
           - {label: "Layout", name: "layout", widget: "hidden", required: false}
           - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
           - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
@@ -73,9 +74,9 @@ collections:
         name: "day-clinic"
         file: "source/day-clinic/index.md"
         fields:
-          - {label: ID, name: id, widget: string, required: false}
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: "ID", name: id, widget: string, required: false}
+          - {label: "Title", name: title, widget: string}
+          - {label: "Description", name: description, widget: string}
           - {label: "Layout", name: "layout", widget: "hidden", required: false}
           - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
           - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
@@ -85,9 +86,9 @@ collections:
         name: "depoimentos"
         file: "source/depoimentos/index.md"
         fields:
-          - {label: ID, name: id, widget: string, required: false}
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: "ID", name: id, widget: string, required: false}
+          - {label: "Title", name: title, widget: string}
+          - {label: "Description", name: description, widget: string}
           - {label: "Layout", name: "layout", widget: "hidden", required: false}
           - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
           - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
@@ -97,9 +98,9 @@ collections:
         name: "equipe"
         file: "source/equipe/index.md"
         fields:
-          - {label: ID, name: id, widget: string, required: false}
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: "ID", name: id, widget: string, required: false}
+          - {label: "Title", name: title, widget: string}
+          - {label: "Description", name: description, widget: string}
           - {label: "Layout", name: "layout", widget: "hidden", required: false}
           - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
           - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
@@ -109,9 +110,9 @@ collections:
         name: "estrutura"
         file: "source/estrutura/index.md"
         fields:
-          - {label: ID, name: id, widget: string, required: false}
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: "ID", name: id, widget: string, required: false}
+          - {label: "Title", name: title, widget: string}
+          - {label: "Description", name: description, widget: string}
           - {label: "Layout", name: "layout", widget: "hidden", required: false}
           - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
           - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
@@ -121,9 +122,9 @@ collections:
         name: "informativos"
         file: "source/informativos/index.md"
         fields:
-          - {label: ID, name: id, widget: string, required: false}
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: "ID", name: id, widget: string, required: false}
+          - {label: "Title", name: title, widget: string}
+          - {label: "Description", name: description, widget: string}
           - {label: "Layout", name: "layout", widget: "hidden", required: false}
           - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
           - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
@@ -133,9 +134,9 @@ collections:
         name: "landing-page-mancha-no-dente"
         file: "source/landing-page-mancha-no-dente/index.md"
         fields:
-          - {label: ID, name: id, widget: string, required: false}
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: "ID", name: id, widget: string, required: false}
+          - {label: "Title", name: title, widget: string}
+          - {label: "Description", name: description, widget: string}
           - {label: "Layout", name: "layout", widget: "hidden", required: false}
           - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
           - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
@@ -145,9 +146,9 @@ collections:
         name: "localizacao"
         file: "source/localizacao/index.md"
         fields:
-          - {label: ID, name: id, widget: string, required: false}
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: "ID", name: id, widget: string, required: false}
+          - {label: "Title", name: title, widget: string}
+          - {label: "Description", name: description, widget: string}
           - {label: "Layout", name: "layout", widget: "hidden", required: false}
           - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
           - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
@@ -157,9 +158,9 @@ collections:
         name: "odontologia-personalizada"
         file: "source/odontologia-personalizada/index.md"
         fields:
-          - {label: ID, name: id, widget: string, required: false}
-          - {label: Title, name: title, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: "ID", name: id, widget: string, required: false}
+          - {label: "Title", name: title, widget: string}
+          - {label: "Description", name: description, widget: string}
           - {label: "Layout", name: "layout", widget: "hidden", required: false}
           - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'informativos', 'tratamentos', 'day_clinic', 'localizacao', 'contato'], required: false}
           - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
