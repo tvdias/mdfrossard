@@ -1,13 +1,10 @@
 ---
-title: Dentista Rio de Janeiro
-url: 1800.html
-featured_image: >-
-  /images/uploads/2015/10/dentista-rio-de-janeiro.jpg
-id: 1800
-categories:
-  - Sem categoria
-date: 2015-08-28 09:20:36
-tags:
+title: Dentista Rio de Janeiro - Marque sua consulta agora.
+description: >-
+  Precisa de dentista no Rio de Janeiro ? A MD Frossard Odontologia pode ser a
+  solução que você precisa. Possuímos duas clinica de alto padrão nessa cidade.
+date: 2015-08-28T09:20:36.000Z
+featured_image: /images/uploads/2015/10/dentista-rio-de-janeiro.jpg
 ---
 
 O [Rio de Janeiro](https://pt.wikipedia.org/wiki/Rio_de_Janeiro_(cidade)) é uma das cidades mais conhecidas e bonitas no mundo. Sua fama esta relacionada as belezas naturais e as inúmeras praias. Diversas pessoas vem visitar e conhecer os encantos da cidade maravilhosa. Devido ao grande números de visitantes seja a trabalho ou turismo, pode acontecer de alguns precisarem de tratamento de saúde ou de **dentista no Rio de Janeiro**. Se esse é o seu caso, entre em {% post_link contato "contato" %} conosco para marcar uma consulta.
