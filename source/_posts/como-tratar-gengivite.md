@@ -1,13 +1,10 @@
 ---
-title: Como tratar a gengivite ?
-url: 2469.html
-featured_image: >-
-  /images/uploads/2018/01/como-tratar-a-gengivite.jpg
-id: 2469
-categories:
-  - Sem categoria
-date: 2018-02-19 08:00:01
-tags:
+title: Como Tratar a Gengivite - Saiba tudo agora
+description: >-
+  A dúvidas de como tratar a gengivite é comum. Porém, o tratamento é fácil. A
+  correta escovação e o uso do fio dental são essenciais.
+date: 2018-02-19T08:00:01.000Z
+featured_image: /images/uploads/2018/01/como-tratar-a-gengivite.jpg
 ---
 
 Em nossa boca podemos apresentar diversos problema bucais. Alguns mais sérios e outros muito fáceis de serem tratados. Dentre os problemas mais tranquilos, temos a gengivite. Com algumas práticas diárias podemos reverter, controlar e até evitar esse problema. Mas não se engane, apesar dessa aparente facilidade, a gengivite é uma doença e deve ser tratada. Se isso não for realizado, {% post_link perda-ossea-dentaria "problemas mais graves" %} podem acontecer, o que tornaria o tratamento mais difícil. Continue lendo esse texto para saber como tratar a gengivite.
