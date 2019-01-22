@@ -1,13 +1,10 @@
 ---
-title: '[Infográfico] Dentes perfeitos, será possível ter ?'
-url: 1956.html
-featured_image: >-
-  /images/uploads/2016/07/como-mudar-o-sorriso-1.jpg
-id: 1956
-categories:
-  - Sem categoria
-date: 2016-07-11 10:00:40
-tags:
+title: 'Dentes perfeitos, será possível ter ? Veja os tratamentos para isso.'
+description: >-
+  Dentes Perfeitos, essas duas palavras são buscadas e desejadas por muitas
+  pessoas. Veja agora os tratamentos certos para você.
+date: 2016-07-11T10:00:40.000Z
+featured_image: /images/uploads/2016/07/como-mudar-o-sorriso-1.jpg
 ---
 
 **Dentes Perfeitos**, essas duas palavras são buscadas e desejadas por muitas pessoas, talvez até por você. Aliás, todos querem ter o sorriso perfeito, o corpo perfeito, o nariz perfeito. Enfim, buscamos a satisfação de ter algo único e sem defeito. Vamos começar a pensar sobre a possibilidade de ter dentes perfeitos. Antes disso, vamos pensar no [significado](http://michaelis.uol.com.br/moderno/portugues/index.php?lingua=portugues-portugues&palavra=perfeito) da palavra perfeito, buscando no dicionário, encontramos definições como : que não tem defeito, só tem qualidades boas, magistral,notável entre outras. Além disso, a percepção de beleza pode ser diferente de pessoa para pessoa. Portanto atingir o grau de perfeição é muito difícil. Apesar disso, atualmente conseguimos atingir um grau estético muito alto, onde podemos mudar completamente o sorriso do paciente. Para mudar o sorriso da pessoas, dispomos de uma série de tratamentos estéticos e de {% post_link reabilitacao-oral "reabilitação" %}. Entre eles temos, facetas, clareamento, implantes, coroas entre outros. Para exemplificar isso, fizemos um infográfico onde colocamos os 6 principais tratamentos dentários estéticos. Além disso, possuímos um segundo texto sobre o {% post_link voce-ja-pensou-em-ter-um-sorriso-perfeito "sorriso perfeito" %}, nele também falamos sobre a busca de um belo sorriso.
