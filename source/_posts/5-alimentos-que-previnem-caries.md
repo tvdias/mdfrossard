@@ -1,10 +1,10 @@
 ---
-title: 5 alimentos que previnem cáries
-featured_image: '/images/uploads/2016/08/5-alimentos-que-previnem-cáries.jpg'
-categories:
-  - Sem categoria
-date: 2016-08-23 09:06:45
-tags:
+title: 5 alimentos que previnem cáries - Melhore sua saúde bucal
+description: >-
+  Veja os 5 alimentos que previnem cáries e que ajudam na sua saúde bucal. Mude
+  sua alimentação e melhore a saúde dos seus dentes. 
+date: 2016-08-23T09:06:45.000Z
+featured_image: /images/uploads/2016/08/5-alimentos-que-previnem-cáries.jpg
 ---
 
 O site da MD Frossard Odontologia tem cada vez mais visitantes em busca de conhecimento sobre escovação, estética e saúde. Perguntas como: "qual a melhor escova recomendada pelos dentistas"; "quais alimentos previnem cáries"; "por que devo usar o fio dental"; "como saber se tenho cárie e como tratar"; entre outras. Portanto, neste texto abordaremos um tema bastante discutido e que atrai muitas curiosidades e dúvidas, que são os **5 alimentos que previnem cáries.** Será verdade que certos alimentos ajudam no cuidado com os dentes? É possível ter alimentos que causam mais cáries. É sobre isso que vamos discutir hoje.
