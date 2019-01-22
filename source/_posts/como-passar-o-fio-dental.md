@@ -1,12 +1,10 @@
 ---
-title: Como passar o fio dental
-url: 1996.html
-featured_image: '/images/uploads/2016/09/uso-fio-dental.jpg'
-id: 1996
-categories:
-  - Sem categoria
-date: 2016-09-26 10:00:11
-tags:
+title: O segredo de como passar o Fio Dental - Aprenda de forma fácil
+description: >-
+  Existem muitas dúvidas de como passar o fio dental . O seu uso pode parecer
+  complicado, porém ele é essencial para a sua saúde bucal. Veja agora o texto.
+date: 2016-09-26T10:00:11.000Z
+featured_image: /images/uploads/2016/09/uso-fio-dental.jpg
 ---
 
 Todos sabem que o uso da escova dental faz parte da nossa higiene básica do dia a dia. Porém, quase sempre nos esquecemos de outro item importante para a nossa higiene bucal, o **Fio Dental**. Isso ocorre em parte pela nossa dificuldade com o uso do fio, o que acaba nos tomando muito tempo durante o dia. Portanto, hoje queria conversar sobre **como passar o fio dental** corretamente.
