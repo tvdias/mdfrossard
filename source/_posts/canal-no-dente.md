@@ -1,10 +1,10 @@
 ---
 title: Canal no dente - Afinal quando é preciso realizar ?
-featured_image: '/images/uploads/2018/01/canal-no-dente-como-evitar.jpg'
-categories:
-  - Sem categoria
-date: 2018-01-29 08:00:56
-tags:
+description: >-
+  O canal no dente é um procedimento muito realizado no consultório dentário.
+  Ele consiste na remoção da polpa e no tratamento do conduto radicular.
+date: 2018-01-29T08:00:56.000Z
+featured_image: /images/uploads/2018/01/canal-no-dente-como-evitar.jpg
 ---
 
 O canal no dente ou [tratamento endodôntico](/tratamentos/endodontia/) ainda é um dos procedimentos mais realizados no consultório dentário. Esse tratamento consiste na remoção da polpa do dente e no tratamento do conduto radicular para evitar a perda do mesmo. Seja pelo desconhecimento de que o dente está com problema ou pela falta da correta higienização, ainda existem muitos casos onde o tratamento de canal do dente é indicado. Nesse texto quero discutir quando é preciso realizar esse tratamento e principalmente como evitá-lo.
