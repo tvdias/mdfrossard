@@ -1,16 +1,10 @@
 ---
-title: Precisamos de fotos na odontologia ?
-tags:
-  - dentista
-  - foto
-  - imagem
-  - odontologia
-url: 378.html
-featured_image: '/images/uploads/2013/11/camera-fotografica.jpg'
-id: 378
-categories:
-  - Sem categoria
-date: 2015-01-19 10:00:47
+title: Será que precisamos de Fotos e Imagens na Odontologia ?
+description: >-
+  As fotos atualmente são essenciais para o tratamento reabilitador na
+  odontologia. Veja como e porque as imagens tem ajudado os dentistas.
+date: 2015-01-19T10:00:47.000Z
+featured_image: /images/uploads/2013/11/camera-fotografica.jpg
 ---
 
 Olá  a todos, As fotos e imagens de maneira geral evoluíram muito nos últimos anos, seja em questão dos tipos de câmeras, mas principalmente em relação a qualidade das imagens obtidas. Através de diferentes tipos de lentes, podemos capturar diversas fotos, cada uma com uma intenção diferente. Essa evolução, tem sido muito benéfica para a odontologia em todos os aspectos. Com o material certo em mãos, ou seja, uma câmera de qualidade e com uma lente do tipo macro, podemos capturar todos os tipos de imagens que irão nos auxiliar muito nos tratamentos. **O tratamento odontológico com qualidade demandará, em algum momento, algum tipo de imagem.** Digo isto pois as imagens nos trazem informações valiosas para o nosso planejamento e diagnóstico, como na escolha da cor correta para passar a informação ao protético ou até mesmo para a documentação do caso.
