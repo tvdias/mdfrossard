@@ -1,10 +1,10 @@
 ---
-title: Entrevista sobre Saúde Bucal
-featured_image: '/images/uploads/2014/08/Programa-tv.png'
-date: 2014-08-12 15:53:25
-categories:
-  - Sem categoria
-tags:
+title: 'Entrevista do Dr. Davi Frossard na televisão '
+description: >-
+  Veja a entrevista que o dentista Dr. Davi Frossard deu na televisão. Nela ele
+  aborda alguns aspectos sobre os implantes dentais. 
+date: 2014-08-12T15:53:25.000Z
+featured_image: /images/uploads/2014/08/Programa-tv.png
 ---
 
 Olá a todos,
