@@ -1,13 +1,10 @@
 ---
-title: O segredo para não ter a Gengiva Inflamada
-url: 2200.html
-featured_image: >-
-  /images/uploads/2017/06/gengiva-inflamada-e-sangrando.jpg
-id: 2200
-categories:
-  - Sem categoria
-date: 2017-07-03 10:00:53
-tags:
+title: Gengiva Inflamada e Sangrando - O segredo para não ter ela assim.
+description: >-
+  Não ter a Gengiva inflamada pode ser mais mais fácil do que se imagina. Com
+  pequenos ajustes na rotina, sua saúde gengival pode ficar bem melhor.
+date: 2017-07-03T10:00:53.000Z
+featured_image: /images/uploads/2017/06/gengiva-inflamada-e-sangrando.jpg
 ---
 
 Nosso [blog](/blog/) recebe milhares de visitas e centenas de mensagens diárias com questionamentos dos mais variados tipos. Porém, algumas se destacam. E no Top 3 de perguntas, a **dúvida sobre a gengiva inflamada se destaca**. Realmente esse problema ocorre em muitas pessoas, talvez você também tenha e não saiba. Será que existe algum segredo ou alguma fórmula mágica para não se ter a gengiva inflamada ? A  resposta pode te surpreender. É sobre isso que vamos discutir nesse texto. Leia até o final para conhecer mais desse tema e se livrar dele.
