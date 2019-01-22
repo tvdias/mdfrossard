@@ -6,15 +6,13 @@ description: >-
 date: 2014-12-04T14:06:39.000Z
 featured_image: /images/uploads/2014/03/Clareamento-dental.jpg
 ---
-
 Os {% post_link implante-de-dente "implantes dentários" %} já estão na odontologia há bastante tempo sendo usados em larga escala e com altas taxas de sucesso. 
 
 A **carga imediata em implantes** já não é uma novidade e é efetuada no momento da instalação do implante. 
 
 Muitos pacientes chegam ao nosso consultório com [dúvidas](/tratamentos/implante-dental/) sobre esse tipo de tratamento, portanto este texto visa abordar os pontos básicos e tentar sanar as dúvidas do público em geral.
 
-Em primeiro lugar, o que é carga imediata em implantes?
--------------------------------------------------------
+## Em primeiro lugar, o que é carga imediata em implantes?
 
 [![carga imediata em implantes](/images/uploads/2013/07/Captura-de-tela-2013-07-28-às-11.41.30.png)](/images/uploads/2013/07/Captura-de-tela-2013-07-28-às-11.41.30.png) 
 
@@ -24,10 +22,9 @@ Em raras ocasiões iremos confeccionar o dente definitivo diretamente sobre o im
 
 Além disso, existem alguns parâmetros básicos para o uso dessa técnica. Também a colaboração do paciente é essencial para não ocorrer nenhum problema com o tratamento.
 
-3 fatores positivos para o uso da carga imediata
-------------------------------------------------
+## 3 fatores positivos para o uso da carga imediata
 
-#### [![carga imediata em implantes dentários](/images/uploads/2014/03/day-clinic-boca.jpg)](/images/uploads/2014/03/day-clinic-boca.jpg)
+![Carga imediata em implantes dentários](/images/uploads/carga_imediata_em_implantes_denta_rios.png)
 
 #### **1 - Provisório direto sobre o implante**
 
@@ -45,8 +42,7 @@ Afinal, o uso da carga imediata já possibilita uma [estética](/tratamentos/est
 
 O conforto esta justamente por não precisar usar algum tipo de prótese removível, já que o dente estará fixo nos implantes.
 
-3 Fatores que inviabilizam a carga imediata em implantes
---------------------------------------------------------
+## 3 Fatores que inviabilizam a carga imediata em implantes
 
 #### **1- Falta de travamento do implante no osso**
 
@@ -70,14 +66,11 @@ A frase ‘cada caso é um caso’ se aplica aqui!
 
 Para o uso desta técnica, temos que avaliar com bastante cuidado qual o tipo de tratamento iremos realizar, pois existem outras limitações que teremos que analisar com calma junto ao paciente.
 
-Vídeo Carga Imediata
---------------------
+## Vídeo Carga Imediata
 
 {% youtube oLZzkeM8VGE %}
 
-
-Limitações da carga imediata em implantes
------------------------------------------
+## Limitações da carga imediata em implantes
 
 ![Implante dentário - Carga Imediata](/images/uploads/2013/07/Captura-de-tela-2013-07-28-às-11.41.20.png) 
 
@@ -93,8 +86,7 @@ Primeiramente o dente provisório pode ficar em tamanho menor do que os demais, 
 
 Em segundo lugar, o paciente tem que ter a consciência que é um dente provisório sobre um implante recém colocado. Portanto, deve-se evitar a mastigação de alimentos duros sobre a região a fim de preservar o implante.
 
-Conclusão
----------
+## Conclusão
 
 Temos que ter em mente que a carga imediata em implantes é uma realidade e que podemos utilizar durante o dia-a-dia. 
 
