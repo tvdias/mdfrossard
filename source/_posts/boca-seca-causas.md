@@ -1,10 +1,10 @@
 ---
-title: A boca seca causas e consequências. Veja como a saliva faz falta.
-featured_image: '/images/uploads/2014/09/xerostomias.jpg'
-categories:
-  - Sem categoria
-date: 2014-09-29 10:00:05
-tags:
+title: Boca seca - Veja pequenas dicas que podem melhorar esse problema.
+description: >-
+  A Boca Seca é um problema comum na nossa população. Porém, em muitos casos
+  pode ser resolvida com algumas pequenas dicas. Veja agora.
+date: 2014-09-29T10:00:05.000Z
+featured_image: /images/uploads/2014/09/xerostomias.jpg
 ---
 
 A xerostomia, ou também **boca seca**, está associada à falta de saliva na cavidade oral. Isso pode acontecer devido a problemas menores como a ansiedade ou com desordens mais complicadas como a [síndrome de Sjögren.](http://pt.wikipedia.org/wiki/S%25C3%25ADndrome_de_Sj%25C3%25B6gren) As estruturas responsáveis pela produção de saliva são as glândulas salivares. Nós possuímos 3, cada uma com localizações diferentes. Normalmente uma pessoa produz em média 1 L a 1,5 L de saliva por dia.

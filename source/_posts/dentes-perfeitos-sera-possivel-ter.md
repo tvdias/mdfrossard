@@ -1,13 +1,10 @@
 ---
-title: '[Infográfico] Dentes perfeitos, será possível ter ?'
-url: 1956.html
-featured_image: >-
-  /images/uploads/2016/07/como-mudar-o-sorriso-1.jpg
-id: 1956
-categories:
-  - Sem categoria
-date: 2016-07-11 10:00:40
-tags:
+title: 'Dentes perfeitos, será possível ter ? Veja os tratamentos para isso.'
+description: >-
+  Dentes Perfeitos, essas duas palavras são buscadas e desejadas por muitas
+  pessoas. Veja agora os tratamentos certos para você.
+date: 2016-07-11T10:00:40.000Z
+featured_image: /images/uploads/2016/07/como-mudar-o-sorriso-1.jpg
 ---
 
 **Dentes Perfeitos**, essas duas palavras são buscadas e desejadas por muitas pessoas, talvez até por você. 
