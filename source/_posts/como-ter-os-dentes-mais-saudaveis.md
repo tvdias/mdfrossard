@@ -1,10 +1,10 @@
 ---
 title: Como ter os dentes mais saudáveis ?
-featured_image: '/images/uploads/2018/04/como-ter-dentes-mais-saudáveis.jpg'
-categories:
-  - Sem categoria
-date: 2018-04-16 08:00:13
-tags:
+description: >-
+  Nem sempre procuramos saber como ter os dentes mais saudáveis. Entretanto, é
+  importante ter saúde bucal para evitar a cárie e a doença periodontal.
+date: 2018-04-16T08:00:13.000Z
+featured_image: /images/uploads/2018/04/como-ter-dentes-mais-saudáveis.jpg
 ---
 
 Nem sempre procuramos saber como ter os **dentes mais saudáveis**. Entretanto é extremamente importante saber sobre isso. Afinal, sem saúde, nunca teremos estética. A maneira mais fácil para se ter saúde nos dentes é a prevenção. Através dela, detectamos problemas na fase inicial, possibilitando ter menos dor e menores custos com o tratamento. Continue lendo esse texto para saber :
