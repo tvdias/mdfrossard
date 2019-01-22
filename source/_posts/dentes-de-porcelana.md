@@ -1,12 +1,10 @@
 ---
-title: A surpreendente verdade que nunca contaram a você sobre os dentes de porcelana
-url: 2253.html
-featured_image: '/images/uploads/2017/08/dentes-de-porcelana.jpg'
-id: 2253
-categories:
-  - Sem categoria
-date: 2017-10-09 08:00:53
-tags:
+title: Dentes de Porcelana - A verdade sobre esse tipo de tratamento.
+description: >-
+  Os dentes de porcelana podem melhorar o seu sorriso. Devolvendo o sua
+  confiança e auto-estima. Veja quais tipo de tratamento podemos fazer.
+date: 2017-10-09T08:00:53.000Z
+featured_image: /images/uploads/2017/08/dentes-de-porcelana.jpg
 ---
 
 Estética, essa é uma palavra muito usada por todos nós. Sempre almejamos ter um rosto jovem e um sorriso bonito. Na odontologia temos diversos tipos de tratamentos que podemos fazer para melhorar o seu sorriso. Um dos mais falados atualmente é a {% post_link lente-de-contato-dental "lente de contato dental" %}, entretanto existem outros procedimentos que também podem ser realizados. Um deles são os **dentes de porcelana**. Porém, o que seria os isso ? Todos podem usar ? É preciso explicar alguns detalhes desse tipo de tratamento e desvendar algumas verdades.
