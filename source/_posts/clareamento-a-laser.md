@@ -1,13 +1,10 @@
 ---
 title: Clareamento a laser - Será que funciona mesmo ?
-url: 2803.html
-featured_image: "/images/uploads/2018/07/clareamento-a-laser.jpg"
-featured_image_150: "/images/uploads/2018/07/clareamento-a-laser-150x150.jpg"
-id: 2803
-categories:
-  - Sem categoria
-date: 2018-07-30 10:00:47
-tags:
+description: >-
+  O clareamento a laser é muito utilizado nos consultórios dentários. Mas será
+  que ele funciona mesmo? Veja o texto e descubra tudo sobre esse tratamento.
+date: 2018-07-30T10:00:47.000Z
+featured_image: /images/uploads/2018/07/clareamento-a-laser.jpg
 ---
 
 O clareamento dental é um dos procedimentos estéticos mais realizados nos consultório dentários. Primeiro por sua facilidade e segurança e segundo pelos ótimo resultado alcançado. Existem basicamente duas modalidades de clareamento, o chamado clareamento a laser e o clareamento caseiro. Nesse texto eu quero focar na explicação do **clareamento a laser**. Continue lendo para saber :
