@@ -1,13 +1,10 @@
 ---
 title: 7 Erros comuns na hora de escovar os dentes - o 5 pode te surpreender
-url: 1941.html
-featured_image: >-
-  /images/uploads/2016/06/escova-dente-fio-dental-macara-manequim.jpg
-id: 1941
-categories:
-  - Sem categoria
-date: 2016-06-21 08:41:03
-tags:
+description: >-
+  Veja os 7 erros mais comuns ao escovar os dentes. Conheça também a forma
+  correta de realizar a higiene bucal. Tenha uma ótima saúde na boca. 
+date: 2016-06-21T08:41:03.000Z
+featured_image: /images/uploads/2016/06/escova-dente-fio-dental-macara-manequim.jpg
 ---
 
 **Escovar os dentes** é um hábito que adquirimos desde pequenos, sendo transmitidos pelos nossos pais. Porém, ao se tornar um hábito, muitas vezes fazemos sem prestar atenção aos detalhes, o que pode comprometer a correta escovação. Portanto, quero conversar com vocês sobre 7 erros comuns que cometemos ao escovar os dentes.
