@@ -38,8 +38,36 @@ Veja nosso texto sobre como realizar uma {% post_link escovacao-dos-dentes "perf
 
 ## **Uso do fio dental para melhorar a Gengiva Inchada**
 
-![Gengiva Inchada](/images/uploads/2018/02/gengiva-inchada.jpg) Muitos o esquecem, mas o fio dental é tão importante quanto o uso da escova dental. Existem muitos casos onde o sangramento e o inchaço da gengiva acontecem entre um dente e outro, justamente onde o fio dental deveria ser usado para limpar a região.  **Portanto a segunda dica é: use o fio dental todo dia.** {% post_link como-passar-o-fio-dental "A forma correta" %} é guiá-lo com os dedos até o encontro da gengiva com seu dente, de forma gentil, para remover toda a sujeira que se encontra acumulada nesta região e em toda a superfície dentária não alcançada pela escova. Faço esta lembrança pois muitas pessoas acreditam que passar o fio apenas no contato entre os dentes, já é suficiente e assim negligenciam a parte gengival. Dessa forma, mesmo que o dente não tenha nenhum dente vizinho “colado”a ele, o fio dental deve ser usado para higienizar a região de sulco gengival (onde a gengiva toca o dente). O uso do fio pode ser difícil e demandar mais tempo. Porém, se for usado pelo menos antes de dormir, já é um grande início.
+![Gengiva Inchada](/images/uploads/2018/02/gengiva-inchada.jpg) 
+
+Muitos o esquecem, mas o fio dental é tão importante quanto o uso da escova dental. 
+
+Existem muitos casos onde o sangramento e o inchaço da gengiva acontecem entre um dente e outro, justamente onde o fio dental deveria ser usado para limpar a região.  
+
+**Portanto a segunda dica é: use o fio dental todo dia.**
+
+ {% post_link como-passar-o-fio-dental "A forma correta" %} é guiá-lo com os dedos até o encontro da gengiva com seu dente, de forma gentil, para remover toda a sujeira que se encontra acumulada nesta região e em toda a superfície dentária não alcançada pela escova. 
+
+Faço esta lembrança pois muitos  acreditam que passar o fio apenas no contato entre os dentes já é suficiente e assim negligenciam a parte gengival. 
+
+Dessa forma, mesmo que o dente não tenha nenhum dente vizinho “colado” a ele, o fio dental deve ser usado para higienizar a região de sulco gengival (onde a gengiva toca o dente). 
+
+O uso do fio pode ser difícil e demandar tempo. Porém, o uso antes de dormir é essencial.
 
 ## **Ir ao dentista**
 
-![](/images/uploads/2018/02/ir-ao-dentista-gengiva-inchada-1.jpg) A [prevenção](/tratamentos/prevencao-e-manutencao/) sempre é a forma mais eficaz e mais barata para evitar e solucionar problemas de saúde. Assim, consultas periódicas ao dentista são essenciais para diagnosticar a causa e assim tratar corretamente sua gengiva. Saber a causa é fundamental quando já se tem a gengiva inchada, somente uma boa escovação e o uso do fio dental podem não ser suficientes. Outros fatores devem ser investigados pois, além de termos que indicar uso de medicações, poderemos ainda ter a necessidade de agir sobre desordens sistêmicas (por exemplo: doenças crônicas, hormonais, efeitos colaterais de medicações sistêmicas) com o auxílio do médico do paciente. Com o correto diagnóstico, o tratamento é facilitado e o problema é solucionado. **Portanto, a terceira dica é: vá ao dentista e previna-se.** Se ainda tiver alguma dúvida, é só deixar um comentário logo abaixo.
+![](/images/uploads/2018/02/ir-ao-dentista-gengiva-inchada-1.jpg)
+
+A [prevenção](/tratamentos/prevencao-e-manutencao/) sempre é a forma mais eficaz e barata para evitar e solucionar problemas de saúde. 
+
+Assim, consultas periódicas ao dentista são essenciais para diagnosticar a causa e assim tratar corretamente sua gengiva. 
+
+Saber a causa é fundamental quando já se tem a gengiva inchada, somente uma boa escovação e o uso do fio dental podem não ser suficientes. 
+
+Outros fatores devem ser investigados, pois podemos ter a necessidade de agir sobre desordens sistêmicas (por exemplo: doenças crônicas, hormonais, efeitos colaterais de medicações sistêmicas) com o auxílio do médico do paciente. 
+
+Com o correto diagnóstico, o tratamento é facilitado e o problema é solucionado. 
+
+**Portanto, a terceira dica é: vá ao dentista e previna-se.** 
+
+Se ainda tiver alguma dúvida, é só deixar um comentário logo abaixo.
