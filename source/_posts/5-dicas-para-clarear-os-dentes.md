@@ -58,11 +58,16 @@ Porém, assim como na vida, nada é tão fácil ....
 
 Sempre temos que desconfiar de tratamentos que fazem milagres ou que prometem muito por um preço muito baixo. 
 
-O clareamento dos dentes não é difícil de ser alcançado, mas precisamos ter disciplina e seguir as orientações do dentista que está conduzindo o tratamento, seja o caseiro ou o a laser. Esses dois métodos, na nossa opinião são os meios mais seguros e efetivos para o branqueamento do dentes.
+O clareamento dos dentes não é difícil de ser alcançado, mas precisamos ter disciplina e seguir as orientações do dentista que está conduzindo o tratamento. 
 
 ## **5- Evite cigarro**
 
-![](/images/uploads/2017/08/Clarear-os-dentes-dicas.jpg) O cigarro como todos sabem causa diversos problemas de saúde . Um efeito secundário que ele pode causar é o {% post_link mancha-nos-dentes "manchamento dos dentes" %}. Os diversos produtos presentes no cigarro causam grandes manchas extrínsecas e deixam os dentes muito escuros.   Continue lendo nosso blog!
+![](/images/uploads/2017/08/Clarear-os-dentes-dicas.jpg) 
 
-Att,
-Davi Frossard.
+O cigarro como todos sabem causa diversos problemas de saúde.
+
+Um efeito secundário que ele causa é o {% post_link mancha-nos-dentes "manchamento dos dentes" %}. 
+
+Os diversos produtos presentes no cigarro causam grandes manchas extrínsecas e deixam os dentes muito escuros.   
+
+Continue lendo nosso blog!
