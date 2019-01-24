@@ -7,7 +7,15 @@ date: 2016-02-01T10:05:28.000Z
 featured_image: /images/uploads/2016/01/causas-mau-hálito.jpg
 ---
 
-Provavelmente você já passou pela situação de conversar com alguém e esta pessoa apresentar **mau hálito**. Essa é uma situação desconfortável. Porém, você já imaginou que a pessoa com o hálito alterado pode ser você ? O má notícia sobre o mau hálito é que ele pode atingir cerca de [30% a 50% da população](http://saude.terra.com.br/saude-bucal/atualidades/30-da-populacao-tem-mau-halito-veja-como-elimina-lo,19df3042284bf310VgnVCM20000099cceb0aRCRD.html), sendo que em 90% dos casos a origem do problema está na boca. Além disso, a pessoa que apresenta a halitose não percebe o odor alterado. Já que as células responsáveis pelo olfato nos humanos se acostumam com o odor se ele for constante.
+Provavelmente você já passou pela situação de conversar com alguém e esta pessoa apresentar **mau hálito**. 
+
+Essa é uma situação desconfortável. 
+
+Porém, você já imaginou que a pessoa com o hálito alterado pode ser você? 
+
+O má notícia sobre o mau hálito é que ele pode atingir cerca de [30% a 50% da população](http://saude.terra.com.br/saude-bucal/atualidades/30-da-populacao-tem-mau-halito-veja-como-elimina-lo,19df3042284bf310VgnVCM20000099cceb0aRCRD.html), sendo que em 90% dos casos a origem do problema está na boca. 
+
+Além disso, a pessoa que apresenta a halitose não percebe o odor alterado. Já que as células responsáveis pelo olfato nos humanos se acostumam com o odor se ele for constante.
 
 **5 Causas do Mau Hálito**
 --------------------------
@@ -37,7 +45,17 @@ Quando não nos alimentamos corretamente ou ficamos longos períodos sem se alim
 **Como Prevenir a Halitose **
 -----------------------------
 
-[![mau hálito](/images/uploads/2016/01/mau-hálito.jpg)](/images/uploads/2016/01/mau-hálito.jpg) A grande dica aqui é a correta escovação dos dentes. Isso irá impedir o acúmulo de alimentos nos dentes e na língua . Nesse caso, devemos realizar um exame detalhado da boca, dos dentes e verificar a presença da saburra lingual. Além disso, devemos verificar a presença de próteses com deficiência na limpeza. Outras dicas são :
+[![mau hálito](/images/uploads/2016/01/mau-hálito.jpg)](/images/uploads/2016/01/mau-hálito.jpg) 
+
+A grande dica aqui é a correta **escovação dos dentes.** 
+
+Isso irá impedir o acúmulo de alimentos nos dentes e na língua . 
+
+Nesse caso, devemos realizar um exame detalhado da boca, dos dentes e verificar a presença da saburra lingual. 
+
+Além disso, devemos verificar a presença de próteses com deficiência na limpeza. 
+
+Outras dicas são :
 
 *   Não ficar longas horas sem se alimentar. Fazer refeições de 4 em 4 horas, e de preferência com alimentos fibrosos, para estimular a salivação.
 *   Beber bastante líquido durante o dia para estimular a produção de saliva e evitar a boca seca.
@@ -47,9 +65,32 @@ Quando não nos alimentamos corretamente ou ficamos longos períodos sem se alim
 **Tratamentos para o Mau Hálito**
 ---------------------------------
 
-[![halitose](/images/uploads/2016/01/halitose.jpg)](/images/uploads/2016/01/halitose.jpg) Primeiramente, precisamos saber qual a origem do problema. Como grande parte da alteração do hálito esta relacionada com a região bucal pela incorreta escovação dos dentes, o paciente deve procurar um dentista para melhor diagnóstico. Nesse caso, é preciso orientação sobre a forma correta de escovação dos dentes. Se for constatada maiores problemas como a periodontite, o tratamento adequado deve ser feito. Além disso, é preciso verificar qual o tipo de alimentação que o paciente realiza e qual a frequência que ele ingere água. Nesse caso, é preciso mudar o hábito de alimentação. Se for constatado um problema maior, deve-se procurar um médico.
+[![halitose](/images/uploads/2016/01/halitose.jpg)](/images/uploads/2016/01/halitose.jpg) 
+
+Primeiramente, precisamos saber qual a **origem do problema.** 
+
+Como grande parte da alteração do hálito esta relacionada com a região bucal pela incorreta escovação dos dentes, o paciente deve procurar um dentista para melhor diagnóstico. 
+
+Nesse caso, é preciso orientação sobre a forma correta de escovação dos dentes. 
+
+Se for constatada maiores problemas como a periodontite, o tratamento adequado deve ser feito. 
+
+Além disso, é preciso verificar qual o tipo de alimentação que o paciente realiza e qual a frequência que ele ingere água. 
+
+Nesse caso, é preciso mudar o hábito de alimentação. 
+
+Se for constatado um problema maior, deve-se procurar um médico.
 
 **Conclusão**
 -------------
 
-A halitose pode acontecer com qualquer pessoa, porém o mais importante é que pode ser tratada. Com a correta orientação podemos eliminar esse desconforto e voltar a dar segurança para você ao sorrir e falar. Neste [blog](/blog/) temos várias informações em textos sobre problemas que acometem as gengivas e que contribuem para o surgimento da halitose. Fique a vontade e explore!
+A halitose pode acontecer com qualquer pessoa, porém o mais importante é que pode ser tratada. 
+
+Com a correta orientação podemos eliminar esse desconforto e voltar a dar segurança para você ao sorrir e falar. 
+
+Neste [blog](/blog/) temos várias informações em textos sobre problemas que acometem as gengivas e que contribuem para o surgimento da halitose. 
+
+Fique a vontade e explore!
+
+Att,
+Davi Frossard 
