@@ -7,8 +7,11 @@ featured_image: telephone-586266_1920.jpg
 ---
 {% raw %}
 <div class="col-md-6 col-sm-12 col-xs-12">
-    Marque sua consulta de avaliação agora. Você pode ligar para nossos telefones (021-2266-5955 ou 021-3217-0430).<br />
-    Também pode mandar uma mensagem pelo whatsapp clicando no icone abaixo:
+    Marque sua consulta de avaliação agora. 
+    <p>
+    <p>Você pode ligar para nossos telefones <b>(021-2266-5955 ou 021-3217-0430).</b><br />
+    <p>Também pode mandar uma mensagem pelo <b>whatsapp</b> clicando no icone abaixo:</p>
+
     <div style="text-align: center;">
         <a href="https://api.whatsapp.com/send?phone=55021976637803" class="icone icon-whatsapp"></a>     
     </div>
