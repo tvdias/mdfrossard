@@ -1,12 +1,16 @@
 <article id="<%= post.layout %>-<%= post.id %>" class="l-light <%= post.layout %>-<%= post.id %> <%= post.layout %> type-<%= post.layout %>-<%= post.id %> status-publish format-standard has-post-thumbnail hentry category-sem-categoria" itemscope itemprop="blogPost">
   <header>
     <%- partial('post/title', {class_name: 'article-title'}) %>
-    <div>Por <%= post.author && post.author.lenght > 0 ? post.author : config.author %></div>
+    <div>Por <%= post.author && post.author.length > 0 ? post.author : config.author %></div>
     <%- partial('post/featured_image') %>
   </header>
   <div class="post-content article-inner" itemprop="articleBody">
-    <% if (post.excerpt && index){ %>
-      <p><%- post.excerpt %>... </p>
+    <% if (index && (post.description || post.excerpt)) { %>
+      <% if (post.description) { %>
+        <p><%- post.description %></p>
+      <% } else { %>
+        <%- post.excerpt %>
+      <% } %>
       <% if (theme.excerpt_link){ %>
       <a href="<%- url_for(post.path) %>#more" class="more" title="<%= post.title %>"><%= theme.excerpt_link %></a>
       <% } %>
