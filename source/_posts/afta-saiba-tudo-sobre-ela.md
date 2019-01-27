@@ -1,5 +1,6 @@
 ---
-title: 'Afta - Saiba tudo sobre esse problema. Aprenda como evitar. '
+title: Afta - Saiba tudo sobre esse problema. Aprenda como evitar.
+author: Luciana Vieira Peroni
 description: >-
   A afta é comum na boca. Nesse texto vamos responder algumas perguntas comuns.
   O que causa a afta e como diminuir o desconforto.

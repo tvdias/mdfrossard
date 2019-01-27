@@ -1,5 +1,6 @@
 ---
 title: O uso da chupeta e os dentes da criança. Será ruim ?
+author: Luciana Vieira Peroni
 description: >-
   O uso da chupeta e os dentes da criança, será que isso é ruim? Nesse post
   vamos discutir a melhor maneira de usar a chupeta para não prejudicar a
