@@ -717,7 +717,8 @@ h2 {
 	position:relative;
 }
 
-.sidebar .search .s {
+.sidebar .search .s,
+.sidebar .search .search-input {
     height: 25px;
     padding: 20px 10px;
 	width:100%;
@@ -725,16 +726,18 @@ h2 {
 	border:1px solid #FFB34C;
 }
 
-.bt-search {
+.bt-search,
+.search-submit {
     width: 40px;
     height: 42px;
 	position:absolute;
 	right:0px;
 	top:0px;
     border: 0 none;
-	background-color:#FFB34C;
+    background-color:#FFB34C;
 }
-.bt-search:before { 
+.bt-search:before,
+.search-submit:before { 
 	color:#fff; 
 	font-family: 'icomoon'; 
 	speak: none; 
@@ -1472,12 +1475,11 @@ a img.aligncenter {
 }
 
 .widget_facebook_likebox {
-	margin-bottom:20px;
+    margin-bottom:20px;
 }
 .widget_facebook_likebox iframe {
 	border:1px solid #fff !important;
 	width:100% !important;
-	height:350px !important;
 }
 .pluginSkinLight ._4s7c{
 	border:0px solid #fff !important;
