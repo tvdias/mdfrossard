@@ -15,7 +15,7 @@ fb_admins: 100001667267019
 fb_app_id: MdFrossardOdontologia
 google_plus: MDFrossardOdontologiaBarraRiodeJaneiro
 twitter_id: MD_Odontologia
-
+disqus_shortname: mdfrossard
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
