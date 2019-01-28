@@ -50,8 +50,6 @@ O tratamento é doloroso?
 
 De forma geral, os pacientes Invisalign® sentem menos desconforto que os pacientes de ortodontia convencional, pois as forças sobre os dentes são planejadas com mais precisão e sempre de uma forma bem leve.
 
-[![Boca](/images/uploads/2014/03/day-clinic-boca.jpg)](/images/uploads/2014/03/day-clinic-boca.jpg)
-
 O alinhador atrapalha na fala?
 ------------------------------
 
@@ -61,8 +59,6 @@ Os alinhadores são muito bem adaptados aos dentes, então a fala não fica prej
 
 De quanto em quanto tempo preciso trocar os alinhadores e ir ao Ortodontista?
 -----------------------------------------------------------------------------
-
-[![Tempo](/images/uploads/2014/03/day-clinic-tempo.jpg)](/images/uploads/2014/03/day-clinic-tempo.jpg)
 
 Os alinhadores são trocados a **cada 15 dias**, e as consultas para ajuste e entrega de novas placas são mensais ou a cada dois meses.
 
