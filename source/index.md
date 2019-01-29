@@ -1,6 +1,6 @@
 ---
 id: home
-title: Dentista Barra da Tijuca e Botafogo - MD Frossard Odontologia
+title: Dentista Barra da Tijuca e Botafogo
 description: >-
   Dentista na Barra da tijuca e em Botafogo. A Clínica Dentária MD Frossard
   Odontologia pode mudar seu sorriso. Confira a nossa filosofia de atendimento.
