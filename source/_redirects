@@ -1,2 +1,4 @@
 /mdf_tratamentos/*    /tratamentos/:splat             302
 /tratamentos          /tratamentos/implante-dental    302
+/tratamentos/protese-dentaria/          /tratamentos/protese/    302
+/tratamentos/implante-dental/           /tratamentos/implante-dentario    302
