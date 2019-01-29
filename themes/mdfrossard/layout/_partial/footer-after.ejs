@@ -14,7 +14,7 @@ var $jq = jQuery.noConflict();
 $jq(document).ready(function() {
   //funçao smooth scroll clicar no subir
   $jq('#subir').click(function(){ 
-    $('html, body').animate({scrollTop:0}, 'slow');
+    $jq('html, body').animate({scrollTop:0}, 'slow');
     return false;
   });
 
@@ -60,15 +60,3 @@ $jq("a[rel^='prettyPhoto']").prettyPhoto({
 <%- partial('google-adwords') %>
 <%- partial('disqus') %>
 <%- partial('phonetrack') %>
-
-<script>
-//partial('getclicky') %>
-//partial('google-plus') %>
-//partial('google-captcha') %>
-//partial('wp-akismet')
-//partial('wp-contactform7')
-//partial('wp-jetpack')
-//partial('wp-embed')
-//partial('wp-bloom')
-//partial('wp-stats')
-</script>
