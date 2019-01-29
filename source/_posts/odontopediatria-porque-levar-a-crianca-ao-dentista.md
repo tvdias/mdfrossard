@@ -13,12 +13,18 @@ Hoje o tema do nosso post é sobre **odontopediatria**, ou seja, a área voltad
 **Quando levar a criança ao dentista ( odontopediatria ) ?**
 ------------------------------------------------------------
 
-A primeira ida da criança ao dentista ( odontopediatria ) e as visitas subseqüentes geram dúvidas a muitos pais/ responsáveis. Em algumas situações, ela está relacionada ao fato de a criança ter sofrido algum trauma bucal ou ainda, quando se desconfia de que a criança possa estar com alguma lesão cariosa. Todos esses eventos são característicos de situações onde se busca uma cura, porém é importante trabalharmos desde cedo, buscando a PREVENÇÃO.
+A primeira ida da criança ao dentista (odontopediatria) e as visitas subseqüentes geram dúvidas a muitos pais/ responsáveis. 
+
+Em algumas situações, ela está relacionada ao fato de a criança ter sofrido algum trauma bucal ou ainda, quando se desconfia de que a criança possa estar com alguma lesão cariosa. 
+
+Todos esses eventos são característicos de situações onde se busca uma cura, porém é importante trabalharmos desde cedo, buscando a PREVENÇÃO.
 
 **Diferentes fases da nossa dentição: **
 ----------------------------------------
 
-![odontopediatria](/images/uploads/2014/08/medo-de-dentista-e-as-crianças.jpg) Para que possamos definir quando será a primeira consulta  e com que periodicidade deve-se ir ao dentista ( odontopediatria ), devemos antes entender um pouco sobre algumas fases da nossa dentição.
+![odontopediatria](/images/uploads/2014/08/medo-de-dentista-e-as-crianças.jpg) 
+
+Para que possamos definir quando será a primeira consulta  e com que periodicidade deve-se ir ao dentista (odontopediatria), devemos antes entender um pouco sobre algumas fases da nossa dentição.
 
 ### -Bebê
 
@@ -43,12 +49,56 @@ No período de 17 aos 21 anos, pode ocorrer ainda a erupção dos dentes sisos. 
 **Por que levar a criança ao dentista ( odontopediatria )?**
 ------------------------------------------------------------
 
-**“Porque é muito melhor prevenir do que remediar!”** Vista a cronologia de erupção dos dentes, podemos dizer que levar a criança desde cedo ao dentista é importante para a [**PREVENÇÃO**](/tratamentos/prevencao-e-manutencao/ "Prevenção e Manutenção"). O indivíduo que desde cedo tem o contato com o dentista, desde cedo se familiariza com o ambiente e com o profissional, diminuindo suas chances de desenvolver **medo de dentista**. Além disso, com este hábito, evita-se que a criança chegue ao consultório em situações extremas como quando ocorre dor de dente por lesão e de imediato necessita-se tratar o canal ou realizar a extração de um dente muito injuriado. P.s.: Também se realiza tratamento de canal em dentes de leite, para preservá-lo o tempo necessário na boca. Mas este é assunto para outro post. **Além disso, é mito achar que não se trata dente de leite!** Por estarem submissos às mesmas lesões dos dentes permanentes, devem receber tratamento restaurador quando injuriados pois preservam o espaço na boca para eles  e, além disso, quando lesionados de forma extensa, podem interferir no desenvolvimento dos dentes permanentes que virão. Assim, nós da MD Frossard possuímos em nossa {% post_link equipe "equipe profissionais" %} preparados e ambiente adequado para o acolhimento de crianças. Entendemos que o **atendimento infantil** merece uma atenção diferenciada e que a fase de adaptação da criança ao ambiente e ao profissional é muito importante para o sucesso do tratamento. Buscamos o caminho da confiança e do respeito para que a criança se sinta bem.
+**“Porque é muito melhor prevenir do que remediar!”** 
+
+Vista a cronologia de erupção dos dentes, podemos dizer que levar a criança desde cedo ao dentista é importante para a [**PREVENÇÃO**](/tratamentos/prevencao-e-manutencao/ "Prevenção e Manutenção"). 
+
+O indivíduo que desde cedo tem o contato com o dentista, desde cedo se familiariza com o ambiente e com o profissional, diminuindo suas chances de desenvolver **medo de dentista**. 
+
+Além disso, com este hábito, evita-se que a criança chegue ao consultório em situações extremas como quando ocorre dor de dente por lesão e de imediato necessita-se tratar o canal ou realizar a extração de um dente muito injuriado.
+
+ P.s.: Também se realiza tratamento de canal em dentes de leite, para preservá-lo o tempo necessário na boca. Mas este é assunto para outro post. 
+ 
+ **Além disso, é mito achar que não se trata dente de leite!** 
+ 
+ Por estarem submissos às mesmas lesões dos dentes permanentes, devem receber tratamento restaurador quando injuriados pois preservam o espaço na boca para eles. 
+ 
+ Além disso, quando lesionados de forma extensa, podem interferir no desenvolvimento dos dentes permanentes que virão. 
+ 
+ Assim, nós da MD Frossard possuímos em nossa {% post_link equipe "equipe profissionais" %} preparados e ambiente adequado para o acolhimento de crianças. 
+ 
+ Entendemos que o **atendimento infantil** merece uma atenção diferenciada e que a fase de adaptação da criança ao ambiente e ao profissional é muito importante para o sucesso do tratamento. 
+ 
+ Buscamos o caminho da confiança e do respeito para que a criança se sinta bem.
 
 **Além da visita ao dentista, o que mais pode ser feito?**
 ----------------------------------------------------------
 
-![odontopediatria escovaçao](/images/uploads/2016/02/Perda-óssea-nos-dentes.jpg) No atendimento aos pacientes, independente da faixa etária, costumo dizer que o tratamento odontológico depende 30% do profissional e 70% do paciente. Sabe por quê? De nada adianta as horas gastas de tratamento junto ao dentista se velhos hábitos não forem modificados. Logo, algumas **precauções** podem ser tomadas e desenvolvidas desde os 6 meses de idade para garantir uma saúde bucal satisfatória:   **1 –** Regularidade nas visitas ao dentista para que injúrias ou más oclusões possam ser identificadas e tratadas de forma precoce. Assim o tratamento é mais simples, rápido e menos oneroso;   **2-** manter uma alimentação balanceada, sem restrições, porém com moderações. O consumo de açúcar em doces, balas, biscoitos e chocolates deve ser moderado e de preferência após as refeições. Isso porque os níveis de saliva estarão mais altos e isso ajuda a limpar a boca de forma que não sobrem tantos restos de alimento aderidos aos dentes. Doces mais grudentos aumentam a chance de desenvolvimento de lesão de cárie por ficarem mais “grudados” nos dentes;   **3-** Ainda relativo aos açúcares, deve-se evitar o uso de alimentos muito doces em mamadeiras. Isso se deve ao fato de algumas vezes os bebês serem amamentados no meio da noite e não receberem higienização bucal após este evento. Caso já tenha dentes e estes não sejam limpos, a crianças podem desenvolver “cáries de mamadeira”.   **4-** em bebês a higienização deve ser feita com uma gase umedecida nas gengivas e língua. Quando os primeiros dentes começam a surgir, pode-se utilizar uma dedeira ou uma escova infantil.   **5-** Pastas de dente com flúor podem ser utilizadas a partir do momento que a criança já consiga cuspir (não engula mais a pasta). A quantidade deve se limitar ao tamanho de um grão de ervilha na ponta da escova.   **6-** O uso de escova e fio dental deve ser freqüente. As crianças começam a aprender por imitação. Logo, é importante que os responsáveis ensinem e incentivem o uso da correta escovação. Vale lembrar que em algumas fases a criança não conseguirá cumprir esta tarefa sozinha e o adulto terá que ajudá-la realizando este procedimento por ela. Porém, conforme a criança vai crescendo, é importante que isto se torne uma responsabilidade dela e que a cumpra sozinha e de forma correta, porém, a supervisão de um adulto é importante pelo menos na escovação que é feita antes de dormir.   **7-** Criança também tem gengivite e mau hálito e ambos podem estar relacionados com a dificuldade de higienização ou com algum problema instalado nos dentes. Assim, ao perceber estes problemas, busque atendimento odontológico para solucionar o problema da melhor forma.   **8-** Nunca incentive o medo! Cada um tem as suas próprias experiências e estes medos não devem ser transferido para as crianças. Isto atrapalha o tratamento e cria nelas expectativas negativas que poderão contribuir para um trauma futuro.
+![odontopediatria escovaçao](/images/uploads/2016/02/Perda-óssea-nos-dentes.jpg) 
+
+No atendimento aos pacientes, independente da faixa etária, costumo dizer que o tratamento odontológico depende 30% do profissional e 70% do paciente. 
+
+Sabe por quê? 
+
+De nada adianta as horas gastas de tratamento junto ao dentista se velhos hábitos não forem modificados. 
+
+Logo, algumas **precauções** podem ser tomadas e desenvolvidas desde os 6 meses de idade para garantir uma saúde bucal satisfatória:   
+
+**1 –** Regularidade nas visitas ao dentista para que injúrias ou más oclusões possam ser identificadas e tratadas de forma precoce. Assim o tratamento é mais simples, rápido e menos oneroso;  
+
+**2-** manter uma alimentação balanceada, sem restrições, porém com moderações. O consumo de açúcar em doces, balas, biscoitos e chocolates deve ser moderado e de preferência após as refeições. Isso porque os níveis de saliva estarão mais altos e isso ajuda a limpar a boca de forma que não sobrem tantos restos de alimento aderidos aos dentes. Doces mais grudentos aumentam a chance de desenvolvimento de lesão de cárie por ficarem mais “grudados” nos dentes;   
+
+**3-** Ainda relativo aos açúcares, deve-se evitar o uso de alimentos muito doces em mamadeiras. Isso se deve ao fato de algumas vezes os bebês serem amamentados no meio da noite e não receberem higienização bucal após este evento. Caso já tenha dentes e estes não sejam limpos, a crianças podem desenvolver “cáries de mamadeira”.   
+
+**4-** em bebês a higienização deve ser feita com uma gase umedecida nas gengivas e língua. Quando os primeiros dentes começam a surgir, pode-se utilizar uma dedeira ou uma escova infantil.   
+
+**5-** Pastas de dente com flúor podem ser utilizadas a partir do momento que a criança já consiga cuspir (não engula mais a pasta). A quantidade deve se limitar ao tamanho de um grão de ervilha na ponta da escova.   
+
+**6-** O uso de escova e fio dental deve ser freqüente. As crianças começam a aprender por imitação. Logo, é importante que os responsáveis ensinem e incentivem o uso da correta escovação. Vale lembrar que em algumas fases a criança não conseguirá cumprir esta tarefa sozinha e o adulto terá que ajudá-la realizando este procedimento por ela. Porém, conforme a criança vai crescendo, é importante que isto se torne uma responsabilidade dela e que a cumpra sozinha e de forma correta, porém, a supervisão de um adulto é importante pelo menos na escovação que é feita antes de dormir.   
+
+**7-** Criança também tem gengivite e mau hálito e ambos podem estar relacionados com a dificuldade de higienização ou com algum problema instalado nos dentes. Assim, ao perceber estes problemas, busque atendimento odontológico para solucionar o problema da melhor forma.   
+
+**8-** Nunca incentive o medo! Cada um tem as suas próprias experiências e estes medos não devem ser transferido para as crianças. Isto atrapalha o tratamento e cria nelas expectativas negativas que poderão contribuir para um trauma futuro.
 
 Att,
 Luciana Vieira Peroni
