@@ -191,11 +191,3 @@ Ligue para nós para saber mais.
 Abraços, Davi Frossard
 
 - - -
-
-\[feature_box style="1" only_advanced="There%20are%20no%20title%20options%20for%20the%20choosen%20style" alignment="center"]
-
-**Saiba mais Sobre Mancha nos Dentes. **
-
-{% post_link landing-page-mancha-no-dente "**Clique agora e baixe o nosso EBOOK !**" %}
-
-\[/feature_box]
