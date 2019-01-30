@@ -1,13 +1,31 @@
-<script src="/js/modernizr-2.6.2.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5c4f70d1c9830d001319af92&product=inline-share-buttons"></script>
+<script type='text/javascript' src="/js/modernizr-2.6.2.js"></script>
+<script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script type='text/javascript' src='/js/jquery-migrate.min.js?ver=1.4.1'></script>
 <script type='text/javascript' src='/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.5'></script>
 <script type='text/javascript' src='/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.6.5'></script>
-<script src="/js/jquery.prettyPhoto.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/owl.carousel.min.js"></script>
+<script type='text/javascript' src="/js/jquery.prettyPhoto.js"></script>
+<script type='text/javascript' src="/js/bootstrap.min.js"></script>
+<script type='text/javascript' src="/js/owl.carousel.min.js"></script>
 
+<%- partial('fb-widget') %>
+<%- partial('google-analytics') %>
+<%- partial('google-remarketing') %>
+<%- partial('google-adwords') %>
+<%- partial('disqus') %>
+<%- partial('phonetrack') %>
 
+<% if(page.id && page.id === 'contato') { %>
+  <%- partial('js-contato') %>
+<% } %>
+
+<% if(page.id && page.id === 'estrutura') { %>
+  <%- partial('js-estrutura') %>
+<% } %>
+
+<% if(page.id && page.id === 'home') { %>
+  <%- partial('js-home') %>
+<% } %>
 
 <script>
 var $jq = jQuery.noConflict();
@@ -41,22 +59,3 @@ $jq("a[rel^='prettyPhoto']").prettyPhoto({
 });
 })();
 </script>
-
-<% if(page.id && page.id === 'contato') { %>
-  <%- partial('js-contato') %>
-<% } %>
-
-<% if(page.id && page.id === 'estrutura') { %>
-  <%- partial('js-estrutura') %>
-<% } %>
-
-<% if(page.id && page.id === 'home') { %>
-  <%- partial('js-home') %>
-<% } %>
-
-<%- partial('fb-widget') %>
-<%- partial('google-analytics') %>
-<%- partial('google-remarketing') %>
-<%- partial('google-adwords') %>
-<%- partial('disqus') %>
-<%- partial('phonetrack') %>

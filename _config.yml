@@ -104,3 +104,79 @@ excerpt:
   excerpt_excludes: []
   more_excludes: []
   hideWholePostExcerpts: true
+
+generator_amp:
+  templateDir:  amp-template
+  assetDistDir: amp-dist
+  logo:
+    path:   sample/sample-logo.png
+    width:  600 # width <= 600px
+    height: 60  # width <= 60px
+#  logo_topImage:                                  #(optional)
+#    path:   sample/sample-yoursite-logo.png       #(optional)
+#    width:  1024                                  #(optional)
+#    height: 400                                   #(optional)
+  substituteTitleImage: 
+    path:   sample/sample-substituteTitleImage.png
+    width:  1024 # width >= 696px
+    height: 800
+#  placeholderImg:                                 #(optional)
+#    path: sample/sample-placeholder.png
+#  cssFilePath:      sample/sample-amp.css         #(optional) Location of css or stylus or sass file to use
+#  templateFilePath: sample/sample-amp.ejs         #(optional) Location of ejs or pug template file to use
+#  generateAmpPath: :year/:month/:day/:title/amp/  #(optional) Custom AMP HTML Path
+  
+  # # Sample Template's option
+  theme:
+    menu:
+      Início: /
+      Equipe: /equipe
+      Estrutura: /estrutura
+      Depoimentos: /depoimentos
+      Biossegurança: /biosseguranca
+      Informativos: /informativos
+      "Implante Dentario": /tratamentos/implante-dentario
+      Prótese: /tratamentos/protese
+      Estética: /tratamentos/estetica-dos-dentes
+      Periodontia: /tratamentos/periodontia
+      Endodontia: /tratamentos/endodontia
+      Ortodontia: /tratamentos/ortodontia
+      "Prevenção e Manutenção": /tratamentos/prevencao-e-manutencao
+      "Check Up Digital Preventivo": /tratamentos/check-up-digital-preventivo
+      "Day Clinic": /day-clinic
+      Localização: /localizacao
+      Contato: /contato
+      Blog: /blog
+  #    facebook_app_id: 1234567890                #(optional) api_id is necessary with the facebook's social button.
+  #    facebook_admins: 1234567890                #(optional) admins is necessary with the facebook's social button.
+  #    share_button:                              #(optional) Share button option
+  #      twitter: true                            #(optional) Enable Twitter share button
+  #      facebook: true                           #(optional) Enable Facebook share button
+  #      google: true                             #(optional) Enable Goolge+ share button
+  #      hatena: true                             #(optional) Enable Hatena share button
+  #      tumblr: true                             #(optional) Enable Tumblr share button
+  #    category_posts: true                       #(optional) Enable category posts
+  #    category_posts_detailed: true              #(optional) Enable detailed category posts
+  #    latests: true                              #(optional) Enable latests posts
+  #    list_limts: 6                              #(optional) This option limit the number of display in the above lists (default:5)
+  #    authorLink:                                #(optional) Enable footer profile link
+  #      mail_url: https://your-mail-form/
+  #      twitter_id: xxx
+  #      facebook_id: xxx
+  #      youtube_channel: xxx
+  #      instagram_id: xxx
+  #      github_id: xxxx
+
+  google_analytics: UA-34132526-1
+#  html_minifier:                                  #(optional)
+  warningLog: true                                #(optional)
+#  cache: hexo-generator-amp-cached.json           #(optional) Enable cache (Improve generation speed)
+  validateAMP: true                               #(optional)
+# authorDetail:
+#   authorReading: Your name description            #(optional)
+#   avatar:                                         #(optional)
+#     path:   sample/sample-avator.png              #(optional)
+#     width:  150                                   #(optional)
+#     height: 150                                   #(optional)
+#   description: Self introduction                  #(optional)
+# copyright_notice: The footer copyright notice     #(optional)
