@@ -28,13 +28,15 @@ Assim, é importante que o paciente saiba quais tipos de manchas nos dentes ele 
 
 ## 1 - Mancha nos dentes causadas por alimentos e hábitos tabagistas
 
-- - -
-
 ![mancha nos dentes por cigarro](/images/uploads/2014/06/mancha-nos-dentes-por-cigarro-300x194.jpg) 
 
 São causadas por uso contínuo e em excesso, sem que haja a devida higienização após seu consumo. 
 
-Ocorre alteração de cor dos dentes com o passar do tempo devido ao acúmulo de pigmentos presentes em alimentos (como café, chás, refrigerantes e outros) na parte externa do esmalte dentário. 
+Ocorre alteração de cor dos dentes com o passar do tempo devido ao acúmulo de pigmentos presentes em alimentos, como: 
+* Café; 
+* Chás; 
+* Refrigerantes;
+* Entre outros.
 
 Geralmente ocorrem de igual maneira em todos os dentes. 
 
@@ -46,13 +48,12 @@ Assim, além de prejudicar a coloração dos dentes, acabam desenvolvendo outros
 
 O tratamento básico pra essas manchas é um polimento dos dentes, juntamente com o clareamento dental. 
 
-Posteriormente o maior ou menor uso do café, cigarro e etc, vai determinar a volta da cor mais rapidamente. {% post_link clareamento-dental "Leia mais sobre Clareamento Dental (clique)" %}
+Posteriormente o maior ou menor uso do café ou cigarro, vai determinar a volta da cor mais rapidamente. {% post_link clareamento-dental "Leia mais sobre Clareamento Dental (clique)" %}
 
 
 
-## 2 - Necrose pulpar ( Traumatismo )
+## 2 - Necrose pulpar (Traumatismo)
 
-- - -
 
 [![mancha dente](/images/uploads/2014/06/mancha-dente.jpg)](/images/uploads/2014/06/mancha-dente.jpg) 
 
@@ -66,7 +67,6 @@ Além de um contínuo acompanhamento radiográfico do dente injuriado, o tratame
 
 ## 3 - Manchas por Amálgama 
 
-- - -
 
 ![mancha nos dentes por amalgama](/images/uploads/2014/06/mancha-nos-dentes-por-amalgama-300x200.jpg) 
 
@@ -80,13 +80,12 @@ Em casos de restaurações extensas, pode ser necessária a [confecção de coro
 
 ## 4 - Mancha nos dentes por Fluorose Dental 
 
-- - -
 
 ![mancha nos dentes por fluorose](/images/uploads/2014/06/mancha-nos-dentes-por-fluorose-300x190.jpg)
 
 
 
-#### O que é -
+### O que é:
 
 A fluorose dentária é uma alteração de cor comum do esmalte dental derivada da exposição excessiva ao flúor na fase de formação dos dentes. 
 
@@ -94,7 +93,7 @@ São afetados grupos de dentes quer na dentição decídua ( de criança ), quer
 
 É caracterizada por ter o esmalte excessivamente opaco e com manchas que podem variar de branco ao marrom escuro.
 
-#### Causa -
+### Causa:
 
 A principal causa da fluorose esta relacionada a ingestão em excesso de [flúor](https://pt.wikipedia.org/wiki/Flúor) nos primeiros anos de vida da pessoa. 
 
@@ -104,7 +103,7 @@ Assim, quanto maior a quantidade ingerida de flúor, maior o defeito no esmalte,
 
 Além disso, quando se ingere uma quantidade maior de flúor no primeiro ano de vida, as manchas vão ser maiores nos dentes anteriores, já se for por volta dos três anos, os dentes posteriores vão ser mais afetados.
 
-#### Tratamento -
+### Tratamento:
 
 Quando o caso for mais simples com manchas menores provavelmente um clareamento já é o suficiente. 
 
@@ -114,41 +113,34 @@ Vale ressaltar que o flúor é muito importante e que seu uso não deve ser desc
 
 ## 5 - Mancha nos dentes por Tetraciclina 
 
-- - -
+
 
 ![mancha nos dentes - tetraciclina](/images/uploads/2014/06/mancha-nos-dentes-tetraciclina-300x200.jpg)
 
-
-
-#### O que é -
+### O que é:
 
 Alteração comum dos dentes por uso em excesso de um antibiótico chamado tetraciclina. São manchas que podem ser de cor amarela ou marrom acinzentada, normalmente atingindo um grupo de dentes.
 
-#### Causas -
+### Causas:
 
 A causa está relacionada ao uso de tetraciclina durante o período de calcificação dos dentes. 
 
 Isso significa que os dentes decíduos podem ser afetados do sexto mês (no útero) até o décimo ou oitavo ano de vida e os dentes permanentes do sétimo mês de vida até o sétimo ou oitavo ano de infância
 
-#### Tratamento -
+### Tratamento:
 
 Casos mais simples, apenas um clareamento dental é o suficiente. Para casos mais complexos está indicado o uso de facetas. 
 
 {% post_link 5-razoes-para-usar-faceta-de-porcelana "Saiba Mais sobre Facetas de Porcelana (Clique)" %}
-
-
-
+---
 ## Vídeo sobre Mancha no Dente
 
 {% youtube GjSIqTVHhSg %}
-
-
-
+---
 ## E seu eu possuir uma mancha preta nos dentes, devo me preocupar?
 
 {% youtube icFCkezpxqY %}
-
-
+---
 
 Como visto no texto acima temos diversos tipos de mancha nos dentes, algumas escuras, outras mais claras. 
 
@@ -188,6 +180,7 @@ Em nossa clínica realizamos os diversos procedimentos listados acima para melho
 
 Ligue para nós para saber mais. 
 
-Abraços, Davi Frossard
+Abraços, 
+Davi Frossard
 
 - - -
