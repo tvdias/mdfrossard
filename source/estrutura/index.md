@@ -17,13 +17,9 @@ featured_image: 5consultório-2.jpg
       <p dir="auto">Confira o vídeo para ver nossa filosofia de trabalho:</p>
    </div>
    <div class="col-md-6 col-sm-12 col-xs-12">
-      <div class="video">
-         <div class="video-wrapper">
-            <div class="video-container">                                
-               <iframe src="https://www.youtube.com/embed/Yh-6jaONlqI?modestbranding=1&amp;autohide=1&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-            </div>
-         </div>
-      </div>
+      {% endraw %}
+      {% youtube Yh-6jaONlqI %}
+      {% raw %}
    </div>
 </div>
 <!-- contpage -->
@@ -37,38 +33,38 @@ featured_image: 5consultório-2.jpg
       <h2 style="font-size:14px;">Barra da Tijuca:</h2>
       <div id="owl-demo1" class="owl-demo-est">
          <div class="item">
-            <a href="/images/uploads/2013/07/1città-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/1città-150x150.jpg" alt="città" class="lazyOwl"/>
+            <a href="/images/uploads/2013/07/1citta-1024x683.jpg" rel="prettyPhoto[gallery_125]">
+               <img data-src="/images/uploads/2013/07/1citta-150x150.jpg" alt="città" class="lazyOwl"/>
             </a>
          </div>
          <div class="item">
-            <a href="/images/uploads/2013/07/2recepção-1-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/2recepção-1-150x150.jpg" alt="recepção" class="lazyOwl"/>
+            <a href="/images/uploads/2013/07/2recepcao-1-1024x683.jpg" rel="prettyPhoto[gallery_125]">
+               <img data-src="/images/uploads/2013/07/2recepcao-1-150x150.jpg" alt="recepção" class="lazyOwl"/>
             </a>
          </div>
          <div class="item">
-            <a href="/images/uploads/2013/07/3recepção-2-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/3recepção-2-150x150.jpg" alt="recepção" class="lazyOwl"/>
+            <a href="/images/uploads/2013/07/3recepcao-2-1024x683.jpg" rel="prettyPhoto[gallery_125]">
+               <img data-src="/images/uploads/2013/07/3recepcao-2-150x150.jpg" alt="recepção" class="lazyOwl"/>
             </a>
          </div>
          <div class="item">
-            <a href="/images/uploads/2013/07/4consulório-1-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/4consulório-1-150x150.jpg" alt="consulório" class="lazyOwl"/>
+            <a href="/images/uploads/2013/07/4consulorio-1-1024x683.jpg" rel="prettyPhoto[gallery_125]">
+               <img data-src="/images/uploads/2013/07/4consulorio-1-150x150.jpg" alt="consulório" class="lazyOwl"/>
             </a>
          </div>
          <div class="item">
-            <a href="/images/uploads/2013/07/5consultório-2-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/5consultório-2-150x150.jpg" alt="consultório" class="lazyOwl"/>
+            <a href="/images/uploads/2013/07/5consultorio-2-1024x683.jpg" rel="prettyPhoto[gallery_125]">
+               <img data-src="/images/uploads/2013/07/5consultorio-2-150x150.jpg" alt="consultório" class="lazyOwl"/>
             </a>
          </div>
          <div class="item">
-            <a href="/images/uploads/2013/07/6escritório-branco-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/6escritório-branco-150x150.jpg" alt="escritório branco" class="lazyOwl"/>
+            <a href="/images/uploads/2013/07/6escritorio-branco-1024x683.jpg" rel="prettyPhoto[gallery_125]">
+               <img data-src="/images/uploads/2013/07/6escritorio-branco-150x150.jpg" alt="escritório branco" class="lazyOwl"/>
             </a>
          </div>
          <div class="item">
-            <a href="/images/uploads/2013/07/7escritório-madeira-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/7escritório-madeira-150x150.jpg" alt="escritório madeira" class="lazyOwl"/>
+            <a href="/images/uploads/2013/07/7escritorio-madeira-1024x683.jpg" rel="prettyPhoto[gallery_125]">
+               <img data-src="/images/uploads/2013/07/7escritorio-madeira-150x150.jpg" alt="escritório madeira" class="lazyOwl"/>
             </a>
          </div>
          <div class="item">
