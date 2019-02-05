@@ -15,18 +15,6 @@
 <%- partial('disqus') %>
 <%- partial('phonetrack') %>
 
-<% if(page.id && page.id === 'contato') { %>
-  <%- partial('js-contato') %>
-<% } %>
-
-<% if(page.id && page.id === 'estrutura') { %>
-  <%- partial('js-estrutura') %>
-<% } %>
-
-<% if(page.id && page.id === 'home') { %>
-  <%- partial('js-home') %>
-<% } %>
-
 <script>
 var $jq = jQuery.noConflict();
 $jq(document).ready(function() {
@@ -59,3 +47,15 @@ $jq("a[rel^='prettyPhoto']").prettyPhoto({
 });
 })();
 </script>
+
+<% if(page.id && page.id === 'contato') { %>
+  <%- partial('js-contato') %>
+<% } %>
+
+<% if(page.id && page.id === 'estrutura') { %>
+  <%- partial('js-estrutura') %>
+<% } %>
+
+<% if(page.id && page.id === 'home') { %>
+  <%- partial('js-home') %>
+<% } %>
