@@ -17,9 +17,13 @@ featured_image: 5consultório-2.jpg
       <p dir="auto">Confira o vídeo para ver nossa filosofia de trabalho:</p>
    </div>
    <div class="col-md-6 col-sm-12 col-xs-12">
-      {% endraw %}
-      {% youtube Yh-6jaONlqI %}
-      {% raw %}
+      <div class="video">
+         <div class="video-wrapper">
+            <div class="video-container">                                
+               <iframe src="https://www.youtube.com/embed/Yh-6jaONlqI?modestbranding=1&amp;autohide=1&amp;showinfo=0&amp;rel=0&amp;enablejsapi=1" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+            </div>
+         </div>
+      </div>
    </div>
 </div>
 <!-- contpage -->
