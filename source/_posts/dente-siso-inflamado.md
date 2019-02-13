@@ -76,9 +76,13 @@ Exames de imagem como radiografia periapical, radiografia panorâmica e até mes
 
 Por meio deles fechamos o diagnóstico e todo o procedimento é explicado para nosso cliente e sanamos todas as suas dúvidas. {% post_link dente-do-siso "Leia mais sobre extração do siso" %}.
 
+---
+
 ## Vídeo sobre o siso inflamado
 
 {% youtube zC_ID2g8C4E %}
+
+---
 
 ## **Cuidados pós operatórios**
 
