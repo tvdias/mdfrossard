@@ -6,7 +6,7 @@ description: >-
 date: 2014-07-04T10:08:43.000Z
 featured_image: /images/uploads/2014/03/Faceta-dental-estética.jpg
 ---
-A demanda por **facetas dentais e lente de contato dental** aumentaram muito nos últimos tempos. 
+A demanda por **facetas dentais ou de porcelana** aumentaram muito nos últimos tempos. 
 
 Isso se deve ao fato desses tratamentos estéticos melhorem muito a aparência do nosso sorriso. 
 
@@ -68,13 +68,9 @@ Porém, temos que ter em mente que nem todos os tratamentos podem ser resolvidos
 
 #### **3) Pequenos espaços entre dentes (diastemas) **
 
-Muitos paciente apresentam os chamados diastemas. 
+Muitos paciente apresentam os chamados diastemas. Eles são nada mais do que pequenos espaços entre os dentes. 
 
-Eles são nada mais do que pequenos espaços entre os dentes. 
-
-Isso é fisiológico e em muitos caso, não ocasiona problema funcional. 
-
-Entretanto, muitos se incomodam com a estética, já que podem apresentar um sorriso infantil. 
+Isso é fisiológico e em muitos caso, não ocasiona problema funcional. Entretanto, muitos se incomodam com a estética, já que podem apresentar um sorriso infantil. 
 
 Em alguns casos, a ortodontia pode ser uma solução. 
 
@@ -82,7 +78,9 @@ Em outras as facetas são a única forma de resolver o caso de forma agradável,
 
 #### **4) Dentes Fraturados **
 
-Casos de pessoas com dente fraturado são comuns no dia dia do consultório dentário. Nesses casos podemos realizar ou restaurações com resina fotopolimerizável ou {% post_link 5-razoes-para-usar-faceta-de-porcelana "facetas em porcelana" %}. Dependendo do caso, se a fratura for extensa, uma faceta é mais indicada por ter maior durabilidade. Mas caso a fratura seja pequena, uma resina seria a melhor escolha.  
+Casos de pessoas com dente fraturado são comuns no dia dia do consultório dentário. Nesses casos podemos realizar ou restaurações com resina fotopolimerizável ou {% post_link 5-razoes-para-usar-faceta-de-porcelana "facetas em porcelana" %}. 
+
+Dependendo do caso, se a fratura for extensa, uma faceta é mais indicada por ter maior durabilidade. Mas caso a fratura seja pequena, uma resina seria a melhor escolha.  
 
 #### **5) Grandes restaurações **
 
@@ -102,9 +100,7 @@ Para algumas, um simples clareamento ou restauração é o suficiente. Já para 
 
 ![facetas dentais](/images/uploads/2014/07/facetas-dentais-1.jpg) 
 
-A grande vantagem desse tratamento é proporcionar a mudança completa do sorriso. 
-
-Com isso, é notória a transformação da auto-estima e confiança do nosso paciente. 
+A grande vantagem desse tratamento é proporcionar a mudança completa do sorriso. Com isso, é notória a transformação da auto-estima e confiança do nosso paciente. 
 
 Além disso, em muitos casos somente um pequeno desgaste é realizado, preservando a estrutura do dente. 
 
@@ -118,11 +114,13 @@ Não posso deixar de destacar a mudança na vida social de nossos pacientes.
 
 Em nossa clinica realizamos diversos tratamento estéticos e em todos os casos notamos como um novo sorriso proporciona muito mais confiança e alegria. Basta ler os {% post_link depoimentos "comentários" %} que diversos pacientes deixaram para nós.
 
+---
+
 ## Vídeo sobre Faceta Dentária 
 
 {% youtube Y7PhCPfVUY0 %}
 
-
+---
 
 ## Desvantagem do uso de Facetas Dentais 
 
@@ -133,6 +131,31 @@ Para contornar esse problema, devemos fazer uma placa de mordida em que o pacien
 Além disso, é preciso ter um planejamento correto quanto a sua indicação. Existem casos que obrigatoriamente devemos realizar tratamento ortodôntico e outros nos quais a realização de uma {% post_link coroa-dentaria "coroa dentária" %} é melhor. 
 
 Vale ressaltar que a correta {% post_link 7-dicas-faceis-para-a-sua-higiene-bucal "higienização" %} e correção de hábitos deletérios também são de grande importância para o sucesso do tratamento. 
+
+## **E o preço da faceta em porcelana ?**
+
+Sim, eu sei, sua principal dúvida é qual valor será **pago em um tratamento como esse.** 
+
+Entretanto, não devemos pensar somente no preço, mas também no ganho de auto-estima e no valor agregado que podemos ter com esse tratamento.  
+
+Como dito acima, o planejamento nesse caso é fundamental para atingir uma estética memorável. 
+
+Então é necessário saber antecipadamente alguns fatores básicos antes de formular o preço, tais como :
+
+* Quantos dentes devem ser envolvidos no tratamento, apenas 2, talvez 5 ou será 7?
+* Algum dente precisa de um desgaste maior, necessitando a realização de coroa?
+* É preciso fazer uma cirurgia para igualar o tamanho da gengiva?
+* Será que o dente está muito fora da posição, precisamos realizar um canal nele?
+
+Essas e outras dúvidas só podem ser respondidas com a **consulta de análise clínica**, onde vamos saber o que precisa ser feito e assim realizar o correto planejamento. 
+
+Consequentemente o preço somente pode ser dado após essa análise. 
+
+Antecipadamente posso adiantar que **não é um tratamento barato**, pois envolve uma série de procedimentos que, se negligenciados, podem afetar a qualidade e longevidade da faceta. 
+
+O valor de um profissional para outro pode variar bastante, uma vez que a experiência e o material utilizado são fatores essenciais na construção do preço. 
+
+O suporte do profissional para o paciente é **reflexo da confiança e investimento que ele pratica.**
 
 Caso você ainda tenha alguma dúvida sobre o tratamento, deixe seu comentário logo abaixo.
 
