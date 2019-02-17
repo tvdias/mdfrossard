@@ -8,11 +8,11 @@ featured_image: /images/uploads/2014/10/implante-dental-1.jpg
 ---
 O implante dentário é utilizado com frequência nos consultórios, possibilitando a reposição do dente perdido. 
 
-Mesmo necessitando de uma cirurgia prévia, eles apresentam a possibilidade de devolver uma ótima mastigação ao paciente. 
+Mesmo necessitando de uma cirurgia prévia, eles apresentam a possibilidade de **devolver uma ótima mastigação ao paciente.** 
 
 Infelizmente, ainda existem diversas dúvidas sobre este tratamento. Questionamentos sobre a cirurgia, sobre a prótese, sobre a dor na instalação dos implantes dentais são comuns. 
 
-Portanto, esse texto é para você que precisa realizar esse tratamento, mas tem medo e insegurança. 
+Portanto, esse texto é para você que **precisa realizar esse tratamento, mas tem medo e insegurança.** 
 
 Além disso, se ficar com alguma dúvida é só deixar seu comentário no final do texto. 
 
@@ -28,7 +28,7 @@ Leia esse guia completo sobre tudo sobre os implantes dentários :
 
 ![](/images/uploads/2014/10/Importancia-dos-dentes-Implante-dental.png)   
 
-Já se perguntou sobre o porquê de termos dentes com tamanhos, formas e quantidade de raízes diferentes? 
+Já se perguntou sobre o porquê de termos dentes com tamanhos, formas e quantidade de raízes diferentes?
 
 Ou ainda, como cada dente encaixa perfeitamente quando fechamos a boca? 
 
@@ -36,7 +36,7 @@ Cada dente na boca é diferente do outro, pois cada um tem uma função específ
 
 A presença do dente é tão importante que, antes de condenarmos algum dente para extração, tentamos ao máximo manter ele no lugar, através de colocação de coroas e a realização de tratamento endodôntico. 
 
-Portanto, o implante dentário é a última opção, quando realmente não se tem mais salvação para o elemento afetado. 
+**Portanto, o implante dentário é a última opção, quando realmente não se tem mais salvação para o elemento afetado.** 
 
 Vamos comparar com um time de futebol, temos o goleiro e os defensores, que têm a função de não permitir que a bola entre no gol, temos o meio de campo que faz a ligação com o ataque e por último temos o centro-avante que tem a responsabilidade de fazer o gol. 
 
@@ -46,7 +46,7 @@ Temos os incisivos que partem os alimentos de forma inicial, temos os caninos e 
 
 É claro que essa explicação é bem simplista e que ainda temos diversos outros parâmetros que cada dente desempenha. 
 
-O importante é saber que cada dente é único e suas funções são relavantes para o correto funcionamento da mastigação. 
+**O importante é saber que cada dente é único e suas funções são relavantes para o correto funcionamento da mastigação.** 
 
 Se quiser saber mais sobre a função de cada dente, [clique aqui](http://pt.wikipedia.org/wiki/Portal:Odontologia).
 
@@ -58,19 +58,19 @@ Cada vez é maior a conscientização das pessoas quanto a higiene oral.
 
 Nos consultórios dentários, percebemos como nossos pacientes têm menor quantidade de cárie e também de perda de dente. 
 
-Porém, a utopia de nunca perder um dente não existe. 
+**Porém, a utopia de nunca perder um dente não existe.** 
 
-Como visto no texto sobre {% post_link como-evitar-a-carie-dentaria "cárie dental" %}, ela é responsável por muitas perdas dentárias e isso ocorre principalmente pela falta de higiene, por uma escovação inadequada e também pelo o não uso do fio dental. 
+Como visto no texto sobre **{% post_link como-evitar-a-carie-dentaria "cárie dental" %}**, ela é responsável por muitas perdas dentárias e isso ocorre principalmente pela falta de higiene, por uma escovação inadequada e também pelo o não uso do fio dental. 
 
-A segunda forma na perda dentária é através da {% post_link gengiva-sangrando "doença periodontal" %}, ou seja, a inflamação das gengivas de forma mais agressiva. Que também começa pela falta de cuidado na limpeza bucal. 
+A segunda forma na perda dentária é através da **{% post_link gengiva-sangrando "doença periodontal" %}**, ou seja, a inflamação das gengivas de forma mais agressiva. Que também começa pela falta de cuidado na limpeza bucal. 
 
-A terceira e menos comum é o trauma dental. Mesmo você seguindo todos os cuidados em sua higiene pode perder um dente! 
+A terceira e menos comum é o **trauma dental.** Mesmo você seguindo todos os cuidados em sua higiene pode perder um dente! 
 
 Digo isso pois vejo no consultório de forma rotineira pessoas jovens com dentes em ótimo estado e que, devido a uma fatalidade, como um acidente de carro ou até uma queda, sofreram a perda de um dente. 
 
 Geralmente os dentes afetados são os dentes superiores anteriores (incisivos centrais e laterais), pois os traumas acontecem normalmente na parte frontal da face. 
 
-Felizmente, em grande parte dos casos, conseguimos restabelecer a função e estética com [implantes dentais.](/tratamentos/implante-dental/)
+**Felizmente, em grande parte dos casos, conseguimos restabelecer a função e estética com [implantes dentais.](/tratamentos/implante-dental/)**
 
 ## Então, quais são as formas de substituir o dente?
 
@@ -78,11 +78,11 @@ Já entendemos a importância e como se perde um dente.
 
 Agora, vamos às soluções, nesse caso temos três principais: 
 
-**1) Usar um trabalho removível;** 
+1. **Usar um trabalho removível;** 
 
-**2) A famosa Ponte fixa;** 
+2. **A famosa Ponte fixa;** 
 
-**3) Implante dentário.** 
+3. **Implante dentário.** 
 
 Os dois principais tratamentos para substituir um dente já foram discutidos em nosso site e o texto pode ser encontrado [aqui.](/tratamentos/protese-dentaria/ "Prótese") 
 
@@ -96,7 +96,7 @@ Assim, dependendo do caso, teremos que “sacrificar” um dente íntegro para a
 
 ![implante dentário](/images/uploads/2014/10/implante-dentário.jpg) 
 
-Primeiramente, ele é um “parafuso” feito de uma liga de titânio que é biocompativel com o tecido ósseo, portanto não temos rejeição. 
+**Primeiramente, ele é um “parafuso” feito de uma liga de titânio que é biocompativel com o tecido ósseo,portanto não temos rejeição.** 
 
 Em segundo lugar, muita gente confunde o implante com a coroa dentária, pensando que ambas são a mesma coisa, mas na verdade são processos e fases diferentes do tratamento. 
 
@@ -123,6 +123,8 @@ São nessas duas situações que os implantes vão atuar. Existem algumas formas
 
 Dessa forma, podemos ter os seguintes tipos de tratamento com implantes dentais:
 
+___
+
 #### **1) Implante dentário unitário**
 
 ![](/images/uploads/2014/10/Implante-dentário-unitário.png) 
@@ -135,6 +137,8 @@ Em alguns casos, um pedido de exame de sangue também é necessário. No implant
 
 Também podemos realizar a carga imediata (continue lendo mais abaixo) e colocar um dente provisório junto com a colocação do implante.
 
+---
+
 #### **2 ) Implante Dentário múltiplo**
 
 ![](/images/uploads/2014/10/Implante-dentário-Múltiplo.png) 
@@ -142,6 +146,8 @@ Também podemos realizar a carga imediata (continue lendo mais abaixo) e colocar
 Em implantes dentários múltiplos ao invés de substituir um elemento dentário realizamos uma ponte sobre implantes. 
 
 Nesse tratamento o paciente perdeu mais de um dente. Em determinados casos não podemos ter um implante para cada dente, assim realizamos menos implantes que dentes a serem substituídos, portanto um elemento dentário ficaria suspenso .
+
+---
 
 #### **3 ) Prótese protocolo ou prótese total fixa sobre implantes**
 
@@ -155,14 +161,12 @@ A grande vantagem é de termos mais estabilidade e segurança ao falar e mastiga
 
 Assim, planejamos os implantes (em média de 5 a 8) e sobre eles colocamos uma prótese fixa. O importante é saber que não é um implante por dente.
 
-
-
+---
 ## Vídeo sobre implante dentário
 
 {% youtube Ph6aoLun1oo %}
 
-
-
+---
 ## E a carga imediata? Posso fazer?
 
 A Carga imediata com implantes dentários nada mais é do que a colocação da coroa provisória (dente) imediatamente após a cirurgia. 
@@ -173,12 +177,14 @@ O grande limitador é o torque do implante, ou seja, qual a força que o implant
 
 Assim, temos que esperar a osseointegração do implante que é em torno de 3 a 6 meses. 
 
-Para ler mais sobre a carga imediata é só clicar {% post_link carga-imediata-em-implantes-dentarios-e-sempre-possivel "nesse link" %}!
+Para ler mais sobre a carga imediata é só clicar [nesse link.](https://mdfrossard.com.br/carga-imediata-em-implantes-dentarios/)
+
+---
+
 {% youtube oLZzkeM8VGE %}
 
+---
 ## Problemas e desvantagens 
-
-![](/images/uploads/2014/10/problemas-com-implantes-dentários.png) 
 
 Talvez a maior “desvantagem” para a realização do implante dental seja passar por uma cirurgia. 
 
@@ -200,9 +206,11 @@ O implante é biocompativel com o organismo, portanto não há a rejeição. {% 
 
 Nesses casos, temos que analisar qual foi o problema para planejar um novo implante.
 
+---
+
 {% youtube IyjNPNPbJPI %}
 
-
+---
 
 ## Qual o valor para instalar o implante dentário ?
 
@@ -221,3 +229,6 @@ Enfim, existem inúmeras variáveis para a obtenção de um correto plano de tra
 
 Abs,
 Davi Frossard
+
+---
+
