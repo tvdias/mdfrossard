@@ -19,7 +19,7 @@ disqus_shortname: mdfrossard
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://mdfrossard.com.br
+url: http://localhost:4000
 root: /
 #permalink: blog/:year/:month/:day/:title/
 permalink: :title/
@@ -106,27 +106,27 @@ excerpt:
   hideWholePostExcerpts: true
 
 generator_amp:
-  templateDir:  amp-template
-  assetDistDir: amp-dist
+  templateDir:  themes/mdfrossard/amp
+  assetDistDir: amp
   logo:
-    path:   sample/sample-logo.png
-    width:  600 # width <= 600px
-    height: 60  # width <= 60px
-#  logo_topImage:                                  #(optional)
-#    path:   sample/sample-yoursite-logo.png       #(optional)
-#    width:  1024                                  #(optional)
-#    height: 400                                   #(optional)
+    path:   ../source/images/logo-150x60.png
+    width:  90 # width <= 600px
+    height: 36 # width <= 60px
+  # logo_topImage:                                  #(optional)
+  #   path:   sample/sample-yoursite-logo.png       #(optional)
+  #   width:  1024                                  #(optional)
+  #   height: 400                                   #(optional)
   substituteTitleImage: 
     path:   sample/sample-substituteTitleImage.png
     width:  1024 # width >= 696px
     height: 800
-#  placeholderImg:                                 #(optional)
-#    path: sample/sample-placeholder.png
-#  cssFilePath:      sample/sample-amp.css         #(optional) Location of css or stylus or sass file to use
-#  templateFilePath: sample/sample-amp.ejs         #(optional) Location of ejs or pug template file to use
-#  generateAmpPath: :year/:month/:day/:title/amp/  #(optional) Custom AMP HTML Path
+  # placeholderImg:                                 #(optional)
+  #   path: sample/sample-placeholder.png
+  cssFilePath:      style.css        #(optional) Location of css or stylus or sass file to use
+  templateFilePath: blog.ejs         #(optional) Location of ejs or pug template file to use
+  # generateAmpPath: :year/:month/:day/:title/amp/  #(optional) Custom AMP HTML Path
   
-  # # Sample Template's option
+  # Sample Template's option
   theme:
     menu:
       Início: /
@@ -147,31 +147,31 @@ generator_amp:
       Localização: /localizacao
       Contato: /contato
       Blog: /blog
-  #    facebook_app_id: 1234567890                #(optional) api_id is necessary with the facebook's social button.
-  #    facebook_admins: 1234567890                #(optional) admins is necessary with the facebook's social button.
-  #    share_button:                              #(optional) Share button option
-  #      twitter: true                            #(optional) Enable Twitter share button
-  #      facebook: true                           #(optional) Enable Facebook share button
-  #      google: true                             #(optional) Enable Goolge+ share button
+    facebook_app_id: MdFrossardOdontologia                #(optional) api_id is necessary with the facebook's social button.
+    facebook_admins: 100001667267019                #(optional) admins is necessary with the facebook's social button.
+    share_button:                              #(optional) Share button option
+      twitter: true                            #(optional) Enable Twitter share button
+      facebook: true                           #(optional) Enable Facebook share button
+      google: true                             #(optional) Enable Goolge+ share button
   #      hatena: true                             #(optional) Enable Hatena share button
   #      tumblr: true                             #(optional) Enable Tumblr share button
   #    category_posts: true                       #(optional) Enable category posts
   #    category_posts_detailed: true              #(optional) Enable detailed category posts
-  #    latests: true                              #(optional) Enable latests posts
-  #    list_limts: 6                              #(optional) This option limit the number of display in the above lists (default:5)
-  #    authorLink:                                #(optional) Enable footer profile link
+    latests: false                              #(optional) Enable latests posts
+    list_limts: 3                              #(optional) This option limit the number of display in the above lists (default:5)
+    authorLink:                                #(optional) Enable footer profile link
   #      mail_url: https://your-mail-form/
-  #      twitter_id: xxx
-  #      facebook_id: xxx
-  #      youtube_channel: xxx
+      twitter_id: MD_Odontologia
+      facebook_id: MdFrossardOdontologia
+      youtube_channel: UC6AC1C8mze49D64rTY5BUyw
   #      instagram_id: xxx
   #      github_id: xxxx
 
-  google_analytics: UA-34132526-1
+    google_analytics: UA-34132526-1
 #  html_minifier:                                  #(optional)
-  warningLog: true                                #(optional)
+    warningLog: true                                #(optional)
 #  cache: hexo-generator-amp-cached.json           #(optional) Enable cache (Improve generation speed)
-  validateAMP: true                               #(optional)
+    validateAMP: true                               #(optional)
 # authorDetail:
 #   authorReading: Your name description            #(optional)
 #   avatar:                                         #(optional)
