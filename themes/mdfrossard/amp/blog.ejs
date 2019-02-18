@@ -77,8 +77,8 @@ var author_name = post.author ? post.author : config.author;
     <% if (isIframeContain){ %>
     <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
 	  <% } %>
-    <% if (config.generator_amp.google_analytics){ %>
-    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <% if (config.google_analytics){ %>
+			<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
 		<% } %>
 		<script async custom-element="amp-timeago" src="https://cdn.ampproject.org/v0/amp-timeago-0.1.js"></script>
     <script async src="https://cdn.ampproject.org/v0.js"></script>
@@ -203,6 +203,20 @@ var author_name = post.author ? post.author : config.author;
   </head>
 	
 	<body class="body single-post amp-single ">
+		<% if (config.google_analytics){ %>
+		<amp-analytics type="gtag" data-credentials="include">
+			<script type="application/json">
+			{
+				"vars" : {
+					"gtag_id": "<%= config.google_analytics %>",
+					"config" : {
+						"<%= config.google_analytics %>": { "groups": "default" }
+					}
+				}
+			}
+			</script>
+		</amp-analytics>
+		<% } %>
 		<div id="backtotop"></div>
 		<div id="marker">
 			<amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"> </amp-position-observer>
