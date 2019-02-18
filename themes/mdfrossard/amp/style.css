@@ -2219,13 +2219,12 @@ a.btt:hover {
 }
 
 .btt:before {
-  content: '\25be';
-  content: '\e316';
+  content: "\e316";
   display: block;
+  font-family: "icomoon";
   font-size: 35px;
   font-weight: 600;
   color: #fff;
-  transform: rotate(180deg);
   text-align: center;
   line-height: 1.5
 }
