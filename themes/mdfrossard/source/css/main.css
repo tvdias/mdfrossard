@@ -1,14 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 @font-face {
-	font-family: 'icomoon';
-	src:url('/fonts/icomoon/icomoon.eot');
-	src:url('/fonts/icomoon/icomoon.eot?#iefix') format('embedded-opentype'),
-		url('/fonts/icomoon/icomoon.woff') format('woff'),
-		url('/fonts/icomoon/icomoon.ttf') format('truetype'),
-		url('/fonts/icomoon/icomoon.svg#icomoon') format('svg');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'icomoon';
+    src: url('/fonts/icomoon.eot?ege1ng');
+    src: url('/fonts/icomoon.eot?ege1ng#iefix') format('embedded-opentype'),
+         url('/fonts/icomoon.ttf?ege1ng') format('truetype'),
+         url('/fonts/icomoon.woff?ege1ng') format('woff'),
+         url('/fonts/icomoon.svg?ege1ng#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 body {
@@ -66,7 +66,7 @@ h2 {
 
 .header {
    /* height: 190px;*/
-    background: #fff url(../img/header-bg.png) center top;
+    background: #fff url(/images/header-bg.png) center top;
 }
 .header > .container {
     position: relative;
@@ -81,7 +81,7 @@ h2 {
 
 .main {
 /*    padding: 0 0 65px;
-    background: #eaebec url(../img/main-bg.png);
+    background: #eaebec url(/images/main-bg.png);
 	background-color:#fff;*/
 	overflow:hidden;
 }
@@ -174,10 +174,10 @@ h2 {
 }
 .footer .split { display: block; height: 3px; width: 50px; margin: 0 auto -2px auto; position: relative; }
 .footer .split.scroll-top { z-index:20; width: 38px; height: 30px; background: transparent; margin-bottom: -15px; margin-top:25px; }
-.footer .split.scroll-top a { display: block; width: 38px; height: 30px; border: 1px solid #FFB34C; border-radius: 0px; -moz-border-radius: 0px; -webkit-border-radius: 0px;/* background: url(../img/scroll_top.png) 11px 9px no-repeat;*/ transition: border-color 200ms ease-in-out, background-color 200ms ease-in-out; -webkit-transition: border-color 200ms ease-in-out, background-color 200ms ease-in-out; -moz-transition: border-color 200ms ease-in-out, background-color 200ms ease-in-out; -o-transition: border-color 200ms ease-in-out, background-color 200ms ease-in-out; background-color: #fff; }
+.footer .split.scroll-top a { display: block; width: 38px; height: 30px; border: 1px solid #FFB34C; border-radius: 0px; -moz-border-radius: 0px; -webkit-border-radius: 0px;/* background: url(/images/scroll_top.png) 11px 9px no-repeat;*/ transition: border-color 200ms ease-in-out, background-color 200ms ease-in-out; -webkit-transition: border-color 200ms ease-in-out, background-color 200ms ease-in-out; -moz-transition: border-color 200ms ease-in-out, background-color 200ms ease-in-out; -o-transition: border-color 200ms ease-in-out, background-color 200ms ease-in-out; background-color: #fff; }
 .footer .split.scroll-top a:hover { border-color: #fff; background-color: #FFB34C; /*background-position: 11px -19px;*/ }
 
-.footer .split.scroll-top a:before { content: "\e626"; color:#FFB34C; font-family: 'icomoon';  speak: none; font-style: normal; text-transform: none; position: absolute; top:3px; left:11px; -webkit-font-smoothing: antialiased; font-size: 16px; vertical-align: bottom; transition: color 200ms ease-in-out, background-color 200ms ease-in-out; -moz-transition: color 200ms ease-in-out, background-color 200ms ease-in-out; -webkit-transition: color 200ms ease-in-out, background-color 200ms ease-in-out; -o-transition: color 200ms ease-in-out, background-color 200ms ease-in-out; font-weight: bold; }
+.footer .split.scroll-top a:before { content: "\e316"; color:#FFB34C; font-family: 'icomoon';  speak: none; font-style: normal; text-transform: none; position: absolute; top:3px; left:11px; -webkit-font-smoothing: antialiased; font-size: 16px; vertical-align: bottom; transition: color 200ms ease-in-out, background-color 200ms ease-in-out; -moz-transition: color 200ms ease-in-out, background-color 200ms ease-in-out; -webkit-transition: color 200ms ease-in-out, background-color 200ms ease-in-out; -o-transition: color 200ms ease-in-out, background-color 200ms ease-in-out; font-weight: bold; }
 .footer .split.scroll-top a:hover:before { color:#fff; }
 
 .l-decoration {
@@ -317,13 +317,13 @@ h2 {
 }
 
 .icon-facebook:before {
-    content: "\e60a";
+    content: "\ea15";
 }
 .icon-whatsapp:before {
-    content: "\ea93";
+    content: "\e902";
 }
 .icon-twitter:before {
-    content: "\e60e";
+    content: "\e904";
 }
 .icone1:before { padding:5px;color:#444; font-family: 'icomoon'; speak: none; font-style: normal; text-transform: none; -webkit-font-smoothing: antialiased; transition: color 200ms ease-in-out, background-color 200ms ease-in-out, border-color 200ms ease-in-out; -moz-transition: color 200ms ease-in-out, background-color 200ms ease-in-out, border-color 200ms ease-in-out; -webkit-transition: color 200ms ease-in-out, background-color 200ms ease-in-out, border-color 200ms ease-in-out; -o-transition: color 200ms ease-in-out, background-color 200ms ease-in-out, border-color 200ms ease-in-out; }
 
@@ -336,7 +336,7 @@ h2 {
    text-decoration:none;
 }
 .icon-phone:before {
-    content: "\e942";
+    content: "\e0cd";
 }
 .carousel {}
 .carousel > li {
@@ -459,7 +459,7 @@ h2 {
 }
 .carousel-home {
 /*    padding: 30px;
-    background: #ffb908 url(../img/home-carousel-bg.png);*/
+    background: #ffb908 url(/images/home-carousel-bg.png);*/
 }
 
 .jcarousel {
@@ -504,19 +504,19 @@ h2 {
 }
 
 .jcarousel-wrapper .jcarousel-control-prev {
-    background: url(../img/bt-voltar-p.png) no-repeat;
+    background: url(/images/bt-voltar-p.png) no-repeat;
     left: 40px;
 }
 .jcarousel-wrapper .jcarousel-control-next {
-    background: url(../img/bt-avancar-p.png) no-repeat;
+    background: url(/images/bt-avancar-p.png) no-repeat;
     right: 40px;
 }
 
 /*.estrutura:nth-child(odd) .jcarousel-control-prev {
-    background: url(../img/bt-voltar-a.png) no-repeat;
+    background: url(/images/bt-voltar-a.png) no-repeat;
 }
 .estrutura:nth-child(odd) .jcarousel-control-next {
-    background: url(../img/bt-avancar-p.png) no-repeat;
+    background: url(/images/bt-avancar-p.png) no-repeat;
 }*/
 
 .content-box {
@@ -744,9 +744,9 @@ h2 {
 	font-style: normal; 
 	text-transform: none; 
 	-webkit-font-smoothing: antialiased; 
-	font-size: 20px; 
-	padding:5px;
-	content: "\e600"; 
+	font-size: 24px; 
+	padding: 4px;
+	content: "\e8b6"; 
 }
 
 
@@ -1411,7 +1411,7 @@ a img.aligncenter {
 
 .header .newsletter {
     background-color: #444;
-	background-image: url(../img/escheresque_ste.png);
+	background-image: url(/images/escheresque_ste.png);
 	border-top:3px solid #FFB34C;
 	border-bottom:3px solid #FFB34C;
 	padding:6px 0px 6px 0px;
