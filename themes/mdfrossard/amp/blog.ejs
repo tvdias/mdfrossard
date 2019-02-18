@@ -124,11 +124,7 @@ var author_name = post.author ? post.author : config.author;
 			    <% } %>
 			}
 		}
-	</script>
-
-
-
-
+		</script>
 
 		<style amp-boilerplate>
 			body {
@@ -199,12 +195,11 @@ var author_name = post.author ? post.author : config.author;
 			</style>
 		</noscript>
 
-	<% if (cssTxt != ""){ %>
-	<style amp-custom>
-		<%- cssTxt %>
-	</style>
-	<% } %>
-
+		<% if (cssTxt != ""){ %>
+		<style amp-custom>
+			<%- cssTxt %>
+		</style>
+		<% } %>
   </head>
 	
 	<body class="body single-post amp-single ">
@@ -334,6 +329,10 @@ var author_name = post.author ? post.author : config.author;
 							<div class="sp-rt">
 								<div class="cntn-wrp artl-cnt">
 									<%- content %>
+									<hr />
+									<a href="/contato">
+											<img class="center" src="/images/uploads/marque_consulta.jpg" width="100%" alt="Marque sua consulta" />
+									</a>
 								</div>
 								<% if (false) { %>
 								<div class="amp-author ">
