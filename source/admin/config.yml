@@ -9,7 +9,7 @@ publish_mode: editorial_workflow
 media_folder: "source/images/uploads" # Media files will be stored in the repo under images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 display_url: https://mdfrossard.netlify.com
-logo_url: https://mdfrossard.netlify.com/img/md-frossard-logo.png
+logo_url: /images/md-frossard-logo.png
 slug:
   encoding: "ascii"
   clean_accents: true
