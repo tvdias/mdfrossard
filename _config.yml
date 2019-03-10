@@ -8,6 +8,7 @@ language: pt_BR
 timezone: America/Sao_Paulo
 
 google_analytics: UA-34132526-1
+fb_pixel: 554496768369961
 fb_admins: 100001667267019
 fb_app_id: MdFrossardOdontologia
 google_plus: MDFrossardOdontologiaBarraRiodeJaneiro
@@ -154,6 +155,7 @@ generator_amp:
   #      github_id: xxxx
 
     google_analytics: UA-34132526-1
+    fb_pixel: 554496768369961
 #  html_minifier:                                  #(optional)
     warningLog: true                                #(optional)
 #  cache: hexo-generator-amp-cached.json           #(optional) Enable cache (Improve generation speed)

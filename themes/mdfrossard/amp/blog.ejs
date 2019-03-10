@@ -237,6 +237,9 @@ var author_name = post.author ? post.author : config.author;
 			</script>
 		</amp-analytics>
 		<% } %>
+		<% if (config.fb_pixel){ %>
+			<amp-pixel src="https://www.facebook.com/tr?id=<%= config.fb_pixel %>&ev=PageView&noscript=1" layout="nodisplay"></amp-pixel>
+		<% } %>
 		<div id="backtotop"></div>
 		<div id="marker">
 			<amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"> </amp-position-observer>

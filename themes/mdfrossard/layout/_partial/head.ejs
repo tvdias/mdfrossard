@@ -54,7 +54,9 @@
 
   <meta name="google-site-verification" content="RV8HX__uJPpEeGNG6yucFLEEK-DJ7WPZRH5siZpSaAA" />
   <meta name="google-site-verification" content="0B5-KOJcNwtZwe5yXQGcZhz55uC7PBLEXatlWo0HEE4" />
-
+  
+  <%- partial('fb-pixel') %>
+  
   <% if (is_post() && config.generator_amp){ %>
     <link rel="amphtml" href="<%= config.url %><%= config.root %><%= page.path %>amp/index.html">
   <% } %>
