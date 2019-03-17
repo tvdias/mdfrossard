@@ -405,7 +405,7 @@ var author_name = post.author ? post.author : config.author;
 								</div>
 								<div class="post-date">
 									<div class="loop-date">
-										<amp-timeago layout="responsive" width="100" height="20" datetime="<%= post.date %>" locale="ptBR"><%= post.date %></amp-timeago>
+										<amp-timeago layout="responsive" width="100" height="20" datetime="<%= post.date.toISOString() %>" locale="ptBR"><%= post.date.toISOString() %></amp-timeago>
 									</div>
 								</div>
 								<% if(false) { %>
