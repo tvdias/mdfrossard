@@ -286,7 +286,7 @@ var author_name = post.author ? post.author : config.author;
 						<div class="h-logo">
 							<div class="amp-logo">
 								<a href="<%= config.url %><%= config.root %>?nonamp=1" rel="nofollow">
-							    <amp-img src="/images/logo-150x60.png" width="150" height="60" alt="<%= config.title %>" class="amp-logo" layout="responsive"></amp-img>
+							    <amp-img src="/images/logo-150x60.png" width="150" height="60" alt="<%= config.title %>" class="amp-logo" layout="responsive" noloading />
 								</a>
 							</div>
 						</div>
@@ -350,7 +350,7 @@ var author_name = post.author ? post.author : config.author;
 				%>
 				<div class="sf-img">
 					<figure class="amp-featured-image">
-						<amp-img src="<%- post.featured_image %>" width="<%- rW %>" height="<%- rH %>" layout=responsive alt="<%= post.title %>">
+						<amp-img src="<%- post.featured_image %>" width="<%- rW %>" height="<%- rH %>" layout="responsive" alt="<%= post.title %>">
 						</amp-img>
 					</figure>
 				</div>
@@ -363,7 +363,7 @@ var author_name = post.author ? post.author : config.author;
 									<%- content %>
 									<hr />
 									<a id="marqueConsulta" href="/contato">
-										<img class="center" src="/images/uploads/marque_consulta.jpg" width="100%" alt="Marque sua consulta" />
+										<amp-img src="/images/uploads/marque_consulta.jpg" width="800" height="200" layout="responsive" alt="Marque sua consulta" />
 									</a>
 								</div>
 								<% if (false) { %>
