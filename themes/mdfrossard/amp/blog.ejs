@@ -63,8 +63,7 @@ var author_name = post.author ? post.author : config.author;
 		<script custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js" async></script>
 		<script custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js" async></script>
 		<script custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js" async></script>
-		<script custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js" async></script>
-		<script custom-element="amp-facebook-like" src="https://cdn.ampproject.org/v0/amp-facebook-like-0.1.js" async></script>
+		<script async custom-element="amp-addthis" src="https://cdn.ampproject.org/v0/amp-addthis-0.1.js"></script>
     <% if (isYoutubeContain){ %>
     <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
     <% } %>
@@ -392,30 +391,10 @@ var author_name = post.author ? post.author : config.author;
 								<% } %>
 							</div>
 							<div class="sp-lt">
-								<% if(false) { %>
 								<div class="ss-ic">
 									<span class="shr-txt">Compartilhar</span>
-									<ul>
-										<li>
-											 <a class="s_tw" target="_blank" href="https://twitter.com/intent/tweet?url=<%= config.url %>/instagram/criar-conteudo-para-stories/&text=13%20apps%20para%20criar%20conte%C3%BAdo%20para%20Stories%20do%20Instagram"></a>
-										</li>
-										<li>
-											<a class="s_gp" target="_blank" href="https://plus.google.com/share?url=<%= config.url %>/instagram/criar-conteudo-para-stories/"></a>
-										</li>
-										<li>
-											<a class="s_em" target="_blank" href="mailto:?subject=13 apps para criar conteúdo para Stories do Instagram&body=<%= config.url %>/instagram/criar-conteudo-para-stories/"></a>
-										</li>
-										<li>
-											<a class="s_lk" target="_blank" href="https://www.linkedin.com/shareArticle?url=<%= config.url %>/instagram/criar-conteudo-para-stories/&title=13 apps para criar conteúdo para Stories do Instagram"></a>
-										</li>
-										<li>
-											<a class="s_wp" target="_blank" href="whatsapp://send?text=<%= config.url %>/instagram/criar-conteudo-para-stories/" data-action="share/whatsapp/share"></a> </li>
-										<li>
-											<amp-facebook-like width=90 height=28 layout="fixed" data-size="large" data-layout="button_count" data-href="<%= config.url %>/instagram/criar-conteudo-para-stories/"></amp-facebook-like>
-										</li>
-									</ul>
+									<amp-addthis width="320" height="92 data-pub-id="ra-5c8e1626f00c53bc" data-widget-id="b4jg" data-widget-type="inline"></amp-addthis>
 								</div>
-								<% } %>
 								<div class="sp-athr">
 									<span class="athr-tx">Publicado por</span>
 									<div class="amp-author ">
@@ -669,27 +648,9 @@ var author_name = post.author ? post.author : config.author;
 				</div>
 			</div>
 		</footer>
-		<% if(false) { %>
 		<div class="s_stk ss-ic">
-			<ul>
-				<li> <a title="twitter share" class="s_tw" target="_blank"
-						href="https://twitter.com/intent/tweet?url=<%= config.url %>/instagram/criar-conteudo-para-stories/&text=13%20apps%20para%20criar%20conte%C3%BAdo%20para%20Stories%20do%20Instagram">
-					</a> </li>
-				<li> <a title="google plus share" class="s_gp" target="_blank"
-						href="https://plus.google.com/share?url=<%= config.url %>/instagram/criar-conteudo-para-stories/"></a>
-				</li>
-				<li> <a title="email" class="s_em" target="_blank"
-						href="mailto:?subject=13 apps para criar conteúdo para Stories do Instagram&body=<%= config.url %>/instagram/criar-conteudo-para-stories/"></a>
-				</li>
-				<li> <a title="linkedin share" class="s_lk" target="_blank"
-						href="https://www.linkedin.com/shareArticle?url=<%= config.url %>/instagram/criar-conteudo-para-stories/&title=13 apps para criar conteúdo para Stories do Instagram"></a>
-				</li>
-				<li> <a title="whatsapp share" class="s_wp" target="_blank"
-						href="whatsapp://send?text=<%= config.url %>/instagram/criar-conteudo-para-stories/"
-						data-action="share/whatsapp/share"></a> </li>
-			</ul>
+			<amp-addthis width="320" height="92 layout="responsive" data-pub-id="ra-5c8e1626f00c53bc" data-widget-id="u0rc" data-widget-type="floating"></amp-addthis>
 		</div>
-		<% } %>
 		<a id="scrollToTopButton" title="back to top" on="tap:backtotop.scrollTo(duration=500)" class="btt"></a>
 		<amp-animation id="showAnim" layout="nodisplay">
 			<script type="application/json">
