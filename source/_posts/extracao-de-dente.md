@@ -34,6 +34,11 @@ Além disso, não devemos somente pensar **extração do dente. **Existem outra
 * Cirurgias na Gengiva;
 * Extração do Siso
 
+Caso queira falar conosco para **marcar uma consulta ou apenas tirar uma dúvida**, você pode: 
+
+* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) (é só clicar) ; 
+* Ligar para [3513-8479](tel:2135138479).
+
 ## **Como será o meu pós operatório após uma extração de dente ?**
 
 ![pos operatorio extração de dente](/images/uploads/2016/03/pos-operatorio-extração-de-dente.jpg) 

@@ -22,11 +22,17 @@ Continue a ler para aprender mais sobre:
 * O correto tratamento
 * Os cuidados quando se extrai o siso.
 
+Caso queira falar conosco para **marcar uma consulta ou apenas tirar uma dúvida**, você pode: 
+
+* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) (é só clicar) ; 
+* Ligar para [3513-8479](tel:2135138479).
+
+
 ## **Sintomas do dente siso inflamado**
 
 ![dente siso inflamado](/images/uploads/2017/05/sintomas-dente-siso-inflamado.jpg) 
 
-Podemos presumir que a correta \[]{% post_link escovar-os-dentes "higienização" %} da área, o siso pode passar anos sem ter problema. 
+Podemos presumir que com a correta {% post_link escovar-os-dentes "higienização" %} da área, o siso pode passar anos sem ter problema. 
 
 Entretanto, três situações podem dificultar a limpeza da região:
 
@@ -62,7 +68,7 @@ Porém, isso não é recomendável e deve ser evitado.
 
 O uso de medicamentos deve ser realizado sob supervisão do dentista, até porque, momentaneamente a dor pode melhorar mas o problema não será resolvido. 
 
-Quando o efeito do remédio acabar, a dor irá voltar. Nesses casos, o procedimento indicado é a **extração do elemento dentário acometido**.   \[rev_slider marque_avaliacao]
+Quando o efeito do remédio acabar, a dor irá voltar. Nesses casos, o procedimento indicado é a **extração do elemento dentário acometido**.   
 
 ## **Extração do siso**
 

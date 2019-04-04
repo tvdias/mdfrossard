@@ -22,6 +22,11 @@ Essa é a principal causa da sua gengiva estar sangrando. Portanto saber como es
 * O tratamento da gengiva sangrando
 * 5 dicas para você aplicar no dia a dia.
 
+Caso queira falar conosco para **marcar uma consulta ou apenas tirar uma dúvida**, você pode: 
+
+* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) (é só clicar) ; 
+* Ligar para [3513-8479](tel:2135138479).
+
 ## O Que Significa ter a Gengiva Sangrando ?
 
 O sangramento da gengiva geralmente está associado a sua inflamação. 
