@@ -55,7 +55,13 @@ Porém, se houver necessidade do tratamento endodôntico e este não for realiza
 
 Portanto, apesar de não sentirmos dor nos dentes, podemos ter sérios problemas, onde somente o dentista poderá realizar o melhor diagnóstico tratamento.
 
-## **O tratamento de canal é doloroso ?**
+## **Vídeo sobre o tratamento de canal** 
+
+{% youtube RVwtTUHEqwo %}
+
+---
+
+## **O tratamento de canal é doloroso ?** 
 
 O tratamento do canal sempre foi temido pelos pacientes. 
 
