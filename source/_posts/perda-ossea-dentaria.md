@@ -20,7 +20,7 @@ Porém, quando alguma patologia está associada, esse processo pode ser mais rá
 * Quais as dificuldades que a perda óssea causa.
 * O Tratamento da perda óssea.
 
-Caso queira falar conosco para **marcar uma consulta ou apenas tirar uma dúvida**, você pode: 
+Caso queira falar conosco para **marcar uma consulta**, você pode: 
 
 * Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) (é só clicar) ; 
 * Ligar para [3513-8479](tel:2135138479).

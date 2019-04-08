@@ -14,7 +14,7 @@ Caso queira saber mais sobre a Barra da tijuca, [esse texto](https://pt.wikipedi
 
 Nossa clínica liderada pelos dentistas Marcos Frossard e Davi Frossard é a opção certa para você. 
 
-**Estamos localizados no Shopping Citta America. Ligue para 3217-0430 ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) para marcar sua consulta. ** 
+**Estamos localizados no Shopping Citta America. Ligue para 3217-0430 ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) para marcar sua consulta.** 
 
 Continue lendo para saber mais sobre a clínica.
 

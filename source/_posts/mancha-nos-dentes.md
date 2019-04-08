@@ -26,7 +26,7 @@ Assim, é importante que o paciente saiba quais tipos de manchas nos dentes ele 
 * Os principais tratamentos para manchas nos dentes.
 * O que poderia ser uma mancha preta no dente.
 
-Caso queira falar conosco para **marcar uma consulta ou apenas tirar uma dúvida**, você pode: 
+Caso queira falar conosco para **marcar uma consulta**, você pode: 
 
 * Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) (é só clicar) ; 
 * Ligar para [3513-8479](tel:2135138479).
