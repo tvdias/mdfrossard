@@ -59,6 +59,12 @@ Todo o resultado final é planejado para devolver a beleza dos dentes e do sorri
 
 Para isso, cada trabalho é único, ou seja, para cada pessoa é feito um dente com o formato e cor segundo sua característica.
 
+## Vídeo sobre Prótese Fixa sobre Implante 
+---
+{% youtube g99zn_0Y82Y %}
+
+---
+
 **A prótese sobre implante dura muito tempo ?**
 -----------------------------------------------
 
