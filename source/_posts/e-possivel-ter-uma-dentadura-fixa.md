@@ -30,7 +30,9 @@ Portanto, devido a essas vantagens, a procura pela "dentadura fixa" é cada vez 
 
 ## **Será que posso realizar um protocolo dentário ?**
 
-[![dentadura e implantes](/images/uploads/2015/03/dentadura-e-implantes-1024x773.jpg)](/images/uploads/2015/03/dentadura-e-implantes.jpg) Basicamente existem **duas indicações** principais : 
+[![dentadura e implantes](/images/uploads/2015/03/dentadura-e-implantes-1024x773.jpg)](/images/uploads/2015/03/dentadura-e-implantes.jpg) 
+
+Basicamente existem **duas indicações** principais : 
 
 1 ) Quando o paciente já usa uma dentadura e quer transformar essa prótese em um trabalho fixo. 
 
@@ -64,7 +66,9 @@ Portanto, além da consulta de revisão, o cuidado em casa deve ser feito atrav�
 
 ## Vídeo sobre dentadura fixa 
 
-{% youtube G4GA1TdcP9o %}
+{% youtube kQMqmfx57lQ %}
+
+---
 
 ## **Conclusão**
 

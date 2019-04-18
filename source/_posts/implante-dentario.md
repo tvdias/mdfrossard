@@ -24,6 +24,11 @@ Leia esse guia completo sobre tudo sobre os implantes dentários :
 * Posso perder um implante ?
 * Instalar implantes dói ?
 
+Caso queira falar conosco para **marcar uma consulta**, você pode: 
+
+* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) (é só clicar) ; 
+* Ligar para [3513-8479](tel:2135138479).
+
 ## Qual a real importância dos dentes? 
 
 ![](/images/uploads/2014/10/Importancia-dos-dentes-Implante-dental.png)   

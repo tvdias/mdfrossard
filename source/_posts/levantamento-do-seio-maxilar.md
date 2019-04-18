@@ -21,6 +21,11 @@ Diversos artigos de revistas importantes nacionais e internacionais demonstram a
 
 Em poucas palavras, no **levantamento do seio maxilar** realizamos um enxerto de osso na região que posteriormente receberá a instalação de [implantes dentários](/tratamentos/implante-dentario/ "Implantodontia").
 
+Caso queira falar conosco para **marcar uma consulta ou apenas tirar uma dúvida**, você pode: 
+
+* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) (é só clicar) ; 
+* Ligar para [3513-8479](tel:2135138479).
+
 ## Como ela é feita ?
 
 [![Levantamento seio maxilar 2](/images/uploads/2014/07/Levantamento-seio-maxilar-2-300x212.jpg)](/images/uploads/2014/07/Levantamento-seio-maxilar-3.jpg)

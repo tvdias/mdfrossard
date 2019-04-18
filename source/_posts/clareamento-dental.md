@@ -29,6 +29,11 @@ Caso você ainda tenha alguma dúvida, é só deixar seu comentário após o tex
 * 4 cuidados que devemos ter durante o clareamento.
 * O que fazer em caso de sensibilidade nos dentes.
 
+Caso queira falar conosco para **marcar uma consulta**, você pode: 
+
+* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) (é só clicar) ; 
+* Ligar para [3513-8479](tel:2135138479).
+
 ## **Quais tipos de alterações de cor podemos ter **
 
 Podemos ter diversas alterações de cores, algumas são fáceis de serem removidas outras são complicadas, necessitando de tratamentos mais invasivos. 
