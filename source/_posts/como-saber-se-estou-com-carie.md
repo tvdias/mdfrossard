@@ -7,7 +7,7 @@ date: 2016-09-05T10:00:54.000Z
 featured_image: /images/uploads/2016/08/Dúvida-cárie.jpg
 ---
 
-A doença cárie já foi amplamente discutida em nosso blog. Entretanto, existem muitas dúvidas de clientes sobre esse tema, sendo a principal **“como saber se estou com cárie“** .
+A doença cárie já foi amplamente discutida em nosso blog. Entretanto, existem muitas dúvidas de clientes sobre esse tema, sendo a principal **“como saber se estou com cárie“**.
 
 **Fases da doença cárie**
 -------------------------
@@ -43,7 +43,12 @@ Entretanto, você pode fazer sua parte em casa, a correta técnica de escovaçã
 
 Beber bastante água e ter certos cuidados sobre os tipos de alimentos ingeridos, também auxiliam nesta prevenção. 
 
-**Tratamento da cárie **
+**Vídeo Será que você tem cárie ?**
+---
+{% youtube hSoR7ttm8-c %}
+
+---
+**Tratamento da cárie**
 ------------------------
 
 ![saber se estou com cárie](/images/uploads/2016/08/saber-se-estou-com-cárie.jpg) 

@@ -69,6 +69,12 @@ Por exemplo, essa cárie esta próxima do nervo do dente, teremos que realizar o
 
 A maneira mais simples para esse tratamento é limpar todo o tecido dentário comprometido para depois restaurar a região, restabelecendo o formato normal do dente.
 
+**Vídeo Será que você tem cárie ?**
+---
+{% youtube hSoR7ttm8-c %}
+
+---
+
 ## **O que pode ocasionar a cárie dentária ?**
 
 Como dito anteriormente, a cárie é causada pelo acúmulo de detritos, sujeira no dente, geralmente ocasionados pela falha na higienização. 
