@@ -51,6 +51,12 @@ Após isso, poderemos dar inicio ao planejamento do caso. Como uma reabilitaçã
 
 Ao final, mostramos ao paciente qual a sequência de tratamento e como esperamos que o sorriso fique.
 
+**Vídeo sobre Reabilitação Oral**
+---
+{% youtube eVJrVZTowJI %}
+
+---
+
 **Quais especialidades são necessárias para uma reabilitação dentária ?**
 -------------------------------------------------------------------------
 
