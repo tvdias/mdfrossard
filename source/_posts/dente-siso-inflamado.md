@@ -30,8 +30,6 @@ Caso queira falar conosco para **marcar uma consulta**, você pode:
 
 ## **Sintomas do dente siso inflamado**
 
-![dente siso inflamado](/images/uploads/2017/05/sintomas-dente-siso-inflamado.jpg) 
-
 Podemos presumir que com a correta {% post_link escovar-os-dentes "higienização" %} da área, o siso pode passar anos sem ter problema. 
 
 Entretanto, três situações podem dificultar a limpeza da região:
