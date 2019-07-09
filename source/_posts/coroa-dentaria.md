@@ -74,10 +74,14 @@ Quando vamos realizar uma [reabilitação oral](/reabilitacao-oral/), é preciso
 
 Entretanto, quando detectamos problemas de bruxismo, temos como protocolo usar coroa de metal-cerâmica em dentes posteriores.
 
-## Vídeo sobre as coroas dentárias
+## Vídeos sobre as coroas dentárias
+---
+{% youtube EcEafFl0xSo %}
+
+---
 
 {% youtube 8O9db7BTIsM %}
-
+---
 ## Infográfico sobre Coroa Dentária 
 
 ![Coroa dentária Infográfico](/images/uploads/2015/07/Coroa-Dentária-.jpg)
