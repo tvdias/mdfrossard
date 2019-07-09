@@ -60,6 +60,11 @@ Afinal, uma extração de dente não é igual a uma instalação de implante ou 
 
 Por isso, nos cuidados pós operatórios, temos pontos básicos que devemos seguir, independente da dificuldade da cirurgia.
 
+## Vídeo sobre pós operatório 
+
+{% youtube C20z6hZOjHo %}
+
+---
 ## **Os três pontos básicos no pós operatório de uma extração de dente **
 
 ![bom pós operatório](/images/uploads/2016/03/bom-pós-operatório.jpg) 
