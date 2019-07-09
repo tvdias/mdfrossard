@@ -169,10 +169,13 @@ A grande vantagem é de termos mais estabilidade e segurança ao falar e mastiga
 Assim, planejamos os implantes (em média de 5 a 8) e sobre eles colocamos uma prótese fixa. O importante é saber que não é um implante por dente.
 
 ---
-## Vídeo sobre implante dentário
+## Vídeos sobre implante dentário
+
+{% youtube A-OhhZPb_98 %}
+
+---
 
 {% youtube Ph6aoLun1oo %}
-
 ---
 ## E a carga imediata? Posso fazer?
 
