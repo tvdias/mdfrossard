@@ -179,7 +179,11 @@ hide_title: true
                data-endelementdelay="0.1" 
                data-endspeed="200" 
                data-endeasing="Linear.easeNone" 
-               style="z-index: 9;"><img src="/images/uploads/revslider/Home2/logo.png" alt=""> 
+               style="z-index: 9;">
+              <picture>
+                <source srcset="//ucarecdn.com/4ceb9859-c65b-4612-992f-16de0c4895e3/-/format/webp/" type="image/webp"/>
+                <img src="//ucarecdn.com/4ceb9859-c65b-4612-992f-16de0c4895e3/-/format/auto/" alt="blog" />
+               </picture> 
             </div>
          </li>
       </ul>
