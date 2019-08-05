@@ -113,9 +113,11 @@ Quando realizamos uma boa técnica de escovação e o uso do fio dental, o boche
 Porém, durante o dia, com menos tempo para realizar uma boa higiene dental, o anti-séptico bucal ajuda a boa limpeza dos dentes, além de deixar o hálito melhor.
 
 ## Vídeo sobre dicas de Higiene Bucal 
+----
 
-{% youtube bKopZOFRptg %}
+{% youtube 2nsrVv5WqrI %}
 
+---
 Tem outras dúvidas sobre os seus dentes ? 
 
 Continue navegando em nosso site, onde temos diversos outros textos para você. Também deixe seu comentário abaixo. 
