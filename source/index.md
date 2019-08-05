@@ -11,18 +11,12 @@ hide_title: true
 {% raw %}
 <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto; background-color:#E9E9E9; padding:0px;max-height:500px; width: 100%;">
    <!-- START REVOLUTION SLIDER 4.6.5 fullwidth mode -->
-   <img src="//ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/resize/1000x/-/format/auto/-/progressive/yes/-/quality/lighter/"
-                  srcset="//ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/resize/320x/-/format/auto/-/progressive/yes/ 320w,
-                          //ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/resize/450x/-/format/auto/-/progressive/yes/ 450w,
-                          //ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/resize/640x/-/format/auto/-/progressive/yes/ 640w,
-                          //ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/resize/750x/-/format/auto/-/progressive/yes/ 750w,
-                          //ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/resize/800x/-/format/auto/-/progressive/yes/ 800w,
-                          //ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/resize/900x/-/format/auto/-/progressive/yes/-/quality/lighter/ 900w,
-                          //ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/resize/1000x/-/format/auto/-/progressive/yes/-/quality/lighter/ 1000w,
-                          //ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/resize/1200x/-/format/auto/-/progressive/yes/-/quality/lighter/ 1200w,
-                          //ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/resize/1500x/-/format/auto/-/progressive/yes/-/quality/lighter/ 1500w,
-                          //ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/resize/1600x/-/format/auto/-/progressive/yes/-/quality/lighter/ 16000w"
-                  alt="home01"  data-bgposition="left center" data-kenburns="on" data-duration="14000" data-ease="Linear.easeNone" data-bgfit="100"     data-bgfitend="130" data-bgpositionend="right center" style="width: 100%; height: auto;">
+   <img src="//ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/crop/800x500/center/-/resize/800x/-/format/auto/-/progressive/yes/"
+      srcset="//ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/resize/500x/-/format/auto/-/progressive/yes/ 500w,
+               //ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/crop/800x500/center/-/resize/800x/-/format/auto/-/progressive/yes/ 800w,
+               //ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/crop/1000x500/center/-/resize/1000x/-/format/auto/-/progressive/yes/-/quality/lighter/ 1000w,
+               //ucarecdn.com/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7/-/crop/1200x500/center/-/format/auto/-/progressive/yes/-/quality/lighter/ 12000w"
+      alt="home01"  data-bgposition="left center" data-kenburns="on" data-duration="14000" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="130" data-bgpositionend="right center" style="width: 100%; height: auto;">
 </div>
 <!-- END REVOLUTION SLIDER -->
 <div class="row clearfix"></div>
