@@ -4,7 +4,7 @@ description: >-
   Veja os 7 erros mais comuns ao escovar os dentes. Conheça também a forma
   correta de realizar a higiene bucal. Tenha uma ótima saúde na boca. 
 date: 2016-06-21T08:41:03.000Z
-featured_image: /images/uploads/2016/06/escova-dente-fio-dental-macara-manequim.jpg
+featured_image: //ucarecdn.com/355ec8c4-3a03-41f6-ba95-328bf813b379/escova-dente-fio-dental-macara-manequim.jpg
 ---
 
 **Escovar os dentes** é um hábito que adquirimos desde pequenos, sendo transmitidos pelos nossos pais. Porém, ao se tornar um hábito, muitas vezes fazemos sem prestar atenção aos detalhes, o que pode comprometer a correta escovação. Portanto, quero conversar com vocês sobre 7 erros comuns que cometemos ao escovar os dentes.
@@ -52,7 +52,7 @@ O tempo para trocar a escova é difícil determinar. Pois vai depender da força
 **Então afinal, qual a maneira correta de escovar os dentes **
 --------------------------------------------------------------
 
-![escovar os dentes](/images/uploads/2016/06/escovar-os-dentes.jpg) 
+![escovar os dentes](//ucarecdn.com/bf2a9364-7c04-4519-bcca-5700796d581a/escovar-os-dentes.jpg) 
 
 Eu já escrevi alguns textos sobre dicas de {% post_link 7-dicas-faceis-para-a-sua-higiene-bucal "higiene bucal" %}. 
 

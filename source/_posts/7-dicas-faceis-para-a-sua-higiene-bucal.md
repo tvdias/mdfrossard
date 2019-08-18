@@ -4,7 +4,7 @@ description: >-
   Mude a saúde dos seus dentes com pequenas dicas sobre Higiene Bucal. Você pode
   alcançar uma boca muito mais saudável. Aprenda agora.
 date: 2015-08-17T10:30:39.000Z
-featured_image: /images/uploads/2015/08/higiene-bucal.jpg
+featured_image: //ucarecdn.com/14399dec-bdd5-48d0-b052-90432ad0020d/higiene-bucal.jpg
 ---
 Atualmente percebemos uma grande demanda dos pacientes por [estética](/tratamentos/estetica-dos-dentes/). 
 
@@ -20,7 +20,7 @@ Para facilitar, vou explicar algumas dicas fáceis de serem implementadas.
 
 # **7 Dicas fáceis para a sua higiene bucal**
 
-![higiene bucal dicas](/images/uploads/2015/08/higiene-bucal-dicas.jpg)
+![higiene bucal dicas](//ucarecdn.com/bfa7560f-9d16-43af-b5a3-dc99bbc1fdd4/higiene-bucal-dicas.jpg)
 
 
 
@@ -56,7 +56,7 @@ Realizar pelo menos uma vez ao dia esse procedimento.
 
 #### **3) Use o fio dental**
 
-![fio dental e higiene bucal](/images/uploads/2015/08/fio-dental-e-higiene-bucal.jpg) 
+![fio dental e higiene bucal](//ucarecdn.com/962e88b4-1907-4cd6-ae11-68c6e5e7ccdc/fio-dental-e-higiene-bucal.jpg) 
 
 Aqui temos outro velho jargão na odontologia. "Além da escovação, também se deve usar o fio dental 3 vezes ao dia“.  
 
@@ -72,7 +72,7 @@ O sangramento se deve a dois principais fatores, o primeiro se deve a falta de u
 
 #### **4 ) Evitar a força excessiva**
 
-![](/images/uploads/2016/08/saber-se-estou-com-cárie.jpg) 
+![](//ucarecdn.com/30b86ced-1416-4108-9b6f-bfd5ee043abd/saber-se-estou-com-cárie.jpg) 
 
 Precisamos compreender que a força excessiva durante a escovação não irá melhorar a sua higiene bucal. 
 
@@ -92,7 +92,7 @@ Na verdade não é necessário muita pasta para realizar uma boa higiene bucal. 
 
 #### **6) A correta higiene bucal irá impedir que você tenha mau-hálito**
 
-![o dentista e a higiene bucal](/images/uploads/2015/08/o-dentista-e-a-higiene-bucal.jpg) 
+![o dentista e a higiene bucal](//ucarecdn.com/1dd8e98e-e2bd-47b4-98fa-d396086b1c85/o-dentista-e-a-higiene-bucal.jpg) 
 
 Além de evitar o sangramento na gengiva e a cárie, a correta higiene dental irá prevenir um problema muito desconfortável, o mau hálito ! 
 

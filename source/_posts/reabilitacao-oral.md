@@ -5,7 +5,7 @@ description: >-
   reformulação dos dentes para se adquirir uma melhor mastigação e estética.
   Leia mais.
 date: 2016-01-18T16:47:43.000Z
-featured_image: /images/uploads/2016/01/reabilitação-oral.jpg
+featured_image: //ucarecdn.com/c2e56fd2-452b-4577-a282-1d3636097725/reabilitação-oral.jpg
 ---
 
 Com o passar dos anos, podemos passar por diversos {% post_link tratamento-dentario "tratamentos dentários" %}, desde a realização de uma pequena restauração até a extração de um elemento dentário. 
@@ -37,7 +37,7 @@ Assim torna-se necessário intervir com várias especialidades para devolver o a
 **Como é realizada a reabilitação dos dentes ?**
 ------------------------------------------------
 
-[![reabilitação dos dentes](/images/uploads/2016/01/reabilitação-dos-dentes.jpg)](/images/uploads/2016/01/reabilitação-dos-dentes.jpg) 
+[![reabilitação dos dentes](//ucarecdn.com/4600868e-5918-4fc5-af50-58508b12afea/reabilitação-dos-dentes.jpg)](//ucarecdn.com/4600868e-5918-4fc5-af50-58508b12afea/reabilitação-dos-dentes.jpg) 
 
 Antes precisamos ter em mente que a reabilitação oral é um **procedimento complexo**, pois envolve mudar completamente a mordida e o sorriso do indivíduo de forma a estabilizar e sanar problemas, principalmente os de mastigação. 
 
@@ -60,7 +60,7 @@ Ao final, mostramos ao paciente qual a sequência de tratamento e como esperamos
 **Quais especialidades são necessárias para uma reabilitação dentária ?**
 -------------------------------------------------------------------------
 
-![](/images/uploads/2016/08/como-saber-se-estou-com-cárie.jpg) 
+![](//ucarecdn.com/ea56bf19-1116-43da-bc86-5d85bc5d2d40/como-saber-se-estou-com-cárie.jpg) 
 
 Em grande parte dos casos, **praticamente todas.** 
 
@@ -71,7 +71,7 @@ Com a saúde da gengiva, podemos começar o tratamento de reabilitação. Depend
 **A reabilitação oral é demorada ?**
 ------------------------------------
 
-[![reabilitação oral](/images/uploads/2016/01/reablitação-dentária.jpg)](/images/uploads/2016/01/reablitação-dentária.jpg) 
+[![reabilitação oral](//ucarecdn.com/c2df1b99-aed9-4ecf-97b2-07bcced39cad/reablitação-dentária.jpg)](//ucarecdn.com/c2df1b99-aed9-4ecf-97b2-07bcced39cad/reablitação-dentária.jpg) 
 
 Sim. E cada caso demanda um tempo diferente que envolve **3 pilares**:
 

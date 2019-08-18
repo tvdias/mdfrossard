@@ -4,7 +4,7 @@ description: >-
   A odontologia estética já é uma realidade em vários consultórios. Ela se
   baseia na realização de vários procedimentos visando melhorar o seu sorriso.
 date: 2018-09-10T10:00:03.000Z
-featured_image: /images/uploads/2018/07/sorriso-inclinado-simples-dentes-claros.jpg
+featured_image: //ucarecdn.com/94bd8bb5-09b8-4a05-8fbb-c0fbe87b2afa/sorriso-inclinado-simples-dentes-claros.jpg
 ---
 A odontologia estética já é uma realidade nos consultórios dentários. Assim como na medicina, os procedimentos rejuvenescedores são cada vez mais procurados e realizados por profissionais capacitados.
 
@@ -16,7 +16,7 @@ Os 5 principais são o clareamento dental, a realização de facetas, instalaç�
 
 ## **Clareamento dental**
 
-![Odontologia estética](/images/uploads/2018/07/odontologia-estetica.jpg "Odontologia estética") 
+![Odontologia estética](//ucarecdn.com/0a437d8a-9b9a-48c8-a3a4-8255056fd779/odontologia-estetica.jpg "Odontologia estética") 
 
 Dentro da odontologia estética, talvez o clareamento dental seja o tratamento mais simples e que pode apresentar um ótimo resultado dentro de pouco tempo. 
 

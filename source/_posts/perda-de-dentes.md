@@ -4,7 +4,7 @@ description: >-
   A perda de dentes é uma ocorrência comum na odontologia. Porém, nem todos
   sabem o quanto é ruim essa situação, ocasionando problemas oclusais. Confira.
 date: 2015-02-02T10:00:54.000Z
-featured_image: /images/uploads/2015/02/perda-de-dentes1.jpg
+featured_image: //ucarecdn.com/88bbb4c2-84a4-4068-8c60-aa3b2284663a/perda-de-dentes1.jpg
 ---
 
 Hoje quero mostrar como a perda de um elemento dentário gera uma série de problemas, não só estéticos mas também mastigatórios. Também as principais soluções para acabar com esse problema. 
@@ -19,7 +19,7 @@ Nas duas últimas opções, um correto cuidado com a higiene dental e consultas 
 
 Como mostrado nas ilustrações , quando perdemos um dente, ficamos com um espaço vazio em nossa arcada, deixando os dentes vizinhos sem ponto de apoio. 
 
-[![perda de dentes e suas consequecias.](/images/uploads/2013/08/perda-de-dentes-e-suas-consequecias..png)](/images/uploads/2013/08/perda-de-dentes-e-suas-consequecias..png) 
+[![perda de dentes e suas consequecias.](//ucarecdn.com/79e11d27-5592-4253-b7b1-aa86bc9f19e1/perda-de-dentes-e-suas-consequecias..png)](//ucarecdn.com/79e11d27-5592-4253-b7b1-aa86bc9f19e1/perda-de-dentes-e-suas-consequecias..png) 
 
 Sem este contato, os dentes proximais (vizinhos ao dente perdido) se aproximam e o dente antagonista (no caso o dente superior), tende a descer, gerando um desarranjo que culminará:
 
@@ -39,7 +39,7 @@ Dessa forma não há necessidade de preparo nos dentes vizinhos ao espaço.
 
 A tabela abaixo demonstra algumas diferenças entre estes os procedimentos, no caso de perda de 1 (um) dente: 
 
-[![Perda de dentes](/images/uploads/2015/02/Perda-de-dentes.png)](/images/uploads/2015/02/Perda-de-dentes.png)   
+[![Perda de dentes](//ucarecdn.com/de8bbb78-68d8-4638-ac1a-d8763083c213/Perda-de-dentes.png)](//ucarecdn.com/de8bbb78-68d8-4638-ac1a-d8763083c213/Perda-de-dentes.png)   
 
 Diante do que foi mostrado, vale ressaltar que anamnese e exame clínico corretos são necessários para definir a melhor forma de tratamento. 
 

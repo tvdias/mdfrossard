@@ -4,7 +4,7 @@ description: >-
   Por que devemos extrair o siso ? Quais são suas indicações ? causa muita dor ?
   Essa são alguns questionamentos que os pacientes tem. Veja o texto completo.
 date: 2014-11-03T10:00:39.000Z
-featured_image: /images/uploads/2014/10/siso_incluso.jpg
+featured_image: //ucarecdn.com/fbf52b9b-4660-4b09-9901-b2a664987912/siso_incluso.jpg
 ---
 
 Por que extrair o siso?
@@ -25,7 +25,7 @@ Caso o siso esteja em posição correta, sem causar transtorno, incômodo, dor e
 Quais são as indicações para extração do siso 
 ----------------------------------------------
 
-[![extração siso](/images/uploads/2014/11/extração-siso.jpg)](/images/uploads/2014/11/extração-siso.jpg) 
+[![extração siso](//ucarecdn.com/7bfbb242-7598-49e6-bde8-f7236e397efa/extração-siso.jpg)](//ucarecdn.com/7bfbb242-7598-49e6-bde8-f7236e397efa/extração-siso.jpg) 
 
 A seguir, listo as situações em que sua remoção é indicada: 
 - Quando falta espaço na arcada e o siso ao nascer estaria numa posição ruim para higienização; 
@@ -54,7 +54,7 @@ Assim, a placa se acumula entre o siso e a gengiva, causando muita dor e desconf
 E a cirurgia para remoção do siso, como acontece?
 -------------------------------------------------
 
-[![radiografia-panoramica-terceiros-molares-sisos](/images/uploads/2014/11/radiografia-panoramica-terceiros-molares-sisos.jpg)](/images/uploads/2014/11/radiografia-panoramica-terceiros-molares-sisos.jpg) 
+[![radiografia-panoramica-terceiros-molares-sisos](//ucarecdn.com/154f252c-cee2-46d3-b873-28ac05eb49e5/radiografia-panoramica-terceiros-molares-sisos.jpg)](//ucarecdn.com/154f252c-cee2-46d3-b873-28ac05eb49e5/radiografia-panoramica-terceiros-molares-sisos.jpg) 
 
 A primeira coisa que devemos saber é que uma cirurgia de siso é totalmente diferente da outra. 
 

@@ -4,7 +4,7 @@ description: >-
   Você já pensou em ter um Sorriso Perfeito e bonito? A odontologia apresenta
   diversos tratamentos que podem melhorar a estética dos dentes. Veja como.
 date: 2015-04-28T17:45:20.000Z
-featured_image: /images/uploads/2015/04/Sorriso-perfeito.jpg
+featured_image: //ucarecdn.com/6d06d69a-0490-4136-aa10-ca875b8ef70e/Sorriso-perfeito.jpg
 ---
 
 **Você já pensou em ter um sorriso perfeito?** 
@@ -24,7 +24,7 @@ Então continue lendo o texto, para saber como ter um sorriso perfeito e quais a
 **Antes de mais nada, o que seria ter um sorriso perfeito?**
 ------------------------------------------------------------
 
-[![Sorriso bonito](/images/uploads/2015/04/Sorriso-bonito-1024x684.jpg)](/images/uploads/2015/04/Sorriso-bonito.jpg) 
+[![Sorriso bonito](/images/uploads/2015/04/Sorriso-bonito-1024x684.jpg)](//ucarecdn.com/15b90cf7-0897-4053-a412-edb42b6597cc/Sorriso-bonito.jpg) 
 
 Quando se fala em **sorriso [perfeito](http://www.dicio.com.br/perfeito/)**, estamos usando uma referência a um sorriso agradável, onde socialmente você possa sorrir com segurança, tranquilidade e saúde. 
 
@@ -41,7 +41,7 @@ Dentro do correto planejamento e das características individuais de cada um, ir
 **O Sorriso perfeito pode mudar a sua vida **
 ---------------------------------------------
 
-[![Dentes perfeitos](/images/uploads/2015/04/Dentes-perfeitos-1024x683.jpg)](/images/uploads/2015/04/Dentes-perfeitos.jpg) 
+[![Dentes perfeitos](/images/uploads/2015/04/Dentes-perfeitos-1024x683.jpg)](//ucarecdn.com/682fc8e0-d08d-444f-af58-4fa3d98f1a52/Dentes-perfeitos.jpg) 
 
 **Você acredita nisso? Pois devia acreditar!** 
 
@@ -72,7 +72,7 @@ Mude seu conceito, ter um sorriso perfeito e bonito irá te fazer muito mais fel
 **Mas sorrir sem dentes perfeitos é possível ?**
 ------------------------------------------------
 
-[![sem dentes](/images/uploads/2015/04/sem-dentes-1024x577.jpg)](/images/uploads/2015/04/sem-dentes.jpg) 
+[![sem dentes](/images/uploads/2015/04/sem-dentes-1024x577.jpg)](//ucarecdn.com/b5c40ac5-fd6e-4e7e-bf8b-6d562d5d38e8/sem-dentes.jpg) 
 
 **Na teoria sim!** 
 
@@ -109,7 +109,7 @@ Sem falar em todos os {% post_link perda-de-dentes "problemas dentários e artic
 
 Na internet encontramos algumas montagens de fotos engraçadas de pessoas famosas sorrindo sem os dentes, claramente podemos ver como a presença dos dentes fazem falta.
 
-**Portanto, como você pode ter dentes e um sorriso perfeito  ?**[](/images/uploads/2015/04/Sorrisos-perfeito.jpg)
+**Portanto, como você pode ter dentes e um sorriso perfeito  ?**[](//ucarecdn.com/7de3e839-3713-4a4a-9c04-f814aac1439d/Sorrisos-perfeito.jpg)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 A odontologia nos apresenta inúmeras possibilidades de tratamentos, não somente estéticos, mas também de {% post_link reabilitacao-oral "reabilitação oral" %}. 
@@ -163,7 +163,7 @@ A reabilitação oral é a soma de todas os tratamentos citados acima. Existem m
 **Algumas dicas extras**
 ------------------------
 
-[![sorriso perfeito](/images/uploads/2015/04/perfeito-sorriso-1024x683.jpg)](/images/uploads/2015/04/perfeito-sorriso.jpg)
+[![sorriso perfeito](/images/uploads/2015/04/perfeito-sorriso-1024x683.jpg)](//ucarecdn.com/1b4f7479-1462-4d3a-b609-c7665a55c3c6/perfeito-sorriso.jpg)
 
 *   A {% post_link 7-dicas-faceis-para-a-sua-higiene-bucal "Higienização dental" %} é o pilar do sorriso perfeito.
 *   Não adianta realizar todos esses procedimentos estéticos e não ter uma boa escovação dos dentes.

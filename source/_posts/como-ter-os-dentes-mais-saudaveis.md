@@ -4,7 +4,7 @@ description: >-
   Nem sempre procuramos saber como ter os dentes mais saudáveis. Entretanto, é
   importante ter saúde bucal para evitar a cárie e a doença periodontal.
 date: 2018-04-16T08:00:13.000Z
-featured_image: /images/uploads/2018/04/como-ter-dentes-mais-saudáveis.jpg
+featured_image: //ucarecdn.com/b14ef61e-c155-493f-8b7a-c0db9c6b63d4/como-ter-dentes-mais-saudáveis.jpg
 ---
 
 Nem sempre procuramos saber como ter os **dentes mais saudáveis**. 
@@ -35,7 +35,7 @@ A limpeza bucal é fácil de ser realizada, {% post_link escovar-os-dentes "ness
 **Uso do Fio dental **
 ----------------------
 
-![Como ter os dentes mais saudáveis](/images/uploads/2018/04/como-ter-dentes-mais-saudáveis-e-o-uso-do-fio-dental.jpg) 
+![Como ter os dentes mais saudáveis](//ucarecdn.com/871930ef-bab5-4734-ad8c-9a274d365e96/como-ter-dentes-mais-saudáveis-e-o-uso-do-fio-dental.jpg) 
 
 A segunda prática que devemos ter em nossa rotina é o uso do **fio dental.** 
 

@@ -4,7 +4,7 @@ description: >-
   Quais os cuidados com a dentadura que devemos ter ? Veja no texto 6 simples
   dicas de como cuidar dela e prolongar sua estética.
 date: 2015-03-09T10:00:28.000Z
-featured_image: /images/uploads/2015/03/como-cuidar-de-sua-dentadura.jpg
+featured_image: //ucarecdn.com/aea180d5-f36e-44d3-942c-01a820f4c0b7/como-cuidar-de-sua-dentadura.jpg
 ---
 
 O uso de dentaduras em nossa população ainda é grande. Mesmo com a melhora na conscientização da higienização, muitos chegam a velhice usando uma prótese removível. 
@@ -51,7 +51,7 @@ Outra desvantagem é na fase inicial. Quando todos os dentes foram removidos e e
 6 Dicas Fáceis para o Cuidado com a Dentadura
 ---------------------------------------------
 
-[![dentadura](/images/uploads/2015/03/Dentadura-1024x682.jpg)](/images/uploads/2015/03/Dentadura.jpg) 
+[![dentadura](/images/uploads/2015/03/Dentadura-1024x682.jpg)](//ucarecdn.com/3875e74c-e66c-463c-99b1-35eb7ac64449/Dentadura.jpg) 
 
 Essas dicas podem ser baixadas no site na parte de {% post_link informativos "informativos" %}.
 
@@ -90,7 +90,7 @@ Visite o dentista se sua prótese quebrar, lascar, rachar ou ficar solta. Não f
 Existem outras opções quando se perde os dentes  ?
 --------------------------------------------------
 
-![dentista-sorriso](/images/uploads/2014/02/dentista-sorriso.jpg) 
+![dentista-sorriso](//ucarecdn.com/0f3beeba-591b-4bac-b9a2-bd24f377d0dd/dentista-sorriso.jpg) 
 
 É claro que sim, a melhor alternativa a prótese total são os [implantes dentais](/tratamentos/implante-dentario/ "Implantodontia"). 
 

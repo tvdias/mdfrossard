@@ -4,7 +4,7 @@ description: >-
   A placa para bruxismo é um tratamento fácil e rápido de ser realizado. Ela
   protege os dentes contra o ranger deles e pode diminuir a dor de cabeça.
 date: 2018-03-19T08:00:14.000Z
-featured_image: /images/uploads/2018/03/placa-de-bruxismo.jpg
+featured_image: //ucarecdn.com/4759297e-056f-449b-aca7-fd53d709d48f/placa-de-bruxismo.jpg
 ---
 
 Dor de cabeça ou na musculatura da face, aliado ao desgaste do dente são alguns fatores relacionados ao {% post_link bruxismo-tratamento "bruxismo" %}. 
@@ -18,7 +18,7 @@ Porém, o mais comum e fácil de se realizar é a **placa para bruxismo**.
 **Diagnóstico** 
 ----------------
 
-![placa para bruxismo](/images/uploads/2018/03/placa-de-bruximo-diagnótico.jpg) 
+![placa para bruxismo](//ucarecdn.com/3ab180cd-3558-409b-b6f3-979e2266abf1/placa-de-bruximo-diagnótico.jpg) 
 
 Em muitos casos o bruxismo ocorre devido ao nosso [estresse](https://pt.wikipedia.org/wiki/Estresse) diário. 
 
@@ -54,7 +54,7 @@ Para mais informações sobre o seu cuidado, basta {% post_link informativos "cl
 **Conclusão**
 -------------
 
-![vantagens placa para bruxismo](/images/uploads/2018/03/fique-atento-na-placa-de-bruxismo.jpg) 
+![vantagens placa para bruxismo](//ucarecdn.com/c204dd45-fc82-4ac1-affd-bd6afe1b4e46/fique-atento-na-placa-de-bruxismo.jpg) 
 
 É preciso ficar atento, já que na maioria dos casos a placa é rígida. 
 

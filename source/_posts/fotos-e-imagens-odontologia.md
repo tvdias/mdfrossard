@@ -4,7 +4,7 @@ description: >-
   As fotos atualmente são essenciais para o tratamento reabilitador na
   odontologia. Veja como e porque as imagens tem ajudado os dentistas.
 date: 2015-01-19T10:00:47.000Z
-featured_image: /images/uploads/2013/11/camera-fotografica.jpg
+featured_image: //ucarecdn.com/ab18a2d9-c3a3-416d-960d-dd4491e4493f/camera-fotografica.jpg
 ---
 
 As fotos e imagens de maneira geral evoluíram muito, seja em questão dos tipos de câmeras, mas principalmente em relação a qualidade das imagens obtidas. 
@@ -24,7 +24,7 @@ Digo isto pois as imagens nos trazem informações valiosas para o nosso planeja
 Quais os tipos de câmeras usadas e pra que servem ?
 ---------------------------------------------------
 
- [![checkup-digital-02](/images/uploads/2014/03/checkup-digital-02.jpg)](/images/uploads/2014/03/checkup-digital-02.jpg) 
+ [![checkup-digital-02](//ucarecdn.com/023233b8-ac8d-49e9-ae20-ecaa66d74f87/checkup-digital-02.jpg)](//ucarecdn.com/023233b8-ac8d-49e9-ae20-ecaa66d74f87/checkup-digital-02.jpg) 
  
  Diante disso, temos dois tipos de câmeras principais que podemos usar no consultório, a câmera intra-oral e a câmera externa ou semi-profissional.
 

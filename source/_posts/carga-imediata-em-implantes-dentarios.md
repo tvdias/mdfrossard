@@ -14,7 +14,7 @@ Muitos pacientes chegam ao nosso consultório com [dúvidas](/tratamentos/implan
 
 ## Em primeiro lugar, o que é carga imediata em implantes?
 
-[![carga imediata em implantes](/images/uploads/2013/07/Captura-de-tela-2013-07-28-às-11.41.30.png)](/images/uploads/2013/07/Captura-de-tela-2013-07-28-às-11.41.30.png) 
+[![carga imediata em implantes](//ucarecdn.com/013b2470-c853-4e7d-8710-21e94322ac7e/Captura-de-tela-2013-07-28-às-11.41.30.png)](//ucarecdn.com/013b2470-c853-4e7d-8710-21e94322ac7e/Captura-de-tela-2013-07-28-às-11.41.30.png) 
 
 Carga imediata é a colocação de um dente (coroa provisória) diretamente sobre o implante logo após a cirurgia, ou seja, o paciente já sai da cirurgia com o ‘dente fixo’ no implante.
 
@@ -24,7 +24,7 @@ Além disso, existem alguns parâmetros básicos para o uso dessa técnica. Tamb
 
 ## 3 fatores positivos para o uso da carga imediata
 
-![Carga imediata em implantes dentários](/images/uploads/carga_imediata_em_implantes_denta_rios.png)
+![Carga imediata em implantes dentários](//ucarecdn.com/e94e07fa-8587-4cac-a86e-a3b034dd64aa/carga_imediata_em_implantes_denta_rios.png)
 
 #### **1 - Provisório direto sobre o implante**
 
@@ -72,7 +72,7 @@ Para o uso desta técnica, temos que avaliar com bastante cuidado qual o tipo de
 
 ## Limitações da carga imediata em implantes
 
-![Implante dentário - Carga Imediata](/images/uploads/2013/07/Captura-de-tela-2013-07-28-às-11.41.20.png) 
+![Implante dentário - Carga Imediata](//ucarecdn.com/f8b62cec-e888-448e-87a1-82fe3f17cdba/Captura-de-tela-2013-07-28-às-11.41.20.png) 
 
 **Existem limitações?** 
 

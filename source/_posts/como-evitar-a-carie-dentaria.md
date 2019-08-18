@@ -4,7 +4,7 @@ description: >-
   A Cárie dentária é a doença bucal mais comum de se ter. Porém, é possível
   prevenir com simples atitudes. Veja aqui 10 dicas de como evitar a cárie.
 date: 2014-06-20T07:49:19.000Z
-featured_image: /images/uploads/2014/01/Cárie-dentária-1.jpg
+featured_image: //ucarecdn.com/a38f22b8-210d-4ced-9cb2-e04840d0b9b4/Cárie-dentária-1.jpg
 ---
 A [doença periodontal](/tratamentos/periodontia/ "Periodontia") e a **Cárie dentária** são as principais causas de perda dentária, sendo a cárie a principal responsável pelas dores de dente. 
 
@@ -12,7 +12,7 @@ Porém, elas podem ser prevenidas com simples atitudes.
 
 ## **Afinal o que é cárie dentária ?**
 
-![cárie dentária](/images/uploads/2014/01/cárie-dentária-300x240.jpg) 
+![cárie dentária](//ucarecdn.com/2ee9fce2-78c8-444c-9b94-c14e7f1eeaa2/cárie-dentária-300x240.jpg) 
 
 A Cárie pode ser definida de forma simplista como o processo de destruição localizada dos tecidos dentais pela ação das bactérias.
 
@@ -27,7 +27,7 @@ Essa deterioração do dente é conseqüência do tipo de vida do indivíduo:
 
 ## **Como posso saber que estou com cárie dentária?**
 
-![cárie dentária](/images/uploads/2017/08/como-clarear-os-dentes-bicarbonato.jpg)  
+![cárie dentária](//ucarecdn.com/9220d1fb-072b-428d-afb0-090be874bdca/como-clarear-os-dentes-bicarbonato.jpg)  
 
 A cárie começa de forma localizada e pequena com as chamadas manchas brancas opacas. 
 
@@ -59,7 +59,7 @@ Assim, quando se tem cárie nessa região, sua progressão é muito mais rápida
 
 ## **Como é feito o tratamento da cárie ?**
 
-![](/images/uploads/2016/08/como-saber-se-estou-com-cárie.jpg) 
+![](//ucarecdn.com/ea56bf19-1116-43da-bc86-5d85bc5d2d40/como-saber-se-estou-com-cárie.jpg) 
 
 O tratamento, feito pelo dentista, consiste em primeiro detectar aonde esta localizada a cárie. 
 
@@ -83,7 +83,7 @@ Por exemplo, não escovar os dentes após as refeições, ter uma dieta baseada 
 
 ## **Os 10 principais  cuidados que devemos ter para evitar a cárie dentária?**
 
-![](/images/uploads/2014/06/cárie-dentária.jpg) 
+![](//ucarecdn.com/2a2f13bc-5f9c-40a3-b8f7-787b190180bb/cárie-dentária.jpg) 
 
 **DICA 1 -** 
 A escovação deve ser feita sempre após as refeições e com escova macia, com creme dental contendo flúor. **Escove os dentes pelo menos três vezes** ao dia e prefira escovas de cabeça pequena e com cerdas macias.   

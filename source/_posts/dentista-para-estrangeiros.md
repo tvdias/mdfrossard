@@ -4,7 +4,7 @@ description: >-
   Você já precisou de dentista para estrangeiros ? Temos diversos serviços para
   agilizar o tratamento estando fora do seu estado ou país. 
 date: 2014-09-18T10:00:41.000Z
-featured_image: /images/uploads/2014/09/image.jpg
+featured_image: //ucarecdn.com/50f06e1f-1e17-4df6-9273-e779a1d7c442/image.jpg
 ---
 Esse texto é voltado para pessoas **procurando dentista para estrangeiros** na cidade do Rio de Janeiro. 
 
@@ -20,7 +20,7 @@ Para momentos assim, nós da MD Frossard **oferecemos tratamento individualizado
 
 Dessa forma, caso haja necessidade de atendimento para estrangeiros, contamos com profissionais habilitados para atendê-los nos bairros de Botafogo e Barra de Tijuca.
 
- [![dentista para estrangeiros](/images/uploads/2014/09/mapa-mundi-300x225.jpg)](/images/uploads/2014/09/mapa-mundi.jpg) 
+ [![dentista para estrangeiros](/images/uploads/2014/09/mapa-mundi-300x225.jpg)](//ucarecdn.com/8a21960b-4210-40c3-817e-ab6141dd8ddc/mapa-mundi.jpg) 
 
 Além disso, oferecemos o {% post_link day-clinic "Day clinic" %}. 
 

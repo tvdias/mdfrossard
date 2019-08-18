@@ -4,7 +4,7 @@ description: >-
   Visando melhorar nosso canal de atendimento com vocês, atualizamos o nosso
   site. Você agora irá encontrar muita informação de qualidade. 
 date: 2014-04-10T12:31:06.000Z
-featured_image: /images/uploads/2014/04/Mudança-site.jpg
+featured_image: //ucarecdn.com/dbc110b0-2652-4e8a-ad7b-95fa0fd3856d/Mudança-site.jpg
 ---
 
 Olá a todos ! Nosso site passou por algumas mudanças, como vocês podem ver adicionamos algumas novas partes ao site ! 

@@ -4,7 +4,7 @@ description: >-
   O clareamento a laser é muito utilizado nos consultórios dentários. Mas será
   que ele funciona mesmo? Veja o texto e descubra tudo sobre esse tratamento.
 date: 2018-07-30T10:00:47.000Z
-featured_image: /images/uploads/2018/07/clareamento-a-laser.jpg
+featured_image: //ucarecdn.com/cf941929-82da-4d54-8712-f62ee4a09810/clareamento-a-laser.jpg
 ---
 
 O clareamento dental é um dos procedimentos estéticos mais realizados nos consultório dentários. 
@@ -39,7 +39,7 @@ Entretanto, ainda precisamos usar o [fotopolimerizador](https://pt.wikipedia.org
 **Como ele é feito ?**
 ----------------------
 
-![clareamento a laser](/images/uploads/2018/07/clareamento-a-laser-funciona.jpg "clareamento a laser") 
+![clareamento a laser](//ucarecdn.com/41877bdb-851a-4b1d-a9fb-0ab5b05554d3/clareamento-a-laser-funciona.jpg "clareamento a laser") 
 
 Antes de iniciar o tratamento, devemos realizar fotos da arcada dentária. Elas vão servir de referencia inicial para a comparação da cor final obtida. 
 

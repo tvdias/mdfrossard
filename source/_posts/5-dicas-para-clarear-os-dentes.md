@@ -4,7 +4,7 @@ description: >-
   Veja as 5 principais dicas para clarear os dentes. Veja como você pode ter o
   sorriso dos seus sonhos. Fique atento a quarta dica !
 date: 2017-08-07T10:00:41.000Z
-featured_image: /images/uploads/2017/08/dicas-para-clarear-os-dentes.jpg
+featured_image: //ucarecdn.com/06880c83-e02d-445c-8961-25b9e53dce9a/dicas-para-clarear-os-dentes.jpg
 ---
 Hoje quero compartilhar 5 dicas para **clarear os dentes.** São dicas fáceis de se seguir e podem melhorar seu sorriso.
 
@@ -20,7 +20,7 @@ Durante a escovação não devemos forçar a escova contra a gengiva, pois corre
 
 ## **2- Visite o dentista regulamente para revisão**
 
-![clarear os dentes dentista](/images/uploads/2017/08/clarear-os-dentes-facil.jpg) 
+![clarear os dentes dentista](//ucarecdn.com/fc7a6baf-7ed8-4261-a53a-d0ddc0fd3965/clarear-os-dentes-facil.jpg) 
 
 Precisamos fazer revisão ou {% post_link escovacao-dos-dentes "check up" %} para tudo. 
 
@@ -44,7 +44,7 @@ Esse simples ato, possibilita a longevidade maior do clareamento.
 
 ## **4- Não confie em todos os métodos "fáceis" para clarear os dentes**
 
-![](/images/uploads/2017/08/5-dicas-para-clarear-os-dentes.jpg) 
+![](//ucarecdn.com/27ecec9a-ac50-4c21-8727-ba9e86c5195a/5-dicas-para-clarear-os-dentes.jpg) 
 
 Sempre existiram os métodos descritos como "milagrosos" ou "fáceis" para realizar algum tratamento.
 
@@ -62,7 +62,7 @@ O clareamento dos dentes não é difícil de ser alcançado, mas precisamos ter 
 
 ## **5- Evite cigarro**
 
-![](/images/uploads/2017/08/Clarear-os-dentes-dicas.jpg) 
+![](//ucarecdn.com/b20c29db-d298-447b-916c-00313cd96c2d/Clarear-os-dentes-dicas.jpg) 
 
 O cigarro como todos sabem causa diversos problemas de saúde.
 

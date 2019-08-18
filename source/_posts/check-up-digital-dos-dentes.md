@@ -4,7 +4,7 @@ description: >-
   O Check Up Digital possibilita o paciente a ver as imagens dos seus dentes.
   Assim, a comunicação com o dentista fica mais fácil. 
 date: 2013-11-29T16:09:19.000Z
-featured_image: /images/uploads/2013/11/lips_by_illthrillagorilla.jpg
+featured_image: //ucarecdn.com/7909c495-bde1-4dae-8c86-8e171bc5ea41/lips_by_illthrillagorilla.jpg
 ---
 
 Olá a todos, Dando continuidade sobre o último post, gostaria de compartilhar com vocês a respeito do porque realizar o check up digital preventivo. 

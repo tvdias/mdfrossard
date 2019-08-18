@@ -4,7 +4,7 @@ description: >-
   Veja as 5 causas mais comuns para o Mau hálito. Aprenda como prevenir e tratar
   esse desconfortável problema. Pode ser mais fácil do que se imagina.
 date: 2016-02-01T10:05:28.000Z
-featured_image: /images/uploads/2016/01/causas-mau-hálito.jpg
+featured_image: //ucarecdn.com/900cced6-e71a-4957-8fd3-f24be2fb9934/causas-mau-hálito.jpg
 ---
 
 Provavelmente você já passou pela situação de conversar com alguém e esta pessoa apresentar **mau hálito**. 
@@ -45,7 +45,7 @@ Quando não nos alimentamos corretamente ou ficamos longos períodos sem se alim
 **Como Prevenir a Halitose **
 -----------------------------
 
-[![mau hálito](/images/uploads/2016/01/mau-hálito.jpg)](/images/uploads/2016/01/mau-hálito.jpg) 
+[![mau hálito](//ucarecdn.com/6f5542f0-084c-40a2-95a7-d7c7051351a1/mau-hálito.jpg)](//ucarecdn.com/6f5542f0-084c-40a2-95a7-d7c7051351a1/mau-hálito.jpg) 
 
 A grande dica aqui é a correta **escovação dos dentes.** 
 
@@ -65,7 +65,7 @@ Outras dicas são :
 **Tratamentos para o Mau Hálito**
 ---------------------------------
 
-[![halitose](/images/uploads/2016/01/halitose.jpg)](/images/uploads/2016/01/halitose.jpg) 
+[![halitose](//ucarecdn.com/df5c58e0-3cbf-455a-9e1c-a423cf854273/halitose.jpg)](//ucarecdn.com/df5c58e0-3cbf-455a-9e1c-a423cf854273/halitose.jpg) 
 
 Primeiramente, precisamos saber qual a **origem do problema.** 
 

@@ -4,7 +4,7 @@ description: >-
   Veja tudo sobre o enxerto ósseo usado na odontologia. Existem diferentes tipos
   e eles são usados principalmente na área de implantes dentais.
 date: 2017-12-04T09:00:03.000Z
-featured_image: /images/uploads/2017/10/enxerto-ósseo.jpg
+featured_image: //ucarecdn.com/b3a03403-589f-4312-90ad-9bce2d4a86a6/enxerto-ósseo.jpg
 ---
 Um dos grandes questionamentos que recebo em nosso blog é sobre a {% post_link perda-ossea-dentaria "perda óssea" %}. 
 
@@ -22,7 +22,7 @@ Nesse texto vou discutir alguns usos do enxerto na implantodontia, bem como os 3
 
 ## **Quais são os tipos de Enxerto ósseo ?**
 
-![](/images/uploads/2017/10/tipos-de-enxerto-osseo.jpg) 
+![](//ucarecdn.com/9020c38e-cbcf-4395-91b0-9dce0b63c6f7/tipos-de-enxerto-osseo.jpg) 
 
 **1 - Autógeno** Esse enxerto é considerado o "padrão ouro” apresentando bons resultados. O tipo autógeno é retirado do próprio paciente, portanto não apresenta rejeição. Ele pode ser retirado da região intra-bucal com anestesia local ou, em casos onde se demanda maior quantidade, é preciso remover o osso de outras regiões, como tíbia ou até da calota craniana A grande desvantagem do enxerto autógeno é precisar realizar uma segunda área cirúrgica para sua remoção. 
 
@@ -32,7 +32,7 @@ Nesse texto vou discutir alguns usos do enxerto na implantodontia, bem como os 3
 
 ## **Quando usar os enxertos ósseos ?**
 
-![quando usar enxerto ósseo](/images/uploads/2017/10/enxerto-osseo-quando-usar.jpg) 
+![quando usar enxerto ósseo](//ucarecdn.com/4e6128ad-f386-425a-b419-ea23e76ccb93/enxerto-osseo-quando-usar.jpg) 
 
 Eles são usados basicamente quando existe uma grande perda óssea e é preciso instalar implantes. 
 
@@ -42,7 +42,7 @@ Eles podem ser usados em cirurgia como o {% post_link levantamento-do-seio-maxil
 
 ## **E a perda óssea, quando acontece ?**
 
-![enxerto ósseo](/images/uploads/2017/10/enxerto-osseo-e-perda-ossea.jpg) 
+![enxerto ósseo](//ucarecdn.com/5b129e40-2e93-4594-bd97-40ddd76dcecc/enxerto-osseo-e-perda-ossea.jpg) 
 
 É provável que vocês ainda esteja com uma dúvida e se pergunte, “ok, entendi sobre o enxerto ósseo, mas e essa perda óssea, como ela acontece ?” 
 

@@ -4,7 +4,7 @@ description: >-
   Aprenda 5 dicas de saúde bucal. São dicas fáceis e simples mas quase ninguem
   prática no seu dia a dia. Com isso você pode melhorar muito seu sorriso.
 date: 2018-08-27T10:00:56.000Z
-featured_image: /images/uploads/2018/07/dicas-de-saude-bucal.jpg
+featured_image: //ucarecdn.com/c533d5a7-8116-4e44-af77-b3094da591b1/dicas-de-saude-bucal.jpg
 ---
 Nossa saúde bucal é extremamente importante para a manutenção de um belo sorriso e também para uma correta mastigação. 
 
@@ -32,7 +32,7 @@ Portanto, devemos ficar atentos na nossa escovação, lembrando que a higieniza�
 
 ## **2) Use o Fio Dental**
 
-![Dicas de saúde bucal](/images/uploads/2018/07/dicas-de-saúde-bucal-fio.jpg "Dicas de saúde bucal") 
+![Dicas de saúde bucal](//ucarecdn.com/86359d24-be56-4d13-998e-1f30b6e8c8db/dicas-de-saúde-bucal-fio.jpg "Dicas de saúde bucal") 
 
 Provavelmente esse é o ponto mais controverso, já que todos sabem a importância do fio dental, mas poucos realmente o usam de forma eficaz. 
 

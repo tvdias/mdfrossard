@@ -6,7 +6,7 @@ description: >-
   vamos discutir a melhor maneira de usar a chupeta para não prejudicar a
   criança.
 date: 2014-08-06T10:00:30.000Z
-featured_image: /images/uploads/2013/10/chupeta.jpg
+featured_image: //ucarecdn.com/3f043690-cc97-4ae3-8a84-a3a842861fe1/chupeta.jpg
 ---
 
 Olá a todos! Hoje gostaria de abordar um assunto muito comum no atendimento aos pequenos: **o uso da chupeta e os dentes da criança.**
@@ -21,7 +21,7 @@ De fato a chupeta possui papel gerador de segurança e conforto, pois simula o a
 O problema do uso da chupeta e os dentes da criança 
 ----------------------------------------------------
 
-![uso da chupeta e os dentes da criança](/images/uploads/2016/01/halitose.jpg) 
+![uso da chupeta e os dentes da criança](//ucarecdn.com/df5c58e0-3cbf-455a-9e1c-a423cf854273/halitose.jpg) 
 
 O problema quanto ao uso da chupeta, dentro da Odontologia, encontra-se no desenvolvimento dos ossos da face da criança e quando a mesma começa a apresentar dentes em sua boquinha, pois, esta faz com que os dentes se estabilizem na boca em posição errada e ainda pode levar à deformação do palato (céu da boca)e mandíbula. 
 

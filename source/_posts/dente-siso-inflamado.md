@@ -4,7 +4,7 @@ description: >-
   A dor no dente siso inflamado é muito comum quando somos jovens. Porém, a
   solução pode ser simples. Leia o texto e tire suas dúvidas.
 date: 2017-05-29T10:00:14.000Z
-featured_image: /images/uploads/2017/05/dente-siso-inflamado.jpg
+featured_image: //ucarecdn.com/be5df36b-1524-4f94-a657-c32ade393dc7/dente-siso-inflamado.jpg
 ---
 Você já ouviu vários relatos sobre a imensa dor quando se tem o siso inflamado. 
 
@@ -54,7 +54,7 @@ Esses fatores são característicos de inflamação na região do siso. A dor po
 
 ## **Tratamento do dente siso inflamado** 
 
-![siso inflamado exemplo](/images/uploads/2017/05/dente-siso-dor.jpg) 
+![siso inflamado exemplo](//ucarecdn.com/1940f3f0-e0a2-4ed4-83ee-8fa6c05a44bb/dente-siso-dor.jpg) 
 
 O melhor caminho para evitar o dente siso inflamado é higienizar corretamente a região. 
 
@@ -70,7 +70,7 @@ Quando o efeito do remédio acabar, a dor irá voltar. Nesses casos, o procedime
 
 ## **Extração do siso**
 
-![extração do siso](/images/uploads/2017/05/dente-siso-inflamado-extração.jpg) 
+![extração do siso](//ucarecdn.com/def5168b-b6d1-4b07-ae10-4957b279518b/dente-siso-inflamado-extração.jpg) 
 
 Quando a {% post_link por-que-extrair-o-siso-tire-suas-duvidas-sobre-essa-cirurgia "extração do siso" %} inflamado for indicada, não fique preocupado, nem fuja! 
 
@@ -90,7 +90,7 @@ Por meio deles fechamos o diagnóstico e todo o procedimento é explicado para n
 
 ## **Cuidados pós operatórios**
 
-![pós operatório siso inflamado](/images/uploads/2017/05/dente-siso-inflamado-cuidados.jpg) 
+![pós operatório siso inflamado](//ucarecdn.com/ecb1b46e-c753-44ca-b384-d1a0a278e59e/dente-siso-inflamado-cuidados.jpg) 
 
 Possuímos um texto completo sobre os cuidados pós operatórios ( {% post_link extracao-de-dente "link" %} ) que o paciente deve ter. 
 

@@ -4,7 +4,7 @@ description: >-
   Como ter os dentes mais brancos ? Essa pergunta é comum nos consultórios
   dentários. Existem 3 tratamentos que possibilitam isso. 
 date: 2018-04-02T08:00:01.000Z
-featured_image: /images/uploads/2017/10/dentes-brancos-e-o-clareamento.jpg
+featured_image: //ucarecdn.com/dc782d13-2156-49da-a708-51b1bf1e3ad5/dentes-brancos-e-o-clareamento.jpg
 ---
 
 O questionamento de **como ter os dentes mais brancos** é muito comum nos consultórios dentários. Sendo uma das principais dúvidas atualmente. 
@@ -40,7 +40,7 @@ Podemos realizar o clareamento de consultório, o caseiro ou aliar os dois tipos
 **Faceta dental **
 ------------------
 
-![](/images/uploads/2018/04/dentes-mais-brancos-com-facetas.jpg) 
+![](//ucarecdn.com/bd793809-cae3-4bf2-9220-f6ce1f569cd1/dentes-mais-brancos-com-facetas.jpg) 
 
 A terceira opção de como ter os dentes mais brancos são as facetas dentais. 
 

@@ -4,7 +4,7 @@ description: >-
   A prótese sobre implante é a melhor alternativa para quando se perde um dente.
   Sua estética e durabilidade são ótimas desde que bem cuidadas.
 date: 2018-08-13T10:00:58.000Z
-featured_image: /images/uploads/2018/07/Protese-sobre-implante.jpg
+featured_image: //ucarecdn.com/e30cecc1-4499-41a1-af93-697dd0934221/Protese-sobre-implante.jpg
 ---
 
 Infelizmente existem situações que podem levar a perda de um dente. 
@@ -37,7 +37,7 @@ Por isso, consideramos o tratamento com implante e próteses, procedimentos dife
 **Tipos de prótese sobre implante**
 -----------------------------------
 
-![](/images/uploads/2018/07/Protese-sobre-implante-dentario.jpg) 
+![](//ucarecdn.com/c7a0b692-6ded-4852-a46f-9cf4e7d5da43/Protese-sobre-implante-dentario.jpg) 
 
 Após ser feito essa explicação, precisamos saber quais os tipos de prótese podem ser realizadas sobre um implante.
 Apesar de existirem trabalhos removíveis sobre implante, eles atualmente são pouco realizados. 

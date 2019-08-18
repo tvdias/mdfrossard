@@ -4,7 +4,7 @@ description: >-
   Quando você perde um dente, qual o melhor tratamento ? O uso de uma prótese
   fixa ou a instalação de um implante. Confira agora !
 date: 2013-08-21T14:42:04.000Z
-featured_image: /images/uploads/2013/07/Captura-de-tela-2013-07-28-às-11.41.20.png
+featured_image: //ucarecdn.com/f8b62cec-e888-448e-87a1-82fe3f17cdba/Captura-de-tela-2013-07-28-às-11.41.20.png
 ---
 Em um post anterior, observamos como a ausência de um ou mais dentes pode provocar problemas no posicionamento de dentes vizinhos e antagonistas, gerando problemas estéticos e mastigatórios para o paciente. 
 
@@ -16,7 +16,7 @@ Uma solução atual é a instalação de implante. Por meio de cirurgia, um para
 
 Dessa forma não há necessidade de preparo nos dentes vizinhos ao espaço. A tabela abaixo demonstra algumas diferenças entre estes os procedimentos, no caso de perda de 1 (um) dente:
 
-![Slide1](/images/uploads/2013/08/Slide1-300x129.jpg)
+![Slide1](//ucarecdn.com/200387a9-9588-43f4-b1e7-21fceeb85910/Slide1-300x129.jpg)
 
 Diante do que foi mostrado, vale ressaltar que anamnese e exame clínico corretos são necessários para definir a melhor forma de tratamento. 
 

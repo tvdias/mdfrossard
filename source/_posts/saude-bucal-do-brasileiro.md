@@ -4,7 +4,7 @@ description: >-
   Será que a saúde bucal do brasileiro é boa? Usando a pesquisa e o texto
   publicado na revista veja, vamos ver qual a conclusão chegamos.
 date: 2015-01-05T13:53:29.000Z
-featured_image: /images/uploads/2015/01/Saúde-bucal.png
+featured_image: //ucarecdn.com/d7bb809c-09fe-48be-8f79-f419ee13e5d4/Saúde-bucal.png
 ---
 
 Em recente reportagem da [revista Veja](http://veja.abril.com.br), podemos comprovar o que já vemos no dia a dia. 
@@ -14,7 +14,7 @@ Em recente reportagem da [revista Veja](http://veja.abril.com.br), podemos compr
 A reportagem é interessante, e no decorrer dela temos um levantamento sobre a saúde bucal da população brasileira. 
 A pesquisa foi realizada pela revista SAÚDE e ouviu 1818 homens e mulheres, de todas as regiões do brasil e 78% pertenciam às classes A e B. 
 
-[![Tabela revista Veja](/images/uploads/2015/01/Tabela-revista-Veja.png)](/images/uploads/2015/01/Tabela-revista-Veja.png) 
+[![Tabela revista Veja](//ucarecdn.com/9ead0f39-87cb-408a-bbff-87cc2ac02379/Tabela-revista-Veja.png)](//ucarecdn.com/9ead0f39-87cb-408a-bbff-87cc2ac02379/Tabela-revista-Veja.png) 
 
 Agora vamos analisar os resultados apresentados na pesquisa. Antes de tudo, devemos ressaltar o fato de que a  pesquisa foi realizada com quase 80% de pessoas pertencentes a classe A ou B, ou seja, com uma parte da população que tem acesso a informação e poder aquisitivo para buscar tratamento dentário com qualidade. 
 
@@ -36,7 +36,7 @@ Digo isso pois indo ao dentista regularmente, podemos identificar problemas na f
 
 Além disso, o tratamento se torna mais barato e rápido. {% post_link check-up-digital-preventivo-dos-dentes "Confira aqui" %} . 
 
-[![Revista Veja saúde bucal](/images/uploads/2015/01/Revista-Veja-saúde-bucal.jpg)]
+[![Revista Veja saúde bucal](//ucarecdn.com/d450f2d1-34ec-4647-8494-db9293844f5e/Revista-Veja-saúde-bucal.jpg)]
 
 Outros dois pontos que devem ser analisados com cuidado são os 38% que não usam o fio dental e os 23% que não escovam os dentes antes de dormir. 
 
@@ -71,7 +71,7 @@ Digo isso, pois em nossa saliva temos mais de 150 milhões de bactérias e que a
 
 Para cada problema mencionado, precisamos de um texto para explicar todos os detalhes, por isso aqui iremos apenas citar e explicar algumas características da influência da saúde bucal no organismo. 
 
-[![saude bucal e o corpo](/images/uploads/2015/01/saude-bucal-e-o-corpo.jpg)](/images/uploads/2015/01/saude-bucal-e-o-corpo.jpg) 
+[![saude bucal e o corpo](//ucarecdn.com/9ebcb904-b349-47b5-b649-6c8b5c95269f/saude-bucal-e-o-corpo.jpg)](//ucarecdn.com/9ebcb904-b349-47b5-b649-6c8b5c95269f/saude-bucal-e-o-corpo.jpg) 
 
 Os principais problemas que podemos ter são: 
 * Problemas cardíacos; 

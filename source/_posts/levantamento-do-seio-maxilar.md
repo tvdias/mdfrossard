@@ -5,7 +5,7 @@ description: >-
   pacientes. Leia o texto agora e saiba se é possível realizar esse
   procedimento.
 date: 2014-07-28T10:47:00.000Z
-featured_image: /images/uploads/2014/07/Levantamento-seio-maxilar.png
+featured_image: //ucarecdn.com/ed795d4d-a173-46df-97c4-ef8153e707aa/Levantamento-seio-maxilar.png
 ---
 Muitos pacientes que perderam os dentes posteriores superiores a bastante tempo e precisam colocar [implantes dentários](/tratamentos/implante-dentario/ "Implantodontia"), na maioria das vezes precisam realizar uma cirurgia prévia, chamada **levantamento do seio maxilar.** 
 
@@ -28,7 +28,7 @@ Caso queira falar conosco para **marcar uma consulta ou apenas tirar uma dúvida
 
 ## Como ela é feita ?
 
-[![Levantamento seio maxilar 2](/images/uploads/2014/07/Levantamento-seio-maxilar-2-300x212.jpg)](/images/uploads/2014/07/Levantamento-seio-maxilar-3.jpg)
+[![Levantamento seio maxilar 2](/images/uploads/2014/07/Levantamento-seio-maxilar-2-300x212.jpg)](//ucarecdn.com/9cad9fa2-4680-4431-b9ee-1010031f14c4/Levantamento-seio-maxilar-3.jpg)
 
 Quando perdemos dentes na região posterior de maxila (região superior na parte de trás do arco dentário), com o passar do tempo pode ocorrer perda de grande quantidade de osso em altura e assim nos aproximamos de uma região chamada de seio maxilar. 
 
@@ -44,7 +44,7 @@ Ela envolve completamente a cavidade do seio maxilar. A partir do levantamento d
 
 ## Quanto tempo demora para colocar os implantes ?
 
-![Levantamento do seio maxilar](/images/uploads/2017/08/dente-do-siso.jpg) 
+![Levantamento do seio maxilar](//ucarecdn.com/f732904a-a038-41eb-9c97-19b7383ec887/dente-do-siso.jpg) 
 
 Esse tipo de procedimento temos que esperar um tempo maior para obtermos sucesso. 
 

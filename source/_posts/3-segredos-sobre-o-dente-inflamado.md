@@ -4,7 +4,7 @@ description: >-
   O dente inflamado é uma condição que ocasiona muita dor e desconforto. Leia
   agora o texto completo sobre esse tema e veja 3 segredos sobre isso.
 date: 2018-06-27T10:00:27.000Z
-featured_image: /images/uploads/2016/01/mau-hálito.jpg
+featured_image: //ucarecdn.com/6f5542f0-084c-40a2-95a7-d7c7051351a1/mau-hálito.jpg
 ---
 Todos sabemos que devemos cuidar da nossa saúde bucal. 
 
@@ -36,7 +36,7 @@ Basta {% post_link como-saber-se-estou-com-carie "clicar aqui" %} e {% post_link
 
 ## **Tratamento pode ser rápido**
 
-![](/images/uploads/2018/04/dente-inflamado-evitar-pode-ser-fácil.jpg) 
+![](//ucarecdn.com/0c4c8e02-eb7f-4ff4-bd74-465e27bb0439/dente-inflamado-evitar-pode-ser-fácil.jpg) 
 
 Quando já se tem o dente inflamado, o tratamento pode ser rápido. 
 

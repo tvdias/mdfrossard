@@ -4,7 +4,7 @@ description: >-
   Existem diversos problemas nos dentes além da cárie e da doença periodontal.
   Fique atento e não procure atendimento somente quando a dor aparece.
 date: 2015-09-28T11:14:16.000Z
-featured_image: /images/uploads/2015/09/Problemas-nos-dentes.jpg
+featured_image: //ucarecdn.com/73436d01-0456-4f89-9245-94f5e571d927/Problemas-nos-dentes.jpg
 ---
 
 Existem **problemas nos dentes** que não são detectados facilmente pelas pessoas. 
@@ -24,7 +24,7 @@ Portanto, mesmo que talvez você não sinta nenhum problema na região bucal, se
 **Afinal, quais são os principais problemas nos dentes ?**
 ----------------------------------------------------------
 
-[![problemas nos dentes](/images/uploads/2015/09/problemas-no-dente.jpg)](/images/uploads/2015/09/problemas-no-dente.jpg) 
+[![problemas nos dentes](//ucarecdn.com/7ff44ecb-487e-4399-8c97-a097abbbc463/problemas-no-dente.jpg)](//ucarecdn.com/7ff44ecb-487e-4399-8c97-a097abbbc463/problemas-no-dente.jpg) 
 
 Os dois principais são os já conhecidos **problemas periodontais e a cárie.** 
 
@@ -75,7 +75,7 @@ Também, a cavidade bucal pode indicar outros problemas de ordem sistêmica que 
 **Portanto, como evitar problemas no dente ?**
 ----------------------------------------------
 
-[![problemas nos dentes resolvido](/images/uploads/2015/09/problemas-nos-dentes-resolvido.jpg)](/images/uploads/2015/09/problemas-nos-dentes-resolvido.jpg) 
+[![problemas nos dentes resolvido](//ucarecdn.com/cf75c1f3-97f1-4ccb-ac9b-44eb30f2bec4/problemas-nos-dentes-resolvido.jpg)](//ucarecdn.com/cf75c1f3-97f1-4ccb-ac9b-44eb30f2bec4/problemas-nos-dentes-resolvido.jpg) 
 
 Primeiro você deve ter em mente que a ausência de dor na cavidade bucal, não é o único fator a ser levado em conta para apontar que não existe problema com os dentes. 
 

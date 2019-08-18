@@ -4,7 +4,7 @@ description: >-
   Tratamento Dentário e sua saúde. Saiba porque o correto cuidado com o seus
   dentes pode mudar a sua vida. Existem diversos tratamentos dentais para você.
 date: 2015-07-27T14:18:59.000Z
-featured_image: /images/uploads/2015/07/Tratamento-dentário.jpg
+featured_image: //ucarecdn.com/5d522b8b-7cf0-46a6-b1f2-1181a33a47f7/Tratamento-dentário.jpg
 ---
 
 Todos sabem que o cuidado com o corpo é importante para termos uma boa qualidade de vida. 
@@ -16,7 +16,7 @@ De uma maneira geral, todos nós queremos viver bem e bastante tempo. Assim, al�
 **Antes uma pequena história**
 ------------------------------
 
-[![Historia tratamento dentário](/images/uploads/2015/07/Historia-tratamento-dentário.jpg)](/images/uploads/2015/07/Historia-tratamento-dentário.jpg) 
+[![Historia tratamento dentário](//ucarecdn.com/a76bdfe9-7ade-4643-b747-3dbf7320fc20/Historia-tratamento-dentário.jpg)](//ucarecdn.com/a76bdfe9-7ade-4643-b747-3dbf7320fc20/Historia-tratamento-dentário.jpg) 
 
 Para exemplificar isso, vamos contar o caso de um paciente recente nosso. 
 
@@ -29,7 +29,7 @@ Assim, ela teve que superar seu trauma, e com a indicação de um grande amigo, 
 **O tratamento dentário e sua saúde **
 --------------------------------------
 
-[![Tratamento dentário e saúde](/images/uploads/2015/07/Tratamento-dentário-e-saúde.jpg)](/images/uploads/2015/07/Tratamento-dentário-e-saúde.jpg) 
+[![Tratamento dentário e saúde](//ucarecdn.com/b364658f-b092-4e3b-9180-bfabc63be5e7/Tratamento-dentário-e-saúde.jpg)](//ucarecdn.com/b364658f-b092-4e3b-9180-bfabc63be5e7/Tratamento-dentário-e-saúde.jpg) 
 
 A saúde bucal do brasileiro é ruim, aliás eu já comentei isso em um {% post_link saude-bucal-do-brasileiro "post recente" %} baseado na reportagem da revista Veja.  
 
@@ -57,7 +57,7 @@ Mas, o descuido em relação aos dentes, poderá gerar problemas que irão dific
 **Quais os tipos de tratamento dentários existem ?**
 ----------------------------------------------------
 
-[![tipos tratamento dentário](/images/uploads/2015/07/tipos-tratamento-dentário.jpg)](/images/uploads/2015/07/tipos-tratamento-dentário.jpg) 
+[![tipos tratamento dentário](//ucarecdn.com/4573e3b6-f5b4-4b39-b36f-b777c70b0fca/tipos-tratamento-dentário.jpg)](//ucarecdn.com/4573e3b6-f5b4-4b39-b36f-b777c70b0fca/tipos-tratamento-dentário.jpg) 
 
 Existem diversos tipos de tratamentos dentários, cada um tem uma indicação específica e você necessariamente não precisa realizar todos os tipos. 
 

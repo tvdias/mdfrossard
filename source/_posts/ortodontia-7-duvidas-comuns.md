@@ -5,7 +5,7 @@ description: >-
   trazendo benefícios funcionais e estéticos. Veja 7 dúvidas comuns dos
   pacientes.
 date: 2015-02-22T18:49:48.000Z
-featured_image: /images/uploads/2015/02/Ortodontia.png
+featured_image: //ucarecdn.com/7669bdff-4faa-45aa-b565-c3de3aa64ddf/Ortodontia.png
 ---
 
 Olá a todos!
@@ -24,7 +24,7 @@ Dentes tortos ou que não se encaixam direito dificultam a correta higienizaçã
 * Nas costas; 
 * Na região do pescoço.
 
-[![aparelho dentário sorriso](/images/uploads/2015/02/aparelho-dentário-sorriso.jpg)](/images/uploads/2015/02/aparelho-dentário-sorriso.jpg)
+[![aparelho dentário sorriso](//ucarecdn.com/1b161a6c-726c-432e-8942-8c074a90535f/aparelho-dentário-sorriso.jpg)](//ucarecdn.com/1b161a6c-726c-432e-8942-8c074a90535f/aparelho-dentário-sorriso.jpg)
 
 Outro fator importante é que dentes alinhados são essenciais para obtenção de um sorriso bonito e atraente. Diversos estudos apontam que pessoas com sorrisos considerados mais agradáveis têm maiores chances de serem bem sucedidas em suas vidas pessoais e profissionais.
 
@@ -53,7 +53,7 @@ O tempo de tratamento é dependente de outros fatores como a gravidade do proble
 
 Em muitos casos onde o paciente será submetido à procedimentos protéticos ou estéticos, como facetas e coroas de porcelana, o tratamento ortodôntico prévio é bem rápido, podendo durar menos de 1 ano.
 
-[![aparelho dentário](/images/uploads/2015/02/aparelho-dentário-1024x724.jpg)](/images/uploads/2015/02/aparelho-dentário.jpg)
+[![aparelho dentário](/images/uploads/2015/02/aparelho-dentário-1024x724.jpg)](//ucarecdn.com/8627de94-c505-44b9-8ac8-943bb3fceeef/aparelho-dentário.jpg)
 
 #### **3) Quando devo levar meu filho ao ortodontista pela primeira vez?**
 
@@ -81,7 +81,7 @@ Através do exame clínico é possível determinar se seu caso precisará de ext
 
 Hoje já existem diversas opções de aparelhos mais estéticos, como os de cerâmica que são muito mais discretos e podem ser utilizados em, praticamente, todos os casos.
 
-[![ortodontia ceramica](/images/uploads/2015/02/ortodontia-ceramica.jpg)](/images/uploads/2015/02/ortodontia-ceramica.jpg)
+[![ortodontia ceramica](//ucarecdn.com/60f55f8f-10f1-49e7-b060-82bed49285a7/ortodontia-ceramica.jpg)](//ucarecdn.com/60f55f8f-10f1-49e7-b060-82bed49285a7/ortodontia-ceramica.jpg)
 
 #### **7) Eu gostaria de corrigir o posicionamento dos meus dentes, mas não quero usar aparelho fixo. Existe alguma solução?**
 

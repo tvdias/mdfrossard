@@ -4,7 +4,7 @@ description: >-
   Caso você precise de Dentista em Botafogo na cidade do Rio de Janeiro veja o
   nosso texto. Você vai ver a localização e os nossos telefones de contato
 date: 2016-04-24T10:13:44.000Z
-featured_image: /images/uploads/2016/10/Dentista-botafogo.jpg
+featured_image: //ucarecdn.com/ddc9a145-b8f8-4708-a1fe-472d04233071/Dentista-botafogo.jpg
 ---
 A Zona Sul do Rio de Janeiro é uma das regiões mais badaladas do Rio de Janeiro. 
 
@@ -14,7 +14,7 @@ Nossa clínica esta localizado neste mesmo Bairro há mais de 25 anos. Estamos l
 
 ## **Precisa de dentista em Botafogo ?**
 
-![dentista em Botafogo](/images/uploads/2016/10/Dentista-em-botafogo.jpg) 
+![dentista em Botafogo](//ucarecdn.com/ffa0ae7c-6c17-4a72-8cb4-34199f5f5f93/Dentista-em-botafogo.jpg) 
 
 Temos o conceito moderno da odontologia, visando a saúde completa do indivíduo e não somente os dentes. 
 

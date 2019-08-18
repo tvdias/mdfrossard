@@ -4,7 +4,7 @@ description: >-
   Saiba tudo sobre o tratamento com Implante Dentário. Ele substitue seu dente
   perdido, devolvendo sua mastigação, estética e harmonia no sorriso.
 date: 2014-10-13T09:00:10.000Z
-featured_image: /images/uploads/2014/10/implante-dental-1.jpg
+featured_image: //ucarecdn.com/1bd6a3a8-074a-49b9-8138-27a77a78d08b/implante-dental-1.jpg
 ---
 O implante dentário é utilizado com frequência nos consultórios, possibilitando a reposição do dente perdido. 
 
@@ -31,7 +31,7 @@ Caso queira falar conosco para **marcar uma consulta**, você pode:
 
 ## Qual a real importância dos dentes? 
 
-![](/images/uploads/2014/10/Importancia-dos-dentes-Implante-dental.png)   
+![](//ucarecdn.com/ab479cbc-2293-419e-a9be-72a7f87d3a4d/Importancia-dos-dentes-Implante-dental.png)   
 
 Já se perguntou sobre o porquê de termos dentes com tamanhos, formas e quantidade de raízes diferentes?
 
@@ -57,7 +57,7 @@ Se quiser saber mais sobre a função de cada dente, [clique aqui](http://pt.wik
 
 ## As três formas mais comuns de se perder um dente
 
-![implante dental](/images/uploads/2013/07/14.jpg) 
+![implante dental](//ucarecdn.com/6f943b01-fda8-4519-bf6d-1e2fad45ba41/14.jpg) 
 
 Cada vez é maior a conscientização das pessoas quanto a higiene oral. 
 
@@ -77,7 +77,7 @@ Geralmente os dentes afetados são os dentes superiores anteriores (incisivos ce
 
 **Felizmente, em grande parte dos casos, conseguimos restabelecer a função e estética com [implantes dentais.](/tratamentos/implante-dental/)**
 
-![Marque sua Consulta](/images/uploads/2019/Marque sua Consulta.jpg)
+![Marque sua Consulta](//ucarecdn.com/ad3fb335-6d5c-482e-8881-a31a85d4d24a/Marque sua Consulta.jpg)
 
 ## Então, quais são as formas de substituir o dente?
 
@@ -101,7 +101,7 @@ Assim, dependendo do caso, teremos que “sacrificar” um dente íntegro para a
 
 ## **Mas o que é um implante dentário?**
 
-![implante dentário](/images/uploads/2014/10/implante-dentário.jpg) 
+![implante dentário](//ucarecdn.com/3a7a275b-2f27-4391-8cc5-30b2afb641a9/implante-dentário.jpg) 
 
 **Primeiramente, ele é um “parafuso” feito de uma liga de titânio que é biocompativel com o tecido ósseo,portanto não temos rejeição.** 
 
@@ -134,7 +134,7 @@ ___
 
 #### **1) Implante dentário unitário**
 
-![](/images/uploads/2014/10/Implante-dentário-unitário.png) 
+![](//ucarecdn.com/4c7f2d87-c5c7-4e21-b384-22a5e54c96a1/Implante-dentário-unitário.png) 
 
 Esse caso é o mais comum em nosso consultório, a pessoa perdeu um dente e precisa substituí-lo. 
 
@@ -148,7 +148,7 @@ Também podemos realizar a carga imediata (continue lendo mais abaixo) e colocar
 
 #### **2 ) Implante Dentário múltiplo**
 
-![](/images/uploads/2014/10/Implante-dentário-Múltiplo.png) 
+![](//ucarecdn.com/e380c2d3-d5c4-4b65-86d2-90390da2ee38/Implante-dentário-Múltiplo.png) 
 
 Em implantes dentários múltiplos ao invés de substituir um elemento dentário realizamos uma ponte sobre implantes. 
 
@@ -158,7 +158,7 @@ Nesse tratamento o paciente perdeu mais de um dente. Em determinados casos não 
 
 #### **3 ) Prótese protocolo ou prótese total fixa sobre implantes**
 
-![](/images/uploads/2014/10/Implante-dentário-protocolo.png) 
+![](//ucarecdn.com/a826c291-9628-4911-8a74-aa2b42a81f02/Implante-dentário-protocolo.png) 
 
 Antigamente, quando ocorria a perda de todos os dentes, a única solução era o uso da prótese total (dentadura). 
 

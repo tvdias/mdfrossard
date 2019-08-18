@@ -4,7 +4,7 @@ description: >-
   Como saber se estou com cárie ? Leia o texto para descobrir mais sobre esse
   problema e como tratar. Caso necessário, deixe seu comentário com sua dúvida.
 date: 2016-09-05T10:00:54.000Z
-featured_image: /images/uploads/2016/08/Dúvida-cárie.jpg
+featured_image: //ucarecdn.com/6f1c4a88-de47-4959-b711-fdb67eb81f43/Dúvida-cárie.jpg
 ---
 
 A doença cárie já foi amplamente discutida em nosso blog. Entretanto, existem muitas dúvidas de clientes sobre esse tema, sendo a principal **“como saber se estou com cárie“**.
@@ -23,7 +23,7 @@ A mancha branca por cárie, geralmente esta localizada perto da gengiva ou na á
 **Como saber se estou com cárie ?**
 -----------------------------------
 
-![como saber se estou com cárie](/images/uploads/2016/08/como-saber-se-estou-com-cárie.jpg) 
+![como saber se estou com cárie](//ucarecdn.com/ea56bf19-1116-43da-bc86-5d85bc5d2d40/como-saber-se-estou-com-cárie.jpg) 
 
 **Como saber se estou com cárie ?** 
 
@@ -51,7 +51,7 @@ Beber bastante água e ter certos cuidados sobre os tipos de alimentos ingeridos
 **Tratamento da cárie**
 ------------------------
 
-![saber se estou com cárie](/images/uploads/2016/08/saber-se-estou-com-cárie.jpg) 
+![saber se estou com cárie](//ucarecdn.com/30b86ced-1416-4108-9b6f-bfd5ee043abd/saber-se-estou-com-cárie.jpg) 
 
 O tratamento dessa doença, ou seja, a forma como o dentista irá intervir, depende do estágio em que ela se encontra. 
 

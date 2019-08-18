@@ -4,7 +4,7 @@ description: >-
   A lente de contato dental é um ótimo tratamento estético quando bem indicado.
   Com as lentes podemos transformar o sorriso. Leia agora o texto completo.
 date: 2017-05-15T13:45:45.000Z
-featured_image: /images/uploads/2017/05/lente-de-contato-dental.jpg
+featured_image: //ucarecdn.com/fefcb1b9-1ef1-40eb-8661-b0c087e83f05/lente-de-contato-dental.jpg
 ---
 
 Estética e beleza, quem não quer ter? 
@@ -25,7 +25,7 @@ Continue e veja nesse texto -
 1 - Lente de contato dental  X Facetas de porcelana
 ---------------------------------------------------
 
-![lente de contato dental planejamento](/images/uploads/2017/05/lente-de-contato-dente.jpg) 
+![lente de contato dental planejamento](//ucarecdn.com/286efc3d-7fae-44d4-8bdd-35892863a73c/lente-de-contato-dente.jpg) 
 
 Antigamente as {% post_link infografico-5-razoes-para-usar-faceta-de-porcelana "facetas de porcelana" %} eram as grandes “queridinhas" tanto dos dentistas como dos clientes, porém atualmente as lentes de contato ocuparam este lugar. 
 
@@ -46,7 +46,7 @@ Nosso objetivo com este texto é informativo, para que você saiba a variedade d
 2 - Como a lente de contato dental é confeccionada ?
 ----------------------------------------------------
 
-![](/images/uploads/2017/05/lente-de-contato-dental-dúvidas.jpg) 
+![](//ucarecdn.com/c4447f8c-d8ef-47c7-8a98-9622b4fb33a7/lente-de-contato-dental-dúvidas.jpg) 
 
 Antes de tudo devemos ter planejamento e a correta indicação. Como dito anteriormente, a lente de contato só pode ser feita em regiões onde não se precisa de quase nenhum desgaste. 
 
@@ -72,7 +72,7 @@ Devemos lembrar que as lentes de contatos nos dentes podem fazer parte de um tra
 4 - E suas desvantagens ?
 -------------------------
 
-![](/images/uploads/2017/05/lente-de-contato-dental-desvantagens.jpg) 
+![](//ucarecdn.com/83ccbeab-da3f-43de-b42c-177fef8e511b/lente-de-contato-dental-desvantagens.jpg) 
 
 As lentes de contato dental apresentam fatores negativos como qualquer outro trabalho de prótese, ou seja, o paciente deve estar ciente de que necessita ter cuidados especiais com sua mastigação e higienização para que o trabalho não deteriore de forma inesperada. 
 
