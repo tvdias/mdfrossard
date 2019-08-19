@@ -15,13 +15,17 @@ Hoje ainda, com novas tecnologias, como uso de zircônia ao invés de metal ou a
 
 ![prótese dental](Captura-de-tela-2013-07-28-às-11.56.23.png)
 
-É uma restauração cimentada que recobre ou reveste a superfície externa da coroa clinica. Deve reproduzir a morfologia e os contornos das porções coronárias danificadas do dente enquanto desempenha suas funções.
+É uma restauração cimentada que recobre ou reveste a superfície externa da coroa clinica. 
+
+Deve reproduzir a morfologia e os contornos das porções coronárias danificadas do dente enquanto desempenha suas funções.
 
 ## Prótese parcial fixa (Ponte)
 
 ![prótese dental](Captura-de-tela-2013-07-28-às-11.57.23.png)
 
-É uma aplicação que fica permanentemente ligada aos dentes remanescentes, substituindo um ou mais dente ausente. Esse tipo de restauração há muito tempo é chamada de ponte. Pode ser confeccionada em metalocerâmica, metaloplástica e porcelana.
+É uma aplicação que fica permanentemente ligada aos dentes remanescentes, substituindo um ou mais dente ausente. 
+
+Esse tipo de restauração há muito tempo é chamada de ponte. Pode ser confeccionada em metalocerâmica, metaloplástica e porcelana.
 
 ## Inlay e Onlay ( Bloco )
 
@@ -51,7 +55,14 @@ Estas coroas e pontes funcionam bem, porém, atualmente contamos com materiais q
 
 ![Má Oclusão](Má-oclusão.png)
 
-Os sinais de que o dentes possam estar sob estresse podem ser aferidos por meio de um exame clinico rigoroso, e as doenças dentais mais frequentes são: abfrações , mobilidade, recessão gengival, desgastes dentários acentuados não compatíveis com a idade cronológica, trincas, bruxofacetas, fraturas recorrentes de restaurações e reabsorções radiculares.
+Os sinais de que o dentes possam estar sob estresse podem ser aferidos por meio de um exame clinico rigoroso, e as doenças dentais mais frequentes são: 
+* Abfrações; 
+* Mobilidade ; 
+* Recessão gengival ;
+* Desgastes dentários acentuados não compatíveis com a idade cronológica ;
+* Trincas ;
+* Fraturas recorrentes de restaurações ;
+* Reabsorções rRadiculares.
 
 Alguns sintomas também podem ser aferidos, tais como: 
 * Pericementite; 
@@ -66,8 +77,11 @@ O tratamento poderá ser protético, ortodôntico ou cirúrgico.
 
 Prótese dentária removível é destinada à reposição de dentes perdidos e tecidos adjacentes através de uma prótese planejada para ser removida pelo usuário.
 
-Podem ser classificadas como totais (dentadura) ou parciais, de acordo com a presença/ausência de dentes.  
-É importante notar que as próteses removíveis com o tempo devem ser substituídas porque o osso e gengiva vão regredindo. Outra solução é a reabilitação com prótese Fixa ou implantes.
+Podem ser classificadas como totais (dentadura) ou parciais, de acordo com a presença/ausência de dentes. 
+
+É importante notar que as próteses removíveis com o tempo devem ser substituídas porque o osso e gengiva vão regredindo. 
+
+Outra solução é a reabilitação com prótese Fixa ou implantes.
 
 ---
 
@@ -75,7 +89,7 @@ Podem ser classificadas como totais (dentadura) ou parciais, de acordo com a pre
 
 Para pessoas que perderam os dentes em decorrência de doenças ou lesões, as dentaduras podem restaurar o sorriso e auxiliar nas atividades do dia a dia, como comer e falar. 
 
-No entanto, acostumar-se ao uso das dentaduras pode exigir um período de adaptação. (Dentaduras novas podem provocar uma sensação estranha por algumas semanas até você se acostumar com elas.).
+No entanto, acostumar-se ao uso das dentaduras pode exigir um período de adaptação. (Dentaduras novas podem provocar uma sensação estranha por algumas semanas até você se acostumar com elas).
 
 As **dentaduras podem parecer frouxas** até que os músculos das bochechas e da língua aprendam a mantê-las em posição. Não é incomum surgirem irritações ou feridas. Você pode sentir que o fluxo salivar aumenta temporariamente. 
 
@@ -89,4 +103,6 @@ Tome cuidado com alimentos quentes ou duros e ossos ou cascas com pontas afiadas
 
 **Pronunciar certas palavras pode exigir prática.** Ler em voz alta e repetir palavras complicadas pode ajudar. Se suas dentaduras fizerem barulho enquanto você fala, fale mais devagar. 
 
-Você pode sentir as dentaduras ocasionalmente escorregarem ao rir, tossir ou sorrir. Reposicione as dentaduras mordendo delicadamente e engolindo. Se algum problema de fala persistir, consulte o dentista.
+Você pode sentir as dentaduras ocasionalmente escorregarem ao rir, tossir ou sorrir. Reposicione as dentaduras mordendo delicadamente e engolindo. 
+
+Se algum problema de fala persistir, consulte o dentista.
