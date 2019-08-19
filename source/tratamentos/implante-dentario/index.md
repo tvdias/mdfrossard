@@ -13,7 +13,8 @@ Assim, os [**implantes dentários**](/implante-dentario/) geram uma grande satis
 
 Além disso, as famosas dentaduras e próteses parciais com grampo podem ser substituídas por próteses fixas sobre implantes, melhorando a retenção, mastigação e a estética do paciente.
 
-### <span style="color: #800000; text-decoration: underline"> **Perguntas Freqüentes (Dúvidas)**</span>
+#### <span style="color: #800000;"> **Perguntas Freqüentes (Dúvidas):** </span>
+</span>
 
 ## <span style="color: #000000; text-decoration: none;"> 1 – A falta de dentes pode ser prejudicial?</span></span>
 
@@ -115,18 +116,36 @@ Para substituição dessas próteses removíveis podemos utilizar:
 
 As próteses sobre **implante dental** podem ser classificadas em:
 
+---
+
 #### **1) Prótese Unitária**
+
+---
 
 ![Implante Dentário Unitário](Implante-Unitário.png)
 
+---
+
 #### ** 2) Prótese Múltipla Parcial ** 
+
+---
 
 ![Implante Dentário Múltiplo](Implante-Múltiplo.png)
 
+---
+
 #### **3) Prótese Múltipla total (protocolo)**
+
+---
 
 ![Implante dental - Protocolo](Protocolo-Implantes.png)
 
+---
+
 #### **4) Prótese Removível Implanto Suportada (Overdenture)**
 
+---
+
 ![Ovedenture](Overdenture.png)
+
+---
