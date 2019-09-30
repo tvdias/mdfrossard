@@ -92,9 +92,7 @@ Por meio deles fechamos o diagnóstico e todo o procedimento é explicado para n
 
 ![pós operatório siso inflamado](//ucarecdn.com/ecb1b46e-c753-44ca-b384-d1a0a278e59e/dente-siso-inflamado-cuidados.jpg) 
 
-Possuímos um texto completo sobre os cuidados pós operatórios ( {% post_link extracao-de-dente "link" %} ) que o paciente deve ter. 
-
-Se ainda não leu, basta {% post_link pos-operatorio-apos-uma-extracao-de-dente "clicar aqui." %} 
+Possuímos um texto completo sobre os cuidados pós operatórios ( {% post_link extracao-de-dente "link" %} ) que o paciente deve ter.
 
 **Porém, vou listar os principais aqui :**
 
@@ -107,9 +105,14 @@ Esses cuidados são importantes!
 
 Consequências ruins podem ocorrer caso o paciente não siga as orientações do dentista! 
 
+---
+{% youtube C20z6hZOjHo %}
+---
+
 Finalizando, não fique preocupado caso você realmente precise remover o siso. A cirurgia é feita com segurança e seguindo todos os cuidados pós operatórios a recuperação será muito boa. 
 
 O importante, vale ressaltar, é que o paciente busque informação e tire suas dúvidas. 
+
 
 Só assim terá confiança no profissional que irá cuidar dele. Caso ainda esteja com dúvida, é só deixar um comentário logo abaixo.
 
