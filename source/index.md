@@ -27,7 +27,7 @@ hide_title: true
             <a href="/depoimentos/" class="view-first">
                <h3 class="teaser-title">Depoimentos</h3>
                <div class="view">
-                  <img width="600" height="335" src="//ucarecdn.com/66479ab6-1fe6-4d63-b67a-571a63ae44c8/-/resize/300x/-/format/auto/-/quality/lighter/-/progressive/yes/" class="attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" alt="" />                                
+                  <img width="600" height="335" src="//ucarecdn.com/66479ab6-1fe6-4d63-b67a-571a63ae44c8/-/resize/300x/-/format/auto/-/quality/lighter/-/progressive/yes/" class="attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" alt="Depoimentos" />
                   <div class="mask">
                      <span class="info">Saiba Mais</span>
                   </div>
@@ -40,10 +40,10 @@ hide_title: true
       <!-- col -->
       <div class="col-md-3 col-sm-6 col-xs-12">
          <div class="teaser">
-            <a href="/tratamentos/implante-dental/" class="view-first">
-               <h3 class="teaser-title">Tratamentos</h3>
+            <a href="/estrutura/" class="view-first">
+               <h3 class="teaser-title">Estrutura</h3>
                <div class="view">
-                  <img width="600" height="335" src="//ucarecdn.com/e36f748f-64bb-4626-95e8-6de9c7e26d29/-/resize/300x/-/format/auto/-/quality/lighter/-/progressive/yes/" class="attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" alt="" />                                
+                  <img width="600" height="335" src="//ucarecdn.com/e36f748f-64bb-4626-95e8-6de9c7e26d29/-/resize/300x/-/format/auto/-/quality/lighter/-/progressive/yes/" class="attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" alt="estrutura" />
                   <div class="mask">
                      <span class="info">Saiba Mais</span>
                   </div>
@@ -59,7 +59,7 @@ hide_title: true
             <a href="/equipe/" class="view-first">
                <h3 class="teaser-title">Equipe</h3>
                <div class="view">
-                  <img width="600" height="335" src="//ucarecdn.com/56846063-0e3d-432c-aabd-ded961e23e27/-/resize/300x/-/format/auto/-/quality/lighter/-/progressive/yes/" class="attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" alt="" />                                
+                  <img width="600" height="335" src="//ucarecdn.com/56846063-0e3d-432c-aabd-ded961e23e27/-/resize/300x/-/format/auto/-/quality/lighter/-/progressive/yes/" class="attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" alt="Equipe" />
                   <div class="mask">
                      <span class="info">Saiba Mais</span>
                   </div>
@@ -75,7 +75,7 @@ hide_title: true
             <a href="/contato/" class="view-first">
                <h3 class="teaser-title"><span>Marque sua</span> Consulta</h3>
                <div class="view">
-                  <img width="600" height="335" src="//ucarecdn.com/1e778857-05af-408f-a4d6-28ec346070f8/-/resize/300x/-/format/auto/-/quality/lighter/-/progressive/yes/" class="attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" alt="" />                                
+                  <img width="600" height="335" src="//ucarecdn.com/1e778857-05af-408f-a4d6-28ec346070f8/-/resize/300x/-/format/auto/-/quality/lighter/-/progressive/yes/" class="attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" alt="Marque sua consulta" />
                   <div class="mask">
                      <span class="info">Saiba Mais</span>
                   </div>
