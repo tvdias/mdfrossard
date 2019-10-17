@@ -6,7 +6,7 @@ description: >-
 date: 2015-08-28T09:20:36.000Z
 featured_image: //ucarecdn.com/d5bbe970-79ea-4846-8f8d-8fbdccb08046/dentista-rio-de-janeiro.jpg
 ---
-O [Rio de Janeiro](https://pt.wikipedia.org/wiki/Rio_de_Janeiro_(cidade)) é uma das cidades mais conhecidas e bonitas no mundo. Sua fama esta relacionada as belezas naturais e as inúmeras praias. 
+O [Rio de Janeiro](https://pt.wikipedia.org/wiki/Rio_de_Janeiro_(cidade) é uma das cidades mais conhecidas e bonitas no mundo. Sua fama esta relacionada as belezas naturais e as inúmeras praias. 
 
 Diversas pessoas vem visitar e conhecer os encantos da cidade maravilhosa. Devido ao grande números de visitantes seja a trabalho ou turismo, pode acontecer de alguns precisarem de tratamento de saúde ou de **dentista no Rio de Janeiro**. 
 
