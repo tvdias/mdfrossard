@@ -39,9 +39,7 @@ Consequentemente tem-se o acúmulo de bactérias nessas regiões. Em resposta a 
 
 Entretanto essas substâncias agridem também osso, causando sua reabsorção e, assim, perda do suporte ao redor do dente. 
 
-Dependendo do grau de perda de osso, dificilmente conseguiremos ter a formação de um novo osso na região. 
-
-{% post_link gengiva-sangrando "Leia mais sobre a periodontite agora ( Link )." %}
+Dependendo do grau de perda de osso, dificilmente conseguiremos ter a formação de um novo osso na região. [Leia mais sobre periodontite.](https://mdfrossard.com.br/gengiva-sangrando/) 
 
 ## **Dificuldades de pacientes com perda óssea**
 
