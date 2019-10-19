@@ -236,7 +236,7 @@ h2 {
     margin: 0;
 }
 .nav > li:hover .sub-menu {
-    display: block;
+    display: table;
 }
 .nav > li > a {
     padding: 3px 10px;
@@ -265,6 +265,9 @@ h2 {
 }
 .sub-menu > li {
     margin-bottom: 5px;
+}
+.sub-menu > li:last-child {
+    margin-bottom: 0px;
 }
 .sub-menu > li > a {
     padding: 3px 10px;
