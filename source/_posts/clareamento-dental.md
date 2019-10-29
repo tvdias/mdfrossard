@@ -104,6 +104,7 @@ Na verdade, não precisamos encher a moldeira com o gel, apenas aplicar uma gota
 
 Após isto é importante retirar o material que extravasa para a gengiva.
 
+
 * **Como limpar a moldeira de clareamento após o uso ?**
 
 Após o uso da moldeira, a mesma deve ser limpa com uma escova macia. 
@@ -113,6 +114,10 @@ Todo o resíduo de material deve ser removido e ela deve ser guardada em local l
 Vale lembrar que, além da higienização da moldeira, todos os dentes devem ser igualmente limpos. 
 
 No clareamento dental caseiro o paciente pode levar mais tempo para perceber os efeitos do tratamento, já que o gel tem uma concentração de ativo menor. 
+
+---
+{% youtube eWWPt9xw1m0 %}
+---
 
 #### **2 ) Clareamento de consultório**
 
