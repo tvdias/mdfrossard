@@ -40,6 +40,13 @@ Sim, se não existir o cuidado básico dos dentes, toda a parte estética é per
 
 Somente com as gengiva saudável e os dentes sem cáries é possível realizar um tratamento estético de qualidade.
 
+Video sobre como mudar o sorriso
+------------------------------------------------------------------
+
+---
+{% youtube iB7hLaHqoZ0 %}
+---
+
 Infográfico -  Tratamentos para mudar o sorriso (dentes perfeitos)
 ------------------------------------------------------------------
 

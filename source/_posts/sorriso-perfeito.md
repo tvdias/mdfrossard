@@ -174,7 +174,7 @@ A reabilitação oral é a soma de todas os tratamentos citados acima. Existem m
 Vídeo Sobre Sorriso Perfeito
 ----------------------------
 
-{% youtube hhcsEnRTJl0 %}
+{% youtube iB7hLaHqoZ0 %}
 
 **Conclusão**
 -------------
