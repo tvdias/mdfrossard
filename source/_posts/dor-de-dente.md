@@ -88,6 +88,11 @@ O principal tratamento para isso é a higiene diária, evitando o acúmulo de pl
 
 Quando temos a doença instalada, precisamos de acompanhamento profissional para remover o [cálculo/ tártaro](/tratamentos/periodontia/) e assim restabelecer a harmonia bucal novamente.  
 
+**Video sobre Dor de Dente**
+---
+{% youtube M8mCbdZMiUU %}
+---
+
 #### 3 - Pericoronarite 
 
 O terceiro grande fator que pode causar dor na cavidade oral é a {% post_link por-que-extrair-o-siso-tire-suas-duvidas-sobre-essa-cirurgia "periconarite" %}. 
