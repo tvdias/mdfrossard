@@ -38,42 +38,42 @@ featured_image: 5consultório-2.jpg
       <div id="owl-demo1" class="owl-demo-est">
          <div class="item">
             <a href="/images/uploads/2013/07/1citta-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/1citta-150x150.jpg" alt="città" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/1citta-150x150.jpg" width="222" height="222" alt="città" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/2recepcao-1-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/2recepcao-1-150x150.jpg" alt="recepção" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/2recepcao-1-150x150.jpg" width="222" height="222" alt="recepção" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/3recepcao-2-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/3recepcao-2-150x150.jpg" alt="recepção" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/3recepcao-2-150x150.jpg" width="222" height="222" alt="recepção" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/4consulorio-1-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/4consulorio-1-150x150.jpg" alt="consulório" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/4consulorio-1-150x150.jpg" width="222" height="222" alt="consulório" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/5consultorio-2-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/5consultorio-2-150x150.jpg" alt="consultório" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/5consultorio-2-150x150.jpg" width="222" height="222" alt="consultório" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/6escritorio-branco-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/6escritorio-branco-150x150.jpg" alt="escritório branco" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/6escritorio-branco-150x150.jpg" width="222" height="222" alt="escritório branco" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/7escritorio-madeira-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/7escritorio-madeira-150x150.jpg" alt="escritório madeira" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/7escritorio-madeira-150x150.jpg" width="222" height="222" alt="escritório madeira" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/8MD-1024x683.jpg" rel="prettyPhoto[gallery_125]">
-               <img data-src="/images/uploads/2013/07/8MD-150x150.jpg" alt="MD" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/8MD-150x150.jpg" width="222" height="222" alt="MD" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
       </div>
@@ -83,42 +83,42 @@ featured_image: 5consultório-2.jpg
       <div id="owl-demo2" class="owl-demo-est">
          <div class="item">
             <a href="/images/uploads/2013/07/1-575x1024.jpg" rel="prettyPhoto[gallery_130]">
-               <img data-src="/images/uploads/2013/07/1-150x150.jpg" alt="" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/1-150x150.jpg" width="222" height="222" alt="" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/21-1024x576.jpg" rel="prettyPhoto[gallery_130]">
-               <img data-src="/images/uploads/2013/07/21-150x150.jpg" alt="" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/21-150x150.jpg" width="222" height="222" alt="" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/41-1024x576.jpg" rel="prettyPhoto[gallery_130]">
-               <img data-src="/images/uploads/2013/07/41-150x150.jpg" alt="" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/41-150x150.jpg" width="222" height="222" alt="" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/61-1024x290.jpg" rel="prettyPhoto[gallery_130]">
-               <img data-src="/images/uploads/2013/07/61-150x150.jpg" alt="alt" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/61-150x150.jpg" alt="alt" width="222" height="222" alt="" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/IMG_1058-1-1024x548.jpg" rel="prettyPhoto[gallery_130]">
-               <img data-src="/images/uploads/2013/07/IMG_1058-1-150x150.jpg" alt="" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/IMG_1058-1-150x150.jpg" width="222" height="222" alt="" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/IMG_1056-1-1024x683.jpg" rel="prettyPhoto[gallery_130]">
-               <img data-src="/images/uploads/2013/07/IMG_1056-1-150x150.jpg" alt="" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/IMG_1056-1-150x150.jpg" width="222" height="222" alt="" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/121-492x1024.jpg" rel="prettyPhoto[gallery_130]">
-               <img data-src="/images/uploads/2013/07/121-150x150.jpg" alt="" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/121-150x150.jpg" width="222" height="222" alt="" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
          <div class="item">
             <a href="/images/uploads/2013/07/141-550x1024.jpg" rel="prettyPhoto[gallery_130]">
-               <img data-src="/images/uploads/2013/07/141-150x150.jpg" alt="" class="lazyOwl"/>
+               <img data-src="/images/uploads/2013/07/141-150x150.jpg" width="222" height="222" alt="" loading="lazy" class="lazyload lazyOwl"/>
             </a>
          </div>
       </div>
