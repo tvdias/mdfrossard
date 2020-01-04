@@ -1,3 +1,11 @@
+# Redirect domain aliases to primary domain
+https://mdfrossard.com/*              https://mdfrossard.com.br/:splat    301!
+https://www.mdfrossard.com/*          https://mdfrossard.com.br/:splat    301!
+https://mdodontologia.odo.br/*        https://mdfrossard.com.br/:splat    301!
+https://www.mdodontologia.odo.br/*    https://mdfrossard.com.br/:splat    301!
+https://mdfrossard.netlify.com/*      https://mdfrossard.com.br/:splat    301!
+
+
 /mdf_tratamentos/*                  /tratamentos/:splat             302
 /tratamentos                        /tratamentos/implante-dental    302
 /tratamentos/protese-dentaria/      /tratamentos/protese/           302
