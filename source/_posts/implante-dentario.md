@@ -77,7 +77,6 @@ Geralmente os dentes afetados são os dentes superiores anteriores (incisivos ce
 
 **Felizmente, em grande parte dos casos, conseguimos restabelecer a função e estética com [implantes dentais.](/tratamentos/implante-dental/)**
 
-![Marque sua Consulta](//ucarecdn.com/ad3fb335-6d5c-482e-8881-a31a85d4d24a/Marque sua Consulta.jpg)
 
 ## Então, quais são as formas de substituir o dente?
 
