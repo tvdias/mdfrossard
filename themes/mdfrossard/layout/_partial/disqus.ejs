@@ -1,0 +1,16 @@
+<% if (config.disqus_shortname){ %>
+<script>
+    var disqus_config = function () {
+        <% if (page.permalink){ %>
+        this.page.url = '<%= page.permalink %>';
+        <% } %>
+        this.language = "pt";
+    };
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://mdfrossard.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+<% } %>

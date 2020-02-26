@@ -2,5 +2,5 @@
 title: Depoimentos
 layout: mdf_depoimentos
 active_menu: sobre
-description: Leia e aprenda algumas informações básicas sobre o melhor pós operatório, clareamento, bruxismo entre outros. Faça o download agora.
+description: Veja Histórias Reais de pacientes da Clínica MD Frossard Odontologia. Leia os comentários sobre o atendimento com os profissionais. 
 ---

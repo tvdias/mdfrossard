@@ -1,24 +1,21 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
-
 # Site
 title: MD Frossard Odontologia
 subtitle: Dentista Barra da Tijuca e Botafogo
-description: Dentista na Barra da tijuca e em Botafogo. A Clínica Dentária MD Frossard Odontologia pode mudar seu sorriso. Confira a nossa filosofia de atendimento.
+description: Clinica MD Frossard Odontologia - Dentista no Rio de Janeiro. Mude seu Sorriso. 
 keywords: dentista barra tijuca botafogo odontologia marcos davi frossard
 author: Davi Heringer Frossard
 language: pt_BR
 timezone: America/Sao_Paulo
 
+google_analytics: UA-34132526-1
+fb_pixel: 266409860211711
 fb_admins: 100001667267019
 fb_app_id: MdFrossardOdontologia
 google_plus: MDFrossardOdontologiaBarraRiodeJaneiro
 twitter_id: MD_Odontologia
-
+disqus_shortname: mdfrossard
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://mdfrossard.com.br
 root: /
 #permalink: blog/:year/:month/:day/:title/
@@ -56,9 +53,6 @@ highlight:
   tab_replace:
   
 # Home page setting
-# path: Root path for your blogs index page. (default = '')
-# per_page: Posts displayed per page. (0 = disable pagination)
-# order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: '/blog'
   per_page: 10
@@ -70,24 +64,17 @@ category_map:
 tag_map:
 
 # Date / Time format
-## Hexo uses Moment.js to parse and display date
-## You can customize the date format as defined in
-## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
 # Pagination
-## Set per_page to 0 to disable pagination
 per_page: 10
 pagination_dir: page
 
 # Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
 theme: mdfrossard
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
 
@@ -104,3 +91,80 @@ excerpt:
   excerpt_excludes: []
   more_excludes: []
   hideWholePostExcerpts: true
+
+generator_amp:
+  templateDir:  themes/mdfrossard/amp
+  assetDistDir: amp
+  logo:
+    path:   ../source/images/logo-150x60.png
+    width:  90 # width <= 600px
+    height: 36 # width <= 60px
+  # logo_topImage:                                  #(optional)
+  #   path:   sample/sample-yoursite-logo.png       #(optional)
+  #   width:  1024                                  #(optional)
+  #   height: 400                                   #(optional)
+  substituteTitleImage: 
+    path:   sample/sample-substituteTitleImage.png
+    width:  1024 # width >= 696px
+    height: 800
+  # placeholderImg:                                 #(optional)
+  #   path: sample/sample-placeholder.png
+  cssFilePath:      style.css        #(optional) Location of css or stylus or sass file to use
+  templateFilePath: blog.ejs         #(optional) Location of ejs or pug template file to use
+  # generateAmpPath: :year/:month/:day/:title/amp/  #(optional) Custom AMP HTML Path
+  
+  # Sample Template's option
+  theme:
+    menu:
+      Início: /
+      Equipe: /equipe
+      Estrutura: /estrutura
+      Depoimentos: /depoimentos
+      Biossegurança: /biosseguranca
+      Informativos: /informativos
+      "Implante Dentario": /tratamentos/implante-dentario
+      Prótese: /tratamentos/protese
+      Estética: /tratamentos/estetica-dos-dentes
+      Periodontia: /tratamentos/periodontia
+      Endodontia: /tratamentos/endodontia
+      Ortodontia: /tratamentos/ortodontia
+      "Prevenção e Manutenção": /tratamentos/prevencao-e-manutencao
+      "Check Up Digital Preventivo": /tratamentos/check-up-digital-preventivo
+      "Day Clinic": /day-clinic
+      Localização: /localizacao
+      Contato: /contato
+      Blog: /blog
+    facebook_app_id: MdFrossardOdontologia                #(optional) api_id is necessary with the facebook's social button.
+    facebook_admins: 100001667267019                #(optional) admins is necessary with the facebook's social button.
+    share_button:                              #(optional) Share button option
+      twitter: true                            #(optional) Enable Twitter share button
+      facebook: true                           #(optional) Enable Facebook share button
+      google: true                             #(optional) Enable Goolge+ share button
+  #      hatena: true                             #(optional) Enable Hatena share button
+  #      tumblr: true                             #(optional) Enable Tumblr share button
+  #    category_posts: true                       #(optional) Enable category posts
+  #    category_posts_detailed: true              #(optional) Enable detailed category posts
+    latests: false                              #(optional) Enable latests posts
+    list_limts: 3                              #(optional) This option limit the number of display in the above lists (default:5)
+    authorLink:                                #(optional) Enable footer profile link
+  #      mail_url: https://your-mail-form/
+      twitter_id: MD_Odontologia
+      facebook_id: MdFrossardOdontologia
+      youtube_channel: UC6AC1C8mze49D64rTY5BUyw
+  #      instagram_id: xxx
+  #      github_id: xxxx
+
+    google_analytics: UA-34132526-1
+    fb_pixel: 266409860211711
+#  html_minifier:                                  #(optional)
+    warningLog: true                                #(optional)
+#  cache: hexo-generator-amp-cached.json           #(optional) Enable cache (Improve generation speed)
+    validateAMP: true                               #(optional)
+# authorDetail:
+#   authorReading: Your name description            #(optional)
+#   avatar:                                         #(optional)
+#     path:   sample/sample-avator.png              #(optional)
+#     width:  150                                   #(optional)
+#     height: 150                                   #(optional)
+#   description: Self introduction                  #(optional)
+# copyright_notice: The footer copyright notice     #(optional)

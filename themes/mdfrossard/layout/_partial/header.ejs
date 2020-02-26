@@ -3,8 +3,8 @@
     <div class="container">
       <div class="row">
         <div class="telefone">
-          <a onclick="goog_report_conversion('tel:02122665955')" href="tel:02122665955" alt="Ligue Agora" title="Ligue Agora"><span class="icone1 icon-phone"></span><span class="ddd">21</span> <span class="numero">2266-5955</span></a>
-          <a onclick="goog_report_conversion('tel:02132170430')" href="tel:02132170430" alt="Ligue Agora" title="Ligue Agora"><span class="icone1 icon-phone"></span><span class="ddd">21</span> <span class="numero">3217-0430</span></a>                
+          <a onclick="goog_report_conversion('tel:02122665955')" href="tel:02122665955" title="Ligue Agora"><span class="icone1 icon-phone"></span><span class="ddd">21</span> <span class="numero">2266-5955</span></a>
+          <a onclick="goog_report_conversion('tel:02132170430')" href="tel:02132170430" title="Ligue Agora"><span class="icone1 icon-phone"></span><span class="ddd">21</span> <span class="numero">3217-0430</span></a>                
         </div>
         
         <% if (theme.mdf_facebook || theme.mdf_twitter || theme.mdf_whatsapp){ %>
@@ -27,7 +27,12 @@
           <div class="navbar-header">
             <span>
               <a href="<%- url_for() %>" title="<%= config.title %>">
-                <h1 class="branding-name"><img src="/img/md-frossard-logo.png" alt="<%= config.title %>" /></h1>
+                <h1 class="branding-name">
+                  <picture>
+                      <source srcset="//ucarecdn.com/4ceb9859-c65b-4612-992f-16de0c4895e3/-/format/webp/" type="image/webp"/>
+                      <img src="//ucarecdn.com/4ceb9859-c65b-4612-992f-16de0c4895e3/-/format/auto/" alt="<%= config.title %>" />
+                    </picture>
+                  </h1>
               </a>
             </span>             
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainmenu">
@@ -44,8 +49,11 @@
     <div class="newsletter hidden-xs">
       <div class="container">
         <div class="row">  
-          <div class="col-md-7 col-sm-7 col-xs-12">   
-            <img src="/img/dente.png" alt="dente" class="dente"/>   
+          <div class="col-md-7 col-sm-7 col-xs-12">
+            <picture>
+                <source srcset="//ucarecdn.com/831490d1-6b0e-4ee6-8b4e-adf5f98cfc4b/-/format/webp/" type="image/webp"/>
+                <img data-src="//ucarecdn.com/831490d1-6b0e-4ee6-8b4e-adf5f98cfc4b/-/format/auto/" alt="dente" loading="lazy" class="lazyload dente" />
+              </picture>
             <span class="chamada">Junte-se a este grupo de leitores inteligentes e receba atualizações, artigos e dicas imperdíveis para a sua saúde bucal e um sorriso agradável!</span>
           </div><!-- col -->
 

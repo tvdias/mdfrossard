@@ -1,0 +1,666 @@
+<%
+var author_name = post.author ? post.author : config.author;
+//var author = site.data.authors.filter(function(data) {
+//  return data.name == author_name
+//})[0];
+%>
+<!DOCTYPE html>
+<html ⚡>
+  <head>
+		<meta charset="utf-8">
+		<link rel="dns-prefetch" href="https://cdn.ampproject.org">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+    <!-- <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"> -->
+		<meta name="amp-google-client-id-api" content="googleanalytics">
+	  <meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:site" content="@MD_Odontologia" />
+	  <meta name="twitter:url" content="<%= config.url %><%= config.root %><%= post.path %>">
+		<meta name="twitter:title" content="<%= post.title %> - <%= config.title %>">
+		<% if (post.description){ %>
+		<meta name="twitter:description" content="<%= post.description %>" />
+		<% } else if (post.excerpt){ %>
+		<meta name="twitter:description" content="<%= post.excerpt %>" />
+		<% } %>
+    <% if (post.featured_image){ %>
+		<meta name="twitter:image" content="<%= post.featured_image %>">
+		<% } %>
+		<meta name="twitter:creator" content="@MD_Odontologia" />
+		<meta property="og:locale" content="pt_BR" />
+		<meta property="og:type" content="article">
+		<meta property="og:title" content="<%= post.title %>">
+		<% if (post.description){ %>
+		<meta property="og:description" content="<%= post.description %>">
+		<% } else if (post.excerpt){ %>
+		<meta property="og:description" content="<%= post.excerpt %>">
+		<% } %>
+		<meta property="og:url" content="<%= config.url %><%= config.root %><%= post.path %>">
+		<meta property="og:site_name" content="<%= config.title %>">
+		<meta property="og:updated_time" content="<%= post.updated %>" />
+		<% if (post.featured_image){ %>
+		<meta property="og:image" content="<%= post.featured_image %>">
+		<meta property="og:image:secure_url" content="<%= post.featured_image %>" />
+		<% } %>
+		<meta property="og:image:width" content="1024" />
+		<meta property="og:image:height" content="536" />
+		<% if (config.fb_app_id){ %>
+		<meta property="article:publisher" content="https://www.facebook.com/<%- config.fb_app_id %>" />
+		<% } %>
+		<% if (false){ %>
+		<meta property="article:tag" content="webinar anúncios" />
+		<meta property="article:section" content="Instagram" />
+		<% } %>
+		<meta property="article:published_time" content="<%= post.date %>" />
+		<meta property="article:modified_time" content="<%= post.updated %>" />
+	  <% if (config.fb_admins){ %>
+		<meta property="fb:admins" content="<%- config.fb_admins %>">
+		<% } %>
+		<% if (config.fb_app_id){ %>
+		<meta property="fb:app_id" content="<%- config.fb_app_id %>">
+		<% } %>
+    <title><%= post.title %> - <%= config.title %></title>
+		<link rel="canonical" href="<%= config.url %><%= config.root %><%= post.path %>" >
+		<script custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js" async></script>
+		<script custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js" async></script>
+		<script custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js" async></script>
+		<script custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js" async></script>
+		<script async custom-element="amp-addthis" src="https://cdn.ampproject.org/v0/amp-addthis-0.1.js"></script>
+    <% if (isYoutubeContain){ %>
+    <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+    <% } %>
+    <% if (isTwitterContain){ %>
+    <script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
+    <% } %>
+    <% if (isInstagramContain){ %>
+    <script async custom-element="amp-instagram" src="https://cdn.ampproject.org/v0/amp-instagram-0.1.js"></script>
+    <% } %>
+    <% if (isIframeContain){ %>
+    <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+	  <% } %>
+    <% if (config.google_analytics){ %>
+			<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+		<% } %>
+		<script async custom-element="amp-timeago" src="https://cdn.ampproject.org/v0/amp-timeago-0.1.js"></script>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "BlogPosting",
+			"headline": "<%= post.title %>",
+			<% if (post.description){ %>
+			"description": "<%= post.description %>",
+			<% } else if (post.excerpt){ %>
+			"description": "<%= post.excerpt %>",
+			<% } %>
+			"mainEntityOfPage":{
+			    "@type":"WebPage",
+			    "@id":"<%= config.url %><%= config.root %><%= post.path %>"
+			},
+			"datePublished": "<%= post.date.toISOString() %>",
+			"dateModified": "<%= post.updated.toISOString() %>",
+			<% if (post.featured_image && post.featured_image != "" && post.eyeCatchImageProperty && post.eyeCatchImageProperty.width && post.eyeCatchImageProperty.height){ %>
+			"image": {
+				"@type": "ImageObject",
+				"url": "<%= post.featured_image %>",
+				"width" : "<%= post.eyeCatchImageProperty.width %>",
+				"height" : "<%= post.eyeCatchImageProperty.height %>"
+			},
+			<% } %>
+			"author": {
+			    "@type": "Person",
+			    "name": "<%= config.author %>"
+			},
+			"publisher": {
+			    "@type": "Organization",
+			    "name": "<%= config.title %>"
+			    <% if (config.generator_amp.logo.height && config.generator_amp.logo.width && config.generator_amp.logo.height){ %>
+			    ,
+			    "logo": {
+			      "@type": "ImageObject",
+			      "url": "<%= config.generator_amp.assetDistDir %>/<%= config.generator_amp.logo.path %>",
+			      "width": <%= config.generator_amp.logo.width %>,
+			      "height": <%= config.generator_amp.logo.height %>
+			    }
+			    <% } %>
+			}
+		}
+		</script>
+
+		<style amp-boilerplate>
+			body {
+				-webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+				-moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+				-ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+				animation: -amp-start 8s steps(1, end) 0s 1 normal both
+			}
+		
+			@-webkit-keyframes -amp-start {
+				from {
+					visibility: hidden
+				}
+		
+				to {
+					visibility: visible
+				}
+			}
+		
+			@-moz-keyframes -amp-start {
+				from {
+					visibility: hidden
+				}
+		
+				to {
+					visibility: visible
+				}
+			}
+		
+			@-ms-keyframes -amp-start {
+				from {
+					visibility: hidden
+				}
+		
+				to {
+					visibility: visible
+				}
+			}
+		
+			@-o-keyframes -amp-start {
+				from {
+					visibility: hidden
+				}
+		
+				to {
+					visibility: visible
+				}
+			}
+		
+			@keyframes -amp-start {
+				from {
+					visibility: hidden
+				}
+		
+				to {
+					visibility: visible
+				}
+			}
+		</style>
+		<noscript>
+			<style amp-boilerplate>
+				body {
+					-webkit-animation: none;
+					-moz-animation: none;
+					-ms-animation: none;
+					animation: none
+				}
+			</style>
+		</noscript>
+
+		<% if (cssTxt != ""){ %>
+		<style amp-custom>
+			<%- cssTxt %>
+		</style>
+		<% } %>
+  </head>
+	
+	<body class="body single-post amp-single ">
+		<% if (config.google_analytics){ %>
+		<amp-analytics type="gtag" data-credentials="include">
+			<script type="application/json">
+			{
+				"vars" : {
+					"gtag_id": "<%= config.google_analytics %>",
+					"config" : {
+						"<%= config.google_analytics %>": { "groups": "default" }
+					},
+					"googleConversionId": "1003091018",
+					"googleConversionFormat": "3",
+					"googleConversionLabel": "3DRpCIKBiHEQyuin3gM",
+					"googleRemarketingOnly": "false"
+				},
+				"triggers": {
+					"phoneClick": {
+						"selector": "#phoneHeader",
+						"on": "click",
+						"vars": {
+							"event_name": "phone"
+						}
+					},
+					"marqueConsultaClick": {
+						"selector": "#marqueConsulta",
+						"on": "click",
+						"vars": {
+							"event_name": "marqueConsulta"
+						}
+					}
+				}
+			}
+			</script>
+		</amp-analytics>
+		<% } %>
+		<% if (config.fb_pixel){ %>
+			<amp-pixel src="https://www.facebook.com/tr?id=<%= config.fb_pixel %>&ev=PageView&noscript=1" layout="nodisplay"></amp-pixel>
+		<% } %>
+		<div id="backtotop"></div>
+		<div id="marker">
+			<amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"> </amp-position-observer>
+		</div>
+		<header class="header-3 h_m h_m_1">
+			<input type="checkbox" id="offcanvas-menu" class="tg" />
+			<div class="hamb-mnu">
+				<aside class="m-ctr">
+					<div class="m-scrl">
+						<div class="menu-heading clearfix">
+							<label for="offcanvas-menu" class="c-btn"></label>
+						</div>
+						<nav class="m-menu">
+							<ul id="menu-menu-topo-1" class="amp-menu">
+								<% for (var i in config.generator_amp.theme.menu){ %>
+								<li class="menu-item"><a href="<%- config.generator_amp.theme.menu[i] %>"><%= i %></a></li>
+								<% } %>
+							</ul>
+						</nav>
+						<% if(false) { %>
+						<div class="m-srch">
+							<form role="search" method="get" id="amp-search" class="amp-search" target="_top" action="<%= config.url %>">
+								<div class="amp-search-wrapper">
+									<label aria-label="Type your query" class="screen-reader-text" for="s"></label>
+									<input type="text" placeholder="AMP" value="1" name="amp" class="hidden" />
+									<input type="text" placeholder="Digite Aqui" value="" name="s" id="s" />
+									<label aria-label="Submit amp search" for="amp-search-submit">
+										<input type="submit" class="icon-search" id="amp-search-submit" value="Pesquisar" />
+									</label>
+									<div class="overlay-search"> </div>
+								</div>
+							</form>
+						</div>
+						<% } %>
+						<div class="cp-rgt">
+							<span>Todos os direitos reservados</span>
+							<a class="view-non-amp" href="<%= config.url %><%= config.root %><%= post.path %>?nonamp=1">Ver na versão mobile original</a>
+						</div>
+					</div>
+				</aside>
+				<label for="offcanvas-menu" class="fsc"></label>
+				<div class="cntr">
+					<div class="head-3 h_m_w">
+						<div class="h-logo">
+							<div class="amp-logo">
+								<a href="<%= config.url %><%= config.root %>?nonamp=1" rel="nofollow">
+							    <amp-img src="/images/logo-150x60.png" width="150" height="60" alt="<%= config.title %>" class="amp-logo" layout="responsive" noloading />
+								</a>
+							</div>
+						</div>
+						<div class="h-3">
+							<div class="h-ic">
+								<span class="telefone">
+									<a id="phoneHeader" href="tel:02135138479" title="Ligue Agora">
+										<span class="icone1 icon-phone"></span>
+										<span class="ddd">21</span>
+										<span class="numero">3513-8479</span>
+									</a>
+								</span>
+							</div>
+							<% if(false) { %>
+							<div class="h-srch h-ic">
+								<a class="lb icon-search" href="#search"></a>
+								<div class="lb-btn">
+									<div class="lb-t" id="search">
+										<form role="search" method="get" id="amp-search" class="amp-search" target="_top" action="<%= config.url %>">
+											<div class="amp-search-wrapper">
+												<label aria-label="Type your query" class="screen-reader-text" for="s"></label>
+												<input type="text" placeholder="AMP" value="1" name="amp" class="hidden" />
+												<input type="text" placeholder="Digite Aqui" value="" name="s" id="s" />
+												<label aria-label="Submit amp search" for="amp-search-submit">
+													<input type="submit" class="icon-search" id="amp-search-submit" value="Pesquisar" />
+												</label>
+												<div class="overlay-search"></div>
+											</div>
+										</form>
+										<a class="lb-x" href="#"></a>
+									</div>
+								</div>
+							</div>
+							<% } %>
+							<div class="h-nav">
+								<label for="offcanvas-menu" class="t-btn"></label>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<div class="content-wrapper">
+			<div class="sp sgl">
+				<div class="cntr">
+					<% if(false) { %>
+					<div class="amp-wp-content breadcrumb">
+						<ul id="breadcrumbs" class="breadcrumbs">
+							<li class="item-home"><a class="bread-link bread-home" href="<%= config.url %>/" title="Homepage">Homepage</a></li>
+							<li class="item-cat item-cat-700"><a class="bread-cat bread-cat-700 bread-cat-Instagram" href="<%= config.url %>/categoria/instagram/?amp" title="Instagram">Instagram</a></li>
+						</ul>
+					</div>
+					<div class="amp-category"> <span>Categorias: </span> <span class="amp-cat amp-cat-700"><a href="<%= config.url %>/categoria/instagram/?amp"> Instagram</a></span> </div>
+					<% } %>
+					<h1 class="amp-post-title"><%= post.title %></h1>
+				</div>
+				<% if (post.featured_image && post.featured_image != "" && post.eyeCatchImageProperty && post.eyeCatchImageProperty.width && post.eyeCatchImageProperty.height){ %>
+				<%
+					var rW = ( Number(post.eyeCatchImageProperty.width) > Number(post.eyeCatchImageProperty.height) ) ? Math.floor(post.eyeCatchImageProperty.width * 100 / post.eyeCatchImageProperty.height) : 100;
+					var rH = ( Number(post.eyeCatchImageProperty.width) > Number(post.eyeCatchImageProperty.height) ) ? 100 : Math.floor(post.eyeCatchImageProperty.height * 100 / post.eyeCatchImageProperty.width);
+				%>
+				<div class="sf-img">
+					<figure class="amp-featured-image">
+						<amp-img src="<%- post.featured_image %>" width="<%- rW %>" height="<%- rH %>" layout="responsive" alt="<%= post.title %>">
+						</amp-img>
+					</figure>
+				</div>
+				<% } %>
+				<div class="sp-cnt">
+					<div class="cntr">
+						<div class="sp-rl">
+							<div class="sp-rt">
+								<div class="cntn-wrp artl-cnt">
+									<%- content %>
+									<hr />
+									<a id="marqueConsulta" href="/contato">
+										<amp-img src="/images/uploads/marque_consulta-amp.png" width="800" height="250" layout="responsive" alt="Marque sua consulta" />
+									</a>
+								</div>
+								<% if (false) { %>
+								<div class="amp-author ">
+									<div class="amp-author-image ">
+										<amp-img src="<%= gravatar(author.email, {s: 60, d: config.url + url_for(author.avatar)}) %>" width="60" height="60" layout="fixed"></amp-img>
+									</div>
+									<div class="author-details ">
+									  <span class="author-name"><%= post_author_name %></span>
+										<p></p>
+									</div>
+								</div>
+								<% } %>
+								<% if(false) { %>
+								<div id="pagination">
+									<div class="next"> <a
+											href="<%= config.url %>/facebook/vender-mais-no-natal-usando-facebook/?amp">
+											<span>Próximo</span>Como vender mais no Natal usando o Facebook e o Instagram &raquo;</a> </div>
+									<div class="prev"> <a
+											href="<%= config.url %>/casos-de-sucesso/escola-de-gastronomia-vendendo-mais-com-facebook/?amp">
+											<span>Anterior</span> &laquo; Como uma escola de gastronomia gerou R$2.000 em vendas usando o
+											Facebook</a> </div>
+									<div class="clearfix"></div>
+								</div>
+								<div class="cmts"> </div>
+								<% } %>
+							</div>
+							<div class="sp-lt">
+								<div class="ss-ic">
+									<span class="shr-txt">Compartilhar</span>
+									<amp-addthis width="320" height="92" data-pub-id="ra-5c8e1626f00c53bc" data-widget-id="b4jg" data-widget-type="inline"></amp-addthis>
+								</div>
+								<div class="sp-athr">
+									<span class="athr-tx">Publicado por</span>
+									<div class="amp-author ">
+										<div class="author-details ">
+											<span class="author-name"><%= author_name %></span>
+										</div>
+									</div>
+								</div>
+								<div class="post-date">
+									<div class="loop-date">
+										<amp-timeago layout="responsive" width="100" height="20" datetime="<%= post.date.toISOString() %>" locale="ptBR"><%= post.date.toISOString() %></amp-timeago>
+									</div>
+								</div>
+								<% if(false) { %>
+								<div class="amp-tags">
+									<span>Tags: </span>
+									<span class="amp-tag amp-tag-60">
+										<a href="<%= config.url %>/tag/cta_webinar_anuncios/?amp">webinar anúncios</a>
+									</span>
+								</div>
+								<div class="srp">
+									<ul class="clearfix">
+										<h3 class="amp-related-posts-title">Posts relacionados</h3>
+										<li class="has_thumbnail">
+											<div class="rlp-image"> <a
+													href="<%= config.url %>/instagram/seguidores-falsos-instagram/?amp" rel="bookmark"
+													title="Instagram: a batalha contra os seguidores falsos">
+													<amp-img
+														src="https://i0.wp.com/www.camilaporto.com.br/wp-content/uploads/2018/12/CP_Blog_Thumb_quadrada_celular.png?fit=500%2C400&#038;ssl=1&#038;resize=220%2C134"
+														width="220" height="134" layout="responsive"></amp-img>
+												</a> </div>
+											<div class="rlp-cnt">
+												<div class="related_link"> <a
+														href="<%= config.url %>/instagram/seguidores-falsos-instagram/?amp">Instagram: a
+														batalha contra os seguidores falsos</a>
+													<p>Estamos vivendo em um mundo onde a automação está avançando. Desde carros autônomos a
+														assistentes&hellip;</p>
+												</div>
+											</div>
+										</li>
+									</ul>
+								</div>
+							<% } %>
+							</div>
+						</div>
+					</div>
+				</div>
+				<% if(false) { %>
+				<div class="r-pf">
+					<div class="cntr">
+						<h3>Posts recentes</h3>
+						<div class='loop-wrapper'>
+							<div class="fsp">
+								<div class="fsp-img">
+									<div class="loop-img image-container"><a
+											href="<%= config.url %>/facebook/facebook-analytics/?amp">
+											<amp-img
+												src="https://i1.wp.com/www.camilaporto.com.br/wp-content/uploads/2018/12/CP__6_Motivos_a_QUADRADO.png?fit=500%2C400&#038;ssl=1&#038;resize=346%2C188"
+												width="346" height="188" layout=responsive class=""></amp-img>
+										</a></div>
+								</div>
+								<div class="fsp-cnt">
+									<ul class="loop-category">
+										<li class="amp-cat-690"><a href="<%= config.url %>/categoria/facebook/?amp">Facebook</a>
+										</li>
+									</ul>
+									<h2 class=&quot;loop-title&quot;><a
+											href="<%= config.url %>/facebook/facebook-analytics/?amp">6 motivos para você começar a
+											usar hoje o Facebook Analytics</a></h2>
+									<p class="">Você já usa o Facebook Analytics no seu negócio? Essa é uma ferramenta nativa do Facebook
+										que te ajuda a&hellip;</p>
+									<div class="pt-dt">
+										<div class="loop-date">2 meses atrás</div>
+									</div>
+								</div>
+							</div>
+							<div class="fsp">
+								<div class="fsp-img">
+									<div class="loop-img image-container"><a
+											href="<%= config.url %>/leads/paginas-de-captura-transforme-visitantes-em-clientes/?amp">
+											<amp-img
+												src="https://i2.wp.com/www.camilaporto.com.br/wp-content/uploads/2018/12/CP_Paginas-de-Captura_QUADRADO.png?fit=500%2C400&#038;ssl=1&#038;resize=346%2C188"
+												width="346" height="188" layout=responsive class=""></amp-img>
+										</a></div>
+								</div>
+								<div class="fsp-cnt">
+									<ul class="loop-category">
+										<li class="amp-cat-699"><a href="<%= config.url %>/categoria/leads/?amp">Leads</a></li>
+									</ul>
+									<h2 class=&quot;loop-title&quot;><a
+											href="<%= config.url %>/leads/paginas-de-captura-transforme-visitantes-em-clientes/?amp">Páginas
+											de Captura: Transforme visitantes em clientes</a></h2>
+									<p class="">Você já parou para pensar no que aconteceria se as redes sociais acabassem hoje? De que
+										forma você divulgaria o&hellip;</p>
+									<div class="pt-dt">
+										<div class="loop-date">2 meses atrás</div>
+									</div>
+								</div>
+							</div>
+							<div class="fsp">
+								<div class="fsp-img">
+									<div class="loop-img image-container"><a
+											href="<%= config.url %>/youtube/como-criar-um-canal-no-youtube/?amp">
+											<amp-img
+												src="https://i0.wp.com/www.camilaporto.com.br/wp-content/uploads/2018/12/CP_Como-criar-um-canal_1080x720px.png?fit=600%2C400&#038;ssl=1&#038;resize=346%2C188"
+												width="346" height="188" layout=responsive class=""></amp-img>
+										</a></div>
+								</div>
+								<div class="fsp-cnt">
+									<ul class="loop-category">
+										<li class="amp-cat-745"><a href="<%= config.url %>/categoria/youtube/?amp">Youtube</a>
+										</li>
+									</ul>
+									<h2 class=&quot;loop-title&quot;><a
+											href="<%= config.url %>/youtube/como-criar-um-canal-no-youtube/?amp">Youtube: Como
+											criar um canal e primeiros passos para quem está começando</a></h2>
+									<p class="">O consumo de conteúdo em vídeos cresce ano após ano. Diversos negócios estão estudando como
+										adicionar esse formato em suas&hellip;</p>
+									<div class="pt-dt">
+										<div class="loop-date">2 meses atrás</div>
+									</div>
+								</div>
+							</div>
+							<div class="fsp">
+								<div class="fsp-img">
+									<div class="loop-img image-container"><a
+											href="<%= config.url %>/instagram/seguidores-falsos-instagram/?amp">
+											<amp-img
+												src="https://i0.wp.com/www.camilaporto.com.br/wp-content/uploads/2018/12/CP_Blog_Thumb_quadrada_celular.png?fit=500%2C400&#038;ssl=1&#038;resize=346%2C188"
+												width="346" height="188" layout=responsive class=""></amp-img>
+										</a></div>
+								</div>
+								<div class="fsp-cnt">
+									<ul class="loop-category">
+										<li class="amp-cat-700"><a
+												href="<%= config.url %>/categoria/instagram/?amp">Instagram</a></li>
+									</ul>
+									<h2 class=&quot;loop-title&quot;><a
+											href="<%= config.url %>/instagram/seguidores-falsos-instagram/?amp">Instagram: a
+											batalha contra os seguidores falsos</a></h2>
+									<p class="">Estamos vivendo em um mundo onde a automação está avançando. Desde carros autônomos a
+										assistentes virtuais como Alexa e Siri,&hellip;</p>
+									<div class="pt-dt">
+										<div class="loop-date">2 meses atrás</div>
+									</div>
+								</div>
+							</div>
+							<div class="fsp">
+								<div class="fsp-img">
+									<div class="loop-img image-container"><a
+											href="<%= config.url %>/redes-sociais/instagram-stories-aumentar-engajamento/?amp">
+											<amp-img
+												src="https://i1.wp.com/www.camilaporto.com.br/wp-content/uploads/2018/10/CP_Blog_Stories_Thumb_quadrada.png?fit=500%2C400&#038;ssl=1&#038;resize=346%2C188"
+												width="346" height="188" layout=responsive class=""></amp-img>
+										</a></div>
+								</div>
+								<div class="fsp-cnt">
+									<ul class="loop-category">
+										<li class="amp-cat-689"><a href="<%= config.url %>/categoria/redes-sociais/?amp">Redes
+												Sociais</a></li>
+									</ul>
+									<h2 class=&quot;loop-title&quot;><a
+											href="<%= config.url %>/redes-sociais/instagram-stories-aumentar-engajamento/?amp">Instagram
+											Stories: 5 formas fáceis de aumentar o seu engajamento</a></h2>
+									<p class="">Que o Stories veio para ficar ninguém duvida. Com mais de 800 milhões de contas utilizando o
+										recurso, os vídeos&hellip;</p>
+									<div class="pt-dt">
+										<div class="loop-date">4 meses atrás</div>
+									</div>
+								</div>
+							</div>
+							<div class="fsp">
+								<div class="fsp-img">
+									<div class="loop-img image-container"><a
+											href="<%= config.url %>/redes-sociais/usar-lives-para-aumentar-vendas/?amp">
+											<amp-img
+												src="https://i0.wp.com/www.camilaporto.com.br/wp-content/uploads/2018/10/CP_Thumb_Blog_live_quadrada_regra_80_20.png?fit=500%2C400&#038;ssl=1&#038;resize=346%2C188"
+												width="346" height="188" layout=responsive class=""></amp-img>
+										</a></div>
+								</div>
+								<div class="fsp-cnt">
+									<ul class="loop-category">
+										<li class="amp-cat-689"><a href="<%= config.url %>/categoria/redes-sociais/?amp">Redes
+												Sociais</a></li>
+									</ul>
+									<h2 class=&quot;loop-title&quot;><a
+											href="<%= config.url %>/redes-sociais/usar-lives-para-aumentar-vendas/?amp">6 ideias
+											simples de como usar lives para aumentar suas vendas</a></h2>
+									<p class="">As lives são vídeos transmitidos ao vivo disponíveis em redes sociais como Facebook,
+										Instagram e Youtube. Elas são ótimas para&hellip;</p>
+									<div class="pt-dt">
+										<div class="loop-date">4 meses atrás</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<% } %>
+			</div>
+		</div>
+		<footer class="footer">
+			<div class="f-w-f2">
+				<div class="cntr">
+					<% if(false) { %>
+					<div class="f-menu">
+						<nav itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+							<div class="menu-menu-rodape-container">
+								<ul id="menu-menu-rodape" class="menu">
+									<li id="menu-item-28668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28668">
+										<a href="<%= config.url %>/sobre/" itemprop="url"><span itemprop="name">Sobre</span></a>
+									</li>
+									<li id="menu-item-28661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28661">
+										<a href="<%= config.url %>/sobre-a-empresa/" itemprop="url"><span itemprop="name">Sobre a Empresa</span></a>
+									</li>
+									<li id="menu-item-28660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28660">
+										<a href="<%= config.url %>/ferramentas-que-utilizamos/" itemprop="url"><span itemprop="name">Ferramentas que utilizamos</span></a>
+									</li>
+									<li id="menu-item-30935" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30935">
+										<a href="https://socialsell.com.br/?utm_source=google&amp;utm_medium=display&amp;utm_campaign=Social%20Sell&amp;utm_content=header" itemprop="url"><span itemprop="name">Social Sell</span></a>
+									</li>
+									<li id="menu-item-28667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28667">
+										<a href="<%= config.url %>/livro/" itemprop="url"><span itemprop="name">Livro</span></a>
+									</li>
+									<li id="menu-item-28666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28666">
+										<a href="<%= config.url %>/blog/" itemprop="url"><span itemprop="name">Blog</span></a>
+									</li>
+									<li id="menu-item-28665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28665">
+										<a href="<%= config.url %>/aulas-ebooks/" itemprop="url"><span itemprop="name">Aulas e Ebooks</span></a></li>
+									<li id="menu-item-29381" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29381">
+										<a href="<%= config.url %>/categoria/casos-de-sucesso/" itemprop="url"><span itemprop="name">Casos de sucesso</span></a>
+									</li>
+									<li id="menu-item-28663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28663">
+										<a href="<%= config.url %>/contato/" itemprop="url"><span itemprop="name">Contato</span></a>
+									</li>
+									<li id="menu-item-29114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29114">
+										<a href="<%= config.url %>/trabalhe-conosco/" itemprop="url"><span itemprop="name">Trabalhe conosco</span></a>
+									</li>
+									<li id="menu-item-28730" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28730">
+										<a href="https://camilaporto.zendesk.com/" itemprop="url"><span itemprop="name">Ajuda</span></a>
+									</li>
+								</ul>
+							</div>
+						</nav>
+					</div>
+					<% } %>
+					<div class="rr">
+						<span>Todos os direitos reservados</span>
+						<a class="view-non-amp" href="<%= config.url %><%= config.root %><%= post.path %>?nonamp=1/">Ver na versão mobile original</a>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<div class="s_stk ss-ic">
+			<amp-addthis width="320" height="92" layout="responsive" data-pub-id="ra-5c8e1626f00c53bc" data-widget-id="u0rc" data-widget-type="floating"></amp-addthis>
+		</div>
+		<a id="scrollToTopButton" title="back to top" on="tap:backtotop.scrollTo(duration=500)" class="btt"></a>
+		<amp-animation id="showAnim" layout="nodisplay">
+			<script type="application/json">
+				{"duration": "400ms","fill": "both","iterations": "1","direction": "alternate","animations": [{"selector": "#scrollToTopButton","keyframes": [{"opacity": "1","visibility": "visible"}]}]}
+			</script>
+		</amp-animation>
+		<amp-animation id="hideAnim" layout="nodisplay">
+			<script type="application/json">
+				{"duration": "400ms","fill": "both","iterations": "1","direction": "alternate","animations": [{"selector": "#scrollToTopButton","keyframes": [{"opacity": "0","visibility": "hidden"}]}]}
+	    </script>
+		</amp-animation>
+	</body>
+</html>

@@ -10,14 +10,14 @@ var support = site.data.authors.filter(function(data) {
 
 <div class="row">
     <div class="contpage equipe">
+        <h1 class="title2" style="margin-bottom:20px;">Equipe:</h1>
         <div class="row">
-            <h1 class="title2" style="margin-bottom:20px;">Equipe:</h1>
             <% members.forEach(function(member) { %>
             <div class="col-md-6 col-sm-6 col-xs-12 membro original">
-                <h3><%= member.name %></h3>
+                <h3 class="title2"><%= member.name %></h3>
                 <div class="media">
                     <div class="img img-circle">
-                        <img width="150" height="150" src="<%= member.avatar %>" class="attachment-thumbnail size-thumbnail wp-post-image" alt="<%= member.name %>" />
+                        <img data-src="<%= member.avatar %>" width="150" height="150" alt="" loading="lazy" class="lazyload attachment-thumbnail size-thumbnail wp-post-image" alt="<%= member.name %>" />
                     </div>
                     <div class="bd">
                         <p style="text-align: justify;"><%- markdown(member.bio) %></p>
@@ -27,14 +27,14 @@ var support = site.data.authors.filter(function(data) {
             <% }) %>
         </div>
         <!-- row -->
+        <h2 class="title2">Profissionais de apoio:</h2>
         <div class="row">
-            <h2 class="title2">Profissionais de apoio:</h2>
             <% support.forEach(function(member) { %>
             <div class="col-md-6 col-sm-6 col-xs-12 membro original">
-                <h3><%= member.name %></h3>
+                <h3 class="title2"><%= member.name %></h3>
                 <div class="media">
                     <div class="img img-circle">
-                        <img width="150" height="150" src="<%= member.avatar %>" class="attachment-thumbnail size-thumbnail wp-post-image" alt="<%= member.name %>" />
+                        <img data-src="<%= member.avatar %>" width="150" height="150" alt="" loading="lazy" class="lazyload attachment-thumbnail size-thumbnail wp-post-image" alt="<%= member.name %>" />
                     </div>
                     <div class="bd">
                         <p style="text-align: justify;"><%- markdown(member.bio) %></p>

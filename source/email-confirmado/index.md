@@ -13,11 +13,11 @@ layout: false
 	<meta charset="UTF-8">
 	<title>Email Confirmado - MD Frossard</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="https://mdfrossard.com.br/wp-content/themes/frossard-comersite-v2/css/normalize.min.css">
-    <link rel="stylesheet" href="https://mdfrossard.com.br/wp-content/themes/frossard-comersite-v2/css/bootstrap.min.css" />
-	<link rel="stylesheet" href="https://mdfrossard.com.br/wp-content/themes/frossard-comersite-v2/css/main.min.css" />
-	<script src="https://mdfrossard.com.br/wp-content/themes/frossard-comersite-v2/js/modernizr-2.6.2.js"></script>
-	<link rel="icon" href="https://mdfrossard.com.br/wp-content/themes/frossard-comersite-v2/img/favicon.ico" type="image/x-icon"/>  
+	<link rel="stylesheet" href="https://mdfrossard.com.br/css/normalize.min.css">
+    <link rel="stylesheet" href="https://mdfrossard.com.br/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="https://mdfrossard.com.br/css/main.min.css" />
+	<script src="https://mdfrossard.com.br/js/modernizr-2.6.2.js"></script>
+	<link rel="icon" href="https://mdfrossard.com.br/images/favicon.ico" type="image/x-icon"/>  
     <meta name="author" content="MD Frossard - http://www.mdfrossard.com.br" /> 
     <meta name="Publisher" content="MD Frossard - http://www.mdfrossard.com.br" /> 
     <meta name="keywords" content="implante, ortodontia, odontologia, dentista, saúde, boca, sorriso, dente, aparelho dentário, aparelho ortodôntico, aparelho, mau hálito, halitose, endodontia, tratamento, biossegurança, estética, prevenção e manutenção, escovar destes, escovação, tratamento dentário" />
@@ -70,8 +70,8 @@ var OptimizePress = {"ajaxurl":"https:\/\/mdfrossard.com.br\/wp-admin\/admin-aja
                         <h2>Passo 2: Siga o MD Frossard Odontologia nas redes sociais</h2>
                         <h3>Receba informações exclusivas.</h3>
                         <div class="mails">
-                                                    <a href="//www.facebook.com/MdFrossardOdontologia?fref=ts" class="facebook" target="_blank">Facebook</a>
-                                                                </div>                
+                          <a href="//www.facebook.com/MdFrossardOdontologia?fref=ts" class="facebook" target="_blank">Facebook</a>
+                        </div>                
                     </div><!-- col -->
                 </div><!-- row -->
             </div><!-- container -->  	

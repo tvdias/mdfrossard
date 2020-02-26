@@ -1,12 +1,10 @@
 ---
 title: 'Invisalign , Saiba tudo sobre esse tipo de aparelho dentário'
-url: 1179.html
-featured_image: '/images/uploads/2015/04/Invisalign.jpg'
-id: 1179
-categories:
-  - Sem categoria
-date: 2015-04-06 09:36:23
-tags:
+description: >-
+  Com o invisalign você pode corrigir a posição dos seus dentes de forma
+  praticamente invisível e que não machuca os lábios. Saiba mais lendo o texto.
+date: 2015-04-06T09:36:23.000Z
+featured_image: //ucarecdn.com/34725af2-9c4b-4383-93f6-5466869d78f0/Invisalign.jpg
 ---
 
 Você já pensou se pudesse alinhar e corrigir a posição dos seus dentes com um aparelho praticamente invisível, que não atrapalha a escovação e nem machuca os lábios?
@@ -18,7 +16,7 @@ Criamos um post  explicativo sobre o sistema Invisalign®, com as perguntas que
 O que é Invisalign®?
 --------------------
 
-[![aparelho invisalign](/images/uploads/2015/04/aparelho-invisalign-1024x752.jpg)](/images/uploads/2015/04/aparelho-invisalign.jpg)
+[![aparelho invisalign](/images/uploads/2015/04/aparelho-invisalign-1024x752.jpg)](//ucarecdn.com/3716881e-9273-4a78-818c-ed52bc1f697e/aparelho-invisalign.jpg)
 
 **Invisalign® é um aparelho ortodôntico diferente do convencional.**
 
@@ -36,7 +34,7 @@ Com Invisalign®, o principio é o mesmo. Cada placa pressiona levemente os dent
 Como é realizado o processo de planejamento e personalização para o meu caso?
 -----------------------------------------------------------------------------
 
-[![Invisalign perto](/images/uploads/2015/04/Invisalign-perto.jpg)](/images/uploads/2015/04/Invisalign-perto.jpg)
+[![Invisalign perto](//ucarecdn.com/422f9ca4-ba04-4e44-9e1d-836096d29554/Invisalign-perto.jpg)](//ucarecdn.com/422f9ca4-ba04-4e44-9e1d-836096d29554/Invisalign-perto.jpg)
 
 Primeiro são realizadas fotografias e as moldagens dos dentes aqui no Rio de Janeiro, que são então encaminhadas para os EUA. Lá, os moldes são escaneados e um planejamento totalmente digitalizado (chamado Clincheck)  é elaborado de acordo com as instruções enviadas pelo nosso Ortodontista.
 
@@ -52,8 +50,6 @@ O tratamento é doloroso?
 
 De forma geral, os pacientes Invisalign® sentem menos desconforto que os pacientes de ortodontia convencional, pois as forças sobre os dentes são planejadas com mais precisão e sempre de uma forma bem leve.
 
-[![Boca](/images/uploads/2014/03/day-clinic-boca.jpg)](/images/uploads/2014/03/day-clinic-boca.jpg)
-
 O alinhador atrapalha na fala?
 ------------------------------
 
@@ -63,8 +59,6 @@ Os alinhadores são muito bem adaptados aos dentes, então a fala não fica prej
 
 De quanto em quanto tempo preciso trocar os alinhadores e ir ao Ortodontista?
 -----------------------------------------------------------------------------
-
-[![Tempo](/images/uploads/2014/03/day-clinic-tempo.jpg)](/images/uploads/2014/03/day-clinic-tempo.jpg)
 
 Os alinhadores são trocados a **cada 15 dias**, e as consultas para ajuste e entrega de novas placas são mensais ou a cada dois meses.
 
