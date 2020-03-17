@@ -46,7 +46,7 @@ O primeiro ponto é que muitas vezes as escovas não secam direito, o que pode c
 
 Da mesma forma, as cerdas já não são mais as mesmas em três meses, o que pode fazer com que ela perca a eficiência. E ah! Se você ficar doente, é bom trocar de escova logo em seguida, uma vez que as bactérias podem ficar presa nas cerdas, fazendo você se reinfectar.
 
-***B - Creme dental ***
+**B - Creme dental**
 
 A escolha do creme dental também é essencial para que a nossa saúde bucal esteja em dia. A primeira indicação é sempre escolher aqueles que contenham flúor!
 
@@ -88,4 +88,4 @@ Por isso, siga todas essas dicas com cuidado e paciência, além de não pular n
 
 O importante é estar sempre saudável!
 
-Conteúdo produzido por Letícia Eleutério | Produtora de conteúdo na Ideal odonto
+**Conteúdo produzido por Letícia Eleutério | Produtora de conteúdo na Ideal odonto**
