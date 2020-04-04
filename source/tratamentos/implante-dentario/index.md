@@ -13,6 +13,8 @@ Assim, os [**implantes dentários**](/implante-dentario/) geram uma grande satis
 
 Além disso, as famosas dentaduras e próteses parciais com grampo podem ser substituídas por próteses fixas sobre implantes, melhorando a retenção, mastigação e a estética do paciente.
 
+---
+
 #### <span style="color: #800000;"> **Perguntas Freqüentes (Dúvidas):** </span>
 </span>
 
@@ -94,8 +96,6 @@ O implante ocupa o lugar da raiz do dente perdido e ajuda a prevenir as conseq
 
 ## <span style="color: #800000;">**Técnica Cirúrgica Guiada (conhecido popularmente como “implante sem corte”)**
 
-[![Implante dentário](Implante-dentário-6-300x183.jpg "Cirurgia Guiada sobre implante dentário")](/Implante-dentário-6.jpg)
-
 Atualmente, as técnicas de **cirúrgicas guiadas** são alternativa conveniente para a instalação de **implantes dentários.**
 
 A principal vantagem desta técnica é a quantidade mínima de manipulação de tecido mole (gengiva) em razão da cirurgia ser sem abertura de retalho, isto **reduz significativamente o tempo de cicatrização e o desconforto.**
@@ -126,7 +126,7 @@ As próteses sobre **implante dental** podem ser classificadas em:
 
 ---
 
-#### ** 2) Prótese Múltipla Parcial ** 
+#### **2) Prótese Múltipla Parcial** 
 
 ---
 
