@@ -1,5 +1,5 @@
 ---
-title: Day Clinic Dental - Todos Podem realizar?
+title: Day Clinic Dental - Todos Podem realizar? | MD Frossard Odontologia
 active_menu: day_clinic
 description: Day clinic dental? Esse método de atendimento é voltado para pessoas que tem pouco tempo livre durante o dia e que necessitem de atendimento odontológico.
 featured_image: day-clinic-tempo.jpg

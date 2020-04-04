@@ -1,6 +1,6 @@
 ---
 id: estrutura
-title: Estrutura da MD Odontologia
+title: Nossa Estrutura | MD Frossard Odontologia
 layout: mdf_estrutura
 active_menu: sobre
 description: A Clínica Dentária MD Frossard Odontologia atua nos bairros da Barra da Tijuca e Botafogo há mais de 30 anos oferecendo tratamentos de alta qualidade.

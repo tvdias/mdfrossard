@@ -1,5 +1,5 @@
 ---
-title: Biossegurança em nosso Consultório
+title: Biossegurança em nosso Consultório | MD Frossard Odontologia
 active_menu: sobre
 description: Biossegurança é super importante para qualquer procedimento na odontologia. Em nossa clínica temos um cuidado especial com esse tópico.
 ---

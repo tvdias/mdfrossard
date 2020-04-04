@@ -1,5 +1,5 @@
 ---
-title: Prótese Dentária
+title: Prótese Dentária | MD Frossard Odontologia
 layout: mdf_tratamentos
 active_menu: tratamentos
 description: Conheça os principais tipos de Prótese Dentária. Na odontologia podemos realizar próteses fixas como as coroas e blocos. Também existem as removíveis.

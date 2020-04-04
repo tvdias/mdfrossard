@@ -1,5 +1,5 @@
 ---
-title: Periodontia
+title: Periodontia | MD Frossard Odontologia
 layout: mdf_tratamentos
 active_menu: tratamentos
 description: Gengivas sangrando, dor ao escovar os dentes. A periodontia pode melhorar a saúde da sua gengiva. Tire suas dúvidas aqui.

@@ -17,7 +17,7 @@
     title = __('tag') + ': ' + page.tag;
   }
   %>
-  <title><% if (title){ %><%= title %> | <% } %><%= config.title %></title>
+  <title><%= title ? title : config.title %></title>
 
   <!-- Google Tag Manager - 19-05-15 -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
