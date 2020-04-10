@@ -6,7 +6,7 @@ description: >-
   A dor causada pela sensibilidade dental é muito comum no consultório
   odontológico. Veja os 9 principais motivos e principalmente como eliminar a
   dor.
-featured_image: //ucarecdn.com/d58faad0-cee4-4837-ac17-cb53824b8527/sensibilidade-dental.jpg
+featured_image: /images/d58faad0-cee4-4837-ac17-cb53824b8527_sensibilidade-dental.jpg
 ---
 ## Você já teve Sensibilidade nos Dentes ?
 
@@ -22,7 +22,7 @@ Ficou curioso? Então continue lendo esse artigo.
 
 ## **Hipersensibilidade dentinária, o que é?**
 
-![Sensibilidade nos dentes](//ucarecdn.com/bfe5de85-5f82-4173-99f2-662c43ea1cf8/Sensibilidade-nos-dentes1-1024x405.png) 
+![Sensibilidade nos dentes](/images/bfe5de85-5f82-4173-99f2-662c43ea1cf8_Sensibilidade-nos-dentes1-1024x405.png) 
 
 Hipersensibilidade dentinária é o nome correto para a sensibilidade nos dentes da qual falamos neste post. 
 
@@ -38,7 +38,7 @@ Ela é caracterizada pela dor aguda (“dor fina”, “pontada”) e de curta 
 
 ## **Quais são as 9 principais causas da Sensibilidade nos dentes ?**
 
-![sensibilidade dentária](//ucarecdn.com/ebe1b333-f7ce-43fd-b413-84db3dc1a69e/sensibilidade-dentária.jpg) 
+![sensibilidade dentária](/images/ebe1b333-f7ce-43fd-b413-84db3dc1a69e_sensibilidade-dentária.jpg) 
 
 
 
@@ -120,7 +120,7 @@ sse tipo de desgaste é extremamente maléfico ao paciente, pois usamos aliment
 
 ## **Os cremes dentais utilizados para combater dentes sensíveis são eficazes?**
 
-![sensibilidade dentinária](//ucarecdn.com/8ac1c39d-b7b4-489f-b5b1-073ae14d232d/sensibilidade-dentinária.jpg) 
+![sensibilidade dentinária](/images/8ac1c39d-b7b4-489f-b5b1-073ae14d232d_sensibilidade-dentinária.jpg) 
 
 Claro que Sim!  Porém **não são a única solução**.  
 
@@ -134,7 +134,7 @@ Portanto, sempre um correto planejamento deve ser realizado, para que a origem 
 
 ## **O que devo fazer para remover a sensibilidade dental?**
 
-![tratamento sensibilidade dental](//ucarecdn.com/3edf4997-709e-4efc-b726-cb7df5c74dc1/tratamento-sensibilidade.jpg)   
+![tratamento sensibilidade dental](/images/3edf4997-709e-4efc-b726-cb7df5c74dc1_tratamento-sensibilidade.jpg)   
 
 **A )** **Ir ao dentista. **Só ele poderá avaliar qual a causa, para assim prover ao paciente o melhor plano de tratamento. Se você leu todo o post, percebeu que apenas uso de pasta de dente para sensibilidade nos dentes não é a solução para este problema ! ; 
 
@@ -160,7 +160,7 @@ Se você estiver com **muita sensibilidade nos dentes** ( geralmente após o cl
 
 ## **Conclusão**
 
-![conclusão sensibilidade dental](//ucarecdn.com/57d8a0c3-0e7f-40e4-b5b1-4b08bf665b1f/conclusão-sensibilidade-dental.jpg) **A **
+![conclusão sensibilidade dental](/images/57d8a0c3-0e7f-40e4-b5b1-4b08bf665b1f_conclusão-sensibilidade-dental.jpg) **A **
 
 **sensibilidade nos dentes não é algo com o qual temos que nos acostumar a conviver.** 
 

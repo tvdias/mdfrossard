@@ -4,7 +4,7 @@ description: >-
   Não ter a Gengiva inflamada pode ser mais mais fácil do que se imagina. Com
   pequenos ajustes na rotina, sua saúde gengival pode ficar bem melhor.
 date: 2017-07-03T10:00:53.000Z
-featured_image: //ucarecdn.com/8ae97bc8-c39d-4a3e-8ba0-114e0200a68a/gengiva-inflamada-e-sangrando.jpg
+featured_image: /images/8ae97bc8-c39d-4a3e-8ba0-114e0200a68a_gengiva-inflamada-e-sangrando.jpg
 ---
 
 Nosso [blog](/blog/) recebe milhares de visitas e centenas de mensagens com questionamentos dos mais variados tipos. Porém, algumas se destacam. 
@@ -18,7 +18,7 @@ A resposta pode te surpreender. É sobre isso que vamos discutir nesse texto. L
 **Afinal, porque tenho a gengiva inflamada ?**
 ----------------------------------------------
 
-![Gengiva inflamada](//ucarecdn.com/5114fb31-efc7-453b-9806-02a724f5af0c/inflamação-gengiva.jpg) 
+![Gengiva inflamada](/images/5114fb31-efc7-453b-9806-02a724f5af0c_inflamação-gengiva.jpg) 
 
 Antes de conversar sobre o tratamento, precisamos falar sobre a causa. 
 
@@ -39,7 +39,7 @@ Antes de entrarmos no tratamento, preciso abordar os diferentes níveis da gengi
 **Níveis de sangramento e inflamação da gengiva.**
 --------------------------------------------------
 
-![gengiva inflamada tratamento](//ucarecdn.com/96d4cc2d-7af0-4c59-8f5e-526894e2a713/gengiva-sangrando-tratamento.jpg) 
+![gengiva inflamada tratamento](/images/96d4cc2d-7af0-4c59-8f5e-526894e2a713_gengiva-sangrando-tratamento.jpg) 
 
 Isso deve estar bastante claro para você. Existem casos onde a inflamação é grande e outros onde é pequena. 
 
@@ -54,7 +54,7 @@ Um segundo nível se chama de **[periodontite](/tratamentos/periodontia/)**, qua
 **Tratamento da gengiva inflamada**
 -----------------------------------
 
-![escovação gengiva inflamada](//ucarecdn.com/4afc0ed6-f885-4e07-86ea-32eadcbf100e/gengiva-inflamada-escovação.jpg) 
+![escovação gengiva inflamada](/images/4afc0ed6-f885-4e07-86ea-32eadcbf100e_gengiva-inflamada-escovação.jpg) 
 
 Qual o segredo para se ter a gengiva saudável? 
 

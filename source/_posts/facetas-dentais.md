@@ -4,7 +4,7 @@ description: >-
   Saiba tudo sobre as Facetas Dentais. Leia sobre as 6 principais indicações
   desse tratamento, assim como suas principais vantagens e desvantagens. 
 date: 2014-07-04T10:08:43.000Z
-featured_image: //ucarecdn.com/fe51bc3e-20a0-49c2-81d5-0dc6b1b17c3b/Faceta-dental-estética.jpg
+featured_image: /images/fe51bc3e-20a0-49c2-81d5-0dc6b1b17c3b_Faceta-dental-estética.jpg
 ---
 A demanda por **facetas dentais ou de porcelana** aumentaram muito nos últimos tempos. 
 
@@ -24,7 +24,7 @@ Continue lendo esse texto para aprender sobre :
 
 ## Como são feitas as facetas dentais 
 
-![](//ucarecdn.com/e0bc58b2-2b81-460f-b0dc-4f2f7bd7ee0b/faceta-dental.jpg) 
+![](/images/e0bc58b2-2b81-460f-b0dc-4f2f7bd7ee0b_faceta-dental.jpg) 
 
 As **facetas dentais** consistem em lâminas de cerâmica, bem finas e com alta resistência e são adaptadas à boca do paciente e posicionadas na parte frontal dos dentes anteriores.  
 
@@ -46,7 +46,7 @@ Sempre buscamos realizar um menor desgaste possível do dente, visando preservar
 
 ## As 6 principais indicações 
 
-![lente de contato dentista](//ucarecdn.com/5fb7372e-8268-4215-8889-8430c8e897e5/lente-de-contato-dentista-300x174.jpg)
+![lente de contato dentista](/images/5fb7372e-8268-4215-8889-8430c8e897e5_lente-de-contato-dentista-300x174.jpg)
 
 
 
@@ -98,7 +98,7 @@ Para algumas, um simples clareamento ou restauração é o suficiente. Já para 
 
 ## Vantagens do uso de Facetas Dentais 
 
-![facetas dentais](//ucarecdn.com/94bdc549-478d-43ec-8cce-11026b353ccf/facetas-dentais-1.jpg) 
+![facetas dentais](/images/94bdc549-478d-43ec-8cce-11026b353ccf_facetas-dentais-1.jpg) 
 
 A grande vantagem desse tratamento é proporcionar a mudança completa do sorriso. Com isso, é notória a transformação da auto-estima e confiança do nosso paciente. 
 

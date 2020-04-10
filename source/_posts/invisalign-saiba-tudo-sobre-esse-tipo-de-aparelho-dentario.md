@@ -4,7 +4,7 @@ description: >-
   Com o invisalign você pode corrigir a posição dos seus dentes de forma
   praticamente invisível e que não machuca os lábios. Saiba mais lendo o texto.
 date: 2015-04-06T09:36:23.000Z
-featured_image: //ucarecdn.com/34725af2-9c4b-4383-93f6-5466869d78f0/Invisalign.jpg
+featured_image: /images/34725af2-9c4b-4383-93f6-5466869d78f0_Invisalign.jpg
 ---
 
 Você já pensou se pudesse alinhar e corrigir a posição dos seus dentes com um aparelho praticamente invisível, que não atrapalha a escovação e nem machuca os lábios?
@@ -16,7 +16,7 @@ Criamos um post  explicativo sobre o sistema Invisalign®, com as perguntas que
 O que é Invisalign®?
 --------------------
 
-[![aparelho invisalign](/images/uploads/2015/04/aparelho-invisalign-1024x752.jpg)](//ucarecdn.com/3716881e-9273-4a78-818c-ed52bc1f697e/aparelho-invisalign.jpg)
+[![aparelho invisalign](/images/uploads/2015/04/aparelho-invisalign-1024x752.jpg)](/images/3716881e-9273-4a78-818c-ed52bc1f697e_aparelho-invisalign.jpg)
 
 **Invisalign® é um aparelho ortodôntico diferente do convencional.**
 
@@ -34,7 +34,7 @@ Com Invisalign®, o principio é o mesmo. Cada placa pressiona levemente os dent
 Como é realizado o processo de planejamento e personalização para o meu caso?
 -----------------------------------------------------------------------------
 
-[![Invisalign perto](//ucarecdn.com/422f9ca4-ba04-4e44-9e1d-836096d29554/Invisalign-perto.jpg)](//ucarecdn.com/422f9ca4-ba04-4e44-9e1d-836096d29554/Invisalign-perto.jpg)
+[![Invisalign perto](/images/422f9ca4-ba04-4e44-9e1d-836096d29554_Invisalign-perto.jpg)](/images/422f9ca4-ba04-4e44-9e1d-836096d29554_Invisalign-perto.jpg)
 
 Primeiro são realizadas fotografias e as moldagens dos dentes aqui no Rio de Janeiro, que são então encaminhadas para os EUA. Lá, os moldes são escaneados e um planejamento totalmente digitalizado (chamado Clincheck)  é elaborado de acordo com as instruções enviadas pelo nosso Ortodontista.
 

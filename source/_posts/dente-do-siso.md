@@ -4,7 +4,7 @@ description: >-
   A remoção do dente do siso pode ser traumática para você. Veja 5 segredos
   sobre esse tipo de cirurgia. Talvez até não seja necessária sua remoção.
 date: 2017-10-23T08:00:35.000Z
-featured_image: //ucarecdn.com/f732904a-a038-41eb-9c97-19b7383ec887/dente-do-siso.jpg
+featured_image: /images/f732904a-a038-41eb-9c97-19b7383ec887_dente-do-siso.jpg
 ---
 
 É provável que você tenha {% post_link medo-de-dentista "medo de dentista" %}. 
@@ -22,7 +22,7 @@ Para dar a você mais segurança e menos medo eu quero discutir 5 segredos sobre
 **1 - É uma cirurgia (extração do dente do siso) **
 ---------------------------------------------------
 
-![extração dente do siso](//ucarecdn.com/b5ce4fb2-09f1-43a8-a62d-e162b12c9303/extração-dente-do-siso.jpg) 
+![extração dente do siso](/images/b5ce4fb2-09f1-43a8-a62d-e162b12c9303_extração-dente-do-siso.jpg) 
 
 Sim, isso não tem como negar, é preciso realizar uma cirurgia para remover esse dente. 
 
@@ -35,7 +35,7 @@ Entretanto, não entre em pânico, essa cirurgia não é um monstro de 7 cabeça
 **2 - É preciso ter repouso após remover o dente do siso **
 -----------------------------------------------------------
 
-![repouso dente do siso](//ucarecdn.com/28b7b40d-64d7-4843-a342-0a5a565aad3c/dente-do-siso-repouso.jpg) 
+![repouso dente do siso](/images/28b7b40d-64d7-4843-a342-0a5a565aad3c_dente-do-siso-repouso.jpg) 
 
 A dica aqui é pura e simples: siga o que o seu dentista te orientar. 
 
@@ -57,7 +57,7 @@ Portanto, o seu {% post_link extracao-de-dente "pós operatório" %} pode ser p�
 **3 - Existem dentes do siso mais difíceis de serem removidos**
 ---------------------------------------------------------------
 
-![dente do siso](//ucarecdn.com/d9006bee-bce8-4a11-8400-865d0deaa835/dente-do-siso-dificil.jpg) 
+![dente do siso](/images/d9006bee-bce8-4a11-8400-865d0deaa835_dente-do-siso-dificil.jpg) 
 
 Nem toda remoção do dente do siso é igual. 
 
@@ -70,7 +70,7 @@ Já que precisamos cortar osso para removê-los, o que gera um trauma maior na r
 **4 - Nem todo os sisos precisam ser removidos**
 ------------------------------------------------
 
-![](//ucarecdn.com/7928d4b4-1803-4385-8485-c4ccbaebd34d/dente-do-siso-remoção.jpg) 
+![](/images/7928d4b4-1803-4385-8485-c4ccbaebd34d_dente-do-siso-remoção.jpg) 
 
 Isso mesmo, você leu certo. 
 
@@ -83,7 +83,7 @@ Além disso, dentes que estão com acesso difícil para realizar a extração po
 **5 - Podemos sentir dor no dente do siso**
 -------------------------------------------
 
-![](//ucarecdn.com/6d0923aa-06ab-459d-9750-aad945c5a936/dor-dente-do-siso.jpg) 
+![](/images/6d0923aa-06ab-459d-9750-aad945c5a936_dor-dente-do-siso.jpg) 
 
 Você pode estar passando por isso {% post_link dente-siso-inflamado "nesse momento" %}. 
 

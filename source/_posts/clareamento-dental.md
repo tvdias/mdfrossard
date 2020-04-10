@@ -4,7 +4,7 @@ description: >-
   O clareamento dental pode mudar completamente o seu sorriso. Portanto saiba
   absolutamente tudo sobre o clareamento caseiro e o de consultório.
 date: 2014-02-15T08:15:49.000Z
-featured_image: //ucarecdn.com/f7a5e3d0-312b-47e9-bd61-626490c95bc1/clareamento-dental.jpg
+featured_image: /images/f7a5e3d0-312b-47e9-bd61-626490c95bc1_clareamento-dental.jpg
 ---
 O **clareamento dental** é um tratamento estético muito realizado nos consultórios dentários. 
 
@@ -74,7 +74,7 @@ Portanto, nesse tópico, vamos explicar com detalhes quais são os diferentes ti
 
 #### **1 ) Clareamento dental caseiro**
 
-![clareamento dental caseiro](//ucarecdn.com/123d72d1-a2aa-4d76-8429-73076d9b1f80/clareamento-dental-caseiro.jpg) 
+![clareamento dental caseiro](/images/123d72d1-a2aa-4d76-8429-73076d9b1f80_clareamento-dental-caseiro.jpg) 
 
 O primeiro tipo é chamado de **clareamento dental caseiro.** 
 
@@ -121,7 +121,7 @@ No clareamento dental caseiro o paciente pode levar mais tempo para perceber os 
 
 #### **2 ) Clareamento de consultório**
 
-![clareamento dental laser](//ucarecdn.com/915c1c29-d43d-4ca0-ab9d-c50be871a664/clareamento-dental-laser.jpg) 
+![clareamento dental laser](/images/915c1c29-d43d-4ca0-ab9d-c50be871a664_clareamento-dental-laser.jpg) 
 
 O segundo tipo é o **clareamento de consultório**. 
 
@@ -139,7 +139,7 @@ Neste caso, é utilizado gel com concentração maior de ácido, uma vez que o t
 
 #### **3) Clareamento caseiro aliado ao de consultório**
 
-![clareamento dental caseiro aliado com o de consultório](//ucarecdn.com/f525c44d-595a-4f7e-80e2-c6c1a11d2a00/clareamento-caseiro-aliado-com-o-de-consultório.jpg)
+![clareamento dental caseiro aliado com o de consultório](/images/f525c44d-595a-4f7e-80e2-c6c1a11d2a00_clareamento-caseiro-aliado-com-o-de-consultório.jpg)
 
 Uma terceira forma de realizar o **clareamento é**  **o uso do método caseiro aliado ao de consultório.** 
 
@@ -151,7 +151,7 @@ Porém é importante ressaltar que essa quantidade de consultas pode variar depe
 
 ## **Sensibilidade dental no clareamento**
 
-![mulher-dor-de-dente](//ucarecdn.com/ca17b49e-2473-4548-8421-7b453bd8f3b8/mulher-dor-de-dente.jpg) 
+![mulher-dor-de-dente](/images/ca17b49e-2473-4548-8421-7b453bd8f3b8_mulher-dor-de-dente.jpg) 
 
 A questão que ocasiona muitas dúvidas é sobre {% post_link sensibilidade-nos-dentes "sensibilidade nos dentes" %} durante o clareamento dental.  
 
@@ -175,7 +175,7 @@ O mais importante é que a sensibilidade deve ser relatada ao dentista, assim el
 
 #### **1) Quais alimentos devo evitar **
 
-![alimentos a evitar no clareamento dental](//ucarecdn.com/17d3dc80-22a3-4042-a521-a303207570e2/alimentos-a-evitar-no-clareamento-dental.jpg) 
+![alimentos a evitar no clareamento dental](/images/17d3dc80-22a3-4042-a521-a303207570e2_alimentos-a-evitar-no-clareamento-dental.jpg) 
 
 Para evitar o escurecimento dos dentes clareados, o paciente deve evitar **ingestão excessiva** de alimentos como café, sucos escuros, açaí, vinho e etc. 
 
@@ -207,7 +207,7 @@ Elas não devem ser usadas durante o clareamento dental, pois possuem um mecanis
 
 ## **Orientação do dentista **
 
-![medo de dentista e os adutos](//ucarecdn.com/110ed6be-4d06-4d2c-a7df-90d7e7b1d5f9/medo-de-dentista-e-os-adutos.jpg) 
+![medo de dentista e os adutos](/images/110ed6be-4d06-4d2c-a7df-90d7e7b1d5f9_medo-de-dentista-e-os-adutos.jpg) 
 
 Todo procedimento de clareamento deve ter a orientação do dentista. 
 

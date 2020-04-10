@@ -4,7 +4,7 @@ description: >-
   Você sabe qual o melhor pós operatório para uma extração de dente ? Com as
   corretas informações a extração de dente pode ser menos dolorosa.
 date: 2016-04-25T09:39:44.000Z
-featured_image: //ucarecdn.com/cb766de1-d3d9-4d30-8994-46139e85c8f4/extração-de-dente.jpg
+featured_image: /images/cb766de1-d3d9-4d30-8994-46139e85c8f4_extração-de-dente.jpg
 ---
 O {% post_link medo-de-dentista "medo de dentista" %} é o ponto mais citado em várias pesquisas sobre traumas. 
 
@@ -41,7 +41,7 @@ Caso queira falar conosco para **marcar uma consulta**, você pode:
 
 ## **Como será o meu pós operatório após uma extração de dente ?**
 
-![pos operatorio extração de dente](//ucarecdn.com/8cd3f441-d709-4253-8fda-373689b7275c/pos-operatorio-extração-de-dente.jpg) 
+![pos operatorio extração de dente](/images/8cd3f441-d709-4253-8fda-373689b7275c_pos-operatorio-extração-de-dente.jpg) 
 
 O pós operatório é o segredos para ter uma cirurgia dentária com sucesso. Algumas recomendações geram maior conforto para o paciente e uma melhor cicatrização. 
 
@@ -67,7 +67,7 @@ Por isso, nos cuidados pós operatórios, temos pontos básicos que devemos segu
 ---
 ## **Os três pontos básicos no pós operatório de uma extração de dente **
 
-![bom pós operatório](//ucarecdn.com/6c93eb0e-d393-4a54-a983-039b40367931/bom-pós-operatório.jpg) 
+![bom pós operatório](/images/6c93eb0e-d393-4a54-a983-039b40367931_bom-pós-operatório.jpg) 
 
 O pós operatório praticado em nossa clinica é eficiente e gera conforto para os nossos pacientes. Obviamente, existem variações dependendo de cada caso. 
 
@@ -105,7 +105,7 @@ Importante: dependendo da área operada é normal que o paciente tenha dificulda
 
 ## **Outros cuidados no pós operatório da cirurgia dental **
 
-![medicação extração de dente](//ucarecdn.com/83ac7390-8198-4236-9442-73a7cee9ecd9/medicação-extração-de-dente.jpg) 
+![medicação extração de dente](/images/83ac7390-8198-4236-9442-73a7cee9ecd9_medicação-extração-de-dente.jpg) 
 
 Explicado os três pontos básicos no pós operatório cirúrgico, vamos discutir alguns outros que se diferenciam dependendo da cirurgia. 
 

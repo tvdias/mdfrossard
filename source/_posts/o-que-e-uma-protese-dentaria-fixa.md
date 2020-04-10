@@ -4,7 +4,7 @@ description: >-
   Muitos clientes nos perguntam o que é uma prótese dentária fixa . Nesse texto
   explicamos o que seria esse tipo de trabalho e quais as suas classificações.
 date: 2017-02-15T09:55:01.000Z
-featured_image: //ucarecdn.com/611839b1-e153-4d42-b2bb-97d0c04e53ef/prótese-dentária-fixa.jpg
+featured_image: /images/611839b1-e153-4d42-b2bb-97d0c04e53ef_prótese-dentária-fixa.jpg
 ---
 
 Na odontologia procuramos sempre atender o paciente da melhor forma, onde a principal meta é tratar e cuidar da cavidade bucal. 
@@ -20,7 +20,7 @@ Esse diagnóstico gera uma série de dúvidas no paciente e logo surge a pergunt
 **O que é uma prótese dentária fixa ?**
 ---------------------------------------
 
-![prótese dentária fixa](//ucarecdn.com/f2332d0e-b0f6-4189-acb3-e465906d1149/prótese-dentária.jpg) 
+![prótese dentária fixa](/images/f2332d0e-b0f6-4189-acb3-e465906d1149_prótese-dentária.jpg) 
 
 Essa pergunta é fruto de várias dúvidas de nossos clientes, muitos confundem os tipos de tratamentos, mas o resumo da resposta, seria: 
 
@@ -42,7 +42,7 @@ Note que nesse texto estou somente citando as próteses fixas, já que também e
 **Tipos de próteses dentárias fixas :**
 ---------------------------------------
 
-#### ![o que é uma prótese dentária fixa](//ucarecdn.com/2e617f05-514c-4dc2-a3a9-bbec90c878b5/o-que-é-uma-prótese-dentária-fixa.jpg)
+#### ![o que é uma prótese dentária fixa](/images/2e617f05-514c-4dc2-a3a9-bbec90c878b5_o-que-é-uma-prótese-dentária-fixa.jpg)
 
 #### A) Coroas -
 

@@ -4,7 +4,7 @@ description: >-
   Os dentes de porcelana podem melhorar o seu sorriso. Devolvendo o sua
   confiança e auto-estima. Veja quais tipo de tratamento podemos fazer.
 date: 2017-10-09T08:00:53.000Z
-featured_image: //ucarecdn.com/9f7a46a2-9006-4366-aa0f-335bc15c76e8/dentes-de-porcelana.jpg
+featured_image: /images/9f7a46a2-9006-4366-aa0f-335bc15c76e8_dentes-de-porcelana.jpg
 ---
 **Estética**, essa é uma palavra muito usada por todos nós. 
 
@@ -20,7 +20,7 @@ Porém, o que seria os isso? Todos podem usar?
 
 ## **O que seriam dentes de porcelana ?**
 
-![dúvidas dentes de porcelana](//ucarecdn.com/3cab6010-6fcc-41ac-b2ac-746f55cccd14/dentes-de-porcelana-sorriso.jpg) 
+![dúvidas dentes de porcelana](/images/3cab6010-6fcc-41ac-b2ac-746f55cccd14_dentes-de-porcelana-sorriso.jpg) 
 
 Antes, vamos ver o que seria uma porcelana. 
 
@@ -41,7 +41,7 @@ Podemos ter :
 
 ## **Então, eu posso realizar um tratamento com dentes de porcelana?**
 
-![dentes de porcelana e a cor](//ucarecdn.com/79ae6455-c729-4e75-89ea-7173caeabe74/dentes-de-porcelana-cor.jpg) 
+![dentes de porcelana e a cor](/images/79ae6455-c729-4e75-89ea-7173caeabe74_dentes-de-porcelana-cor.jpg) 
 
 Claro que sim ! 
 
@@ -55,7 +55,7 @@ Além disso, em caso que demandam muita estética, podemos usar as lentes de con
 
 ## **Entretanto, cuidado.**
 
-![](//ucarecdn.com/0e386db3-b00a-43ce-861a-5c52561818c1/dentes-de-porcelana-estetica.jpg)   
+![](/images/0e386db3-b00a-43ce-861a-5c52561818c1_dentes-de-porcelana-estetica.jpg)   
 
 Sim, é preciso ter cuidado. 
 

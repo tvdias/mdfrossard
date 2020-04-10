@@ -4,7 +4,7 @@ description: >-
   Todos os tratamentos são importantes para a nossa correta mastigação e saúde
   bucal. Porém tem um fator que faz uma tremenda diferença para você, o sorriso.
 date: 2015-08-03T08:00:35.000Z
-featured_image: //ucarecdn.com/c0ccdb7e-cee3-4d12-8c7e-7b2446856fa3/sorriso.jpg
+featured_image: /images/c0ccdb7e-cee3-4d12-8c7e-7b2446856fa3_sorriso.jpg
 ---
 
 Já escrevi diversos textos sobre estética, {% post_link facetas-dentais "facetas" %}, {% post_link implante-de-dente "implantes dentário" %} entre outros. 
@@ -36,6 +36,6 @@ Leia e compartilhe com amigos e familiares.
 Infográfico o Poder do Sorriso
 ------------------------------
 
-![](//ucarecdn.com/6116e09d-a73b-46c9-8259-be6f938bbb56/O-poder-do-sorriso.-1.jpeg)   
+![](/images/6116e09d-a73b-46c9-8259-be6f938bbb56_O-poder-do-sorriso.-1.jpeg)   
 
 Tenha atitude e mude a sua vida. Caso tenha alguma dúvidas, deixe seu comentário logo abaixo. Att, Davi Frossard

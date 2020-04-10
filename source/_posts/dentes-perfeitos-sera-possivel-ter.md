@@ -4,7 +4,7 @@ description: >-
   Dentes Perfeitos, essas duas palavras são buscadas e desejadas por muitas
   pessoas. Veja agora os tratamentos certos para você.
 date: 2016-07-11T10:00:40.000Z
-featured_image: //ucarecdn.com/18af7c69-edf2-442b-93bc-d2f270790979/como-mudar-o-sorriso-1.jpg
+featured_image: /images/18af7c69-edf2-442b-93bc-d2f270790979_como-mudar-o-sorriso-1.jpg
 ---
 
 **Dentes Perfeitos**, essas duas palavras são buscadas e desejadas por muitas pessoas, talvez até por você. 
@@ -50,5 +50,5 @@ Video sobre como mudar o sorriso
 Infográfico -  Tratamentos para mudar o sorriso (dentes perfeitos)
 ------------------------------------------------------------------
 
-![dentes perfeitos](//ucarecdn.com/125446a5-a228-4fe7-b779-6a5b8e196201/dentes-perfeitos-2.jpg) 
+![dentes perfeitos](/images/125446a5-a228-4fe7-b779-6a5b8e196201_dentes-perfeitos-2.jpg) 
 Até a próxima e continue navegando em nosso blog para mais informações.

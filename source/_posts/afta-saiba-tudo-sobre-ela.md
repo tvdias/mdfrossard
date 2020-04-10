@@ -5,7 +5,7 @@ description: >-
   A afta é comum na boca. Nesse texto vamos responder algumas perguntas comuns.
   O que causa a afta e como diminuir o desconforto.
 date: 2015-06-01T12:04:08.000Z
-featured_image: //ucarecdn.com/cda7b970-a879-4ab4-a827-3538f278e15a/Afta-.jpg
+featured_image: /images/cda7b970-a879-4ab4-a827-3538f278e15a_Afta-.jpg
 ---
 Hoje quero compartilhar com você uma das doenças mais comuns na boca, **a afta.**
 
@@ -23,7 +23,7 @@ Essa são algumas perguntas que vamos explicar nesse texto.
 
 ## **Quais são as suas Causas **
 
-[![afta causa](//ucarecdn.com/b2311f89-f197-4e80-bf66-63c2a020c54d/afta-causa.png)](//ucarecdn.com/b2311f89-f197-4e80-bf66-63c2a020c54d/afta-causa.png)
+[![afta causa](/images/b2311f89-f197-4e80-bf66-63c2a020c54d_afta-causa.png)](/images/b2311f89-f197-4e80-bf66-63c2a020c54d_afta-causa.png)
 
 Seu diagnóstico é basicamente clínico e por exclusão de outras doenças. Suas possíveis causas são:
 
@@ -57,7 +57,7 @@ Apresentam ulcerações mais profundas, de 10 a 30 mm de diâmetro, e podem leva
 
 ## **Tratamento e prognóstico**
 
-[![afta tratamento](//ucarecdn.com/64342d4e-56b0-4090-bd24-6cb13c1a007a/afta-tratamento.jpg)](//ucarecdn.com/64342d4e-56b0-4090-bd24-6cb13c1a007a/afta-tratamento.jpg) 
+[![afta tratamento](/images/64342d4e-56b0-4090-bd24-6cb13c1a007a_afta-tratamento.jpg)](/images/64342d4e-56b0-4090-bd24-6cb13c1a007a_afta-tratamento.jpg) 
 
 Quando for acometido por uma lesão bucal, é importante que o paciente procure seu dentista para que este possa diagnosticar a lesão. 
 

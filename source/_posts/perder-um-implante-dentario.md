@@ -4,7 +4,7 @@ description: >-
   Afinal, será que podemos perder um implante dentário ? Devemos ficar atentos
   para isso não acontecer. Leia o texto e evite esse problema.
 date: 2016-03-01T10:00:04.000Z
-featured_image: //ucarecdn.com/41a96660-0c56-48cf-ad77-e371be4aedd9/podemos-perder-um-implante-dentário1.jpg
+featured_image: /images/41a96660-0c56-48cf-ad77-e371be4aedd9_podemos-perder-um-implante-dentário1.jpg
 ---
 Recebemos diversas perguntas em nosso site, porém um tópico se destaca: o [implante dentário](/implante-dentario/). 
 
@@ -16,7 +16,7 @@ Por isso, resolvi escrever sobre este tema e tentar sanar todas as dúvidas.
 
 ## **Afinal, posso perder um implante dentário?**
 
-[![Perder um implante dentário](//ucarecdn.com/1f7f4900-c7e8-46eb-846a-e9fa9f6e67b5/Perder-um-implante-dentário.jpg)](//ucarecdn.com/1f7f4900-c7e8-46eb-846a-e9fa9f6e67b5/Perder-um-implante-dentário.jpg) 
+[![Perder um implante dentário](/images/1f7f4900-c7e8-46eb-846a-e9fa9f6e67b5_Perder-um-implante-dentário.jpg)](/images/1f7f4900-c7e8-46eb-846a-e9fa9f6e67b5_Perder-um-implante-dentário.jpg) 
 
 A resposta simples é **sim**. 
 
@@ -50,7 +50,7 @@ Nesse caso, a perda do implante se dá muito mais rápida.   \[rev_slider marqu
 
 ## **O que se faz quando ocorre a perda do implante ?**
 
-[![perda de implante dentário](//ucarecdn.com/3cdcd8e2-cde4-4eb3-b1c5-34a8c5109987/perda-de-implante-dentário.jpg)](//ucarecdn.com/3cdcd8e2-cde4-4eb3-b1c5-34a8c5109987/perda-de-implante-dentário.jpg) 
+[![perda de implante dentário](/images/3cdcd8e2-cde4-4eb3-b1c5-34a8c5109987_perda-de-implante-dentário.jpg)](/images/3cdcd8e2-cde4-4eb3-b1c5-34a8c5109987_perda-de-implante-dentário.jpg) 
 
 A [dor](/como-aliviar-a-dor-de-dente/) quando se mexe nos implantes é um dos sinais que mostram que podemos estar perdendo o implante. 
 

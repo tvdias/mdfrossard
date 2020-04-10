@@ -4,7 +4,7 @@ description: >-
   Existem muitas dúvidas de como passar o fio dental . O seu uso pode parecer
   complicado, porém ele é essencial para a sua saúde bucal. Veja agora o texto.
 date: 2016-09-26T10:00:11.000Z
-featured_image: //ucarecdn.com/b8b93044-cb6e-4b48-80a9-e254ad96249f/uso-fio-dental.jpg
+featured_image: /images/b8b93044-cb6e-4b48-80a9-e254ad96249f_uso-fio-dental.jpg
 ---
 
 Todos sabem que o uso da escova dental faz parte da nossa higiene básica do dia a dia. 
@@ -33,15 +33,15 @@ O fio dental inicialmente pode parecer ser muito difícil de ser usado, já que 
 
 1 -Pegue cerca de 50 centímetros de fio dental e enrole frouxamente a maior parte dele em volta de cada dedo médio (enrole mais em um dedo do que no outro) deixando 5 centímetros de fio entre eles. 
 
-![como passar o fio dental](//ucarecdn.com/6f0f04b7-917c-4457-90e7-9983ea7fc1e5/como-passar-o-fio-dental.png) 
+![como passar o fio dental](/images/6f0f04b7-917c-4457-90e7-9983ea7fc1e5_como-passar-o-fio-dental.png) 
 
 2 - Com os seus polegares e os dedos indicadores segurando o fio estendido, deslize-o suavemente para baixo entre os seus dentes, tomando cuidado para não pressioná-lo contra a sua gengiva. 
 
-![como passar o fio dental corretamente](//ucarecdn.com/52d96ea5-5627-49a8-808b-a629f7c1ac23/como-passar-o-fio-dental-corretamente.png) 
+![como passar o fio dental corretamente](/images/52d96ea5-5627-49a8-808b-a629f7c1ac23_como-passar-o-fio-dental-corretamente.png) 
 
 3  - Curve o fio em volta de cada dente dando a forma de um “C” e mova-o para cima e para baixo nos lados de cada dente, inclusive abaixo da linha gengival. Desenrole um novo pedaço do fio conforme você passa de dente para dente. 
 
-![como passar o fio dental](//ucarecdn.com/a7bd42d4-f51d-4ef5-bf32-7c73d39f65f7/passar-o-fio-dental.png)
+![como passar o fio dental](/images/a7bd42d4-f51d-4ef5-bf32-7c73d39f65f7_passar-o-fio-dental.png)
 
 **Mas ao passar o fio dental minha gengiva sangra muito !**
 -----------------------------------------------------------
@@ -55,7 +55,7 @@ Caso não pare, você deve procurar atendimento com o dentista.
 **E se eu usar pontes ou aparelho dentário, que impossibilite o uso do fio dental?**
 ------------------------------------------------------------------------------------
 
-![como-passar-o-fio-dental](//ucarecdn.com/59b53e22-83ab-46cc-bce3-dfc99d6bc77a/como-passar-o-fio-dental.jpg "como passar o fio dental") 
+![como-passar-o-fio-dental](/images/59b53e22-83ab-46cc-bce3-dfc99d6bc77a_como-passar-o-fio-dental.jpg "como passar o fio dental") 
 
 Nesse caso você terá que usar um fio dental de inserção, onde ao invés de colocar o fio pela parte de cima, você vai entrar com ele na parte da frente dos dentes. 
 

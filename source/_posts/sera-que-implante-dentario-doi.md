@@ -4,7 +4,7 @@ description: >-
   Muitos querem colocar implante, mas ficam com dúvida se Implante Dentário Dói.
   Nesse texto explicamos sobre implantes e o controle da dor.
 date: 2016-05-09T10:00:19.000Z
-featured_image: //ucarecdn.com/7ac3ac17-b384-4f27-b841-65870cb1938a/implante-dentário-dói.jpg
+featured_image: /images/7ac3ac17-b384-4f27-b841-65870cb1938a_implante-dentário-dói.jpg
 ---
 
 **Dor**. Essas 3 letras me causam dor de cabeça só de imaginar. 
@@ -24,7 +24,7 @@ Apesar de termos um índice de sucesso alto com implantes dentários, a dor aind
 **Afinal, implante dentário dói ou não ?**
 ------------------------------------------
 
-![implante implante dor](//ucarecdn.com/8219148e-34ac-4502-98c2-798fb56f83db/implante-implante-dor.jpg) 
+![implante implante dor](/images/8219148e-34ac-4502-98c2-798fb56f83db_implante-implante-dor.jpg) 
 
 Antes de mais nada a [dor](http://www.sbed.org.br/materias.php?cd_secao=76) é uma sensação subjetiva, não é possível mensurar o nível de dor. O que para um dói muito para você, pode não doer tanto para outro. 
 
@@ -43,7 +43,7 @@ Porém, ainda assim, poderemos sentir alguma “pressão” durante o ato cirúr
 **O que fazer para sentir menos dor ?**
 ---------------------------------------
 
-![medico-vetorial](//ucarecdn.com/c3ef894d-d4fb-422f-b16b-27897607e9c2/medico-vetorial.jpg) 
+![medico-vetorial](/images/c3ef894d-d4fb-422f-b16b-27897607e9c2_medico-vetorial.jpg) 
 
 Em primeiro lugar devemos ficar calmos. 
 
@@ -66,7 +66,7 @@ Vídeo sobre dor com implantes dentais 
 **Conclusão** 
 --------------
 
-![implante dentario doi](//ucarecdn.com/3f568da3-5f73-4ad0-bee6-10bb898024fd/implante-dentario-doi.jpg) 
+![implante dentario doi](/images/3f568da3-5f73-4ad0-bee6-10bb898024fd_implante-dentario-doi.jpg) 
 
 Portanto para responder a questão se colocar implante dentário dói, devemos saber que iremos passar por um procedimento cirúrgico. 
 

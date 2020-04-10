@@ -4,7 +4,7 @@ description: >-
   Como Aliviar a Dor de Dente ? Essa é uma questão comum mas que pode ser
   respondida de forma fácil. Veja agora pequenas dicas para você.
 date: 2017-01-30T09:23:19.000Z
-featured_image: //ucarecdn.com/9c134bd5-95a4-42f9-93bf-cea61ad74079/como-aliviar-a-dor-de-dente.jpg
+featured_image: /images/9c134bd5-95a4-42f9-93bf-cea61ad74079_como-aliviar-a-dor-de-dente.jpg
 ---
 
 Dentista e dor de dente são duas coisas que ninguém gosta de pensar. 
@@ -22,7 +22,7 @@ Nesse texto eu vou abordar sobre **como aliviar a dor de dente** e seus desdobra
 **Dor de dente é facilmente evitada**
 -------------------------------------
 
-![como aliviar a dor de dente](//ucarecdn.com/3e45ea18-72ef-4478-a7b5-b8bb68efc48e/aliviar-dor-de-dente.jpg) 
+![como aliviar a dor de dente](/images/3e45ea18-72ef-4478-a7b5-b8bb68efc48e_aliviar-dor-de-dente.jpg) 
 
 **Sim, é isso mesmo que você leu acima.** 
 
@@ -39,7 +39,7 @@ Além disso, se existir alguma doença, é provável que se detecte logo no inic
 **Como aliviar a dor de dente ?**
 ---------------------------------
 
-![como aliviar a dor dos dentes](//ucarecdn.com/024eedff-5aac-4998-9ac2-f0e46eb7c9cb/como-aliviar-a-dor-dos-dente.jpg) 
+![como aliviar a dor dos dentes](/images/024eedff-5aac-4998-9ac2-f0e46eb7c9cb_como-aliviar-a-dor-dos-dente.jpg) 
 
 A melhor, mais segura e com mais efetividade forma de **como aliviar a dor de dente** é ir ao dentista. 
 

@@ -4,7 +4,7 @@ description: >-
   Quer ter uma dentadura fixa ? Esse trabalho é possível e apresenta muitas
   vantagens. Para saber mais, leia o texto completo.
 date: 2015-03-30T10:00:07.000Z
-featured_image: //ucarecdn.com/5a0384f7-7d3c-4db2-92d3-e4414496ec23/Dentadura-e-implantes.jpg
+featured_image: /images/5a0384f7-7d3c-4db2-92d3-e4414496ec23_Dentadura-e-implantes.jpg
 ---
 Nesse blog já foi discutido sobre o cuidado que devemos ter com as {% post_link o-cuidado-com-a-dentadura "dentaduras" %} assim como suas vantagens e desvantagens. 
 
@@ -18,7 +18,7 @@ Esse tipo de trabalho é feito cada vez mais em consultórios dentários e é ch
 
 ## **O que é uma prótese do tipo protocolo ou dentadura fixa ?**
 
-[![Dentadura fixa](/images/uploads/2015/03/Dentadura-fixa-1024x680.jpg)](//ucarecdn.com/48e3f4ee-b444-4a9e-844b-6e2534a9dbf0/Dentadura-fixa.jpg) 
+[![Dentadura fixa](/images/uploads/2015/03/Dentadura-fixa-1024x680.jpg)](/images/48e3f4ee-b444-4a9e-844b-6e2534a9dbf0_Dentadura-fixa.jpg) 
 
 A dentadura fixa ou mais conhecido como protocolo dentário, é um tipo de prótese fixa instalada sobre 6 a 8 implantes, seja na maxila ou mandíbula, em pacientes que perderam todos os dentes. 
 
@@ -30,7 +30,7 @@ Portanto, devido a essas vantagens, a procura pela "dentadura fixa" é cada vez 
 
 ## **Será que posso realizar um protocolo dentário ?**
 
-[![dentadura e implantes](/images/uploads/2015/03/dentadura-e-implantes-1024x773.jpg)](//ucarecdn.com/99fed34d-2af9-4a6e-a5fc-71194380289f/dentadura-e-implantes.jpg) 
+[![dentadura e implantes](/images/uploads/2015/03/dentadura-e-implantes-1024x773.jpg)](/images/99fed34d-2af9-4a6e-a5fc-71194380289f_dentadura-e-implantes.jpg) 
 
 Basicamente existem **duas indicações** principais : 
 
@@ -54,7 +54,7 @@ Com o passar do tempo, é preciso voltar ao dentista para uma {% post_link check
 
 ## **Como cuidar da prótese tipo protocolo**
 
-[![boca seca](//ucarecdn.com/4f2fafcc-c3c1-4310-80fa-ab137d75b22c/falta-de-saliva.jpg)](//ucarecdn.com/4f2fafcc-c3c1-4310-80fa-ab137d75b22c/falta-de-saliva.jpg) 
+[![boca seca](/images/4f2fafcc-c3c1-4310-80fa-ab137d75b22c_falta-de-saliva.jpg)](/images/4f2fafcc-c3c1-4310-80fa-ab137d75b22c_falta-de-saliva.jpg) 
 
 Assim, como qualquer tratamento dentário, a manutenção é importante. 
 

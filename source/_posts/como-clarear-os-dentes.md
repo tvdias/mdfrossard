@@ -4,7 +4,7 @@ description: >-
   Existem inúmeras maneiras de como clarear os dentes. Algumas são seguras e
   outras não. Veja o texto para clarear os dentes com rapidez.
 date: 2017-08-21T08:00:23.000Z
-featured_image: //ucarecdn.com/1a521bae-9c1c-4a38-b339-202ba85ed77f/como-clarear-os-dentes-caseiro.jpg
+featured_image: /images/1a521bae-9c1c-4a38-b339-202ba85ed77f_como-clarear-os-dentes-caseiro.jpg
 ---
 
 Estética, dentes perfeitos, lentes de contato dental, faceta de porcelana, clareamento dental. 
@@ -31,7 +31,7 @@ Portanto, nesse texto, eu quero discutir o que todo mundo precisa saber sobre co
 **Formas de como clarear os dentes**
 ------------------------------------
 
-![como clarear os dentes](//ucarecdn.com/24d78f6b-4f96-44df-8ab0-08fa8f5d9f1c/como-clarear-os-dentes.jpg) 
+![como clarear os dentes](/images/24d78f6b-4f96-44df-8ab0-08fa8f5d9f1c_como-clarear-os-dentes.jpg) 
 
 Atualmente, existe uma busca constante pela estética. 
 
@@ -57,7 +57,7 @@ Será que esses tipos de clareamento são confiáveis e podem ser usados ? Vamos
 **Clareamento com bicarbonato de sódio é verdade ou mito ?**
 ------------------------------------------------------------
 
-![](//ucarecdn.com/9220d1fb-072b-428d-afb0-090be874bdca/como-clarear-os-dentes-bicarbonato.jpg) 
+![](/images/9220d1fb-072b-428d-afb0-090be874bdca_como-clarear-os-dentes-bicarbonato.jpg) 
 
 **Simples e direto, MITO.** 
 
@@ -76,7 +76,7 @@ O mesmo raciocínio se aplica à água oxigenada.
 **Portanto, como clarear os dentes de forma rápida e segura?**
 --------------------------------------------------------------
 
-![](//ucarecdn.com/fb67dd28-143a-4770-a134-aa765d7b77b7/como-clarear-os-dentes-rápido.jpg) 
+![](/images/fb67dd28-143a-4770-a134-aa765d7b77b7_como-clarear-os-dentes-rápido.jpg) 
 
 Antes de mais nada, é preciso ter acompanhamento de um dentista. Ele que irá diagnosticar se o tratamento de clareamento é adequado para o seu caso e também te dar suporte caso você tenha alguma dúvida. 
 
@@ -93,7 +93,7 @@ Existem inúmeros outros fatores que poderia citar aqui. Então, como posso clar
 **Clareamento caseiro ou de consultório acompanhado pelo dentista**
 -------------------------------------------------------------------
 
-![](//ucarecdn.com/031a4c3d-3ad9-4edf-b9d0-71b1c3a002e1/como-clarear-os-dentes-com-segurançå.jpg) 
+![](/images/031a4c3d-3ad9-4edf-b9d0-71b1c3a002e1_como-clarear-os-dentes-com-segurançå.jpg) 
 
 Em nosso site temos um {% post_link clareamento-dental "Guia Completo" %} sobre esse tipo de clareamento. 
 

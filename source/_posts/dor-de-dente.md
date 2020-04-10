@@ -4,7 +4,7 @@ description: >-
   Você tem ou já teve dor de dente? Veja agora as 3 principais causas e seus
   corretos tratamentos para acabar com a dor de dente.
 date: 2014-11-17T10:00:22.000Z
-featured_image: //ucarecdn.com/70754142-620c-4d70-9da9-a766ca1df8bd/dor-de-dente.jpg
+featured_image: /images/70754142-620c-4d70-9da9-a766ca1df8bd_dor-de-dente.jpg
 ---
 **Dor de dente** , essas 3 palavras literalmente tiram o sono de muita gente . 
 
@@ -14,7 +14,7 @@ Nesse texto irei abordar sobre as causas que levam a dor de dente ou na boca e s
 
 ## Afinal, por que a dor de dente é tão ruim?
 
-![causas dor de dente ](//ucarecdn.com/50d842c4-2305-47f9-a9b1-6d8b834a0d94/causas-dor-de-dente-1.jpg) 
+![causas dor de dente ](/images/50d842c4-2305-47f9-a9b1-6d8b834a0d94_causas-dor-de-dente-1.jpg) 
 
 Primeiramente devemos entender um pouco sobre a estrutura ( [anatomia dental](http://pt.wikipedia.org/wiki/Anatomia_dental) ) do dente. Na parte mais externa em contato com o meio bucal temos o esmalte, internamente temos a dentina e finalmente temos a parte vascularizada onde se encontra o nervo do dente, a polpa. 
 
@@ -26,7 +26,7 @@ Essa dor inicialmente pode ser de pequena intensidade, o que indica um problema 
 
 ## O uso de analgésicos e antibióticos ajudam no controle da dor ?
 
-![](//ucarecdn.com/83ac7390-8198-4236-9442-73a7cee9ecd9/medicação-extração-de-dente.jpg) 
+![](/images/83ac7390-8198-4236-9442-73a7cee9ecd9_medicação-extração-de-dente.jpg) 
 
 Quando se tem a dor de dente, muitos acham que com o uso de algum tipo de analgésico será suficiente para a dor melhorar. 
 
@@ -42,7 +42,7 @@ Para o controle total da dor, a causa do problema deve ser eliminada, ou seja, d
 
 ## As 3 principais causas de Dor de Dente
 
-[![mulher-dor-de-dente](//ucarecdn.com/ca17b49e-2473-4548-8421-7b453bd8f3b8/mulher-dor-de-dente.jpg)](//ucarecdn.com/ca17b49e-2473-4548-8421-7b453bd8f3b8/mulher-dor-de-dente.jpg) 
+[![mulher-dor-de-dente](/images/ca17b49e-2473-4548-8421-7b453bd8f3b8_mulher-dor-de-dente.jpg)](/images/ca17b49e-2473-4548-8421-7b453bd8f3b8_mulher-dor-de-dente.jpg) 
 
 A dor no dente tem uma causa principal bem definida, que é a cárie dental.
 
@@ -72,7 +72,7 @@ Se pelo exame de raio x detectarmos uma cárie de grande porte, muito próximo d
 
 #### 2 - Doença periodontal 
 
-[![demonstra_o_manequim_arcada_dentaria](//ucarecdn.com/90281323-dba9-4fcc-babd-910fce4902aa/demonstra_o_manequim_arcada_dentaria.jpg)](//ucarecdn.com/90281323-dba9-4fcc-babd-910fce4902aa/demonstra_o_manequim_arcada_dentaria.jpg) 
+[![demonstra_o_manequim_arcada_dentaria](/images/90281323-dba9-4fcc-babd-910fce4902aa_demonstra_o_manequim_arcada_dentaria.jpg)](/images/90281323-dba9-4fcc-babd-910fce4902aa_demonstra_o_manequim_arcada_dentaria.jpg) 
 
 A segunda causa para dor de dente é a doença periodontal. 
 
@@ -109,7 +109,7 @@ Para o alívio da dor nessa região, geralmente é indicada a {% post_link por-q
 
 #### Outros fatores 
 
-[![avaliação dor de dente](//ucarecdn.com/2b4aec35-0f7f-431d-8858-3e361802b28f/avaliação-dor-de-dente.jpg)](//ucarecdn.com/2b4aec35-0f7f-431d-8858-3e361802b28f/avaliação-dor-de-dente.jpg) 
+[![avaliação dor de dente](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.jpg)](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.jpg) 
 
 Vale ressaltar que aqui listei as causas mais comuns de dor. 
 

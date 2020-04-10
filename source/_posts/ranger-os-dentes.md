@@ -4,7 +4,7 @@ description: >-
   Ranger os Dentes é um hábito que esta se tornando comum em nossa população.
   Entretanto isso não necessariamente é bom. Confira agora a razão.
 date: 2017-07-24T14:32:30.000Z
-featured_image: //ucarecdn.com/99a1bb75-0022-42a0-8181-5bd15bb334d2/Ranger-os-dentes-ansiedade.jpg
+featured_image: /images/99a1bb75-0022-42a0-8181-5bd15bb334d2_Ranger-os-dentes-ansiedade.jpg
 ---
 
 **Ranger os dentes** é um hábito comum em nossa população. 
@@ -39,7 +39,7 @@ Portanto, apesar de serem nomenclaturas diferentes, esses hábitos geram uma sé
 **Causas e Consequências de Ranger os Dentes **
 -----------------------------------------------
 
-![ranger os dentes e o stress](//ucarecdn.com/047935d6-61aa-4c7d-a7d4-3939b748474d/ranger-os-dentes.jpg)
+![ranger os dentes e o stress](/images/047935d6-61aa-4c7d-a7d4-3939b748474d_ranger-os-dentes.jpg)
 
 ##### As principais causas do ranger dos dentes são :
 
@@ -70,7 +70,7 @@ Isso, ao longo do tempo pode causar sérios problemas na nossa mastigação.
 **Tratamento**
 --------------
 
-![](//ucarecdn.com/afd49724-482c-48ee-b0d1-33a807558cf9/ranger-os-dentes-tratamento.jpg) 
+![](/images/afd49724-482c-48ee-b0d1-33a807558cf9_ranger-os-dentes-tratamento.jpg) 
 
 Para tratar esse problema devemos antes saber o motivo. 
 

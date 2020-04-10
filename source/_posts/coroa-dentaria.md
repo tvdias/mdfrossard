@@ -4,7 +4,7 @@ description: >-
   A Coroa Dentária tem a função de devolver a mastigação e estética do dente.
   Tire todas as suas dúvidas através de fotos, infográficos e vídeos.
 date: 2015-07-21T10:14:17.000Z
-featured_image: //ucarecdn.com/3e904c62-2a01-4d3b-86bc-ba9ac7dd2f0f/Coroa-dentária.jpg
+featured_image: /images/3e904c62-2a01-4d3b-86bc-ba9ac7dd2f0f_Coroa-dentária.jpg
 ---
 Quero conversar com você sobre a **Coroa dentária**. 
 
@@ -40,7 +40,7 @@ Esse tratamento tem como função reabilitar o dente, devolvendo sua estética e
 
 ## Tipos de coroas dentárias
 
-![Coroa Dentária](//ucarecdn.com/fa17cc49-de1e-48ed-a931-8fc72ef0ab0f/coroa_denta_ria.png)
+![Coroa Dentária](/images/fa17cc49-de1e-48ed-a931-8fc72ef0ab0f_coroa_denta_ria.png)
 
 Existem diversos tipos de coroas dentárias, vou comentar com você sobre as 3 principais .
 
@@ -84,7 +84,7 @@ Entretanto, quando detectamos problemas de bruxismo, temos como protocolo usar c
 ---
 ## Infográfico sobre Coroa Dentária 
 
-![Coroa dentária Infográfico](//ucarecdn.com/4ba86c18-74aa-4e03-8e03-1bda82548be3/Coroa-Dentária-.jpg)
+![Coroa dentária Infográfico](/images/4ba86c18-74aa-4e03-8e03-1bda82548be3_Coroa-Dentária-.jpg)
 
 Att,
 

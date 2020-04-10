@@ -4,7 +4,7 @@ description: >-
   Veja os 5 alimentos que previnem cáries e que ajudam na sua saúde bucal. Mude
   sua alimentação e melhore a saúde dos seus dentes. 
 date: 2016-08-23T09:06:45.000Z
-featured_image: //ucarecdn.com/fe72e948-f92e-47f6-a5f3-78ac9655698d/5-alimentos-que-previnem-cáries.jpg
+featured_image: /images/fe72e948-f92e-47f6-a5f3-78ac9655698d_5-alimentos-que-previnem-cáries.jpg
 ---
 O site da MD Frossard Odontologia tem muitos visitantes em busca de conhecimento sobre escovação, estética e saúde. 
 
@@ -21,7 +21,7 @@ Será verdade que certos alimentos ajudam no cuidado com os dentes? É possível
 
 ## **Prevenção de cáries**
 
-![alimentos e a cárie](//ucarecdn.com/6fdf2b86-6bdb-44d1-96db-bce7450e8b67/alimentos-e-a-cárie.jpg) 
+![alimentos e a cárie](/images/6fdf2b86-6bdb-44d1-96db-bce7450e8b67_alimentos-e-a-cárie.jpg) 
 
 A cárie é a principal doença que atinge os nossos dentes. 
 
@@ -53,7 +53,7 @@ Além disso, também devemos ficar atentos a alimentos  que se aderem aos dente
 
 ## **5 alimentos que previnem cáries **
 
-![5 alimentos que previnem cáries](//ucarecdn.com/c7a56285-226a-4ea4-8f6a-bd8ef908416f/5-alimentos-que-previnem-cárie.jpg) 
+![5 alimentos que previnem cáries](/images/c7a56285-226a-4ea4-8f6a-bd8ef908416f_5-alimentos-que-previnem-cárie.jpg) 
 
 Por outro lado existem grupos de alimentos que são os benéficos para os dentes por razões diferentes, veja os 5 alimentos que previnem cáries. 
 

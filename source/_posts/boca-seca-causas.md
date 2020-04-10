@@ -4,7 +4,7 @@ description: >-
   A Boca Seca é um problema comum na nossa população. Porém, em muitos casos
   pode ser resolvida com algumas pequenas dicas. Veja agora.
 date: 2014-09-29T10:00:05.000Z
-featured_image: //ucarecdn.com/9ed551ab-56ad-4fee-8b45-f7bcb63c19e5/xerostomias.jpg
+featured_image: /images/9ed551ab-56ad-4fee-8b45-f7bcb63c19e5_xerostomias.jpg
 ---
 
 A xerostomia, ou também **boca seca**, está associada à falta de saliva na cavidade oral. 
@@ -16,7 +16,7 @@ As estruturas responsáveis pela produção de saliva são as glândulas salivar
 Porque a saliva é tão importante
 --------------------------------
 
-![boca seca causas](//ucarecdn.com/52e2b0ca-53b1-473c-9f7a-566d020191eb/xerostomia.png) 
+![boca seca causas](/images/52e2b0ca-53b1-473c-9f7a-566d020191eb_xerostomia.png) 
 
 Pouca gente lembra da [saliva](https://pt.wikipedia.org/wiki/Saliva) ou até esquece que ela existe. 
 
@@ -46,7 +46,7 @@ Resumindo, quando temos pouca presença de saliva, vamos ter:
 Boca seca e suas causas 
 ------------------------
 
-![boca seca](//ucarecdn.com/4f2fafcc-c3c1-4310-80fa-ab137d75b22c/falta-de-saliva.jpg) 
+![boca seca](/images/4f2fafcc-c3c1-4310-80fa-ab137d75b22c_falta-de-saliva.jpg) 
 
 As causas são diversas como: 
 * A {% post_link 7-dicas-faceis-para-a-sua-higiene-bucal "má higienização" %}; 
@@ -78,7 +78,7 @@ As principais conseqüências são:
 Tratamentos para a Boca seca
 ----------------------------
 
-![tratamento boca seca](//ucarecdn.com/dded3508-ce80-48fe-b3b0-0df072637020/Estimulo-salivar.jpg) 
+![tratamento boca seca](/images/dded3508-ce80-48fe-b3b0-0df072637020_Estimulo-salivar.jpg) 
 
 O tratamento depende do problema diagnosticado. 
 

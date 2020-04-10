@@ -4,7 +4,7 @@ description: >-
   A perda óssea dentária se não for tratada de forma adequada  causa problemas
   nos dentes. Veja agora como a falta de higiene pode agravar essa situação. 
 date: 2016-02-15T10:00:39.000Z
-featured_image: //ucarecdn.com/a5d72068-e306-40e7-bdbc-48880cdd5ebe/radiografia-panoramica-dentista-analisa.jpg
+featured_image: /images/a5d72068-e306-40e7-bdbc-48880cdd5ebe_radiografia-panoramica-dentista-analisa.jpg
 ---
 A **perda óssea dentária** é uma situação que pode acontecer independente da idade e varia conforme o caso. 
 
@@ -43,7 +43,7 @@ Dependendo do grau de perda de osso, dificilmente conseguiremos ter a formação
 
 ## **Dificuldades de pacientes com perda óssea**
 
-[![perda óssea dentária](//ucarecdn.com/40df2365-6e1c-4a76-9249-7cc9b53e97e2/Perda-óssea-dentária.jpg)](//ucarecdn.com/40df2365-6e1c-4a76-9249-7cc9b53e97e2/Perda-óssea-dentária.jpg)                                         
+[![perda óssea dentária](/images/40df2365-6e1c-4a76-9249-7cc9b53e97e2_Perda-óssea-dentária.jpg)](/images/40df2365-6e1c-4a76-9249-7cc9b53e97e2_Perda-óssea-dentária.jpg)                                         
 
 **Evolução da doença periodontal e a perda óssea                                      **
 
@@ -65,7 +65,7 @@ Já o mau hálito é um fator característico da periodontite.
 
 ## **Tratamento da perda óssea dentário**
 
-![perda óssea dentária - escovação](//ucarecdn.com/6872f42c-033d-420c-9506-8956a66e75b5/Perda-óssea-nos-dentes.jpg) 
+![perda óssea dentária - escovação](/images/6872f42c-033d-420c-9506-8956a66e75b5_Perda-óssea-nos-dentes.jpg) 
 
 
 
@@ -99,7 +99,7 @@ Além disso, ainda existe a periodontite agressiva. Nesse caso a perda de osso p
 
 ## **Relação da perda óssea dentária com a menopausa e a osteoporose**
 
-![](//ucarecdn.com/bd99957c-d2cb-4324-80bb-c82dd9e5ec6d/Perda-óssea-dentária-e-a-menopausa.jpg) 
+![](/images/bd99957c-d2cb-4324-80bb-c82dd9e5ec6d_Perda-óssea-dentária-e-a-menopausa.jpg) 
 
 A menopausa é um evento fisiológico que ocorre com a interrupção da menstruação, o que provoca a diminuição de estrogênio no organismo e tem início por volta de 50 anos de idade nas mulheres. 
 

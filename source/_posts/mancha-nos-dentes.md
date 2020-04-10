@@ -4,7 +4,7 @@ description: >-
   Você sabe o que pode causar Mancha nos Dentes? Veja quais são os 5 principais
   fatores que alteram a cor do seu dente. Aprenda também como tratar.
 date: 2014-06-02T16:27:59.000Z
-featured_image: //ucarecdn.com/dd887440-97b6-4b2e-9589-0731f3b84261/mancha-nos-dentes.jpg
+featured_image: /images/dd887440-97b6-4b2e-9589-0731f3b84261_mancha-nos-dentes.jpg
 ---
 **Mancha nos dentes** são muito mais comuns do que se imagina. 
 
@@ -60,7 +60,7 @@ Posteriormente o maior ou menor uso do café ou cigarro, vai determinar a volta 
 ## 2 - Necrose pulpar (Traumatismo)
 
 
-[![mancha dente](//ucarecdn.com/c80dc55c-77ba-4f10-98fa-f1be3efafae6/mancha-dente.jpg)](//ucarecdn.com/c80dc55c-77ba-4f10-98fa-f1be3efafae6/mancha-dente.jpg) 
+[![mancha dente](/images/c80dc55c-77ba-4f10-98fa-f1be3efafae6_mancha-dente.jpg)](/images/c80dc55c-77ba-4f10-98fa-f1be3efafae6_mancha-dente.jpg) 
 
 Após a ocorrência de um trauma no dente, pode-se ter um escurecimento deste. 
 
@@ -175,7 +175,7 @@ Portanto em ambos o casos a higienização é extremamente importante para que v
 
 ## Conclusão
 
-[![Mancha Preta dente](/images/uploads/2014/06/Mancha-Preta-dente-1024x1024.jpg)](//ucarecdn.com/2ea06d90-28dd-4fd4-b93f-13f259f3965d/Mancha-Preta-dente.jpg)
+[![Mancha Preta dente](/images/uploads/2014/06/Mancha-Preta-dente-1024x1024.jpg)](/images/2ea06d90-28dd-4fd4-b93f-13f259f3965d_Mancha-Preta-dente.jpg)
 
 Cada tipo de **mancha nos dentes** tem um fator e uma causa associada, assim como, um tratamento diferente. 
 

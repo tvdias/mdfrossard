@@ -4,7 +4,7 @@ description: >-
   O canal no dente é um procedimento muito realizado no consultório dentário.
   Ele consiste na remoção da polpa e no tratamento do conduto radicular.
 date: 2018-01-29T08:00:56.000Z
-featured_image: //ucarecdn.com/c78bde38-d8ff-49b7-bc3f-37e374c9358d/canal-no-dente-como-evitar.jpg
+featured_image: /images/c78bde38-d8ff-49b7-bc3f-37e374c9358d_canal-no-dente-como-evitar.jpg
 ---
 
 O canal no dente ou [tratamento endodôntico](/tratamentos/endodontia/) ainda é um dos procedimentos mais realizados no consultório dentário. 
@@ -18,7 +18,7 @@ Nesse texto quero discutir quando é preciso realizar esse tratamento e principa
 **Quando é preciso realizar o canal no dente**
 ----------------------------------------------
 
-![canal no dente e a dor](//ucarecdn.com/d38097ef-2d5c-41f2-a42d-035349a042ad/canal-no-dente-evitar.jpg) 
+![canal no dente e a dor](/images/d38097ef-2d5c-41f2-a42d-035349a042ad_canal-no-dente-evitar.jpg) 
 
 O {% post_link tratamento-de-canal "tratamento de canal" %} é a opção para preservar o dente, evitando sua extração. 
 
@@ -39,7 +39,7 @@ Uma terceira indicação é quando existe alguma **lesão sem sintoma no dente.*
 **Como evitar o tratamento de canal**
 -------------------------------------
 
-![canal no dente](//ucarecdn.com/06534b0f-d85b-4beb-9dc5-a0f7c3939e25/Canal-no-dente.jpg) 
+![canal no dente](/images/06534b0f-d85b-4beb-9dc5-a0f7c3939e25_Canal-no-dente.jpg) 
 
 Como visto acima, o canal do dente sempre visa preservar o elemento dentário saudável na boca. 
 

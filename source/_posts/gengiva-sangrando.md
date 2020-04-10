@@ -4,7 +4,7 @@ description: >-
   A Gengiva sangrando é um problema em nossa população. Existem 7 principais
   fatores para isso acontecer. Entretanto, o tratamento pode ser fácil.
 date: 2014-09-08T10:00:01.000Z
-featured_image: //ucarecdn.com/f1d598e2-a78b-493f-b23d-6375ada45fb8/gengiva-sangrando.jpg
+featured_image: /images/f1d598e2-a78b-493f-b23d-6375ada45fb8_gengiva-sangrando.jpg
 ---
 A **Gengiva sangrando** é um dos principais problemas que podemos ter na boca. 
 
@@ -45,7 +45,7 @@ O uso correto e constante do fio dental é essencial para evitar uma inflamaçã
 
 ## Qual a principal causa desse problema ?
 
-![gengiva sangrando](//ucarecdn.com/2b5486c3-c6f8-43da-8847-6366423169b9/sangramento-da-gengiva.jpg) 
+![gengiva sangrando](/images/2b5486c3-c6f8-43da-8847-6366423169b9_sangramento-da-gengiva.jpg) 
 
 Como falado anteriormente, a **gengivite e a periodontite** estão amplamente relacionadas ao sangramento gengival. 
 
@@ -119,7 +119,7 @@ Outra opção é realizar {% post_link implante-de-dente "trabalhos fixos sobre 
 
 ## Qual o Tratamento Para a Gengiva Sangrando ?
 
-[![gengiva sangrando e o fio dental](//ucarecdn.com/8a010c35-d5fc-41ff-b240-788ad679ace5/gengiva-sangrando-e-o-fio-dental.jpg)](//ucarecdn.com/8a010c35-d5fc-41ff-b240-788ad679ace5/gengiva-sangrando-e-o-fio-dental.jpg) 
+[![gengiva sangrando e o fio dental](/images/8a010c35-d5fc-41ff-b240-788ad679ace5_gengiva-sangrando-e-o-fio-dental.jpg)](/images/8a010c35-d5fc-41ff-b240-788ad679ace5_gengiva-sangrando-e-o-fio-dental.jpg) 
 
 Primeiramente devemos ficar alertas com a gengiva sangrando pois **isso é um sinal que algo não esta certo**. 
 

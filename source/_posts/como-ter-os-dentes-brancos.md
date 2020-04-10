@@ -4,7 +4,7 @@ description: >-
   Você quer ter dentes brancos e saudáveis ? Ter um sorriso agradável é o sonho
   de muitos. Leia o texto e descubra 3 tratamentos para realizar isso.
 date: 2017-11-06T09:00:35.000Z
-featured_image: //ucarecdn.com/fc561e01-38ad-4697-8ee4-db276bc4d753/dentes-brancos.jpg
+featured_image: /images/fc561e01-38ad-4697-8ee4-db276bc4d753_dentes-brancos.jpg
 ---
 Ter os **dentes brancos** e saudáveis é o sonho de muitos e provavelmente o seu também. 
 
@@ -26,7 +26,7 @@ Nesse texto quero mostrar a você 3 dicas/ tratamentos fáceis para tornar seus 
 
 ## **1 - Dentes Brancos e a Escovação**
 
-![dentes brancos](//ucarecdn.com/e9663d12-740f-4eab-aa21-21e778f4b66d/dentes-brancos-e-a-escovação.jpg) 
+![dentes brancos](/images/e9663d12-740f-4eab-aa21-21e778f4b66d_dentes-brancos-e-a-escovação.jpg) 
 
 Em grande parte dos casos, possuir dentes brancos e saudáveis depende mais da sua higiene diária do que de algum tratamento dentário. 
 
@@ -40,7 +40,7 @@ Recordo também que visitas ao dentista para eliminação de tártaro acumulado 
 
 ## **2 - Dentes Brancos e o Clareamento Dentário**
 
-![](//ucarecdn.com/dc782d13-2156-49da-a708-51b1bf1e3ad5/dentes-brancos-e-o-clareamento.jpg) 
+![](/images/dc782d13-2156-49da-a708-51b1bf1e3ad5_dentes-brancos-e-o-clareamento.jpg) 
 
 Quando existem dentes amarelos e com pequenas manchas, o clareamento  dental é um ótimo tratamento. 
 
@@ -57,7 +57,7 @@ Em nosso blog existe um texto explicando detalhadamente esses tratamentos, {% po
 
 ## **3 - Dentes Brancos e a Faceta Dentária**
 
-![dentes brancos e a faceta](//ucarecdn.com/e287618b-fafd-477e-97fd-5ae95760b0b1/dentes-brancos-e-a-faceta.jpg) 
+![dentes brancos e a faceta](/images/e287618b-fafd-477e-97fd-5ae95760b0b1_dentes-brancos-e-a-faceta.jpg) 
 
 Em nosso blog possuímos alguns textos explicando com detalhes o tratamento com {% post_link facetas-dentais "facetas dentais" %}. 
 

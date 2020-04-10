@@ -4,10 +4,10 @@ description: >-
   Veja a entrevista que o dentista Dr. Davi Frossard deu na televisão. Nela ele
   aborda alguns aspectos sobre os implantes dentais. 
 date: 2014-08-12T15:53:25.000Z
-featured_image: //ucarecdn.com/4d20162f-bb9b-45b7-95bf-fa22daa28629/Programa-tv.png
+featured_image: /images/4d20162f-bb9b-45b7-95bf-fa22daa28629_Programa-tv.png
 ---
 
-[![Programa de televisão](/images/uploads/2014/08/Programa-de-televisão-300x224.jpg)](//ucarecdn.com/a32349a4-ae9c-4fe6-bd33-4d445be3a60c/Programa-de-televisão.jpg)
+[![Programa de televisão](/images/uploads/2014/08/Programa-de-televisão-300x224.jpg)](/images/a32349a4-ae9c-4fe6-bd33-4d445be3a60c_Programa-de-televisão.jpg)
 
 
 Hoje estou disponibilizando a entrevista que dei para o canal Boas Novas sobre saúde bucal. 

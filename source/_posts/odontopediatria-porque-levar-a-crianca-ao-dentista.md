@@ -5,7 +5,7 @@ description: >-
   Levar a criança ao dentista ( odontopediatria ) é muito importante. Veja 8
   dicas importantes no cuidado dos dentes de seu filho.
 date: 2014-07-15T08:12:22.000Z
-featured_image: //ucarecdn.com/1f74c7e4-db1e-4dee-9144-ee6e2e1dafc0/Criança-odontologia.jpg
+featured_image: /images/1f74c7e4-db1e-4dee-9144-ee6e2e1dafc0_Criança-odontologia.jpg
 ---
 
 Hoje o tema do nosso post é sobre **odontopediatria**, ou seja, a área voltada para o atendimento de crianças. Nossa clínica conta com profissional especializado no atendimento infantil.
@@ -22,7 +22,7 @@ Todos esses eventos são característicos de situações onde se busca uma cura,
 **Diferentes fases da nossa dentição: **
 ----------------------------------------
 
-![odontopediatria](//ucarecdn.com/834522cd-fce5-4f34-92bd-1fcefddc56ad/medo-de-dentista-e-as-crianças.jpg) 
+![odontopediatria](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-crianças.jpg) 
 
 Para que possamos definir quando será a primeira consulta  e com que periodicidade deve-se ir ao dentista (odontopediatria), devemos antes entender um pouco sobre algumas fases da nossa dentição.
 
@@ -74,7 +74,7 @@ Além disso, com este hábito, evita-se que a criança chegue ao consultório em
 **Além da visita ao dentista, o que mais pode ser feito?**
 ----------------------------------------------------------
 
-![odontopediatria escovaçao](//ucarecdn.com/6872f42c-033d-420c-9506-8956a66e75b5/Perda-óssea-nos-dentes.jpg) 
+![odontopediatria escovaçao](/images/6872f42c-033d-420c-9506-8956a66e75b5_Perda-óssea-nos-dentes.jpg) 
 
 No atendimento aos pacientes, independente da faixa etária, costumo dizer que o tratamento odontológico depende 30% do profissional e 70% do paciente. 
 

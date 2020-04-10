@@ -4,7 +4,7 @@ description: >-
   Dentista na Barra da Tijuca com todos os tipos de Tratamentos Dentários e o
   conforto que você precisa. Nossa Clínica Dentária fica no Citta América.
 date: 2014-05-12T11:02:32.000Z
-featured_image: //ucarecdn.com/c38afdde-c86d-40ff-8923-a105ca8f16ed/dentista-na-barra-da-tijuca.jpg
+featured_image: /images/c38afdde-c86d-40ff-8923-a105ca8f16ed_dentista-na-barra-da-tijuca.jpg
 ---
 **Precisa de dentista na Barra da Tijuca ?  ** 
 
@@ -20,7 +20,7 @@ Continue lendo para saber mais sobre a clínica.
 
 ## Dentista na Barra da Tijuca
 
-![Dentista barra da tijuca ](//ucarecdn.com/76345c37-98a0-457b-a71c-4dd16603ca51/Dentista-barra-da-tijuca-4-1024x682.jpg) 
+![Dentista barra da tijuca ](/images/76345c37-98a0-457b-a71c-4dd16603ca51_Dentista-barra-da-tijuca-4-1024x682.jpg) 
 
 A [MD Frossard Odontologia](/estrutura/) é uma clínica odontológica antiga e familiar no Rio de Janeiro.Com 38 anos de atendimento no bairro de Botafogo sempre levamos o melhor para nosso paciente. 
 
@@ -56,7 +56,7 @@ _"Sou cliente do Dr. Marcos desde 1981. Ele me foi recomendado por uma amiga, a 
 
 ## Precisa Marcar um Atendimento ?
 
-![](//ucarecdn.com/72f2c2a5-1d27-4ee1-abe9-bd257971ec02/dentista-na-barra-da-tijuca-RJ.jpg)   
+![](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.jpg)   
 
 Possuímos uma infra-estrutura que proporciona tranqüilidade ao nosso cliente. Atendemos todas as especialidades e tratamentos :
 

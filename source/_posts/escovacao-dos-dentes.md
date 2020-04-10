@@ -4,7 +4,7 @@ description: >-
   A escovação dos dentes é essencial para a sua saúde bucal . Veja agora como
   realizar a correta técnica e melhore a saúde dos seus dentes.
 date: 2015-02-16T10:00:49.000Z
-featured_image: //ucarecdn.com/06ab8179-2005-4355-83a7-273d229af1ef/escovação-pasta.png
+featured_image: /images/06ab8179-2005-4355-83a7-273d229af1ef_escovação-pasta.png
 ---
 
 Todos sabem qual é o melhor caminho pra prevenir doenças bucais de ocorrerem, a boa e velha **escovação dos dentes.** 
@@ -18,7 +18,7 @@ Para fazer um bom trabalho de escovação dos dentes necessita-se de pelo menos 
 A correta forma de realizar a escovação dos dentes
 --------------------------------------------------
 
-![escovação dos dentes](//ucarecdn.com/9186d3d6-f83d-4f1a-a5ad-197ae4571ce9/escovação-dos-dentes.jpg) 
+![escovação dos dentes](/images/9186d3d6-f83d-4f1a-a5ad-197ae4571ce9_escovação-dos-dentes.jpg) 
 
 Esteja usando uma escova de dentes normal ou uma escova de dentes elétrica, você deve escovar cada seção de sua boca no mínimo 30 segundos (superior direita e esquerda, inferior direita e esquerda). 
 
@@ -27,7 +27,7 @@ Além disso, é importante o uso da pasta dental. Para a parte da frente e a par
 Além da escovação dos dentes, o **fio dental é essencial para a higiene**.
 --------------------------------------------------------------------------
 
-![escovação dos dentes fio dental](//ucarecdn.com/51ef4032-8333-4d77-9362-ffb28aecbd43/escovação-dos-dentes-fio-dental.jpg) 
+![escovação dos dentes fio dental](/images/51ef4032-8333-4d77-9362-ffb28aecbd43_escovação-dos-dentes-fio-dental.jpg) 
 
 Para usar Pegue cerca de 50 centímetros de fio dental e enrole frouxamente a maior parte dele em volta de cada dedo médio (enrole mais em um dedo do que no outro) deixando 5 centímetros de fio entre eles. 
 

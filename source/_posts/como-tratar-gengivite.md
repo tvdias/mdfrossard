@@ -4,7 +4,7 @@ description: >-
   A dúvidas de como tratar a gengivite é comum. Porém, o tratamento é fácil. A
   correta escovação e o uso do fio dental são essenciais.
 date: 2018-02-19T08:00:01.000Z
-featured_image: //ucarecdn.com/ac235230-9211-4cb4-9f75-57e6d3e436e6/como-tratar-a-gengivite.jpg
+featured_image: /images/ac235230-9211-4cb4-9f75-57e6d3e436e6_como-tratar-a-gengivite.jpg
 ---
 
 Em nossa boca podemos apresentar diversos problema bucais. Alguns mais sérios e outros muito fáceis de serem tratados. 
@@ -22,7 +22,7 @@ Continue lendo esse texto para saber como tratar a gengivite.
 **Quais os sintomas da gengivite ?**
 ------------------------------------
 
-![como tratar a gengivite](//ucarecdn.com/3bcffa16-867a-410e-aeba-586b5391a2a7/como-tratar-a-gengivite-sintomas.jpg) 
+![como tratar a gengivite](/images/3bcffa16-867a-410e-aeba-586b5391a2a7_como-tratar-a-gengivite-sintomas.jpg) 
 
 A gengivite tem um aspecto básico, o {% post_link gengiva-sangrando "sangramento" %}. 
 
@@ -35,7 +35,7 @@ A {% post_link escovacao-dos-dentes "falta da escovação" %} leva ao acúmulo d
 **Como tratar a gengivite - Dois aspectos Básicos**
 ---------------------------------------------------
 
-![como tratar a gengivite e a escovação](//ucarecdn.com/0d8dd98a-615d-46b0-9124-2ad603410e76/como-tratar-a-gengivite-tratamento.jpg) 
+![como tratar a gengivite e a escovação](/images/0d8dd98a-615d-46b0-9124-2ad603410e76_como-tratar-a-gengivite-tratamento.jpg) 
 
 Portanto fica a pergunta, como tratar a gengivite ? O controle da inflamação da gengiva se baseia em dois aspectos que devem ser realizados todos os dias: 
 * A escovação;
