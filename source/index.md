@@ -11,7 +11,7 @@ hide_title: true
 {% raw %}
 <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto; background-color:#E9E9E9; padding:0px;max-height:500px; width: 100%;">
    <!-- START REVOLUTION SLIDER 4.6.5 fullwidth mode -->
-   <img src="/images/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7_home_slide01_800.webp"
+   <img src="/images/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7_home_slide01_800.jpg"
       srcset="/images/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7_home_slide01_500.webp 500w,
                /images/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7_home_slide01_800.webp 800w,
                /images/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7_home_slide01_1000.webp 1000w,
@@ -29,7 +29,7 @@ hide_title: true
             <a href="/depoimentos/" class="view-first">
                <h3 class="teaser-title">Depoimentos</h3>
                <div class="view">
-                  <img data-src="/images/66479ab6-1fe6-4d63-b67a-571a63ae44c8_depoimento_300.webp" loading="lazy" width="600" height="335" alt="Depoimentos" loading="lazy" class="lazyload attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" />
+                  <img data-src="/images/66479ab6-1fe6-4d63-b67a-571a63ae44c8_depoimento_300.jpg" width="300" height="335" alt="Depoimentos" loading="lazy" class="lazyload attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" />
                   <div class="mask">
                      <span class="info">Saiba Mais</span>
                   </div>
@@ -45,7 +45,7 @@ hide_title: true
             <a href="/estrutura/" class="view-first">
                <h3 class="teaser-title">Estrutura</h3>
                <div class="view">
-                  <img data-src="/images/e36f748f-64bb-4626-95e8-6de9c7e26d29_tratamento_300.webp" width="600" height="335" alt="estrutura" loading="lazy" class="lazyload attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" />
+                  <img data-src="/images/e36f748f-64bb-4626-95e8-6de9c7e26d29_tratamento_300.jpg" width="300" height="335" alt="estrutura" loading="lazy" class="lazyload attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" />
                   <div class="mask">
                      <span class="info">Saiba Mais</span>
                   </div>
@@ -61,7 +61,7 @@ hide_title: true
             <a href="/equipe/" class="view-first">
                <h3 class="teaser-title">Equipe</h3>
                <div class="view">
-                  <img data-src="/images/56846063-0e3d-432c-aabd-ded961e23e27_equipe_300.webp" width="600" height="335" alt="Equipe" loading="lazy" class="lazyload attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" />
+                  <img data-src="/images/56846063-0e3d-432c-aabd-ded961e23e27_equipe_300.jpg" width="300" height="335" alt="Equipe" loading="lazy" class="lazyload attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" />
                   <div class="mask">
                      <span class="info">Saiba Mais</span>
                   </div>
@@ -77,7 +77,7 @@ hide_title: true
             <a href="/contato/" class="view-first">
                <h3 class="teaser-title"><span>Marque sua</span> Consulta</h3>
                <div class="view">
-                  <img data-src="/images/1e778857-05af-408f-a4d6-28ec346070f8_telephone_300.webp" width="600" height="335" alt="Marque sua consulta" loading="lazy" class="lazyload attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" />
+                  <img data-src="/images/1e778857-05af-408f-a4d6-28ec346070f8_telephone_300.jpg" width="300" height="335" alt="Marque sua consulta" loading="lazy" class="lazyload attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" />
                   <div class="mask">
                      <span class="info">Saiba Mais</span>
                   </div>
