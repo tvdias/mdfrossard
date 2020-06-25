@@ -83,11 +83,9 @@ A dor não é o único fator para ir ao dentista. Existem outros fatores que som
 
 Em segundo lugar, é preciso de ano em ano realizar consultas de revisão com o dentista, para verificar se existe algum problema oculto nos dentes, antes que a doença se torne algo mais grave e de difícil tratamento.
 
-Vídeo problemas nos dentes 
+Vídeo problemas nos dentes - Dente Quebrado
 ---------------------------
+---
+{% youtube TRD8-BH2PSQ %}
+---
 
-{% youtube hUz78b3y3Cc %}
-
-
-Att, 
-Davi Frossard
