@@ -49,7 +49,7 @@ Entretanto, existem alguns pontos importantes a serem citados :
 * Não usar enxaguante bucal com álcool;
 * Enxaguante bucal com Gluconato de Clorexidina.
 
-## **Enxaguante com Gluconato de Clorexidina **
+## **Enxaguante com Gluconato de Clorexidina**
 
 ![](/images/7e9324c8-765d-43f6-adb3-a34c039bb32e_enxaguante-bucal-mulher.jpg) 
 
@@ -77,6 +77,11 @@ Geralmente esses enxaguantes são indicamos em crianças com mais de 6 anos.
 Também devemos prestar atenção para a criança não engolir o líquido durante o bochecho. Não devemos esquecer que o enxaguante é somente um meio para ajudar a higiene bucal. 
 
 O principal sempre deve ser a correta escovação e o uso do fio dental.
+
+## **Video sobre o Enxaguatório Bucal**
+---
+{% youtube CWakSgx_Epo %}
+---
 
 ## **Posso substituir a escovação e o fio dental pelo uso somente do enxaguante bucal ?**
 
