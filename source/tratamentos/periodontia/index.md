@@ -25,6 +25,7 @@ Para prevenir essas doenças, é necessário uma boa escovação, uso do fio den
 Na **periodontia** podemos ainda realizar pequenas cirurgias muco-periósteas (na gengiva), visando a estética do paciente (plástica gengival).
 
 ### Halitose
+---
 ## A – O que é?
 A halitose ou mau hálito é uma condição anormal do hálito com cheiro desagradável. A halitose não é uma doença, mas pode denunciar a ocorrência de alguma alteração ou problema de saúde.
 
@@ -67,3 +68,8 @@ Elas podem ser facilmente identificadas e tratadas (ou encaminhadas para tratame
 * Capriche na higiene bucal. Quando escovar os dentes, use também o fio dental e passe a escova com delicadeza especialmente na região posterior da língua.
 * Certifique-se de que os níveis de glicemia estão dentro da normalidade e que o funcionamento do estômago, rins e intestinos não apresentam nenhuma alteração; Utilize, de vez em quando, goma de mascar ou balas sem açúcar, que ajudam a aumentar a salivação.
 * Realize exames de saúde geral (check-up) anualmente, pratique atividades físicas para reduzir o estresse.
+
+## D – Video sobre o Tratamento Periodontal
+
+{% youtube TytQhah_x0s %}
+---
