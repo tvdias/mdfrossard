@@ -74,7 +74,6 @@ E isso deve ser feito desde a infância, a partir dos seis meses já é possíve
 
 Entretanto, realizar esses cuidados periodicamente acaba saindo muito mais barato do que ter que pagar por cirurgias e extrações dos dentes.
 
-Além disso, sempre é possível investir em um [convênio odontológico](https://blog.idealodonto.com.br/planos-odontologicos/convenio-odontologico/), para que também em casos de emergência, você saiba exatamente para onde correr.
 
 ## Cuide da saúde de todo o seu corpo
 
