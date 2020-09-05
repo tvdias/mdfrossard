@@ -9,8 +9,7 @@ hide_title: true
 ---
 
 {% raw %}
-<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto; background-color:#E9E9E9; padding:0px;max-height:500px; width: 100%;">
-   <!-- START REVOLUTION SLIDER 4.6.5 fullwidth mode -->
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="width: 100%">
    <picture alt="home01"  data-bgposition="left center" data-kenburns="on" data-duration="14000" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="130" data-bgpositionend="right center" style="width: 100%; height: auto;">
      <source srcset="/images/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7_home_slide01_500.webp 500w,
                /images/5f94d8d8-5f6b-4c90-ac53-4d51f82094c7_home_slide01_800.webp 800w,
@@ -21,7 +20,6 @@ hide_title: true
           alt="home01"  data-bgposition="left center" data-kenburns="on" data-duration="14000" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="130" data-bgpositionend="right center" style="width: 100%; height: auto;">
    </picture>
 </div>
-<!-- END REVOLUTION SLIDER -->
 
 <div class="row clearfix"></div>
 
