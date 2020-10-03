@@ -15,7 +15,7 @@ hide_title: true
      <source srcset="/images/home_slide01_500.webp 500w,
                /images/home_slide01_750.webp 750w,
                /images/home_slide01_970.webp 970w,
-               /images/home_slide01_1170.webp 11700w"
+               /images/home_slide01_1170.webp 1170w"
              type="image/webp">
      <img src="/images/home_slide01_970.jpg"
           alt="home01"  data-bgposition="left center" data-kenburns="on" data-duration="14000" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="130" data-bgpositionend="right center" style="width: 100%; height: auto;">
