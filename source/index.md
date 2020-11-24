@@ -32,7 +32,7 @@ hide_title: true
             <a href="/depoimentos/" class="view-first">
                <h3 class="teaser-title">Depoimentos</h3>
                <div class="view">
-                  <img data-src="/images/66479ab6-1fe6-4d63-b67a-571a63ae44c8_depoimento_300.jpg" width="300" height="335" alt="Depoimentos" loading="lazy" class="lazyload attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" />
+                  <img data-src="/images/depoimento.jpg" width="300" height="335" alt="Depoimentos" loading="lazy" class="lazyload attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" />
                   <div class="mask">
                      <span class="info">Saiba Mais</span>
                   </div>
@@ -48,7 +48,7 @@ hide_title: true
             <a href="/estrutura/" class="view-first">
                <h3 class="teaser-title">Estrutura</h3>
                <div class="view">
-                  <img data-src="/images/e36f748f-64bb-4626-95e8-6de9c7e26d29_tratamento_300.jpg" width="300" height="335" alt="estrutura" loading="lazy" class="lazyload attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" />
+                  <img data-src="/images/estrutura.jpg" width="300" height="335" alt="estrutura" loading="lazy" class="lazyload attachment-mdf_home_widgets size-mdf_home_widgets wp-post-image" />
                   <div class="mask">
                      <span class="info">Saiba Mais</span>
                   </div>
