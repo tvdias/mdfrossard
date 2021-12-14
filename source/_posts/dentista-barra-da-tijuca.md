@@ -67,7 +67,7 @@ Possuímos uma infra-estrutura que proporciona tranqüilidade ao nosso cliente. 
 * Tratamento da gengiva ;
 * Entre outros.
 
-Nosso atendimento é individual e portanto com **hora marcada e sem atraso. Caso necessite de um **dentista na Barra da Tijuca** **{% post_link contato "ligue" %}** para nós que estaremos a sua disposição para atendimento. 
+Nosso atendimento é individual e portanto com **hora marcada e sem atraso. Caso necessite de um **dentista na Barra da Tijuca** ligue para (021) 3500-1436 para nós que estaremos a sua disposição para atendimento. 
 
 Se tiver outra dúvida, deixe seu comentário abaixo que responderemos o mais rápido possível. 
 
