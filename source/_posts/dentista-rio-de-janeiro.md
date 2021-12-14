@@ -28,13 +28,15 @@ Ambas possuem toda a infra estrutura para você ter um dentista no Rio de Janeir
 
 Para marcar uma consulta em alguma das nossas clinicas basta entrar [aqui](http://www.mdfrossard.com.br) e veja o nosso telefone na parte superior do site. 
 
+**Ligue para (021) 3500-1693 ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) para marcar sua consulta.**
+
 Caso queira ver a localização do dentista no Rio de Janeiro, clique {% post_link localizacao "aqui" %} para visualizar no mapa a localização das nossas clínicas. 
 
 Nossa clinica possui diversos tipos de tratamentos e todos podem ser feitos no mesmo local. 
 
 Como tratamentos possuímos tratamentos:  
 
-* Estéticos ( Faceta dentária ou Lente de cContato dental ); 
+* Estéticos ( Faceta dentária ou Lente de contato dental ); 
 * Implantes dentários;
 * Coroas dentárias;
 * Clareamento dental; 
