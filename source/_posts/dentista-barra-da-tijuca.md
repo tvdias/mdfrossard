@@ -6,7 +6,7 @@ description: >-
 date: 2014-05-12T11:02:32.000Z
 featured_image: /images/c38afdde-c86d-40ff-8923-a105ca8f16ed_dentista-na-barra-da-tijuca.jpg
 ---
-**Precisa de dentista na Barra da Tijuca ?  ** 
+**Precisa de dentista na Barra da Tijuca ?** 
 
 Esse bairro demonstra grande crescimento populacional nos últimos anos. Além de apresentar toda a beleza natural com suas praias, também existem diversos empreendimentos comerciais de grande porte. 
 
@@ -14,7 +14,7 @@ Caso queira saber mais sobre a Barra da tijuca, [esse texto](https://pt.wikipedi
 
 Nossa clínica liderada pelos dentistas Marcos Frossard e Davi Frossard é a opção certa para você. 
 
-**Estamos localizados no Shopping Citta America. Ligue para 3217-0430 ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) para marcar sua consulta.** 
+**Estamos localizados no Shopping Citta America. Ligue para (021)3500-1436 ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) para marcar sua consulta.** 
 
 Continue lendo para saber mais sobre a clínica.
 
