@@ -22,8 +22,9 @@ Ficou curioso? Então continue lendo esse artigo.
 
 ## **Hipersensibilidade dentinária, o que é?**
 
-![Sensibilidade nos dentes](/images/bfe5de85-5f82-4173-99f2-662c43ea1cf8_Sensibilidade-nos-dentes1-1024x405.png) 
 
+![Sensibilidade nos dentes](/images/bfe5de85-5f82-4173-99f2-662c43ea1cf8_Sensibilidade-nos-dentes1-1024x405.png) 
+---
 Hipersensibilidade dentinária é o nome correto para a sensibilidade nos dentes da qual falamos neste post. 
 
 Ela ocorre quando há **exposição gradual da dentina**, que é parte mais interna do dente. Na [dentina](https://pt.wikipedia.org/wiki/Dentina), encontram-se pequenos canais (túbulos dentinários) que contém terminações nervosas e fluidos.  
@@ -66,7 +67,7 @@ Pacientes que rangem os dentes (apresentam {% post_link ranger-os-dentes "bruxis
 
 Como dito anteriormente, a retração gengival expõe regiões do dente que não possuem a proteção do esmalte, deixando a dentina mais exposta e causando a sensibilidade nos dentes;  
 
-##### **5) {% post_link clareamento-dental "Clareamento dental" %} **
+##### **5) {% post_link clareamento-dental "Clareamento dental" %}**
 
 Durante este procedimento, os pacientes podem apresentar sensibilidade dental. 
 
@@ -86,13 +87,13 @@ Ele limpa o dente pois desgasta o esmalte e assim consegue remover pigmentaçõe
 
 Com o passar do tempo e com o uso freqüente, ele acaba promovendo um desgaste excessivo do esmalte, deixando-o mais fino e assim, a dentina fica menos protegida, gerando sensibilidade nos dentes.  
 
-##### **7) Uso de piercing na boca e hábitos parafuncionais que possam denegrir a estrutura do esmalte do dente **
+##### **7) Uso de piercing na boca e hábitos parafuncionais que possam denegrir a estrutura do esmalte do dente**
 
 O piercing em contato com o dente, pode com o tempo provocar o desgaste ou a quebra do esmalte por ficar “raspando” nele  com freqüência, uma vez que muitos usuários do adereço ficam mordendo o objeto voluntariamente ou involuntariamente, quando mastigam ou falam. 
 
 Morder canetas, alfinetes ou ainda passar qualquer objeto duro nos dentes para remover resíduos de alimentos, com o tempo também podem provocar o desgaste dos dentes e assim gerar sensibilidade.  
 
-##### **8) Restaurações quebradas, infiltradas ou mal adaptadas **
+##### **8) Restaurações quebradas, infiltradas ou mal adaptadas**
 
 Muitas das vezes não conseguimos identificá-las e precisamos da ajuda do dentista para diagnosticá-las. 
 
@@ -100,7 +101,7 @@ Quando as restaurações (obturações) quebram, se soltam ou estão em áreas c
 
 Assim, em casos onde a necessidade é apenas restaurar o dente, sem {% post_link tratamento-de-canal "tratamento endodôntico" %}, o paciente deve procurar ajuda especializada para colocar estas restaurações no lugar e assim a sensibilidade cessará.  
 
-##### **9) Biocorrosão ácida **
+##### **9) Biocorrosão ácida**
 
 A [erosão ácida](http://www.colgate.com.br/app/CP/BR/OC/Information/Articles/Oral-and-Dental-Health-Basics/Common-Concerns/Sensitivity/article/Enamel-Erosion-How-It-Affects-Your-Teeth.cvsp) ocorre quando o esmalte sofre desgaste por meio de ácidos. 
 
@@ -114,8 +115,9 @@ sse tipo de desgaste é extremamente maléfico ao paciente, pois usamos aliment
 
 ## Vídeo sobre 9 motivos de sensibilidade nos dentes 
 
+---
 {% youtube LSG1at5_tCY %}
-
+---
 
 
 ## **Os cremes dentais utilizados para combater dentes sensíveis são eficazes?**
@@ -136,7 +138,7 @@ Portanto, sempre um correto planejamento deve ser realizado, para que a origem 
 
 ![tratamento sensibilidade dental](/images/3edf4997-709e-4efc-b726-cb7df5c74dc1_tratamento-sensibilidade.jpg)   
 
-**A )** **Ir ao dentista. **Só ele poderá avaliar qual a causa, para assim prover ao paciente o melhor plano de tratamento. Se você leu todo o post, percebeu que apenas uso de pasta de dente para sensibilidade nos dentes não é a solução para este problema ! ; 
+**A )** **Ir ao dentista.** - Só ele poderá avaliar qual a causa, para assim prover ao paciente o melhor plano de tratamento. Se você leu todo o post, percebeu que apenas uso de pasta de dente para sensibilidade nos dentes não é a solução para este problema ! ; 
 
 **B)** Fazer a correta higiene bucal com escova macia e uso de fio dental, com calma. Este passo irá prevenir tanto o desgaste precoce dos dentes quanto o surgimento de gengivite e outros problemas periodontais; 
 
@@ -144,7 +146,7 @@ Portanto, sempre um correto planejamento deve ser realizado, para que a origem 
 
 **D)** Interromper por um tempo o tratamento clareador. Porém, isso deve ser informado ao dentista;
 
- **E)** Fazer uso de pastas para sensibilidade nos dentes e enxaguatórios sob orientação do dentista, que irá informar qual será o tratamento mais apropriado para o caso; 
+**E)** Fazer uso de pastas para sensibilidade nos dentes e enxaguatórios sob orientação do dentista, que irá informar qual será o tratamento mais apropriado para o caso; 
 
 **F)** Colocação de restauração (obturação) em locais em que há indicação, pois houve perda de esmalte dentário; 
 
@@ -154,15 +156,15 @@ Portanto, sempre um correto planejamento deve ser realizado, para que a origem 
 
 **I)** Remover piercings e hábitos parafuncionais.
 
-### **Dica extra -** 
+### **Dica extra** 
 
-Se você estiver com **muita sensibilidade nos dentes** ( geralmente após o clareamento ), pode-se colocar a pasta para sensibilidade dentária na moldeira de clareamento e deixar na boca por cerca de 5 a 10 minutos. Isso provavelmente irá aliviar muito a sensação dolorosa.
+Se você estiver com **muita sensibilidade nos dentes** (geralmente após o clareamento), pode-se colocar a pasta para sensibilidade dentária na moldeira de clareamento e deixar na boca por cerca de 5 a 10 minutos. Isso provavelmente irá aliviar muito a sensação dolorosa.
 
 ## **Conclusão**
 
-![conclusão sensibilidade dental](/images/57d8a0c3-0e7f-40e4-b5b1-4b08bf665b1f_conclusão-sensibilidade-dental.jpg) **A **
+![conclusão sensibilidade dental](/images/57d8a0c3-0e7f-40e4-b5b1-4b08bf665b1f_conclusão-sensibilidade-dental.jpg) 
 
-**sensibilidade nos dentes não é algo com o qual temos que nos acostumar a conviver.** 
+**A sensibilidade nos dentes não é algo com o qual temos que nos acostumar a conviver.** 
 
 Com pequenas correções em nossa rotina, conseguimos reverter o quadro de sensibilidade dentária. 
 
