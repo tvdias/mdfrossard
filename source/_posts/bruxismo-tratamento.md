@@ -35,7 +35,7 @@ Este último é mais fácil para a pessoa notar o hábito deletério e parar. A 
 
 Além disso, fatores hereditários ou alimentação incorreta também influenciam.
 
-## **Quais são os fatores que levam ao bruxismo **
+## **Quais são os fatores que levam ao bruxismo**
 
 Estudos mostram que o **estresse é o grande vilão do bruxismo**. 
 
@@ -49,7 +49,7 @@ Muitas pessoas não sabem que tem esse hábito deletério e o fazem inconsciente
 
 Também se pode descobrir o bruxismo quando alguém comenta que elas fazem um horrível som de ranger de dentes enquanto estão dormindo.
 
-## **Conseqüências do bruxismo **
+## **Conseqüências do bruxismo**
 
 ![desgaste bruxismo](/images/94ea4a61-f821-4907-9bd0-590bb2970283_dente-desgastado.jpg) 
 
@@ -81,7 +81,7 @@ Ao realizar o "apertamento" dos dentes, todos os músculos são tencionados de m
 
 Primeiramente deve-se realizar o controle do estresse e da ansiedade. 
 
-Depois, após uma avaliação pelo dentista, a utilização de {% post_link placa-para-bruxismo "**placa miorelaxante**" %} mais apropriada. 
+Depois, após uma avaliação pelo dentista, a utilização de {% post_link placa-para-bruxismo "placa miorelaxante" %} mais apropriada. 
 
 Essa placa é feita sob medida para o cliente, ela é rígida e os contatos dentários são todos equilibrados melhorando a oclusão (mordida) da pessoa. 
 
