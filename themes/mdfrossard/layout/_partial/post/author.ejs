@@ -8,7 +8,7 @@ var author = site.data.authors.filter(function(data) {
   <h2>Sobre o autor</h2>
   <div class="col-md-3 col-sm-12 col-xs-12">
     <div class="img img-circle">
-        <img width="150" height="150" src="<%= gravatar(author.email, {s: 150, d: config.url + url_for(author.avatar)}) %>" class="attachment-thumbnail size-thumbnail wp-post-image" alt="<%= post_author_name %>" />
+        <img data-src="<%= author.avatar %>" width="150" height="150" loading="lazy" class="attachment-thumbnail size-thumbnail wp-post-image" alt="<%= author.name %>" />
     </div>                                
   </div>
   <div class="col-md-9 col-sm-12 col-xs-12">
