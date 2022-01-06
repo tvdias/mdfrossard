@@ -1,5 +1,5 @@
 ---
-title: Check Up Digital Preventivo 
+title: Check Up Digital Preventivo
 layout: mdf_tratamentos
 active_menu: tratamentos
 featured_image: 'rosto-mulher-ponta-para-sorriso-1024x683.jpg'

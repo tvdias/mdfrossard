@@ -1,5 +1,5 @@
 ---
-title: Localização das Nossas Clínicas 
+title: Localização das Nossas Clínicas
 active_menu: localizacao
 description: Veja a localização das nossas clínicas. A MD Frossard esta presente na cidade do Rio de Janeiro, nos bairros de Botafogo e da Barra da Tijuca.
 featured_image: 5consultório-2.jpg
