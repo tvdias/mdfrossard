@@ -1,5 +1,5 @@
 ---
-title: Implante Dentário com Segurança | MD Frossard Odontologia
+title: Implante Dentário com Segurança 
 layout: mdf_tratamentos
 active_menu: tratamentos
 description: O implante dentário pode ser feito com segurança. Veja as principais dúvidas sobre implantodontia. Leia o nosso texto agora.

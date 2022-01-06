@@ -1,6 +1,6 @@
 ---
 id: contato
-title: Entre em Contato com a nossa Clínica | MD Frossard Odontologia
+title: Entre em Contato com a nossa Clínica 
 active_menu: contato
 description: Veja como entrar em contato com a nossa clínica. É possível ligar, mandar mensagem por Whatspp ou enviar e-mail. Ligue e marque sua consulta.
 featured_image: telephone-586266_1920.jpg

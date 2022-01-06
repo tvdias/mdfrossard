@@ -1,5 +1,5 @@
 ---
-title: Odontologia Personalizada | MD Frossard Odontologia
+title: Odontologia Personalizada 
 url: 504.html
 id: 504
 date: 2014-03-30 15:19:15

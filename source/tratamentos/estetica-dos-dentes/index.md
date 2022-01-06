@@ -1,5 +1,5 @@
 ---
-title: Estética dos Dentes | MD Frossard Odontologia
+title: Estética dos Dentes 
 layout: mdf_tratamentos
 active_menu: tratamentos
 description: A estética dos dentes pode trazer uma transformação do sorriso da pessoa, melhorando sua auto estima. Temos diversos tipos de tratamentos, como a faceta.
