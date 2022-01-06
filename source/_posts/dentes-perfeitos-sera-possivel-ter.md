@@ -1,5 +1,5 @@
 ---
-title: 'Dentes perfeitos, será possível ter ? Veja os tratamentos para isso.'
+title: 'Dentes perfeitos, será possível ter? Veja os tratamentos para isso'
 description: >-
   Dentes Perfeitos, essas duas palavras são buscadas e desejadas por muitas
   pessoas. Veja agora os tratamentos certos para você.

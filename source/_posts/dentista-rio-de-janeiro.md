@@ -1,5 +1,5 @@
 ---
-title: Dentista Rio de Janeiro - Marque sua consulta agora.
+title: Dentista Rio de Janeiro. Marque sua consulta
 description: >-
   Precisa de dentista no Rio de Janeiro ? A MD Frossard Odontologia pode ser a
   solução que você precisa. Possuímos duas clinica de alto padrão nessa cidade.
