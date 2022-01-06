@@ -5,6 +5,7 @@ description: >-
   evitar problemas futuros, veja aqui o correto tratamento.
 date: 2014-08-25T10:00:54.000Z
 featured_image: /images/2c39dacc-f461-497e-be10-8171ede1c0a4_bruxismo.jpg
+h1: Como tratar o Bruxismo 
 ---
 **Bruxismo** é diagnosticado de forma rotineira nos consultórios dentários. 
 
