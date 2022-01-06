@@ -368,7 +368,7 @@ var author_name = post.author ? post.author : config.author;
 								<% if (false) { %>
 								<div class="amp-author ">
 									<div class="amp-author-image ">
-										<amp-img src="<%= gravatar(author.email, {s: 60, d: config.url + url_for(author.avatar)}) %>" width="60" height="60" layout="fixed"></amp-img>
+										<amp-img src="<%= (config.url + url_for(author.avatar)) %>" width="60" height="60" layout="fixed"></amp-img>
 									</div>
 									<div class="author-details ">
 									  <span class="author-name"><%= post_author_name %></span>
