@@ -1,5 +1,5 @@
 ---
-title: 'Será que a saúde bucal do Brasileiro é boa ? Veja agora. '
+title: 'Será que a saúde bucal do Brasileiro é boa ?  '
 description: >-
   Será que a saúde bucal do brasileiro é boa? Usando a pesquisa e o texto
   publicado na revista veja, vamos ver qual a conclusão chegamos.

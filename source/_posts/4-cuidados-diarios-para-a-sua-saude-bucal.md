@@ -1,5 +1,5 @@
 ---
-title: '4 Cuidados Diários para a sua Saúde Bucal. '
+title: '4 Cuidados para a sua Saúde Bucal. '
 description: >-
  Veja quais os 4 cuidados diários indispensáveis para a sua saúde bucal. Isso pode mudar completamente como você cuida da sua boca. 
 date: 2020-02-27T10:00:27.000Z

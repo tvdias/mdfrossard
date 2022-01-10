@@ -1,5 +1,5 @@
 ---
-title: 5 Dicas de saúde bucal - Veja Agora.
+title: 5 Dicas de saúde bucal.
 description: >-
   Aprenda 5 dicas de saúde bucal. São dicas fáceis e simples mas quase ninguem
   prática no seu dia a dia. Com isso você pode melhorar muito seu sorriso.

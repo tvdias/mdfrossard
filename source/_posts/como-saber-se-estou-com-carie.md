@@ -1,5 +1,5 @@
 ---
-title: Como Saber se Estou com Cárie ? Leia tudo sobre esse tema agora.
+title: Como Saber se Estou com Cárie ? 
 description: >-
   Como saber se estou com cárie ? Leia o texto para descobrir mais sobre esse
   problema e como tratar. Caso necessário, deixe seu comentário com sua dúvida.

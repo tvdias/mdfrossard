@@ -1,5 +1,5 @@
 ---
-title: Dentadura Fixa - É possível ter os dentes fixos novamente ?
+title: Dentadura Fixa- É possível ter os dentes fixos ?
 description: >-
   Quer ter uma dentadura fixa ? Esse trabalho é possível e apresenta muitas
   vantagens. Para saber mais, leia o texto completo.

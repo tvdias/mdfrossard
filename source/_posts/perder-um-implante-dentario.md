@@ -1,5 +1,5 @@
 ---
-title: 'Será possível perder um Implante Dentário ? Tire todas as suas dúvidas. '
+title: 'Posso perder um Implante Dentário ?'
 description: >-
   Afinal, será que podemos perder um implante dentário ? Devemos ficar atentos
   para isso não acontecer. Leia o texto e evite esse problema.

@@ -1,5 +1,5 @@
 ---
-title: Perda de dentes e suas consequências- Aprenda tudo.
+title: Perda de dentes e suas consequências.
 description: >-
   A perda de dentes é uma ocorrência comum na odontologia. Porém, nem todos
   sabem o quanto é ruim essa situação, ocasionando problemas oclusais. Confira.

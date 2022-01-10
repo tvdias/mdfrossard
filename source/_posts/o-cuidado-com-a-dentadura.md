@@ -1,5 +1,5 @@
 ---
-title: Cuidado com a Dentadura - 6 Dicas Simples para serem aplicadas.
+title: Cuidado com a Dentadura - 6 Dicas Simples.
 description: >-
   Quais os cuidados com a dentadura que devemos ter ? Veja no texto 6 simples
   dicas de como cuidar dela e prolongar sua estética.

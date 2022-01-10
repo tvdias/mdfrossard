@@ -1,5 +1,5 @@
 ---
-title: Será que Implante Dentário dói ? Descubra agora e perca o medo.
+title: Será que Implante Dentário dói ? Descubra agora.
 description: >-
   Muitos querem colocar implante, mas ficam com dúvida se Implante Dentário Dói.
   Nesse texto explicamos sobre implantes e o controle da dor.

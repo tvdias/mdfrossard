@@ -1,5 +1,5 @@
 ---
-title: Faceta de Porcelana - 5 Razões para usar e mudar Seu sorriso
+title: Faceta de Porcelana - 5 Razões para mudar seu sorriso
 description: >-
   A Faceta de Porcelana pode mudar completamente o seu sorriso e auto-estima.
   Veja as principais indicações para você e mude também.

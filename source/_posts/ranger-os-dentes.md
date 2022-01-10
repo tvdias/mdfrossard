@@ -1,5 +1,5 @@
 ---
-title: Ranger os dentes é normal ? Saiba tudo sobre isso agora.
+title: Ranger os dentes é normal ? Saiba tudo.
 description: >-
   Ranger os Dentes é um hábito que esta se tornando comum em nossa população.
   Entretanto isso não necessariamente é bom. Confira agora a razão.

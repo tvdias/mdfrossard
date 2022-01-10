@@ -1,5 +1,5 @@
 ---
-title: Boca seca - Veja pequenas dicas que podem melhorar esse problema.
+title: Boca seca - Veja dicas para melhorar.
 description: >-
   A Boca Seca é um problema comum na nossa população. Porém, em muitos casos
   pode ser resolvida com algumas pequenas dicas. Veja agora.

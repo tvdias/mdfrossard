@@ -1,5 +1,5 @@
 ---
-title: Placa para Bruxismo - Um ótimo tratamento para o ranger dos dentes
+title: Placa para Bruxismo - O tratamento para o ranger dos dentes
 description: >-
   A placa para bruxismo é um tratamento fácil e rápido de ser realizado. Ela
   protege os dentes contra o ranger deles e pode diminuir a dor de cabeça.

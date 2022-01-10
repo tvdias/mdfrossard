@@ -1,5 +1,5 @@
 ---
-title: 'Por quê realizar o Check Up Digital ? Tire suas dúvidas agora. '
+title: 'Por quê realizar o Check Up Digital ? '
 description: >-
   O Check Up Digital possibilita o paciente a ver as imagens dos seus dentes.
   Assim, a comunicação com o dentista fica mais fácil. 

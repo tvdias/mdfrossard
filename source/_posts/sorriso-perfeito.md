@@ -1,5 +1,5 @@
 ---
-title: 'Sorriso Perfeito - Será possível você ter ? Tire suas dúvidas. '
+title: 'Sorriso Perfeito - Será possível você ter ? '
 description: >-
   Você já pensou em ter um Sorriso Perfeito e bonito? A odontologia apresenta
   diversos tratamentos que podem melhorar a estética dos dentes. Veja como.
