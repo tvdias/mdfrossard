@@ -54,7 +54,11 @@ Alguns depoimentos de pacientes sobre o nosso tratamento e atendimento : "Sempre
 
 **_"Sofia Ardo"_**
 
-## Precisa Marcar um Atendimento ?
+- - - 
+
+Para ver mais depoimentos sobre a clínica, [clique aqui.](https://mdfrossard.com.br/depoimentos/)
+
+## Precisa Marcar um Atendimento com um dentista na Barra da Tijuca?
 
 ![](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.jpg)   
 
