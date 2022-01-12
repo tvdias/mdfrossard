@@ -12,7 +12,7 @@ Estamos vivendo por mais tempo!
 
 Os números apresentados pela [nações unidas](http://www.sdh.gov.br/assuntos/pessoa-idosa/dados-estatisticos/dados-sobre-o-envelhecimento-no-brasil)mostram que “1 em cada 9 pessoas no mundo tem 60 anos ou mais e estima-se um crescimento para 1 em cada 5 por volta de 2050”. 
 
-No Brasil este fenômeno também ocorre. Segundo a [pesquisa de 2011 do IBGE](http://www.sdh.gov.br/assuntos/pessoa-idosa/dados-estatisticos/DadossobreoenvelhecimentonoBrasil.pdf) a população de idosos (acima de 60 anos), somam 23,5 milhões o dobro da pesquisa de 1991 quando se contabilizava 10,7 milhões de pessoas. 
+No Brasil este fenômeno também ocorre. Segundo a [pesquisa de 2011 do IBGE](https://www.ibge.gov.br) a população de idosos (acima de 60 anos), somam 23,5 milhões o dobro da pesquisa de 1991 quando se contabilizava 10,7 milhões de pessoas. 
 
 Alguns chegam à terceira idade com saúde boa, em ordem e aparentemente sem nenhum problema mais grave. 
 
