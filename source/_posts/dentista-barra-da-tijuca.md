@@ -75,7 +75,7 @@ Possuímos uma infra-estrutura que proporciona tranqüilidade ao nosso cliente. 
 
 Nosso atendimento é individual e portanto com hora marcada e sem atraso. Caso necessite de um **dentista na Barra da Tijuca** ligue para **(021) 3513-8479** para nós que estaremos a sua disposição para atendimento. 
 
-Além da clínica da Barra da Tijuca, possuimos uma segunda unidade em no [bairro de Botafogo/Humitá](https://mdfrossard.com.br/dentista-em-botafogo/). Nessa unidade também possuimos toda a infraestrutura que você precisa
+Além da clínica da Barra da Tijuca, possuimos uma segunda unidade em no [bairro de Botafogo](https://mdfrossard.com.br/dentista-em-botafogo/). Nessa unidade também possuimos toda a infraestrutura que você precisa
 
 Se tiver outra dúvida, deixe seu comentário abaixo que responderemos o mais rápido possível. 
 
