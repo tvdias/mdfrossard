@@ -64,4 +64,6 @@ Caso ainda tenha dúvidas, ligue para nós ou deixe seu comentário no post.
 
 **Para marcar uma consulta ligue para o telefone  021 3513-8479 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803).**
 
+Caso você precise de um [dentista na Barra da Tijuca](https://mdfrossard.com.br/dentista-barra-da-tijuca/), também possuimos uma unidade nesse bairro. Nela contamos com toda a infra-estrutura que você precisa. 
+
 Att, MD frossard Odontologia
