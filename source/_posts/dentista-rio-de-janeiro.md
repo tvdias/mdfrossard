@@ -18,9 +18,9 @@ Se esse é o seu caso, entre em {% post_link contato "contato" %} conosco para m
 
 Buscando o melhor atendimento para o nosso cliente, possuímos duas clinica dentárias no rio de janeiro. 
 
-A primeira clinica esta localizada a mais de 30 anos no bairro de **Botafogo**, ao lado da Cobal do Humaitá. 
+A primeira clinica esta localizada a mais de 30 anos no bairro de [**Botafogo**](https://mdfrossard.com.br/dentista-em-botafogo/), ao lado da Cobal do Humaitá. 
 
-A segunda clinica fica na **Barra da Tijuca**, no shopping Citta América. 
+A segunda clinica fica na [**Barra da Tijuca**](https://mdfrossard.com.br/dentista-barra-da-tijuca/), no shopping Citta América. 
 
 Ambas possuem toda a infra estrutura para você ter um dentista no Rio de Janeiro com qualidade e segurança.
 
