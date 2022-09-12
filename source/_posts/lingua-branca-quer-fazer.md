@@ -19,7 +19,9 @@ Ao longo do tempo, se você não limpar a língua, toda aquela "sujeira" vai acu
 
 ## Quais o problema de ter a língua branca?
 
-![Lingua Branca](/images/e94e07fa-8587-4cac-a86e-a3b034dd64aa_carga_imediata_em_implantes_denta_rios.jpg) 
+![Lingua Branca](/images/e94e07fa-8587-4cac-a86e-a3b034dd64aa_carga_imediata_em_implantes_denta_rios.jpg"Lingua branca") 
+
+![Odontologia estética](/images/0a437d8a-9b9a-48c8-a3a4-8255056fd779_odontologia-estetica.jpg "Odontologia estética") 
 
 E qual o grande problema disso? Se você pensou no mau hálito, está correto. Esse acúmulo de bactérias pode causar um cheiro forte na nossa boca. Alias, muitos pacientes chegam na nossa clínica com o problema do mau hálito. Em muitos casos, basta realizar uma melhor higiene dos dentes e língua que esse problema melhora bastante. 
 
