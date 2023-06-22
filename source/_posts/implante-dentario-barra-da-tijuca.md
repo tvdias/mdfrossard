@@ -2,7 +2,7 @@
 title: Implante Dentário na Barra da Tijuca
 description: >-
   Saiba tudo sobre a instalação de implante dentário na Barra da Tijuca. Volte a mastigar e sorrir com segurança.
-date: 2023-01-20T15:56:33.000Z
+date: 2023-06-20T10:00:33.000Z
 featured_image: /images/b340818e-20e6-4587-a475-becbd9e34f97_Implante-dentário-RJ-1.jpg
 ---
 
