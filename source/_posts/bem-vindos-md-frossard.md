@@ -20,4 +20,4 @@ Sejam bem vindos todos os nossos pacientes, amigos ou apenas curiosos, esse espa
 
 Abraço a todos, 
 
-Md Frossard Odontologia e Davi Frossard!
+Md Frossard Odontologia e Davi Frossard! jj
