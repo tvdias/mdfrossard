@@ -13,7 +13,7 @@ Nossa clínica esta localizado neste mesmo Bairro há mais 35 anos. Estamos loca
 
 **Para marcar uma consulta em nossa clínica de Botafogo ligue para o telefone (021) 3513-8479 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803).**
 
-## **Dentista em Botafogo ?**
+## **Dentista em Botafogo**
 
 ![dentista em Botafogo](/images/ffa0ae7c-6c17-4a72-8cb4-34199f5f5f93_Dentista-em-botafogo.jpg) 
 
@@ -66,7 +66,7 @@ Em nosso site possuímos uma área aonde explicamos cada tipo de tratamento e os
 
 Caso ainda tenha dúvidas, ligue para nós ou deixe seu comentário no post. 
 
-**Para marcar uma consulta ligue para o telefone (021) 3513-8479 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803).**
+Nosso atendimento é individual e portanto com hora marcada e sem atraso. Caso necessite de um **dentista em Botafogo** ligue para (021) 3513-8479 para nós que estaremos a sua disposição para atendimento.
 
 Caso você precise de um [dentista na Barra da Tijuca](https://mdfrossard.com.br/dentista-barra-da-tijuca/), também possuimos uma unidade nesse bairro. Nela contamos com toda a infra-estrutura que você precisa. 
 
