@@ -13,9 +13,13 @@ Nossa clínica esta localizado neste mesmo Bairro há mais 35 anos. Estamos loca
 
 **Para marcar uma consulta em nossa clínica de Botafogo ligue para o telefone (021) 3513-8479 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803).**
 
-## **Precisa de dentista em Botafogo ?**
+## **Dentista em Botafogo ?**
 
 ![dentista em Botafogo](/images/ffa0ae7c-6c17-4a72-8cb4-34199f5f5f93_Dentista-em-botafogo.jpg) 
+
+A MD Frossard Odontologia é uma clínica odontológica antiga e familiar no Rio de Janeiro. Com 38 anos de atendimento no bairro de Botafogo sempre levamos o melhor para nosso paciente.
+
+Nosso [equipe](https://mdfrossard.com.br/equipe/) possui diversos profissionais e são liderados pelos dentistas **Marcos e Davi Frossard.** 
 
 Temos o conceito moderno da odontologia, visando a saúde completa do indivíduo e não somente os dentes. Por isso focamos nosso atendimento na alta perfomance,  através de uma odontologia contemporânea focada em 3 pilares : **Relacionamento, confiança e pontualidade.** 
 
@@ -54,7 +58,7 @@ O nosso endereço fica na Rua Marques número 15. Para ver a nossa exata localiz
 Veja mais [depoimentos](https://mdfrossard.com.br/depoimentos/) sobre o nosso atendimento na clínica de Botafogo. 
 
 
-## Diversos tipos de tratamentos
+## Precisa marcar um atendimento com um dentista em Botafogo?
 
 Em nossa clínica, possuímos diversos tipos de tratamentos, como estética com facetas de porcelana, Implantes dentais, clareamento, Ortodontia entre outros. 
 
