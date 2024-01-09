@@ -11,7 +11,7 @@ Apresentando praias e pontos turísticos conhecidos no mundo todo. Nessa região
 
 Nossa clínica esta localizado neste mesmo Bairro há mais 35 anos. Estamos localizados ao lado da Cobal e perto do largo dos Leões.
 
-**Para marcar uma consulta ligue para o telefone (021) 3513-8479 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803).**
+**Para marcar uma consulta em nossa clínica de Botafogo ligue para o telefone (021) 3513-8479 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803).**
 
 ## **Precisa de dentista em Botafogo ?**
 
@@ -19,7 +19,7 @@ Nossa clínica esta localizado neste mesmo Bairro há mais 35 anos. Estamos loca
 
 Temos o conceito moderno da odontologia, visando a saúde completa do indivíduo e não somente os dentes. Por isso focamos nosso atendimento na alta perfomance,  através de uma odontologia contemporânea focada em 3 pilares : **Relacionamento, confiança e pontualidade.** 
 
-Para isso, temos um amplo espaço para o atendimentode diversars especialidades,tais como:
+Para isso, temos um amplo espaço para o atendimentode diversars especialidades, tais como:
 - Implante Dentário ;
 - Prótese Dentária ; 
 - Facetas ;
@@ -31,7 +31,7 @@ Caso precise de um **dentista em Botafogo** entre em contato conosco, basta clic
 
 O nosso endereço fica na Rua Marques número 15. Para ver a nossa exata localização, [clique aqui.](https://mdfrossard.com.br/localizacao/)
 
-## O que dizem sobre a nossa clínica odontológica na Barra da Tijuca
+## O que dizem sobre a nossa clínica odontológica em Botafogo
 
 "Minha experiência foi maravilhosa, aumentou muito minha autoestima, antes eu não sorria nas fotos, meus dentes não apareciam, depois do trabalho executado por Dr.Marcos, Dr.Davi e equipe, vivo sorrindo, sou outra pessoa, muito feliz e agradecida por tudo que recebi dessas pessoas, profissionais competentes e abençoados. Obrigada "
 
@@ -51,7 +51,7 @@ O nosso endereço fica na Rua Marques número 15. Para ver a nossa exata localiz
  
 - - - 
 
-Veja mais [depoimentos.](https://mdfrossard.com.br/depoimentos/) 
+Veja mais [depoimentos](https://mdfrossard.com.br/depoimentos/) sobre o nosso atendimento na clínica de Botafogo. 
 
 
 ## Diversos tipos de tratamentos
@@ -62,7 +62,7 @@ Em nosso site possuímos uma área aonde explicamos cada tipo de tratamento e os
 
 Caso ainda tenha dúvidas, ligue para nós ou deixe seu comentário no post. 
 
-**Para marcar uma consulta ligue para o telefone  021 3513-8479 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803).**
+**Para marcar uma consulta ligue para o telefone (021) 3513-8479 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803).**
 
 Caso você precise de um [dentista na Barra da Tijuca](https://mdfrossard.com.br/dentista-barra-da-tijuca/), também possuimos uma unidade nesse bairro. Nela contamos com toda a infra-estrutura que você precisa. 
 
