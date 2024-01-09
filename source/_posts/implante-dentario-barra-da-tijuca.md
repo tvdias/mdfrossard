@@ -16,8 +16,7 @@ Agora, imagine outra situação: um paciente jovem com dentes bonitos e perfeito
 
 Felizmente, o implante dentário pode e deve substituir o dente ausente por outro que possua estética igual. É por meio de histórias como essa que gostaríamos de falar sobre **implantes dentários na Barra da Tijuca.**
 
-Mas por que Implante Dentário na Barra da Tijuca
-------------------------------------------------
+## Mas por que Implante Dentário na Barra da Tijuca
 
 ![Dentista barra da tijuca ](/images/76345c37-98a0-457b-a71c-4dd16603ca51_Dentista-barra-da-tijuca-4-1024x682.jpg) 
 
