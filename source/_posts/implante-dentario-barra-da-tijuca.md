@@ -20,7 +20,7 @@ Felizmente, o implante dentário pode e deve substituir o dente ausente por outr
 
 ![Dentista barra da tijuca ](/images/76345c37-98a0-457b-a71c-4dd16603ca51_Dentista-barra-da-tijuca-4-1024x682.jpg) 
 
-Referindo-me especificamente ao bairro da Barra da Tijuca, onde está localizada uma de nossas clínicas (a outra está em Botafogo), oferecemos o implante dentário como um substituto da raiz do dente perdido. Esse implante será utilizada para construir um novo dente que se harmonize em cor e formato com os dentes ao redor.
+Referindo-me especificamente ao bairro da [Barra da Tijuca](https://mdfrossard.com.br/dentista-barra-da-tijuca/), onde está localizada uma de nossas clínicas (a outra está em [Botafogo](https://mdfrossard.com.br/dentista-em-botafogo/)), oferecemos o implante dentário como um substituto da raiz do dente perdido. Esse implante será utilizada para construir um novo dente que se harmonize em cor e formato com os dentes ao redor.
 
 O implante dentário é feito de uma liga de titânio, o que o torna biocompatível com nosso organismo, evitando rejeições. No entanto, é importante ressaltar que, sem uma adequada higienização, podemos correr o risco de perder um implante dentário.
 
