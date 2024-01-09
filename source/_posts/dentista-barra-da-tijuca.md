@@ -38,9 +38,13 @@ Além disso, queremos que o seu tratamento seja memorável, por isso ele é per
 
 Eles sempre estarão presentes e acessíveis para te atender da melhor maneira em nossa clínica na Barra da Tijuca. 
 
+Além disso, para ver e conhecer mais sobre a nossa clínica na Barra da Tijuca, basta [clicar aqui](https://mdfrossard.com.br/estrutura/) para ver fotos e vídeo sobre nossa estrutura. 
+
 ## O que dizem sobre nossa clínica na Barra da Tijuca
 
-Alguns depoimentos de pacientes sobre o nosso tratamento e atendimento : "Sempre tive pânico de dentista, algo que me impediu de ir ao dentista por 15 anos, praticamente. Chorava, fugia, verdadeiro terror! Quando encontrei a MD Frossard estava apavorada mas decidida e eles foram essenciais para que eu finalmente superasse e me cuidasse. Desde o atendimento por telefone, ate a consulta, e dia apos dia, me senti abraçada por uma equipe inteira, o que fez toda a diferença!! O trabalho feito por eles me mudou esteticamente e funcionalmente. Agradeço demais e recomendo, sao excelentes profissionais! Dr Davi, Dr Marcos, a querida Lili e todo o time, vocês sao demais!!
+Alguns depoimentos de pacientes sobre o nosso tratamento e atendimento : 
+
+"Sempre tive pânico de dentista, algo que me impediu de ir ao dentista por 15 anos, praticamente. Chorava, fugia, verdadeiro terror! Quando encontrei a MD Frossard estava apavorada mas decidida e eles foram essenciais para que eu finalmente superasse e me cuidasse. Desde o atendimento por telefone, ate a consulta, e dia apos dia, me senti abraçada por uma equipe inteira, o que fez toda a diferença!! O trabalho feito por eles me mudou esteticamente e funcionalmente. Agradeço demais e recomendo, sao excelentes profissionais! Dr Davi, Dr Marcos, a querida Lili e todo o time, vocês sao demais!!
 
 **_"Larissa Rodrigues"_**
 
