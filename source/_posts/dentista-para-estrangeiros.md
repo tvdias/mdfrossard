@@ -28,7 +28,7 @@ Com ele, nos disponibilizamos um tratamento otimizado com qualidade para resolve
 
 Caso tenha se identificado com as situações acima expostas, entre em contato conosco e buscaremos a melhor forma para atendê-lo. 
 
-De curiosidade coloquei [essa reportagem](http://noticias.uol.com.br/saude/ultimas-noticias/redacao/2014/07/09/gringos-que-vieram-pra-copa-aproveitam-para-tratar-os-dentes-no-brasil.htm) de como os "gringos" aproveitaram a copa para também tratar dos dentes 
+De curiosidade coloquei [essa reportagem](http://noticias.uol.com.br/saude/ultimas-noticias/redacao/2014/07/09/gringos-que-vieram-pra-copa-aproveitam-para-tratar-os-dentes-no-brasil.htm) de como os estrangeiros aproveitaram a copa para também tratar dos dentes 
 
 Att.: 
 
