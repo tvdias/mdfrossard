@@ -1,14 +1,14 @@
 ---
 title: Implante Dentário na Barra da Tijuca
 description: >-
-  Saiba tudo sobre a instalação de implante dentário na Barra da Tijuca. Volte a mastigar e sorrir com segurança.
+Implante dentário na Barra da Tijuca. Saiba tudo sobre o procedimento e volte a mastigar e sorrir com segurança.
 date: 2023-06-20T10:00:33.000Z
 featured_image: /images/b340818e-20e6-4587-a475-becbd9e34f97_Implante-dentário-RJ-1.jpg
 ---
 
 Infelizmente, perder um dente ainda pode acontecer devido a traumas, cáries ou doenças periodontais. No entanto, ficar sem o dente não é uma opção quando se trata de oferecermos o tratamento de **implantes dentários na Barra da Tijuca.**
 
-A instalação de implantes dentários tem o poder de transformar a vida, a saúde e o bem-estar de muitas pessoas. Vivenciamos esse cenário em nossa rotina clínica diariamente. Até hoje, recebemos pacientes que passaram anos usando {% post_link e-possivel-ter-uma-dentadura-fixa "prótese removível" %}, enfrentando dificuldades na mastigação e receio de sorrir.
+A instalação de implantes dentários tem o poder de transformar a vida, a saúde e o bem-estar de muitas pessoas. Vivenciamos esse cenário em nossa rotina clínica diariamente. Até hoje, recebemos pacientes que passaram anos usando uma [prótese removível](https://mdfrossard.com.br/e-possivel-ter-uma-dentadura-fixa/) enfrentando dificuldades na mastigação e receio de sorrir.
 
 Imagine a transformação que ocorre na vida dessas pessoas quando concluímos o tratamento com uma prótese fixa sobre implantes. Isso proporciona uma mastigação correta e segura, permitindo que sorriam sem medo.
 
@@ -25,6 +25,16 @@ Referindo-me especificamente ao bairro da Barra da Tijuca, onde está localizada
 
 O implante dentário é feito de uma liga de titânio, o que o torna biocompatível com nosso organismo, evitando rejeições. No entanto, é importante ressaltar que, sem uma adequada higienização, podemos correr o risco de perder um implante dentário.
 
-A cirurgia de implante é realizada com critério, e explicamos detalhadamente aos pacientes como será o procedimento e o {% post_link pos-operatorio-apos-uma-extracao-de-dente "pós operatório" %}. A instalação do implante é realizada sob anestesia local e apresenta altas taxas de sucesso. No entanto, como se trata de um procedimento cirúrgico, podem ocorrer dor e inchaço, os quais serão acompanhados de perto.
+A cirurgia de implante é realizada com critério, e explicamos detalhadamente aos pacientes como será o procedimento e o [pós operatório.](https://mdfrossard.com.br/extracao-de-dente/) A instalação do implante é realizada sob anestesia local e apresenta altas taxas de sucesso. No entanto, como se trata de um procedimento cirúrgico, podem ocorrer dor e inchaço, os quais serão acompanhados de perto.
 
 Portanto, você pode realizar seu **implante dentário com segurança na Barra da Tijuca.** Em nosso site, temos diversos outros textos explicando não apenas sobre implantes, mas também sobre {% post_link coroa-dentaria "próteses" %} que melhoram a estética do dente perdido.
+
+## Precisa realizar um implante dentário na Barra da Tijuca ?
+
+Você pode realizar a sua cirurgia de implantes em nossas clínicas, tanto no Bairro de Botafogo como na Barra da Tijuca. 
+
+Para isso você pode ligar no telefone **(021) 3513-8479** ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803)
+
+Ligue para nós para tirar suas dúvidas e marcar sua consulta. 
+
+Att, MD Frossard Odontologia
