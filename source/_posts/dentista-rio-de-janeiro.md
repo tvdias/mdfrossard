@@ -11,7 +11,7 @@ O [Rio de Janeiro](https://pt.wikipedia.org/wiki/Rio_de_Janeiro) é uma das cida
 
 Diversas pessoas vem visitar e conhecer os encantos da cidade maravilhosa. Devido ao grande números de visitantes seja a trabalho ou turismo, pode acontecer de alguns precisarem de tratamento de saúde ou de **dentista no Rio de Janeiro**. 
 
-Se esse é o seu caso e você precise de um dentista no Rio de Janeiro, entre em contato conosco pelo telefone (021) 3513-8479 ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) para marcar sua consulta.
+Se esse é o seu caso e você precise de um dentista no Rio de Janeiro, entre em contato conosco pelo telefone **(021) 3513-8479** ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) para marcar sua consulta.
 
 Nossa clínica odontológica na cidade do Rio de Janeiro possui mais de 37 anos de atendimento e possui dois endereços. Uma no bairro de [Botafogo](https://mdfrossard.com.br/dentista-em-botafogo/) e outra na [Barra da tijuca.](https://mdfrossard.com.br/dentista-barra-da-tijuca/)
 
@@ -51,7 +51,7 @@ Ambas possuem toda a infra estrutura para você ter um dentista no Rio de Janeir
 
 ## **Precisa marcar um Dentista no Rio de Janeiro**
 
-Para marcar uma consulta em nossas clínica no Rio de Janeiro, você pode ligar para o telefone (021) 3513-8479 ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803)
+Para marcar uma consulta em nossas clínica no Rio de Janeiro, você pode ligar para o telefone **(021) 3513-8479** ou mande uma [mensagem via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803)
 
 Caso queira ver a localização das nossas clínicas, você pode [clicar aqui](https://mdfrossard.com.br/localizacao/) 
 
