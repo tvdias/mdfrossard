@@ -6,7 +6,7 @@ description: >-
 date: 2014-05-12T11:02:32.000Z
 featured_image: /images/c38afdde-c86d-40ff-8923-a105ca8f16ed_dentista-na-barra-da-tijuca.jpg
 ---
-**Precisa de dentista na Barra da Tijuca ?** 
+## Precisa de dentista na Barra da Tijuca ?
 
 A Barra da Tijuca tem crescido muito nos últimos anos. Com suas praias deslumbrantes e vários empreendimentos comerciais, esse bairro é realmente incrível.
 
