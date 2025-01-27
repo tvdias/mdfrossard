@@ -1,7 +1,7 @@
 ---
 title: Dentistas Barra da Tijuca – Excelência em Odontologia na Sua Região
 description: Excelência em odontologia com dentistas na Barra da Tijuca. Atendimento personalizado e de alto padrão.
-date: 2025-01-20t11:02:32.000Z
+date: 2024-01-20t11:02:32.000Z
 featured_image: /images/atendimento_davi_novo.jpg
 ---
 ## Localização Privilegiada dentistas na Barra da Tijuca
