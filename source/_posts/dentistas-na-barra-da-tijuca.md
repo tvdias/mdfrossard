@@ -10,7 +10,7 @@ Localizada no Shopping Città América, na Av. das Américas, 700, Bloco 2, Sala
 
 ## Equipe Especializada e Infraestrutura de Ponta
 
-![equipe dentistas na barra da tijuca](/images/equipe_md_completa.jpg)   
+![equipe dentistas na barra da tijuca](mdfrossard/source/images/uploads/2024/equipe_md_completa.jpg)   
 
 Contamos com uma equipe de especialista, capacitados para atuar em todas as [áreas da odontologia](https://mdfrossard.com.br/tratamentos/implante-dentario/), como ortodontia, implantodontia, estética dental, endodontia e muito mais. Além disso, nossa infraestrutura moderna foi projetada para oferecer conforto, segurança e tecnologia, garantindo resultados de excelência em todos os procedimentos realizados. Na nossa clínica, cada atendimento é único, porque acreditamos que cada sorriso tem uma história especial para contar. Se você procura **dentistas na Barra da Tijuca** com atendimento de alto padrão, estamos prontos para cuidar de você.
 
