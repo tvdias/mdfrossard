@@ -7,7 +7,9 @@ featured_image: /images/uploads/2024/atendimento_davi_novo.jpg
 
 ## Localização Privilegiada dentistas na Barra da Tijuca
 
-Localizada no Shopping Città América, na Av. das Américas, 700, Bloco 2, Sala 143, nossa clínica dentária é referência em tratamentos odontológicos de alto padrão na Barra da Tijuca, Rio de Janeiro. Com mais de 38 anos de experiência, oferecemos atendimento personalizado que une tradição e inovação. Nossa missão é proporcionar aos pacientes mais do que sorrisos bonitos: queremos garantir saúde, confiança e bem-estar. Por isso, somos uma das escolhas mais procuradas por quem busca **[dentistas na Barra da Tijuca.](https://mdfrossard.com.br)**
+Localizada no Shopping Città América, na Av. das Américas, 700, Bloco 2, Sala 143, nossa clínica dentária é referência em tratamentos odontológicos de alto padrão na Barra da Tijuca, Rio de Janeiro. Com mais de 38 anos de experiência, oferecemos atendimento personalizado que une tradição e inovação. 
+
+Nossa missão é proporcionar aos pacientes mais do que sorrisos bonitos: queremos garantir saúde, confiança e bem-estar. Por isso, somos uma das escolhas mais procuradas por quem busca **[dentistas na Barra da Tijuca.](https://mdfrossard.com.br)**
 
 ## Equipe Especializada e Infraestrutura de Ponta
 
@@ -38,6 +40,7 @@ Quando você procura **dentistas na Barra da Tijuca**, pode ter certeza de que e
 ## Agende Sua Consulta
 
 Agende sua consulta agora mesmo e venha conhecer nossa clínica! Entre em contato pelo telefone (021) 3513-8479 ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) e descubra por que somos referência em dentistas na Barra da Tijuca. 
+
 Acompanhe também nossas novidades e dicas de saúde bucal em nossas redes sociais: [Instagram.](https://www.instagram.com/md_frossard_odontologia/) O seu sorriso merece o melhor, e estamos aqui para proporcionar isso a você.
 
 
