@@ -24,6 +24,7 @@ O diferencial da nossa clínica também está no reconhecimento de nossos pacien
 
 Outro paciente, **Clau**, destaca:
 "Após diversas pesquisas, optei por consultar os doutores Marcus Frossard e David Frossard. Profissionais altamente qualificados que me transmitiram segurança e tranquilidade. Além disso, a estrutura física e os recursos tecnológicos da clínica são impecáveis, garantindo atendimento de excelência."
+
 Confira mais avaliações e depoimentos de pacientes em nossa página de [depoimentos.](https://mdfrossard.com.br/depoimentos/)
 
 ## Compromisso com Qualidade e Inovação
