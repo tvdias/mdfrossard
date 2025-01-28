@@ -31,7 +31,7 @@ Seja na Barra da Tijuca ou em Botafogo, cada consulta é planejada para atender 
 
 ## Compromisso com a Satisfação dos Pacientes
 
-![md odontologia marcos](images/uploads/2024/marcos_consultorio.jpg)   
+![md odontologia marcos](/images/uploads/2024/marcos_consultorio.jpg)   
 
 O cuidado que dedicamos aos nossos pacientes é reconhecido em cada depoimento. 
 
