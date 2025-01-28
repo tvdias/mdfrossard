@@ -1,6 +1,6 @@
 ---
 title: MD Odontologia – Excelência em Odontologia no Rio de Janeiro
-description: MD Odontologia: 38 anos de excelência em prótese, implantes e estética dental, com unidades na Barra e Botafogo. Agende sua consulta!
+description: MD Odontologia 38 anos de excelência em prótese, implantes e estética dental, com unidades na Barra e Botafogo. Agende sua consulta!
 date: 2024-07-03T10:00:53.000Z
 featured_image: /images/uploads/2024/md_odontologia_barra.jpg
 ---
