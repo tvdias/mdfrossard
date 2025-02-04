@@ -34,7 +34,7 @@ Caso queira falar conosco para **marcar uma consulta**, você pode:
 * Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) (é só clicar) ; 
 * Ligar para [3513-8479](tel:2135138479).
 
-## **Quais tipos de alterações de cor podemos ter **
+## Quais tipos de alterações de cor podemos ter
 
 Podemos ter diversas alterações de cores, algumas são fáceis de serem removidas outras são complicadas, necessitando de tratamentos mais invasivos. 
 
@@ -54,7 +54,7 @@ São elas as fluoroses, manchas por tetraciclinas, traumatismos e a dentinogêne
 
 Para saber mais sobre elas é so clicar nesse link - **{% post_link mancha-nos-dentes "Saiba mais sobre as manchas nos dentes." %}**
 
-## **As 3 diferentes maneiras de se realizar o clareamento dental **
+## As 3 diferentes maneiras de se realizar o clareamento dental 
 
 Antes de realizar um clareamento dental, realizamos uma seqüência de {% post_link fotos-e-imagens-odontologia "fotos intra e extra oral" %} do sorriso do paciente, além de anotar a cor inicial do dente. 
 
@@ -72,6 +72,7 @@ Dúvidas comuns são :
 
 Portanto, nesse tópico, vamos explicar com detalhes quais são os diferentes tipos de clareamento.
 
+
 #### **1 ) Clareamento dental caseiro**
 
 ![clareamento dental caseiro](/images/123d72d1-a2aa-4d76-8429-73076d9b1f80_clareamento-dental-caseiro.jpg) 
@@ -82,7 +83,7 @@ Nele, o paciente usa uma moldeira contendo o gel clareador em sua casa, sob supe
 
 Esse método é mais econômico e menos agressivo para o dente, porém os resultados podem demorar mais a aparecer. 
 
-* **Moldeira para o clareamento **
+* **Moldeira para o clareamento**
 
 A primeira etapa do tratamento é a confecção da moldeira individual. 
 
@@ -90,7 +91,7 @@ Esse molde é personalizado para a sua dentição e apresenta a vantagem da melh
 
 Assim, além de diminuir o desconforto para o cliente, melhora a eficácia do clareamento dental, pois mantém o gel o mais próximo dos dentes.
 
-* **Posso utilizar uma moldeira pré fabricada, dessas que se compra na farmácia? **
+* **Posso utilizar uma moldeira pré fabricada, dessas que se compra na farmácia?**
 
 Nós acreditamos que essas moldeiras não são fiéis a dentição do paciente, já que não são personalizadas e individualizadas. 
 
@@ -98,7 +99,7 @@ Assim, ao utilizar este tipo de moldeira, o paciente pode sofrer com desadaptaç
 
 Elas acarretam injúrias à gengiva, além de permitir a existência de áreas onde o gel clareador não fica próximo aos dentes, diminuindo sua eficácia do tratamento.
 
-* **Afinal, como devemos colocar o gel clareador na moldeira? **
+* **Afinal, como devemos colocar o gel clareador na moldeira?**
 
 Na verdade, não precisamos encher a moldeira com o gel, apenas aplicar uma gota na região anterior dos dentes (parte da frente, onde bochechas e lábios tocam). 
 
@@ -115,9 +116,13 @@ Vale lembrar que, além da higienização da moldeira, todos os dentes devem ser
 
 No clareamento dental caseiro o paciente pode levar mais tempo para perceber os efeitos do tratamento, já que o gel tem uma concentração de ativo menor. 
 
+
+
 ---
 {% youtube eWWPt9xw1m0 %}
 ---
+
+
 
 #### **2 ) Clareamento de consultório**
 
@@ -167,11 +172,16 @@ Para pacientes com maior sensibilidade após as consultas de branqueamento, pode
 
 O mais importante é que a sensibilidade deve ser relatada ao dentista, assim ele pode avaliar, junto ao paciente, a melhor maneira de suportar ou reverter a situação.  {% post_link sensibilidade-nos-dentes "Veja mais sobre Sensibilidade nos Dentes ( Link ). " %}
 
+
+----
 ## Vídeo sobre Clareamento Dental
 
-{% youtube a73Ehly6FjE %}
 
-## **4 Cuidados durante e após o clareamento dental **
+{% youtube a73Ehly6FjE %}
+---
+
+
+## **4 Cuidados durante e após o clareamento dental**
 
 #### **1) Quais alimentos devo evitar **
 
@@ -205,7 +215,7 @@ Em algumas situações os clientes usam as pastas de dente que prometem o branqu
 
 Elas não devem ser usadas durante o clareamento dental, pois possuem um mecanismo de ação diferente dos géis clareadores, sendo mais abrasivas e causando uma maior sensibilidade.  
 
-## **Orientação do dentista **
+## Orientação do dentista 
 
 ![medo de dentista e os adutos](/images/110ed6be-4d06-4d2c-a7df-90d7e7b1d5f9_medo-de-dentista-e-os-adutos.jpg) 
 
@@ -215,4 +225,4 @@ O gel clareador é agressivo para a gengiva e pode causar algumas lesões, além
 
 Por isso, o dentista é a pessoa que vai orientar o paciente da melhor maneira, evitando que esses problemas ocorram. 
 
-Att ,  **Davi Frossard **
+Att ,  **Davi Frossard**
