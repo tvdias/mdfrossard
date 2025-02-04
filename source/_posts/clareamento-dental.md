@@ -51,17 +51,21 @@ Existem três formas principais de realizar o clareamento dental, e a escolha do
 
 ![clareamento dental caseiro](/images/123d72d1-a2aa-4d76-8429-73076d9b1f80_clareamento-dental-caseiro.jpg) 
 
-O clareamento dental caseiro é feito com o uso de uma moldeira personalizada, que o paciente utiliza em casa sob orientação do dentista. O gel clareador tem menor concentração, o que torna o processo mais gradual e menos agressivo aos dentes. O paciente aplica o gel na moldeira e usa por algumas horas diariamente, conforme prescrição do dentista.
+O clareamento dental caseiro é feito com o uso de uma moldeira personalizada, que o paciente utiliza em casa sob orientação do dentista. O gel clareador tem menor concentração, o que torna o processo mais gradual e menos agressivo aos dentes. 
+
+O paciente aplica o gel na moldeira e usa por algumas horas diariamente, conforme prescrição do dentista.
 
 **2) Clareamento Dental de Consultório**
 
-![clareamento dental laser](/images/915c1c29-d43d-4ca0-ab9d-c50be871a664_clareamento-dental-laser.jpg) 
+O clareamento dental de consultório é realizado pelo dentista, com o uso de géis mais potentes e técnicas que aceleram o processo, como o uso de luzes especiais. 
 
-O clareamento dental de consultório é realizado pelo dentista, com o uso de géis mais potentes e técnicas que aceleram o processo, como o uso de luzes especiais. O dentista protege a gengiva e aplica o gel clareador diretamente nos dentes, garantindo resultados rápidos e eficazes.
+O dentista protege a gengiva e aplica o gel clareador diretamente nos dentes, garantindo resultados rápidos e eficazes.
 
 **3) Clareamento Combinado (Caseiro + Consultório)**
 
-Essa técnica combina o clareamento de consultório com o caseiro, proporcionando resultados mais rápidos e duradouros. O paciente faz algumas sessões no consultório e continua o tratamento em casa com a moldeira personalizada. É uma abordagem muito eficiente, pois potencializa o efeito do clareamento.
+Essa técnica combina o clareamento de consultório com o caseiro, proporcionando resultados mais rápidos e duradouros. O paciente faz algumas sessões no consultório e continua o tratamento em casa com a moldeira personalizada. 
+
+É uma abordagem muito eficiente, pois potencializa o efeito do clareamento.
 
 
 ---
@@ -102,13 +106,15 @@ Se você sentir sensibilidade, é importante informar o dentista. Ele poderá aj
 
 ![medo de dentista e os adutos](/images/110ed6be-4d06-4d2c-a7df-90d7e7b1d5f9_medo-de-dentista-e-os-adutos.jpg) 
 
-O clareamento dental deve sempre ser feito sob a orientação de um dentista. O uso inadequado de produtos clareadores pode causar danos ao esmalte dental e à gengiva. O acompanhamento profissional garante um tratamento seguro, eficaz e com resultados duradouros.
+O clareamento dental deve sempre ser feito sob a orientação de um dentista. O uso inadequado de produtos clareadores pode causar danos ao esmalte dental e à gengiva. 
+
+O acompanhamento profissional garante um tratamento seguro, eficaz e com resultados duradouros.
 
 ## ENTRE EM CONTATO CONOSCO
 
 Quer um sorriso mais branco e saudável? Agende uma consulta conosco:
 
-[WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) Clique aqui para enviar uma mensagem 
+[WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) Clique para enviar uma mensagem 
 
 Telefone: (021) 3513-8479
 
