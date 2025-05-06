@@ -1,5 +1,8 @@
 ---
 title: Conheça o check up digital preventivo para os dentes.
+description: >-
+  O check up digital preventivo é a nova e melhor forma de realizar as revisões
+  no dentista de maneira tranquila e segura. Veja agora. 
 tags:
   - camera intra oral
   - dentista
@@ -92,4 +95,4 @@ Como explicado durante todo o texto, temos diversas vantagens, principalmente o 
 A grande desvantagem é não realizar as consultas de prevenção, que no futuro provavelmente o problema com os dentes será bem maior.
 
 Att,
-MD Frossard Odontologia  
+MD Frossard Odontologia
