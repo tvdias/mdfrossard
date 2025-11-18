@@ -1,5 +1,5 @@
 ---
-title: 'Dentista na Barra da Tijuca'
+title: 'Dentista na Barra da Tijuca – MD Frossard Odontologia'
 description: >-
   Dentista na Barra da Tijuca com todos os tipos de Tratamentos Dentários e o
   conforto que você precisa. Nossa Clínica Dentária fica no Citta América.
