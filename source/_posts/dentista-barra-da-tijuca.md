@@ -30,6 +30,16 @@ A Barra da Tijuca se tornou um dos bairros mais completos e acessíveis do Rio d
 
 Além desses benefícios, nossa unidade foi planejada para oferecer uma experiência premium desde a recepção até o pós-tratamento.
 
+## Sobre a MD Frossard Odontologia – Unidade Barra da Tijuca
+
+Com 38 anos de tradição no Rio de Janeiro, a MD Frossard expandiu sua excelência para atender a demanda de quem busca um dentista na Barra da Tijuca de confiança. A [clínica](https://mdfrossard.com.br/equipe/) é liderada pelos especialistas:
+
+Dr. Marcos Frossard — Prótese e reabilitação oral;
+Dr. Davi Frossard — Implantes e Prótese ;
+Dra. Luciana Peroni — Prótese e Endodontia ;
+
+Todos também atuam em odontologia estética, oferecendo soluções completas para saúde e beleza do sorriso.
+
 ## O que dizem sobre nossa clínica na Barra da Tijuca
 
 Alguns depoimentos de pacientes sobre o nosso tratamento e atendimento : 
