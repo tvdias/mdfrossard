@@ -140,7 +140,7 @@ Cada tratamento é individualizado e realizado sem atrasos — exatamente como n
 
 Se você procura um atendimento premium, humanizado e com resultados comprovados, entre em contato:
 
-📞 Telefone: (21) 3513-8479
+📞 Telefone: (21) 3500-1436
 
 💬 WhatsApp: [Envie uma mensagem e agende sua avaliação]((https://api.whatsapp.com/send?phone=55021976637803))
 
