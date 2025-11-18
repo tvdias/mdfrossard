@@ -121,23 +121,30 @@ Alguns depoimentos de pacientes sobre o nosso tratamento e atendimento :
 
 Para ver mais depoimentos sobre a clínica, [clique aqui.](https://mdfrossard.com.br/depoimentos/)
 
-## Precisa Marcar um Atendimento com um dentista na Barra da Tijuca?
+## Tratamentos oferecidos na unidade da Barra da Tijuca
 
- 
+Atendemos todas as especialidades:
 
-Nossa infraestrutura proporciona tranquilidade aos nossos clientes. Atendemos todas as especialidades e tratamentos:
+- Implantes dentários
+- Facetas de porcelana
+- Prótese dentária
+- Clareamento dental
+- Endodontia
+- Tratamento de gengiva
+- Reabilitação oral
+- Estética do sorriso
 
-* Implantes Dentários ;
-* Facetas de Porcelana ;
-* Prótese dental ;
-* Clareamento Dental ;
-* Tratamento da gengiva ;
-* Entre outros.
+Cada tratamento é individualizado e realizado sem atrasos — exatamente como nossos pacientes esperam.
 
-Nosso atendimento é individual e portanto com hora marcada e sem atraso. Caso necessite de um **dentista na Barra da Tijuca** ligue para **(021) 3513-8479**. Estamos à sua disposição! 
+## Agende sua consulta com um dentista na Barra da Tijuca
 
-Além da clínica da Barra da Tijuca, possuimos uma segunda unidade no [bairro de Botafogo](https://mdfrossard.com.br/dentista-em-botafogo/). Nessa unidade também possuimos toda a infraestrutura que você precisa
+Se você procura um atendimento premium, humanizado e com resultados comprovados, entre em contato:
 
-Se tiver outra dúvida, deixe seu comentário abaixo que responderemos o mais rápido possível. 
+📞 Telefone: (21) 3513-8479
 
-Att, MD Frossard Odontologia
+💬 WhatsApp: [Envie uma mensagem e agende sua avaliação]((https://api.whatsapp.com/send?phone=55021976637803))
+
+📍 Endereço: [Shopping Città America – Bloco 2 / Sala 143 – Barra da Tijuca](https://dentista.mdfrossard.com.br/localizacao-v2)
+
+A MD Frossard Odontologia está pronta para oferecer o melhor cuidado ao seu sorriso.
+
