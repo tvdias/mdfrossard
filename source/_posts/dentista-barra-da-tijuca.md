@@ -33,6 +33,7 @@ Além desses benefícios, nossa unidade foi planejada para oferecer uma experiê
 ## Sobre a MD Frossard Odontologia – Unidade Barra da Tijuca
 
 Com 38 anos de tradição no Rio de Janeiro, a MD Frossard expandiu sua excelência para atender a demanda de quem busca um dentista na Barra da Tijuca de confiança. 
+
 A [clínica](https://mdfrossard.com.br/equipe/) é liderada pelos especialistas:
 
 - Dr. Marcos Frossard — Prótese e reabilitação oral;
@@ -40,6 +41,29 @@ A [clínica](https://mdfrossard.com.br/equipe/) é liderada pelos especialistas:
 - Dra. Luciana Peroni — Prótese e Endodontia ;
 
 Todos também atuam em odontologia estética, oferecendo soluções completas para saúde e beleza do sorriso.
+
+## O que avaliamos na primeira consulta com um dentista na Barra da Tijuca?
+
+Na MD Frossard, a primeira consulta é fundamental para criar um plano de tratamento preciso, moderno e personalizado. 
+
+Avaliamos:
+
+- Saúde das gengivas
+- Oclusão e desgaste dentário
+- Estética do sorriso
+- Integridade das restaurações
+- Necessidade de prevenção ou reabilitação
+- Exames complementares (radiografias, scanners e fotos)
+
+Nosso objetivo é entregar uma avaliação extremamente detalhada, permitindo que você entenda cada etapa do seu tratamento.
+
+## Equipe sempre presente e acessível
+
+Um dos nossos maiores diferenciais é que os dentistas responsáveis sempre acompanham seu caso de perto. 
+
+Você não encontra rotatividade ou atendimentos rápidos — aqui, cada paciente recebe atenção individual, pontualidade e acompanhamento contínuo.
+
+![](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.jpg)  
 
 ## O que dizem sobre nossa clínica na Barra da Tijuca
 
@@ -67,7 +91,7 @@ Para ver mais depoimentos sobre a clínica, [clique aqui.](https://mdfrossard.co
 
 ## Precisa Marcar um Atendimento com um dentista na Barra da Tijuca?
 
-![](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.jpg)   
+ 
 
 Nossa infraestrutura proporciona tranquilidade aos nossos clientes. Atendemos todas as especialidades e tratamentos:
 
