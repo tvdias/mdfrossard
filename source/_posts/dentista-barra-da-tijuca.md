@@ -63,7 +63,7 @@ Um dos nossos maiores diferenciais é que os dentistas responsáveis sempre acom
 
 Você não encontra rotatividade ou atendimentos rápidos — aqui, cada paciente recebe atenção individual, pontualidade e acompanhamento contínuo.
 
-![](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.jpg)  
+![dentista barra da tijuca atendimento](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.jpg)  
 
 ## Localização privilegiada na Barra da Tijuca
 
