@@ -17,8 +17,6 @@ Para ver a nossa exata localização, [clique aqui.](https://mdfrossard.com.br/l
 
 ## Por que escolher um dentista na Barra da Tijuca?
 
-![Dentista barra da tijuca ](/images/76345c37-98a0-457b-a71c-4dd16603ca51_Dentista-barra-da-tijuca-4-1024x682.jpg) 
-
 A Barra da Tijuca se tornou um dos bairros mais completos e acessíveis do Rio de Janeiro. Escolher um dentista na Barra da Tijuca proporciona:
 
 - Mais praticidade e economia de tempo ;
@@ -29,6 +27,8 @@ A Barra da Tijuca se tornou um dos bairros mais completos e acessíveis do Rio d
 - Mobilidade facilitada para quem trabalha ou mora na região.
 
 Além desses benefícios, nossa unidade foi planejada para oferecer uma experiência premium desde a recepção até o pós-tratamento.
+
+![Dentista barra da tijuca ](/images/76345c37-98a0-457b-a71c-4dd16603ca51_Dentista-barra-da-tijuca-4-1024x682.jpg) 
 
 ## Sobre a MD Frossard Odontologia – Unidade Barra da Tijuca
 
@@ -48,9 +48,9 @@ Na MD Frossard, a primeira consulta é fundamental para criar um plano de tratam
 
 Avaliamos:
 
-- Saúde das gengivas
+- Saúde das [gengivas](https://mdfrossard.com.br/tratamentos/periodontia/)
 - Oclusão e desgaste dentário
-- Estética do sorriso
+- [Estética do sorriso](https://dentista.mdfrossard.com.br/transformacoes-do-sorriso-v2)
 - Integridade das restaurações
 - Necessidade de prevenção ou reabilitação
 - Exames complementares (radiografias, scanners e fotos)
