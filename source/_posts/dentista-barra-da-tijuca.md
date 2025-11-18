@@ -1,5 +1,5 @@
 ---
-title: 'Dentista na Barra da Tijuca – MD Frossard Odontologia'
+title: 'Dentista na Barra da Tijuca'
 description: >-
   Buscando um dentista na Barra da Tijuca? Na MD Frossard Odontologia você encontra atendimento rápido, com tecnologia e especialistas. Ligue e agende.
 date: 2014-05-12T11:02:32.000Z
