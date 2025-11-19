@@ -121,6 +121,8 @@ Alguns depoimentos de pacientes sobre o nosso tratamento e atendimento :
 
 Para ver mais depoimentos sobre a clínica, [clique aqui.](https://mdfrossard.com.br/depoimentos/)
 
+![dentista barra da tijuca luciana explicando](/images/uploads/2024/luciana_explicando.jpg)  
+
 ## Tratamentos oferecidos na unidade da Barra da Tijuca
 
 Atendemos todas as especialidades:
