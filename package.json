@@ -3,11 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "npm-run-all build:app start:cloudflare",
-    "start:eleventy": "eleventy --serve --port=4000",
+    "start": "eleventy --serve --port=4000",
     "start:cloudflare": "wrangler pages dev public --compatibility-date=2026-03-24 --port 4000 --show-interactive-dev-session=false",
-    "build": "npm run build:app",
-    "build:app": "eleventy"
+    "build": "eleventy"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
