@@ -1,6 +1,6 @@
 ---
 title: Ortodontia
-layout: mdf_tratamentos
+layout: mdf_tratamentos.ejs
 active_menu: tratamentos
 description: A ortodontia que visa corrigir a posição dos dentes e dos ossos posicionados de forma inadequada. O dente fora de posição proporciona uma estética ruim.
 ---

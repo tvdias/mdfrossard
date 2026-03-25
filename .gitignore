@@ -11,3 +11,26 @@ public/
 
 /functions-build
 source/amp/
+
+# Eleventy / Cloudflare Pages build artifacts
+public/
+.cache/
+.cache-eleventy/
+dist/
+build/
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# Cloudflare / deployment
+.wrangler/
+.vercel/
+.netlify/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,6 +1,6 @@
 ---
 title: Check Up Digital Preventivo
-layout: mdf_tratamentos
+layout: mdf_tratamentos.ejs
 active_menu: tratamentos
 featured_image: 'rosto-mulher-ponta-para-sorriso-1024x683.jpg'
 description: O check up digital preventivo é um exame novo que permite a visualização de problemas dentários com o uso de câmeras de alta definição. Tire suas dúvidas.

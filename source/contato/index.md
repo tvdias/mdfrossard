@@ -1,4 +1,5 @@
 ---
+layout: page.ejs
 id: contato
 title: Entre em Contato com a nossa Clínica 
 active_menu: contato
@@ -19,9 +20,9 @@ featured_image: telephone-586266_1920.jpg
         <b>Ou nos envie uma mensagem:</b>
     </div>
     <div class="wpcf7" style="margin-top:20px;">
-        <form id="contactform" name="contactform" netlify-honeypot="areyouhuman" data-netlify="true">
+        <form id="contactform" name="contactform">
             <p class="hidden">
-                <label>Don't fill this out if you're human: <input name="areyouhuman" /></label>
+                <label>Não preencha este campo: <input name="website" /></label>
             </p>
             <div class="form-group">
                 <label for="name">Nome (obrigatório)</label><br>
@@ -38,9 +39,6 @@ featured_image: telephone-586266_1920.jpg
             <div class="form-group">
                 <label for="message">Mensagem</label><br>
                 <textarea name="message" cols="40" rows="10" class="form-control"></textarea>
-            </div>
-            <div class="form-group">
-                <div data-netlify-recaptcha="true"></div>
             </div>
             <div class="form-group">
                 <input type="submit" value="Enviar" class="btn btn-success" />

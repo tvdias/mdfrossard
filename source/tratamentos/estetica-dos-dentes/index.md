@@ -1,6 +1,6 @@
 ---
 title: Estética dos Dentes
-layout: mdf_tratamentos
+layout: mdf_tratamentos.ejs
 active_menu: tratamentos
 description: A estética dos dentes pode trazer uma transformação do sorriso da pessoa, melhorando sua auto estima. Temos diversos tipos de tratamentos, como a faceta.
 ---

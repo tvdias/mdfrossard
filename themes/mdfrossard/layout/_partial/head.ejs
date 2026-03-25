@@ -1,4 +1,10 @@
 <head>
+  <%
+  var pageTitle = typeof title !== 'undefined' ? title : '';
+  var pageDescription = typeof description !== 'undefined' ? description : config.description;
+  var pageFeaturedImage = typeof featured_image !== 'undefined' ? featured_image : undefined;
+  var pageUrl = page && page.url ? page.url : '/';
+  %>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1003091018"></script>
   <script>
@@ -9,24 +15,7 @@
     gtag('config', 'AW-1003091018');
   </script>
   <meta charset="UTF-8">
-  <%
-  var title = page.title;
-
-  if (is_archive()){
-    title = __('archive_a');
-
-    if (is_month()){
-      title += ': ' + page.year + '/' + page.month;
-    } else if (is_year()){
-      title += ': ' + page.year;
-    }
-  } else if (is_category()){
-    title = __('category') + ': ' + page.category;
-  } else if (is_tag()){
-    title = __('tag') + ': ' + page.tag;
-  }
-  %>
-  <title><%= title ? (title + " | " + config.title) : config.title %></title>
+  <title><%= pageTitle ? (pageTitle + " | " + config.title) : config.title %></title>
 
   <!-- Google Tag Manager - 19-05-15 -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -55,7 +44,7 @@
   <!-- <link rel='stylesheet' id='tp-lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700&#038;ver=5.0.2' type='text/css' media='all' /> -->
   <!-- <link rel='stylesheet' id='tp-raleway-css'  href='https://fonts.googleapis.com/css?family=Raleway%3A500%2C600%2C400&#038;ver=5.0.2' type='text/css' media='all' /> -->
 
-  <link rel="canonical" href="<%= canonical_url %>" />
+  <link rel="canonical" href="<%= new URL(pageUrl, config.url).toString() %>" />
   <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>  
   <link rel="alternate" type="application/atom+xml" title="Feed para <%= config.title %>" href="<%= config.url %>/atom.xml" />
   <meta name="author" content="<%= config.title %>" /> 
@@ -63,18 +52,14 @@
   <meta name="Googlebot" content="all" />
 
   <%- open_graph({
-    fb_app_id: config.fb_app_id,
-    google_plus: config.google_plus,
-    twitter_id: config.twitter_id,
-    image: page.featured_image
+    title: pageTitle,
+    description: pageDescription,
+    image: pageFeaturedImage,
+    url: pageUrl
   }) %>
 
   <meta name="google-site-verification" content="RV8HX__uJPpEeGNG6yucFLEEK-DJ7WPZRH5siZpSaAA" />
   <meta name="google-site-verification" content="0B5-KOJcNwtZwe5yXQGcZhz55uC7PBLEXatlWo0HEE4" />
   
-  <%- partial('fb-pixel') %>
-  
-  <% if (is_post() && config.generator_amp){ %>
-    <link rel="amphtml" href="<%= canonical_url %>amp/index.html" />
-  <% } %>
+  <%- include('fb-pixel') %>
 </head>

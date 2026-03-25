@@ -1,6 +1,6 @@
 ---
 title: Periodontia
-layout: mdf_tratamentos
+layout: mdf_tratamentos.ejs
 active_menu: tratamentos
 description: Gengivas sangrando, dor ao escovar os dentes. A periodontia pode melhorar a saúde da sua gengiva. Tire suas dúvidas aqui.
 ---

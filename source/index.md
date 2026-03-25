@@ -1,4 +1,5 @@
 ---
+layout: page.ejs
 id: home
 title: Dentista Na Barra da Tijuca e Botafogo
 description: >-

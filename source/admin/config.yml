@@ -1,5 +1,7 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: tvdias/mdfrossard
+  branch: master
   squash_merges: true
   
 # This line should *not* be indented
@@ -13,7 +15,8 @@ media_library:
     publicKey: b5a9b11357e223994fc7
 
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
-display_url: https://mdfrossard.netlify.com
+site_url: https://mdfrossard.com.br
+display_url: https://mdfrossard.com.br
 logo_url: /images/md-frossard-logo.png
 slug:
   encoding: "ascii"

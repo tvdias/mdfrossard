@@ -1,9 +1,16 @@
+---
+layout: layout.ejs
+---
+
 <div class="row">
     <div class="col-md-9 col-sm-8 col-xs-12 contblog pull-right contpage tratasingle">
         <article>
-            <h1 class="title2" style="margin-bottom:20px;"><%- page.title %></h1>
-            <%- partial('_partial/post/featured_image', {post: page, index: false}) %>
-            <%- page.content %>
+            <h1 class="title2" style="margin-bottom:20px;"><%- title %></h1>
+            <% var treatmentImage = typeof featured_image !== 'undefined' ? featured_image : ''; %>
+            <% if (treatmentImage) { %>
+            <img width="500" height="205" src="<%= treatmentImage %>" class="attachment-mdf_post size-mdf_post wp-post-image" alt="">
+            <% } %>
+            <%- content %>
         </article>
     </div>
     <!-- contpage -->

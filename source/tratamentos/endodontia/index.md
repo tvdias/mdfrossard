@@ -1,6 +1,6 @@
 ---
 title: Endodontia
-layout: mdf_tratamentos
+layout: mdf_tratamentos.ejs
 active_menu: tratamentos
 description: A endodontia mais conhecido como tratamento de canal é indicado quando o paciente tem cáries grandes e assim dor. Tire suas dúvidas.
 ---

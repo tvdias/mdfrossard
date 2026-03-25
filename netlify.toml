@@ -1,3 +1,0 @@
-[build]
-  # Directory with the lambda functions to deploy to AWS.
-  functions = "functions-build"

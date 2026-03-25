@@ -26,7 +26,7 @@
         <div class="navbar navbar-static-top">
           <div class="navbar-header">
             <span>
-              <a href="<%- url_for() %>" title="<%= config.title %>">
+              <a href="<%- url_for('/') %>" title="<%= config.title %>">
                 <p class="branding-name">
                   <picture>
                     <source srcset="/images/4ceb9859-c65b-4612-992f-16de0c4895e3_logo.webp" type="image/webp"/>
@@ -40,7 +40,7 @@
             </button>
           </div>
 
-          <%- partial('menu') %>
+          <%- include('menu') %>
 
         </div><!--/navbar -->
       </div><!-- row -->

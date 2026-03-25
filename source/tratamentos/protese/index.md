@@ -1,6 +1,6 @@
 ---
 title: Prótese Dentária
-layout: mdf_tratamentos
+layout: mdf_tratamentos.ejs
 active_menu: tratamentos
 description: Conheça os principais tipos de Prótese Dentária. Na odontologia podemos realizar próteses fixas como as coroas e blocos. Também existem as removíveis.
 ---

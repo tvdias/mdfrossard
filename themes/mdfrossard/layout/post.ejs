@@ -1,10 +1,27 @@
+---
+layout: layout.ejs
+---
+
 <div class="row" style="margin-top: 30px;">
     <div class="col-md-9 col-sm-8 col-xs-12 contblog pull-right">
-        <%- partial('_partial/article', {post: page, index: false}) %>
+        <%- include('_partial/article', {
+            post: build_post({
+                id: typeof id !== 'undefined' ? id : undefined,
+                layout: typeof layout !== 'undefined' ? layout : 'post',
+                title: typeof title !== 'undefined' ? title : '',
+                author: typeof author !== 'undefined' ? author : undefined,
+                description: typeof description !== 'undefined' ? description : undefined,
+                featured_image: typeof featured_image !== 'undefined' ? featured_image : undefined,
+                comments: typeof comments !== 'undefined' ? comments : undefined,
+                date: typeof date !== 'undefined' ? date : undefined,
+                url: page.url
+            }, content),
+            index: false
+        }) %>
     </div>
     <!-- contblog -->
     <div class="col-md-3 col-sm-4 col-xs-12 contsidebar pull-left">
-        <%- partial('_partial/sidebar', null, {cache: !config.relative_link}) %>
+        <%- include('_partial/sidebar') %>
     </div>
     <!-- contsidebar -->
 </div>
