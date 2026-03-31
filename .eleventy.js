@@ -199,6 +199,7 @@ module.exports = function(eleventyConfig) {
       .sort((left, right) => new Date(right.date) - new Date(left.date));
   });
 
+  eleventyConfig.addGlobalData("config", siteConfig);
   eleventyConfig.addGlobalData("theme", themeConfig);
   eleventyConfig.addGlobalData("site", { data: siteData });
   eleventyConfig.addGlobalData("url_for", () => urlFor);

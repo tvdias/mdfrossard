@@ -7,7 +7,7 @@ class SiteMap {
 
   render(data) {
     const urls = (data.collections.all || [])
-      .filter((item) => item.url && !item.url.startsWith("/admin"))
+      .filter((item) => item && item.url && !item.url.startsWith("/admin") && data?.config?.url)
       .map((item) => `<url><loc>${new URL(item.url, data.config.url).toString()}</loc></url>`)
       .join("\n");
 
