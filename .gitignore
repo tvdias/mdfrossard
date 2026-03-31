@@ -5,6 +5,7 @@ _site/
 .cache-eleventy/
 dist/
 build/
+tmp/
 
 # Logs
 *.log
