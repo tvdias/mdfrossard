@@ -17,8 +17,8 @@
     --bg-white: #ffffff;
     /* Pure White */
 
-    --text-main: #333333;
-    /* Softer Gray for main text */
+    --text-main: #111111;
+    /* Deep Black Text */
     --text-muted: #555555;
     /* Dark Gray for scanning */
     --text-light: #ffffff;
@@ -62,11 +62,7 @@ body {
     overflow-x: hidden;
 }
 
-p {
-    margin-bottom: 1.5rem;
-    color: var(--text-muted);
-    line-height: 1.8;
-}
+
 
 h1,
 h2,
