@@ -1,0 +1,57 @@
+---
+title: Histórias Reais | MD Frossard Odontologia
+layout: layout.ejs
+description: Veja Histórias Reais de pacientes da Clínica MD Frossard Odontologia. Leia os comentários sobre o atendimento com os profissionais.
+---
+
+<!-- Page Mini Hero -->
+<section class="page-hero">
+    <div class="page-hero-bg"></div>
+    <div class="container page-hero-content reveal">
+        <h1>Histórias Reais</h1>
+        <p>Veja o que nossos pacientes dizem sobre a experiência de cuidar do sorriso conosco.</p>
+    </div>
+</section>
+
+<!-- Testimonials Section -->
+<section class="testimonials section bg-light" id="depoimentos">
+    <div class="container">
+        <div class="section-header text-center reveal">
+            <h2>O que nossos pacientes dizem</h2>
+            <p>Confira os relatos de quem transformou o sorriso com a MD Frossard Odontologia.</p>
+        </div>
+        
+        <div class="testimonials-grid mt-5">
+            <% testimonials.forEach(function(item, index) { %>
+            <div class="testimonial-card reveal delay-<%= (index % 3) + 1 %>">
+                <div class="stars">
+                    <i data-lucide="star" class="icon-sm star-filled"></i>
+                    <i data-lucide="star" class="icon-sm star-filled"></i>
+                    <i data-lucide="star" class="icon-sm star-filled"></i>
+                    <i data-lucide="star" class="icon-sm star-filled"></i>
+                    <i data-lucide="star" class="icon-sm star-filled"></i>
+                </div>
+                <p class="testimonial-text">"<%= item.text %>"</p>
+                <div class="testimonial-author">
+                    <div class="author-avatar"><%= item.author.charAt(0) %></div>
+                    <div>
+                        <h4><%= item.author %></h4>
+                        <span>Paciente</span>
+                    </div>
+                </div>
+            </div>
+            <% }) %>
+        </div>
+    </div>
+</section>
+
+<style>
+.testimonial-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.testimonial-text {
+    flex-grow: 1;
+}
+</style>

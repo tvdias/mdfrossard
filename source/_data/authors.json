@@ -4,14 +4,18 @@
 		"email": "marcos@mdfrossard.com",
 		"bio": "Formado pela UEL e com mais de 30 anos de experiência, **Dr. Marcos Frossard** atua na área de reabilitação oral, prótese e estética. Prioriza a excelência em seus atendimentos e busca atualizar-se em cursos e congressos internacionais, mantendo assim um elevado padrão de resolução de seus casos clínicos.",
 		"avatar": "/images/authors/marcos.jpg",
-		"main": true
+		"main": true,
+		"cro": "14445",
+		"specialty": "Especialista em Prótese e Estética"
 	},
 	{
 		"name": "Davi Heringer Frossard",
 		"email": "davifrossard1@gmail.com",
 		"bio": "Formado na UERJ, **Dr. Davi Heringer Frossard** atua e possui especialização em Implantodontia pela Faculdade São Leopoldo Mandic. É um profissional que valoriza a renovação dos conhecimentos e, para tal, frequentou vários cursos, como atualização em cirurgia periodontal em Bauru, cirurgia oral menor e atualização em restaurações estéticas pela PUC. Na área acadêmica, leciona Implantodontia em cursos de pós graduação.",
 		"avatar": "/images/authors/davi.jpg",
-		"main": true
+		"main": true,
+		"cro": "36193",
+		"specialty": "Especialista em Implantodontia"
 	},
 	{
 		"name": "Magali Ribeiro",

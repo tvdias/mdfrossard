@@ -2,27 +2,216 @@
 layout: layout.ejs
 ---
 
-<div class="row" style="margin-top: 30px;">
-    <div class="col-md-9 col-sm-8 col-xs-12 contblog pull-right">
-        <%- include('_partial/article', {
-            post: build_post({
-                id: typeof id !== 'undefined' ? id : undefined,
-                layout: typeof layout !== 'undefined' ? layout : 'post',
-                title: typeof title !== 'undefined' ? title : '',
-                author: typeof author !== 'undefined' ? author : undefined,
-                description: typeof description !== 'undefined' ? description : undefined,
-                featured_image: typeof featured_image !== 'undefined' ? featured_image : undefined,
-                comments: typeof comments !== 'undefined' ? comments : undefined,
-                date: typeof date !== 'undefined' ? date : undefined,
-                url: page.url
-            }, content),
-            index: false
-        }) %>
+<%
+var p = build_post({
+    id: typeof id !== 'undefined' ? id : undefined,
+    layout: typeof layout !== 'undefined' ? layout : 'post',
+    title: typeof title !== 'undefined' ? title : '',
+    author: typeof author !== 'undefined' ? author : undefined,
+    description: typeof description !== 'undefined' ? description : undefined,
+    featured_image: typeof featured_image !== 'undefined' ? featured_image : undefined,
+    comments: typeof comments !== 'undefined' ? comments : undefined,
+    date: typeof date !== 'undefined' ? date : undefined,
+    url: page.url
+}, content);
+
+var authorName = typeof author !== 'undefined' ? author : null;
+var currentAuthor = null;
+if (authorName && site.data.authors) {
+    currentAuthor = site.data.authors.find(a => a.name === authorName || a.name.includes(authorName));
+}
+if (!currentAuthor && site.data.authors) {
+    currentAuthor = site.data.authors.find(a => a.main);
+}
+p.author = currentAuthor;
+
+var wordCount = content.split(/\s+/).length;
+var readingTime = Math.max(1, Math.round(wordCount / 200));
+%>
+
+<section class="section section-internal">
+    <div class="container">
+        <div class="article-body">
+            <!-- Back link -->
+            <a href="/blog/" class="back-to-blog">
+                <i data-lucide="arrow-left" style="width:1rem; height:1rem;"></i>
+                Voltar ao Blog
+            </a>
+
+            <!-- Post meta -->
+            <div class="post-hero-meta">
+                <% if (typeof category !== 'undefined' && category) { %>
+                <span class="post-tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> <%= category %></span>
+                <% } %>
+                <span class="post-reading-time"><i data-lucide="clock" style="width:0.85rem; height:0.85rem;"></i> <%= readingTime %> min de leitura</span>
+            </div>
+
+            <!-- Título -->
+            <h1 style="font-size: 2.25rem; line-height: 1.2; margin-bottom: 2rem;"><%= p.title %></h1>
+
+            <% if (typeof intro_text !== 'undefined' && intro_text) { %>
+                <div class="intro-text" style="font-size: 1.125rem; line-height: 1.8; color: #444; margin-bottom: 2rem;">
+                    <%- markdown(intro_text) %>
+                </div>
+            <% } %>
+
+            <img src="<%= p.featured_image || '/images/uploads/2024/md_odontologia_barra.jpg' %>" alt="<%= p.title %>" class="article-img reveal">
+
+            <div class="content reveal">
+                <%- content %>
+            </div>
+
+            <% if (p.author && p.author.name) { %>
+            <div class="author-box reveal">
+                <div class="author-avatar">
+                    <img src="<%= p.author.avatar %>" alt="<%= p.author.name %>" style="width:100%; height:100%; border-radius:50%; object-fit:cover; object-position: center top;">
+                </div>
+                <div class="author-info">
+                    <h4><%= p.author.name %></h4>
+                    <% if (p.author.specialty || p.author.cro) { %>
+                    <p class="author-title">
+                        <%= p.author.cro ? 'CRO ' + p.author.cro + ' · ' : '' %>
+                        <%= p.author.specialty || 'Especialista' %>
+                    </p>
+                    <% } %>
+                    <p><%- markdown(p.author.bio) %></p>
+                </div>
+            </div>
+            <% } %>
+
+            <div class="mt-5 text-center reveal">
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank" class="btn btn-primary btn-lg">
+                    <i data-lucide="message-circle" class="icon-sm"></i> Agende sua Consulta
+                </a>
+            </div>
+        </div>
     </div>
-    <!-- contblog -->
-    <div class="col-md-3 col-sm-4 col-xs-12 contsidebar pull-left">
-        <%- include('_partial/sidebar') %>
-    </div>
-    <!-- contsidebar -->
-</div>
-<!-- row -->
+</section>
+
+<style>
+/* ── Post Layout ── */
+.article-body {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.article-body h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text-main, #1a1a1a);
+    margin: 2.5rem 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #c9a84c;
+    display: inline-block;
+}
+
+.article-body p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: #444;
+    margin: 0 0 1.25rem;
+}
+
+.post-hero-meta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+}
+
+.post-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #fff;
+    background: #c9a84c;
+    padding: 0.3rem 0.8rem;
+    border-radius: 2rem;
+}
+
+.post-reading-time {
+    font-size: 0.82rem;
+    color: #888;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+}
+
+.article-img {
+    width: 100%;
+    height: auto;
+    border-radius: 1rem;
+    margin: 2rem 0;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    display: block;
+}
+
+.author-box {
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+    padding: 2rem;
+    background: #f8f8f6;
+    border-radius: 1rem;
+    margin: 3rem 0;
+    position: relative;
+    z-index: 10;
+}
+
+.author-avatar {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    overflow: hidden;
+}
+
+.author-info h4 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin: 0 0 0.25rem;
+}
+
+.author-info .author-title {
+    font-size: 0.75rem;
+    color: #c9a84c;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin: 0 0 0.75rem;
+}
+
+.author-info p {
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: #555;
+    margin: 0;
+}
+
+.back-to-blog {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #888;
+    text-decoration: none;
+    margin-bottom: 2rem;
+    transition: color 0.2s;
+}
+
+.back-to-blog:hover {
+    color: #c9a84c;
+}
+</style>

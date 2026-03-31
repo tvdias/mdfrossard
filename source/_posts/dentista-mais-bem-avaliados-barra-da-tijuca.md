@@ -1,8 +1,8 @@
 ---
-title: Dentistas Mais Bem Avaliados da Barra da Tijuca, conheça agora.
-description: A MD Frossard Odontologia é referência na Barra da Tijuca por seu atendimento acolhedor, tecnologia de ponta e profissionais experientes que garantem sorrisos transformadores.
-date: 2024-04-20t11:02:32.000Z
-featured_image: /images/uploads/2024/marcos_consultorio.jpg
+title: Dentista Mais Bem Avaliados da Barra da Tijuca
+date: 2024-06-25T10:00:15.000Z
+featured_image: /images/blog_clinica_barra.jpg
+category: Clínica
 ---
 
 ## Encontre os Dentistas Mais Bem Avaliados na Barra da Tijuca

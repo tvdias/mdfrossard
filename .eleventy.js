@@ -19,12 +19,21 @@ function loadJson(filePath) {
   return JSON.parse(fs.readFileSync(path.join(__dirname, filePath), "utf8"));
 }
 
-const siteConfig = loadYaml("_config.yml");
+function normalizeTestimonials(items = []) {
+  return items.map((item) => ({
+    ...item,
+    name: item.name || item.author || "Paciente",
+    content: item.content || item.text || "",
+    role: item.role || "Paciente",
+  }));
+}
+
+const siteConfig = loadYaml("source/_data/config.yml");
 const themeConfig = loadYaml("themes/mdfrossard/_config.yml");
 const siteData = {
   authors: loadJson("source/_data/authors.json"),
   informativos: loadJson("source/_data/informativos.json"),
-  testimonials: loadJson("source/_data/testimonials.json"),
+  testimonials: normalizeTestimonials(loadJson("source/_data/testimonials.json")),
 };
 
 function urlFor(input = "/") {
@@ -112,6 +121,7 @@ function buildPost(postLike, htmlOverride) {
     path: url,
     url,
     featured_image: raw.featured_image,
+    category: raw.category,
     comments: raw.comments !== false,
     date: raw.date,
   };
@@ -142,6 +152,14 @@ function renderOpenGraph(meta = {}) {
 }
 
 module.exports = function(eleventyConfig) {
+  const contentAssetGlobs = [
+    "source/contato/**/*.{jpg,jpeg,png,gif,svg}",
+    "source/equipe/**/*.{jpg,jpeg,png,gif,svg}",
+    "source/estrutura/**/*.{jpg,jpeg,png,gif,svg}",
+    "source/localizacao/**/*.{jpg,jpeg,png,gif,svg}",
+    "source/tratamentos/**/*.{jpg,jpeg,png,gif,svg}",
+  ];
+
   eleventyConfig.setLibrary("md", markdown);
   eleventyConfig.addExtension("ejs", {
     outputFileExtension: "html",
@@ -155,9 +173,15 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy({ "source/images": "images" });
+  eleventyConfig.addPassthroughCopy({ "source/css": "css" });
+  eleventyConfig.addPassthroughCopy({ "source/js": "js" });
   eleventyConfig.addPassthroughCopy({ "source/admin": "admin" });
   eleventyConfig.addPassthroughCopy({ "source/robots.txt": "robots.txt" });
   eleventyConfig.addPassthroughCopy({ "source/_redirects": "_redirects" });
+  for (const assetGlob of contentAssetGlobs) {
+    eleventyConfig.addPassthroughCopy(assetGlob);
+  }
+  
   eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/css": "css" });
   eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/fancybox": "fancybox" });
   eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/files": "files" });
@@ -166,6 +190,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/js": "js" });
   eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/revslider": "revslider" });
   eleventyConfig.addWatchTarget("themes/mdfrossard/layout");
+  eleventyConfig.addWatchTarget("source/css");
+  eleventyConfig.addWatchTarget("source/js");
 
   eleventyConfig.addCollection("posts", (collectionApi) => {
     return collectionApi
@@ -173,7 +199,6 @@ module.exports = function(eleventyConfig) {
       .sort((left, right) => new Date(right.date) - new Date(left.date));
   });
 
-  eleventyConfig.addGlobalData("config", siteConfig);
   eleventyConfig.addGlobalData("theme", themeConfig);
   eleventyConfig.addGlobalData("site", { data: siteData });
   eleventyConfig.addGlobalData("url_for", () => urlFor);
