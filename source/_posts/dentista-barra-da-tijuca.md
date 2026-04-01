@@ -85,6 +85,7 @@ Atendemos todas as necessidades odontológicas na unidade da Barra:
 - [Reabilitação Oral Completa](/tratamentos/protese-dentaria/)
 - [Clareamento Dental Premium](/tratamentos/estetica-dental/)
 
+---
 
 ![Dra. Luciana e Dr. Davi em atendimento](/images/uploads/2024/luciana_explicando.webp)
 
