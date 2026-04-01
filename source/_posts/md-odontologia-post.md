@@ -2,14 +2,18 @@
 title: MD Odontologia – Excelência em Odontologia no Rio de Janeiro
 description: MD Odontologia 38 anos de excelência em prótese, implantes e estética dental, com unidades na Barra e Botafogo. Agende sua consulta!
 date: 2024-07-03T10:00:53.000Z
-featured_image: /images/uploads/2024/md_odontologia_barra.jpg
+featured_image: /images/md_odontologia_barra.jpg
+category: Clínica
+author: "Davi Heringer Frossard"
+intro_text: |
+  A MD Odontologia é referência em odontologia de alto padrão no Rio de Janeiro, com unidades estrategicamente localizadas na **Barra da Tijuca** (Shopping Città América, Av. das Américas, 700, Bloco 2, Sala 143) e em **Botafogo** (Rua Marques, 15, Humaitá).
 ---
+
+Com mais de **38 anos de história**, nossa clínica se destaca pelo atendimento personalizado e pela busca constante por excelência nos resultados, garantindo aos nossos pacientes um sorriso bonito e saudável.
 
 ## Tradição e Atendimento de Alto Padrão
 
-A MD Odontologia é referência em odontologia de alto padrão no Rio de Janeiro, com unidades estrategicamente localizadas na Barra da Tijuca, no Shopping Città América, Av. das Américas, 700, Bloco 2, Sala 143, e em Botafogo, na Rua Marques, 15, Humaitá.
-
-Com mais de 38 anos de história, nossa clínica se destaca pelo atendimento personalizado e pela busca constante por excelência nos resultados, garantindo aos nossos pacientes um sorriso bonito e saudável.
+Nossa trajetória de quase quatro décadas reflete o compromisso com a qualidade em cada procedimento realizado. Combinamos tecnologia de ponta com o calor humano de uma clínica que conhece seus pacientes pelo nome, construindo relações de confiança duradouras.
 
 ## Equipe Especializada e Confiança
 

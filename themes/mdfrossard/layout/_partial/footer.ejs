@@ -1,52 +1,46 @@
-<footer id="footer" class="footer">
-  <div class="l-decoration"></div> <!-- l-decoration -->
-  <div class="container">
-    <div class="row">
-      <div class="consultorios">
-        <h3>Consultórios:</h3>
-        
-        <div class="col-md-6 col-sm-6 col-xs-12 consultorio ">
-          <h4>Barra da Tijuca</h4>
-					<div>
-            Av. das Américas, 700. Bloco 2 / Sala 143 - Shopping Città America, CEP: 22640-100
-            <br/>
-            Telefone: <a onclick="goog_report_conversion('tel:02132170430')" href="tel:02132170430" data-key="0">3217-0430</a>
-            <br/>
-            <a href="/localizacao" alt="Mapa" title="Mapa">Mapa</a>
-					</div>
-				</div><!-- consultorio -->
-        
-        <div class="col-md-6 col-sm-6 col-xs-12 consultorio bordal">
-					<h4>Botafogo / Humaitá</h4>
-					<div>
-            Rua Marques, 15. Humaitá. CEP: 22260-240
-            <br/>
-            Telefone: <a onclick="goog_report_conversion('tel:02122665955')" href="tel:02122665955" data-key="0">2266-5955</a> | <a onclick="goog_report_conversion('tel:02122660375')" href="tel:02122660375" data-key="1">2266-0375</a>
-            <br/>
-            <a href="/localizacao" alt="Mapa" title="Mapa">Mapa</a>
-					</div>
-				</div><!-- consultorio -->
+<footer class="footer" id="contato">
+    <div class="container">
+        <div class="footer-grid">
+            <div class="footer-brand">
+                <img src="/images/logo_branco.png" alt="MD Frossard Logo" class="footer-logo">
+                <p>EPAO - 3415<br>Responsável Técnico: Davi H. Frossard CRO 36193</p>
+                <div class="social-links dark">
+                    <a href="https://api.whatsapp.com/send?phone=55021976637803" class="whatsapp-btn">
+                        <i data-lucide="message-circle"></i>
+                        WhatsApp
+                    </a>
+                </div>
+            </div>
 
-      </div><!-- consultorios -->
-    </div><!-- row -->
-  </div><!-- container -->
- 
-  <div class="split scroll-top">
-    <a href="javascript:void(0)" id="subir" alt="Subir" title="Subir"></a>
-  </div>
-  
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 col-sm-12 col-xs-12 info">
-        <p>
-          EPAO -3415 - Responsável Técnico - Davi H. Frossard CRO 36193.
-          <br/>
-          &copy; 2018<span> MD Frossard.</span> Todos os direitos reservados.
-          <br/>
-          <br/>
-          Site desenvolvido por <a href="https://thiagodias.com.br/?utm_source=mdfrossard&utm_medium=footer&utm_campaign=clientes" target="_blank" title="Site desenvolvido por Thiago Dias">Thiago Dias</a>
-        </p>
-      </div>
-    </div><!-- row -->
-  </div><!-- container-fluid -->   
-</footer><!-- footer -->
+            <div class="footer-clinic">
+                <h3>Consultório Barra da Tijuca</h3>
+                <p><i data-lucide="map-pin" class="icon-xs"></i> Av. das Américas, 700 - Bloco 2 / Sala 143<br>Shopping Città America - CEP: 22640-100</p>
+                <p><i data-lucide="phone" class="icon-xs"></i> <span><a href="tel:2132170430">(21) 3217-0430</a><br><a href="tel:21976637803">(21) 97663-7803</a></span></p>
+                <a href="/localizacao/" class="text-link sm">Ver no Mapa <i data-lucide="external-link" class="icon-xs"></i></a>
+            </div>
+
+            <div class="footer-clinic">
+                <h3>Consultório Botafogo</h3>
+                <p><i data-lucide="map-pin" class="icon-xs"></i> Rua Marques, 15.<br> Casa<br> Ao lado da Cobal do Humaitá<br> CEP: 22260-240</p>
+                <p><i data-lucide="phone" class="icon-xs"></i> <span><a href="tel:2132170430">(21) 3217-0430</a><br><a href="tel:21976637803">(21) 97663-7803</a></span></p>
+                <a href="/localizacao/" class="text-link sm">Ver no Mapa <i data-lucide="external-link" class="icon-xs"></i></a>
+            </div>
+
+            <div class="footer-links">
+                <h3>Acesso Rápido</h3>
+                <ul>
+                    <li><a href="/tratamentos/">Tratamentos</a></li>
+                    <li><a href="/equipe/">Equipe</a></li>
+                    <li><a href="/estrutura/">Estrutura</a></li>
+                    <li><a href="/depoimentos/">Depoimentos</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; <%= new Date().getFullYear() %> MD Frossard. Todos os direitos reservados.</p>
+            <a href="#" id="scroll-top" class="scroll-top"><i data-lucide="arrow-up"></i></a>
+        </div>
+    </div>
+</footer>
+
+<script src="/js/script.js" defer></script>

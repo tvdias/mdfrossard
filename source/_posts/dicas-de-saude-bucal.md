@@ -1,10 +1,8 @@
 ---
-title: 5 Dicas de saúde bucal.
-description: >-
-  Aprenda 5 dicas de saúde bucal. São dicas fáceis e simples mas quase ninguem
-  prática no seu dia a dia. Com isso você pode melhorar muito seu sorriso.
-date: 2018-08-27T10:00:56.000Z
-featured_image: /images/c533d5a7-8116-4e44-af77-b3094da591b1_dicas-de-saude-bucal.jpg
+title: 5 Dicas de Saúde Bucal
+date: 2018-05-18T10:00:46.000Z
+featured_image: /images/blog_dicas_saude.jpg
+category: Prevenção
 ---
 Nossa saúde bucal é extremamente importante para a manutenção de um belo sorriso e também para uma correta mastigação. 
 

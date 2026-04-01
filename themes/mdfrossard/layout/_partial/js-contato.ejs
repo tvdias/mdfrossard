@@ -8,10 +8,14 @@ $jq("#contactform").submit(function(e) {
         'name': $form.find("input[name=name]").val(),
         'email': $form.find("input[name=email]").val(),
         'subject': $form.find("input[name=subject]").val(),
-        'message': $form.find("textarea[name=message]").val()
+        'message': $form.find("textarea[name=message]").val(),
+        'website': $form.find("input[name=website]").val()
     };
-    return fetch('/.netlify/functions/mail', {
+    return fetch('/api/contact', {
         body: JSON.stringify(data),
+        headers: {
+            'Content-Type': 'application/json'
+        },
         method: 'POST'
     })
     .then(response => {

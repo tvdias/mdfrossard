@@ -1,9 +1,10 @@
 ---
-title: Língua Branca - O que fazer?
+title: Língua Branca – O que fazer?
 description: >-
   A língua Branca ou língua saburrosa, pode ter diferentes causas. Algumas podem causar um problemas ruins. Veja o que fazer nessa situação. 
-date: 2022-09-05T08:00:56.000Z
-featured_image: /images/06880c83-e02d-445c-8961-25b9e53dce9a_dicas-para-clarear-os-dentes.jpg
+date: 2024-06-11T10:00:00.000Z
+featured_image: /images/blog_lingua_branca.jpg
+category: Saúde Bucal
 ---
 Você já percebeu que a sua língua pode ficar branca? Isso é mais comum que se imagina e pode trazer algumas consequências ruins para você. 
 

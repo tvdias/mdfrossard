@@ -1,0 +1,20 @@
+<article class="blog-card reveal delay-<%= (index % 3) + 1 %>">
+    <div class="blog-card__thumb">
+        <img src="<%= post.featured_image || '/images/uploads/2024/md_odontologia_barra.jpg' %>" alt="<%= post.title %>" loading="lazy">
+    </div>
+    <div class="blog-card__body">
+        <% if (post.category) { %>
+        <span class="blog-card__tag">
+            <i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> 
+            <%= post.category %>
+        </span>
+        <% } %>
+        <h2 class="blog-card__title"><%= post.title %></h2>
+        <div class="blog-card__excerpt">
+            <%- post.excerpt %>
+        </div>
+        <a href="<%= post.url %>" class="blog-card__link">
+            Ler artigo <i data-lucide="arrow-right" style="width:0.85rem; height:0.85rem;"></i>
+        </a>
+    </div>
+</article>

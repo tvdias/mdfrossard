@@ -1,6 +1,9 @@
 <div id="sidebar" class="sidebar">
     <div id="search-2" class="widget widget_search">
-        <%- search_form({text: "Pesquise aqui...", class: "search", button: " "}) %>
+        <form action="https://www.google.com/search" method="get" class="search-form" target="_blank">
+            <input type="hidden" name="sitesearch" value="mdfrossard.com.br">
+            <input type="search" name="q" class="search" placeholder="Pesquise aqui...">
+        </form>
     </div>
 
     <div id="facebook-likebox-2" class="widget widget_facebook_likebox">
@@ -11,10 +14,12 @@
         <div class="mdf-recent-posts-cont">
             <h2 class="widgettitle">Publicações Recentes</h2>
             <ul class="mdf-recent-posts-list">
-                <% site.posts.sort('date', -1).limit(3).forEach(function(post) {%>
+                <% (collections.posts || []).slice(0, 3).forEach(function(postEntry) {
+                    var post = build_post(postEntry);
+                %>
                 <li class="clearfix">
                     <img width="150" height="150" src="<%= post.featured_image_150 ? post.featured_image_150 : post.featured_image %>" class="attachment-thumbnail size-thumbnail wp-post-image" alt="<%= post.title.substring(0, 10) %>">
-                    <h5><a href="<%= url_for(post.path) %>"><%= post.title %></a></h5>
+                    <h5><a href="<%= url_for(post.url) %>"><%= post.title %></a></h5>
                     <p><%= post.content.replace(/<(?:.|\n)*?>/gm, '').substring(0, 97) %>...</p>
                 </li>
                 <% }) %>

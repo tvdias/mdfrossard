@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MD Odontologia – Excelência em Odontologia no Rio de Janeiro | Blog | MD Frossard</title>
+
+    <!-- Meta Tags -->
+    <meta name="description"
+        content="MD Odontologia: 38 anos de excelência em prótese, implantes e estética dental, com unidades na Barra da Tijuca e Botafogo. Conheça nossa equipe e agende sua consulta.">
+    <meta name="theme-color" content="#0a0a0a">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+
+    <!-- Icons (Lucide) -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <style>
+        /* ── Post Layout ──────────────────────────────────── */
+        .post-layout {
+            display: grid;
+            grid-template-columns: 1fr min(680px, 100%) 1fr;
+            gap: 0;
+        }
+
+        .post-layout > * {
+            grid-column: 2;
+        }
+
+        .post-layout > .full-bleed {
+            grid-column: 1 / -1;
+        }
+
+        /* ── Article Body ─────────────────────────────────── */
+        .article-body {
+            max-width: 780px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+
+        .article-body h2 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text-main, #1a1a1a);
+            margin: 2.5rem 0 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #c9a84c;
+            display: inline-block;
+        }
+
+        .article-body p {
+            font-size: 1.05rem;
+            line-height: 1.8;
+            color: #444;
+            margin: 0 0 1.25rem;
+        }
+
+        .article-body ul {
+            margin: 0 0 1.25rem 1.25rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .article-body ul li {
+            font-size: 1rem;
+            line-height: 1.7;
+            color: #444;
+        }
+
+        /* ── Post Hero ────────────────────────────────────── */
+        .post-hero-meta {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin-bottom: 1.5rem;
+        }
+
+        .post-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            font-size: 0.72rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #fff;
+            background: #c9a84c;
+            padding: 0.3rem 0.8rem;
+            border-radius: 2rem;
+        }
+
+        .post-reading-time {
+            font-size: 0.82rem;
+            color: #888;
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+        }
+
+        /* ── Highlight Box ────────────────────────────────── */
+        .highlight-box {
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            border-radius: 1rem;
+            padding: 2rem;
+            margin: 2.5rem 0;
+            color: #fff;
+        }
+
+        .highlight-box h3 {
+            color: #c9a84c;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-weight: 700;
+            margin: 0 0 0.75rem;
+        }
+
+        .highlight-box p {
+            color: rgba(255,255,255,0.8);
+            margin: 0;
+            font-size: 1rem;
+            line-height: 1.7;
+        }
+
+        /* ── Team Cards (mini) ────────────────────────────── */
+        .team-mini-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1.25rem;
+            margin: 1.5rem 0 2.5rem;
+        }
+
+        .team-mini-card {
+            background: #f8f8f6;
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            border-left: 3px solid #c9a84c;
+        }
+
+        .team-mini-card h4 {
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin: 0 0 0.25rem;
+        }
+
+        .team-mini-card .specialty {
+            font-size: 0.75rem;
+            color: #c9a84c;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            margin: 0 0 0.75rem;
+        }
+
+        .team-mini-card p {
+            font-size: 0.85rem;
+            line-height: 1.6;
+            color: #555;
+            margin: 0;
+        }
+
+        /* ── Testimonial ──────────────────────────────────── */
+        .testimonial-post {
+            background: #f8f8f6;
+            border-radius: 1rem;
+            padding: 2rem;
+            margin: 2.5rem 0;
+            position: relative;
+        }
+
+        .testimonial-post::before {
+            content: '"';
+            position: absolute;
+            top: -0.5rem;
+            left: 1.5rem;
+            font-size: 5rem;
+            color: #c9a84c;
+            line-height: 1;
+            font-family: Georgia, serif;
+            opacity: 0.4;
+        }
+
+        .testimonial-post p {
+            font-size: 1rem;
+            line-height: 1.8;
+            color: #333;
+            font-style: italic;
+            margin: 0 0 1rem;
+            padding-top: 1.5rem;
+        }
+
+        .testimonial-post cite {
+            font-size: 0.85rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            font-style: normal;
+        }
+
+        .article-img {
+            width: 100%;
+            height: auto;
+            border-radius: 1rem;
+            margin: 2rem 0;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            display: block;
+        }
+
+        .author-box {
+            display: flex;
+            gap: 1.5rem;
+            align-items: flex-start;
+            padding: 2rem;
+            background: #f8f8f6;
+            border-radius: 1rem;
+            margin: 3rem 0 -1.5rem; /* Reduzido o espaço final */
+            position: relative;
+            z-index: 10;
+        }
+
+        .author-avatar {
+            width: 4rem;
+            height: 4rem;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .author-info h4 {
+            font-size: 1rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin: 0 0 0.25rem;
+        }
+
+        .author-info .author-title {
+            font-size: 0.75rem;
+            color: #c9a84c;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            margin: 0 0 0.75rem;
+        }
+
+        .author-info p {
+            font-size: 0.875rem;
+            line-height: 1.6;
+            color: #555;
+            margin: 0;
+        }
+
+        /* ── Back to Blog ─────────────────────────────────── */
+        .back-to-blog {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #888;
+            text-decoration: none;
+            margin-bottom: 2rem;
+            transition: color 0.2s;
+        }
+
+        .back-to-blog:hover {
+            color: #c9a84c;
+        }
+
+        /* responsive */
+        @media (max-width: 640px) {
+            .author-box { flex-direction: column; }
+            .team-mini-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Header / Navbar -->
+    <header class="header header-internal" id="header">
+        <div class="top-bar">
+            <div class="container top-bar-inner">
+                <div class="contact-info">
+                    <a href="tel:02132170430"><i data-lucide="phone" class="icon-sm"></i> (21) 3217-0430</a>
+                    <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank"><i data-lucide="smartphone" class="icon-sm"></i> (21) 97663-7803</a>
+                </div>
+            </div>
+        </div>
+
+        <nav class="navbar container">
+            <a href="index.html" class="brand">
+                <img src="logo_branco.png" alt="MD Frossard Logo" class="logo">
+            </a>
+
+            <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Menu">
+                <i data-lucide="menu"></i>
+            </button>
+
+            <ul class="nav-links" id="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#">Sobre <i data-lucide="chevron-down" class="icon-xs"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="equipe.html">Equipe</a></li>
+                        <li><a href="estrutura.html">Estrutura</a></li>
+                        <li><a href="depoimentos.html">Depoimentos</a></li>
+                    </ul>
+                </li>
+                <li><a href="tratamentos.html">Tratamentos</a></li>
+                <li><a href="blog.html" class="active">Blog</a></li>
+                <li><a href="localizacao.html">Localização</a></li>
+                <li><a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-primary btn-nav">Agende sua Consulta</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <!-- Article Content -->
+    <section class="section section-internal">
+        <div class="container">
+            <div class="article-body">
+
+                <!-- Back link -->
+                <a href="blog.html" class="back-to-blog">
+                    <i data-lucide="arrow-left" style="width:1rem; height:1rem;"></i>
+                    Voltar ao Blog
+                </a>
+
+                <!-- Post meta -->
+                <div class="post-hero-meta">
+                    <span class="post-tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> Clínica</span>
+                    <span class="post-reading-time"><i data-lucide="clock" style="width:0.85rem; height:0.85rem;"></i> 4 min de leitura</span>
+                </div>
+
+                <!-- Título -->
+                <h1 style="font-size: 2.25rem; line-height: 1.2; margin-bottom: 2rem;">MD Odontologia – Excelência em Odontologia no Rio de Janeiro</h1>
+
+                <!-- Intro -->
+                <p>A MD Odontologia é referência em odontologia de alto padrão no Rio de Janeiro, com unidades estrategicamente localizadas na <strong>Barra da Tijuca</strong> (Shopping Città América, Av. das Américas, 700, Bloco 2, Sala 143) e em <strong>Botafogo</strong> (Rua Marques, 15, Humaitá).</p>
+
+                <img src="md_odontologia_barra.jpg" alt="Unidade Barra da Tijuca - MD Odontologia" class="article-img reveal">
+
+                <p>Com mais de <strong>38 anos de história</strong>, nossa clínica se destaca pelo atendimento personalizado e pela busca constante por excelência nos resultados, garantindo aos nossos pacientes um sorriso bonito e saudável.</p>
+
+                <!-- Seção 1 -->
+                <h2>Tradição e Atendimento de Alto Padrão</h2>
+                <p>Nossa trajetória de quase quatro décadas reflete o compromisso com a qualidade em cada procedimento realizado. Combinamos tecnologia de ponta com o calor humano de uma clínica que conhece seus pacientes pelo nome, construindo relações de confiança duradouras.</p>
+
+                <div class="highlight-box reveal">
+                    <h3>Nossa Missão</h3>
+                    <p>Transformar sorrisos com excelência técnica, ética e cuidado humanizado, proporcionando saúde bucal e bem-estar para cada paciente que nos confia seu sorriso.</p>
+                </div>
+
+                <!-- Seção 2 -->
+                <h2>Equipe Especializada e Confiança</h2>
+
+                <img src="equipe_md_completa.jpg" alt="Equipe MD Odontologia" class="article-img reveal">
+
+                <p>Na MD Odontologia, você encontra uma equipe formada por profissionais de destaque no cenário odontológico, reconhecidos tanto por sua experiência quanto por sua dedicação:</p>
+
+                <div class="team-mini-grid reveal">
+                    <div class="team-mini-card">
+                        <h4>Dr. Marcos Frossard</h4>
+                        <p class="specialty">Especialista em Prótese</p>
+                        <p>Com anos de prática e vasta experiência em reabilitações orais, o Dr. Marcos combina conhecimento técnico com atendimento humanizado.</p>
+                    </div>
+                    <div class="team-mini-card">
+                        <h4>Dr. Davi Frossard</h4>
+                        <p class="specialty">Implantes e Prótese</p>
+                        <p>Referência em procedimentos de implantodontia, oferecendo tratamentos modernos e personalizados com abordagem atenciosa e detalhista.</p>
+                    </div>
+                    <div class="team-mini-card">
+                        <h4>Dra. Luciana Peroni</h4>
+                        <p class="specialty">Prótese e Endodontia</p>
+                        <p>Profissional dedicada com amplo conhecimento em próteses dentárias e tratamentos de canal, com olhar especial para estética dental.</p>
+                    </div>
+                </div>
+
+                <p>Todos os nossos profissionais são capacitados para transformar sorrisos com técnicas de estética dental de ponta, proporcionando harmonia, beleza e naturalidade.</p>
+
+                <!-- Seção 3 -->
+                <h2>Localização e Estrutura Diferenciada</h2>
+                <p>Com duas unidades modernas, a MD Odontologia oferece conforto, tecnologia e infraestrutura pensada para proporcionar uma experiência única. Seja na Barra da Tijuca ou em Botafogo, cada consulta é planejada para atender às necessidades individuais, em um ambiente acolhedor e seguro.</p>
+                <p>
+                    <a href="estrutura.html" style="color:#c9a84c; font-weight:600; text-decoration:none;">Conheça nossa infraestrutura completa →</a>
+                </p>
+
+                <!-- Seção 4: Depoimento -->
+                <h2>Compromisso com a Satisfação dos Pacientes</h2>
+                <p>O cuidado que dedicamos aos nossos pacientes é reconhecido em cada depoimento. Veja o que a paciente Marli compartilhou:</p>
+
+                <div class="testimonial-post reveal">
+                    <p>"Já fiz vários procedimentos dentários, tanto implantes como cirurgias de enxerto, todos com excelentes resultados. Equipe carinhosa e profissional. Dr. Davi, além de profissional competente, tem sido muito atencioso e disponível em várias situações dos meus tratamentos. Já são quase dez anos de acompanhamento, sempre tudo de acordo com o previsto. Muito grata a todos!"</p>
+                    <cite>— Marli Curi Goulart, paciente</cite>
+                </div>
+
+                <p>
+                    <a href="depoimentos.html" style="color:#c9a84c; font-weight:600; text-decoration:none;">Confira mais depoimentos de nossos pacientes →</a>
+                </p>
+
+                <!-- Seção 5: CTA -->
+                <h2>Agende Sua Consulta Hoje Mesmo</h2>
+
+
+                <p>Venha conhecer a MD Odontologia, referência em tratamentos odontológicos no Rio de Janeiro. Agende sua consulta e transforme o seu sorriso!</p>
+
+                <p>Entre em contato pelo telefone <strong>(21) 3513-8479</strong> ou envie uma mensagem via <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank" style="color:#c9a84c; text-decoration:underline;">WhatsApp</a>. Seu sorriso merece o melhor, e estamos aqui para transformá-lo!</p>
+
+                <div class="author-box reveal">
+                    <div class="author-avatar">
+                        <img src="equipe_davi.jpg" alt="Dr. Davi Frossard" style="width:100%; height:100%; border-radius:50%; object-fit:cover; object-position: center top;">
+                    </div>
+                    <div class="author-info">
+                        <h4>Dr. Davi Heringer Frossard</h4>
+                        <p class="author-title">CRO 36193 · Especialista em Implantodontia</p>
+                        <p>Formado na UERJ, Dr. Davi possui especialização em Implantodontia pela Faculdade São Leopoldo Mandic. Realizou atualizações em cirurgia periodontal em Bauru, cirurgia oral menor e restaurações estéticas pela PUC. Leciona Implantodontia em cursos de pós-graduação.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Footer -->
+    <footer class="footer" id="contato">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <img src="logo_branco.png" alt="MD Frossard Logo" class="footer-logo">
+                    <p>EPAO - 3415<br>Responsável Técnico: Davi H. Frossard CRO 36193</p>
+                    <div class="social-links dark">
+                        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="whatsapp-btn">
+                            <i data-lucide="message-circle"></i>
+                            WhatsApp
+                        </a>
+                    </div>
+                </div>
+
+                <div class="footer-clinic">
+                    <h3>Consultório Barra da Tijuca</h3>
+                    <p><i data-lucide="map-pin" class="icon-xs"></i> Av. das Américas, 700 - Bloco 2 / Sala 143<br>Shopping Città America - CEP: 22640-100</p>
+                    <p><i data-lucide="phone" class="icon-xs"></i> <span><a href="tel:2132170430">(21) 3217-0430</a><br><a href="tel:21976637803">(21) 97663-7803</a></span></p>
+                </div>
+
+                <div class="footer-clinic">
+                    <h3>Consultório Botafogo</h3>
+                    <p><i data-lucide="map-pin" class="icon-xs"></i> Rua Marques, 15. Casa<br>Ao lado da Cobal do Humaitá<br>CEP: 22260-240</p>
+                    <p><i data-lucide="phone" class="icon-xs"></i> <span><a href="tel:2132170430">(21) 3217-0430</a><br><a href="tel:21976637803">(21) 97663-7803</a></span></p>
+                </div>
+
+                <div class="footer-links">
+                    <h3>Acesso Rápido</h3>
+                    <ul>
+                        <li><a href="tratamentos.html">Tratamentos</a></li>
+                        <li><a href="equipe.html">Equipe</a></li>
+                        <li><a href="estrutura.html">Estrutura</a></li>
+                        <li><a href="depoimentos.html">Depoimentos</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 MD Frossard. Todos os direitos reservados.</p>
+                <a href="#" id="scroll-top" class="scroll-top"><i data-lucide="arrow-up"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js" defer></script>
+</body>
+
+</html>

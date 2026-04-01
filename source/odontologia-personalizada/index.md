@@ -1,4 +1,5 @@
 ---
+layout: page.ejs
 title: Odontologia Personalizada
 url: 504.html
 id: 504

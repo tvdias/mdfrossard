@@ -1,0 +1,992 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Implante Dentário com Segurança | MD Frossard Odontologia</title>
+
+    <!-- Meta Tags -->
+    <meta name="description"
+        content="O implante dentário pode ser feito com segurança. Conheça as principais dúvidas sobre implantodontia e saiba como a MD Frossard pode transformar o seu sorriso.">
+    <meta name="theme-color" content="#0a0a0a">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+
+    <!-- Icons (Lucide) -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* ===================================================
+           Estilos específicos da página de Implante Dentário
+           =================================================== */
+
+        /* Hero da página interna com imagem de fundo */
+        .treatment-hero {
+            position: relative;
+            min-height: 480px;
+            display: flex;
+            align-items: flex-end;
+            padding-bottom: 60px;
+            overflow: hidden;
+        }
+
+        .treatment-hero-bg {
+            position: absolute;
+            inset: 0;
+            z-index: 0;
+        }
+
+        .treatment-hero-bg img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center 10%;
+        }
+
+        @media (max-width: 768px) {
+            .treatment-hero-bg img {
+                object-position: 80% 10%;
+            }
+        }
+
+        .treatment-hero-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(180deg, rgba(10,10,10,0.3) 0%, rgba(10,10,10,0.85) 100%);
+            z-index: 1;
+        }
+
+        .treatment-hero-content {
+            position: relative;
+            z-index: 2;
+            color: white;
+            padding-top: 220px;
+        }
+
+        .treatment-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(212,175,55,0.2);
+            border: 1px solid rgba(212,175,55,0.5);
+            color: var(--brand-accent);
+            padding: 6px 16px;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            font-family: var(--font-heading);
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+        }
+
+        .treatment-hero-content h1 {
+            color: white;
+            font-size: 2.75rem;
+            line-height: 1.1;
+            margin-bottom: 16px;
+            max-width: 700px;
+        }
+
+        .treatment-hero-content p {
+            font-size: 1.125rem;
+            opacity: 0.85;
+            max-width: 600px;
+            margin-bottom: 32px;
+        }
+
+        /* Breadcrumb */
+        .breadcrumb {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.875rem;
+            opacity: 0.7;
+            margin-bottom: 20px;
+            color: white;
+        }
+
+        .breadcrumb a {
+            color: white;
+            opacity: 0.8;
+        }
+
+        .breadcrumb a:hover { opacity: 1; }
+
+        /* Stats strip */
+        .stats-strip {
+            background: var(--bg-dark);
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 0;
+        }
+
+        .stat-item {
+            padding: 28px 24px;
+            text-align: center;
+            color: white;
+            border-right: 1px solid rgba(255,255,255,0.08);
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+        }
+
+        .stat-item:nth-child(2n) { border-right: none; }
+        .stat-item:nth-last-child(-n+2) { border-bottom: none; }
+
+        .stat-number {
+            font-family: var(--font-heading);
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--brand-accent);
+            line-height: 1;
+            margin-bottom: 6px;
+        }
+
+        .stat-label {
+            font-size: 0.875rem;
+            opacity: 0.7;
+            line-height: 1.3;
+        }
+
+        /* Intro / Intro 2-col */
+        .treatment-intro {
+            background: var(--bg-white);
+        }
+
+        .intro-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 48px;
+            align-items: center;
+        }
+
+        .intro-text h2 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            color: var(--primary-dark);
+        }
+
+        .intro-text p {
+            color: var(--text-muted);
+            line-height: 1.8;
+            margin-bottom: 16px;
+        }
+
+        .intro-text p:last-of-type { margin-bottom: 0; }
+
+        .intro-visual {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .benefit-chip {
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
+            background: var(--bg-light);
+            border-radius: var(--border-radius-sm);
+            padding: 20px;
+            transition: var(--transition);
+        }
+
+        .benefit-chip:hover {
+            background: white;
+            box-shadow: var(--shadow-sm);
+            transform: translateX(4px);
+        }
+
+        .benefit-icon {
+            width: 44px;
+            height: 44px;
+            min-width: 44px;
+            background: linear-gradient(135deg, var(--brand-accent), var(--brand-primary));
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--bg-dark);
+        }
+
+        .benefit-chip h4 {
+            font-size: 1rem;
+            margin-bottom: 4px;
+            color: var(--primary-dark);
+        }
+
+        .benefit-chip p {
+            font-size: 0.875rem;
+            color: var(--text-muted);
+            margin: 0;
+            line-height: 1.5;
+        }
+
+        /* Vantagens Section */
+        .advantages-section {
+            background: var(--bg-light);
+        }
+
+        .advantages-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 24px;
+        }
+
+        .advantage-card {
+            background: white;
+            border-radius: var(--border-radius-md);
+            padding: 32px 28px;
+            box-shadow: var(--shadow-sm);
+            border-left: 4px solid var(--brand-primary);
+            transition: var(--transition);
+        }
+
+        .advantage-card:hover {
+            box-shadow: var(--shadow-md);
+            transform: translateY(-4px);
+        }
+
+        .advantage-number {
+            font-family: var(--font-heading);
+            font-size: 3rem;
+            font-weight: 800;
+            color: var(--brand-accent);
+            opacity: 0.25;
+            line-height: 1;
+            margin-bottom: 8px;
+        }
+
+        .advantage-card h3 {
+            font-size: 1.2rem;
+            margin-bottom: 12px;
+            color: var(--primary-dark);
+        }
+
+        .advantage-card p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            line-height: 1.7;
+            margin: 0;
+        }
+
+        /* Technique Section */
+        .technique-section {
+            background: var(--bg-dark);
+            color: white;
+        }
+
+        .technique-section .section-header h2 {
+            color: white;
+        }
+
+        .technique-section .section-header p {
+            color: rgba(255,255,255,0.7);
+        }
+
+        .technique-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 24px;
+        }
+
+        .technique-step {
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
+            padding: 28px;
+            background: rgba(255,255,255,0.05);
+            border-radius: var(--border-radius-sm);
+            border: 1px solid rgba(255,255,255,0.08);
+            transition: var(--transition);
+        }
+
+        .technique-step:hover {
+            background: rgba(255,255,255,0.09);
+            border-color: rgba(212,175,55,0.3);
+        }
+
+        .step-number {
+            width: 48px;
+            height: 48px;
+            min-width: 48px;
+            background: linear-gradient(135deg, var(--brand-accent), var(--brand-primary));
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: var(--font-heading);
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--bg-dark);
+        }
+
+        .step-content h4 {
+            color: white;
+            font-size: 1.1rem;
+            margin-bottom: 8px;
+        }
+
+        .step-content p {
+            color: rgba(255,255,255,0.65);
+            font-size: 0.9rem;
+            line-height: 1.6;
+            margin: 0;
+        }
+
+        /* Prosthesis types */
+        .prosthesis-section {
+            background: var(--bg-white);
+        }
+
+        .prosthesis-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 20px;
+        }
+
+        .prosthesis-card {
+            border: 2px solid var(--bg-light);
+            border-radius: var(--border-radius-md);
+            padding: 28px 24px;
+            transition: var(--transition);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .prosthesis-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: linear-gradient(180deg, var(--brand-accent), var(--brand-primary));
+            transform: scaleY(0);
+            transition: transform 0.3s ease;
+            transform-origin: top;
+        }
+
+        .prosthesis-card:hover {
+            border-color: transparent;
+            box-shadow: var(--shadow-md);
+            transform: translateY(-4px);
+        }
+
+        .prosthesis-card:hover::before {
+            transform: scaleY(1);
+        }
+
+        .prosthesis-card h3 {
+            font-size: 1.1rem;
+            margin-bottom: 8px;
+            color: var(--primary-dark);
+        }
+
+        .prosthesis-card p {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            margin: 0;
+            line-height: 1.6;
+        }
+
+        /* FAQ Accordion */
+        .faq-section {
+            background: var(--bg-light);
+        }
+
+        .faq-list {
+            max-width: 860px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .faq-item {
+            background: white;
+            border-radius: var(--border-radius-sm);
+            border: 1px solid rgba(0,0,0,0.06);
+            overflow: hidden;
+            transition: box-shadow 0.3s ease;
+        }
+
+        .faq-item.open {
+            box-shadow: var(--shadow-sm);
+        }
+
+        .faq-question {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+            padding: 22px 24px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            text-align: left;
+            font-family: var(--font-heading);
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--primary-dark);
+            transition: color 0.2s ease;
+        }
+
+        .faq-question:hover {
+            color: var(--brand-primary);
+        }
+
+        .faq-item.open .faq-question {
+            color: var(--brand-primary);
+        }
+
+        .faq-icon {
+            width: 32px;
+            height: 32px;
+            min-width: 32px;
+            background: var(--bg-light);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--brand-primary);
+            transition: transform 0.3s ease, background 0.2s ease;
+        }
+
+        .faq-item.open .faq-icon {
+            background: var(--brand-primary);
+            color: white;
+            transform: rotate(45deg);
+        }
+
+        .faq-answer {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.35s ease, padding 0.35s ease;
+            padding: 0 24px;
+        }
+
+        .faq-item.open .faq-answer {
+            max-height: 300px;
+            padding: 0 24px 22px;
+        }
+
+        .faq-answer p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            line-height: 1.7;
+            margin: 0;
+        }
+
+        .faq-answer ul {
+            list-style: disc;
+            padding-left: 20px;
+            margin-top: 10px;
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            line-height: 1.8;
+        }
+
+        /* CTA Section */
+        .treatment-cta {
+            background: linear-gradient(135deg, var(--bg-dark) 0%, #1a1814 100%);
+            text-align: center;
+            padding: 80px 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .treatment-cta::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 600px;
+            height: 600px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(212,175,55,0.12) 0%, transparent 70%);
+        }
+
+        .treatment-cta h2 {
+            color: white;
+            font-size: 2.25rem;
+            margin-bottom: 16px;
+            position: relative;
+        }
+
+        .treatment-cta p {
+            color: rgba(255,255,255,0.7);
+            font-size: 1.1rem;
+            max-width: 560px;
+            margin: 0 auto 36px;
+            position: relative;
+        }
+
+        .cta-buttons {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 16px;
+            position: relative;
+        }
+
+        /* Responsive */
+        @media (min-width: 640px) {
+            .stats-grid {
+                grid-template-columns: repeat(4, 1fr);
+            }
+            .stat-item { border-bottom: none; }
+            .stat-item:nth-child(2n) { border-right: 1px solid rgba(255,255,255,0.08); }
+            .stat-item:last-child { border-right: none; }
+        }
+
+        @media (min-width: 768px) {
+            .treatment-hero-content h1 { font-size: 3.25rem; }
+            .advantages-grid { grid-template-columns: repeat(2, 1fr); }
+            .technique-grid { grid-template-columns: repeat(2, 1fr); }
+            .prosthesis-grid { grid-template-columns: repeat(2, 1fr); }
+            .cta-buttons { flex-direction: row; justify-content: center; }
+        }
+
+        @media (min-width: 1024px) {
+            .intro-grid { grid-template-columns: 1fr 1fr; }
+            .advantages-grid { grid-template-columns: repeat(3, 1fr); }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Header / Navbar -->
+    <header class="header header-internal" id="header">
+        <div class="top-bar">
+            <div class="container top-bar-inner">
+                <div class="contact-info">
+                    <a href="tel:02132170430"><i data-lucide="phone" class="icon-sm"></i> (21) 3217-0430</a>
+                    <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank"><i data-lucide="smartphone" class="icon-sm"></i> (21) 97663-7803</a>
+                </div>
+            </div>
+        </div>
+
+        <nav class="navbar container">
+            <a href="index.html" class="brand">
+                <img src="logo_branco.png" alt="MD Frossard Logo" class="logo">
+            </a>
+
+            <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Menu">
+                <i data-lucide="menu"></i>
+            </button>
+
+            <ul class="nav-links" id="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#">Sobre <i data-lucide="chevron-down" class="icon-xs"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="equipe.html">Equipe</a></li>
+                        <li><a href="estrutura.html">Estrutura</a></li>
+                        <li><a href="depoimentos.html">Depoimentos</a></li>
+                    </ul>
+                </li>
+                <li><a href="tratamentos.html">Tratamentos</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="localizacao.html">Localização</a></li>
+                <li><a href="tel:21976637803" class="btn btn-primary btn-nav">Agende sua Consulta</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Treatment Hero -->
+    <section class="treatment-hero">
+        <div class="treatment-hero-bg">
+            <img src="implante_davi_mega_final.jpg" alt="Dr. Davi Frossard - Implantodontista MD Frossard" fetchpriority="high">
+        </div>
+        <div class="treatment-hero-overlay"></div>
+        <div class="container treatment-hero-content reveal">
+            <div class="breadcrumb">
+                <a href="index.html">Home</a>
+                <i data-lucide="chevron-right" class="icon-xs"></i>
+                <span>Tratamentos</span>
+                <i data-lucide="chevron-right" class="icon-xs"></i>
+                <span>Implante Dentário</span>
+            </div>
+            <h1>Implante Dentário<br>com Segurança</h1>
+            <p>Recupere seu sorriso e sua confiança com a tecnologia de implantodontia mais avançada, realizada por especialistas com mais de 30 anos de experiência.</p>
+            <div style="display:flex; gap:16px; flex-wrap:wrap;">
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank" class="btn btn-primary btn-lg">Agendar Consulta</a>
+                <a href="#faq" class="btn btn-outline btn-lg">Ver Perguntas Frequentes</a>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- Intro Section -->
+    <section class="treatment-intro section">
+        <div class="container">
+            <div class="intro-grid">
+                <div class="intro-text reveal">
+                    <h2>O que é o Implante Dentário?</h2>
+                    <p>O implante dentário é uma raiz artificial de titânio inserida no osso maxilar para substituir a raiz de um dente perdido. Por ser biocompatível com o organismo, o titânio não causa rejeição — ele se integra ao osso num processo chamado osseointegração.</p>
+                    <p>Quando se perde o dente e sua raiz, o osso que o sustenta pode se reabsorver, dando ao rosto um aspecto mais envelhecido. O implante mantém o estímulo no osso, prevenindo essa reabsorção e restabelecendo função e estética de forma duradoura.</p>
+                    <p>Na MD Frossard, cada caso é analisado individualmente. O Dr. Davi Frossard, especialista em Implantodontia pela Faculdade São Leopoldo Mandic, elabora um plano personalizado para garantir o melhor resultado para você.</p>
+                    <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank" class="btn btn-primary" style="margin-top:28px;">
+                        Falar com um Especialista
+                    </a>
+                </div>
+
+                <div class="intro-visual reveal delay-2">
+                    <div class="benefit-chip">
+                        <div class="benefit-icon">
+                            <i data-lucide="bone" class="icon-sm"></i>
+                        </div>
+                        <div>
+                            <h4>Preserva o Osso</h4>
+                            <p>O implante estimula o osso maxilar, prevenindo a reabsorção óssea causada pela perda dental.</p>
+                        </div>
+                    </div>
+                    <div class="benefit-chip">
+                        <div class="benefit-icon">
+                            <i data-lucide="smile" class="icon-sm"></i>
+                        </div>
+                        <div>
+                            <h4>Aparência Natural</h4>
+                            <p>A coroa sobre o implante é confeccionada para ter a aparência, cor e função de um dente natural.</p>
+                        </div>
+                    </div>
+                    <div class="benefit-chip">
+                        <div class="benefit-icon">
+                            <i data-lucide="shield" class="icon-sm"></i>
+                        </div>
+                        <div>
+                            <h4>Conserva Dentes Adjacentes</h4>
+                            <p>Diferente das pontes convencionais, o implante não exige desgaste dos dentes saudáveis ao lado.</p>
+                        </div>
+                    </div>
+                    <div class="benefit-chip">
+                        <div class="benefit-icon">
+                            <i data-lucide="zap" class="icon-sm"></i>
+                        </div>
+                        <div>
+                            <h4>Mastigação Eficiente</h4>
+                            <p>Recupere a capacidade plena de mastigar e falar com segurança, sem medo de deslocamentos.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Advantages Section -->
+    <section class="advantages-section section">
+        <div class="container">
+            <div class="section-header reveal">
+                <h2>Vantagens do Implante Dentário</h2>
+                <p>Entenda por que o implante é a solução mais completa e duradoura para a substituição de dentes perdidos.</p>
+            </div>
+
+            <div class="advantages-grid">
+                <div class="advantage-card reveal delay-1">
+                    <div class="advantage-number">01</div>
+                    <h3>Superior às Próteses Convencionais</h3>
+                    <p>É superior na maioria dos casos de perda dentária, pois não há desgaste em dentes adjacentes. Cada caso é analisado individualmente por um profissional capacitado para indicar a melhor opção.</p>
+                </div>
+                <div class="advantage-card reveal delay-2">
+                    <div class="advantage-number">02</div>
+                    <h3>Conservação dos Dentes Naturais</h3>
+                    <p>Com as pontes convencionais, os dentes vizinhos precisam ser desgastados para servir de pilares. Os implantes eliminam essa necessidade, preservando sua dentição saudável intacta.</p>
+                </div>
+                <div class="advantage-card reveal delay-3">
+                    <div class="advantage-number">03</div>
+                    <h3>Alternativa para Próteses Removíveis</h3>
+                    <p>Implantes servem de pilares para próteses totais fixas, proporcionando a segurança e autoconfiança que as dentaduras removíveis não conseguem oferecer.</p>
+                </div>
+                <div class="advantage-card reveal delay-1">
+                    <div class="advantage-number">04</div>
+                    <h3>Previne Movimentação Dentária</h3>
+                    <p>A ausência de um dente cria um espaço que os dentes adjacentes e o antagonista tentam preencher. O implante mantém o equilíbrio das forças oclusais, evitando o desalinhamento.</p>
+                </div>
+                <div class="advantage-card reveal delay-2">
+                    <div class="advantage-number">05</div>
+                    <h3>Estabilidade a Longo Prazo</h3>
+                    <p>Integrando-se ao osso por osseointegração, o implante se comporta como uma raiz natural, oferecendo estabilidade e durabilidade que podem durar décadas com os cuidados adequados.</p>
+                </div>
+                <div class="advantage-card reveal delay-3">
+                    <div class="advantage-number">06</div>
+                    <h3>Manutenção Simples</h3>
+                    <p>O cuidado com o implante é o mesmo de um dente natural: escovação regular e uso de fio dental. Não há soluções especiais ou adesivos necessários.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Technique Section -->
+    <section class="technique-section section">
+        <div class="container">
+            <div class="section-header reveal">
+                <h2>Técnica Cirúrgica Guiada</h2>
+                <p>O "implante sem corte" — planejado virtualmente para máxima precisão e mínimo desconforto.</p>
+            </div>
+
+            <div class="technique-grid">
+                <div class="technique-step reveal delay-1">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <h4>Tomografia Computadorizada</h4>
+                        <p>A partir de um exame tomográfico de alta resolução, mapeamos com precisão milimétrica a anatomia óssea para o planejamento virtual da cirurgia.</p>
+                    </div>
+                </div>
+                <div class="technique-step reveal delay-2">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <h4>Planejamento Virtual</h4>
+                        <p>Com software especializado, o especialista planeja digitalmente a posição ideal de cada implante antes mesmo de qualquer procedimento.</p>
+                    </div>
+                </div>
+                <div class="technique-step reveal delay-3">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                        <h4>Guia Cirúrgico Personalizado</h4>
+                        <p>Um guia construído especificamente para o seu caso é utilizado na cirurgia, garantindo que os implantes sejam posicionados exatamente como planejado.</p>
+                    </div>
+                </div>
+                <div class="technique-step reveal delay-4">
+                    <div class="step-number">4</div>
+                    <div class="step-content">
+                        <h4>Cirurgia Minimamente Invasiva</h4>
+                        <p>A técnica guiada dispensa o corte de retalho na gengiva, reduzindo significativamente o tempo de cicatrização e o desconforto pós-operatório.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Prosthesis Types Section -->
+    <section class="prosthesis-section section">
+        <div class="container">
+            <div class="section-header reveal">
+                <h2>Tipos de Prótese sobre Implante</h2>
+                <p>A escolha da prótese ideal depende da sua condição clínica e dos seus objetivos. Seu especialista indicará a melhor opção.</p>
+            </div>
+
+            <div class="prosthesis-grid">
+                <div class="prosthesis-card reveal delay-1">
+                    <h3>Prótese Unitária</h3>
+                    <p>Indicada para a substituição de um único dente perdido. Uma coroa é fixada sobre o implante, reproduzindo com perfeição a estética e a função do dente natural.</p>
+                </div>
+                <div class="prosthesis-card reveal delay-2">
+                    <h3>Prótese Múltipla Parcial</h3>
+                    <p>Utilizada quando dois ou mais dentes consecutivos foram perdidos. Implantes servem de pilares para uma ponte fixa que reabilita o segmento comprometido.</p>
+                </div>
+                <div class="prosthesis-card reveal delay-3">
+                    <h3>Prótese Total Fixa (Protocolo)</h3>
+                    <p>Solução para pacientes que perderam todos os dentes. Quatro ou mais implantes sustentam uma arcada completa fixa, eliminando o uso de dentaduras removíveis.</p>
+                </div>
+                <div class="prosthesis-card reveal delay-4">
+                    <h3>Prótese Implanto Suportada (Overdenture)</h3>
+                    <p>Uma prótese removível retida por implantes dentários. Oferece muito mais estabilidade e conforto do que as próteses convencionais, com custo mais acessível que o protocolo fixo.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq-section section" id="faq">
+        <div class="container">
+            <div class="section-header reveal">
+                <h2>Perguntas Frequentes</h2>
+                <p>Tire as principais dúvidas sobre o tratamento de implante dentário na MD Frossard.</p>
+            </div>
+
+            <div class="faq-list" id="faq-list">
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        A falta de dentes pode ser prejudicial?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Sim. A falta de um ou vários dentes gera um desequilíbrio da oclusão (mordida), causando perda da estética, dentes desalinhados e problemas ou dores articulares.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        O implante é superior às próteses convencionais?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>É superior na maioria dos casos de perda dentária, pois não há desgaste em dentes adjacentes. Porém, cada caso deve ser estudado e analisado por um profissional capacitado para garantir a indicação correta.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        Quais exames são necessários?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>São necessários exames radiográficos, tomográficos e sanguíneos, além de outros exames complementares conforme o julgamento do profissional responsável pelo caso.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        Instalar implantes dói?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>O procedimento é realizado sob anestesia local. Por ser uma cirurgia, pode haver uma pequena dor e inchaço no local durante a cicatrização, que são controlados com medicamentos prescritos pelo especialista. Com a técnica guiada, o desconforto pós-operatório é significativamente reduzido.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        Posso sofrer rejeição?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Não. O implante é confeccionado em titânio, um material biocompatível com o organismo humano e que não causa rejeição. O que pode ocorrer, em casos raros, é a falta de ancoragem entre o osso e o implante ou algum tipo de infecção — situações manejáveis pelo especialista.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        Quais os cuidados de higiene com o implante?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Os cuidados são os mesmos de um dente natural:</p>
+                        <ul>
+                            <li>Escovação regular após as refeições;</li>
+                            <li>Uso do fio dental diariamente.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        Para quem é indicado o implante dentário?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>O implante é indicado para pessoas que:</p>
+                        <ul>
+                            <li>Perderam um ou mais dentes;</li>
+                            <li>Sentem insegurança com prótese removível;</li>
+                            <li>Têm dificuldade para mastigação;</li>
+                            <li>Desejam melhorar a estética do sorriso.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        Qual o tempo de tratamento?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Depende de cada caso. Após a instalação, é possível receber um dente provisório imediatamente (carga imediata), conforme a retenção do implante no osso. A prótese definitiva, em geral, é instalada após a completa cicatrização óssea, que varia de 2 a 6 meses.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="treatment-cta">
+        <div class="container">
+            <h2 class="reveal">Pronto para recuperar o seu sorriso?</h2>
+            <p class="reveal delay-1">Agende uma consulta com nossos especialistas e descubra o plano de tratamento ideal para o seu caso.</p>
+            <div class="cta-buttons reveal delay-2">
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank" class="btn btn-primary btn-lg">
+                    <i data-lucide="message-circle" class="icon-sm"></i>
+                    Chamar no WhatsApp
+                </a>
+                <a href="tel:2132170430" class="btn btn-outline btn-lg">
+                    <i data-lucide="phone" class="icon-sm"></i>
+                    (21) 3217-0430
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer" id="contato">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <img src="logo_branco.png" alt="MD Frossard Logo" class="footer-logo">
+                    <p>EPAO - 3415<br>Responsável Técnico: Davi H. Frossard CRO 36193</p>
+                    <div class="social-links dark">
+                        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="whatsapp-btn">
+                            <i data-lucide="message-circle"></i>
+                            WhatsApp
+                        </a>
+                    </div>
+                </div>
+
+                <div class="footer-clinic">
+                    <h3>Consultório Barra da Tijuca</h3>
+                    <p><i data-lucide="map-pin" class="icon-xs"></i> Av. das Américas, 700 - Bloco 2 / Sala
+                        143<br>Shopping Città America - CEP: 22640-100</p>
+                    <p><i data-lucide="phone" class="icon-xs"></i> <span><a href="tel:2132170430">(21) 3217-0430</a><br><a href="tel:21976637803">(21) 97663-7803</a></span></p>
+                    <a href="#" class="text-link sm">Ver no Mapa <i data-lucide="external-link" class="icon-xs"></i></a>
+                </div>
+
+                <div class="footer-clinic">
+                    <h3>Consultório Botafogo</h3>
+                    <p><i data-lucide="map-pin" class="icon-xs"></i> Rua Marques, 15.<br> Casa<br> Ao lado da Cobal do Humaitá<br> CEP: 22260-240</p>
+                    <p><i data-lucide="phone" class="icon-xs"></i> <span><a href="tel:2132170430">(21) 3217-0430</a><br><a href="tel:21976637803">(21) 97663-7803</a></span></p>
+                    <a href="#" class="text-link sm">Ver no Mapa <i data-lucide="external-link" class="icon-xs"></i></a>
+                </div>
+
+                <div class="footer-links">
+                    <h3>Acesso Rápido</h3>
+                    <ul>
+                        <li><a href="tratamentos.html">Tratamentos</a></li>
+                        <li><a href="equipe.html">Equipe</a></li>
+                        <li><a href="estrutura.html">Estrutura</a></li>
+                        <li><a href="depoimentos.html">Depoimentos</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 MD Frossard. Todos os direitos reservados.</p>
+                <a href="#" id="scroll-top" class="scroll-top"><i data-lucide="arrow-up"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js" defer></script>
+    <script>
+        // FAQ Accordion
+        document.addEventListener('DOMContentLoaded', function () {
+            const faqItems = document.querySelectorAll('.faq-item');
+            faqItems.forEach(item => {
+                const btn = item.querySelector('.faq-question');
+                btn.addEventListener('click', () => {
+                    const isOpen = item.classList.contains('open');
+                    // Fechar todos
+                    faqItems.forEach(i => i.classList.remove('open'));
+                    // Abrir o clicado (se estava fechado)
+                    if (!isOpen) item.classList.add('open');
+                });
+            });
+        });
+    </script>
+
+</body>
+
+</html>

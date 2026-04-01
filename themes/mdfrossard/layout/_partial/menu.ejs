@@ -1,8 +1,11 @@
+<%
+var currentActiveMenu = typeof active_menu !== 'undefined' ? active_menu : '';
+%>
 <div id="mainmenu" class="collapse navbar-collapse">
   <nav class="nav-main">
     <ul id="menu-menu" class="nav navbar-nav navbar-right">
-      <li class="menu-item<%= page.active_menu == 'home' ? ' current-menu-item' : '' %>"><a href="/">Home</a></li>
-      <li class="menu-item<%= page.active_menu == 'sobre' ? ' current-menu-item' : '' %>"><a href="#">Sobre</a>
+      <li class="menu-item<%= currentActiveMenu == 'home' ? ' current-menu-item' : '' %>"><a href="/">Home</a></li>
+      <li class="menu-item<%= currentActiveMenu == 'sobre' ? ' current-menu-item' : '' %>"><a href="#">Sobre</a>
         <ul role="menu" class="sub-menu dropdown-menu">
           <li class="menu-item"><a href="/equipe">Equipe</a></li>
           <li class="menu-item"><a href="/estrutura">Estrutura</a></li>
@@ -10,8 +13,8 @@
           <li class="menu-item"><a href="/biosseguranca">Biossegurança</a></li>
         </ul>
       </li>
-      <li class="menu-item<%= page.active_menu == 'informativos' ? ' current-menu-item' : '' %>"><a href="/informativos">Informativos</a></li>
-      <li class="menu-item<%= page.active_menu == 'tratamentos' ? ' current-menu-item' : '' %>"><a href="#">Tratamentos</a>
+      <li class="menu-item<%= currentActiveMenu == 'informativos' ? ' current-menu-item' : '' %>"><a href="/informativos">Informativos</a></li>
+      <li class="menu-item<%= currentActiveMenu == 'tratamentos' ? ' current-menu-item' : '' %>"><a href="#">Tratamentos</a>
         <ul role="menu" class="sub-menu dropdown-menu">
           <li class="menu-item"><a href="/tratamentos/implante-dentario">Implante Dentario</a></li>
           <li class="menu-item"><a href="/tratamentos/protese">Prótese</a></li>
@@ -23,10 +26,10 @@
           <li class="menu-item"><a href="/tratamentos/check-up-digital-preventivo">Check Up Digital Preventivo</a></li>
         </ul>
       </li>
-      <li class="menu-item<%= page.active_menu == 'day_clinic' ? ' current-menu-item' : '' %>"><a href="/day-clinic">Day Clinic</a></li>
-      <li class="menu-item<%= page.active_menu == 'localizacao' ? ' current-menu-item' : '' %>"><a href="/localizacao">Localização</a></li>
-      <li class="menu-item<%= page.active_menu == 'contato' ? ' current-menu-item' : '' %>"><a href="/contato">Contato</a></li>
-      <li class="menu-item<%= page.path.startsWith('blog/') ? ' current-menu-item' : '' %>"><a href="/blog">Blog</a></li>
+      <li class="menu-item<%= currentActiveMenu == 'day_clinic' ? ' current-menu-item' : '' %>"><a href="/day-clinic">Day Clinic</a></li>
+      <li class="menu-item<%= currentActiveMenu == 'localizacao' ? ' current-menu-item' : '' %>"><a href="/localizacao">Localização</a></li>
+      <li class="menu-item<%= currentActiveMenu == 'contato' ? ' current-menu-item' : '' %>"><a href="/contato">Contato</a></li>
+      <li class="menu-item<%= page.url && page.url.indexOf('/blog') === 0 ? ' current-menu-item' : '' %>"><a href="/blog">Blog</a></li>
     </ul>
   </nav>
 </div><!--/.nav-collapse -->

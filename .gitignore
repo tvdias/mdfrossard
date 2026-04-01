@@ -1,13 +1,35 @@
+# Eleventy / Cloudflare Pages build artifacts
+public/
+_site/
+.cache/
+.cache-eleventy/
+dist/
+build/
+tmp/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
+.dev.vars
+
+# Cloudflare / deployment
+.wrangler/
+.vercel/
+.netlify/
+
+# OS
 .DS_Store
 Thumbs.db
-db.json
-*.log
-node_modules/
-public/
-.deploy*/
 
+# Archives
 *.zip
 *.7z
-
-/functions-build
-source/amp/

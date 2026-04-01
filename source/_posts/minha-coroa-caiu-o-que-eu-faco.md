@@ -1,10 +1,11 @@
 ---
-title: Minha Coroa Caiu, o que eu Faço ?
+title: Minha Coroa Caiu – O que eu Faço?
 description: >-
   Quando acontece o problema da coroa cair, o que você deve fazer? 
   Quais são os procedimentos necessários resolver esse problema.
-date: 2020-02-04T10:00:20.000Z
-featured_image: /images/d639e10c-76db-4eef-bdd7-b6c2afb2b55a_Medo-de-dentista.png
+date: 2019-12-05T10:00:00.000Z
+featured_image: /images/blog_coroa_caiu.png
+category: Prótese
 ---
 Planejar e realizar a viagem dos sonhos juntamente com a família. Mas um problema acontece, **sua coroa cai...**
 

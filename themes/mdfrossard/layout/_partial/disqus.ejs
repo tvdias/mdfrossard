@@ -1,9 +1,7 @@
 <% if (config.disqus_shortname){ %>
 <script>
     var disqus_config = function () {
-        <% if (page.permalink){ %>
-        this.page.url = '<%= page.permalink %>';
-        <% } %>
+        this.page.url = '<%= new URL(page.url, config.url).toString() %>';
         this.language = "pt";
     };
     (function() { // DON'T EDIT BELOW THIS LINE

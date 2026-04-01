@@ -11,22 +11,24 @@ This file is a quick reference. For comprehensive information about building, ru
 ### The Golden Rule
 **After EVERY change without exception:**
 ```bash
-npm run build              # Must succeed with no errors
-npm start:app              # Must start on http://localhost:4000
+npm run build              # Build site to public/
+npm run start:eleventy     # Eleventy dev server (fast, watches files)
+npm run start              # Build then run Cloudflare Pages dev (includes Functions)
 # Test at http://localhost:4000 in browser
 ```
 
 ### Core Commands
 ```bash
-npm run build              # Build entire site
+npm run build              # Build entire site to public/
 npm run build:app          # Build site only (quick)
-npm start:app              # Run development server
-npx hexo clean             # Clear cache if needed
+npm run start:eleventy     # Eleventy --serve (fast local iteration)
+npm run start:cloudflare   # Wrangler pages dev (serve public/ + Functions)
+npm run start              # Build then run Cloudflare Pages dev
 ```
 
 ### Verification Steps
 1. Run `npm run build` → must succeed
-2. Run `npm start:app` → must start server
+2. Run `npm run start:eleventy` for template/content iteration, or `npm run start` / `npm run start:cloudflare` to test Cloudflare Functions locally → must start server
 3. Open http://localhost:4000 → must load
 4. Check modified pages render correctly
 5. Check browser console (F12) for errors
@@ -35,7 +37,7 @@ npx hexo clean             # Clear cache if needed
 ```bash
 git checkout -b feature/your-feature-name
 # Make changes
-npm run build && npm start:app              # VERIFY HERE
+npm run build && npm run start:cloudflare  # VERIFY here (Cloudflare Functions)
 git add .
 git commit -m "Clear description of changes"
 git push origin feature/your-feature-name
@@ -43,11 +45,15 @@ git push origin feature/your-feature-name
 
 ### Key File Locations
 - **Posts:** `source/_posts/*.md` (edit freely)
-- **Drafts:** `source/_drafts/*.md` (not published)
+- **Drafts:** `source/_drafts/*.md` — Eleventy may include drafts by default; to exclude add `source/_drafts` to `.eleventyignore` or set `published: false` in front matter.
 - **Config:** `_config.yml` (careful!)
 - **Data:** `source/_data/*.json` (testimonials, authors)
 - **Theme:** `themes/mdfrossard/` (be careful!)
 - **DO NOT EDIT:** `public/` (auto-generated)
+
+### Cloudflare Functions / Email
+- The project uses Cloudflare Pages Functions in `functions/` (for example the contact handler).
+- Ensure production env vars are set in Cloudflare Pages: `SPARKPOST_SECRET`, `CONTACT_EMAIL`, `SITE_EMAIL_FROM` (optional).
 
 ### Critical Rules
 1. ✅ Verify after every change
@@ -70,4 +76,4 @@ Refer there for:
 - ✓ Content guidelines
 - ✓ Common tasks with examples
 - ✓ Testing checklist
-- ✓ Netlify Functions information
+- ✓ Cloudflare Pages Functions information

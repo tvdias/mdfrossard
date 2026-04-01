@@ -1,0 +1,103 @@
+---
+title: Nossa Estrutura | Tecnologia e Conforto
+layout: layout.ejs
+active_menu: sobre
+description: Conheça os consultórios da MD Frossard na Barra da Tijuca e Botafogo. Ambientes modernos, equipados com a mais alta tecnologia para o seu atendimento.
+---
+
+<!-- Page Mini Hero -->
+<section class="page-hero">
+    <div class="page-hero-bg"></div>
+    <div class="container page-hero-content reveal">
+        <h1>Nossa Estrutura</h1>
+        <p>Conheça o ambiente moderno e acolhedor planejado para o seu conforto e bem-estar.</p>
+    </div>
+</section>
+
+<!-- Clinic Info & Video Section -->
+<section class="about-clinic section">
+    <div class="container">
+        <div class="about-clinic-grid">
+            <div class="about-text reveal">
+                <h2>Um novo conceito em Odontologia</h2>
+                <p>A MD Frossard Odontologia é uma clínica odontológica que atua há mais de 30 anos na zona sul da cidade do Rio de Janeiro e que também possui atendimento na Barra da Tijuca.</p>
+                <p>O tratamento é realizado com alta perfomance com uma odontologia contemporânea. Focamos nosso atendimento em 3 pilares: Relacionamento, Confiança e Pontualidade.</p>
+                <p>Acreditamos que a odontologia pode ser diferente. Saindo do binômio dor e tratamento, para a saúde constante. Queremos que os nossos pacientes se sintam em “casa” em nossa clínica.</p>
+                <p>Nosso objetivo é que o seu tratamento seja memorável, por isso o seu trabalho é personalizado e de qualidade. Além disso, contamos com uma estrutura privilegiada, apta para proporcionar conforto durante o atendimento.</p>
+            </div>
+            <div class="about-video reveal delay-2">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/Yh-6jaONlqI" title="Conheça a MD Frossard Odontologia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Gallery Section -->
+<section class="gallery-section section bg-light">
+    <div class="container">
+        <div class="gallery-grid">
+            <!-- Fotos Clínicas -->
+            <div class="gallery-item reveal delay-1">
+                <img src="/images/estrutura_gal_1774458853072.jpg" alt="Consultório Odontológico MD Frossard" loading="lazy" decoding="async">
+            </div>
+            <div class="gallery-item reveal delay-2">
+                <img src="/images/estrutura_gal_new.jpg" alt="Equipamentos Modernos MD Frossard" loading="lazy" decoding="async">
+            </div>
+            <div class="gallery-item reveal delay-3">
+                <img src="/images/estrutura_gal_1774458852998.jpg" alt="Estrutura de Atendimento MD Frossard" loading="lazy" decoding="async">
+            </div>
+            <div class="gallery-item reveal delay-4">
+                <img src="/images/estrutura_gal_1774458853005.jpg" alt="Conforto e Tecnologia MD Frossard" loading="lazy" decoding="async">
+            </div>
+            
+            <!-- Lobby/Recepção -->
+            <div class="gallery-item reveal delay-5">
+                <img src="/images/estrutura_gal_1774458853107.jpg" alt="Recepção e Sala de Espera MD Frossard" loading="lazy" decoding="async">
+            </div>
+            <div class="gallery-item reveal delay-6">
+                <img src="/images/estrutura_gal_1774458852977.jpg" alt="Entrada da Clínica MD Frossard" loading="lazy" decoding="async">
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+.gallery-section .gallery-item {
+    aspect-ratio: 4 / 3;
+    background-color: transparent;
+}
+.gallery-item img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+.gallery-item:hover img {
+    transform: scale(1.05);
+}
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+}
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+@media (max-width: 720px) {
+    .gallery-grid {
+        grid-template-columns: 1fr;
+    }
+}
+</style>

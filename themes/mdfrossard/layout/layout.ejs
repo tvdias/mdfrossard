@@ -1,27 +1,13 @@
-
 <!doctype html>
-<!--[if lt IE 7]>      <html lang="pt-br" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html lang="pt-br" class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html lang="pt-br" class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html lang="pt-br" class="no-js"> <!--<![endif]-->
-<%- partial('_partial/head') %>
-<body class="home page-template-default page page-id-4 op-plugin et_bloom">
-  <!-- Google Tag Manager - 19-05-15 (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLR2C2T" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<html lang="pt-br">
+<%- include('_partial/head') %>
+<body>
+  <%- include('_partial/header') %>
+  
+  <main id="main">
+    <%- content %>
+  </main>
 
-  <%- partial('_partial/header') %>
-  <div class="main" id="main">
-		<div class="content">
-      <div class="container">
-        <%- body %>
-      </div>
-      <!-- container -->
-    </div>
-    <!-- content -->
-  </div>
-  <!-- main -->
-  <%- partial('_partial/footer', null, {cache: !config.relative_link}) %>
-  <div style="display:none"></div>
-  <%- partial('_partial/footer-after') %>
+  <%- include('_partial/footer') %>
 </body>
 </html>

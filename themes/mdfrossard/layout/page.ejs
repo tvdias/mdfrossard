@@ -1,7 +1,16 @@
+---
+layout: layout.ejs
+---
+
+<%
+var customClass = typeof locals !== 'undefined' && locals['class'] ? ' ' + locals['class'] : '';
+var pageIdClass = typeof id !== 'undefined' && id ? ' ' + id.toString().toLowerCase() : '';
+var shouldHideTitle = typeof hide_title !== 'undefined' ? hide_title : false;
+%>
 <div class="row">
-    <div class="contpage<%= page.id ? ' ' + page.id.toString().toLowerCase() : '' %><%= page.class ? ' ' + page.class : '' %>">
-        <% if (!page.hide_title) { %><h1 class="title2" style="margin-bottom:20px;"><%- page.title %></h1><% } %>
-        <%- page.content %>
+    <div class="contpage<%= pageIdClass %><%= customClass %>">
+        <% if (!shouldHideTitle) { %><h1 class="title2" style="margin-bottom:20px;"><%- title %></h1><% } %>
+        <%- content %>
     </div>
     <!-- contpage -->
 </div>

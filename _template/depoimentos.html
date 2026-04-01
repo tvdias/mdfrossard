@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Depoimentos | MD Frossard Odontologia</title>
+
+    <!-- Meta Tags -->
+    <meta name="description"
+        content="Veja Histórias Reais de pacientes da Clínica MD Frossard Odontologia. Leia os comentários sobre o atendimento com os profissionais.">
+    <meta name="theme-color" content="#0a0a0a">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+
+    <!-- Icons (Lucide) -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .page-hero.testimonials-hero {
+            position: relative;
+        }
+        .page-hero.testimonials-hero .page-hero-bg {
+            background-image: url('depoimentos_new.jpg');
+            background-position: center 30%;
+            background-size: cover;
+            filter: brightness(0.6);
+        }
+        .page-hero.testimonials-hero::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, rgba(10,12,16,0.8) 0%, rgba(10,12,16,0.4) 100%);
+            z-index: 1;
+        }
+        .page-hero.testimonials-hero .page-hero-content {
+            position: relative;
+            z-index: 2;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Header / Navbar -->
+    <header class="header header-internal" id="header">
+        <div class="top-bar">
+            <div class="container top-bar-inner">
+                <div class="contact-info">
+                    <a href="tel:02132170430"><i data-lucide="phone" class="icon-sm"></i> (21) 3217-0430</a>
+                    <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank"><i data-lucide="smartphone" class="icon-sm"></i> (21) 97663-7803</a>
+                </div>
+            </div>
+        </div>
+
+        <nav class="navbar container">
+            <a href="index.html" class="brand">
+                <img src="logo_branco.png" alt="MD Frossard Logo" class="logo">
+            </a>
+
+            <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Menu">
+                <i data-lucide="menu"></i>
+            </button>
+
+            <ul class="nav-links" id="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#">Sobre <i data-lucide="chevron-down" class="icon-xs"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="equipe.html">Equipe</a></li>
+                        <li><a href="estrutura.html">Estrutura</a></li>
+                        <li><a href="depoimentos.html">Depoimentos</a></li>
+                    </ul>
+                </li>
+                <li><a href="tratamentos.html">Tratamentos</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="localizacao.html">Localização</a></li>
+                <li><a href="tel:21976637803" class="btn btn-primary btn-nav">Agende sua Consulta</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Page Mini Hero -->
+    <section class="page-hero">
+        <div class="page-hero-bg"></div>
+        <div class="container page-hero-content reveal">
+            <h1>Histórias Reais</h1>
+            <p>Veja o que nossos pacientes dizem sobre a experiência de cuidar do sorriso conosco.</p>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials section bg-light" id="depoimentos">
+        <div class="container">
+            <div class="section-header text-center reveal">
+                <h2>O que nossos pacientes dizem</h2>
+                <p>Confira os relatos de quem transformou o sorriso com a MD Frossard Odontologia.</p>
+            </div>
+            
+            <div class="testimonials-grid mt-5">
+                
+                <!-- Depoimento 1 - Larissa Rodrigues -->
+                <div class="testimonial-card reveal delay-1">
+                    <div class="stars">
+                        <i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i>
+                    </div>
+                    <p class="testimonial-text">"Sempre tive pânico de dentista, algo que me impediu de ir ao dentista por 15 anos, praticamente. Chorava, fugia, verdadeiro terror! Quando encontrei a MD Frossard estava apavorada mas decidida e eles foram essenciais para que eu finalmente superasse e me cuidasse. O trabalho feito por eles me mudou esteticamente e funcionalmente. Agradeço demais e recomendo!"</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">L</div>
+                        <div><h4>Larissa Rodrigues</h4><span>Paciente</span></div>
+                    </div>
+                </div>
+
+                <!-- Depoimento 2 - Déo Pessoa -->
+                <div class="testimonial-card reveal delay-2">
+                    <div class="stars">
+                        <i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i>
+                    </div>
+                    <p class="testimonial-text">"Profissionais além de competentes, respeitáveis e sempre preocupados com o melhor atendimento ao paciente. Ambiente familiar e de excelente infraestrutura."</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">D</div>
+                        <div><h4>Déo Pessoa</h4><span>Paciente</span></div>
+                    </div>
+                </div>
+
+                <!-- Depoimento 3 - Bianca Sadkowski -->
+                <div class="testimonial-card reveal delay-3">
+                    <div class="stars">
+                        <i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i>
+                    </div>
+                    <p class="testimonial-text">"Conheço o Dr. Marcos desde a barriga da minha mãe e desde sempre cuidei dos meus dentes com ele. Recentemente ele e seu filho, Dr. Davi, realizaram o meu sonho de ter um sorriso perfeito. Eles cuidam de toda a minha família e são extremamente competentes!"</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">B</div>
+                        <div><h4>Bianca Sadkowski</h4><span>Paciente</span></div>
+                    </div>
+                </div>
+
+                <!-- Depoimento 4 - Célia Regina Paiva -->
+                <div class="testimonial-card reveal delay-1">
+                    <div class="stars">
+                        <i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i>
+                    </div>
+                    <p class="testimonial-text">"Minha experiência foi maravilhosa, aumentou muito minha autoestima, antes eu não sorria nas fotos. Depois do trabalho executado, vivo sorrindo, sou outra pessoa, muito feliz e agradecida por profissionais competentes e abençoados."</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">C</div>
+                        <div><h4>Célia Regina Paiva</h4><span>Paciente</span></div>
+                    </div>
+                </div>
+
+                <!-- Depoimento 5 - Anneliza Argon -->
+                <div class="testimonial-card reveal delay-2">
+                    <div class="stars">
+                        <i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i>
+                    </div>
+                    <p class="testimonial-text">"Já tive várias experiências com dentistas que não foram nada boas… até que encontrei o MD FROSSARD! A equipe toda é muito atenciosa e competente. Completamente indolor. Estou muito satisfeita com o trabalho realizado."</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">A</div>
+                        <div><h4>Anneliza Argon</h4><span>Paciente</span></div>
+                    </div>
+                </div>
+
+                <!-- Depoimento 6 - Fabio Santos -->
+                <div class="testimonial-card reveal delay-3">
+                    <div class="stars">
+                        <i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i>
+                    </div>
+                    <p class="testimonial-text">"Quem procura um atendimento diferenciado tem que conhecer o brilhante serviço prestado! Profissionais que zelam pelo bom atendimento, bem como a relação dentista-paciente. Além da infraestrutura montada dando maior conforto às consultas!"</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">F</div>
+                        <div><h4>Fabio Santos</h4><span>Paciente</span></div>
+                    </div>
+                </div>
+
+                <!-- Depoimento 7 - Otávio Azevedo -->
+                <div class="testimonial-card reveal delay-1">
+                    <div class="stars">
+                        <i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i>
+                    </div>
+                    <p class="testimonial-text">"Fiquei super satisfeito com o processo e resultado do tratamento estético-dentário. Nota 10 em todos os quesitos. Além da expertise profissional, destaque para o clima de gentileza, pontualidade e responsabilidade."</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">O</div>
+                        <div><h4>Otávio Azevedo</h4><span>Paciente</span></div>
+                    </div>
+                </div>
+
+                <!-- Depoimento 8 - Nivaldo Teixeira de Souza -->
+                <div class="testimonial-card reveal delay-2">
+                    <div class="stars">
+                        <i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i>
+                    </div>
+                    <p class="testimonial-text">"Agradeço aos Drs Marcos, Davi Frossard e Equipe, toda a atenção e profissionalismo no meu tratamento dentário. Foi longo mas valeu cada etapa. Sorriso mais bonito e saudável."</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">N</div>
+                        <div><h4>Nivaldo Teixeira de Souza</h4><span>Paciente</span></div>
+                    </div>
+                </div>
+
+                <!-- Depoimento 9 - Andrea Bastianelli Maciel -->
+                <div class="testimonial-card reveal delay-3">
+                    <div class="stars">
+                        <i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i>
+                    </div>
+                    <p class="testimonial-text">"Sou cliente do Dr. Marcos Frossard desde 2003. No decorrer desses anos tive a oportunidade de fazer diversos trabalhos, muitos dos quais complexos, com cujos resultados fiquei 100% satisfeita! Além de excelente profissional, se tornou um dileto amigo da nossa família."</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">A</div>
+                        <div><h4>Andrea Bastianelli Maciel</h4><span>Paciente</span></div>
+                    </div>
+                </div>
+
+                <!-- Depoimento 10 - Sofia Ardo -->
+                <div class="testimonial-card reveal delay-1">
+                    <div class="stars">
+                        <i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i>
+                    </div>
+                    <p class="testimonial-text">"Sou cliente do Dr. Marcos desde 1981. Ele me foi recomendado por uma amiga, a qual agradeço até hoje a indicação. Elogiar e reconhecer o excelente trabalho será insuficiente para descrever o profissional de gabarito."</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">S</div>
+                        <div><h4>Sofia Ardo</h4><span>Paciente</span></div>
+                    </div>
+                </div>
+
+                <!-- Depoimento 11 - Ilton Fajardo -->
+                <div class="testimonial-card reveal delay-2">
+                    <div class="stars">
+                        <i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i><i data-lucide="star" class="icon-sm star-filled"></i>
+                    </div>
+                    <p class="testimonial-text">"Ser paciente da MD Frossard Odontologia me dá tranquilidade e segurança. Sob as mãos dos profissionais fui recuperado de graves doenças gengivais e dentais, tendo hoje um sorriso alegre e espontâneo."</p>
+                    <div class="testimonial-author">
+                        <div class="author-avatar">I</div>
+                        <div><h4>Ilton Fajardo</h4><span>Paciente</span></div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer" id="contato">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <img src="logo_branco.png" alt="MD Frossard Logo" class="footer-logo">
+                    <p>EPAO - 3415<br>Responsável Técnico: Davi H. Frossard CRO 36193</p>
+                    <div class="social-links dark">
+                        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="whatsapp-btn">
+                            <i data-lucide="message-circle"></i>
+                            WhatsApp
+                        </a>
+                    </div>
+                </div>
+
+                <div class="footer-clinic">
+                    <h3>Consultório Barra da Tijuca</h3>
+                    <p><i data-lucide="map-pin" class="icon-xs"></i> Av. das Américas, 700 - Bloco 2 / Sala 143<br>Shopping Città America - CEP: 22640-100</p>
+                    <p><i data-lucide="phone" class="icon-xs"></i> <span><a href="tel:2132170430">(21) 3217-0430</a><br><a href="tel:21976637803">(21) 97663-7803</a></span></p>
+                    <a href="#" class="text-link sm">Ver no Mapa <i data-lucide="external-link" class="icon-xs"></i></a>
+                </div>
+
+                <div class="footer-clinic">
+                    <h3>Consultório Botafogo</h3>
+                    <p><i data-lucide="map-pin" class="icon-xs"></i> Rua Marques, 15.<br> Casa<br> Ao lado da Cobal do Humaitá<br> CEP: 22260-240</p>
+                    <p><i data-lucide="phone" class="icon-xs"></i> <span><a href="tel:2132170430">(21) 3217-0430</a><br><a href="tel:21976637803">(21) 97663-7803</a></span></p>
+                    <a href="#" class="text-link sm">Ver no Mapa <i data-lucide="external-link" class="icon-xs"></i></a>
+                </div>
+
+                <div class="footer-links">
+                    <h3>Acesso Rápido</h3>
+                    <ul>
+                        <li><a href="tratamentos.html">Tratamentos</a></li>
+                        <li><a href="equipe.html">Equipe</a></li>
+                        <li><a href="estrutura.html">Estrutura</a></li>
+                        <li><a href="depoimentos.html">Depoimentos</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 MD Frossard. Todos os direitos reservados.</p>
+                <a href="#" id="scroll-top" class="scroll-top"><i data-lucide="arrow-up"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Script -->
+    <script src="script.js" defer></script>
+</body>
+
+</html>

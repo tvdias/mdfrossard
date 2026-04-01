@@ -8,13 +8,13 @@
 <script type='text/javascript' src="/js/bootstrap.min.js"></script>
 <script type='text/javascript' src="/js/owl.carousel.min.js"></script>
 
-<%- partial('fb-widget') %>
-<%- partial('google-analytics') %>
-<%- partial('google-remarketing') %>
-<%- partial('google-adwords') %>
-<%- partial('disqus') %>
-<%- partial('phonetrack') %>
-<%- partial('hotjar') %>
+<%- include('fb-widget') %>
+<%- include('google-analytics') %>
+<%- include('google-remarketing') %>
+<%- include('google-adwords') %>
+<%- include('disqus') %>
+<%- include('phonetrack') %>
+<%- include('hotjar') %>
 
 <script>
 var $jq = jQuery.noConflict();
@@ -61,14 +61,18 @@ if ('loading' in HTMLImageElement.prototype) {
 }
 </script>
 
-<% if(page.id && page.id === 'contato') { %>
-  <%- partial('js-contato') %>
+<%
+var currentPageId = typeof id !== 'undefined' ? id : '';
+%>
+
+<% if(currentPageId === 'contato') { %>
+  <%- include('js-contato') %>
 <% } %>
 
-<% if(page.id && page.id === 'estrutura') { %>
-  <%- partial('js-estrutura') %>
+<% if(currentPageId === 'estrutura') { %>
+  <%- include('js-estrutura') %>
 <% } %>
 
-<% if(page.id && page.id === 'home') { %>
-  <!-- <%- partial('js-home') %> -->
+<% if(currentPageId === 'home') { %>
+  <!-- <%- include('js-home') %> -->
 <% } %>
