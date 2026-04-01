@@ -51,7 +51,7 @@ No período de 17 aos 21 anos, pode ocorrer ainda a erupção dos dentes sisos. 
 
 **“Porque é muito melhor prevenir do que remediar!”** 
 
-Vista a cronologia de erupção dos dentes, podemos dizer que levar a criança desde cedo ao dentista é importante para a [**PREVENÇÃO**](/tratamentos/prevencao-e-manutencao/ "Prevenção e Manutenção"). 
+Vista a cronologia de erupção dos dentes, podemos dizer que levar a criança desde cedo ao dentista é importante para a [**PREVENÇÃO**](/tratamentos/prevencao-manutencao/ "Prevenção e Manutenção"). 
 
 O indivíduo que desde cedo tem o contato com o dentista, desde cedo se familiariza com o ambiente e com o profissional, diminuindo suas chances de desenvolver **medo de dentista**. 
 

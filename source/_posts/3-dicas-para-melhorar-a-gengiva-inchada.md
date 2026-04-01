@@ -58,7 +58,7 @@ O uso do fio pode ser difícil e demandar tempo. Porém, o uso antes de dormir �
 
 ![](/images/1e89317b-7099-45c2-bc5b-1962a6686ba4_ir-ao-dentista-gengiva-inchada-1.jpg)
 
-A [prevenção](/tratamentos/prevencao-e-manutencao/) sempre é a forma mais eficaz e barata para evitar e solucionar problemas de saúde. 
+A [prevenção](/tratamentos/prevencao-manutencao/) sempre é a forma mais eficaz e barata para evitar e solucionar problemas de saúde. 
 
 Assim, consultas periódicas ao dentista são essenciais para diagnosticar a causa e assim tratar corretamente sua gengiva. 
 

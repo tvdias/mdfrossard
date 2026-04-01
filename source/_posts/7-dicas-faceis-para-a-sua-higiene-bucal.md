@@ -6,7 +6,7 @@ description: >-
 date: 2015-08-17T10:30:39.000Z
 featured_image: /images/14399dec-bdd5-48d0-b052-90432ad0020d_higiene-bucal.jpg
 ---
-Atualmente percebemos uma grande demanda dos pacientes por [estética](/tratamentos/estetica-dos-dentes/). 
+Atualmente percebemos uma grande demanda dos pacientes por [estética](/tratamentos/estetica-dental/). 
 
 A procura por tratamento restauradores do tipo {% post_link facetas-dentais "facetas dentárias" %} é grande, porém o que devemos pensar é na longevidade desses tipos de trabalhos. 
 
@@ -30,7 +30,7 @@ Essa dica vem com a clássica frase, escove os dentes 3 vezes ao dia sempre depo
 
 Essa afirmação esta correta, o problema que na nossa vida corrida nem sempre temos tempo de escovar os dentes após as refeições, as vezes, nem é possível sentar e almoçar com calma. 
 
-Por isso, sempre quando for possível, escove os dentes com qualidade, nesse [link](/tratamentos/prevencao-e-manutencao/) eu descrevo uma técnica correta e fácil de escovação dos dentes. 
+Por isso, sempre quando for possível, escove os dentes com qualidade, nesse [link](/tratamentos/prevencao-manutencao/) eu descrevo uma técnica correta e fácil de escovação dos dentes. 
 
 Uma regra de ouro no caso da frequência de escovação é sempre escovar os dentes antes de dormir. 
 

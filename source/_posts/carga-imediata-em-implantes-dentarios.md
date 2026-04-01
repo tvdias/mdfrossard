@@ -10,7 +10,7 @@ Os {% post_link implante-de-dente "implantes dentários" %} já estão na odonto
 
 A **carga imediata em implantes** já não é uma novidade e é efetuada no momento da instalação do implante. 
 
-Muitos pacientes chegam ao nosso consultório com [dúvidas](/tratamentos/implante-dental/) sobre esse tipo de tratamento, portanto este texto visa abordar os pontos básicos e tentar sanar as dúvidas do público em geral.
+Muitos pacientes chegam ao nosso consultório com [dúvidas](/tratamentos/implante-dentario/) sobre esse tipo de tratamento, portanto este texto visa abordar os pontos básicos e tentar sanar as dúvidas do público em geral.
 
 ## Em primeiro lugar, o que é carga imediata em implantes?
 
@@ -38,7 +38,7 @@ Outra vantagem é obviamente o menor tempo de tratamento. Pois, ao invés de esp
 
 Esse terceiro fator está intimamente ligado com os demais. 
 
-Afinal, o uso da carga imediata já possibilita uma [estética](/tratamentos/estetica-dos-dentes/ "Estética") superior do que se fosse ficar sem o dente em questão. 
+Afinal, o uso da carga imediata já possibilita uma [estética](/tratamentos/estetica-dental/ "Estética") superior do que se fosse ficar sem o dente em questão. 
 
 O conforto esta justamente por não precisar usar algum tipo de prótese removível, já que o dente estará fixo nos implantes.
 

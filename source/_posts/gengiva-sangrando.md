@@ -125,7 +125,7 @@ Primeiramente devemos ficar alertas com a gengiva sangrando pois **isso é um s
 
 Em segundo lugar, devemos nos orientar sobre a forma certa de passar o fio dental, de como higienizar os dentes, ou seja, procurar um dentista. 
 
-Nos casos mais comuns de gengivite apenas uma [correta escovação](/tratamentos/prevencao-e-manutencao/) junto com o uso do fio dental é o suficiente para melhorar o sangramento. 
+Nos casos mais comuns de gengivite apenas uma [correta escovação](/tratamentos/prevencao-manutencao/) junto com o uso do fio dental é o suficiente para melhorar o sangramento. 
 
 Em casos onde já temos perda de estrutura dental como na periodontite, devemos procurar um profissional qualificado que irá realizar o correto tratamento para estabilizar essa doença. 
 

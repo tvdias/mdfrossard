@@ -53,7 +53,7 @@ Quando se perde o osso também se perde a sustentação do elemento dentário.
 
 Quanto maior a quantidade de osso perdido, maior será a mobilidade e a dificuldade de alimentação com o elemento dentário. Assim, a função mastigatória fica muito deficiente. 
 
-Outro problema importante é a perda da [estética dos dentes](/tratamentos/estetica-dos-dentes/). 
+Outro problema importante é a perda da [estética dos dentes](/tratamentos/estetica-dental/). 
 
 A diminuição do osso ao redor do dente ocasiona a retração da gengiva, levando a exposição da raiz e também a perda da papila dentária. 
 

@@ -9,7 +9,7 @@ featured_image: /images/611839b1-e153-4d42-b2bb-97d0c04e53ef_prótese-dentária-
 
 Na odontologia procuramos sempre atender o paciente da melhor forma, onde a principal meta é tratar e cuidar da cavidade bucal. 
 
-Entretanto, caso você não realize as [consulta de prevenção](/tratamentos/prevencao-e-manutencao/) com a freqüência necessária, os dentes podem apresentar problemas. 
+Entretanto, caso você não realize as [consulta de prevenção](/tratamentos/prevencao-manutencao/) com a freqüência necessária, os dentes podem apresentar problemas. 
 
 Nesse caso, devemos tratar e restaurar o dente afetado. Quando a destruição do dente é grande, devemos realizar tratamentos maiores, como uma **prótese dentária fixa**. 
 

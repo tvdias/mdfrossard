@@ -90,7 +90,7 @@ Porém, quando se tem dentes perfeitos o sorriso se torna muito mais natural e e
 
 Muitos apesar de terem todos os dentes não os apresentam bem posicionados, podendo ter {% post_link mancha-nos-dentes "manchas" %}  ou espaços entre eles. 
 
-Nesse caso, há necessidade de se procurar a [odontologia estética](/tratamentos/estetica-dos-dentes/ "Estética") para se ter um novo sorriso. 
+Nesse caso, há necessidade de se procurar a [odontologia estética](/tratamentos/estetica-dental/ "Estética") para se ter um novo sorriso. 
 
 Inúmeros exemplos no meio artístico já realizaram tratamentos dentários estéticos visando melhorar o aspecto de seus dentes, no vídeo abaixo podemos ver o antes e depois do sorriso de alguns deles.
 {% youtube prnqO-svMFo %}

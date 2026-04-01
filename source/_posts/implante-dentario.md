@@ -75,7 +75,7 @@ Digo isso pois vejo no consultório de forma rotineira pessoas jovens com dentes
 
 Geralmente os dentes afetados são os dentes superiores anteriores (incisivos centrais e laterais), pois os traumas acontecem normalmente na parte frontal da face. 
 
-**Felizmente, em grande parte dos casos, conseguimos restabelecer a função e estética com [implantes dentais.](/tratamentos/implante-dental/)**
+**Felizmente, em grande parte dos casos, conseguimos restabelecer a função e estética com [implantes dentais.](/tratamentos/implante-dentario/)**
 
 
 ## Então, quais são as formas de substituir o dente?

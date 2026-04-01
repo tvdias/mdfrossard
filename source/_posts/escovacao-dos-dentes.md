@@ -33,7 +33,7 @@ Para usar Pegue cerca de 50 centímetros de fio dental e enrole frouxamente a m
 
 Com os seus polegares e os dedos indicadores segurando o fio estendido, deslize-o suavemente para baixo entre os seus dentes, tomando cuidado para não pressioná-lo contra a sua gengiva. 
 
-Para saber mais [clique aqui](/tratamentos/prevencao-e-manutencao/ "Prevenção e Manutenção"). 
+Para saber mais [clique aqui](/tratamentos/prevencao-manutencao/ "Prevenção e Manutenção"). 
 
 Além da escovação temos que pensar na prevenção, através de consultas semestrais ao dentista nos minimizamos a chance de ter algum problema mais sério. 
 

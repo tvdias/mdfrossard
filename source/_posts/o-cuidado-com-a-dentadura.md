@@ -23,7 +23,7 @@ A perda dos dentes ainda acontece em nossa população
 
 A perda dos dentes, infelizmente ainda é comum em nossa população. 
 
-Apesar da melhora em relação a [prevenção](/tratamentos/check-up-digital-preventivo/ "Check Up Digital Preventivo"), da maior conscientização sobre a importância da escovação, ainda temos muitos problemas dentários a serem resolvidos. 
+Apesar da melhora em relação a [prevenção](/odontologia-personalizada/ "Check Up Digital Preventivo"), da maior conscientização sobre a importância da escovação, ainda temos muitos problemas dentários a serem resolvidos. 
 
 O maior deles concerteza é a **perda dentária**. 
 

@@ -81,7 +81,7 @@ Porém, com o passar do tempo, estas restaurações acabavam pigmentando o dente
 
 Assim, o tratamento para esta pigmentação é a remoção destas restaurações escuras e a troca das mesmas por restaurações em resina ou porcelana. 
 
-Em casos de restaurações extensas, pode ser necessária a [confecção de coroas](/tratamentos/protese/).
+Em casos de restaurações extensas, pode ser necessária a [confecção de coroas](/tratamentos/protese-dentaria/).
 
 ## 4 - Mancha nos dentes por Fluorose Dental 
 

@@ -20,7 +20,7 @@ Digo isso, pois precisamos estar cientes na forma correta de escovar e do tempo 
 #### **2 - Escovar os dentes com muita força** 
 Esse é um dos erros mais comuns que presenciamos. O dente não irá ficar mais limpo se colocarmos mais força durante a escovação. 
 
-Pelo contrário, a força excessiva na escovação dos dentes poderá levar a lesão na gengiva com consequentemente retração gengival. Isso, poderá causar {% post_link sensibilidade-nos-dentes "sensibilidade" %} e perda da [estética dos dentes](/tratamentos/estetica-dos-dentes/). 
+Pelo contrário, a força excessiva na escovação dos dentes poderá levar a lesão na gengiva com consequentemente retração gengival. Isso, poderá causar {% post_link sensibilidade-nos-dentes "sensibilidade" %} e perda da [estética dos dentes](/tratamentos/estetica-dental/). 
 
 #### **3 - Não usar o fio dental ou usá-lo com muita frequência** 
 O uso do fio dental é essencial para completa limpeza dos dentes. As áreas entre os dentes não são completamente limpas somente com a correta técnica de escovação, essa área deve ser higienizada com o fio dental. 

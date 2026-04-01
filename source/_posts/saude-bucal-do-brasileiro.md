@@ -44,7 +44,7 @@ Os dois principais problemas que temos em nosso consultório no dia a dia são a
 
 Esses dois problemas estão relacionados diretamente com dois pontos da pesquisa. 
 
-O uso do fio dental é de suma importância na [higiene oral](/tratamentos/prevencao-e-manutencao/ "Prevenção e Manutenção"), a escovação em si não consegue remover totalmente os restos alimentares que ficam entre os dentes, por isso o fio dental é importante. 
+O uso do fio dental é de suma importância na [higiene oral](/tratamentos/prevencao-manutencao/ "Prevenção e Manutenção"), a escovação em si não consegue remover totalmente os restos alimentares que ficam entre os dentes, por isso o fio dental é importante. 
 
 O não uso dele, é a razão de muitos problemas periodontais ou de cáries interproximais. 
 

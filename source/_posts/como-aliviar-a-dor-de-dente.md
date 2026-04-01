@@ -28,7 +28,7 @@ Nesse texto eu vou abordar sobre **como aliviar a dor de dente** e seus desdobra
 
 A dor de dente pode ser evitada de forma fácil e também barata. A forma mais fácil e barata de aliviar a dor de dente é evita-la. 
 
-Para isso, é preciso realizar consultas de [manutenção e revisão](/tratamentos/prevencao-e-manutencao/) com o dentista. 
+Para isso, é preciso realizar consultas de [manutenção e revisão](/tratamentos/prevencao-manutencao/) com o dentista. 
 
 Com isso, o dentista pode examinar e pedir exames complementares e assim verificar se existe algum problema. 
 
