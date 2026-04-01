@@ -23,7 +23,7 @@ Na MD Odontologia, você encontra uma [equipe](https://mdfrossard.com.br/equipe/
 
 - Dr. Marcos Frossard – Especialista em prótese. Com anos de prática e uma vasta experiência em reabilitações orais, o Dr. Marcos combina conhecimento técnico com um atendimento humanizado para devolver funcionalidade e estética aos sorrisos de seus pacientes.
 - Dr. Davi Frossard – Especialista em implantes e prótese. Dr. Davi é referência em procedimentos de implantodontia, oferecendo tratamentos modernos e personalizados. Sua abordagem atenciosa e detalhista faz com que cada paciente se sinta seguro e confiante em seu tratamento.
-- Dra. Luciana Peroni – Especialista em Prótese e Endodontia. Dra. Luciana é uma profissional dedicada à saúde bucal, com amplo conhecimento em próteses dentárias e tratamentos de canal, além de um olhar especial para a estética dental.
+- Dra. Luciana Peroni – Especialista em Prótese dentária e endodontia. Dra. Luciana é uma profissional dedicada à saúde bucal, com amplo conhecimento em próteses dentárias e tratamentos de canal, além de um olhar especial para a estética dental.
 
 Além disso, todos os nossos profissionais são capacitados para transformar sorrisos com ótimas técnicas de estética dental, proporcionando harmonia, beleza e naturalidade aos tratamentos.
 

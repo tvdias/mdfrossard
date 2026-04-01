@@ -29,7 +29,8 @@
 		"email": "davi@mdfrossard.com",
 		"bio": "Formou-se em Odontologia pela UERJ; especialização em Prótese Dentária; e, Mestrado Acadêmico pela FO-UERJ. Atua no atendimento adulto e infantil na clínica.",
 		"avatar": "/images/authors/luciana.jpg",
-		"main": false
+		"main": false,
+		"specialty": "Prótese dentária e endodontia"
 	},
 	{
 		"name": "Carolina Ganimi",

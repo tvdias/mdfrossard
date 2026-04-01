@@ -36,7 +36,7 @@ Nossa equipe é composta por profissionais que são referência em suas especial
 
 **Dr. Davi Frossard:** Especialista em Implantes e Prótese, conhecido pelo cuidado e atenção com cada paciente.
 
-**Dra. Luciana Peroni:** Especialista em Prótese e Endodontia, com um olhar atento tanto para a saúde quanto para a estética dental.
+**Dra. Luciana Peroni:** Especialista em Prótese dentária e endodontia, com um olhar atento tanto para a saúde quanto para a estética dental.
 
 E o melhor? Todos são também experts em estética dental. Afinal, saúde e beleza podem (e devem) andar juntas!
 

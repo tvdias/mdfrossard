@@ -38,7 +38,7 @@ A [clínica](https://mdfrossard.com.br/equipe/) é liderada pelos especialistas:
 
 - Dr. Marcos Frossard — Prótese e reabilitação oral;
 - Dr. Davi Frossard — Implantes e Prótese ;
-- Dra. Luciana Peroni — Prótese e Endodontia ;
+- Dra. Luciana Peroni — Prótese dentária e endodontia ;
 
 Todos também atuam em odontologia estética, oferecendo soluções completas para saúde e beleza do sorriso.
 
