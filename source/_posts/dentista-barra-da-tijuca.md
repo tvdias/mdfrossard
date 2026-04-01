@@ -78,12 +78,13 @@ Deseja ver mais relatos? [Acesse nossa página de depoimentos reais](/depoimento
 
 Atendemos todas as necessidades odontológicas na unidade da Barra:
 
-*   [Implantes de Alta Carga](/tratamentos/implante-dentario/)
-*   [Lentes de Contato e Facetas](/tratamentos/estetica-dental/)
-*   [Tratamento de Canal (Endodontia)](/tratamentos/endodontia/)
-*   [Tratamento de Gengiva (Periodontia)](/tratamentos/periodontia/)
-*   [Reabilitação Oral Completa](/tratamentos/protese-dentaria/)
-*   [Clareamento Dental Premium](/tratamentos/estetica-dental/)
+- [Implantes de Alta Carga](/tratamentos/implante-dentario/)
+- [Lentes de Contato e Facetas](/tratamentos/estetica-dental/)
+- [Tratamento de Canal (Endodontia)](/tratamentos/endodontia/)
+- [Tratamento de Gengiva (Periodontia)](/tratamentos/periodontia/)
+- [Reabilitação Oral Completa](/tratamentos/protese-dentaria/)
+- [Clareamento Dental Premium](/tratamentos/estetica-dental/)
+
 
 ![Dra. Luciana e Dr. Davi em atendimento](/images/uploads/2024/luciana_explicando.jpg)
 
