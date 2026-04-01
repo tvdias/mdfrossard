@@ -4,12 +4,60 @@ const ejs = require("ejs");
 const yaml = require("js-yaml");
 const markdownIt = require("markdown-it");
 const { DateTime } = require("luxon");
+const sizeOf = require("image-size");
 
 const markdown = markdownIt({
   html: true,
   linkify: true,
   typographer: false,
 });
+
+markdown.renderer.rules.image = function (tokens, idx, options, env, self) {
+  const token = tokens[idx];
+  const srcIndex = token.attrIndex('src');
+  const src = token.attrs[srcIndex][1];
+  const altText = self.renderInlineAsText(token.children, options, env);
+  
+  let width = '';
+  let height = '';
+
+  if (src && !src.startsWith('http') && !src.startsWith('//')) {
+    try {
+      let imagePath = decodeURIComponent(src);
+      if (imagePath.includes('?')) imagePath = imagePath.split('?')[0];
+      if (imagePath.includes('#')) imagePath = imagePath.split('#')[0];
+      
+      const fullPath = path.join(__dirname, 'source', imagePath);
+      if (fs.existsSync(fullPath)) {
+        const dimensions = sizeOf(fullPath);
+        width = dimensions.width;
+        height = dimensions.height;
+      } else {
+        const nfdPath = path.join(__dirname, 'source', imagePath.normalize('NFD'));
+        if (fs.existsSync(nfdPath)) {
+            const dimensions = sizeOf(nfdPath);
+            width = dimensions.width;
+            height = dimensions.height;
+        }
+      }
+    } catch (e) {
+      console.log('Error getting size for', src, e);
+    }
+  }
+
+  let imgAttrs = `src="${src}" alt="${altText}" loading="lazy" decoding="async"`;
+  if (width && height) {
+    imgAttrs += ` width="${width}" height="${height}"`;
+  }
+
+  token.attrs.forEach((attr) => {
+    if (!['src', 'alt', 'loading', 'width', 'height', 'decoding'].includes(attr[0])) {
+      imgAttrs += ` ${attr[0]}="${attr[1]}"`;
+    }
+  });
+
+  return `<img ${imgAttrs}>`;
+};
 
 function loadYaml(filePath) {
   return yaml.load(fs.readFileSync(path.join(__dirname, filePath), "utf8"));
