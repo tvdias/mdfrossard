@@ -13,8 +13,7 @@ Se você procura um **dentista na Barra da Tijuca** que combine tradição famil
 
 Localizada no conceituado **Shopping Città America** (Bloco 2 / Sala 143), nossa clínica oferece conveniência, segurança e uma infraestrutura tecnológica completa para cuidar do seu sorriso.
 
-> [!IMPORTANT]
-> **Agendamento Prioritário:** Ligue para **(21) 3513-8479** ou envie uma [mensagem via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) para falar diretamente com nossa equipe.
+Ligue para **(21) 3513-8479** ou envie uma [mensagem via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) para falar diretamente com nossa equipe.
 
 ---
 
