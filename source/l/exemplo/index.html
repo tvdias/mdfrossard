@@ -1,0 +1,118 @@
+---
+layout: layout_landing
+title: "Assine nossa Newsletter"
+---
+
+<style>
+    /* 
+      Você tem controle total sobre o CSS nesta página. 
+      Tudo aqui é independente do restante do site.
+    */
+    :root {
+        --primary-color: #0056b3;
+        --bg-color: #f0f4f8;
+        --text-color: #333;
+    }
+    
+    body {
+        font-family: Arial, sans-serif;
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+    }
+
+    .landing-wrapper {
+        background: #fff;
+        padding: 40px;
+        border-radius: 12px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+        max-width: 450px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .landing-title {
+        margin-top: 0;
+        font-size: 24px;
+        color: #111;
+    }
+
+    .landing-desc {
+        color: #666;
+        margin-bottom: 24px;
+        line-height: 1.5;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+        text-align: left;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        box-sizing: border-box;
+        font-size: 16px;
+    }
+
+    .submit-btn {
+        width: 100%;
+        padding: 14px;
+        background-color: var(--primary-color);
+        color: #fff;
+        border: none;
+        border-radius: 6px;
+        font-size: 18px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: background 0.3s;
+    }
+
+    .submit-btn:hover {
+        background-color: #004494;
+    }
+
+    #success-message {
+        display: none;
+        color: #28a745;
+        font-weight: bold;
+        margin-top: 20px;
+    }
+</style>
+
+<div class="landing-wrapper">
+    <h1 class="landing-title">Nossa Newsletter</h1>
+    <p class="landing-desc">Inscreva-se para receber dicas exclusivas e novidades da clínica diretamente no seu email.</p>
+    
+    <form id="newsletter-form">
+        <div class="form-group">
+            <input type="text" class="form-control" id="name" placeholder="Seu Nome Completo" required>
+        </div>
+        <div class="form-group">
+            <input type="email" class="form-control" id="email" placeholder="Seu E-mail" required>
+        </div>
+        <button type="submit" class="submit-btn">Inscrever-se</button>
+    </form>
+    
+    <div id="success-message">
+        Inscrição realizada com sucesso! 🎉
+    </div>
+</div>
+
+<script>
+    /*
+      Você tem controle total sobre o JavaScript nesta página.
+    */
+    document.getElementById('newsletter-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+        
+        // Simular o envio
+        this.style.display = 'none';
+        document.getElementById('success-message').style.display = 'block';
+    });
+</script>
