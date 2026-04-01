@@ -1,7 +1,7 @@
 ---
 title: Dentistas Barra da Tijuca – Excelência em Odontologia na Sua Região
 date: 2024-06-21T10:00:10.000Z
-featured_image: /images/blog_clinica_barra.jpg
+featured_image: /images/blog_clinica_barra.webp
 category: Clínica
 ---
 
@@ -13,7 +13,7 @@ Nossa missão é proporcionar aos pacientes mais do que sorrisos bonitos: querem
 
 ## Equipe Especializada e Infraestrutura de Ponta
 
-![equipe dentistas na barra da tijuca](/images/uploads/2024/equipe_md_completa.jpg)   
+![equipe dentistas na barra da tijuca](/images/uploads/2024/equipe_md_completa.webp)   
 
 Contamos com uma equipe de especialista, capacitados para atuar em todas as [áreas da odontologia](https://mdfrossard.com.br/tratamentos/implante-dentario/), como ortodontia, implantodontia, estética dental, endodontia e muito mais. Além disso, nossa infraestrutura moderna foi projetada para oferecer conforto, segurança e tecnologia, garantindo resultados de excelência em todos os procedimentos realizados. 
 
@@ -31,7 +31,7 @@ Confira mais avaliações e depoimentos de pacientes em nossa página de [depoim
 
 ## Compromisso com Qualidade e Inovação
 
-![dentistas na barra da tijuca luciana](/images/uploads/2024/luciana_consultorio.jpg)
+![dentistas na barra da tijuca luciana](/images/uploads/2024/luciana_consultorio.webp)
 
 Nosso compromisso com a qualidade é o que nos diferencia. Durante mais de três décadas, construímos uma reputação sólida com base na ética, no atendimento humanizado e na busca contínua por inovação. Utilizamos materiais de alta qualidade e técnicas atualizadas para oferecer resultados que superam as expectativas. 
 

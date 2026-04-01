@@ -5,7 +5,7 @@ description: >-
   O medo de dentista pode estar relacionado a vários fatores, como um trauma na
   infância. Veja aqui como superar esse trauma e sorrir novamente.
 date: 2014-08-11T10:00:20.000Z
-featured_image: /images/d639e10c-76db-4eef-bdd7-b6c2afb2b55a_Medo-de-dentista.png
+featured_image: /images/d639e10c-76db-4eef-bdd7-b6c2afb2b55a_Medo-de-dentista.webp
 ---
 
 Hoje o tema que abordaremos é sobre algo muito comum na população: o **medo de dentista** ou do {% post_link tratamento-dentario "tratamento dentário" %}.
@@ -15,7 +15,7 @@ Para muitos este tema pode não ter importância, mas para boa parte das pessoas
 **O que pode causar o medo de dentista ?**
 ------------------------------------------
 
-![medo de dentista](/images/uploads/2014/07/medo-de-dentista-300x246.jpg) 
+![medo de dentista](/images/uploads/2014/07/medo-de-dentista-300x246.webp) 
 
 A odontofobia pode ter várias origens que abrangem desde traumas infantis a até aversão após um longo período de tratamento. 
 
@@ -26,7 +26,7 @@ Para cada causa existe uma forma de abordagem diferente pelo cirurgião dentista
 **Medo de dentista nas crianças**
 ---------------------------------
 
-[![medo de dentista e as crianças](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-crianças.jpg)](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-crianças.jpg) 
+[![medo de dentista e as crianças](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-crianças.jpg)](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-crianças.webp) 
 
 Dentro deste quadro, sabemos que o ser humano muitas das vezes desenvolve o estado de medo para as situações que não conhece e por isso tem receio de seguir adiante. 
 
@@ -50,7 +50,7 @@ Neste último caso, o dentista passa de promotor de saúde para carrasco, logo, 
 **Os adultos e a odontofobia **
 -------------------------------
 
-[![medo de dentista e os adutos](/images/110ed6be-4d06-4d2c-a7df-90d7e7b1d5f9_medo-de-dentista-e-os-adutos.jpg)](/images/110ed6be-4d06-4d2c-a7df-90d7e7b1d5f9_medo-de-dentista-e-os-adutos.jpg) 
+[![medo de dentista e os adutos](/images/110ed6be-4d06-4d2c-a7df-90d7e7b1d5f9_medo-de-dentista-e-os-adutos.jpg)](/images/110ed6be-4d06-4d2c-a7df-90d7e7b1d5f9_medo-de-dentista-e-os-adutos.webp) 
 
 Além das crianças, adultos também são acometidos pelo medo. 
 
@@ -66,7 +66,7 @@ Assim, o tratamento poderá ser mais cansativo e custoso para o paciente.
 **Como evitar a odontofobia ?**
 -------------------------------
 
-[![como evitar o medo de dentista](/images/96cf38f9-d3e3-4bc3-a2b2-9e8e6134d0e3_como-evitar-o-medo-de-dentista.jpg)](/images/96cf38f9-d3e3-4bc3-a2b2-9e8e6134d0e3_como-evitar-o-medo-de-dentista.jpg) 
+[![como evitar o medo de dentista](/images/96cf38f9-d3e3-4bc3-a2b2-9e8e6134d0e3_como-evitar-o-medo-de-dentista.jpg)](/images/96cf38f9-d3e3-4bc3-a2b2-9e8e6134d0e3_como-evitar-o-medo-de-dentista.webp) 
 
 Para que o medo seja superado, algumas atitudes devem ser tomadas, tanto pelo profissional quanto pelo paciente. 
 

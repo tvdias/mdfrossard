@@ -3,7 +3,7 @@ title: Dentista no Rio de Janeiro
 description: >-
   Precisa de dentista no Rio de Janeiro? Possuímos duas clinica de alto padrão nessa cidade. Realize seu tratamento com conforto e segurança em nossa clínica.
 date: 2015-08-28T09:20:36.000Z
-featured_image: /images/d5bbe970-79ea-4846-8f8d-8fbdccb08046_dentista-rio-de-janeiro.jpg
+featured_image: /images/d5bbe970-79ea-4846-8f8d-8fbdccb08046_dentista-rio-de-janeiro.webp
 ---
 Precisa de dentista no Rio de Janeiro ?
 
@@ -37,7 +37,7 @@ Nossa clínica odontológica na cidade do Rio de Janeiro possui mais de 37 anos 
 
 ## Dentista no Rio de Janeiro
 
-[![dentista Rio de Janeiro](/images/65635117-1e31-4d07-8a91-56553ab40b70_dentista-Rio-de-Janeiro.jpg)](/images/65635117-1e31-4d07-8a91-56553ab40b70_dentista-Rio-de-Janeiro.jpg) 
+[![dentista Rio de Janeiro](/images/65635117-1e31-4d07-8a91-56553ab40b70_dentista-Rio-de-Janeiro.jpg)](/images/65635117-1e31-4d07-8a91-56553ab40b70_dentista-Rio-de-Janeiro.webp) 
 
 O seu tratamento será realizado com alta performance, através de uma odontologia contemporânea focada em 3 pilares: Relacionamento, Confiança e Pontualidade.
 

@@ -3,7 +3,7 @@ title: Clínica Odontológica na Barra da Tijuca
 description: >-
   Conheça a clinica odontológica na Barra da Tijuca. A MD Odontologia pode realizar o seu tratamento com toda segurança e conforto que você merece
 date: 2024-06-04T10:00:00.000Z
-featured_image: /images/blog_clinica_barra.jpg
+featured_image: /images/blog_clinica_barra.webp
 category: Clínica
 ---
 
@@ -19,7 +19,7 @@ Para ver a nossa exata localização, [clique aqui.](https://mdfrossard.com.br/l
 
 ## Conheça mais sobre nossa clínica Odontológica na Barra da Tijuca
 
-![](/images/uploads/2013/07/4consulorio-1-1024x683.jpg)
+![](/images/uploads/2013/07/4consulorio-1-1024x683.webp)
 
 Liderada pelos dentistas [Marcos e Davi Frossard](https://mdfrossard.com.br/equipe/). Nossa clínica odontológica está presente nos bairros da [Barra da Tijuca](https://mdfrossard.com.br/dentista-barra-da-tijuca/) e de [Botafogo.](https://mdfrossard.com.br/dentista-em-botafogo/) Nossa [estrutura](https://mdfrossard.com.br/estrutura/)  comporta o atendimentos de todas as especialidades com conforto e qualidade. Além disso, a [biossegurança](https://mdfrossard.com.br/biosseguranca/) é fator primordial. 
 
@@ -51,7 +51,7 @@ Veja mais [depoimentos.](https://mdfrossard.com.br/depoimentos/)
 
 ## Marque uma consulta em nossa clínica
 
-![](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.jpg)
+![](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.webp)
 
 **Para marcar uma consulta ligue para o telefone (021) 3513-8479 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803).**
 

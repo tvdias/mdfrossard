@@ -4,7 +4,7 @@ description: >-
   A gengiva inchada é um problema comum e causa problemas para a nossa saúde. É
   preciso tratar e prevenir esse problema. Veja agora 3 dicas práticas.
 date: 2018-03-05T08:00:56.000Z
-featured_image: /images/63d5b7a4-ffdb-4009-b025-c1816959297d_higienização-da-gengiva-inchada.jpg
+featured_image: /images/63d5b7a4-ffdb-4009-b025-c1816959297d_higienização-da-gengiva-inchada.webp
 ---
 A gengiva inchada é um problema recorrente que pode ocasionar desconforto constante em nossa boca. 
 
@@ -38,7 +38,7 @@ Veja nosso texto sobre como realizar uma {% post_link escovacao-dos-dentes "perf
 
 ## **Uso do fio dental para melhorar a Gengiva Inchada**
 
-![Gengiva Inchada](/images/0473dfce-1c83-4a17-bf06-52122842d602_gengiva-inchada.jpg) 
+![Gengiva Inchada](/images/0473dfce-1c83-4a17-bf06-52122842d602_gengiva-inchada.webp) 
 
 Muitos o esquecem, mas o fio dental é tão importante quanto o uso da escova dental. 
 
@@ -56,7 +56,7 @@ O uso do fio pode ser difícil e demandar tempo. Porém, o uso antes de dormir �
 
 ## **Ir ao dentista**
 
-![](/images/1e89317b-7099-45c2-bc5b-1962a6686ba4_ir-ao-dentista-gengiva-inchada-1.jpg)
+![](/images/1e89317b-7099-45c2-bc5b-1962a6686ba4_ir-ao-dentista-gengiva-inchada-1.webp)
 
 A [prevenção](/tratamentos/prevencao-manutencao/) sempre é a forma mais eficaz e barata para evitar e solucionar problemas de saúde. 
 

@@ -2,7 +2,7 @@
 title: MD Odontologia – Excelência em Odontologia no Rio de Janeiro
 description: MD Odontologia 38 anos de excelência em prótese, implantes e estética dental, com unidades na Barra e Botafogo. Agende sua consulta!
 date: 2024-07-03T10:00:53.000Z
-featured_image: /images/md_odontologia_barra.jpg
+featured_image: /images/md_odontologia_barra.webp
 category: Clínica
 author: "Davi Heringer Frossard"
 intro_text: |
@@ -17,7 +17,7 @@ Nossa trajetória de quase quatro décadas reflete o compromisso com a qualidade
 
 ## Equipe Especializada e Confiança
 
-![equipe dentistas na barra da tijuca](/images/uploads/2024/equipe_md_completa.jpg)   
+![equipe dentistas na barra da tijuca](/images/uploads/2024/equipe_md_completa.webp)   
 
 Na MD Odontologia, você encontra uma [equipe](https://mdfrossard.com.br/equipe/) formada por profissionais de destaque no cenário odontológico, reconhecidos tanto por sua experiência quanto por sua dedicação. Nosso time é composto pelos especialistas:
 
@@ -35,7 +35,7 @@ Seja na Barra da Tijuca ou em Botafogo, cada consulta é planejada para atender 
 
 ## Compromisso com a Satisfação dos Pacientes
 
-![md odontologia marcos](/images/uploads/2024/marcos_consultorio.jpg)   
+![md odontologia marcos](/images/uploads/2024/marcos_consultorio.webp)   
 
 O cuidado que dedicamos aos nossos pacientes é reconhecido em cada depoimento. 
 

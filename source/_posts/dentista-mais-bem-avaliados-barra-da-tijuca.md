@@ -1,7 +1,7 @@
 ---
 title: Dentista Mais Bem Avaliados da Barra da Tijuca
 date: 2024-06-25T10:00:15.000Z
-featured_image: /images/blog_clinica_barra.jpg
+featured_image: /images/blog_clinica_barra.webp
 category: Clínica
 ---
 
@@ -18,7 +18,7 @@ Primeiro, vamos ao que interessa: qualidade. Aqui, não estamos falando só de d
 
 Estamos falando de um atendimento completo, que começa com o sorriso na recepção e termina com o seu sorriso mais confiante no espelho.
 
-![explicando tratamento](/images/uploads/2024/davi_escritorio.jpg) 
+![explicando tratamento](/images/uploads/2024/davi_escritorio.webp) 
 
 ## Mas não precisa acreditar só na nossa palavra. Veja o que nossos pacientes dizem:
 
@@ -28,7 +28,7 @@ Estamos falando de um atendimento completo, que começa com o sorriso na recepç
 
 ## Equipe de Especialistas de Alto Nível
 
-![equipe dentistas na barra da tijuca](/images/uploads/2024/equipe_md_completa.jpg) 
+![equipe dentistas na barra da tijuca](/images/uploads/2024/equipe_md_completa.webp) 
 
 Nossa equipe é composta por profissionais que são referência em suas especialidades:
 

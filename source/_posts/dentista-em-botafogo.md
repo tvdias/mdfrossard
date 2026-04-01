@@ -3,7 +3,7 @@ title: Dentista em Botafogo na cidade do Rio de Janeiro
 description: >-
   Dentista em Botafogo na cidade do Rio de Janeiro. Faça seu tratamento em nossa clínica com conforto e segurança. Veja os depoimentos de diversos pacientes. 
 date: 2016-04-24T10:13:44.000Z
-featured_image: /images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.jpg
+featured_image: /images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp
 ---
 A Zona Sul do Rio de Janeiro é uma das regiões mais badaladas do [Rio de Janeiro.](https://pt.wikipedia.org/wiki/Rio_de_Janeiro) 
 
@@ -15,7 +15,7 @@ Nossa clínica esta localizado neste mesmo Bairro há mais 35 anos. Estamos loca
 
 ## **Dentista em Botafogo**
 
-![dentista em Botafogo](/images/ffa0ae7c-6c17-4a72-8cb4-34199f5f5f93_Dentista-em-botafogo.jpg) 
+![dentista em Botafogo](/images/ffa0ae7c-6c17-4a72-8cb4-34199f5f5f93_Dentista-em-botafogo.webp) 
 
 A MD Frossard Odontologia é uma clínica odontológica antiga e familiar no Rio de Janeiro. Com 38 anos de atendimento no bairro de Botafogo sempre levamos o melhor para nosso paciente.
 

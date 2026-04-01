@@ -5,7 +5,7 @@ description: >-
   estima. Saiba quais os principais problemas que se pode ter nessa fase da
   vida.
 date: 2015-06-16T10:44:54.000Z
-featured_image: /images/7adcdbfa-0892-4284-9b10-894d31c8b2b2_saúde-bucal-do-idoso.jpg
+featured_image: /images/7adcdbfa-0892-4284-9b10-894d31c8b2b2_saúde-bucal-do-idoso.webp
 ---
 
 Estamos vivendo por mais tempo! 
@@ -25,7 +25,7 @@ Se você já se encontra nessa faixa e apresenta estes quadros, fique atento com
 **Saúde bucal do idoso - Um trabalho Multidisciplinar**
 -------------------------------------------------------
 
-[![saúde bucal do idoso](/images/eca93cb6-38bc-44a8-b0e2-4bd2b97e761c_saúde-bucal-dos-idosos.jpg)](/images/eca93cb6-38bc-44a8-b0e2-4bd2b97e761c_saúde-bucal-dos-idosos.jpg)
+[![saúde bucal do idoso](/images/eca93cb6-38bc-44a8-b0e2-4bd2b97e761c_saúde-bucal-dos-idosos.jpg)](/images/eca93cb6-38bc-44a8-b0e2-4bd2b97e761c_saúde-bucal-dos-idosos.webp)
 
 #### **O que eu quero dizer com isso?**
 
@@ -42,7 +42,7 @@ O atendimento não deve ser focado apenas nos problemas bucais, devemos ter um h
 Alguns dos principais problemas na saúde bucal do idoso são:
 ------------------------------------------------------------
 
-![](/images/f2332d0e-b0f6-4189-acb3-e465906d1149_prótese-dentária.jpg) 
+![](/images/f2332d0e-b0f6-4189-acb3-e465906d1149_prótese-dentária.webp) 
 
 **1) Xerostomia** 
 
@@ -65,7 +65,7 @@ A saúde bucal do idoso pode ser muito afetada pela dificuldade na higienizaçã
 **Na terceira idade podemos realizar todos os procedimentos dentários?**
 -------------------------------------------------------------------------
 
-[![saúde do idoso](/images/a4da6625-68a1-4cf4-acfb-6204f2a2ab3c_saúde-do-idoso.jpg)](/images/a4da6625-68a1-4cf4-acfb-6204f2a2ab3c_saúde-do-idoso.jpg) 
+[![saúde do idoso](/images/a4da6625-68a1-4cf4-acfb-6204f2a2ab3c_saúde-do-idoso.jpg)](/images/a4da6625-68a1-4cf4-acfb-6204f2a2ab3c_saúde-do-idoso.webp) 
 
 Essa pergunta é comum nos consultórios dentários principalmente em casos de cirurgia para {% post_link implante-dentario-no-rio-de-janeiro "implante" %}. 
 
@@ -86,7 +86,7 @@ Posteriormente todos os principais procedimentos, como uso de prótese, endodont
 **Odontologia para cada idade **
 --------------------------------
 
-[![higiene bucal do idoso](/images/1212ef9a-9f98-4972-b713-1eeb839665fb_higiene-bucal-do-idoso.jpg)](/images/1212ef9a-9f98-4972-b713-1eeb839665fb_higiene-bucal-do-idoso.jpg) 
+[![higiene bucal do idoso](/images/1212ef9a-9f98-4972-b713-1eeb839665fb_higiene-bucal-do-idoso.jpg)](/images/1212ef9a-9f98-4972-b713-1eeb839665fb_higiene-bucal-do-idoso.webp) 
 
 Em cada fase da vida temos problemas e necessidades diferentes. 
 

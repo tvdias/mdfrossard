@@ -10,7 +10,7 @@ categories:
 tags:
 ---
 
-![foto inco](/images/ef89d41a-8c7b-48ab-9899-c36eddc2506a_foto-inco-300x300.jpg "foto inco")
+![foto inco](/images/ef89d41a-8c7b-48ab-9899-c36eddc2506a_foto-inco-300x300.webp "foto inco")
 
 Olá a todos !
 

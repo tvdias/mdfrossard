@@ -4,7 +4,7 @@ author: Davi Heringer Frossard
 description: >-
   Buscando um dentista na Barra da Tijuca? Na MD Frossard Odontologia você encontra atendimento premium, tecnologia de ponta e especialistas dedicados. Agende sua consulta com o Dr. Davi Frossard.
 date: 2014-05-12T11:02:32.000Z
-featured_image: /images/uploads/2024/dentista_barra_da_tijuca_md.jpg
+featured_image: /images/uploads/2024/dentista_barra_da_tijuca_md.webp
 ---
 
 ## Dentista na Barra da Tijuca: Excelência e Cuidado Especializado
@@ -26,7 +26,7 @@ Escolher um **dentista na Barra da Tijuca** envolve avaliar a facilidade de aces
 *   **Equipe Presente:** Aqui, você é atendido pelos sócios-diretores. Não há rotatividade de profissionais; seu tratamento é acompanhado do início ao fim pelo mesmo especialista.
 *   **Tecnologia Digital:** Utilizamos scanners intraorais e planejamento digital para maior precisão em implantes e estética.
 
-![Estrutura MD Frossard Barra da Tijuca](/images/76345c37-98a0-457b-a71c-4dd16603ca51_Dentista-barra-da-tijuca-4-1024x682.jpg)
+![Estrutura MD Frossard Barra da Tijuca](/images/76345c37-98a0-457b-a71c-4dd16603ca51_Dentista-barra-da-tijuca-4-1024x682.webp)
 
 ---
 
@@ -53,7 +53,7 @@ Acreditamos que a base de um bom tratamento é um diagnóstico detalhado. Em sua
 
 Nosso objetivo é que você saia da consulta com todas as suas dúvidas esclarecidas e um plano de tratamento claro em mãos.
 
-![Atendimento odontológico Barra da Tijuca](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.jpg)
+![Atendimento odontológico Barra da Tijuca](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.webp)
 
 ---
 
@@ -86,7 +86,7 @@ Atendemos todas as necessidades odontológicas na unidade da Barra:
 - [Clareamento Dental Premium](/tratamentos/estetica-dental/)
 
 
-![Dra. Luciana e Dr. Davi em atendimento](/images/uploads/2024/luciana_explicando.jpg)
+![Dra. Luciana e Dr. Davi em atendimento](/images/uploads/2024/luciana_explicando.webp)
 
 ---
 

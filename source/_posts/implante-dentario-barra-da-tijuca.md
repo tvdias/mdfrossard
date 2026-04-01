@@ -2,7 +2,7 @@
 title: Implante Dentário na Barra da Tijuca
 description: Implante dentário na Barra da Tijuca. Saiba tudo sobre o procedimento e volte a mastigar e sorrir com segurança.
 date: 2024-06-18T10:00:03.000Z
-featured_image: /images/blog_protese_implante.jpg
+featured_image: /images/blog_protese_implante.webp
 category: Implante
 ---
 
@@ -20,7 +20,7 @@ Felizmente, o implante dentário pode e deve substituir o dente ausente por outr
 
 ## Mas por que Implante Dentário na Barra da Tijuca
 
-![Dentista barra da tijuca ](/images/76345c37-98a0-457b-a71c-4dd16603ca51_Dentista-barra-da-tijuca-4-1024x682.jpg) 
+![Dentista barra da tijuca ](/images/76345c37-98a0-457b-a71c-4dd16603ca51_Dentista-barra-da-tijuca-4-1024x682.webp) 
 
 Referindo-me especificamente ao bairro da [Barra da Tijuca](https://mdfrossard.com.br/dentista-barra-da-tijuca/), onde está localizada uma de nossas clínicas (a outra está em [Botafogo](https://mdfrossard.com.br/dentista-em-botafogo/)), oferecemos o implante dentário como um substituto da raiz do dente perdido. Esse implante será utilizada para construir um novo dente que se harmonize em cor e formato com os dentes ao redor.
 

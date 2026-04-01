@@ -1,7 +1,7 @@
 ---
 title: 5 Dicas de Saúde Bucal
 date: 2018-05-18T10:00:46.000Z
-featured_image: /images/blog_dicas_saude.jpg
+featured_image: /images/blog_dicas_saude.webp
 category: Prevenção
 ---
 Nossa saúde bucal é extremamente importante para a manutenção de um belo sorriso e também para uma correta mastigação. 
@@ -30,7 +30,7 @@ Portanto, devemos ficar atentos na nossa escovação, lembrando que a higieniza�
 
 ## **2) Use o Fio Dental**
 
-![Dicas de saúde bucal](/images/86359d24-be56-4d13-998e-1f30b6e8c8db_dicas-de-saúde-bucal-fio.jpg "Dicas de saúde bucal") 
+![Dicas de saúde bucal](/images/86359d24-be56-4d13-998e-1f30b6e8c8db_dicas-de-saúde-bucal-fio.webp "Dicas de saúde bucal") 
 
 Provavelmente esse é o ponto mais controverso, já que todos sabem a importância do fio dental, mas poucos realmente o usam de forma eficaz. 
 

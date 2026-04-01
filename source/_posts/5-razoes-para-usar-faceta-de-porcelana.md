@@ -4,7 +4,7 @@ description: >-
   A Faceta de Porcelana pode mudar completamente o seu sorriso e auto-estima.
   Veja as principais indicações para você e mude também.
 date: 2015-09-08T15:15:27.000Z
-featured_image: /images/adfe83ee-64a4-4200-88b2-1fb15ca650ef_faceta-porcelana.jpg
+featured_image: /images/adfe83ee-64a4-4200-88b2-1fb15ca650ef_faceta-porcelana.webp
 ---
 A procura por tratamentos estéticos está cada vez maior em nossa população. 
 
@@ -22,7 +22,7 @@ Antes, vamos ver quais as principais razões para o seu uso. Assim, você saber�
 
 ## **5 razões para o uso de Faceta de Porcelana **
 
-[![faceta de porcelana](/images/f2648cb4-baf5-4861-b06c-da3755965498_faceta-de-porcelana.jpg)](/images/f2648cb4-baf5-4861-b06c-da3755965498_faceta-de-porcelana.jpg) 
+[![faceta de porcelana](/images/f2648cb4-baf5-4861-b06c-da3755965498_faceta-de-porcelana.jpg)](/images/f2648cb4-baf5-4861-b06c-da3755965498_faceta-de-porcelana.webp) 
 
 A estética elevada da {% post_link facetas-dentais "faceta dentária" %} se deve ao fato dela ser feita em porcelana, o que possibilita mimetizar de forma bastante fiel a anatomia do dente, devolvendo sua correta cor e o formato ideal do sorriso. 
 
@@ -125,6 +125,6 @@ O suporte do profissional para o paciente é reflexo da confiança e investiment
 
 ## Infográfico sobre Faceta de porcelana 
 
-![Faceta de Porcelana](/images/f99633c8-153b-4db5-9979-846e265f5cd0_Faceta-de-porcelana.-1.jpeg)   
+![Faceta de Porcelana](/images/f99633c8-153b-4db5-9979-846e265f5cd0_Faceta-de-porcelana.-1.webp)   
 
 Att, Davi Frossard

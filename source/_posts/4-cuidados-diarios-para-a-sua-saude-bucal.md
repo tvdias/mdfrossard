@@ -3,7 +3,7 @@ title: '4 Cuidados para a sua Saúde Bucal. '
 description: >-
  Veja quais os 4 cuidados diários indispensáveis para a sua saúde bucal. Isso pode mudar completamente como você cuida da sua boca. 
 date: 2020-02-27T10:00:27.000Z
-featured_image: /images/blog_cuidados_bucais.jpg
+featured_image: /images/blog_cuidados_bucais.webp
 category: Prevenção
 ---
 Com uma preocupação cada vez maior dos brasileiros com toda a sua saúde, mas também com o cuidado estético, nós somos o país com o maior número de profissionais da área de Odontologia.

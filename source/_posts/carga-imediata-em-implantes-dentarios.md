@@ -4,7 +4,7 @@ description: >-
   Carga imediata em implantes é a colocação de um dente sobre o implante logo
   após a cirurgia. Veja se esse tratamento pode ser feito em você.
 date: 2014-12-04T14:06:39.000Z
-featured_image: /images/uploads/2014/03/Clareamento-dental.jpg
+featured_image: /images/uploads/2014/03/Clareamento-dental.webp
 ---
 Os {% post_link implante-de-dente "implantes dentários" %} já estão na odontologia há bastante tempo sendo usados em larga escala e com altas taxas de sucesso. 
 
@@ -14,7 +14,7 @@ Muitos pacientes chegam ao nosso consultório com [dúvidas](/tratamentos/implan
 
 ## Em primeiro lugar, o que é carga imediata em implantes?
 
-[![carga imediata em implantes](/images/013b2470-c853-4e7d-8710-21e94322ac7e_Captura-de-tela-2013-07-28-às-11.41.30.png)](/images/013b2470-c853-4e7d-8710-21e94322ac7e_Captura-de-tela-2013-07-28-às-11.41.30.png) 
+[![carga imediata em implantes](/images/013b2470-c853-4e7d-8710-21e94322ac7e_Captura-de-tela-2013-07-28-às-11.41.30.png)](/images/013b2470-c853-4e7d-8710-21e94322ac7e_Captura-de-tela-2013-07-28-às-11.41.30.webp) 
 
 Carga imediata é a colocação de um dente (coroa provisória) diretamente sobre o implante logo após a cirurgia, ou seja, o paciente já sai da cirurgia com o ‘dente fixo’ no implante.
 
@@ -24,7 +24,7 @@ Além disso, existem alguns parâmetros básicos para o uso dessa técnica. Tamb
 
 ## 3 fatores positivos para o uso da carga imediata
 
-![Carga imediata em implantes dentários](/images/e94e07fa-8587-4cac-a86e-a3b034dd64aa_carga_imediata_em_implantes_denta_rios.png)
+![Carga imediata em implantes dentários](/images/e94e07fa-8587-4cac-a86e-a3b034dd64aa_carga_imediata_em_implantes_denta_rios.webp)
 
 #### **1 - Provisório direto sobre o implante**
 
@@ -72,7 +72,7 @@ Para o uso desta técnica, temos que avaliar com bastante cuidado qual o tipo de
 
 ## Limitações da carga imediata em implantes
 
-![Implante dentário - Carga Imediata](/images/f8b62cec-e888-448e-87a1-82fe3f17cdba_Captura-de-tela-2013-07-28-às-11.41.20.png) 
+![Implante dentário - Carga Imediata](/images/f8b62cec-e888-448e-87a1-82fe3f17cdba_Captura-de-tela-2013-07-28-às-11.41.20.webp) 
 
 **Existem limitações?** 
 

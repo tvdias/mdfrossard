@@ -4,7 +4,7 @@ description: >-
   Aprenda absolutamente tudo sobre o Tratamento de Canal. Ele pode ser rápido e
   indolor, saiba se o canal do dente é o procedimento certo para você.
 date: 2016-06-06T10:10:42.000Z
-featured_image: /images/5da5cc7d-9d5c-4cfb-a768-a74665fac085_tratamento-de-canal.jpg
+featured_image: /images/5da5cc7d-9d5c-4cfb-a768-a74665fac085_tratamento-de-canal.webp
 ---
 Você já sentiu aquela dor de dente muito forte, que você não sabe o que fazer ? 
 
@@ -24,7 +24,7 @@ Nesse texto, quero conversar com vocês sobre como é realizado o tratamento de 
 
 ## **O que é tratamento de canal ?**
 
-[![](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.jpg)](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.jpg) 
+[![](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.jpg)](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.webp) 
 
 A explicação simples e direta seria : O tratamento endodôntico, consiste no tratamento da polpa do dente. O procedimento envolve a remoção da área danificada do dente (a polpa), limpeza e desinfecção e, em seguida, o preenchimento e selamento. 
 
@@ -75,7 +75,7 @@ Entretanto uma medicação é receitada para o paciente, evitando essa dor.
 
 ## **Em quantas consultas é feito o tratamento de canal ?**
 
-![tratamento endodontico](/images/7fda4568-439b-475f-a52d-1d6946b2bd4d_tratamento-endodontico.jpg) 
+![tratamento endodontico](/images/7fda4568-439b-475f-a52d-1d6946b2bd4d_tratamento-endodontico.webp) 
 
 Antigamente, era necessário várias consultas para finalizar o tratamento de canal. 
 
@@ -97,7 +97,7 @@ Se o tratamento correto não for feito pode se ter infecção aguda, com presen�
 
 Para melhor visualização e entendimento sobre as etapas do tratamento endodôntico, preparei esse infográfico para você. 
 
-![Infografico tratamento de canal](/images/7d4d5cf4-d4bf-48d1-b72b-70d054cbce58_Infografico-tratamento-de-canal.jpg) 
+![Infografico tratamento de canal](/images/7d4d5cf4-d4bf-48d1-b72b-70d054cbce58_Infografico-tratamento-de-canal.webp) 
 
 
 

@@ -4,7 +4,7 @@ description: >-
   Quais os cuidados com a dentadura que devemos ter ? Veja no texto 6 simples
   dicas de como cuidar dela e prolongar sua estética.
 date: 2015-03-09T10:00:28.000Z
-featured_image: /images/aea180d5-f36e-44d3-942c-01a820f4c0b7_como-cuidar-de-sua-dentadura.jpg
+featured_image: /images/aea180d5-f36e-44d3-942c-01a820f4c0b7_como-cuidar-de-sua-dentadura.webp
 ---
 
 O uso de dentaduras em nossa população ainda é grande. Mesmo com a melhora na conscientização da higienização, muitos chegam a velhice usando uma prótese removível. 
@@ -36,7 +36,7 @@ Porém, não é o que ocorre, o que leva a população a perder os dentes. Em mu
 Mas afinal, o que é uma dentadura ?
 -----------------------------------
 
-![cuidado com a dentadura](/images/uploads/2015/02/Protocolo-dentes-1024x680.jpg) 
+![cuidado com a dentadura](/images/uploads/2015/02/Protocolo-dentes-1024x680.webp) 
 
 A dentadura, é uma prótese total removível que tem a função de restabelecer a mastigação e a estética de quem perdeu todos os dentes, seja superior ou inferior. 
 
@@ -51,7 +51,7 @@ Outra desvantagem é na fase inicial. Quando todos os dentes foram removidos e e
 6 Dicas Fáceis para o Cuidado com a Dentadura
 ---------------------------------------------
 
-[![dentadura](/images/uploads/2015/03/Dentadura-1024x682.jpg)](/images/3875e74c-e66c-463c-99b1-35eb7ac64449_Dentadura.jpg) 
+[![dentadura](/images/uploads/2015/03/Dentadura-1024x682.jpg)](/images/3875e74c-e66c-463c-99b1-35eb7ac64449_Dentadura.webp) 
 
 Essas dicas podem ser baixadas no site na parte de {% post_link informativos "informativos" %}.
 
@@ -90,7 +90,7 @@ Visite o dentista se sua prótese quebrar, lascar, rachar ou ficar solta. Não f
 Existem outras opções quando se perde os dentes  ?
 --------------------------------------------------
 
-![dentista-sorriso](/images/0f3beeba-591b-4bac-b9a2-bd24f377d0dd_dentista-sorriso.jpg) 
+![dentista-sorriso](/images/0f3beeba-591b-4bac-b9a2-bd24f377d0dd_dentista-sorriso.webp) 
 
 É claro que sim, a melhor alternativa a prótese total são os [implantes dentais](/tratamentos/implante-dentario/ "Implantodontia"). 
 

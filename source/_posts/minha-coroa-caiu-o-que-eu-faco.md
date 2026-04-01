@@ -4,7 +4,7 @@ description: >-
   Quando acontece o problema da coroa cair, o que você deve fazer? 
   Quais são os procedimentos necessários resolver esse problema.
 date: 2019-12-05T10:00:00.000Z
-featured_image: /images/blog_coroa_caiu.png
+featured_image: /images/blog_coroa_caiu.webp
 category: Prótese
 ---
 Planejar e realizar a viagem dos sonhos juntamente com a família. Mas um problema acontece, **sua coroa cai...**

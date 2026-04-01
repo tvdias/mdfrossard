@@ -4,7 +4,7 @@ description: >-
   O clareamento dental pode mudar completamente o seu sorriso. Portanto saiba
   absolutamente tudo sobre o clareamento caseiro e o de consultório.
 date: 2014-02-15T08:15:49.000Z
-featured_image: /images/f7a5e3d0-312b-47e9-bd61-626490c95bc1_clareamento-dental.jpg
+featured_image: /images/f7a5e3d0-312b-47e9-bd61-626490c95bc1_clareamento-dental.webp
 ---
 O **clareamento dental** é um tratamento estético muito realizado nos consultórios dentários, principalmente por sua capacidade de transformar o sorriso de forma rápida e eficaz.
 
@@ -49,7 +49,7 @@ Existem três formas principais de realizar o clareamento dental, e a escolha do
 
 **1) Clareamento Dental Caseiro**
 
-![clareamento dental caseiro](/images/123d72d1-a2aa-4d76-8429-73076d9b1f80_clareamento-dental-caseiro.jpg) 
+![clareamento dental caseiro](/images/123d72d1-a2aa-4d76-8429-73076d9b1f80_clareamento-dental-caseiro.webp) 
 
 O clareamento dental caseiro é feito com o uso de uma moldeira personalizada, que o paciente utiliza em casa sob orientação do dentista. O gel clareador tem menor concentração, o que torna o processo mais gradual e menos agressivo aos dentes. 
 
@@ -75,7 +75,7 @@ Essa técnica combina o clareamento de consultório com o caseiro, proporcionand
 
 ## SENSIBILIDADE DENTAL DURANTE O CLAREAMENTO
 
-![mulher-dor-de-dente](/images/ca17b49e-2473-4548-8421-7b453bd8f3b8_mulher-dor-de-dente.jpg) 
+![mulher-dor-de-dente](/images/ca17b49e-2473-4548-8421-7b453bd8f3b8_mulher-dor-de-dente.webp) 
 
 A sensibilidade dental é uma preocupação comum entre quem realiza o clareamento dental. Ela pode variar de pessoa para pessoa, sendo mais intensa em alguns casos. 
 
@@ -104,7 +104,7 @@ Se você sentir sensibilidade, é importante informar o dentista. Ele poderá aj
 
 ## ORIENTAÇÃO PROFISSIONAL É ESSENCIAL
 
-![medo de dentista e os adutos](/images/110ed6be-4d06-4d2c-a7df-90d7e7b1d5f9_medo-de-dentista-e-os-adutos.jpg) 
+![medo de dentista e os adutos](/images/110ed6be-4d06-4d2c-a7df-90d7e7b1d5f9_medo-de-dentista-e-os-adutos.webp) 
 
 O clareamento dental deve sempre ser feito sob a orientação de um dentista. O uso inadequado de produtos clareadores pode causar danos ao esmalte dental e à gengiva. 
 

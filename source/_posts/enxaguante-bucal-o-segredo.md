@@ -4,7 +4,7 @@ description: >-
   Será o Enxaguante Bucal essencial na nossa escovação ? Podemos usar somente
   ele na higiene bucal diária ? Leia o texto agora e descubra !
 date: 2017-09-04T08:00:57.000Z
-featured_image: /images/cbfdb8a3-bd79-4121-a6ca-27322b9ac607_enxaguante-bucal-1.jpg
+featured_image: /images/cbfdb8a3-bd79-4121-a6ca-27322b9ac607_enxaguante-bucal-1.webp
 ---
 Escovar os dentes 3 vezes ao dia ou após as refeições e usar o fio dental constantemente para manter uma boa saúde bucal. 
 
@@ -30,7 +30,7 @@ Portanto, leia o texto até o final para saber alguns pontos básicos sobre o en
 
 ## **Existem diferentes enxaguantes bucais.**
 
-![enxaguante bucal tipos](/images/98cb7df6-9b24-4659-8da5-72f68bbbe843_enxaguante-bucal.jpg) 
+![enxaguante bucal tipos](/images/98cb7df6-9b24-4659-8da5-72f68bbbe843_enxaguante-bucal.webp) 
 
 Ao entrar em uma farmácia, observamos uma quantidade enorme de enxaguantes bucais. 
 
@@ -51,7 +51,7 @@ Entretanto, existem alguns pontos importantes a serem citados :
 
 ## **Enxaguante com Gluconato de Clorexidina**
 
-![](/images/7e9324c8-765d-43f6-adb3-a34c039bb32e_enxaguante-bucal-mulher.jpg) 
+![](/images/7e9324c8-765d-43f6-adb3-a34c039bb32e_enxaguante-bucal-mulher.webp) 
 
 Esse princípio ativo presente em alguns bochechos bucais torna o produto completamente diferente dos demais. 
 
@@ -68,7 +68,7 @@ Sua indicação é principalmente para pós operatório e também para paciente 
 
 ## **Existe algum enxaguante bucal infantil ?**
 
-![](/images/331552a8-3941-472b-9de7-c394b6806a65_enxaguante-bucal-infantil.jpg) 
+![](/images/331552a8-3941-472b-9de7-c394b6806a65_enxaguante-bucal-infantil.webp) 
 
 Sim, existe. Entretanto devemos ficar atentos com a idade. 
 
@@ -85,7 +85,7 @@ O principal sempre deve ser a correta escovação e o uso do fio dental.
 
 ## **Posso substituir a escovação e o fio dental pelo uso somente do enxaguante bucal ?**
 
-![](/images/1c5f025e-cb3d-4f10-a2ca-57d97acf4eee_enxaguante-bucal-e-escovação.jpg) 
+![](/images/1c5f025e-cb3d-4f10-a2ca-57d97acf4eee_enxaguante-bucal-e-escovação.webp) 
 
 Enfim e não menos importante. 
 

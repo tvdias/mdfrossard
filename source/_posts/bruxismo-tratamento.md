@@ -4,7 +4,7 @@ description: >-
   O bruxismo é um problema comum atualmente. Seu diagnóstico é importante para
   evitar problemas futuros, veja aqui o correto tratamento.
 date: 2014-08-25T10:00:54.000Z
-featured_image: /images/2c39dacc-f461-497e-be10-8171ede1c0a4_bruxismo.jpg
+featured_image: /images/2c39dacc-f461-497e-be10-8171ede1c0a4_bruxismo.webp
 h1: Como tratar o Bruxismo 
 ---
 **Bruxismo** é diagnosticado de forma rotineira nos consultórios dentários. 
@@ -17,7 +17,7 @@ Nesse texto você verá o tratamento do Bruxismo, assim como suas causas e conse
 
 ## **O que seria o Bruxismo**
 
-![bruxismo causas](/images/ec608107-2862-47c8-94dc-9eb14f80cb31_Ranger-os-dentes.png) 
+![bruxismo causas](/images/ec608107-2862-47c8-94dc-9eb14f80cb31_Ranger-os-dentes.webp) 
 
 Bruxismo é um ato parafuncional de ranger os dentes de forma rítmica durante o sono e também durante o dia. 
 
@@ -51,7 +51,7 @@ Também se pode descobrir o bruxismo quando alguém comenta que elas fazem um h
 
 ## **Conseqüências do bruxismo**
 
-![desgaste bruxismo](/images/94ea4a61-f821-4907-9bd0-590bb2970283_dente-desgastado.jpg) 
+![desgaste bruxismo](/images/94ea4a61-f821-4907-9bd0-590bb2970283_dente-desgastado.webp) 
 
 A conseqüência mas comum é o **desgaste dos dentes**. 
 
@@ -77,7 +77,7 @@ Ao realizar o "apertamento" dos dentes, todos os músculos são tencionados de m
 
 ## **Tratamento do Bruxismo**
 
-![bruxismo tratamento](/images/9d815850-abf5-4530-b3c3-549eb61055ca_Placa-bruxismo.png) 
+![bruxismo tratamento](/images/9d815850-abf5-4530-b3c3-549eb61055ca_Placa-bruxismo.webp) 
 
 Primeiramente deve-se realizar o controle do estresse e da ansiedade. 
 
