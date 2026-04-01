@@ -100,6 +100,12 @@ const safeData = (key, fallback = '') => typeof data !== 'undefined' && data[key
     object-position: center 10%;
 }
 
+@media (max-width: 768px) {
+    .treatment-hero-bg img {
+        object-position: 80% 10%;
+    }
+}
+
 .treatment-hero-overlay {
     position: absolute;
     inset: 0;
