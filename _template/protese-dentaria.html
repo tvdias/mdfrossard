@@ -1,0 +1,1050 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prótese Dentária com Precisão | MD Frossard Odontologia</title>
+
+    <!-- Meta Tags -->
+    <meta name="description"
+        content="Conheça os principais tipos de Prótese Dentária. Na MD Frossard realizamos próteses fixas como coroas e pontes, inlay e onlay, coroas cerâmicas e próteses removíveis.">
+    <meta name="theme-color" content="#0a0a0a">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+
+    <!-- Icons (Lucide) -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* ===================================================
+           Estilos específicos da página de Prótese Dentária
+           =================================================== */
+
+        /* Hero da página interna com imagem de fundo */
+        .treatment-hero {
+            position: relative;
+            min-height: 480px;
+            display: flex;
+            align-items: flex-end;
+            padding-bottom: 60px;
+            overflow: hidden;
+        }
+
+        .treatment-hero-bg {
+            position: absolute;
+            inset: 0;
+            z-index: 0;
+        }
+
+        .treatment-hero-bg img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center 10%;
+        }
+
+        @media (max-width: 768px) {
+            .treatment-hero-bg img {
+                object-position: 80% 10%;
+            }
+        }
+
+        .treatment-hero-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(180deg, rgba(10,10,10,0.3) 0%, rgba(10,10,10,0.85) 100%);
+            z-index: 1;
+        }
+
+        .treatment-hero-content {
+            position: relative;
+            z-index: 2;
+            color: white;
+            padding-top: 220px;
+        }
+
+        .treatment-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(212,175,55,0.2);
+            border: 1px solid rgba(212,175,55,0.5);
+            color: var(--brand-accent);
+            padding: 6px 16px;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            font-family: var(--font-heading);
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+        }
+
+        .treatment-hero-content h1 {
+            color: white;
+            font-size: 2.75rem;
+            line-height: 1.1;
+            margin-bottom: 16px;
+            max-width: 700px;
+        }
+
+        .treatment-hero-content p {
+            font-size: 1.125rem;
+            opacity: 0.85;
+            max-width: 600px;
+            margin-bottom: 32px;
+        }
+
+        /* Breadcrumb */
+        .breadcrumb {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.875rem;
+            opacity: 0.7;
+            margin-bottom: 20px;
+            color: white;
+        }
+
+        .breadcrumb a {
+            color: white;
+            opacity: 0.8;
+        }
+
+        .breadcrumb a:hover { opacity: 1; }
+
+        /* Intro / Intro 2-col */
+        .treatment-intro {
+            background: var(--bg-white);
+        }
+
+        .intro-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 48px;
+            align-items: center;
+        }
+
+        .intro-text h2 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            color: var(--primary-dark);
+        }
+
+        .intro-text p {
+            color: var(--text-muted);
+            line-height: 1.8;
+            margin-bottom: 16px;
+        }
+
+        .intro-text p:last-of-type { margin-bottom: 0; }
+
+        .intro-visual {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .benefit-chip {
+            display: flex;
+            align-items: flex-start;
+            gap: 16px;
+            background: var(--bg-light);
+            border-radius: var(--border-radius-sm);
+            padding: 20px;
+            transition: var(--transition);
+        }
+
+        .benefit-chip:hover {
+            background: white;
+            box-shadow: var(--shadow-sm);
+            transform: translateX(4px);
+        }
+
+        .benefit-icon {
+            width: 44px;
+            height: 44px;
+            min-width: 44px;
+            background: linear-gradient(135deg, var(--brand-accent), var(--brand-primary));
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--bg-dark);
+        }
+
+        .benefit-chip h4 {
+            font-size: 1rem;
+            margin-bottom: 4px;
+            color: var(--primary-dark);
+        }
+
+        .benefit-chip p {
+            font-size: 0.875rem;
+            color: var(--text-muted);
+            margin: 0;
+            line-height: 1.5;
+        }
+
+        /* Vantagens Section */
+        .advantages-section {
+            background: var(--bg-light);
+        }
+
+        .advantages-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 24px;
+        }
+
+        .advantage-card {
+            background: white;
+            border-radius: var(--border-radius-md);
+            padding: 32px 28px;
+            box-shadow: var(--shadow-sm);
+            border-left: 4px solid var(--brand-primary);
+            transition: var(--transition);
+        }
+
+        .advantage-card:hover {
+            box-shadow: var(--shadow-md);
+            transform: translateY(-4px);
+        }
+
+        .advantage-number {
+            font-family: var(--font-heading);
+            font-size: 3rem;
+            font-weight: 800;
+            color: var(--brand-accent);
+            opacity: 0.25;
+            line-height: 1;
+            margin-bottom: 8px;
+        }
+
+        .advantage-card h3 {
+            font-size: 1.2rem;
+            margin-bottom: 12px;
+            color: var(--primary-dark);
+        }
+
+        .advantage-card p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            line-height: 1.7;
+            margin: 0;
+        }
+
+        /* Technique Section */
+        .technique-section {
+            background: var(--bg-dark);
+            color: white;
+        }
+
+        .technique-section .section-header h2 {
+            color: white;
+        }
+
+        .technique-section .section-header p {
+            color: rgba(255,255,255,0.7);
+        }
+
+        .technique-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 24px;
+        }
+
+        .technique-step {
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
+            padding: 28px;
+            background: rgba(255,255,255,0.05);
+            border-radius: var(--border-radius-sm);
+            border: 1px solid rgba(255,255,255,0.08);
+            transition: var(--transition);
+        }
+
+        .technique-step:hover {
+            background: rgba(255,255,255,0.09);
+            border-color: rgba(212,175,55,0.3);
+        }
+
+        .step-number {
+            width: 48px;
+            height: 48px;
+            min-width: 48px;
+            background: linear-gradient(135deg, var(--brand-accent), var(--brand-primary));
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: var(--font-heading);
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--bg-dark);
+        }
+
+        .step-content h4 {
+            color: white;
+            font-size: 1.1rem;
+            margin-bottom: 8px;
+        }
+
+        .step-content p {
+            color: rgba(255,255,255,0.65);
+            font-size: 0.9rem;
+            line-height: 1.6;
+            margin: 0;
+        }
+
+        /* Prosthesis types */
+        .prosthesis-section {
+            background: var(--bg-white);
+        }
+
+        .prosthesis-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 20px;
+        }
+
+        .prosthesis-card {
+            border: 2px solid var(--bg-light);
+            border-radius: var(--border-radius-md);
+            padding: 28px 24px;
+            transition: var(--transition);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .prosthesis-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: linear-gradient(180deg, var(--brand-accent), var(--brand-primary));
+            transform: scaleY(0);
+            transition: transform 0.3s ease;
+            transform-origin: top;
+        }
+
+        .prosthesis-card:hover {
+            border-color: transparent;
+            box-shadow: var(--shadow-md);
+            transform: translateY(-4px);
+        }
+
+        .prosthesis-card:hover::before {
+            transform: scaleY(1);
+        }
+
+        .prosthesis-card-icon {
+            width: 52px;
+            height: 52px;
+            background: linear-gradient(135deg, var(--brand-accent), var(--brand-primary));
+            border-radius: 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--bg-dark);
+            margin-bottom: 16px;
+        }
+
+        .prosthesis-card h3 {
+            font-size: 1.1rem;
+            margin-bottom: 8px;
+            color: var(--primary-dark);
+        }
+
+        .prosthesis-card p {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            margin: 0;
+            line-height: 1.6;
+        }
+
+        /* Occlusion warning section */
+        .occlusion-section {
+            background: var(--bg-light);
+        }
+
+        .occlusion-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 40px;
+            align-items: start;
+        }
+
+        .occlusion-text h2 {
+            font-size: 1.8rem;
+            margin-bottom: 16px;
+        }
+
+        .occlusion-text p {
+            color: var(--text-muted);
+            line-height: 1.8;
+            margin-bottom: 20px;
+        }
+
+        .symptom-list {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-top: 8px;
+        }
+
+        .symptom-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        .symptom-item i {
+            color: var(--brand-primary);
+            flex-shrink: 0;
+        }
+
+        .warning-card {
+            background: white;
+            border-radius: var(--border-radius-md);
+            padding: 32px;
+            box-shadow: var(--shadow-sm);
+            border-top: 4px solid var(--brand-primary);
+        }
+
+        .warning-card h3 {
+            margin-bottom: 16px;
+            font-size: 1.15rem;
+        }
+
+        .warning-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .warning-list li {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        .warning-list li i {
+            color: var(--brand-primary);
+            flex-shrink: 0;
+        }
+
+        /* FAQ Accordion */
+        .faq-section {
+            background: var(--bg-white);
+        }
+
+        .faq-list {
+            max-width: 860px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .faq-item {
+            background: var(--bg-light);
+            border-radius: var(--border-radius-sm);
+            border: 1px solid rgba(0,0,0,0.06);
+            overflow: hidden;
+            transition: box-shadow 0.3s ease;
+        }
+
+        .faq-item.open {
+            box-shadow: var(--shadow-sm);
+        }
+
+        .faq-question {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+            padding: 22px 24px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            text-align: left;
+            font-family: var(--font-heading);
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--primary-dark);
+            transition: color 0.2s ease;
+        }
+
+        .faq-question:hover {
+            color: var(--brand-primary);
+        }
+
+        .faq-item.open .faq-question {
+            color: var(--brand-primary);
+        }
+
+        .faq-icon {
+            width: 32px;
+            height: 32px;
+            min-width: 32px;
+            background: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--brand-primary);
+            transition: transform 0.3s ease, background 0.2s ease;
+        }
+
+        .faq-item.open .faq-icon {
+            background: var(--brand-primary);
+            color: white;
+            transform: rotate(45deg);
+        }
+
+        .faq-answer {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.35s ease, padding 0.35s ease;
+            padding: 0 24px;
+        }
+
+        .faq-item.open .faq-answer {
+            max-height: 400px;
+            padding: 0 24px 22px;
+        }
+
+        .faq-answer p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            line-height: 1.7;
+            margin: 0;
+        }
+
+        .faq-answer ul {
+            list-style: disc;
+            padding-left: 20px;
+            margin-top: 10px;
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            line-height: 1.8;
+        }
+
+        /* CTA Section */
+        .treatment-cta {
+            background: linear-gradient(135deg, var(--bg-dark) 0%, #1a1814 100%);
+            text-align: center;
+            padding: 80px 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .treatment-cta::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 600px;
+            height: 600px;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(212,175,55,0.12) 0%, transparent 70%);
+        }
+
+        .treatment-cta h2 {
+            color: white;
+            font-size: 2.25rem;
+            margin-bottom: 16px;
+            position: relative;
+        }
+
+        .treatment-cta p {
+            color: rgba(255,255,255,0.7);
+            font-size: 1.1rem;
+            max-width: 560px;
+            margin: 0 auto 36px;
+            position: relative;
+        }
+
+        .cta-buttons {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 16px;
+            position: relative;
+        }
+
+        /* Responsive */
+        @media (min-width: 768px) {
+            .treatment-hero-content h1 { font-size: 3.25rem; }
+            .advantages-grid { grid-template-columns: repeat(2, 1fr); }
+            .technique-grid { grid-template-columns: repeat(2, 1fr); }
+            .prosthesis-grid { grid-template-columns: repeat(2, 1fr); }
+            .cta-buttons { flex-direction: row; justify-content: center; }
+            .occlusion-grid { grid-template-columns: 1fr 1fr; }
+        }
+
+        @media (min-width: 1024px) {
+            .intro-grid { grid-template-columns: 1fr 1fr; }
+            .advantages-grid { grid-template-columns: repeat(3, 1fr); }
+            .prosthesis-grid { grid-template-columns: repeat(3, 1fr); }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Header / Navbar -->
+    <header class="header header-internal" id="header">
+        <div class="top-bar">
+            <div class="container top-bar-inner">
+                <div class="contact-info">
+                    <a href="tel:02132170430"><i data-lucide="phone" class="icon-sm"></i> (21) 3217-0430</a>
+                    <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank"><i data-lucide="smartphone" class="icon-sm"></i> (21) 97663-7803</a>
+                </div>
+            </div>
+        </div>
+
+        <nav class="navbar container">
+            <a href="index.html" class="brand">
+                <img src="logo_branco.png" alt="MD Frossard Logo" class="logo">
+            </a>
+
+            <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Menu">
+                <i data-lucide="menu"></i>
+            </button>
+
+            <ul class="nav-links" id="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#">Sobre <i data-lucide="chevron-down" class="icon-xs"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="equipe.html">Equipe</a></li>
+                        <li><a href="estrutura.html">Estrutura</a></li>
+                        <li><a href="depoimentos.html">Depoimentos</a></li>
+                    </ul>
+                </li>
+                <li><a href="tratamentos.html">Tratamentos</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="localizacao.html">Localização</a></li>
+                <li><a href="tel:21976637803" class="btn btn-primary btn-nav">Agende sua Consulta</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Treatment Hero -->
+    <section class="treatment-hero">
+        <div class="treatment-hero-bg">
+            <img src="implante_davi_mega_final.jpg" alt="Dr. Davi Frossard - Prótese Dentária MD Frossard" fetchpriority="high">
+        </div>
+        <div class="treatment-hero-overlay"></div>
+        <div class="container treatment-hero-content reveal">
+            <div class="breadcrumb">
+                <a href="index.html">Home</a>
+                <i data-lucide="chevron-right" class="icon-xs"></i>
+                <span>Tratamentos</span>
+                <i data-lucide="chevron-right" class="icon-xs"></i>
+                <span>Prótese Dentária</span>
+            </div>
+            <h1>Prótese Dentária<br>com Precisão</h1>
+            <p>Recupere a função e a estética do seu sorriso com soluções protéticas modernas, fixas ou removíveis, desenvolvidas por especialistas com mais de 30 anos de experiência.</p>
+            <div style="display:flex; gap:16px; flex-wrap:wrap;">
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank" class="btn btn-primary btn-lg">Agendar Consulta</a>
+                <a href="#faq" class="btn btn-outline btn-lg">Perguntas Frequentes</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Intro Section -->
+    <section class="treatment-intro section">
+        <div class="container">
+            <div class="intro-grid">
+                <div class="intro-text reveal">
+                    <h2>O que é Prótese Dentária?</h2>
+                    <p>A prótese dentária é uma solução odontológica voltada para restituir a forma, função e estética dos dentes ausentes ou comprometidos. Na MD Frossard, cada prótese é planejada individualmente, levando em conta a anatomia do paciente, suas necessidades funcionais e suas expectativas estéticas.</p>
+                    <p>Existem dois grandes grupos de próteses: as próteses fixas — como coroas, pontes, inlays e onlays — que só o profissional remove; e as próteses removíveis — parciais ou totais (dentaduras) — que o próprio paciente pode retirar para higienização.</p>
+                    <p>Independentemente do tipo escolhido, o objetivo é sempre o mesmo: devolver ao paciente a capacidade de sorrir, mastigar e falar com conforto e confiança.</p>
+                </div>
+                <div class="intro-visual reveal delay-1">
+                    <div class="benefit-chip">
+                        <div class="benefit-icon"><i data-lucide="shield-check"></i></div>
+                        <div>
+                            <h4>Materiais Biocompatíveis</h4>
+                            <p>Utilizamos materiais de última geração, como zircônia e cerâmica pura, seguros e com alta durabilidade.</p>
+                        </div>
+                    </div>
+                    <div class="benefit-chip">
+                        <div class="benefit-icon"><i data-lucide="smile"></i></div>
+                        <div>
+                            <h4>Estética Natural</h4>
+                            <p>As coroas e pontes totalmente cerâmicas são praticamente indistinguíveis dos dentes naturais.</p>
+                        </div>
+                    </div>
+                    <div class="benefit-chip">
+                        <div class="benefit-icon"><i data-lucide="settings-2"></i></div>
+                        <div>
+                            <h4>Planejamento Personalizado</h4>
+                            <p>Cada caso é analisado em detalhes para indicar a melhor solução protética para o seu perfil.</p>
+                        </div>
+                    </div>
+                    <div class="benefit-chip">
+                        <div class="benefit-icon"><i data-lucide="clock-3"></i></div>
+                        <div>
+                            <h4>Mais de 30 Anos de Experiência</h4>
+                            <p>Nossa equipe acumula décadas de expertise em reabilitação oral completa.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Tipos de Prótese -->
+    <section class="prosthesis-section section">
+        <div class="container">
+            <div class="section-header reveal">
+                <h2>Tipos de Prótese Dentária</h2>
+                <p>Conheça as principais opções de próteses fixas e removíveis disponíveis na MD Frossard.</p>
+            </div>
+            <div class="prosthesis-grid">
+
+                <div class="prosthesis-card reveal delay-1">
+                    <div class="prosthesis-card-icon"><i data-lucide="gem"></i></div>
+                    <h3>Coroas Dentárias</h3>
+                    <p>Restauração cimentada que recobre a superfície externa da coroa clínica. Reproduz a morfologia e os contornos dos dentes danificados enquanto restabelece sua função mastigatória e aparência.</p>
+                </div>
+
+                <div class="prosthesis-card reveal delay-2">
+                    <div class="prosthesis-card-icon"><i data-lucide="link"></i></div>
+                    <h3>Prótese Parcial Fixa (Ponte)</h3>
+                    <p>Aplicação permanentemente ligada aos dentes remanescentes, substituindo um ou mais dentes ausentes. Pode ser confeccionada em metalocerâmica, metaloplástica ou porcelana pura.</p>
+                </div>
+
+                <div class="prosthesis-card reveal delay-3">
+                    <div class="prosthesis-card-icon"><i data-lucide="square-dashed"></i></div>
+                    <h3>Inlay e Onlay (Bloco)</h3>
+                    <p>Restauram dentes destruídos por cárie ou traumatismo, que resultam na perda parcial da porção coronária. São confeccionados em laboratório com alta precisão e encaixados no dente.</p>
+                </div>
+
+                <div class="prosthesis-card reveal delay-1">
+                    <div class="prosthesis-card-icon"><i data-lucide="star"></i></div>
+                    <h3>Coroas Totalmente Cerâmicas</h3>
+                    <p>Feitas de zircônia ou cerâmica pura, oferecem resistência superior e estética inigualável. Não possuem infraestrutura metálica, eliminando o risco de escurecimento da gengiva e proporcionando aparência absolutamente natural.</p>
+                </div>
+
+                <div class="prosthesis-card reveal delay-2">
+                    <div class="prosthesis-card-icon"><i data-lucide="move"></i></div>
+                    <h3>Prótese Parcial Removível</h3>
+                    <p>Destinada à reposição de dentes perdidos e tecidos adjacentes. É planejada para ser retirada pelo próprio paciente para higienização. Indicada quando não é possível realizar prótese fixa ou implantes.</p>
+                </div>
+
+                <div class="prosthesis-card reveal delay-3">
+                    <div class="prosthesis-card-icon"><i data-lucide="circle-dot"></i></div>
+                    <h3>Prótese Total (Dentadura)</h3>
+                    <p>Para pessoas que perderam todos os dentes. As dentaduras restauram o sorriso e auxiliam nas atividades do dia a dia, como comer e falar. Requerem um período de adaptação e acompanhamento profissional.</p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Vantagens das Coroas Cerâmicas -->
+    <section class="advantages-section section">
+        <div class="container">
+            <div class="section-header reveal">
+                <h2>Vantagens das Coroas Totalmente Cerâmicas</h2>
+                <p>A zircônia representa o que há de mais moderno em prótese dentária, unindo estética e durabilidade.</p>
+            </div>
+            <div class="advantages-grid">
+
+                <div class="advantage-card reveal delay-1">
+                    <div class="advantage-number">01</div>
+                    <h3>Ausência de Linhas Acinzentadas</h3>
+                    <p>Coroas metalocerâmicas podem apresentar uma margem metálica visível quando a gengiva retrai. Com coroas cerâmicas puras, esse problema não ocorre — a aparência permanece natural em qualquer situação.</p>
+                </div>
+
+                <div class="advantage-card reveal delay-2">
+                    <div class="advantage-number">02</div>
+                    <h3>Biocompatibilidade da Zircônia</h3>
+                    <p>A zircônia é um material biocompatível cientificamente comprovado, capaz de se integrar harmonicamente com os tecidos que a rodeiam, favorecendo a adaptação natural da gengiva ao redor das coroas.</p>
+                </div>
+
+                <div class="advantage-card reveal delay-3">
+                    <div class="advantage-number">03</div>
+                    <h3>Estética Superior e Durabilidade</h3>
+                    <p>Além da resistência necessária para suportar as forças da mastigação, a zircônia oferece característica estética excepcional, sem o aspecto metálico das coroas tradicionais e com alta longevidade clínica.</p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Problemas de Oclusão -->
+    <section class="occlusion-section section">
+        <div class="container">
+            <div class="occlusion-grid">
+                <div class="occlusion-text reveal">
+                    <h2>Problemas de Oclusão (Mordida) — Como Reconhecer?</h2>
+                    <p>A oclusão inadequada pode causar danos progressivos aos dentes e estruturas adjacentes. Os sinais de que seus dentes estão sob estresse podem ser identificados por meio de um exame clínico rigoroso.</p>
+                    <p>As doenças dentais mais frequentes associadas a problemas de mordida incluem:</p>
+                    <div class="symptom-list">
+                        <div class="symptom-item"><i data-lucide="alert-triangle" class="icon-sm"></i> Abfrações</div>
+                        <div class="symptom-item"><i data-lucide="alert-triangle" class="icon-sm"></i> Mobilidade dentária</div>
+                        <div class="symptom-item"><i data-lucide="alert-triangle" class="icon-sm"></i> Recessão gengival</div>
+                        <div class="symptom-item"><i data-lucide="alert-triangle" class="icon-sm"></i> Desgastes acentuados</div>
+                        <div class="symptom-item"><i data-lucide="alert-triangle" class="icon-sm"></i> Trincas e fraturas</div>
+                        <div class="symptom-item"><i data-lucide="alert-triangle" class="icon-sm"></i> Reabsorções radiculares</div>
+                    </div>
+                    <p style="margin-top:20px;">O tratamento pode ser protético, ortodôntico ou cirúrgico, dependendo da avaliação do especialista.</p>
+                </div>
+                <div class="reveal delay-1">
+                    <div class="warning-card">
+                        <h3><i data-lucide="activity" style="display:inline-block; vertical-align:middle; margin-right:8px; color:var(--brand-primary);"></i>Sintomas a Observar</h3>
+                        <ul class="warning-list">
+                            <li><i data-lucide="check-circle" class="icon-sm"></i> Sensibilidade térmica nos dentes</li>
+                            <li><i data-lucide="check-circle" class="icon-sm"></i> Pericementite (dor ao morder)</li>
+                            <li><i data-lucide="check-circle" class="icon-sm"></i> Odontalgias frequentes</li>
+                            <li><i data-lucide="check-circle" class="icon-sm"></i> Fraturas recorrentes de restaurações</li>
+                            <li><i data-lucide="check-circle" class="icon-sm"></i> Dificuldade para mastigar</li>
+                            <li><i data-lucide="check-circle" class="icon-sm"></i> Estalos na articulação da mandíbula</li>
+                        </ul>
+                        <div style="margin-top:24px; padding-top:20px; border-top:1px solid var(--bg-light);">
+                            <p style="font-size:0.9rem; color:var(--text-muted); margin-bottom:16px;">Identificou algum desses sintomas? Agende uma avaliação com nossos especialistas.</p>
+                            <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank" class="btn btn-primary" style="width:100%; justify-content:center;">
+                                <i data-lucide="message-circle" class="icon-sm" style="margin-right:8px;"></i>Falar com Especialista
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Processo de Tratamento -->
+    <section class="technique-section section">
+        <div class="container">
+            <div class="section-header reveal">
+                <h2>Como Funciona o Tratamento?</h2>
+                <p>Da avaliação inicial à instalação da prótese, acompanhe cada etapa do seu processo de reabilitação oral.</p>
+            </div>
+            <div class="technique-grid">
+
+                <div class="technique-step reveal delay-1">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <h4>Avaliação Clínica Completa</h4>
+                        <p>Exame detalhado da saúde bucal, análise de raio-x e tomografia quando necessário. Identificamos os dentes comprometidos e planejamos a melhor solução protética para o seu caso.</p>
+                    </div>
+                </div>
+
+                <div class="technique-step reveal delay-2">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <h4>Planejamento e Moldagem</h4>
+                        <p>Realizamos moldagens de alta precisão dos seus dentes e gengiva. O modelo serve de base para o laboratório confeccionar sua prótese com perfeito encaixe e harmonia.</p>
+                    </div>
+                </div>
+
+                <div class="technique-step reveal delay-3">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                        <h4>Confecção em Laboratório</h4>
+                        <p>Sua prótese é fabricada com materiais premium de última geração — zircônia, cerâmica ou resina — por técnicos especializados que garantem precisão milimétrica e estética impecável.</p>
+                    </div>
+                </div>
+
+                <div class="technique-step reveal delay-1">
+                    <div class="step-number">4</div>
+                    <div class="step-content">
+                        <h4>Instalação e Ajustes</h4>
+                        <p>A prótese é instalada com cuidado, testando oclusão e encaixe. Fazemos todos os ajustes necessários para garantir seu conforto total antes da instalação definitiva.</p>
+                    </div>
+                </div>
+
+                <div class="technique-step reveal delay-2">
+                    <div class="step-number">5</div>
+                    <div class="step-content">
+                        <h4>Acompanhamento Pós-Instalação</h4>
+                        <p>Retornos programados para verificar a adaptação da prótese, saúde gengival e satisfação do paciente. Orientações de higiene e manutenção para prolongar a vida útil da sua prótese.</p>
+                    </div>
+                </div>
+
+                <div class="technique-step reveal delay-3">
+                    <div class="step-number">6</div>
+                    <div class="step-content">
+                        <h4>Manutenção Preventiva</h4>
+                        <p>Consultas periódicas para inspeção da prótese, limpeza profissional e eventuais ajustes. Garantimos que seu investimento dure o maior tempo possível com qualidade plena.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="faq-section section" id="faq">
+        <div class="container">
+            <div class="section-header reveal">
+                <h2>Dúvidas Frequentes</h2>
+                <p>Respondemos as perguntas mais comuns sobre prótese dentária.</p>
+            </div>
+            <div class="faq-list">
+
+                <div class="faq-item reveal">
+                    <button class="faq-question" id="faq-q1" aria-expanded="false" aria-controls="faq-a1">
+                        Qual a diferença entre prótese fixa e removível?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer" id="faq-a1" role="region" aria-labelledby="faq-q1">
+                        <p>As próteses fixas — como coroas, pontes e inlays — são cimentadas ou parafusadas e só podem ser removidas pelo dentista. As removíveis — parciais ou dentaduras — podem ser retiradas pelo próprio paciente para limpeza. A indicação depende da condição de saúde bucal, do número de dentes ausentes e das preferências do paciente.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item reveal delay-1">
+                    <button class="faq-question" id="faq-q2" aria-expanded="false" aria-controls="faq-a2">
+                        As coroas de zircônia são realmente mais resistentes?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer" id="faq-a2" role="region" aria-labelledby="faq-q2">
+                        <p>Sim. A zircônia é um material cerâmico de alta resistência, capaz de suportar as forças da mastigação com segurança. Além da resiliência mecânica, ela oferece estética superior, com aparência idêntica ao esmalte dental natural, sem linhas acinzentadas na gengiva — um problema comum nas coroas metalocerâmicas tradicionais.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item reveal delay-2">
+                    <button class="faq-question" id="faq-q3" aria-expanded="false" aria-controls="faq-a3">
+                        Quanto tempo dura uma prótese dentária?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer" id="faq-a3" role="region" aria-labelledby="faq-q3">
+                        <p>Com boa higienização e acompanhamento regular, uma prótese fixa de qualidade pode durar de 10 a 20 anos ou mais. As próteses removíveis geralmente precisam de ajustes ou substituição após 5 a 8 anos, pois o osso e a gengiva sofrem reabsorção natural com o tempo, alterando o encaixe da peça.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item reveal delay-3">
+                    <button class="faq-question" id="faq-q4" aria-expanded="false" aria-controls="faq-a4">
+                        A instalação de uma prótese é dolorosa?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer" id="faq-a4" role="region" aria-labelledby="faq-q4">
+                        <p>O procedimento é realizado com anestesia local, garantindo total conforto durante a sessão. Após a instalação, é normal sentir leve sensibilidade por alguns dias enquanto a gengiva se adapta à nova prótese. Na MD Frossard priorizamos o conforto e bem-estar do paciente em todas as etapas do tratamento.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item reveal delay-1">
+                    <button class="faq-question" id="faq-q5" aria-expanded="false" aria-controls="faq-a5">
+                        Como higienizar uma prótese removível?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer" id="faq-a5" role="region" aria-labelledby="faq-q5">
+                        <p>A prótese removível deve ser retirada após as refeições e higienizada com escova específica e creme dental suave ou sabão neutro. À noite, deve ser mantida em solução de imersão adequada. A boca também deve ser higienizada, inclusive a gengiva e o palato, antes de recolocar a prótese.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item reveal delay-2">
+                    <button class="faq-question" id="faq-q6" aria-expanded="false" aria-controls="faq-a6">
+                        Implante ou prótese: qual a melhor opção?
+                        <span class="faq-icon"><i data-lucide="plus" class="icon-sm"></i></span>
+                    </button>
+                    <div class="faq-answer" id="faq-a6" role="region" aria-labelledby="faq-q6">
+                        <p>O implante é considerado a solução mais próxima do dente natural, pois é fixado diretamente no osso e não requer o desgaste de dentes vizinhos. No entanto, existem casos em que a prótese convencional (ponte ou removível) é mais indicada, como quando o volume ósseo é insuficiente para o implante ou há restrições sistêmicas. Agende uma avaliação para saber qual a melhor opção para você.</p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Final -->
+    <section class="treatment-cta">
+        <div class="container">
+            <h2>Pronto para Recuperar seu Sorriso?</h2>
+            <p>Agende uma consulta com nossa equipe de especialistas e descubra a melhor solução protética para o seu caso.</p>
+            <div class="cta-buttons">
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank" class="btn btn-primary btn-lg">
+                    <i data-lucide="message-circle" class="icon-sm" style="margin-right:8px;"></i>Agendar via WhatsApp
+                </a>
+                <a href="tel:02132170430" class="btn btn-outline btn-lg">
+                    <i data-lucide="phone" class="icon-sm" style="margin-right:8px;"></i>(21) 3217-0430
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer" id="contato">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <img src="logo_branco.png" alt="MD Frossard Logo" class="footer-logo">
+                    <p>EPAO - 3415<br>Responsável Técnico: Davi H. Frossard CRO 36193</p>
+                    <div class="social-links dark">
+                        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="whatsapp-btn">
+                            <i data-lucide="message-circle"></i>
+                            WhatsApp
+                        </a>
+                    </div>
+                </div>
+
+                <div class="footer-clinic">
+                    <h3>Consultório Barra da Tijuca</h3>
+                    <p><i data-lucide="map-pin" class="icon-xs"></i> Av. das Américas, 700 - Bloco 2 / Sala 143<br>Shopping Città America - CEP: 22640-100</p>
+                    <p><i data-lucide="phone" class="icon-xs"></i> <span><a href="tel:2132170430">(21) 3217-0430</a><br><a href="tel:21976637803">(21) 97663-7803</a></span></p>
+                    <a href="#" class="text-link sm">Ver no Mapa <i data-lucide="external-link" class="icon-xs"></i></a>
+                </div>
+
+                <div class="footer-clinic">
+                    <h3>Consultório Botafogo</h3>
+                    <p><i data-lucide="map-pin" class="icon-xs"></i> Rua Marques, 15.<br> Casa<br> Ao lado da Cobal do Humaitá<br> CEP: 22260-240</p>
+                    <p><i data-lucide="phone" class="icon-xs"></i> <span><a href="tel:2132170430">(21) 3217-0430</a><br><a href="tel:21976637803">(21) 97663-7803</a></span></p>
+                    <a href="#" class="text-link sm">Ver no Mapa <i data-lucide="external-link" class="icon-xs"></i></a>
+                </div>
+
+                <div class="footer-links">
+                    <h3>Acesso Rápido</h3>
+                    <ul>
+                        <li><a href="tratamentos.html">Tratamentos</a></li>
+                        <li><a href="equipe.html">Equipe</a></li>
+                        <li><a href="estrutura.html">Estrutura</a></li>
+                        <li><a href="depoimentos.html">Depoimentos</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 MD Frossard. Todos os direitos reservados.</p>
+                <a href="#" id="scroll-top" class="scroll-top"><i data-lucide="arrow-up"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Script -->
+    <script src="script.js" defer></script>
+    <script>
+        // FAQ Accordion
+        document.querySelectorAll('.faq-question').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const item = btn.closest('.faq-item');
+                const isOpen = item.classList.contains('open');
+                document.querySelectorAll('.faq-item').forEach(i => i.classList.remove('open'));
+                if (!isOpen) item.classList.add('open');
+            });
+        });
+    </script>
+</body>
+
+</html>

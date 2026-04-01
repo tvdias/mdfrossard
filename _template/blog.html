@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog | MD Frossard Odontologia</title>
+
+    <!-- Meta Tags -->
+    <meta name="description"
+        content="Dicas, artigos e novidades sobre saúde bucal, estética dental, implantes e muito mais. Blog da clínica MD Frossard Odontologia, Rio de Janeiro.">
+    <meta name="theme-color" content="#0a0a0a">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+
+    <!-- Icons (Lucide) -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <style>
+        /* ── Blog Grid ──────────────────────────────────── */
+        .blog-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .blog-card {
+            background: var(--bg-card, #fff);
+            border-radius: 1rem;
+            overflow: hidden;
+            box-shadow: 0 4px 24px rgba(0, 0, 0, 0.07);
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.25s, box-shadow 0.25s;
+        }
+
+        .blog-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.13);
+        }
+
+        .blog-card__thumb {
+            width: 100%;
+            aspect-ratio: 16/9;
+            overflow: hidden;
+            background: #eee;
+            position: relative;
+        }
+
+        .blog-card__thumb img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+        }
+
+        .blog-card:hover .blog-card__thumb img {
+            transform: scale(1.08);
+        }
+
+        .blog-card__body {
+            padding: 1.5rem;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .blog-card__tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #c9a84c;
+        }
+
+        .blog-card__title {
+            font-size: 1rem;
+            font-weight: 700;
+            line-height: 1.4;
+            color: var(--text-main, #1a1a1a);
+            margin: 0;
+        }
+
+        .blog-card__excerpt {
+            font-size: 0.875rem;
+            color: var(--text-muted, #666);
+            line-height: 1.6;
+            margin: 0;
+            flex: 1;
+        }
+
+        .blog-card__link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #c9a84c;
+            text-decoration: none;
+            margin-top: 0.5rem;
+            transition: gap 0.2s;
+        }
+
+        .blog-card__link:hover {
+            gap: 0.7rem;
+        }
+
+        /* ── Categories Bar ─────────────────────────────── */
+        .blog-categories {
+            display: flex;
+            gap: 0.75rem;
+            flex-wrap: wrap;
+            margin-top: 2.5rem;
+            justify-content: center;
+        }
+
+        .blog-cat-btn {
+            padding: 0.5rem 1.25rem;
+            border-radius: 2rem;
+            border: 1.5px solid #ddd;
+            background: transparent;
+            font-size: 0.82rem;
+            font-weight: 600;
+            color: #555;
+            cursor: pointer;
+            transition: background 0.2s, color 0.2s, border-color 0.2s;
+        }
+
+        .blog-cat-btn.active,
+        .blog-cat-btn:hover {
+            background: #c9a84c;
+            border-color: #c9a84c;
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Header / Navbar -->
+    <header class="header header-internal" id="header">
+        <div class="top-bar">
+            <div class="container top-bar-inner">
+                <div class="contact-info">
+                    <a href="tel:02132170430"><i data-lucide="phone" class="icon-sm"></i> (21) 3217-0430</a>
+                    <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank"><i data-lucide="smartphone" class="icon-sm"></i> (21) 97663-7803</a>
+                </div>
+            </div>
+        </div>
+
+        <nav class="navbar container">
+            <a href="index.html" class="brand">
+                <img src="logo_branco.png" alt="MD Frossard Logo" class="logo">
+            </a>
+
+            <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Menu">
+                <i data-lucide="menu"></i>
+            </button>
+
+            <ul class="nav-links" id="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#">Sobre <i data-lucide="chevron-down" class="icon-xs"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="equipe.html">Equipe</a></li>
+                        <li><a href="estrutura.html">Estrutura</a></li>
+                        <li><a href="depoimentos.html">Depoimentos</a></li>
+                    </ul>
+                </li>
+                <li><a href="tratamentos.html">Tratamentos</a></li>
+                <li><a href="blog.html" class="active">Blog</a></li>
+                <li><a href="localizacao.html">Localização</a></li>
+                <li><a href="tel:21976637803" class="btn btn-primary btn-nav">Agende sua Consulta</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Page Hero -->
+    <section class="page-hero">
+        <div class="page-hero-bg"></div>
+        <div class="container page-hero-content reveal">
+            <h1>Blog</h1>
+            <p>Dicas, curiosidades e artigos sobre saúde bucal escritos pelos especialistas da MD Frossard.</p>
+        </div>
+    </section>
+
+    <!-- Blog Posts Section -->
+    <section class="section">
+        <div class="container">
+            <div class="section-header reveal">
+                <h2>Artigos Recentes</h2>
+                <p>Fique por dentro das novidades em odontologia e cuide melhor do seu sorriso.</p>
+            </div>
+
+            <!-- Blog Grid -->
+            <div class="blog-grid">
+
+                <!-- Post 1 -->
+                <article class="blog-card reveal delay-1">
+                    <div class="blog-card__thumb">
+                        <img src="md_odontologia_barra.jpg" alt="MD Odontologia" loading="lazy">
+                    </div>
+                    <div class="blog-card__body">
+                        <span class="blog-card__tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> Clínica</span>
+                        <h2 class="blog-card__title">MD Odontologia – Excelência em Odontologia no Rio de Janeiro</h2>
+                        <p class="blog-card__excerpt">38 anos de excelência em prótese, implantes e estética dental, com unidades na Barra e Botafogo. Agende sua consulta!</p>
+                        <a href="blog-md-odontologia.html" class="blog-card__link">
+                            Ler artigo <i data-lucide="arrow-right" style="width:0.85rem; height:0.85rem;"></i>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Post 2 -->
+                <article class="blog-card reveal delay-2">
+                    <div class="blog-card__thumb">
+                        <img src="blog_clinica_barra.jpg" alt="Dentistas Barra" loading="lazy">
+                    </div>
+                    <div class="blog-card__body">
+                        <span class="blog-card__tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> Clínica</span>
+                        <h2 class="blog-card__title">Dentistas Mais Bem Avaliados da Barra da Tijuca</h2>
+                        <p class="blog-card__excerpt">A MD Frossard Odontologia é referência na Barra da Tijuca por seu atendimento acolhedor, tecnologia de ponta e profissionais experientes que garantem sorrisos transformadores.</p>
+                        <a href="blog-dentista-barra-avaliados.html" class="blog-card__link">
+                            Ler artigo <i data-lucide="arrow-right" style="width:0.85rem; height:0.85rem;"></i>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Post 3 -->
+                <article class="blog-card reveal delay-3">
+                    <div class="blog-card__thumb">
+                        <img src="blog_clinica_barra.jpg" alt="Dentistas Barra da Tijuca" loading="lazy">
+                    </div>
+                    <div class="blog-card__body">
+                        <span class="blog-card__tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> Clínica</span>
+                        <h2 class="blog-card__title">Dentistas Barra da Tijuca – Excelência em Odontologia na Sua Região</h2>
+                        <p class="blog-card__excerpt">Excelência em odontologia com dentistas na Barra da Tijuca. Atendimento personalizado e de alto padrão para você e sua família.</p>
+                        <a href="blog-dentistas-barra-tijuca.html" class="blog-card__link">
+                            Ler artigo <i data-lucide="arrow-right" style="width:0.85rem; height:0.85rem;"></i>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Post 4 -->
+                <article class="blog-card reveal delay-1">
+                    <div class="blog-card__thumb">
+                        <img src="blog_protese_implante.jpg" alt="Implante Dentário" loading="lazy">
+                    </div>
+                    <div class="blog-card__body">
+                        <span class="blog-card__tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> Implante</span>
+                        <h2 class="blog-card__title">Implante Dentário na Barra da Tijuca</h2>
+                        <p class="blog-card__excerpt">Saiba tudo sobre o implante dentário na Barra da Tijuca e volte a mastigar e sorrir com segurança e conforto.</p>
+                        <a href="blog-implante-dentario-barra.html" class="blog-card__link">
+                            Ler artigo <i data-lucide="arrow-right" style="width:0.85rem; height:0.85rem;"></i>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Post 5 -->
+                <article class="blog-card reveal delay-2">
+                    <div class="blog-card__thumb">
+                        <img src="blog_lingua_branca.jpg" alt="Língua Branca" loading="lazy">
+                    </div>
+                    <div class="blog-card__body">
+                        <span class="blog-card__tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> Saúde Bucal</span>
+                        <h2 class="blog-card__title">Língua Branca – O que fazer?</h2>
+                        <p class="blog-card__excerpt">A língua branca pode ter diferentes causas, algumas delas preocupantes. Entenda o que significa e o que fazer nessa situação.</p>
+                        <a href="blog-lingua-branca.html" class="blog-card__link">
+                            Ler artigo <i data-lucide="arrow-right" style="width:0.85rem; height:0.85rem;"></i>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Post 6 -->
+                <article class="blog-card reveal delay-3">
+                    <div class="blog-card__thumb">
+                        <img src="blog_clinica_barra.jpg" alt="Clínica Odontológica Barra" loading="lazy">
+                    </div>
+                    <div class="blog-card__body">
+                        <span class="blog-card__tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> Clínica</span>
+                        <h2 class="blog-card__title">Clínica Odontológica na Barra da Tijuca</h2>
+                        <p class="blog-card__excerpt">Conheça a clínica odontológica na Barra da Tijuca. A MD Frossard pode realizar o seu tratamento com toda segurança e conforto.</p>
+                        <a href="blog-clinica-odontologica-barra.html" class="blog-card__link">
+                            Ler artigo <i data-lucide="arrow-right" style="width:0.85rem; height:0.85rem;"></i>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Post 7 -->
+                <article class="blog-card reveal delay-1">
+                    <div class="blog-card__thumb">
+                        <img src="blog_cuidados_bucais.jpg" alt="4 Cuidados Saúde Bucal" loading="lazy">
+                    </div>
+                    <div class="blog-card__body">
+                        <span class="blog-card__tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> Prevenção</span>
+                        <h2 class="blog-card__title">4 Cuidados para a sua Saúde Bucal</h2>
+                        <p class="blog-card__excerpt">Veja os 4 cuidados diários indispensáveis para a sua saúde bucal. Dicas simples que podem mudar completamente como você cuida da sua boca.</p>
+                        <a href="blog-cuidados-saude-bucal.html" class="blog-card__link">
+                            Ler artigo <i data-lucide="arrow-right" style="width:0.85rem; height:0.85rem;"></i>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Post 8 -->
+                <article class="blog-card reveal delay-2">
+                    <div class="blog-card__thumb">
+                        <img src="blog_coroa_caiu.png" alt="Minha Coroa Caiu" loading="lazy">
+                    </div>
+                    <div class="blog-card__body">
+                        <span class="blog-card__tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> Prótese</span>
+                        <h2 class="blog-card__title">Minha Coroa Caiu – O que eu Faço?</h2>
+                        <p class="blog-card__excerpt">Quando acontece o problema da coroa cair, o que você deve fazer? Quais são os procedimentos necessários para resolver isso com segurança.</p>
+                        <a href="blog-coroa-caiu.html" class="blog-card__link">
+                            Ler artigo <i data-lucide="arrow-right" style="width:0.85rem; height:0.85rem;"></i>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Post 9 -->
+                <article class="blog-card reveal delay-3">
+                    <div class="blog-card__thumb">
+                        <img src="blog_odontologia_estetica.jpg" alt="Odontologia Estética" loading="lazy">
+                    </div>
+                    <div class="blog-card__body">
+                        <span class="blog-card__tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> Estética</span>
+                        <h2 class="blog-card__title">Odontologia Estética – O que seria isso?</h2>
+                        <p class="blog-card__excerpt">A odontologia estética já é uma realidade em vários consultórios. Ela se baseia na realização de procedimentos que visam melhorar o seu sorriso.</p>
+                        <a href="blog-odontologia-estetica.html" class="blog-card__link">
+                            Ler artigo <i data-lucide="arrow-right" style="width:0.85rem; height:0.85rem;"></i>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Post 10 -->
+                <article class="blog-card reveal delay-1">
+                    <div class="blog-card__thumb">
+                        <img src="blog_dicas_saude.jpg" alt="5 Dicas Saúde Bucal" loading="lazy">
+                    </div>
+                    <div class="blog-card__body">
+                        <span class="blog-card__tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> Prevenção</span>
+                        <h2 class="blog-card__title">5 Dicas de Saúde Bucal</h2>
+                        <p class="blog-card__excerpt">Aprenda 5 dicas de saúde bucal. São dicas fáceis e simples, mas raramente praticadas no dia a dia. Com elas você pode melhorar muito seu sorriso.</p>
+                        <a href="blog-dicas-saude-bucal.html" class="blog-card__link">
+                            Ler artigo <i data-lucide="arrow-right" style="width:0.85rem; height:0.85rem;"></i>
+                        </a>
+                    </div>
+                </article>
+
+            </div>
+
+            <!-- Ver mais -->
+            <div style="text-align:center; margin-top: 3rem;" class="reveal">
+                <a href="https://mdfrossard.com.br/blog/" target="_blank" class="btn btn-secondary btn-lg" style="display:inline-flex; align-items:center; gap:0.5rem;">
+                    <i data-lucide="external-link" class="icon-sm"></i> Ver todos os artigos
+                </a>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="section bg-light">
+        <div class="container" style="text-align:center;">
+            <div class="section-header reveal">
+                <h2>Tem dúvidas sobre saúde bucal?</h2>
+                <p>Nossa equipe está pronta para esclarecer todas as suas dúvidas e oferecer o melhor atendimento para o seu sorriso.</p>
+            </div>
+            <div style="display:flex; gap: 1rem; justify-content:center; flex-wrap:wrap; margin-top: 1.5rem;">
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" target="_blank" class="btn btn-primary btn-lg reveal delay-1">
+                    <i data-lucide="message-circle" class="icon-sm"></i> Falar pelo WhatsApp
+                </a>
+                <a href="tel:02132170430" class="btn btn-secondary btn-lg reveal delay-2">
+                    <i data-lucide="phone" class="icon-sm"></i> Ligar Agora
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer" id="contato">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-brand">
+                    <img src="logo_branco.png" alt="MD Frossard Logo" class="footer-logo">
+                    <p>EPAO - 3415<br>Responsável Técnico: Davi H. Frossard CRO 36193</p>
+                    <div class="social-links dark">
+                        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="whatsapp-btn">
+                            <i data-lucide="message-circle"></i>
+                            WhatsApp
+                        </a>
+                    </div>
+                </div>
+
+                <div class="footer-clinic">
+                    <h3>Consultório Barra da Tijuca</h3>
+                    <p><i data-lucide="map-pin" class="icon-xs"></i> Av. das Américas, 700 - Bloco 2 / Sala 143<br>Shopping Città America - CEP: 22640-100</p>
+                    <p><i data-lucide="phone" class="icon-xs"></i> <span><a href="tel:2132170430">(21) 3217-0430</a><br><a href="tel:21976637803">(21) 97663-7803</a></span></p>
+                </div>
+
+                <div class="footer-clinic">
+                    <h3>Consultório Botafogo</h3>
+                    <p><i data-lucide="map-pin" class="icon-xs"></i> Rua Marques, 15. Casa<br>Ao lado da Cobal do Humaitá<br>CEP: 22260-240</p>
+                    <p><i data-lucide="phone" class="icon-xs"></i> <span><a href="tel:2132170430">(21) 3217-0430</a><br><a href="tel:21976637803">(21) 97663-7803</a></span></p>
+                </div>
+
+                <div class="footer-links">
+                    <h3>Acesso Rápido</h3>
+                    <ul>
+                        <li><a href="tratamentos.html">Tratamentos</a></li>
+                        <li><a href="equipe.html">Equipe</a></li>
+                        <li><a href="estrutura.html">Estrutura</a></li>
+                        <li><a href="depoimentos.html">Depoimentos</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 MD Frossard. Todos os direitos reservados.</p>
+                <a href="#" id="scroll-top" class="scroll-top"><i data-lucide="arrow-up"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js" defer></script>
+</body>
+
+</html>
