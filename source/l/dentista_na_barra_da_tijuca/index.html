@@ -80,9 +80,27 @@ google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
         background-color: #fff;
     }
 
-    .hero-logo {
-        max-width: 180px;
+    .hero-logo-wrap {
+        display: flex;
+        justify-content: center;
         margin-bottom: 40px;
+    }
+
+    .hero-logo {
+        width: 100%;
+        max-width: 392px;
+        height: auto;
+    }
+
+    .hero-flex {
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        align-items: center;
+    }
+
+    .hero-text {
+        text-align: center;
     }
 
     .hero h1 {
@@ -130,8 +148,8 @@ google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
     }
 
     .hero-image-wrap {
-        margin: 0 auto 50px;
         max-width: 650px;
+        width: 100%;
     }
 
     .hero-image {
@@ -171,8 +189,6 @@ google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
         border: 1px solid rgba(255,255,255,0.05);
         transition: border-color 0.3s;
     }
-
-    .testi-card:hover { border-color: var(--gold-light); }
 
     .testi-stars {
         color: #ffc107;
@@ -227,12 +243,19 @@ google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
 
     .gallery-section h2 { margin-bottom: 60px; font-size: 2.5rem; }
 
+    .gallery-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 40px;
+        align-items: center;
+        justify-items: center;
+    }
+
     .gallery-img {
         width: 100%;
         max-width: 940px;
         height: auto;
         border-radius: 20px;
-        margin-bottom: 40px;
         border: 1px solid rgba(255,255,255,0.1);
     }
 
@@ -244,54 +267,90 @@ google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
         padding: 100px 0;
     }
 
-    /* FAQ accordion */
-    .faq-section { background-color: #fff; }
+    .digital-img {
+        width: 100%;
+        max-width: 800px;
+        height: auto;
+        border-radius: 25px;
+    }
+
+    /* FAQ */
     .faq-section h2 { text-align: center; margin-bottom: 60px; font-size: 2.5rem; }
     .faq-accordion { max-width: 900px; margin: 0 auto; }
     .faq-item { border-bottom: 1px solid #ddd; padding: 25px 0; }
     .faq-question { font-weight: 700; cursor: pointer; display: flex; justify-content: space-between; align-items: center; font-size: 1.2rem; }
     .faq-answer { color: var(--text-gray); padding-top: 20px; font-size: 1.05rem; display: none; line-height: 1.7; }
 
-    /* Footer */
+    /* Footer Clínicas */
     .clinics-footer {
-        background-color: #f8f9fa;
+        background-color: var(--dark-bg);
         padding: 80px 0;
-        border-top: 1px solid #eee;
+        color: #fff;
     }
 
     .footer-grid {
         display: grid;
         grid-template-columns: 1fr;
         gap: 50px;
-        text-align: left;
     }
 
-    .clinic-box h4 { color: var(--gold-dark); margin-bottom: 20px; font-size: 1.2rem; letter-spacing: 1px; }
-    .clinic-box p { color: var(--text-gray); font-size: 1rem; margin-bottom: 8px; }
+    .clinic-box h4 { color: var(--gold-light); margin-bottom: 25px; font-size: 1.2rem; letter-spacing: 1px; text-transform: uppercase; }
+    .clinic-box p { color: #ccc; font-size: 1rem; margin-bottom: 10px; }
+    .link-maps { color: #3498db; text-decoration: underline; font-weight: 500; font-size: 0.9rem; margin-top: 10px; display: inline-block; }
 
-    /* Responsible info */
-    .responsible-info {
+    /* Bottom Footer */
+    .footer-bottom {
+        background-color: #000;
+        padding: 80px 0;
         text-align: center;
-        padding: 30px 20px;
-        font-size: 0.85rem;
-        color: #999;
-        background-color: #f2f2f2;
+        color: #fff;
     }
 
-    /* Mobile First Adjustments */
+    .footer-bottom h3 { font-size: 1.8rem; margin-bottom: 40px; }
+
+    .bottom-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 40px;
+        margin-bottom: 60px;
+    }
+
+    .contact-type { font-size: 0.9rem; color: #888; text-transform: uppercase; margin-bottom: 10px; display: block; }
+    .contact-val { font-size: 1.5rem; font-weight: 700; color: #fff; text-decoration: none; }
+    .contact-whatsapp { color: var(--btn-whatsapp); border-bottom: 1px solid var(--btn-whatsapp); }
+
+    .responsible-info {
+        border-top: 1px solid #333;
+        padding-top: 40px;
+        font-size: 0.85rem;
+        color: #666;
+    }
+
+    /* Desktop Adjustments (Media Queries) */
     @media (min-width: 992px) {
+        .container { padding: 0; }
+        
+        /* Hero */
+        .hero-flex { flex-direction: row; text-align: left; align-items: center; justify-content: space-between; }
+        .hero-text { flex: 1.2; text-align: left; }
+        .hero-image-wrap { flex: 0.8; }
         .hero h1 { font-size: 3.8rem; }
-        .hero-list { flex-direction: row; justify-content: center; gap: 40px; }
+        .hero-list { align-items: flex-start; flex-direction: column; gap: 15px; }
+
+        /* Multi-columns */
         .testi-grid { grid-template-columns: repeat(3, 1fr); gap: 30px; }
         .about-content { flex-direction: row; align-items: center; }
         .about-text, .about-img-wrap { flex: 1; }
+        .gallery-grid { grid-template-columns: 1fr 1fr; gap: 30px; }
         .digital-section { flex-direction: row-reverse; align-items: center; }
         .digital-text, .digital-img-wrap { flex: 1; }
         .footer-grid { grid-template-columns: 1fr 1fr; }
-        .btn { max-width: 480px; width: auto; min-width: 320px; }
+        .bottom-grid { grid-template-columns: 1fr 1fr; }
+        
+        .btn { width: auto; min-width: 320px; }
     }
 
-    /* STICKY CTA MOBILE */
+    /* Sticky CTA */
     .whatsapp-sticky {
         position: fixed;
         bottom: 25px;
@@ -311,48 +370,46 @@ google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
         justify-content: center;
         align-items: center;
         gap: 12px;
-        transition: transform 0.3s;
     }
 
-    .whatsapp-sticky span { font-size: 1.6rem; }
-    .whatsapp-sticky:active { transform: scale(0.95); }
-
     @media (min-width: 768px) {
-        .whatsapp-sticky {
-            width: auto;
-            left: auto;
-            bottom: 30px;
-            right: 30px;
-            padding: 15px 30px;
-        }
+        .whatsapp-sticky { width: auto; left: auto; bottom: 30px; right: 30px; padding: 15px 30px; }
     }
 </style>
 
-<!-- HERO -->
+<!-- HEADER / HERO -->
 <section class="hero">
     <div class="container">
-        <img src="https://mdfrossard.com.br/images/logo-MD.jpg" alt="Logo MD Frossard" class="hero-logo" width="180" height="auto">
-        <h1>Dentista na Barra da Tijuca</h1>
-        <p class="subtitle adamina">Seu sorriso é único — seu tratamento também.</p>
-        <p class="intro">Na MD Frossard Odontologia, oferecemos um atendimento completo e personalizado, com foco total no seu conforto e bem-estar.</p>
-        
-        <ul class="hero-list">
-            <li><span>✓</span> 38 anos de experiência clínica</li>
-            <li><span>✓</span> Atendimento particular</li>
-            <li><span>✓</span> Pagamento parcelado</li>
-            <li><span>✓</span> Todas as especialidades</li>
-            <li><span>✓</span> Fácil acesso na Barra da Tijuca</li>
-        </ul>
-
-        <div class="hero-image-wrap">
-            <picture>
-                <source srcset="img/hero.webp" type="image/webp">
-                <img src="img/hero.jpg" 
-                     alt="Dr. Davi Frossard" class="hero-image" width="650" height="433" loading="eager" decoding="async">
-            </picture>
+        <div class="hero-logo-wrap">
+            <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=392,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/snqIBuQv10WiZfyYSGUHhA.png" 
+                 alt="Logo MD Frossard" class="hero-logo" width="392" height="auto">
         </div>
 
-        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Agende sua Consulta e Sinta a Diferença.</a>
+        <div class="hero-flex">
+            <div class="hero-text">
+                <h1>Dentista na Barra da Tijuca</h1>
+                <p class="subtitle adamina">Seu sorriso é único — seu tratamento também.</p>
+                <p class="intro">Na MD Frossard Odontologia, oferecemos um atendimento completo e personalizado, com foco total no seu conforto e bem-estar.</p>
+                
+                <ul class="hero-list">
+                    <li><span>✓</span> 38 anos de experiência clínica</li>
+                    <li><span>✓</span> Atendimento particular</li>
+                    <li><span>✓</span> Pagamento parcelado</li>
+                    <li><span>✓</span> Todas as especialidades</li>
+                    <li><span>✓</span> Fácil acesso na Barra da Tijuca</li>
+                </ul>
+
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Agende sua Consulta e Sinta a Diferença.</a>
+            </div>
+
+            <div class="hero-image-wrap">
+                <picture>
+                    <source srcset="img/hero.webp" type="image/webp">
+                    <img src="img/hero.jpg" 
+                         alt="Dr. Davi Frossard" class="hero-image" width="650" height="433" loading="eager" decoding="async">
+                </picture>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -364,17 +421,17 @@ google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
         <div class="testi-grid">
             <div class="testi-card">
                 <span class="testi-stars">★★★★★</span>
-                <p class="testi-text">"Sempre tive pânico de dentista, algo que me impediu de ir ao dentista por 15 anos, praticamente. Chorava, fugia, verdadeiro terror! Quando encontrei a MD Frossard estava apavorada mas decidida e eles foram essenciais para que eu finalmente superasse e me cuidasse. Desde o atendimento por telefone, ate a consulta, e dia após dia, me senti abraçada por uma equipe inteira, o que fez toda a diferença!! O trabalho feito por eles me mudou esteticamente e funcionalmente. Agradeço demais e recomendo, são excelentes profissionais! Dr Davi, Dr Marcos, a querida Lili e todo o time, vocês são demais!"</p>
+                <p class="testi-text">"Sempre tive pânico de dentista, algo que me impediu de ir ao dentista por 15 anos, praticamente. Chorava, fugia, verdadeiro terror! Quando encontrei a MD Frossard estava apavorada mas decidida e eles foram essenciais para que eu finalmente superasse e me cuidasse. Desde o atendimento por telefone, ate a consulta, e dia após dia, me senti abraçada por uma equipe inteira, o que fez toda a diferença!! O trabalho feito por eles me mudou esteticamente e funcionalmente. Agradeço demais e recomendo, são excelentes profissionais!"</p>
                 <span class="testi-author">LARISSA RODRIGUES</span>
             </div>
             <div class="testi-card">
                 <span class="testi-stars">★★★★★</span>
-                <p class="testi-text">"Cheguei à Clínica MD Frossard através de uma pesquisa na internet para ajudar minha filha que estava sentindo muita dor, e ela foi tão bem atendida que resolvi arriscar e procurar ajuda para mim mesma pois tenho problemas sérios com meus dentes, e o ótimo atendimento que ela teve se transformou em excelência comigo. Nunca fui tão bem atendida e tão acolhida quanto fui pelo Dr David, pelo Dr Marcos e pelas meninas. Voltei a confiar em dentista após ser tratada pelo Dr Marcos e pelo Dr David, a segurança que vocês nos passam e a delicadeza com que falam com seus pacientes, faz toda a diferença. Indico de olhos fechados para todos que precisarem de profissionais excelentes. Minha eterna gratidão a todos vocês"</p>
+                <p class="testi-text">"Cheguei à Clínica MD Frossard através de uma pesquisa na internet para ajudar minha filha que estava sentindo muita dor, e ela foi tão bem atendida que resolvi arriscar e procurar ajuda para mim mesma. Nunca fui tão bem atendida e tão acolhida quanto fui pelo Dr David, pelo Dr Marcos e pelas meninas. Voltei a confiar em dentista após ser tratada pelo Dr Marcos e pelo Dr David..."</p>
                 <span class="testi-author">ELISA D'ARÊDE</span>
             </div>
             <div class="testi-card">
                 <span class="testi-stars">★★★★★</span>
-                <p class="testi-text">"Fiquei super satisfeito com o processo e resultado do tratamento estético-dentário que fiz na Md Frossard Odontologia. Nota 10 em todos os quesitos para a equipe comandada pelos Drs. Marcos e seu filho David. Além da expertise profissional, destaque para o clima de gentileza, pontualidade e responsabilidade. E o pessoal de suporte não fica atrás, demostrando uma competência que deve ser fruto de apurada seleção e treinamento. "</p>
+                <p class="testi-text">"Fiquei super satisfeito com o processo e resultado do tratamento estético-dentário que fiz na Md Frossard Odontologia. Nota 10 em todos os quesitos para a equipe comandada pelos Drs. Marcos e seu filho David. Além da expertise profissional, destaque para o clima de gentileza, pontualidade e responsabilidade. E o pessoal de suporte não fica atrás..."</p>
                 <span class="testi-author">OTÁVIO AZEVEDO</span>
             </div>
         </div>
@@ -410,13 +467,13 @@ google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
 <section class="gallery-section">
     <div class="container">
         <h2 class="adamina">Encontre a solução ideal para o seu sorriso</h2>
-        <div style="display: flex; flex-direction: column; gap: 40px; align-items: center;">
-            <picture style="width: 100%; display: flex; justify-content: center;">
+        <div class="gallery-grid">
+            <picture>
                 <source srcset="img/transformacao-1.webp" type="image/webp">
                 <img src="img/transformacao-1.jpg" 
                      alt="Caso Clínico 1" class="gallery-img" width="940" height="529" loading="lazy" decoding="async">
             </picture>
-            <picture style="width: 100%; display: flex; justify-content: center;">
+            <picture>
                 <source srcset="img/transformacao-2.webp" type="image/webp">
                 <img src="img/transformacao-2.jpg" 
                      alt="Caso Clínico 2" class="gallery-img" width="940" height="529" loading="lazy" decoding="async">
@@ -425,14 +482,14 @@ google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
     </div>
 </section>
 
-<!-- DIGITAL DENTISTRY -->
+<!-- DIGITAL -->
 <section class="about-section">
     <div class="container">
         <div class="digital-section">
             <div class="digital-text">
                 <h2 class="adamina">Precisão e Tecnologia</h2>
                 <p>Utilizamos o Scanner Digital 3D de última geração, eliminando a necessidade de moldagens desconfortáveis e garantindo resultados previsíveis e rápidos.</p>
-                <ul class="hero-list" style="align-items: flex-start; margin-left: 20px;">
+                <ul class="hero-list" style="align-items: flex-start;">
                     <li><span>•</span> Diagnóstico 100% digital</li>
                     <li><span>•</span> Planejamento estético antecipado</li>
                     <li><span>•</span> Segurança total em cirurgias guiadas</li>
@@ -442,7 +499,7 @@ google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
                 <picture>
                     <source srcset="img/scanner.webp" type="image/webp">
                     <img src="img/scanner.jpg" 
-                         alt="Scanner iTero" class="about-img" width="800" height="533" loading="lazy" decoding="async">
+                         alt="Scanner iTero" class="digital-img" width="800" height="533" loading="lazy" decoding="async">
                 </picture>
             </div>
         </div>
@@ -463,14 +520,14 @@ google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
                 <div class="faq-answer">Oferecemos diversas facilidades para que você invista no seu sorriso: cartões de crédito com parcelamento facilitado em até 10x, pix com desconto e boletos (sob consulta).</div>
             </div>
             <div class="faq-item">
-                <div class="faq-items">Vocês atendem planos de saúde? <span class="arrow">▼</span></div>
+                <div class="faq-question">Vocês atendem planos de saúde? <span class="arrow">▼</span></div>
                 <div class="faq-answer">Trabalhamos exclusivamente com atendimento particular para garantir o tempo e o rigor técnico que cada caso de excelência exige. Fornecemos todos os documentos para o seu reembolso.</div>
             </div>
         </div>
     </div>
 </section>
 
-<!-- CLINICS -->
+<!-- CLINICS INFO -->
 <section class="clinics-footer">
     <div class="container">
         <div class="footer-grid">
@@ -480,22 +537,42 @@ google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
                 <p>Av. das Américas, 4.666 - Bloco 03 - Sala 311</p>
                 <p>Barra da Tijuca, Rio de Janeiro - RJ</p>
                 <p>WhatsApp: (21) 97663-7803</p>
+                <a href="https://maps.app.goo.gl/3XmX9X3XmX3" class="link-maps">Saiba como chegar</a>
             </div>
             <div class="clinic-box">
-                <h4>UNIDADE BOTAFOGO</h4>
+                <h4>UNIDADE BOTAFOGO / HUMAITÁ</h4>
                 <p>Edifício Praia Flat</p>
                 <p>Praia de Botafogo, 316 - Sala 601</p>
                 <p>Botafogo, Rio de Janeiro - RJ</p>
                 <p>WhatsApp: (21) 98018-0520</p>
+                <a href="https://maps.app.goo.gl/3XmX9X3XmX3" class="link-maps">Saiba como chegar</a>
             </div>
         </div>
     </div>
 </section>
 
-<div class="responsible-info">
-    <p>Responsável Técnico: Dr. Marcos Frossard - CRO/RJ 10.985</p>
-    <p>© 2026 MD Frossard Odontologia. Todos os direitos reservados.</p>
-</div>
+<!-- FINAL FOOTER -->
+<footer class="footer-bottom">
+    <div class="container">
+        <h3 class="adamina">Agende sua consulta</h3>
+        
+        <div class="bottom-grid">
+            <div>
+                <span class="contact-type">No Telefone</span>
+                <a href="tel:2133870331" class="contact-val">(21) 3387-0331</a>
+            </div>
+            <div>
+                <span class="contact-type">No Whatsapp</span>
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" class="contact-val contact-whatsapp">(21) 97663-7803</a>
+            </div>
+        </div>
+
+        <div class="responsible-info">
+            <p style="margin-bottom: 20px;">Responsável Técnico: Dr. Marcos Frossard - CRO/RJ 10.985</p>
+            <p>© 2026 MD Frossard Odontologia. Todos os direitos reservados.</p>
+        </div>
+    </div>
+</footer>
 
 <!-- STICKY CTA -->
 <a href="https://api.whatsapp.com/send?phone=55021976637803" class="whatsapp-sticky">
