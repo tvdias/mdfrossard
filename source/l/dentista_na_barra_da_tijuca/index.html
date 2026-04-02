@@ -1,267 +1,426 @@
 ---
 layout: layout_landing
 title: "Dentista na Barra da Tijuca | MD Frossard Odontologia"
-description: "Atendimento odontológico de alta performance na Barra da Tijuca. Dra. Marcos e Davi Frossard: mais de 30 anos de excelência em Implantes, Lentes e Reabilitação Oral."
+description: "Atendimento odontológico de elite na Barra da Tijuca. Especialistas em Implantes, Lentes e Reabilitação Oral com mais de 38 anos de tradição."
 ---
 
 <style>
     :root {
-        --brand-gold: #c9a84c;
-        --brand-dark: #1a1a1a;
-        --brand-gray: #f8f9fa;
-        --text-main: #333;
-        --text-light: #666;
-        --white: #ffffff;
+        --primary-gold: #D4AF37;
+        --secondary-gold: #B8860B;
+        --dark-bg: #111111;
+        --darker-bg: #080808;
+        --text-white: #FFFFFF;
+        --text-gray: #A0A0A0;
+        --btn-green: #25D366;
+        --card-bg: #1A1A1A;
+        --transition-speed: 0.3s;
+    }
+
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
     }
 
     body {
-        font-family: 'Inter', system-ui, -apple-system, sans-serif;
-        background-color: var(--white);
-        color: var(--text-main);
+        font-family: 'Inter', -apple-system, system-ui, sans-serif;
+        background-color: var(--dark-bg);
+        color: var(--text-white);
         line-height: 1.6;
-    }
-
-    .l-section {
-        padding: 80px 20px;
+        -webkit-font-smoothing: antialiased;
     }
 
     .container {
-        max-width: 1100px;
+        max-width: 1140px;
         margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    /* Typography */
+    h1, h2, h3 {
+        font-weight: 800;
+        line-height: 1.2;
+    }
+
+    /* Mobile-First Transitions */
+    .btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 16px 32px;
+        border-radius: 50px;
+        font-weight: 700;
+        text-decoration: none;
+        transition: all var(--transition-speed);
+        cursor: pointer;
+        width: 100%;
+        max-width: 400px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        font-size: 1rem;
+    }
+
+    .btn-gold {
+        background-color: var(--primary-gold);
+        color: #000;
+        box-shadow: 0 10px 20px rgba(212, 175, 55, 0.2);
+    }
+
+    .btn-gold:hover {
+        background-color: var(--secondary-gold);
+        transform: translateY(-2px);
     }
 
     /* Hero Section */
-    .l-hero {
-        background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('/images/equipe_md_completa.webp');
-        background-size: cover;
-        background-position: center;
-        color: var(--white);
-        padding: 120px 20px;
+    .hero {
+        padding: 60px 0 100px;
         text-align: center;
-        border-radius: 0 0 40px 40px;
+        background: linear-gradient(180deg, var(--darker-bg) 0%, var(--dark-bg) 100%);
     }
 
-    .l-hero h1 {
-        font-size: 3.5rem;
-        font-weight: 800;
-        margin-bottom: 20px;
-        letter-spacing: -1px;
-    }
-
-    .l-hero p {
-        font-size: 1.25rem;
-        max-width: 700px;
-        margin: 0 auto 40px;
-        opacity: 0.9;
-    }
-
-    .l-btn {
-        display: inline-flex;
-        align-items: center;
-        background-color: var(--brand-gold);
-        color: var(--brand-dark);
-        padding: 18px 36px;
-        border-radius: 12px;
+    .hero-pretitle {
+        color: var(--primary-gold);
         font-weight: 700;
-        text-decoration: none;
-        font-size: 1.1rem;
-        transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s;
-        box-shadow: 0 10px 20px rgba(201, 168, 76, 0.3);
+        display: block;
+        margin-bottom: 20px;
+        letter-spacing: 3px;
+        font-size: 0.9rem;
     }
 
-    .l-btn:hover {
-        transform: scale(1.05);
-        box-shadow: 0 15px 30px rgba(201, 168, 76, 0.4);
+    .hero h1 {
+        font-size: 2.5rem;
+        margin-bottom: 25px;
     }
 
-    /* Benefits */
-    .benefits-grid {
+    .hero-img-wrap {
+        margin: 40px auto;
+        max-width: 600px;
+    }
+
+    .hero-img {
+        width: 100%;
+        height: auto;
+        border-radius: 20px;
+        box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+    }
+
+    .hero-benefits {
+        list-style: none;
+        margin: 30px 0;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        align-items: center;
+    }
+
+    .hero-benefits li {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-weight: 500;
+    }
+
+    .hero-benefits li::before {
+        content: '✓';
+        color: var(--primary-gold);
+        font-weight: 900;
+    }
+
+    /* Testimonials */
+    .testimonials {
+        padding: 80px 0;
+        background-color: var(--darker-bg);
+    }
+
+    .grid-testimonials {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-template-columns: 1fr;
         gap: 30px;
         margin-top: 50px;
     }
 
-    .benefit-card {
-        background: var(--brand-gray);
+    .testi-card {
+        background-color: var(--card-bg);
         padding: 40px;
         border-radius: 20px;
-        transition: transform 0.3s ease;
+        border: 1px solid rgba(255,255,255,0.05);
     }
 
-    .benefit-card:hover {
-        transform: translateY(-10px);
-    }
-
-    .benefit-card i {
-        font-size: 2rem;
-        color: var(--brand-gold);
-        margin-bottom: 20px;
+    .testi-stars {
+        color: gold;
+        margin-bottom: 15px;
         display: block;
     }
 
-    .benefit-card h3 {
+    .testi-card p {
+        font-style: italic;
+        color: var(--text-gray);
+        margin-bottom: 20px;
+    }
+
+    .testi-author {
+        font-weight: 700;
+        display: block;
+    }
+
+    /* Global Sections */
+    .section-title {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .section-title h2 {
+        font-size: 2.2rem;
         margin-bottom: 15px;
-        font-size: 1.4rem;
     }
 
-    /* Expertise */
-    .expertise {
-        background-color: var(--brand-dark);
-        color: var(--white);
+    .section-title p {
+        color: var(--text-gray);
+        max-width: 600px;
+        margin: 0 auto;
     }
 
-    .expertise-header {
-        text-align: center;
-        margin-bottom: 60px;
+    /* Institutional */
+    .institutional {
+        padding: 80px 0;
     }
 
-    .expertise-header h2 {
-        font-size: 2.5rem;
-        margin-bottom: 20px;
-    }
-
-    .expertise-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        gap: 20px;
-    }
-
-    .expertise-item {
-        border: 1px solid rgba(255,255,255,0.1);
-        padding: 25px;
-        border-radius: 15px;
-        text-align: center;
-        transition: border-color 0.3s;
-    }
-
-    .expertise-item:hover {
-        border-color: var(--brand-gold);
-    }
-
-    /* Trust */
-    .trust-section {
+    .inst-grid {
         display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .inst-text h3 {
+        color: var(--primary-gold);
+        font-size: 1.8rem;
+        margin-bottom: 20px;
+    }
+
+    .inst-text p {
+        margin-bottom: 15px;
+        color: var(--text-gray);
+    }
+
+    /* Transformations */
+    .transformations {
+        padding: 80px 0;
+        background-color: var(--darker-bg);
+    }
+
+    .transform-img {
+        width: 100%;
+        border-radius: 15px;
+        margin-bottom: 30px;
+    }
+
+    /* FAQ */
+    .faq {
+        padding: 80px 0;
+    }
+
+    .faq-item {
+        background-color: var(--card-bg);
+        margin-bottom: 15px;
+        border-radius: 10px;
+        overflow: hidden;
+    }
+
+    .faq-question {
+        padding: 20px;
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
         align-items: center;
-        gap: 60px;
-        flex-wrap: wrap;
+        font-weight: 600;
     }
 
-    .trust-img {
-        flex: 1;
-        min-width: 300px;
-        border-radius: 30px;
-        box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+    .faq-answer {
+        padding: 0 20px 20px;
+        color: var(--text-gray);
+        display: none;
     }
 
-    .trust-content {
-        flex: 1.2;
-        min-width: 300px;
+    /* Desktop Adjustments */
+    @media (min-width: 992px) {
+        .hero h1 { font-size: 3.5rem; }
+        .hero-benefits { flex-direction: row; justify-content: center; gap: 40px; }
+        .grid-testimonials { grid-template-columns: repeat(3, 1fr); }
+        .inst-grid { flex-direction: row; align-items: center; }
+        .inst-text, .inst-img-wrap { flex: 1; }
+        .btn { width: auto; min-width: 300px; }
     }
 
-    .trust-content h2 {
-        font-size: 2.5rem;
-        margin-bottom: 25px;
-        color: var(--brand-dark);
+    /* STICKY CTA */
+    .sticky-cta {
+        position: fixed;
+        bottom: 20px;
+        left: 20px;
+        right: 20px;
+        z-index: 1000;
+        display: flex;
+        justify-content: center;
     }
 
-    .trust-content p {
-        margin-bottom: 20px;
-        font-size: 1.1rem;
-        color: var(--text-light);
-    }
-
-    /* CTA Section footer */
-    .l-cta-footer {
-        background-color: var(--brand-gray);
-        text-align: center;
-        padding: 100px 20px;
-        border-radius: 40px 40px 0 0;
-    }
-
-    .l-cta-footer h2 {
-        font-size: 2.5rem;
-        margin-bottom: 20px;
-    }
-
-    .whatsapp-icon {
-        margin-right: 10px;
-    }
-
-    @media (max-width: 768px) {
-        .l-hero h1 { font-size: 2.5rem; }
-        .trust-section { gap: 30px; }
+    .btn-whatsapp {
+        background-color: #25D366;
+        color: white;
+        border-radius: 50px;
+        box-shadow: 0 10px 25px rgba(37, 211, 102, 0.4);
     }
 </style>
 
-<section class="l-hero">
-    <div class="container" style="display: flex; flex-direction: column; align-items: center;">
-        <h1>Dentista de Excelência na Barra da Tijuca</h1>
-        <p>Recupere seu sorriso com quem entende. Dr. Marcos e Dr. Davi Frossard: Tradição e Tecnologia a serviço da sua saúde bucal.</p>
-        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="l-btn">
-            <span class="whatsapp-icon">📱</span> Agendar Avaliação agora
-        </a>
-    </div>
-</section>
-
-<section class="l-section">
+<!-- Hero Section -->
+<section class="hero">
     <div class="container">
-        <div class="expertise-header">
-            <h2>Por que escolher a MD Frossard?</h2>
-            <p>Atendimento focado em resultados estéticos e funcionais duradouros.</p>
+        <span class="hero-pretitle">MD FROSSARD ODONTOLOGIA</span>
+        <h1>Seu sorriso é único — seu tratamento também</h1>
+        <p>Atendimento de elite na Barra da Tijuca, unindo 38 anos de tradição à tecnologia digital mais avançada do mundo.</p>
+        
+        <ul class="hero-benefits">
+            <li>38 Anos de Tradição</li>
+            <li>Atendimento Particular</li>
+            <li>Invisalign Diamond Provider</li>
+        </ul>
+
+        <div class="hero-img-wrap">
+            <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=650,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/jieaFOjQ0SvMCKlYYPnwg.jpeg" 
+                 alt="Dr. Davi Frossard" class="hero-img" loading="eager" decoding="async">
         </div>
-        <div class="benefits-grid">
-            <div class="benefit-card">
-                <h3>30 Anos de Experiência</h3>
-                <p>Nossa fundação é baseada em décadas de prática clínica, garantindo segurança em cada procedimento realizado.</p>
-            </div>
-            <div class="benefit-card">
-                <h3>Tecnologia Avançada</h3>
-                <p>Utilizamos scanners intraorais, cirurgia guiada por computador e os melhores materiais do mercado mundial.</p>
-            </div>
-            <div class="benefit-card">
-                <h3>Conforto Máximo</h3>
-                <p>Ambiente planejado para que você se sinta acolhido desde a recepção até a cadeira do dentista.</p>
-            </div>
-        </div>
+
+        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Agendar Avaliação Agora</a>
     </div>
 </section>
 
-<section class="l-section expertise">
+<!-- Testimonials -->
+<section class="testimonials">
     <div class="container">
-        <div class="expertise-header">
-            <h2>Nossas Especialidades</h2>
-            <p>Tratamentos completos para transformar sua autoestima.</p>
+        <div class="section-title">
+            <h2>Testemunhos de Transformação</h2>
+            <p>O que nossos pacientes dizem sobre a experiência na MD Frossard.</p>
         </div>
-        <div class="expertise-grid">
-            <div class="expertise-item">Implantes Dentários</div>
-            <div class="expertise-item">Lentes de Contato Oral</div>
-            <div class="expertise-item">Invisalign & Ortodontia</div>
-            <div class="expertise-item">Reabilitação Oral</div>
-            <div class="expertise-item">Endodontia (Canal)</div>
-            <div class="expertise-item">Estética Dental</div>
-        </div>
-    </div>
-</section>
-
-<section class="l-section">
-    <div class="container trust-section">
-        <img src="/images/equipe_marcos.webp" alt="Dr. Marcos Frossard" class="trust-img" loading="lazy" decoding="async">
-        <div class="trust-content">
-            <h2>Fale diretamente com os especialistas.</h2>
-            <p>Na MD Frossard, o Dr. Marcos e o Dr. Davi participam ativamente de cada planejamento. Não somos uma franquia: somos uma clínica familiar dedicada à excelência.</p>
-            <p>Localização privilegiada na Barra da Tijuca, com estacionamento e total segurança para você e sua família.</p>
-            <a href="/contato/" style="color: var(--brand-gold); font-weight: 700; text-decoration: underline;">Ver endereço completo</a>
+        
+        <div class="grid-testimonials">
+            <div class="testi-card">
+                <span class="testi-stars">★★★★★</span>
+                <p>"Tinha pânico de dentista, mas aqui me senti acolhida desde o primeiro minuto. As lentes de contato mudaram minha autoestima. Recomendo de olhos fechados!"</p>
+                <span class="testi-author">LARISSA MELO</span>
+            </div>
+            <div class="testi-card">
+                <span class="testi-stars">★★★★★</span>
+                <p>"Excelente atendimento! Dr. Marcos é um profissional extremamente cuidadoso e competente. O tratamento com implantes foi super tranquilo e o resultado ficou muito natural."</p>
+                <span class="testi-author">OTÁVIO AUGUSTO</span>
+            </div>
+            <div class="testi-card">
+                <span class="testi-stars">★★★★★</span>
+                <p>"Clínica impecável. O tratamento com Invisalign superou minhas expectativas. A Dra. Luciana e toda a equipe são nota 1000!"</p>
+                <span class="testi-author">ELISA SOBRAL</span>
+            </div>
         </div>
     </div>
 </section>
 
-<section class="l-cta-footer">
+<!-- Institutional -->
+<section class="institutional">
     <div class="container">
-        <h2>Pronto para sorrir de novo?</h2>
-        <p style="margin-bottom: 40px; font-size: 1.1rem; color: var(--text-light);">Clique no botão abaixo e converse com nossa equipe pelo WhatsApp.</p>
-        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="l-btn">
-            Falar pelo WhatsApp
-        </a>
+        <div class="inst-grid">
+            <div class="inst-img-wrap">
+                <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=40,width=584,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/M3vuHWJE6p9QAEH1Wow.jpeg" 
+                     alt="Equipe MD Frossard" class="hero-img" loading="lazy" decoding="async">
+            </div>
+            <div class="inst-text">
+                <h3>Excelência em cada detalhe</h3>
+                <p>Fundada pelo Dr. Marcos Frossard, a clínica hoje é referência nacional em reabilitação oral de alta complexidade. Com a chegada do Dr. Davi Frossard e da Dra. Luciana Frossard, unimos a vasta experiência clínica às inovações tecnológicas mais recentes.</p>
+                <p>Nossa unidade na Barra da Tijuca foi planejada para oferecer um ambiente calmo e exclusivo, focado no conforto do paciente particular que não abre mão de qualidade superior.</p>
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold" style="margin-top: 20px;">Falar com um Especialista</a>
+            </div>
+        </div>
     </div>
 </section>
+
+<!-- Transformations -->
+<section class="transformations">
+    <div class="container">
+        <div class="section-title">
+            <h2>O Poder de um Novo Sorriso</h2>
+            <p>Veja resultados reais de pacientes que recuperaram a confiança em sorrir.</p>
+        </div>
+        
+        <div style="display: flex; flex-direction: column; gap: 30px; align-items: center;">
+            <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=940,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/r9UceOWvke1hVnZx9XcGA.jpeg" 
+                 alt="Transformação 1" class="transform-img" loading="lazy" decoding="async">
+            <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=940,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/LOBV3mMhI0ismGuS3qYVLQ.jpeg" 
+                 alt="Transformação 2" class="transform-img" loading="lazy" decoding="async">
+        </div>
+    </div>
+</section>
+
+<!-- Technology -->
+<section class="institutional">
+    <div class="container">
+        <div class="inst-grid" style="flex-direction: row-reverse;">
+            <div class="inst-img-wrap">
+                <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=800,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/agvkI0KZgUqvhjS0j0iPeA.jpeg" 
+                     alt="Scanner Digital" class="hero-img" loading="lazy" decoding="async">
+            </div>
+            <div class="inst-text">
+                <h3>Odontologia Digital de Precisão</h3>
+                <p>Elimine o desconforto das moldagens tradicionais. Com nosso sistema de escaneamento oral 3D, seu tratamento é planejado digitalmente com precisão micrométrica.</p>
+                <ul class="hero-benefits" style="align-items: flex-start; margin: 20px 0;">
+                    <li>Resultados mais rápidos</li>
+                    <li>Maior previsibilidade</li>
+                    <li>Máximo conforto</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- FAQ -->
+<section class="faq">
+    <div class="container">
+        <div class="section-title">
+            <h2>Perguntas Frequentes</h2>
+        </div>
+        
+        <div class="faq-accordion">
+            <div class="faq-item">
+                <div class="faq-question">Quais formas de pagamento são aceitas? <span class="arrow">▼</span></div>
+                <div class="faq-answer">Trabalhamos com diversas formas de pagamento, incluindo cartão de crédito com parcelamento facilitado e pix.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">Vocês atendem planos de saúde? <span class="arrow">▼</span></div>
+                <div class="faq-answer">Nosso atendimento é focado na modalidade particular para garantir a exclusividade e o tempo necessário para um tratamento de excelência. No entanto, emitimos toda a documentação necessária para que você solicite o reembolso junto ao seu plano de saúde.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">Onde a clínica está localizada? <span class="arrow">▼</span></div>
+                <div class="faq-answer">Nossa principal unidade está localizada na Barra da Tijuca, no Centro Médico do BarraShopping, com fácil acesso e estacionamento no local.</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Sticky CTA Mobile -->
+<div class="sticky-cta">
+    <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-whatsapp">
+        <span style="font-size: 1.5rem; margin-right: 10px;">💬</span> Agendar via WhatsApp
+    </a>
+</div>
+
+<script>
+    // FAQ Accordion Logic
+    document.querySelectorAll('.faq-question').forEach(item => {
+        item.addEventListener('click', () => {
+            const answer = item.nextElementSibling;
+            const isOpen = answer.style.display === 'block';
+            
+            // Close all others
+            document.querySelectorAll('.faq-answer').forEach(ans => ans.style.display = 'none');
+            
+            if (!isOpen) {
+                answer.style.display = 'block';
+            }
+        });
+    });
+</script>
