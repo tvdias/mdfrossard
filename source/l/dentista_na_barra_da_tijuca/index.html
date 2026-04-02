@@ -2,252 +2,291 @@
 layout: landing_page
 title: "Dentista na Barra da Tijuca | MD Frossard Odontologia"
 description: "Atendimento odontológico de elite na Barra da Tijuca. Especialistas em Implantes, Lentes e Reabilitação com 38 anos de tradição."
-google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
+google_fonts: "Adamina&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap"
 ---
 
 <style>
     :root {
+        --gold: #c9a227;
         --gold-light: #f7d16b;
         --gold-dark: #e0ae3d;
-        --dark-bg: #1a1a1a;
-        --darker-bg: #111111;
-        --text-dark: #333333;
-        --text-gray: #555555;
-        --text-white: #ffffff;
-        --btn-whatsapp: #25d366;
+        --dark: #1a1a1a;
+        --darkest: #111;
+        --text: #333;
+        --muted: #666;
+        --white: #fff;
+        --green: #25D366;
     }
 
-    * {
-        box-sizing: border-box;
-        margin: 0;
-        padding: 0;
-    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
         font-family: 'Roboto', sans-serif;
-        background-color: #fff;
-        color: var(--text-dark);
-        line-height: 1.6;
+        color: var(--text);
+        background: var(--white);
+        line-height: 1.7;
         -webkit-font-smoothing: antialiased;
     }
 
+    .serif { font-family: 'Adamina', serif; }
+
     .container {
-        max-width: 1140px;
+        max-width: 1160px;
         margin: 0 auto;
-        padding: 0 20px;
+        padding: 0 24px;
     }
 
-    h1, h2, h3, .adamina {
-        font-family: 'Adamina', serif;
-    }
-
-    section {
-        padding: 80px 0;
-    }
-
-    /* Button Styles */
+    /* ── BUTTONS ── */
     .btn {
-        display: inline-block;
-        padding: 20px 48px;
-        border-radius: 8px;
-        text-decoration: none;
-        font-weight: 700;
-        text-align: center;
-        transition: all 0.3s;
-        cursor: pointer;
-        width: 100%;
-        max-width: 480px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 18px 40px;
         border: none;
+        border-radius: 6px;
+        font-weight: 700;
+        font-size: 1rem;
+        text-decoration: none;
+        cursor: pointer;
+        transition: transform .2s, box-shadow .2s;
+        letter-spacing: .5px;
+        width: 100%;
     }
 
     .btn-gold {
-        background: linear-gradient(to right, var(--gold-light), var(--gold-dark));
-        color: #000;
-        text-transform: uppercase;
-        font-size: 17px;
-        box-shadow: 0 10px 20px rgba(224, 174, 61, 0.2);
+        background: linear-gradient(135deg, #f7d16b 0%, #d4a017 100%);
+        color: #1a0900;
+        font-size: 1.05rem;
+        box-shadow: 0 4px 16px rgba(201,162,39,.35);
     }
 
-    .btn-gold:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 15px 30px rgba(224, 174, 61, 0.3);
+    .btn-gold:hover { transform: translateY(-2px); box-shadow: 0 12px 32px rgba(201,162,39,.45); }
+
+    .btn-whatsapp-inline {
+        background: var(--green);
+        color: var(--white);
+        gap: 10px;
+        box-shadow: 0 8px 24px rgba(37,211,102,.3);
     }
 
-    /* Hero Section */
+    .btn-whatsapp-inline:hover { transform: translateY(-2px); }
+
+    /* ── HERO ── */
     .hero {
-        text-align: center;
-        padding: 40px 0 80px;
-        background-color: #fff;
+        background: #f5f5f0;
+        padding: 48px 0 80px;
     }
 
     .hero-logo-wrap {
         display: flex;
         justify-content: center;
-        margin-bottom: 40px;
+        margin-bottom: 56px;
     }
 
-    .hero-logo {
-        width: 100%;
-        max-width: 392px;
-        height: auto;
-    }
+    .hero-logo { max-width: 280px; width: 100%; height: auto; }
 
-    .hero-flex {
+    .hero-body {
         display: flex;
         flex-direction: column;
-        gap: 40px;
+        gap: 48px;
         align-items: center;
-    }
-
-    .hero-text {
         text-align: center;
     }
 
-    .hero h1 {
-        font-size: 2.8rem;
-        margin-bottom: 25px;
+    .hero-copy { flex: 1; text-align: center; }
+
+    .hero-copy h1 {
+        font-family: 'Adamina', serif;
+        font-size: clamp(2rem, 5vw, 3.5rem);
         color: #000;
-        letter-spacing: -0.5px;
+        line-height: 1.15;
+        margin-bottom: 12px;
     }
 
-    .hero p.subtitle {
+    .hero-copy .tagline {
+        font-family: 'Adamina', serif;
         font-style: italic;
-        color: var(--text-gray);
-        font-size: 1.2rem;
-        margin-bottom: 20px;
+        font-size: clamp(1.1rem, 2.5vw, 1.4rem);
+        color: var(--muted);
+        margin-bottom: 16px;
     }
 
-    .hero p.intro {
-        max-width: 800px;
-        margin: 0 auto 40px;
-        font-size: 1.1rem;
-        color: var(--text-gray);
-    }
-
-    .hero-list {
-        list-style: none;
-        display: flex;
-        flex-direction: column;
-        gap: 15px;
-        margin-bottom: 50px;
-        align-items: center;
-    }
-
-    .hero-list li {
-        display: flex;
-        align-items: center;
-        gap: 12px;
-        font-weight: 500;
+    .hero-copy .intro {
         font-size: 1.05rem;
-    }
-
-    .hero-list li span {
-        color: #28a745;
-        font-weight: 900;
-        font-size: 1.2rem;
-    }
-
-    .hero-image-wrap {
-        max-width: 650px;
-        width: 100%;
-    }
-
-    .hero-image {
-        width: 100%;
-        height: auto;
-        border-radius: 30px;
-        box-shadow: 0 30px 60px rgba(0,0,0,0.15);
-    }
-
-    /* Testimonials */
-    .testi-section {
-        background-color: var(--dark-bg);
-        color: var(--text-white);
-        text-align: center;
-    }
-
-    .testi-section h2 {
-        font-size: 2.4rem;
-        margin-bottom: 60px;
-        max-width: 800px;
+        color: var(--muted);
+        margin-bottom: 36px;
+        max-width: 540px;
         margin-left: auto;
         margin-right: auto;
+    }
+
+    .hero-checks {
+        list-style: none;
+        margin-bottom: 40px;
+        display: inline-flex;
+        flex-direction: column;
+        gap: 10px;
+        text-align: left;
+    }
+
+    .hero-checks li {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 1rem;
+        font-weight: 400;
+        color: #444;
+    }
+
+    .hero-checks li::before {
+        content: '✔';
+        color: #444;
+        font-size: .95rem;
+        flex-shrink: 0;
+    }
+
+    .hero-cta { display: flex; flex-direction: column; gap: 14px; align-items: center; }
+
+    .hero-phone {
+        font-size: 1.1rem;
+        font-weight: 500;
+        color: #2563eb;
+        text-decoration: underline;
+    }
+
+    .hero-img-wrap { flex: 1; width: 100%; max-width: 560px; }
+
+    .hero-img {
+        width: 100%;
+        height: auto;
+        border-radius: 24px;
+        box-shadow: 0 24px 64px rgba(0,0,0,.15);
+    }
+
+    /* ── TESTIMONIALS ── */
+    .testi {
+        background: var(--darkest);
+        padding: 96px 0;
+        text-align: center;
+    }
+
+    .testi h2 {
+        font-family: 'Adamina', serif;
+        font-size: clamp(1.6rem, 3vw, 2.4rem);
+        color: var(--white);
+        max-width: 720px;
+        margin: 0 auto 64px;
+        line-height: 1.3;
     }
 
     .testi-grid {
         display: grid;
         grid-template-columns: 1fr;
-        gap: 40px;
-        margin-bottom: 60px;
+        gap: 28px;
+        margin-bottom: 56px;
     }
 
     .testi-card {
-        padding: 50px 40px;
-        border-radius: 20px;
-        background: #252525;
+        background: #1e1e1e;
+        border: 1px solid rgba(255,255,255,.07);
+        border-radius: 16px;
+        padding: 36px 32px;
         text-align: left;
-        border: 1px solid rgba(255,255,255,0.05);
-        transition: border-color 0.3s;
+        transition: border-color .25s;
     }
 
-    .testi-stars {
-        color: #ffc107;
-        margin-bottom: 20px;
-        display: block;
-        font-size: 1.2rem;
+    .testi-card:hover { border-color: var(--gold-dark); }
+
+    .testi-source {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 16px;
+    }
+
+    .testi-stars { color: #facc15; font-size: 1rem; letter-spacing: 2px; }
+
+    .testi-platform {
+        font-size: 0.8rem;
+        color: #888;
+        text-transform: uppercase;
+        letter-spacing: 1px;
     }
 
     .testi-text {
-        color: #e0e0e0;
         font-style: italic;
-        margin-bottom: 25px;
-        font-size: 1rem;
+        color: #d4d4d4;
         line-height: 1.8;
+        margin-bottom: 20px;
+        font-size: .975rem;
     }
 
     .testi-author {
         font-weight: 700;
-        text-transform: uppercase;
-        font-size: 0.95rem;
         color: var(--gold-light);
-        letter-spacing: 1px;
+        text-transform: uppercase;
+        font-size: .85rem;
+        letter-spacing: 1.5px;
     }
 
-    /* About Section */
-    .about-section { padding: 100px 0; }
+    /* ── ABOUT ── */
+    .about {
+        padding: 100px 0;
+        background: var(--white);
+    }
 
-    .about-content {
+    .about-grid {
         display: flex;
         flex-direction: column;
         gap: 60px;
+        align-items: flex-start;
     }
 
-    .about-text h2 { font-size: 2.5rem; margin-bottom: 40px; color: #000; }
-    .about-text p { margin-bottom: 25px; color: var(--text-gray); font-size: 1.1rem; }
+    .about-copy { flex: 1; }
+
+    .about-copy h2 {
+        font-family: 'Adamina', serif;
+        font-size: clamp(1.8rem, 3vw, 2.6rem);
+        color: #000;
+        margin-bottom: 28px;
+        line-height: 1.2;
+    }
+
+    .about-copy p {
+        color: var(--muted);
+        margin-bottom: 20px;
+        font-size: 1.05rem;
+        line-height: 1.75;
+    }
+
+    .about-img-wrap { flex: 1; width: 100%; }
 
     .about-img {
         width: 100%;
-        max-width: 584px;
+        max-width: 560px;
         height: auto;
-        border-radius: 25px;
-        box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        border-radius: 20px;
+        box-shadow: 0 20px 48px rgba(0,0,0,.12);
     }
 
-    /* Gallery */
-    .gallery-section {
-        background-color: var(--darker-bg);
-        color: var(--text-white);
+    /* ── GALLERY ── */
+    .gallery {
+        background: var(--darkest);
+        padding: 96px 0 112px;
         text-align: center;
-        padding-bottom: 120px;
     }
 
-    .gallery-section h2 { margin-bottom: 60px; font-size: 2.5rem; }
+    .gallery h2 {
+        font-family: 'Adamina', serif;
+        font-size: clamp(1.8rem, 3vw, 2.6rem);
+        color: var(--white);
+        margin-bottom: 56px;
+    }
 
     .gallery-grid {
         display: grid;
         grid-template-columns: 1fr;
-        gap: 40px;
-        align-items: center;
+        gap: 28px;
         justify-items: center;
     }
 
@@ -255,342 +294,518 @@ google_fonts: "Adamina&family=Roboto:wght@300;400;500;700"
         width: 100%;
         max-width: 940px;
         height: auto;
-        border-radius: 20px;
-        border: 1px solid rgba(255,255,255,0.1);
+        border-radius: 16px;
+        border: 1px solid rgba(255,255,255,.08);
     }
 
-    /* Digital Section */
-    .digital-section {
+    /* ── DIGITAL ── */
+    .digital {
+        padding: 100px 0;
+        background: #f9f8f6;
+    }
+
+    .digital-grid {
         display: flex;
         flex-direction: column;
         gap: 60px;
-        padding: 100px 0;
+        align-items: center;
     }
+
+    .digital-copy { flex: 1; }
+
+    .digital-copy h2 {
+        font-family: 'Adamina', serif;
+        font-size: clamp(1.8rem, 3vw, 2.6rem);
+        color: #000;
+        margin-bottom: 20px;
+    }
+
+    .digital-copy p { color: var(--muted); margin-bottom: 28px; font-size: 1.05rem; }
+
+    .digital-img-wrap { flex: 1; width: 100%; }
 
     .digital-img {
         width: 100%;
-        max-width: 800px;
+        max-width: 560px;
         height: auto;
-        border-radius: 25px;
+        border-radius: 20px;
+        box-shadow: 0 20px 48px rgba(0,0,0,.12);
     }
 
-    /* FAQ */
-    .faq-section h2 { text-align: center; margin-bottom: 60px; font-size: 2.5rem; }
-    .faq-accordion { max-width: 900px; margin: 0 auto; }
-    .faq-item { border-bottom: 1px solid #ddd; padding: 25px 0; }
-    .faq-question { font-weight: 700; cursor: pointer; display: flex; justify-content: space-between; align-items: center; font-size: 1.2rem; }
-    .faq-answer { color: var(--text-gray); padding-top: 20px; font-size: 1.05rem; display: none; line-height: 1.7; }
+    /* ── FAQ ── */
+    .faq { padding: 96px 0; background: var(--white); }
 
-    /* Footer Clínicas */
-    .clinics-footer {
-        background-color: var(--dark-bg);
-        padding: 80px 0;
-        color: #fff;
-    }
-
-    .footer-grid {
-        display: grid;
-        grid-template-columns: 1fr;
-        gap: 50px;
-    }
-
-    .clinic-box h4 { color: var(--gold-light); margin-bottom: 25px; font-size: 1.2rem; letter-spacing: 1px; text-transform: uppercase; }
-    .clinic-box p { color: #ccc; font-size: 1rem; margin-bottom: 10px; }
-    .link-maps { color: #3498db; text-decoration: underline; font-weight: 500; font-size: 0.9rem; margin-top: 10px; display: inline-block; }
-
-    /* Bottom Footer */
-    .footer-bottom {
-        background-color: #000;
-        padding: 80px 0;
+    .faq h2 {
+        font-family: 'Adamina', serif;
+        font-size: clamp(1.8rem, 3vw, 2.6rem);
         text-align: center;
-        color: #fff;
+        margin-bottom: 56px;
     }
 
-    .footer-bottom h3 { font-size: 1.8rem; margin-bottom: 40px; }
+    .faq-wrap { max-width: 860px; margin: 0 auto; }
 
-    .bottom-grid {
-        display: grid;
-        grid-template-columns: 1fr;
-        gap: 40px;
-        margin-bottom: 60px;
+    .faq-item {
+        border-bottom: 1px solid #e5e7eb;
     }
 
-    .contact-type { font-size: 0.9rem; color: #888; text-transform: uppercase; margin-bottom: 10px; display: block; }
-    .contact-val { font-size: 1.5rem; font-weight: 700; color: #fff; text-decoration: none; }
-    .contact-whatsapp { color: var(--btn-whatsapp); border-bottom: 1px solid var(--btn-whatsapp); }
-
-    .responsible-info {
-        border-top: 1px solid #333;
-        padding-top: 40px;
-        font-size: 0.85rem;
-        color: #666;
-    }
-
-    /* Desktop Adjustments (Media Queries) */
-    @media (min-width: 992px) {
-        .container { padding: 0; }
-        
-        /* Hero */
-        .hero-flex { flex-direction: row; text-align: left; align-items: center; justify-content: space-between; }
-        .hero-text { flex: 1.2; text-align: left; }
-        .hero-image-wrap { flex: 0.8; }
-        .hero h1 { font-size: 3.8rem; }
-        .hero-list { align-items: flex-start; flex-direction: column; gap: 15px; }
-
-        /* Multi-columns */
-        .testi-grid { grid-template-columns: repeat(3, 1fr); gap: 30px; }
-        .about-content { flex-direction: row; align-items: center; }
-        .about-text, .about-img-wrap { flex: 1; }
-        .gallery-grid { grid-template-columns: 1fr 1fr; gap: 30px; }
-        .digital-section { flex-direction: row-reverse; align-items: center; }
-        .digital-text, .digital-img-wrap { flex: 1; }
-        .footer-grid { grid-template-columns: 1fr 1fr; }
-        .bottom-grid { grid-template-columns: 1fr 1fr; }
-        
-        .btn { width: auto; min-width: 320px; }
-    }
-
-    /* Sticky CTA */
-    .whatsapp-sticky {
-        position: fixed;
-        bottom: 25px;
-        right: 20px;
-        left: 20px;
-        background-color: var(--btn-whatsapp);
-        color: #fff;
-        padding: 18px;
-        border-radius: 50px;
-        text-align: center;
-        text-decoration: none;
-        font-weight: 700;
-        font-size: 1.1rem;
-        box-shadow: 0 15px 35px rgba(37, 211, 102, 0.4);
-        z-index: 1000;
+    .faq-q {
         display: flex;
-        justify-content: center;
+        justify-content: space-between;
         align-items: center;
-        gap: 12px;
+        padding: 24px 0;
+        cursor: pointer;
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: #000;
+        user-select: none;
     }
 
-    @media (min-width: 768px) {
-        .whatsapp-sticky { width: auto; left: auto; bottom: 30px; right: 30px; padding: 15px 30px; }
+    .faq-q .chevron {
+        font-size: .85rem;
+        color: var(--gold-dark);
+        transition: transform .25s;
+        flex-shrink: 0;
+        margin-left: 16px;
+    }
+
+    .faq-q.open .chevron { transform: rotate(180deg); }
+
+    .faq-a {
+        overflow: hidden;
+        max-height: 0;
+        transition: max-height .35s ease;
+    }
+
+    .faq-a-inner {
+        padding: 0 0 24px;
+        color: var(--muted);
+        font-size: 1rem;
+        line-height: 1.75;
+    }
+
+    /* ── CLINICS (dark footer) ── */
+    .clinics {
+        background: var(--dark);
+        padding: 88px 0;
+        color: var(--white);
+    }
+
+    .clinics h2 {
+        font-family: 'Adamina', serif;
+        font-size: clamp(1.6rem, 2.5vw, 2rem);
+        text-align: center;
+        margin-bottom: 60px;
+        color: var(--white);
+    }
+
+    .clinics-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 48px;
+    }
+
+    .clinic-card {
+        background: rgba(255,255,255,.04);
+        border: 1px solid rgba(255,255,255,.08);
+        border-radius: 16px;
+        padding: 40px;
+    }
+
+    .clinic-card h3 {
+        font-family: 'Adamina', serif;
+        font-size: 1.15rem;
+        color: var(--gold-light);
+        margin-bottom: 20px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+    .clinic-card p {
+        color: #bbb;
+        font-size: .975rem;
+        margin-bottom: 8px;
+        line-height: 1.5;
+    }
+
+    .clinic-card a.maps-link {
+        display: inline-block;
+        margin-top: 14px;
+        color: #60a5fa;
+        text-decoration: underline;
+        font-size: .9rem;
+        font-weight: 500;
+    }
+
+    /* ── CONTACT FOOTER ── */
+    .contact-footer {
+        background: var(--darkest);
+        padding: 80px 0;
+        text-align: center;
+        color: var(--white);
+    }
+
+    .contact-footer h2 {
+        font-family: 'Adamina', serif;
+        font-size: clamp(1.6rem, 3vw, 2.2rem);
+        margin-bottom: 12px;
+    }
+
+    .contact-footer .hours {
+        color: #888;
+        font-size: .95rem;
+        margin-bottom: 48px;
+    }
+
+    .contact-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 36px;
+        max-width: 600px;
+        margin: 0 auto 56px;
+    }
+
+    .contact-block label {
+        display: block;
+        font-size: .8rem;
+        color: #888;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        margin-bottom: 10px;
+    }
+
+    .contact-block a {
+        font-size: 1.5rem;
+        font-weight: 700;
+        text-decoration: none;
+        color: var(--white);
+    }
+
+    .contact-block a.wpp { color: var(--green); border-bottom: 2px solid var(--green); }
+
+    .legal {
+        border-top: 1px solid #2a2a2a;
+        padding-top: 36px;
+        font-size: .82rem;
+        color: #555;
+    }
+
+    .legal p { margin-bottom: 6px; }
+
+    /* ── STICKY WPP ── */
+    .sticky-wpp {
+        position: fixed;
+        bottom: 24px;
+        left: 20px;
+        right: 20px;
+        z-index: 9999;
+        background: var(--green);
+        color: var(--white);
+        text-decoration: none;
+        padding: 16px 28px;
+        border-radius: 50px;
+        font-weight: 700;
+        font-size: 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        box-shadow: 0 12px 32px rgba(37,211,102,.4);
+        transition: transform .2s;
+    }
+
+    .sticky-wpp:active { transform: scale(.97); }
+
+    /* ── RESPONSIVE ── */
+    @media (min-width: 960px) {
+        .hero-body { flex-direction: row; align-items: center; gap: 80px; text-align: left; }
+        .hero-copy { text-align: left; }
+        .hero-copy h1 { font-size: clamp(2rem, 5vw, 3.5rem); }
+        .hero-copy .intro { margin-left: 0; }
+        .hero-checks { display: inline-flex; }
+        .hero-cta { align-items: flex-start; }
+
+        .testi-grid { grid-template-columns: repeat(3, 1fr); }
+
+        .about-grid { flex-direction: row; align-items: center; gap: 80px; }
+        .about-img { max-width: 100%; }
+
+        .gallery-grid { grid-template-columns: 1fr 1fr; }
+
+        .digital-grid { flex-direction: row-reverse; align-items: center; gap: 80px; }
+        .digital-img { max-width: 100%; }
+
+        .clinics-grid { grid-template-columns: 1fr 1fr; }
+
+        .contact-grid { grid-template-columns: 1fr 1fr; }
+
+        .btn { width: auto; min-width: 280px; }
+        .hero-cta .btn { min-width: 340px; }
+
+        .sticky-wpp { left: auto; right: 32px; width: auto; min-width: 260px; }
     }
 </style>
 
-<!-- HEADER / HERO -->
+<!-- ═══ HERO ═══ -->
 <section class="hero">
     <div class="container">
         <div class="hero-logo-wrap">
-            <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=392,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/snqIBuQv10WiZfyYSGUHhA.png" 
-                 alt="Logo MD Frossard" class="hero-logo" width="392" height="auto">
+            <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=392,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/snqIBuQv10WiZfyYSGUHhA.png"
+                 alt="MD Frossard Odontologia" class="hero-logo" width="280" height="auto" loading="eager">
         </div>
 
-        <div class="hero-flex">
-            <div class="hero-text">
+        <div class="hero-body">
+            <div class="hero-copy">
                 <h1>Dentista na Barra da Tijuca</h1>
-                <p class="subtitle adamina">Seu sorriso é único — seu tratamento também.</p>
+                <p class="tagline">Seu sorriso é único — seu tratamento também.</p>
                 <p class="intro">Na MD Frossard Odontologia, oferecemos um atendimento completo e personalizado, com foco total no seu conforto e bem-estar.</p>
-                
-                <ul class="hero-list">
-                    <li><span>✓</span> 38 anos de experiência clínica</li>
-                    <li><span>✓</span> Atendimento particular</li>
-                    <li><span>✓</span> Pagamento parcelado</li>
-                    <li><span>✓</span> Todas as especialidades</li>
-                    <li><span>✓</span> Fácil acesso na Barra da Tijuca</li>
+
+                <ul class="hero-checks">
+                    <li>38 anos de experiência clínica ;</li>
+                    <li>Atendimento particular ;</li>
+                    <li>Pagamento parcelado ;</li>
+                    <li>Todas as especialidades ;</li>
+                    <li>Fácil acesso na Barra da Tijuca.</li>
                 </ul>
 
-                <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Agende sua Consulta e Sinta a Diferença.</a>
+                <div class="hero-cta">
+                    <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">
+                        Agende sua Consulta e Sinta a Diferença
+                    </a>
+                    <a href="tel:2197663-7803" class="hero-phone">(21) 97663-7803</a>
+                </div>
             </div>
 
-            <div class="hero-image-wrap">
+            <div class="hero-img-wrap">
                 <picture>
                     <source srcset="img/hero.webp" type="image/webp">
-                    <img src="img/hero.jpg" 
-                         alt="Dr. Davi Frossard" class="hero-image" width="650" height="433" loading="eager" decoding="async">
+                    <img src="img/hero.jpg" alt="Dr. Davi Frossard" class="hero-img"
+                         width="650" height="433" loading="eager" decoding="async">
                 </picture>
             </div>
         </div>
     </div>
 </section>
 
-<!-- TESTIMONIALS -->
-<section class="testi-section">
+<!-- ═══ TESTIMONIALS ═══ -->
+<section class="testi">
     <div class="container">
-        <h2 class="adamina">Pacientes da Barra da Tijuca que voltaram a sorrir com confiança</h2>
-        
+        <h2>Pacientes da Barra da Tijuca que voltaram a sorrir com confiança</h2>
+
         <div class="testi-grid">
             <div class="testi-card">
-                <span class="testi-stars">★★★★★</span>
-                <p class="testi-text">"Sempre tive pânico de dentista, algo que me impediu de ir ao dentista por 15 anos, praticamente. Chorava, fugia, verdadeiro terror! Quando encontrei a MD Frossard estava apavorada mas decidida e eles foram essenciais para que eu finalmente superasse e me cuidasse. Desde o atendimento por telefone, ate a consulta, e dia após dia, me senti abraçada por uma equipe inteira, o que fez toda a diferença!! O trabalho feito por eles me mudou esteticamente e funcionalmente. Agradeço demais e recomendo, são excelentes profissionais!"</p>
-                <span class="testi-author">LARISSA RODRIGUES</span>
+                <div class="testi-source">
+                    <span class="testi-stars">★★★★★</span>
+                    <span class="testi-platform">Google</span>
+                </div>
+                <p class="testi-text">"Sempre tive pânico de dentista, algo que me impediu de ir ao dentista por 15 anos, praticamente. Chorava, fugia, verdadeiro terror! Quando encontrei a MD Frossard estava apavorada mas decidida e eles foram essenciais para que eu finalmente superasse e me cuidasse. Desde o atendimento por telefone, ate a consulta, e dia após dia, me senti abraçada por uma equipe inteira, o que fez toda a diferença!! O trabalho feito por eles me mudou esteticamente e funcionalmente. Agradeço demais e recomendo, são excelentes profissionais! Dr Davi, Dr Marcos, a querida Lili e todo o time, vocês são demais!"</p>
+                <span class="testi-author">Larissa Rodrigues</span>
             </div>
+
             <div class="testi-card">
-                <span class="testi-stars">★★★★★</span>
-                <p class="testi-text">"Cheguei à Clínica MD Frossard através de uma pesquisa na internet para ajudar minha filha que estava sentindo muita dor, e ela foi tão bem atendida que resolvi arriscar e procurar ajuda para mim mesma. Nunca fui tão bem atendida e tão acolhida quanto fui pelo Dr David, pelo Dr Marcos e pelas meninas. Voltei a confiar em dentista após ser tratada pelo Dr Marcos e pelo Dr David..."</p>
-                <span class="testi-author">ELISA D'ARÊDE</span>
+                <div class="testi-source">
+                    <span class="testi-stars">★★★★★</span>
+                    <span class="testi-platform">Google</span>
+                </div>
+                <p class="testi-text">"Cheguei à Clínica MD Frossard através de uma pesquisa na internet para ajudar minha filha que estava sentindo muita dor, e ela foi tão bem atendida que resolvi arriscar e procurar ajuda para mim mesma pois tenho problemas sérios com meus dentes, e o ótimo atendimento que ela teve se transformou em excelência comigo. Nunca fui tão bem atendida e tão acolhida quanto fui pelo Dr David, pelo Dr Marcos e pelas meninas. Voltei a confiar em dentista após ser tratada pelo Dr Marcos e pelo Dr David, a segurança que vocês nos passam e a delicadeza com que falam com seus pacientes, faz toda a diferença. Indico de olhos fechados para todos que precisarem de profissionais excelentes. Minha eterna gratidão a todos vocês"</p>
+                <span class="testi-author">Elisa d'Arêde</span>
             </div>
+
             <div class="testi-card">
-                <span class="testi-stars">★★★★★</span>
-                <p class="testi-text">"Fiquei super satisfeito com o processo e resultado do tratamento estético-dentário que fiz na Md Frossard Odontologia. Nota 10 em todos os quesitos para a equipe comandada pelos Drs. Marcos e seu filho David. Além da expertise profissional, destaque para o clima de gentileza, pontualidade e responsabilidade. E o pessoal de suporte não fica atrás..."</p>
-                <span class="testi-author">OTÁVIO AZEVEDO</span>
+                <div class="testi-source">
+                    <span class="testi-stars">★★★★★</span>
+                    <span class="testi-platform">Google</span>
+                </div>
+                <p class="testi-text">"Fiquei super satisfeito com o processo e resultado do tratamento estético-dentário que fiz na Md Frossard Odontologia. Nota 10 em todos os quesitos para a equipe comandada pelos Drs. Marcos e seu filho David. Além da expertise profissional, destaque para o clima de gentileza, pontualidade e responsabilidade. E o pessoal de suporte não fica atrás, demostrando uma competência que deve ser fruto de apurada seleção e treinamento."</p>
+                <span class="testi-author">Otávio Azevedo</span>
             </div>
         </div>
 
-        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Marcar meu agendamento</a>
+        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-whatsapp-inline">
+            <span>💬</span> Agende Via WhatsApp
+        </a>
     </div>
 </section>
 
-<!-- ABOUT -->
-<section class="about-section">
+<!-- ═══ SOBRE A CLÍNICA ═══ -->
+<section class="about">
     <div class="container">
-        <div class="about-content">
-            <div class="about-text">
-                <h2 class="adamina">Dentista na Barra da Tijuca</h2>
+        <div class="about-grid">
+            <div class="about-copy">
+                <h2>Dentista na Barra da Tijuca</h2>
                 <p>A MD Frossard Odontologia atua há 38 anos no Rio de Janeiro, unindo experiência, tecnologia e atendimento de alto padrão.</p>
                 <p>Dirigida pelos especialistas Dr. Marcos Frossard, Dr. Davi Frossard e Dra. Luciana Peroni, oferecemos um cuidado personalizado para quem busca um dentista na Barra da Tijuca.</p>
                 <p>Com foco em relacionamento, confiança e pontualidade, entregamos conforto, estética e resultados que transformam sorrisos. Nossa estrutura moderna e acolhedora garante uma experiência diferenciada do início ao fim.</p>
                 <p>Agende sua consulta com um dentista na Barra da Tijuca e descubra um novo padrão em cuidado odontológico.</p>
-                <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold" style="margin-top: 20px;">Marque Sua Consulta</a>
+                <br>
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Marque Sua Consulta</a>
             </div>
             <div class="about-img-wrap">
                 <picture>
                     <source srcset="img/equipe.webp" type="image/webp">
-                    <img src="img/equipe.jpg" 
-                         alt="Equipe MD Frossard" class="about-img" width="584" height="389" loading="lazy" decoding="async">
+                    <img src="img/equipe.jpg" alt="Equipe MD Frossard" class="about-img"
+                         width="584" height="389" loading="lazy" decoding="async">
                 </picture>
             </div>
         </div>
     </div>
 </section>
 
-<!-- GALLERY -->
-<section class="gallery-section">
+<!-- ═══ GALERIA / TRANSFORMAÇÕES ═══ -->
+<section class="gallery">
     <div class="container">
-        <h2 class="adamina">Encontre a solução ideal para o seu sorriso</h2>
+        <h2>Encontre a solução ideal para o seu sorriso</h2>
         <div class="gallery-grid">
             <picture>
                 <source srcset="img/transformacao-1.webp" type="image/webp">
-                <img src="img/transformacao-1.jpg" 
-                     alt="Caso Clínico 1" class="gallery-img" width="940" height="529" loading="lazy" decoding="async">
+                <img src="img/transformacao-1.jpg" alt="Transformação de Sorriso 1"
+                     class="gallery-img" width="940" height="529" loading="lazy" decoding="async">
             </picture>
             <picture>
                 <source srcset="img/transformacao-2.webp" type="image/webp">
-                <img src="img/transformacao-2.jpg" 
-                     alt="Caso Clínico 2" class="gallery-img" width="940" height="529" loading="lazy" decoding="async">
+                <img src="img/transformacao-2.jpg" alt="Transformação de Sorriso 2"
+                     class="gallery-img" width="940" height="529" loading="lazy" decoding="async">
             </picture>
         </div>
     </div>
 </section>
 
-<!-- DIGITAL -->
-<section class="about-section">
+<!-- ═══ ODONTOLOGIA DIGITAL ═══ -->
+<section class="digital">
     <div class="container">
-        <div class="digital-section">
-            <div class="digital-text">
-                <h2 class="adamina">Precisão e Tecnologia</h2>
-                <p>Utilizamos o Scanner Digital 3D de última geração, eliminando a necessidade de moldagens desconfortáveis e garantindo resultados previsíveis e rápidos.</p>
-                <ul class="hero-list" style="align-items: flex-start;">
-                    <li><span>•</span> Diagnóstico 100% digital</li>
-                    <li><span>•</span> Planejamento estético antecipado</li>
-                    <li><span>•</span> Segurança total em cirurgias guiadas</li>
-                </ul>
+        <div class="digital-grid">
+            <div class="digital-copy">
+                <h2>Conheça a Odontologia Digital</h2>
+                <p>Utilizamos tecnologia de ponta para garantir diagnósticos precisos, planejamentos digitais e resultados previsíveis. O scanner intraoral 3D elimina moldagens desconfortáveis e entrega um mapa fiel da sua boca em segundos.</p>
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Marque Sua Consulta</a>
             </div>
             <div class="digital-img-wrap">
                 <picture>
                     <source srcset="img/scanner.webp" type="image/webp">
-                    <img src="img/scanner.jpg" 
-                         alt="Scanner iTero" class="digital-img" width="800" height="533" loading="lazy" decoding="async">
+                    <img src="img/scanner.jpg" alt="Odontologia Digital Scanner iTero"
+                         class="digital-img" width="800" height="533" loading="lazy" decoding="async">
                 </picture>
             </div>
         </div>
     </div>
 </section>
 
-<!-- FAQ -->
-<section class="faq-section">
+<!-- ═══ FAQ ═══ -->
+<section class="faq">
     <div class="container">
-        <h2 class="adamina">Respondemos suas principais dúvidas</h2>
-        <div class="faq-accordion">
+        <h2>Perguntas Frequentes</h2>
+        <div class="faq-wrap">
+
             <div class="faq-item">
-                <div class="faq-question">Como é a Primeira Consulta? <span class="arrow">▼</span></div>
-                <div class="faq-answer">O diagnóstico do seu caso é uma das etapas mais importantes do tratamento odontológico. Na primeira consulta, realizamos uma avaliação completa de sua saúde bucal, alinhamos suas expectativas e elaboramos um plano de tratamento personalizado.</div>
+                <div class="faq-q">
+                    Como é a Primeira Consulta?
+                    <span class="chevron">▼</span>
+                </div>
+                <div class="faq-a">
+                    <div class="faq-a-inner">O diagnóstico do seu caso é uma das etapas mais importantes do tratamento odontológico. Por isso, garantimos que um cirurgião-dentista experiente e de excelente formação esteja dedicado à sua primeira consulta, para que seja realizada a melhor avaliação e planejamento frente às diversas tecnologias e técnicas existentes. Caso seja necessário, esse profissional solicitará exames radiológicos adicionais e o encaminhamento a outros especialistas da clínica.</div>
+                </div>
             </div>
+
             <div class="faq-item">
-                <div class="faq-question">Quais as formas de pagamento? <span class="arrow">▼</span></div>
-                <div class="faq-answer">Oferecemos diversas facilidades para que você invista no seu sorriso: cartões de crédito com parcelamento facilitado em até 10x, pix com desconto e boletos (sob consulta).</div>
+                <div class="faq-q">
+                    Quais as formas de pagamento?
+                    <span class="chevron">▼</span>
+                </div>
+                <div class="faq-a">
+                    <div class="faq-a-inner">Trabalhamos com diversas formas de pagamento para tornar o seu tratamento mais acessível: cartão de crédito em até 10x sem juros, pix com desconto especial e pagamentos parcelados diretamente com a clínica.</div>
+                </div>
             </div>
+
             <div class="faq-item">
-                <div class="faq-question">Vocês atendem planos de saúde? <span class="arrow">▼</span></div>
-                <div class="faq-answer">Trabalhamos exclusivamente com atendimento particular para garantir o tempo e o rigor técnico que cada caso de excelência exige. Fornecemos todos os documentos para o seu reembolso.</div>
+                <div class="faq-q">
+                    Vocês atendem planos de saúde?
+                    <span class="chevron">▼</span>
+                </div>
+                <div class="faq-a">
+                    <div class="faq-a-inner">Trabalhamos exclusivamente com atendimento particular para garantir o tempo e a dedicação que cada paciente merece. Fornecemos toda a documentação necessária para reembolso pelo seu plano de saúde.</div>
+                </div>
             </div>
+
         </div>
     </div>
 </section>
 
-<!-- CLINICS INFO -->
-<section class="clinics-footer">
+<!-- ═══ CLÍNICAS ═══ -->
+<section class="clinics">
     <div class="container">
-        <div class="footer-grid">
-            <div class="clinic-box">
-                <h4>UNIDADE BARRA DA TIJUCA</h4>
+        <h2>Clínicas</h2>
+        <div class="clinics-grid">
+
+            <div class="clinic-card">
+                <h3>Barra da Tijuca</h3>
                 <p>Centro Médico do BarraShopping</p>
-                <p>Av. das Américas, 4.666 - Bloco 03 - Sala 311</p>
-                <p>Barra da Tijuca, Rio de Janeiro - RJ</p>
+                <p>Av. das Américas, 4.666 — Bloco 03, Sala 311</p>
+                <p>Barra da Tijuca — Rio de Janeiro, RJ</p>
                 <p>WhatsApp: (21) 97663-7803</p>
-                <a href="https://maps.app.goo.gl/3XmX9X3XmX3" class="link-maps">Saiba como chegar</a>
+                <a href="https://www.google.com/maps/place/MD+Frossard+Odontologia/@-23.002267,-43.3225709,17z/data=!3m1!4b1!4m6!3m5!1s0x9bd0a45005d96b:0xf7dd42b72b3aaa26!8m2!3d-23.002267!4d-43.319996!16s%2Fg%2F11_tmbyy5"
+                   target="_blank" rel="noopener" class="maps-link">Saiba como chegar</a>
             </div>
-            <div class="clinic-box">
-                <h4>UNIDADE BOTAFOGO / HUMAITÁ</h4>
-                <p>Edifício Praia Flat</p>
-                <p>Praia de Botafogo, 316 - Sala 601</p>
-                <p>Botafogo, Rio de Janeiro - RJ</p>
+
+            <div class="clinic-card">
+                <h3>Botafogo / Humaitá</h3>
+                <p>Rua Marques, 15</p>
+                <p>Humaitá — Rio de Janeiro, RJ — 22260-240</p>
                 <p>WhatsApp: (21) 98018-0520</p>
-                <a href="https://maps.app.goo.gl/3XmX9X3XmX3" class="link-maps">Saiba como chegar</a>
+                <a href="https://www.google.com.br/maps/place/Rua+Marques,+15+-+Humait%C3%A1,+Rio+de+Janeiro+-+RJ,+22260-240/@-22.9542295,-43.1986765,17z"
+                   target="_blank" rel="noopener" class="maps-link">Saiba como chegar</a>
             </div>
+
         </div>
     </div>
 </section>
 
-<!-- FINAL FOOTER -->
-<footer class="footer-bottom">
+<!-- ═══ CONTATO / RODAPÉ ═══ -->
+<footer class="contact-footer">
     <div class="container">
-        <h3 class="adamina">Agende sua consulta</h3>
-        
-        <div class="bottom-grid">
-            <div>
-                <span class="contact-type">No Telefone</span>
-                <a href="tel:2133870331" class="contact-val">(21) 3387-0331</a>
+        <h2>Agende sua consulta</h2>
+        <p class="hours">Segunda a Sexta — 8h às 18h — Dentista Barra da Tijuca e Botafogo</p>
+
+        <div class="contact-grid">
+            <div class="contact-block">
+                <label>No telefone</label>
+                <a href="tel:2197663-7803">(21) 97663-7803</a>
             </div>
-            <div>
-                <span class="contact-type">No Whatsapp</span>
-                <a href="https://api.whatsapp.com/send?phone=55021976637803" class="contact-val contact-whatsapp">(21) 97663-7803</a>
+            <div class="contact-block">
+                <label>Whatsapp</label>
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" class="wpp">Nos envie uma mensagem!</a>
             </div>
         </div>
 
-        <div class="responsible-info">
-            <p style="margin-bottom: 20px;">Responsável Técnico: Dr. Marcos Frossard - CRO/RJ 10.985</p>
+        <div class="legal">
+            <p>Responsável Técnico — Davi H. Frossard CRO 36193 — EPAO 3415</p>
             <p>© 2026 MD Frossard Odontologia. Todos os direitos reservados.</p>
         </div>
     </div>
 </footer>
 
-<!-- STICKY CTA -->
-<a href="https://api.whatsapp.com/send?phone=55021976637803" class="whatsapp-sticky">
-    <span>💬</span> Falar agora por WhatsApp
+<!-- ═══ STICKY WPP ═══ -->
+<a href="https://api.whatsapp.com/send?phone=55021976637803" class="sticky-wpp">
+    💬 Falar agora por WhatsApp
 </a>
 
 <script>
-    // FAQ Accordion
-    document.querySelectorAll('.faq-question').forEach(item => {
-        item.addEventListener('click', () => {
-            const answer = item.nextElementSibling;
-            const isOpen = answer.style.display === 'block';
-            
-            // Close all
-            document.querySelectorAll('.faq-answer').forEach(ans => ans.style.display = 'none');
-            
+    // FAQ accordion smooth
+    document.querySelectorAll('.faq-q').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const item = btn.closest('.faq-item');
+            const answer = item.querySelector('.faq-a');
+            const inner = item.querySelector('.faq-a-inner');
+            const isOpen = btn.classList.contains('open');
+
+            // close all
+            document.querySelectorAll('.faq-q').forEach(b => {
+                b.classList.remove('open');
+                const sib = b.closest('.faq-item').querySelector('.faq-a');
+                sib.style.maxHeight = '0';
+            });
+
             if (!isOpen) {
-                answer.style.display = 'block';
+                btn.classList.add('open');
+                answer.style.maxHeight = inner.scrollHeight + 'px';
             }
         });
     });
