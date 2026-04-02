@@ -257,6 +257,35 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addGlobalData("build_post", () => buildPost);
   eleventyConfig.addGlobalData("open_graph", () => renderOpenGraph);
 
+  eleventyConfig.addTransform("render-hexo-tags", (content, outputPath) => {
+    if (!outputPath || !outputPath.endsWith(".html")) {
+      return content;
+    }
+
+    let rendered = content;
+
+    // Renderizar {% youtube id %}
+    rendered = rendered.replace(/{%\s*youtube\s+([a-zA-Z0-9_-]+)\s*%}/g, (match, id) => {
+      return `<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 20px 0;">
+        <iframe src="https://www.youtube.com/embed/${id}" 
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+                allowfullscreen 
+                loading="lazy">
+        </iframe>
+      </div>`;
+    });
+
+    // Renderizar {% post_link slug "text" %} ou {% post_link slug %}
+    // Lidar com aspas que podem ter sido convertidas em &quot; ou &#34;
+    rendered = rendered.replace(/{%\s*post_link\s+([a-zA-Z0-9._-]+)(?:\s+(?:["']|&quot;|&#34;)(.*?)(?:["']|&quot;|&#34;))?\s*%}/g, (match, slug, text) => {
+      const url = `/${slug}/`;
+      const label = text || slug.replace(/-/g, " ");
+      return `<a href="${url}">${label}</a>`;
+    });
+
+    return rendered;
+  });
+
   eleventyConfig.addTransform("strip-hexo-raw", (content, outputPath) => {
     if (!outputPath || !outputPath.endsWith(".html")) {
       return content;
