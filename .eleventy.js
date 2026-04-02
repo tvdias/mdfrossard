@@ -201,11 +201,12 @@ function renderOpenGraph(meta = {}) {
 
 module.exports = function(eleventyConfig) {
   const contentAssetGlobs = [
-    "source/contato/**/*.{jpg,jpeg,png,gif,svg}",
-    "source/equipe/**/*.{jpg,jpeg,png,gif,svg}",
-    "source/estrutura/**/*.{jpg,jpeg,png,gif,svg}",
-    "source/localizacao/**/*.{jpg,jpeg,png,gif,svg}",
-    "source/tratamentos/**/*.{jpg,jpeg,png,gif,svg}",
+    "source/contato/**/*.{jpg,jpeg,png,gif,svg,webp}",
+    "source/equipe/**/*.{jpg,jpeg,png,gif,svg,webp}",
+    "source/estrutura/**/*.{jpg,jpeg,png,gif,svg,webp}",
+    "source/localizacao/**/*.{jpg,jpeg,png,gif,svg,webp}",
+    "source/tratamentos/**/*.{jpg,jpeg,png,gif,svg,webp}",
+    "source/l/**/*.{jpg,jpeg,png,gif,svg,webp}",
   ];
 
   eleventyConfig.setLibrary("md", markdown);

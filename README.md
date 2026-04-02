@@ -75,3 +75,11 @@ O sistema está configurado com Integração Contínua provida pelo **Cloudflare
 - **Regra de Ouro:** Após cada alteração no código, **verifique se o site realiza a compilação local (build) de forma limpa e sem erros**. Não envie quebras para o repositório principal.
 - **Gerenciando Entradas e Posts:** Novos conteúdos podem ser criados adicionando arquivos `.md` na pasta `source/_posts/`. Atente-se ao formato do "Front Matter" no topo do arquivo para declarar devidamente Título, Categoria, Autor, e demais metadados.
 - **Variáveis de Ambiente:** Qualquer credencial ou API key necessária para as funções serverless deve ser declarada como uma secret local `.dev.vars` (e inserida via painel online na Cloudflare para a produção).
+
+## ⚡ Padrões de Qualidade e Performance
+
+Para manter o site rápido e com boa pontuação no Google (Core Web Vitals):
+
+- **Imagens Otimizadas:** Use sempre a tag `<picture>` com fonte em **WebP** e fallback em **JPG**.
+- **Assets Locais:** Não utilize fontes externas para imagens.
+- **Landing Pages:** Utilize o layout `landing_page` para páginas de alta conversão, garantindo que os scripts de rastreamento (GTag e FB Pixel) sejam carregados corretamente.

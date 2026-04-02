@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <% var pageTitle = typeof title !== 'undefined' ? title : ''; %>
+    <title><%= pageTitle ? (pageTitle + " | " + config.title) : config.title %></title>
+    
+    <% var pageDescription = typeof description !== 'undefined' ? description : config.description; %>
+    <meta name="description" content="<%= pageDescription %>">
+    
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <% if (typeof google_fonts !== 'undefined' && google_fonts) { %>
+    <link href="https://fonts.googleapis.com/css2?family=<%= google_fonts %>&display=swap" rel="stylesheet">
+    <% } %>
+    
+    <%- open_graph({
+      title: pageTitle,
+      description: pageDescription,
+      url: page.url
+    }) %>
+
+    <%- include('_partial/google-tag') %>
+    
+    <%- include('_partial/fb-pixel') %>
+</head>
+<body style="margin: 0; padding: 0;">
+    <%- content %>
+</body>
+</html>
