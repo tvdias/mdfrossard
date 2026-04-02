@@ -21,7 +21,7 @@ var support = site.data.authors.filter(function(data) {
                 <h3 class="title2"><%= member.name %></h3>
                 <div class="media">
                     <div class="img img-circle">
-                        <img data-src="<%= member.avatar %>" width="150" height="150" alt="" loading="lazy" class="lazyload attachment-thumbnail size-thumbnail wp-post-image" alt="<%= member.name %>" />
+                        <img data-src="<%= member.avatar %>" width="150" height="150" style="object-fit:cover;" alt="" loading="lazy" class="lazyload attachment-thumbnail size-thumbnail wp-post-image" alt="<%= member.name %>" />
                     </div>
                     <div class="bd">
                         <p style="text-align: justify;"><%- markdown(member.bio) %></p>
@@ -38,7 +38,7 @@ var support = site.data.authors.filter(function(data) {
                 <h3 class="title2"><%= member.name %></h3>
                 <div class="media">
                     <div class="img img-circle">
-                        <img data-src="<%= member.avatar %>" width="150" height="150" alt="" loading="lazy" class="lazyload attachment-thumbnail size-thumbnail wp-post-image" alt="<%= member.name %>" />
+                        <img data-src="<%= member.avatar %>" width="150" height="150" style="object-fit:cover;" alt="" loading="lazy" class="lazyload attachment-thumbnail size-thumbnail wp-post-image" alt="<%= member.name %>" />
                     </div>
                     <div class="bd">
                         <p style="text-align: justify;"><%- markdown(member.bio) %></p>

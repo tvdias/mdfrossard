@@ -91,7 +91,7 @@ Atendemos todas as necessidades odontológicas em nossa clínica com o seu **den
 - 🔸 **[Lentes de Contato e Facetas ➔](/tratamentos/estetica-dental/)**
 - 🔸 **[Tratamento de Canal (Endodontia) ➔](/tratamentos/endodontia/)**
 - 🔸 **[Tratamento de Gengiva (Periodontia) ➔](/tratamentos/periodontia/)**
-- 🔸 **[Reabilitação Oral Completa ➔](/tratamentos/protese-dentaria/)**
+- 🔸 **[Prótese Dentária ➔](/tratamentos/protese-dentaria/)**
 - 🔸 **[Clareamento Dental Premium ➔](/tratamentos/estetica-dental/)**
 
 
