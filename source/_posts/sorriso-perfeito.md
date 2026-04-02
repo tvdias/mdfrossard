@@ -24,7 +24,7 @@ Então continue lendo o texto, para saber como ter um sorriso perfeito e quais a
 **Antes de mais nada, o que seria ter um sorriso perfeito?**
 ------------------------------------------------------------
 
-[![Sorriso bonito](/images/uploads/2015/04/Sorriso-bonito-1024x684.jpg)](/images/15b90cf7-0897-4053-a412-edb42b6597cc_Sorriso-bonito.webp) 
+[![Sorriso bonito](/images/uploads/2015/04/Sorriso-bonito-1024x684.webp)](/images/15b90cf7-0897-4053-a412-edb42b6597cc_Sorriso-bonito.webp) 
 
 Quando se fala em **sorriso [perfeito](http://www.dicio.com.br/perfeito/)**, estamos usando uma referência a um sorriso agradável, onde socialmente você possa sorrir com segurança, tranquilidade e saúde. 
 
@@ -41,7 +41,7 @@ Dentro do correto planejamento e das características individuais de cada um, ir
 **O Sorriso perfeito pode mudar a sua vida **
 ---------------------------------------------
 
-[![Dentes perfeitos](/images/uploads/2015/04/Dentes-perfeitos-1024x683.jpg)](/images/682fc8e0-d08d-444f-af58-4fa3d98f1a52_Dentes-perfeitos.webp) 
+[![Dentes perfeitos](/images/uploads/2015/04/Dentes-perfeitos-1024x683.webp)](/images/682fc8e0-d08d-444f-af58-4fa3d98f1a52_Dentes-perfeitos.webp) 
 
 **Você acredita nisso? Pois devia acreditar!** 
 
@@ -72,7 +72,7 @@ Mude seu conceito, ter um sorriso perfeito e bonito irá te fazer muito mais fel
 **Mas sorrir sem dentes perfeitos é possível ?**
 ------------------------------------------------
 
-[![sem dentes](/images/uploads/2015/04/sem-dentes-1024x577.jpg)](/images/b5c40ac5-fd6e-4e7e-bf8b-6d562d5d38e8_sem-dentes.webp) 
+[![sem dentes](/images/uploads/2015/04/sem-dentes-1024x577.webp)](/images/b5c40ac5-fd6e-4e7e-bf8b-6d562d5d38e8_sem-dentes.webp) 
 
 **Na teoria sim!** 
 
@@ -163,7 +163,7 @@ A reabilitação oral é a soma de todas os tratamentos citados acima. Existem m
 **Algumas dicas extras**
 ------------------------
 
-[![sorriso perfeito](/images/uploads/2015/04/perfeito-sorriso-1024x683.jpg)](/images/1b4f7479-1462-4d3a-b609-c7665a55c3c6_perfeito-sorriso.webp)
+[![sorriso perfeito](/images/uploads/2015/04/perfeito-sorriso-1024x683.webp)](/images/1b4f7479-1462-4d3a-b609-c7665a55c3c6_perfeito-sorriso.webp)
 
 *   A {% post_link 7-dicas-faceis-para-a-sua-higiene-bucal "Higienização dental" %} é o pilar do sorriso perfeito.
 *   Não adianta realizar todos esses procedimentos estéticos e não ter uma boa escovação dos dentes.

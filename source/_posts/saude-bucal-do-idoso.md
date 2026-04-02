@@ -25,7 +25,7 @@ Se você já se encontra nessa faixa e apresenta estes quadros, fique atento com
 **Saúde bucal do idoso - Um trabalho Multidisciplinar**
 -------------------------------------------------------
 
-[![saúde bucal do idoso](/images/eca93cb6-38bc-44a8-b0e2-4bd2b97e761c_saúde-bucal-dos-idosos.jpg)](/images/eca93cb6-38bc-44a8-b0e2-4bd2b97e761c_saúde-bucal-dos-idosos.webp)
+[![saúde bucal do idoso](/images/eca93cb6-38bc-44a8-b0e2-4bd2b97e761c_saúde-bucal-dos-idosos.webp)](/images/eca93cb6-38bc-44a8-b0e2-4bd2b97e761c_saúde-bucal-dos-idosos.webp)
 
 #### **O que eu quero dizer com isso?**
 
@@ -65,7 +65,7 @@ A saúde bucal do idoso pode ser muito afetada pela dificuldade na higienizaçã
 **Na terceira idade podemos realizar todos os procedimentos dentários?**
 -------------------------------------------------------------------------
 
-[![saúde do idoso](/images/a4da6625-68a1-4cf4-acfb-6204f2a2ab3c_saúde-do-idoso.jpg)](/images/a4da6625-68a1-4cf4-acfb-6204f2a2ab3c_saúde-do-idoso.webp) 
+[![saúde do idoso](/images/a4da6625-68a1-4cf4-acfb-6204f2a2ab3c_saúde-do-idoso.webp)](/images/a4da6625-68a1-4cf4-acfb-6204f2a2ab3c_saúde-do-idoso.webp) 
 
 Essa pergunta é comum nos consultórios dentários principalmente em casos de cirurgia para {% post_link implante-dentario-no-rio-de-janeiro "implante" %}. 
 
@@ -86,7 +86,7 @@ Posteriormente todos os principais procedimentos, como uso de prótese, endodont
 **Odontologia para cada idade **
 --------------------------------
 
-[![higiene bucal do idoso](/images/1212ef9a-9f98-4972-b713-1eeb839665fb_higiene-bucal-do-idoso.jpg)](/images/1212ef9a-9f98-4972-b713-1eeb839665fb_higiene-bucal-do-idoso.webp) 
+[![higiene bucal do idoso](/images/1212ef9a-9f98-4972-b713-1eeb839665fb_higiene-bucal-do-idoso.webp)](/images/1212ef9a-9f98-4972-b713-1eeb839665fb_higiene-bucal-do-idoso.webp) 
 
 Em cada fase da vida temos problemas e necessidades diferentes. 
 

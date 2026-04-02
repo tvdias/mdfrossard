@@ -18,7 +18,7 @@ Esse tipo de trabalho é feito cada vez mais em consultórios dentários e é ch
 
 ## **O que é uma prótese do tipo protocolo ou dentadura fixa ?**
 
-[![Dentadura fixa](/images/uploads/2015/03/Dentadura-fixa-1024x680.jpg)](/images/48e3f4ee-b444-4a9e-844b-6e2534a9dbf0_Dentadura-fixa.webp) 
+[![Dentadura fixa](/images/uploads/2015/03/Dentadura-fixa-1024x680.webp)](/images/48e3f4ee-b444-4a9e-844b-6e2534a9dbf0_Dentadura-fixa.webp) 
 
 A dentadura fixa ou mais conhecido como protocolo dentário, é um tipo de prótese fixa instalada sobre 6 a 8 implantes, seja na maxila ou mandíbula, em pacientes que perderam todos os dentes. 
 
@@ -30,7 +30,7 @@ Portanto, devido a essas vantagens, a procura pela "dentadura fixa" é cada vez 
 
 ## **Será que posso realizar um protocolo dentário ?**
 
-[![dentadura e implantes](/images/uploads/2015/03/dentadura-e-implantes-1024x773.jpg)](/images/99fed34d-2af9-4a6e-a5fc-71194380289f_dentadura-e-implantes.webp) 
+[![dentadura e implantes](/images/uploads/2015/03/dentadura-e-implantes-1024x773.webp)](/images/99fed34d-2af9-4a6e-a5fc-71194380289f_dentadura-e-implantes.webp) 
 
 Basicamente existem **duas indicações** principais : 
 
@@ -54,7 +54,7 @@ Com o passar do tempo, é preciso voltar ao dentista para uma {% post_link check
 
 ## **Como cuidar da prótese tipo protocolo**
 
-[![boca seca](/images/4f2fafcc-c3c1-4310-80fa-ab137d75b22c_falta-de-saliva.jpg)](/images/4f2fafcc-c3c1-4310-80fa-ab137d75b22c_falta-de-saliva.webp) 
+[![boca seca](/images/4f2fafcc-c3c1-4310-80fa-ab137d75b22c_falta-de-saliva.webp)](/images/4f2fafcc-c3c1-4310-80fa-ab137d75b22c_falta-de-saliva.webp) 
 
 Assim, como qualquer tratamento dentário, a manutenção é importante. 
 

@@ -28,7 +28,7 @@ Caso queira falar conosco para **marcar uma consulta ou apenas tirar uma dúvida
 
 ## Como ela é feita ?
 
-[![Levantamento seio maxilar 2](/images/uploads/2014/07/Levantamento-seio-maxilar-2-300x212.jpg)](/images/9cad9fa2-4680-4431-b9ee-1010031f14c4_Levantamento-seio-maxilar-3.webp)
+[![Levantamento seio maxilar 2](/images/uploads/2014/07/Levantamento-seio-maxilar-2-300x212.webp)](/images/9cad9fa2-4680-4431-b9ee-1010031f14c4_Levantamento-seio-maxilar-3.webp)
 
 Quando perdemos dentes na região posterior de maxila (região superior na parte de trás do arco dentário), com o passar do tempo pode ocorrer perda de grande quantidade de osso em altura e assim nos aproximamos de uma região chamada de seio maxilar. 
 

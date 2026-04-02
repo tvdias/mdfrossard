@@ -1,6 +1,6 @@
 <article class="blog-card reveal delay-<%= (index % 3) + 1 %>">
     <div class="blog-card__thumb">
-        <img src="<%= post.featured_image || '/images/uploads/2024/md_odontologia_barra.webp' %>" alt="<%= post.title %>" loading="lazy">
+        <img src="<%= post.featured_image || '/images/uploads/2024/md_odontologia_barra.webp' %>" alt="<%= post.title %>" loading="lazy" decoding="async">
     </div>
     <div class="blog-card__body">
         <% if (post.category) { %>

@@ -24,7 +24,7 @@ Portanto, mesmo que talvez você não sinta nenhum problema na região bucal, se
 **Afinal, quais são os principais problemas nos dentes ?**
 ----------------------------------------------------------
 
-[![problemas nos dentes](/images/7ff44ecb-487e-4399-8c97-a097abbbc463_problemas-no-dente.jpg)](/images/7ff44ecb-487e-4399-8c97-a097abbbc463_problemas-no-dente.webp) 
+[![problemas nos dentes](/images/7ff44ecb-487e-4399-8c97-a097abbbc463_problemas-no-dente.webp)](/images/7ff44ecb-487e-4399-8c97-a097abbbc463_problemas-no-dente.webp) 
 
 Os dois principais são os já conhecidos **problemas periodontais e a cárie.** 
 
@@ -75,7 +75,7 @@ Também, a cavidade bucal pode indicar outros problemas de ordem sistêmica que 
 **Portanto, como evitar problemas no dente ?**
 ----------------------------------------------
 
-[![problemas nos dentes resolvido](/images/cf75c1f3-97f1-4ccb-ac9b-44eb30f2bec4_problemas-nos-dentes-resolvido.jpg)](/images/cf75c1f3-97f1-4ccb-ac9b-44eb30f2bec4_problemas-nos-dentes-resolvido.webp) 
+[![problemas nos dentes resolvido](/images/cf75c1f3-97f1-4ccb-ac9b-44eb30f2bec4_problemas-nos-dentes-resolvido.webp)](/images/cf75c1f3-97f1-4ccb-ac9b-44eb30f2bec4_problemas-nos-dentes-resolvido.webp) 
 
 Primeiro você deve ter em mente que a ausência de dor na cavidade bucal, não é o único fator a ser levado em conta para apontar que não existe problema com os dentes. 
 

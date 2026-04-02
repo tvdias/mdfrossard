@@ -22,7 +22,7 @@ Antes, vamos ver quais as principais razões para o seu uso. Assim, você saber�
 
 ## **5 razões para o uso de Faceta de Porcelana **
 
-[![faceta de porcelana](/images/f2648cb4-baf5-4861-b06c-da3755965498_faceta-de-porcelana.jpg)](/images/f2648cb4-baf5-4861-b06c-da3755965498_faceta-de-porcelana.webp) 
+[![faceta de porcelana](/images/f2648cb4-baf5-4861-b06c-da3755965498_faceta-de-porcelana.webp)](/images/f2648cb4-baf5-4861-b06c-da3755965498_faceta-de-porcelana.webp) 
 
 A estética elevada da {% post_link facetas-dentais "faceta dentária" %} se deve ao fato dela ser feita em porcelana, o que possibilita mimetizar de forma bastante fiel a anatomia do dente, devolvendo sua correta cor e o formato ideal do sorriso. 
 

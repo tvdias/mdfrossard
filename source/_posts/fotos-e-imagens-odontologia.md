@@ -24,7 +24,7 @@ Digo isto pois as imagens nos trazem informações valiosas para o nosso planeja
 Quais os tipos de câmeras usadas e pra que servem ?
 ---------------------------------------------------
 
- [![checkup-digital-02](/images/023233b8-ac8d-49e9-ae20-ecaa66d74f87_checkup-digital-02.jpg)](/images/023233b8-ac8d-49e9-ae20-ecaa66d74f87_checkup-digital-02.webp) 
+ [![checkup-digital-02](/images/023233b8-ac8d-49e9-ae20-ecaa66d74f87_checkup-digital-02.webp)](/images/023233b8-ac8d-49e9-ae20-ecaa66d74f87_checkup-digital-02.webp) 
  
  Diante disso, temos dois tipos de câmeras principais que podemos usar no consultório, a câmera intra-oral e a câmera externa ou semi-profissional.
 

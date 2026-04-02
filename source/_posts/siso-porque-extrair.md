@@ -25,7 +25,7 @@ Caso o siso esteja em posição correta, sem causar transtorno, incômodo, dor e
 Quais são as indicações para extração do siso 
 ----------------------------------------------
 
-[![extração siso](/images/7bfbb242-7598-49e6-bde8-f7236e397efa_extração-siso.jpg)](/images/7bfbb242-7598-49e6-bde8-f7236e397efa_extração-siso.webp) 
+[![extração siso](/images/7bfbb242-7598-49e6-bde8-f7236e397efa_extração-siso.webp)](/images/7bfbb242-7598-49e6-bde8-f7236e397efa_extração-siso.webp) 
 
 A seguir, listo as situações em que sua remoção é indicada: 
 - Quando falta espaço na arcada e o siso ao nascer estaria numa posição ruim para higienização; 
@@ -54,7 +54,7 @@ Assim, a placa se acumula entre o siso e a gengiva, causando muita dor e desconf
 E a cirurgia para remoção do siso, como acontece?
 -------------------------------------------------
 
-[![radiografia-panoramica-terceiros-molares-sisos](/images/154f252c-cee2-46d3-b873-28ac05eb49e5_radiografia-panoramica-terceiros-molares-sisos.jpg)](/images/154f252c-cee2-46d3-b873-28ac05eb49e5_radiografia-panoramica-terceiros-molares-sisos.webp) 
+[![radiografia-panoramica-terceiros-molares-sisos](/images/154f252c-cee2-46d3-b873-28ac05eb49e5_radiografia-panoramica-terceiros-molares-sisos.webp)](/images/154f252c-cee2-46d3-b873-28ac05eb49e5_radiografia-panoramica-terceiros-molares-sisos.webp) 
 
 A primeira coisa que devemos saber é que uma cirurgia de siso é totalmente diferente da outra. 
 
@@ -75,7 +75,7 @@ Concluindo
 
 Assim, diante do que foi listado, entende-se que quando indicado, a extração dos sisos deve ser realizada. 
 
-O pós operatório é simples, veja neste [link](/images/uploads/2013/07/informativo-pos-operatorio.pdf?878a31 .). 
+O pós operatório é simples, veja neste [link](/files/informativo-pos-operatorio.pdf). 
 
 Porém vale ressaltar que, para que haja o sucesso da cirurgia e diminuição dos incômodos pós operatórios, além da habilidade e conhecimentos do profissional, há a necessidade da colaboração do paciente. 
 

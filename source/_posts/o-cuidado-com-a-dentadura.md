@@ -51,7 +51,7 @@ Outra desvantagem é na fase inicial. Quando todos os dentes foram removidos e e
 6 Dicas Fáceis para o Cuidado com a Dentadura
 ---------------------------------------------
 
-[![dentadura](/images/uploads/2015/03/Dentadura-1024x682.jpg)](/images/3875e74c-e66c-463c-99b1-35eb7ac64449_Dentadura.webp) 
+[![dentadura](/images/uploads/2015/03/Dentadura-1024x682.webp)](/images/3875e74c-e66c-463c-99b1-35eb7ac64449_Dentadura.webp) 
 
 Essas dicas podem ser baixadas no site na parte de {% post_link informativos "informativos" %}.
 

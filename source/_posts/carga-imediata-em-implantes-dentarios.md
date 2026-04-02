@@ -14,7 +14,7 @@ Muitos pacientes chegam ao nosso consultório com [dúvidas](/tratamentos/implan
 
 ## Em primeiro lugar, o que é carga imediata em implantes?
 
-[![carga imediata em implantes](/images/013b2470-c853-4e7d-8710-21e94322ac7e_Captura-de-tela-2013-07-28-às-11.41.30.png)](/images/013b2470-c853-4e7d-8710-21e94322ac7e_Captura-de-tela-2013-07-28-às-11.41.30.webp) 
+[![carga imediata em implantes](/images/013b2470-c853-4e7d-8710-21e94322ac7e_Captura-de-tela-2013-07-28-às-11.41.30.webp)](/images/013b2470-c853-4e7d-8710-21e94322ac7e_Captura-de-tela-2013-07-28-às-11.41.30.webp) 
 
 Carga imediata é a colocação de um dente (coroa provisória) diretamente sobre o implante logo após a cirurgia, ou seja, o paciente já sai da cirurgia com o ‘dente fixo’ no implante.
 

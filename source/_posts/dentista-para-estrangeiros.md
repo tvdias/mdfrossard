@@ -20,7 +20,7 @@ Para momentos assim, nós da MD Frossard **oferecemos tratamento individualizado
 
 Dessa forma, caso haja necessidade de atendimento para estrangeiros, contamos com profissionais habilitados para atendê-los nos bairros de Botafogo e Barra de Tijuca.
 
- [![dentista para estrangeiros](/images/uploads/2014/09/mapa-mundi-300x225.jpg)](/images/8a21960b-4210-40c3-817e-ab6141dd8ddc_mapa-mundi.webp) 
+ [![dentista para estrangeiros](/images/uploads/2014/09/mapa-mundi-300x225.webp)](/images/8a21960b-4210-40c3-817e-ab6141dd8ddc_mapa-mundi.webp) 
 
 Além disso, oferecemos o {% post_link day-clinic "Day clinic" %}. 
 

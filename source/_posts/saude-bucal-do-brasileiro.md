@@ -14,7 +14,7 @@ Em recente reportagem da [revista Veja](http://veja.abril.com.br), podemos compr
 A reportagem é interessante, e no decorrer dela temos um levantamento sobre a saúde bucal da população brasileira. 
 A pesquisa foi realizada pela revista SAÚDE e ouviu 1818 homens e mulheres, de todas as regiões do brasil e 78% pertenciam às classes A e B. 
 
-[![Tabela revista Veja](/images/9ead0f39-87cb-408a-bbff-87cc2ac02379_Tabela-revista-Veja.png)](/images/9ead0f39-87cb-408a-bbff-87cc2ac02379_Tabela-revista-Veja.webp) 
+[![Tabela revista Veja](/images/9ead0f39-87cb-408a-bbff-87cc2ac02379_Tabela-revista-Veja.webp)](/images/9ead0f39-87cb-408a-bbff-87cc2ac02379_Tabela-revista-Veja.webp) 
 
 Agora vamos analisar os resultados apresentados na pesquisa. Antes de tudo, devemos ressaltar o fato de que a  pesquisa foi realizada com quase 80% de pessoas pertencentes a classe A ou B, ou seja, com uma parte da população que tem acesso a informação e poder aquisitivo para buscar tratamento dentário com qualidade. 
 
@@ -71,7 +71,7 @@ Digo isso, pois em nossa saliva temos mais de 150 milhões de bactérias e que a
 
 Para cada problema mencionado, precisamos de um texto para explicar todos os detalhes, por isso aqui iremos apenas citar e explicar algumas características da influência da saúde bucal no organismo. 
 
-[![saude bucal e o corpo](/images/9ebcb904-b349-47b5-b649-6c8b5c95269f_saude-bucal-e-o-corpo.jpg)](/images/9ebcb904-b349-47b5-b649-6c8b5c95269f_saude-bucal-e-o-corpo.webp) 
+[![saude bucal e o corpo](/images/9ebcb904-b349-47b5-b649-6c8b5c95269f_saude-bucal-e-o-corpo.webp)](/images/9ebcb904-b349-47b5-b649-6c8b5c95269f_saude-bucal-e-o-corpo.webp) 
 
 Os principais problemas que podemos ter são: 
 * Problemas cardíacos; 

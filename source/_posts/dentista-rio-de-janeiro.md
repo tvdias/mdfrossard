@@ -37,7 +37,7 @@ Nossa clínica odontológica na cidade do Rio de Janeiro possui mais de 37 anos 
 
 ## Dentista no Rio de Janeiro
 
-[![dentista Rio de Janeiro](/images/65635117-1e31-4d07-8a91-56553ab40b70_dentista-Rio-de-Janeiro.jpg)](/images/65635117-1e31-4d07-8a91-56553ab40b70_dentista-Rio-de-Janeiro.webp) 
+[![dentista Rio de Janeiro](/images/65635117-1e31-4d07-8a91-56553ab40b70_dentista-Rio-de-Janeiro.webp)](/images/65635117-1e31-4d07-8a91-56553ab40b70_dentista-Rio-de-Janeiro.webp) 
 
 O seu tratamento será realizado com alta performance, através de uma odontologia contemporânea focada em 3 pilares: Relacionamento, Confiança e Pontualidade.
 

@@ -43,7 +43,7 @@ Dependendo do grau de perda de osso, dificilmente conseguiremos ter a formação
 
 ## **Dificuldades de pacientes com perda óssea**
 
-[![perda óssea dentária](/images/40df2365-6e1c-4a76-9249-7cc9b53e97e2_Perda-óssea-dentária.jpg)](/images/40df2365-6e1c-4a76-9249-7cc9b53e97e2_Perda-óssea-dentária.webp)                                         
+[![perda óssea dentária](/images/40df2365-6e1c-4a76-9249-7cc9b53e97e2_Perda-óssea-dentária.webp)](/images/40df2365-6e1c-4a76-9249-7cc9b53e97e2_Perda-óssea-dentária.webp)                                         
 
 **Evolução da doença periodontal e a perda óssea                                      **
 

@@ -23,7 +23,7 @@ Essa são algumas perguntas que vamos explicar nesse texto.
 
 ## **Quais são as suas Causas **
 
-[![afta causa](/images/b2311f89-f197-4e80-bf66-63c2a020c54d_afta-causa.png)](/images/b2311f89-f197-4e80-bf66-63c2a020c54d_afta-causa.webp)
+[![afta causa](/images/b2311f89-f197-4e80-bf66-63c2a020c54d_afta-causa.webp)](/images/b2311f89-f197-4e80-bf66-63c2a020c54d_afta-causa.webp)
 
 Seu diagnóstico é basicamente clínico e por exclusão de outras doenças. Suas possíveis causas são:
 
@@ -57,7 +57,7 @@ Apresentam ulcerações mais profundas, de 10 a 30 mm de diâmetro, e podem leva
 
 ## **Tratamento e prognóstico**
 
-[![afta tratamento](/images/64342d4e-56b0-4090-bd24-6cb13c1a007a_afta-tratamento.jpg)](/images/64342d4e-56b0-4090-bd24-6cb13c1a007a_afta-tratamento.webp) 
+[![afta tratamento](/images/64342d4e-56b0-4090-bd24-6cb13c1a007a_afta-tratamento.webp)](/images/64342d4e-56b0-4090-bd24-6cb13c1a007a_afta-tratamento.webp) 
 
 Quando for acometido por uma lesão bucal, é importante que o paciente procure seu dentista para que este possa diagnosticar a lesão. 
 

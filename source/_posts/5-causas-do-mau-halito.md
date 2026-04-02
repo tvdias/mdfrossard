@@ -45,7 +45,7 @@ Quando não nos alimentamos corretamente ou ficamos longos períodos sem se alim
 **Como Prevenir a Halitose **
 -----------------------------
 
-[![mau hálito](/images/6f5542f0-084c-40a2-95a7-d7c7051351a1_mau-hálito.jpg)](/images/6f5542f0-084c-40a2-95a7-d7c7051351a1_mau-hálito.webp) 
+[![mau hálito](/images/6f5542f0-084c-40a2-95a7-d7c7051351a1_mau-hálito.webp)](/images/6f5542f0-084c-40a2-95a7-d7c7051351a1_mau-hálito.webp) 
 
 A grande dica aqui é a correta **escovação dos dentes.** 
 
@@ -65,7 +65,7 @@ Outras dicas são :
 **Tratamentos para o Mau Hálito**
 ---------------------------------
 
-[![halitose](/images/df5c58e0-3cbf-455a-9e1c-a423cf854273_halitose.jpg)](/images/df5c58e0-3cbf-455a-9e1c-a423cf854273_halitose.webp) 
+[![halitose](/images/df5c58e0-3cbf-455a-9e1c-a423cf854273_halitose.webp)](/images/df5c58e0-3cbf-455a-9e1c-a423cf854273_halitose.webp) 
 
 Primeiramente, precisamos saber qual a **origem do problema.** 
 

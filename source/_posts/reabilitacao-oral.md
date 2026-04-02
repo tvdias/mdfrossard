@@ -37,7 +37,7 @@ Assim torna-se necessário intervir com várias especialidades para devolver o a
 **Como é realizada a reabilitação dos dentes ?**
 ------------------------------------------------
 
-[![reabilitação dos dentes](/images/4600868e-5918-4fc5-af50-58508b12afea_reabilitação-dos-dentes.jpg)](/images/4600868e-5918-4fc5-af50-58508b12afea_reabilitação-dos-dentes.webp) 
+[![reabilitação dos dentes](/images/4600868e-5918-4fc5-af50-58508b12afea_reabilitação-dos-dentes.webp)](/images/4600868e-5918-4fc5-af50-58508b12afea_reabilitação-dos-dentes.webp) 
 
 Antes precisamos ter em mente que a reabilitação oral é um **procedimento complexo**, pois envolve mudar completamente a mordida e o sorriso do indivíduo de forma a estabilizar e sanar problemas, principalmente os de mastigação. 
 
@@ -71,7 +71,7 @@ Com a saúde da gengiva, podemos começar o tratamento de reabilitação. Depend
 **A reabilitação oral é demorada ?**
 ------------------------------------
 
-[![reabilitação oral](/images/c2df1b99-aed9-4ecf-97b2-07bcced39cad_reablitação-dentária.jpg)](/images/c2df1b99-aed9-4ecf-97b2-07bcced39cad_reablitação-dentária.webp) 
+[![reabilitação oral](/images/c2df1b99-aed9-4ecf-97b2-07bcced39cad_reablitação-dentária.webp)](/images/c2df1b99-aed9-4ecf-97b2-07bcced39cad_reablitação-dentária.webp) 
 
 Sim. E cada caso demanda um tempo diferente que envolve **3 pilares**:
 

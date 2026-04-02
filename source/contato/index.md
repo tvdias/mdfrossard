@@ -48,7 +48,7 @@ description: Veja como entrar em contato com a nossa clínica. É possível liga
             </div>
             
             <div class="contact-image reveal delay-1">
-                <img src="/images/hero-img.jpg" alt="Atendimento MD Frossard" class="img-fluid rounded shadow-lg">
+                <img src="/images/hero-img.webp" alt="Atendimento MD Frossard" class="img-fluid rounded shadow-lg" loading="lazy" decoding="async" width="1600" height="1066">
             </div>
         </div>
     </div>

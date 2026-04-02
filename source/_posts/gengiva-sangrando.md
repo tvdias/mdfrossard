@@ -119,7 +119,7 @@ Outra opção é realizar {% post_link implante-de-dente "trabalhos fixos sobre 
 
 ## Qual o Tratamento Para a Gengiva Sangrando ?
 
-[![gengiva sangrando e o fio dental](/images/8a010c35-d5fc-41ff-b240-788ad679ace5_gengiva-sangrando-e-o-fio-dental.jpg)](/images/8a010c35-d5fc-41ff-b240-788ad679ace5_gengiva-sangrando-e-o-fio-dental.webp) 
+[![gengiva sangrando e o fio dental](/images/8a010c35-d5fc-41ff-b240-788ad679ace5_gengiva-sangrando-e-o-fio-dental.webp)](/images/8a010c35-d5fc-41ff-b240-788ad679ace5_gengiva-sangrando-e-o-fio-dental.webp) 
 
 Primeiramente devemos ficar alertas com a gengiva sangrando pois **isso é um sinal que algo não esta certo**. 
 

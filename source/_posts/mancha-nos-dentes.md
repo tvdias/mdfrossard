@@ -60,7 +60,7 @@ Posteriormente o maior ou menor uso do café ou cigarro, vai determinar a volta 
 ## 2 - Necrose pulpar (Traumatismo)
 
 
-[![mancha dente](/images/c80dc55c-77ba-4f10-98fa-f1be3efafae6_mancha-dente.jpg)](/images/c80dc55c-77ba-4f10-98fa-f1be3efafae6_mancha-dente.webp) 
+[![mancha dente](/images/c80dc55c-77ba-4f10-98fa-f1be3efafae6_mancha-dente.webp)](/images/c80dc55c-77ba-4f10-98fa-f1be3efafae6_mancha-dente.webp) 
 
 Após a ocorrência de um trauma no dente, pode-se ter um escurecimento deste. 
 
@@ -175,7 +175,7 @@ Portanto em ambos o casos a higienização é extremamente importante para que v
 
 ## Conclusão
 
-[![Mancha Preta dente](/images/uploads/2014/06/Mancha-Preta-dente-1024x1024.jpg)](/images/2ea06d90-28dd-4fd4-b93f-13f259f3965d_Mancha-Preta-dente.webp)
+[![Mancha Preta dente](/images/uploads/2014/06/Mancha-Preta-dente-1024x1024.webp)](/images/2ea06d90-28dd-4fd4-b93f-13f259f3965d_Mancha-Preta-dente.webp)
 
 Cada tipo de **mancha nos dentes** tem um fator e uma causa associada, assim como, um tratamento diferente. 
 

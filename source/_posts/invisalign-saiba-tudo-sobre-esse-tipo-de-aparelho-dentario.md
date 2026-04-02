@@ -16,7 +16,7 @@ Criamos um post  explicativo sobre o sistema Invisalign®, com as perguntas que
 O que é Invisalign®?
 --------------------
 
-[![aparelho invisalign](/images/uploads/2015/04/aparelho-invisalign-1024x752.jpg)](/images/3716881e-9273-4a78-818c-ed52bc1f697e_aparelho-invisalign.webp)
+[![aparelho invisalign](/images/uploads/2015/04/aparelho-invisalign-1024x752.webp)](/images/3716881e-9273-4a78-818c-ed52bc1f697e_aparelho-invisalign.webp)
 
 **Invisalign® é um aparelho ortodôntico diferente do convencional.**
 
@@ -34,7 +34,7 @@ Com Invisalign®, o principio é o mesmo. Cada placa pressiona levemente os dent
 Como é realizado o processo de planejamento e personalização para o meu caso?
 -----------------------------------------------------------------------------
 
-[![Invisalign perto](/images/422f9ca4-ba04-4e44-9e1d-836096d29554_Invisalign-perto.jpg)](/images/422f9ca4-ba04-4e44-9e1d-836096d29554_Invisalign-perto.webp)
+[![Invisalign perto](/images/422f9ca4-ba04-4e44-9e1d-836096d29554_Invisalign-perto.webp)](/images/422f9ca4-ba04-4e44-9e1d-836096d29554_Invisalign-perto.webp)
 
 Primeiro são realizadas fotografias e as moldagens dos dentes aqui no Rio de Janeiro, que são então encaminhadas para os EUA. Lá, os moldes são escaneados e um planejamento totalmente digitalizado (chamado Clincheck)  é elaborado de acordo com as instruções enviadas pelo nosso Ortodontista.
 

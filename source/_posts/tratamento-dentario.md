@@ -16,7 +16,7 @@ De uma maneira geral, todos nós queremos viver bem e bastante tempo. Assim, al�
 **Antes uma pequena história**
 ------------------------------
 
-[![Historia tratamento dentário](/images/a76bdfe9-7ade-4643-b747-3dbf7320fc20_Historia-tratamento-dentário.jpg)](/images/a76bdfe9-7ade-4643-b747-3dbf7320fc20_Historia-tratamento-dentário.webp) 
+[![Historia tratamento dentário](/images/a76bdfe9-7ade-4643-b747-3dbf7320fc20_Historia-tratamento-dentário.webp)](/images/a76bdfe9-7ade-4643-b747-3dbf7320fc20_Historia-tratamento-dentário.webp) 
 
 Para exemplificar isso, vamos contar o caso de um paciente recente nosso. 
 
@@ -29,7 +29,7 @@ Assim, ela teve que superar seu trauma, e com a indicação de um grande amigo, 
 **O tratamento dentário e sua saúde **
 --------------------------------------
 
-[![Tratamento dentário e saúde](/images/b364658f-b092-4e3b-9180-bfabc63be5e7_Tratamento-dentário-e-saúde.jpg)](/images/b364658f-b092-4e3b-9180-bfabc63be5e7_Tratamento-dentário-e-saúde.webp) 
+[![Tratamento dentário e saúde](/images/b364658f-b092-4e3b-9180-bfabc63be5e7_Tratamento-dentário-e-saúde.webp)](/images/b364658f-b092-4e3b-9180-bfabc63be5e7_Tratamento-dentário-e-saúde.webp) 
 
 A saúde bucal do brasileiro é ruim, aliás eu já comentei isso em um {% post_link saude-bucal-do-brasileiro "post recente" %} baseado na reportagem da revista Veja.  
 
@@ -57,7 +57,7 @@ Mas, o descuido em relação aos dentes, poderá gerar problemas que irão dific
 **Quais os tipos de tratamento dentários existem ?**
 ----------------------------------------------------
 
-[![tipos tratamento dentário](/images/4573e3b6-f5b4-4b39-b36f-b777c70b0fca_tipos-tratamento-dentário.jpg)](/images/4573e3b6-f5b4-4b39-b36f-b777c70b0fca_tipos-tratamento-dentário.webp) 
+[![tipos tratamento dentário](/images/4573e3b6-f5b4-4b39-b36f-b777c70b0fca_tipos-tratamento-dentário.webp)](/images/4573e3b6-f5b4-4b39-b36f-b777c70b0fca_tipos-tratamento-dentário.webp) 
 
 Existem diversos tipos de tratamentos dentários, cada um tem uma indicação específica e você necessariamente não precisa realizar todos os tipos. 
 

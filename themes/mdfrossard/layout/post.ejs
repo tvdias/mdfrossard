@@ -55,7 +55,7 @@ var readingTime = Math.max(1, Math.round(wordCount / 200));
                 </div>
             <% } %>
 
-            <img src="<%= p.featured_image || '/images/uploads/2024/md_odontologia_barra.webp' %>" alt="<%= p.title %>" class="article-img reveal">
+            <img src="<%= p.featured_image || '/images/uploads/2024/md_odontologia_barra.webp' %>" loading="lazy" decoding="async" alt="<%= p.title %>" class="article-img reveal">
 
             <div class="content reveal">
                 <%- content %>

@@ -16,7 +16,7 @@ Por isso, resolvi escrever sobre este tema e tentar sanar todas as dúvidas.
 
 ## **Afinal, posso perder um implante dentário?**
 
-[![Perder um implante dentário](/images/1f7f4900-c7e8-46eb-846a-e9fa9f6e67b5_Perder-um-implante-dentário.jpg)](/images/1f7f4900-c7e8-46eb-846a-e9fa9f6e67b5_Perder-um-implante-dentário.webp) 
+[![Perder um implante dentário](/images/1f7f4900-c7e8-46eb-846a-e9fa9f6e67b5_Perder-um-implante-dentário.webp)](/images/1f7f4900-c7e8-46eb-846a-e9fa9f6e67b5_Perder-um-implante-dentário.webp) 
 
 A resposta simples é **sim**. 
 
@@ -50,7 +50,7 @@ Nesse caso, a perda do implante se dá muito mais rápida.   \[rev_slider marqu
 
 ## **O que se faz quando ocorre a perda do implante ?**
 
-[![perda de implante dentário](/images/3cdcd8e2-cde4-4eb3-b1c5-34a8c5109987_perda-de-implante-dentário.jpg)](/images/3cdcd8e2-cde4-4eb3-b1c5-34a8c5109987_perda-de-implante-dentário.webp) 
+[![perda de implante dentário](/images/3cdcd8e2-cde4-4eb3-b1c5-34a8c5109987_perda-de-implante-dentário.webp)](/images/3cdcd8e2-cde4-4eb3-b1c5-34a8c5109987_perda-de-implante-dentário.webp) 
 
 A [dor](/como-aliviar-a-dor-de-dente/) quando se mexe nos implantes é um dos sinais que mostram que podemos estar perdendo o implante. 
 

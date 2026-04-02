@@ -24,7 +24,7 @@ Nesse texto, quero conversar com vocês sobre como é realizado o tratamento de 
 
 ## **O que é tratamento de canal ?**
 
-[![](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.jpg)](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.webp) 
+[![](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.webp)](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.webp) 
 
 A explicação simples e direta seria : O tratamento endodôntico, consiste no tratamento da polpa do dente. O procedimento envolve a remoção da área danificada do dente (a polpa), limpeza e desinfecção e, em seguida, o preenchimento e selamento. 
 

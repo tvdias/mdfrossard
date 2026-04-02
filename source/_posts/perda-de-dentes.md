@@ -19,7 +19,7 @@ Nas duas últimas opções, um correto cuidado com a higiene dental e consultas 
 
 Como mostrado nas ilustrações , quando perdemos um dente, ficamos com um espaço vazio em nossa arcada, deixando os dentes vizinhos sem ponto de apoio. 
 
-[![perda de dentes e suas consequecias.](/images/79e11d27-5592-4253-b7b1-aa86bc9f19e1_perda-de-dentes-e-suas-consequecias..png)](/images/79e11d27-5592-4253-b7b1-aa86bc9f19e1_perda-de-dentes-e-suas-consequecias..webp) 
+[![perda de dentes e suas consequecias.](/images/79e11d27-5592-4253-b7b1-aa86bc9f19e1_perda-de-dentes-e-suas-consequecias..webp)](/images/79e11d27-5592-4253-b7b1-aa86bc9f19e1_perda-de-dentes-e-suas-consequecias..webp) 
 
 Sem este contato, os dentes proximais (vizinhos ao dente perdido) se aproximam e o dente antagonista (no caso o dente superior), tende a descer, gerando um desarranjo que culminará:
 
@@ -39,7 +39,7 @@ Dessa forma não há necessidade de preparo nos dentes vizinhos ao espaço.
 
 A tabela abaixo demonstra algumas diferenças entre estes os procedimentos, no caso de perda de 1 (um) dente: 
 
-[![Perda de dentes](/images/de8bbb78-68d8-4638-ac1a-d8763083c213_Perda-de-dentes.png)](/images/de8bbb78-68d8-4638-ac1a-d8763083c213_Perda-de-dentes.webp)   
+[![Perda de dentes](/images/de8bbb78-68d8-4638-ac1a-d8763083c213_Perda-de-dentes.webp)](/images/de8bbb78-68d8-4638-ac1a-d8763083c213_Perda-de-dentes.webp)   
 
 Diante do que foi mostrado, vale ressaltar que anamnese e exame clínico corretos são necessários para definir a melhor forma de tratamento. 
 

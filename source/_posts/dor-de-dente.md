@@ -42,7 +42,7 @@ Para o controle total da dor, a causa do problema deve ser eliminada, ou seja, d
 
 ## As 3 principais causas de Dor de Dente
 
-[![mulher-dor-de-dente](/images/ca17b49e-2473-4548-8421-7b453bd8f3b8_mulher-dor-de-dente.jpg)](/images/ca17b49e-2473-4548-8421-7b453bd8f3b8_mulher-dor-de-dente.webp) 
+[![mulher-dor-de-dente](/images/ca17b49e-2473-4548-8421-7b453bd8f3b8_mulher-dor-de-dente.webp)](/images/ca17b49e-2473-4548-8421-7b453bd8f3b8_mulher-dor-de-dente.webp) 
 
 A dor no dente tem uma causa principal bem definida, que é a cárie dental.
 
@@ -72,7 +72,7 @@ Se pelo exame de raio x detectarmos uma cárie de grande porte, muito próximo d
 
 #### 2 - Doença periodontal 
 
-[![demonstra_o_manequim_arcada_dentaria](/images/90281323-dba9-4fcc-babd-910fce4902aa_demonstra_o_manequim_arcada_dentaria.jpg)](/images/90281323-dba9-4fcc-babd-910fce4902aa_demonstra_o_manequim_arcada_dentaria.webp) 
+[![demonstra_o_manequim_arcada_dentaria](/images/90281323-dba9-4fcc-babd-910fce4902aa_demonstra_o_manequim_arcada_dentaria.webp)](/images/90281323-dba9-4fcc-babd-910fce4902aa_demonstra_o_manequim_arcada_dentaria.webp) 
 
 A segunda causa para dor de dente é a doença periodontal. 
 
@@ -109,7 +109,7 @@ Para o alívio da dor nessa região, geralmente é indicada a {% post_link por-q
 
 #### Outros fatores 
 
-[![avaliação dor de dente](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.jpg)](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.webp) 
+[![avaliação dor de dente](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.webp)](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.webp) 
 
 Vale ressaltar que aqui listei as causas mais comuns de dor. 
 
