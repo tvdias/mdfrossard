@@ -29,9 +29,13 @@ Escolher um **dentista na Barra da Tijuca** envolve avaliar minuciosamente a fac
   
 - ✅ **Tecnologia Digital:** Utilizamos scanners intraorais e planejamento digital para maior precisão em implantes e estética.
 
-<div style="margin: 60px 0; text-align: center;">
-  ![Estrutura MD Frossard Barra da Tijuca](/images/76345c37-98a0-457b-a71c-4dd16603ca51_Dentista-barra-da-tijuca-4-1024x682.webp)
-</div>
+<br>
+
+<p style="text-align: center;">
+  <img src="/images/76345c37-98a0-457b-a71c-4dd16603ca51_Dentista-barra-da-tijuca-4-1024x682.webp" alt="Estrutura MD Frossard Barra da Tijuca" style="max-width: 100%; height: auto; border-radius: 12px;" loading="lazy" decoding="async">
+</p>
+
+<br>
 
 ---
 
@@ -60,9 +64,13 @@ Acreditamos que a base de um bom tratamento é um diagnóstico detalhado. Em sua
 
 Nosso objetivo principal é que você saia da consulta com todas as suas dúvidas esclarecidas e um plano de tratamento claro em mãos.
 
-<div style="margin: 60px 0; text-align: center;">
-  ![Atendimento odontológico Barra da Tijuca](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.webp)
-</div>
+<br>
+
+<p style="text-align: center;">
+  <img src="/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.webp" alt="Atendimento odontológico Barra da Tijuca" style="max-width: 100%; height: auto; border-radius: 12px;" loading="lazy" decoding="async">
+</p>
+
+<br>
 
 ---
 
@@ -94,10 +102,13 @@ Atendemos todas as necessidades odontológicas em nossa clínica com o seu **den
 - 🔸 **[Prótese Dentária ➔](/tratamentos/protese-dentaria/)**
 - 🔸 **[Clareamento Dental Premium ➔](/tratamentos/estetica-dental/)**
 
+<br>
 
-<div style="margin: 60px 0; text-align: center;">
-  ![Dra. Luciana e Dr. Davi em atendimento](/images/uploads/2024/luciana_explicando.webp)
-</div>
+<p style="text-align: center;">
+  <img src="/images/uploads/2024/luciana_explicando.webp" alt="Dra. Luciana e Dr. Davi em atendimento" style="max-width: 100%; height: auto; border-radius: 12px;" loading="lazy" decoding="async">
+</p>
+
+<br>
 
 ---
 
