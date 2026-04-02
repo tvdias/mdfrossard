@@ -1,7 +1,7 @@
 ---
 layout: layout_landing
 title: "Dentista na Barra da Tijuca | MD Frossard Odontologia"
-description: "Sua clínica odontológica completa na Barra da Tijuca. Especialistas em Implantes, Lentes e Reabilitação com 38 anos de tradição."
+description: "Atendimento odontológico de elite na Barra da Tijuca. Especialistas em Implantes, Lentes e Reabilitação com 38 anos de tradição."
 ---
 
 <!-- Import Exact Fonts -->
@@ -29,12 +29,12 @@ description: "Sua clínica odontológica completa na Barra da Tijuca. Especialis
         font-family: 'Roboto', sans-serif;
         background-color: #fff;
         color: var(--text-dark);
-        line-height: 1.5;
+        line-height: 1.6;
         -webkit-font-smoothing: antialiased;
     }
 
     .container {
-        max-width: 1100px;
+        max-width: 1140px;
         margin: 0 auto;
         padding: 0 20px;
     }
@@ -44,13 +44,13 @@ description: "Sua clínica odontológica completa na Barra da Tijuca. Especialis
     }
 
     section {
-        padding: 60px 0;
+        padding: 80px 0;
     }
 
     /* Button Styles */
     .btn {
         display: inline-block;
-        padding: 18px 40px;
+        padding: 20px 48px;
         border-radius: 8px;
         text-decoration: none;
         font-weight: 700;
@@ -58,77 +58,93 @@ description: "Sua clínica odontológica completa na Barra da Tijuca. Especialis
         transition: all 0.3s;
         cursor: pointer;
         width: 100%;
-        max-width: 450px;
+        max-width: 480px;
+        border: none;
     }
 
     .btn-gold {
         background: linear-gradient(to right, var(--gold-light), var(--gold-dark));
         color: #000;
         text-transform: uppercase;
-        font-size: 16px;
-        box-shadow: 0 5px 15px rgba(224, 174, 61, 0.3);
+        font-size: 17px;
+        box-shadow: 0 10px 20px rgba(224, 174, 61, 0.2);
     }
 
     .btn-gold:hover {
         transform: translateY(-2px);
-        box-shadow: 0 8px 20px rgba(224, 174, 61, 0.4);
+        box-shadow: 0 15px 30px rgba(224, 174, 61, 0.3);
     }
 
     /* Hero Section */
     .hero {
         text-align: center;
-        padding-top: 40px;
+        padding: 40px 0 80px;
         background-color: #fff;
     }
 
     .hero-logo {
-        max-width: 250px;
-        margin-bottom: 30px;
+        max-width: 180px;
+        margin-bottom: 40px;
     }
 
     .hero h1 {
-        font-size: 2.2rem;
-        margin-bottom: 20px;
+        font-size: 2.8rem;
+        margin-bottom: 25px;
         color: #000;
+        letter-spacing: -0.5px;
     }
 
     .hero p.subtitle {
         font-style: italic;
         color: var(--text-gray);
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+    }
+
+    .hero p.intro {
+        max-width: 800px;
+        margin: 0 auto 40px;
         font-size: 1.1rem;
-        margin-bottom: 30px;
+        color: var(--text-gray);
     }
 
     .hero-list {
         list-style: none;
         display: flex;
         flex-direction: column;
-        gap: 12px;
-        margin-bottom: 30px;
+        gap: 15px;
+        margin-bottom: 50px;
         align-items: center;
     }
 
     .hero-list li {
         display: flex;
         align-items: center;
-        gap: 10px;
+        gap: 12px;
         font-weight: 500;
+        font-size: 1.05rem;
     }
 
     .hero-list li span {
         color: #28a745;
         font-weight: 900;
+        font-size: 1.2rem;
+    }
+
+    .hero-image-wrap {
+        margin: 0 auto 50px;
+        position: relative;
     }
 
     .hero-image {
         width: 100%;
-        max-width: 550px;
-        border-radius: 20px;
-        display: block;
-        margin: 40px auto;
+        max-width: 650px;
+        height: auto;
+        border-radius: 30px;
+        box-shadow: 0 30px 60px rgba(0,0,0,0.15);
     }
 
-    /* Testimonials Section */
+    /* Testimonials */
     .testi-section {
         background-color: var(--dark-bg);
         color: var(--text-white);
@@ -136,264 +152,293 @@ description: "Sua clínica odontológica completa na Barra da Tijuca. Especialis
     }
 
     .testi-section h2 {
-        font-size: 2rem;
-        margin-bottom: 40px;
+        font-size: 2.4rem;
+        margin-bottom: 60px;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .testi-grid {
         display: grid;
         grid-template-columns: 1fr;
-        gap: 30px;
-        margin-bottom: 40px;
+        gap: 40px;
+        margin-bottom: 60px;
     }
 
     .testi-card {
-        padding: 30px;
-        border-radius: 12px;
-        background: #222;
+        padding: 50px 40px;
+        border-radius: 20px;
+        background: #252525;
         text-align: left;
+        border: 1px solid rgba(255,255,255,0.05);
+        transition: border-color 0.3s;
     }
+
+    .testi-card:hover { border-color: var(--gold-light); }
 
     .testi-stars {
         color: #ffc107;
-        margin-bottom: 15px;
+        margin-bottom: 20px;
         display: block;
+        font-size: 1.2rem;
     }
 
     .testi-text {
-        color: #ccc;
+        color: #e0e0e0;
         font-style: italic;
-        margin-bottom: 20px;
+        margin-bottom: 25px;
+        font-size: 1rem;
+        line-height: 1.8;
     }
 
     .testi-author {
         font-weight: 700;
         text-transform: uppercase;
-        font-size: 0.9rem;
+        font-size: 0.95rem;
+        color: var(--gold-light);
+        letter-spacing: 1px;
     }
 
     /* About Section */
-    .about-section {
-        text-align: left;
-    }
-
-    .about-section h2 {
-        font-size: 2rem;
-        margin-bottom: 25px;
-    }
+    .about-section { padding: 100px 0; }
 
     .about-content {
         display: flex;
         flex-direction: column;
-        gap: 30px;
+        gap: 60px;
     }
 
-    .about-text p {
-        margin-bottom: 20px;
-        color: var(--text-gray);
-    }
+    .about-text h2 { font-size: 2.5rem; margin-bottom: 40px; color: #000; }
+    .about-text p { margin-bottom: 25px; color: var(--text-gray); font-size: 1.1rem; }
 
     .about-img {
         width: 100%;
-        border-radius: 15px;
+        max-width: 584px;
+        height: auto;
+        border-radius: 25px;
+        box-shadow: 0 20px 40px rgba(0,0,0,0.1);
     }
 
-    /* Gallery Section */
+    /* Gallery */
     .gallery-section {
         background-color: var(--darker-bg);
         color: var(--text-white);
         text-align: center;
+        padding-bottom: 120px;
     }
 
-    .gallery-section h2 {
-        margin-bottom: 40px;
-    }
+    .gallery-section h2 { margin-bottom: 60px; font-size: 2.5rem; }
 
     .gallery-img {
         width: 100%;
-        border-radius: 10px;
-        margin-bottom: 30px;
+        max-width: 940px;
+        height: auto;
+        border-radius: 20px;
+        margin-bottom: 40px;
+        border: 1px solid rgba(255,255,255,0.1);
     }
 
-    /* Digital Dentistry */
+    /* Digital Section */
     .digital-section {
         display: flex;
         flex-direction: column;
-        gap: 30px;
+        gap: 60px;
+        padding: 100px 0;
     }
 
-    /* FAQ */
-    .faq-section h2 {
-        text-align: center;
-        margin-bottom: 40px;
+    .digital-img {
+        width: 100%;
+        max-width: 800px;
+        height: auto;
+        border-radius: 25px;
     }
 
-    .faq-item {
-        border-bottom: 1px solid #eee;
-        padding: 20px 0;
-    }
+    /* FAQ accordion */
+    .faq-section { background-color: #fff; }
+    .faq-section h2 { text-align: center; margin-bottom: 60px; font-size: 2.5rem; }
+    .faq-accordion { max-width: 900px; margin: 0 auto; }
+    .faq-item { border-bottom: 1px solid #ddd; padding: 25px 0; }
+    .faq-question { font-weight: 700; cursor: pointer; display: flex; justify-content: space-between; align-items: center; font-size: 1.2rem; }
+    .faq-answer { color: var(--text-gray); padding-top: 20px; font-size: 1.05rem; display: none; line-height: 1.7; }
 
-    .faq-question {
-        font-weight: 600;
-        cursor: pointer;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-
-    .faq-answer {
-        color: var(--text-gray);
-        padding-top: 15px;
-        display: none;
-    }
-
-    /* Clinics Footer */
+    /* Footer */
     .clinics-footer {
-        background-color: #f9f9f9;
+        background-color: #f8f9fa;
+        padding: 80px 0;
+        border-top: 1px solid #eee;
+    }
+
+    .footer-grid {
         display: grid;
         grid-template-columns: 1fr;
-        gap: 40px;
+        gap: 50px;
+        text-align: left;
     }
 
-    .clinic-box h4 {
-        color: var(--gold-dark);
-        margin-bottom: 15px;
+    .clinic-box h4 { color: var(--gold-dark); margin-bottom: 20px; font-size: 1.2rem; letter-spacing: 1px; }
+    .clinic-box p { color: var(--text-gray); font-size: 1rem; margin-bottom: 8px; }
+
+    /* Responsible info */
+    .responsible-info {
+        text-align: center;
+        padding: 30px 20px;
+        font-size: 0.85rem;
+        color: #999;
+        background-color: #f2f2f2;
     }
 
-    .clinic-box p {
-        color: var(--text-gray);
-        font-size: 0.95rem;
-    }
-
-    /* Responsive */
-    @media (min-width: 768px) {
-        .testi-grid { grid-template-columns: repeat(3, 1fr); }
+    /* Mobile First Adjustments */
+    @media (min-width: 992px) {
+        .hero h1 { font-size: 3.8rem; }
+        .hero-list { flex-direction: row; justify-content: center; gap: 40px; }
+        .testi-grid { grid-template-columns: repeat(3, 1fr); gap: 30px; }
         .about-content { flex-direction: row; align-items: center; }
         .about-text, .about-img-wrap { flex: 1; }
         .digital-section { flex-direction: row-reverse; align-items: center; }
         .digital-text, .digital-img-wrap { flex: 1; }
-        .clinics-footer { grid-template-columns: 1fr 1fr; }
-        .hero h1 { font-size: 3rem; }
+        .footer-grid { grid-template-columns: 1fr 1fr; }
+        .btn { max-width: 480px; width: auto; min-width: 320px; }
     }
 
-    /* Sticky CTA */
+    /* STICKY CTA MOBILE */
     .whatsapp-sticky {
         position: fixed;
-        bottom: 20px;
+        bottom: 25px;
         right: 20px;
         left: 20px;
         background-color: var(--btn-whatsapp);
         color: #fff;
-        padding: 15px;
+        padding: 18px;
         border-radius: 50px;
         text-align: center;
         text-decoration: none;
         font-weight: 700;
-        box-shadow: 0 10px 25px rgba(37, 211, 102, 0.4);
+        font-size: 1.1rem;
+        box-shadow: 0 15px 35px rgba(37, 211, 102, 0.4);
         z-index: 1000;
         display: flex;
         justify-content: center;
         align-items: center;
-        gap: 10px;
+        gap: 12px;
+        transition: transform 0.3s;
     }
 
-    .whatsapp-sticky img {
-        width: 24px;
+    .whatsapp-sticky span { font-size: 1.6rem; }
+    .whatsapp-sticky:active { transform: scale(0.95); }
+
+    @media (min-width: 768px) {
+        .whatsapp-sticky {
+            width: auto;
+            left: auto;
+            bottom: 30px;
+            right: 30px;
+            padding: 15px 30px;
+        }
     }
 </style>
 
-<!-- Hero -->
+<!-- HERO -->
 <section class="hero">
     <div class="container">
-        <img src="https://mdfrossard.com.br/images/logo-MD.jpg" alt="Logo MD Frossard" class="hero-logo" style="max-width: 150px;">
-        <h1>Seu sorriso é único — seu tratamento também</h1>
-        <p class="subtitle">Sua clínica odontológica completa na Barra da Tijuca</p>
+        <img src="https://mdfrossard.com.br/images/logo-MD.jpg" alt="Logo MD Frossard" class="hero-logo" width="180" height="auto">
+        <h1>Dentista na Barra da Tijuca</h1>
+        <p class="subtitle adamina">Seu sorriso é único — seu tratamento também.</p>
+        <p class="intro">Na MD Frossard Odontologia, oferecemos um atendimento completo e personalizado, com foco total no seu conforto e bem-estar.</p>
         
         <ul class="hero-list">
-            <li><span>✓</span> 38 anos de experiência comprovada</li>
-            <li><span>✓</span> Atendimento personalizado e particular</li>
-            <li><span>✓</span> Opções de parcelamento via cartão e pix</li>
+            <li><span>✓</span> 38 anos de experiência clínica</li>
+            <li><span>✓</span> Atendimento particular</li>
+            <li><span>✓</span> Pagamento parcelado</li>
+            <li><span>✓</span> Todas as especialidades</li>
+            <li><span>✓</span> Fácil acesso na Barra da Tijuca</li>
         </ul>
 
-        <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=650,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/jieaFOjQ0SvMCKlYYPnwg.jpeg" 
-             alt="Dr. Davi Frossard" class="hero-image" loading="eager" decoding="async">
-        
-        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Agendar Avaliação Agora</a>
+        <div class="hero-image-wrap">
+            <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=650,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/jieaFOjQ0SvMCKlYYPnwg.jpeg" 
+                 alt="Dr. Davi Frossard" class="hero-image" width="650" height="433" loading="eager" decoding="async">
+        </div>
+
+        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Agende sua Consulta e Sinta a Diferença.</a>
     </div>
 </section>
 
-<!-- Testimonials -->
+<!-- TESTIMONIALS -->
 <section class="testi-section">
     <div class="container">
-        <h2>O que as pessoas dizem?</h2>
+        <h2 class="adamina">Pacientes da Barra da Tijuca que voltaram a sorrir com confiança</h2>
+        
         <div class="testi-grid">
             <div class="testi-card">
                 <span class="testi-stars">★★★★★</span>
-                <p class="testi-text">"Tinha pânico de dentista, mas aqui me senti acolhida desde o primeiro minuto. As lentes de contato mudaram minha autoestima. Recomendo de olhos fechados!"</p>
-                <span class="testi-author">LARISSA MELO</span>
+                <p class="testi-text">"Sempre tive pânico de dentista, algo que me impediu de ir ao dentista por 15 anos, praticamente. Chorava, fugia, verdadeiro terror! Quando encontrei a MD Frossard estava apavorada mas decidida e eles foram essenciais para que eu finalmente superasse e me cuidasse. Desde o atendimento por telefone, ate a consulta, e dia após dia, me senti abraçada por uma equipe inteira..."</p>
+                <span class="testi-author">LARISSA RODRIGUES</span>
             </div>
             <div class="testi-card">
                 <span class="testi-stars">★★★★★</span>
-                <p class="testi-text">"Espetacular. Muito carinho no atendimento, sem correria de plano de saúde. Dr. Davi planejou tudo digitalmente e o resultado ficou surreal de bom."</p>
-                <span class="testi-author">ELISA SOBRAL</span>
+                <p class="testi-text">"Cheguei à Clínica MD Frossard através de uma pesquisa na internet para ajudar minha filha que estava sentindo muita dor, e ela foi tão bem atendida que resolvi arriscar e procurar ajuda para mim mesma. Nunca fui tão bem atendida e tão acolhida quanto fui pelo Dr David, pelo Dr Marcos e pelas meninas. Voltei a confiar em dentista após ser tratada pelo Dr Marcos e pelo Dr David..."</p>
+                <span class="testi-author">ELISA D'ARÊDE</span>
             </div>
             <div class="testi-card">
                 <span class="testi-stars">★★★★★</span>
-                <p class="testi-text">"Excelente atendimento! Dr. Marcos é um profissional extremamente cuidadoso e competente. O tratamento com implantes foi super tranquilo e o resultado ficou muito natural."</p>
-                <span class="testi-author">OTÁVIO AUGUSTO</span>
+                <p class="testi-text">"Fiquei super satisfeito com o processo e resultado do tratamento estético-dentário que fiz na Md Frossard Odontologia. Nota 10 em todos os quesitos para a equipe comandada pelos Drs. Marcos e seu filho David. Além da expertise profissional, destaque para o clima de gentileza, pontualidade e responsabilidade. E o pessoal de suporte não fica atrás..."</p>
+                <span class="testi-author">OTÁVIO AZEVEDO</span>
             </div>
         </div>
-        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Garantir meu horário</a>
+
+        <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Marcar meu agendamento</a>
     </div>
 </section>
 
-<!-- About Clinic -->
+<!-- ABOUT -->
 <section class="about-section">
     <div class="container">
         <div class="about-content">
             <div class="about-text">
-                <h2>Excelência em cada detalhe</h2>
-                <p>Nossa clínica na Barra da Tijuca foi planejada para oferecer uma experiência exclusiva de cuidado e conforto. Liderada pelos doutores Marcos e Davi Frossard, a equipe unifica a tradição de 38 anos às inovações mais recentes da Odontologia Digital.</p>
-                <p>Focamos em tratamentos de alta performance como Reabilitação Oral, Implantes Dentários e Lentes de Contato em porcelana, sempre com foco no seu conforto e bem-estar.</p>
-                <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Quero falar com um especialista</a>
+                <h2 class="adamina">Dentista na Barra da Tijuca</h2>
+                <p>A MD Frossard Odontologia atua há 38 anos no Rio de Janeiro, unindo experiência, tecnologia e atendimento de alto padrão.</p>
+                <p>Dirigida pelos especialistas Dr. Marcos Frossard, Dr. Davi Frossard e Dra. Luciana Peroni, oferecemos um cuidado personalizado para quem busca um dentista na Barra da Tijuca.</p>
+                <p>Com foco em relacionamento, confiança e pontualidade, entregamos conforto, estética e resultados que transformam sorrisos. Nossa estrutura moderna e acolhedora garante uma experiência diferenciada do início ao fim.</p>
+                <p>Agende sua consulta com um dentista na Barra da Tijuca e descubra um novo padrão em cuidado odontológico.</p>
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold" style="margin-top: 20px;">Marque Sua Consulta</a>
             </div>
             <div class="about-img-wrap">
                 <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=40,width=584,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/M3vuHWJE6p9QAEH1Wow.jpeg" 
-                     alt="Equipe MD Frossard" class="about-img" loading="lazy" decoding="async">
+                     alt="Equipe MD Frossard em Atendimento" class="about-img" width="584" height="389" loading="lazy" decoding="async">
             </div>
         </div>
     </div>
 </section>
 
-<!-- Transformations -->
+<!-- GALLERY -->
 <section class="gallery-section">
     <div class="container">
-        <h2>Transformação de Sorrisos</h2>
-        <div style="display: flex; flex-direction: column; gap: 20px;">
+        <h2 class="adamina">Encontre a solução ideal para o seu sorriso</h2>
+        <div style="display: flex; flex-direction: column; gap: 40px; align-items: center;">
             <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=940,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/r9UceOWvke1hVnZx9XcGA.jpeg" 
-                 alt="Caso Clínico 1" class="gallery-img" loading="lazy" decoding="async">
+                 alt="Transformação 1" class="gallery-img" width="940" height="529" loading="lazy" decoding="async">
             <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=940,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/LOBV3mMhI0ismGuS3qYVLQ.jpeg" 
-                 alt="Caso Clínico 2" class="gallery-img" loading="lazy" decoding="async">
+                 alt="Transformação 2" class="gallery-img" width="940" height="529" loading="lazy" decoding="async">
         </div>
     </div>
 </section>
 
-<!-- Technology -->
+<!-- DIGITAL DENTISTRY -->
 <section class="about-section">
     <div class="container">
         <div class="digital-section">
             <div class="digital-text">
-                <h2>Precisão Digital</h2>
-                <p>Diga adeus às moldagens desconfortáveis. Utilizamos o scanner intraoral de última geração para mapear seu sorriso em 3D. Isso garante:</p>
+                <h2 class="adamina">Precisão e Tecnologia</h2>
+                <p>Utilizamos o Scanner Digital 3D de última geração, eliminando a necessidade de moldagens desconfortáveis e garantindo resultados previsíveis e rápidos.</p>
                 <ul class="hero-list" style="align-items: flex-start; margin-left: 20px;">
-                    <li><span>•</span> Ajuste perfeito de próteses e lentes</li>
-                    <li><span>•</span> Planejamento estético previsível</li>
-                    <li><span>•</span> Rapidez na finalização do seu tratamento</li>
+                    <li><span>•</span> Diagnóstico 100% digital</li>
+                    <li><span>•</span> Planejamento estético antecipado</li>
+                    <li><span>•</span> Segurança total em cirurgias guiadas</li>
                 </ul>
             </div>
             <div class="digital-img-wrap">
                 <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=800,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/agvkI0KZgUqvhjS0j0iPeA.jpeg" 
-                     alt="Scanner iTero" class="about-img" loading="lazy" decoding="async">
+                     alt="Tecnologia iTero" class="digital-img" width="800" height="533" loading="lazy" decoding="async">
             </div>
         </div>
     </div>
@@ -402,47 +447,54 @@ description: "Sua clínica odontológica completa na Barra da Tijuca. Especialis
 <!-- FAQ -->
 <section class="faq-section">
     <div class="container">
-        <h2>Perguntas Frequentes</h2>
+        <h2 class="adamina">Respondemos suas principais dúvidas</h2>
         <div class="faq-accordion">
             <div class="faq-item">
-                <div class="faq-question">Quais formas de pagamento são aceitas? <span>▼</span></div>
-                <div class="faq-answer">Trabalhamos com diversas formas de pagamento, incluindo cartão de crédito com parcelamento facilitado em até 10x e pix.</div>
+                <div class="faq-question">Como é a Primeira Consulta? <span class="arrow">▼</span></div>
+                <div class="faq-answer">O diagnóstico do seu caso é uma das etapas mais importantes do tratamento odontológico. Na primeira consulta, realizamos uma avaliação completa de sua saúde bucal, alinhamos suas expectativas e elaboramos um plano de tratamento personalizado.</div>
             </div>
             <div class="faq-item">
-                <div class="faq-question">Vocês atendem planos de saúde? <span>▼</span></div>
-                <div class="faq-answer">Nosso atendimento é focado na modalidade particular para garantir a exclusividade e o tempo necessário para um tratamento de excelência. No entanto, emitimos toda a documentação necessária para que você solicite o reembolso junto ao seu plano de saúde.</div>
+                <div class="faq-question">Quais as formas de pagamento? <span class="arrow">▼</span></div>
+                <div class="faq-answer">Oferecemos diversas facilidades para que você invista no seu sorriso: cartões de crédito com parcelamento em até 10x, pix com desconto e boletos (sob consulta).</div>
             </div>
             <div class="faq-item">
-                <div class="faq-question">Onde a clínica está localizada? <span>▼</span></div>
-                <div class="faq-answer">Nossa principal unidade está localizada na Barra da Tijuca, no Centro Médico do BarraShopping, com fácil acesso e estacionamento no local.</div>
+                <div class="faq-question">Vocês atendem planos de saúde? <span class="arrow">▼</span></div>
+                <div class="faq-answer">Trabalhamos exclusivamente com atendimento particular para garantir o tempo e o rigor técnico que cada caso de excelência exige. Fornecemos todos os documentos para o seu reembolso.</div>
             </div>
         </div>
     </div>
 </section>
 
-<!-- Clinics Info -->
+<!-- CLINICS -->
 <section class="clinics-footer">
-    <div class="container clinics-footer" style="padding: 60px 20px;">
-        <div class="clinic-box">
-            <h4>UNIDADE BARRA DA TIJUCA</h4>
-            <p>Av. das Américas, 4.666 • Bloco 3, Sala 311</p>
-            <p>Centro Médico do BarraShopping</p>
-            <p>Rio de Janeiro - RJ</p>
-            <p>Tel: (21) 3387-0331 | Cel: (21) 97663-7803</p>
-        </div>
-        <div class="clinic-box">
-            <h4>UNIDADE BOTAFOGO</h4>
-            <p>Praia de Botafogo, 316 • Grupo 601</p>
-            <p>Edifício Praia Flat</p>
-            <p>Rio de Janeiro - RJ</p>
-            <p>Tel: (21) 2286-3533 | Cel: (21) 98018-0520</p>
+    <div class="container">
+        <div class="footer-grid">
+            <div class="clinic-box">
+                <h4>UNIDADE BARRA DA TIJUCA</h4>
+                <p>Centro Médico do BarraShopping</p>
+                <p>Av. das Américas, 4.666 - Bloco 03 - Sala 311</p>
+                <p>Barra da Tijuca, Rio de Janeiro - RJ</p>
+                <p>WhatsApp: (21) 97663-7803</p>
+            </div>
+            <div class="clinic-box">
+                <h4>UNIDADE BOTAFOGO</h4>
+                <p>Edifício Praia Flat</p>
+                <p>Praia de Botafogo, 316 - Sala 601</p>
+                <p>Botafogo, Rio de Janeiro - RJ</p>
+                <p>WhatsApp: (21) 98018-0520</p>
+            </div>
         </div>
     </div>
 </section>
 
-<!-- Sticky CTA -->
+<div class="responsible-info">
+    <p>Responsável Técnico: Dr. Marcos Frossard - CRO/RJ 10.985</p>
+    <p>© 2026 MD Frossard Odontologia. Todos os direitos reservados.</p>
+</div>
+
+<!-- STICKY CTA -->
 <a href="https://api.whatsapp.com/send?phone=55021976637803" class="whatsapp-sticky">
-    Agendar agora via WhatsApp
+    <span>💬</span> Falar agora por WhatsApp
 </a>
 
 <script>
