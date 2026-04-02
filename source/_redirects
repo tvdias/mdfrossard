@@ -1,3 +1,18 @@
 /mdf_tratamentos/*                  /tratamentos/:splat             302
 /tratamentos/implante-dental/       /tratamentos/implante-dentario  302
 /Implante-dentário-6.jpg            /tratamentos/implante-dentario  302
+
+# Redirecionamentos de Slugs Antigos (Auditoria 404)
+/implante-de-dente/ /tratamentos/implante-dentario/ 301
+/higiene-dental-escovacao-dos-dentes/ /escovacao-dos-dentes/ 301
+/voce-pode-ter-problemas-nos-dentes-e-nao-saber/ /problemas-nos-dentes/ 301
+/dor-de-dente-3-principais-causas-e-tratamentos/ /dor-de-dente/ 301
+/por-que-extrair-o-siso-tire-suas-duvidas-sobre-essa-cirurgia/ /siso-porque-extrair/ 301
+/voce-ja-pensou-em-ter-um-sorriso-perfeito/ /sorriso-perfeito/ 301
+/day-clinic/ /tratamentos/ 301
+/informativos/ /blog/ 301
+/chupeta-odontologia/ /uso-da-chupeta-e-os-dentes-da-crianca/ 301
+/aftas/ /afta-saiba-tudo-sobre-ela/ 301
+/pos-operatorio-apos-uma-extracao-de-dente/ /extracao-de-dente/ 301
+/infografico-5-razoes-para-usar-faceta-de-porcelana/ /lente-de-contato-dental/ 301
+/biosseguranca/ /estrutura/ 302

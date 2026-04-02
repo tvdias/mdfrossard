@@ -1,58 +1,109 @@
 const fs = require('fs');
 const path = require('path');
 
-const baseDir = '/Users/davifrossard/Dropbox/My Mac (MacBook Pro de Davi)/Desktop/Site MD Frossard/mdfrossard';
-const postsDir = path.join(baseDir, 'source', '_posts');
-const files = fs.readdirSync(postsDir).filter(f => f.endsWith('.md'));
+const publicDir = path.join(process.cwd(), 'public');
+const files = [];
 
-const links = [];
-const routeRegex = /\[.*?\]\((.*?)\)/g;
+function getFiles(dir) {
+    if (!fs.existsSync(dir)) return;
+    const list = fs.readdirSync(dir);
+    list.forEach(file => {
+        const fullPath = path.join(dir, file);
+        const stat = fs.statSync(fullPath);
+        if (stat.isDirectory()) {
+            getFiles(fullPath);
+        } else if (file.endsWith('.html')) {
+            files.push(fullPath);
+        }
+    });
+}
 
-files.forEach(f => {
-  const content = fs.readFileSync(path.join(postsDir, f), 'utf-8');
-  let match;
-  while ((match = routeRegex.exec(content)) !== null) {
-    let url = match[1].split(' ')[0].split('"')[0]; // Handle cases like `](/img.jpg "title")`
-    if (url.startsWith('/')) {
-      links.push({ file: f, url });
-    }
-  }
-});
+const allPages = new Set();
+const allFiles = new Set();
 
-// Remove trailing slashes and hash
-const normalizedLinks = links.map(l => {
-  let u = l.url;
-  if(u.includes('#')) u = u.split('#')[0];
-  if(u.endsWith('/') && u.length > 1) u = u.slice(0, -1);
-  return { file: l.file, url: u, original: l.url };
-});
+function populateCollections(dir) {
+    if (!fs.existsSync(dir)) return;
+    const list = fs.readdirSync(dir);
+    list.forEach(file => {
+        const fullPath = path.join(dir, file);
+        const stat = fs.statSync(fullPath);
+        const rel = '/' + path.relative(publicDir, fullPath).split(path.sep).join('/');
+        
+        // Normalize to NFC for comparison
+        const normalizedRel = rel.normalize('NFC');
+        
+        if (stat.isDirectory()) {
+            allPages.add(normalizedRel + '/');
+            populateCollections(fullPath);
+        } else {
+            allFiles.add(normalizedRel);
+            if (file === 'index.html') {
+                allPages.add(normalizedRel.replace('index.html', ''));
+            }
+        }
+    });
+}
 
-const invalid = [];
+getFiles(publicDir);
+allPages.add('/');
+populateCollections(publicDir);
 
-normalizedLinks.forEach(l => {
-  // If image or file, check if it exists in source
-  if(l.url.includes('.')) {
-    const assetPath = path.join(baseDir, 'source', l.url);
-    if (!fs.existsSync(assetPath)) invalid.push(l);
-  } else {
-    // If route, check if source corresponding folder/index.ejs exists
-    // Examples: 
-    // /tratamentos/estetica -> source/tratamentos/estetica/index.md or source/tratamentos/estetica.md
-    // /equipe/davi -> source/equipe/davi/index.ejs etc
-    const urlParts = l.url.split('/').filter(Boolean);
-    if(urlParts.length === 0) return; // root
+const broken = [];
+
+// Load redirects
+const redirects = new Map();
+if (fs.existsSync('source/_redirects')) {
+    const lines = fs.readFileSync('source/_redirects', 'utf8').split('\n');
+    lines.forEach(line => {
+        const parts = line.trim().split(/\s+/);
+        if (parts.length >= 2) {
+            redirects.set(parts[0], parts[1]);
+        }
+    });
+}
+
+files.forEach(file => {
+    const content = fs.readFileSync(file, 'utf8');
+    const matches = content.matchAll(/href=["']([^"']+)["']/g);
     
-    // Simplistic check for Eleventy
-    const directMd = path.join(baseDir, 'source', ...urlParts) + '.md';
-    const directEjs = path.join(baseDir, 'source', ...urlParts) + '.ejs';
-    const indexMd = path.join(baseDir, 'source', ...urlParts, 'index.md');
-    const indexEjs = path.join(baseDir, 'source', ...urlParts, 'index.ejs');
-    const postMd = path.join(postsDir, urlParts[urlParts.length-1] + '.md');
-    
-    if(!fs.existsSync(directMd) && !fs.existsSync(directEjs) && !fs.existsSync(indexMd) && !fs.existsSync(indexEjs) && !fs.existsSync(postMd)) {
-       invalid.push(l);
+    for (const match of matches) {
+        const originalLink = match[1];
+        if (originalLink.startsWith('http') || originalLink.startsWith('//') || originalLink.startsWith('tel:') || originalLink.startsWith('mailto:') || originalLink.startsWith('whatsapp:') || originalLink.startsWith('#') || originalLink.startsWith('javascript:')) {
+            continue;
+        }
+        
+        let link = originalLink.split('#')[0].split('?')[0];
+        if (link === '') continue;
+
+        let resolvedLink;
+        if (link.startsWith('/')) {
+            resolvedLink = link;
+        } else {
+            const dir = '/' + path.relative(publicDir, path.dirname(file)).split(path.sep).join('/');
+            resolvedLink = path.posix.resolve(dir, link);
+        }
+        
+        let decodedLink;
+        try {
+            decodedLink = decodeURIComponent(resolvedLink).normalize('NFC');
+        } catch(e) {
+            decodedLink = resolvedLink.normalize('NFC');
+        }
+
+        if (!decodedLink.endsWith('/') && !path.extname(decodedLink)) {
+            decodedLink += '/';
+        }
+
+        if (!allPages.has(decodedLink) && !allFiles.has(decodedLink) && !allFiles.has(decodedLink.replace(/\/$/, '')) && !redirects.has(decodedLink)) {
+             broken.push({ source: '/' + path.relative(publicDir, file).split(path.sep).join('/'), target: originalLink, resolved: decodedLink });
+        }
     }
-  }
 });
 
-console.log(JSON.stringify(invalid, null, 2));
+const grouped = {};
+broken.forEach(b => {
+    if (!grouped[b.resolved]) grouped[b.resolved] = [];
+    grouped[b.resolved].push(b.source);
+});
+
+console.log(JSON.stringify(grouped, null, 2));
