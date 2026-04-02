@@ -13,7 +13,9 @@
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <% if (typeof google_fonts !== 'undefined' && google_fonts) { %>
+    <link href="https://fonts.googleapis.com/css2?family=<%= google_fonts %>&display=swap" rel="stylesheet">
+    <% } %>
     
     <%- open_graph({
       title: pageTitle,
