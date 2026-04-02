@@ -40,7 +40,7 @@ Nossa equipe é composta por profissionais que são referência em suas especial
 
 E o melhor? Todos são também experts em estética dental. Afinal, saúde e beleza podem (e devem) andar juntas!
 
-Conheça mais sobre a nossa [equipe](https://mdfrossard.com.br/equipe/)
+Conheça mais sobre a nossa [equipe](/equipe/)
 
 ## O Que Nossos Pacientes Dizem?
 
@@ -50,7 +50,7 @@ Se ainda restam dúvidas, veja mais alguns depoimentos que falam por si:
 
 "Atendimento impecável. Dr. Davi é um profissional perfeito, que utiliza tecnologias avançadas em todos os procedimentos. A segurança e confiança que ele me passou fizeram toda a diferença para mim. Sou uma pessoa extremamente exigente, e a clínica MD Frossard superou minhas expectativas." - Andréa Magalhães
 
-Veja mais [depoimentos](https://mdfrossard.com.br/depoimentos/) sobre o nosso tratalho
+Veja mais [depoimentos](/depoimentos/) sobre o nosso tratalho
 
 ## Onde Estamos?
 

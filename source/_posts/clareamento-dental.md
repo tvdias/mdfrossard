@@ -10,7 +10,7 @@ O **clareamento dental** é um tratamento estético muito realizado nos consult�
 
 Esse procedimento é ideal para quem deseja dentes mais brancos e uma aparência renovada, com resultados visíveis em pouco tempo.
 
-Portanto, você que deseja remover a [cor amarelada](https://mdfrossard.com.br/mancha-nos-dentes/)e mudar sua [estética](/tratamentos/estetica-dental/) sem grandes dificuldades, esse tratamento é o ideal. 
+Portanto, você que deseja remover a [cor amarelada](/mancha-nos-dentes/)e mudar sua [estética](/tratamentos/estetica-dental/) sem grandes dificuldades, esse tratamento é o ideal. 
 
 ## POR QUE O CLAREAMENTO DENTAL É TÃO POPULAR?
 

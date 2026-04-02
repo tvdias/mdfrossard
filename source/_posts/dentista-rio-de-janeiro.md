@@ -13,7 +13,7 @@ Diversas pessoas vem visitar e conhecer os encantos da cidade maravilhosa. Devid
 
 Se esse é o seu caso e você precise de um dentista no Rio de Janeiro, entre em contato conosco pelo telefone **(021) 3513-8479** ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) para marcar sua consulta.
 
-Nossa clínica odontológica na cidade do Rio de Janeiro possui mais de 37 anos de atendimento e possui dois endereços. Uma no bairro de [Botafogo](https://mdfrossard.com.br/dentista-em-botafogo/) e outra na [Barra da tijuca.](https://mdfrossard.com.br/dentista-barra-da-tijuca/)
+Nossa clínica odontológica na cidade do Rio de Janeiro possui mais de 37 anos de atendimento e possui dois endereços. Uma no bairro de [Botafogo](/dentista-em-botafogo/) e outra na [Barra da tijuca.](/dentista-barra-da-tijuca/)
 
 ## O que dizem sobre nossa clínica no Rio de Janeiro
 
@@ -43,9 +43,9 @@ O seu tratamento será realizado com alta performance, através de uma odontolog
 
 Buscando o melhor atendimento para o nosso cliente, possuímos duas clinica dentárias no rio de janeiro. 
 
-A primeira clinica esta localizada no bairro de [**Botafogo**](https://mdfrossard.com.br/dentista-em-botafogo/), ao lado da Cobal do Humaitá. 
+A primeira clinica esta localizada no bairro de [**Botafogo**](/dentista-em-botafogo/), ao lado da Cobal do Humaitá. 
 
-A segunda clinica fica na [**Barra da Tijuca**](https://mdfrossard.com.br/dentista-barra-da-tijuca/), no shopping Citta América. 
+A segunda clinica fica na [**Barra da Tijuca**](/dentista-barra-da-tijuca/), no shopping Citta América. 
 
 Ambas possuem toda a infra estrutura para você ter um dentista no Rio de Janeiro com qualidade e segurança.
 
@@ -53,9 +53,9 @@ Ambas possuem toda a infra estrutura para você ter um dentista no Rio de Janeir
 
 Para marcar uma consulta em nossas clínica no Rio de Janeiro, você pode ligar para o telefone **(021) 3513-8479** ou mande uma [mensagem via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803)
 
-Caso queira ver a localização das nossas clínicas, você pode [clicar aqui](https://mdfrossard.com.br/localizacao/) 
+Caso queira ver a localização das nossas clínicas, você pode [clicar aqui](/localizacao/) 
 
-Nossa clinica possui diversos tipos de [tratamentos](https://mdfrossard.com.br/tratamentos/implante-dentario/) e todos podem ser feitos no mesmo local. 
+Nossa clinica possui diversos tipos de [tratamentos](/tratamentos/implante-dentario/) e todos podem ser feitos no mesmo local. 
 
 Como tratamentos possuímos tratamentos:  
 

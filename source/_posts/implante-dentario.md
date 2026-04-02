@@ -186,7 +186,7 @@ O grande limitador é o torque do implante, ou seja, qual a força que o implant
 
 Assim, temos que esperar a osseointegração do implante que é em torno de 3 a 6 meses. 
 
-Para ler mais sobre a carga imediata é só clicar [nesse link.](https://mdfrossard.com.br/carga-imediata-em-implantes-dentarios/)
+Para ler mais sobre a carga imediata é só clicar [nesse link.](/carga-imediata-em-implantes-dentarios/)
 
 ---
 

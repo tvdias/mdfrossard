@@ -19,7 +19,7 @@ Nossa clínica esta localizado neste mesmo Bairro há mais 35 anos. Estamos loca
 
 A MD Frossard Odontologia é uma clínica odontológica antiga e familiar no Rio de Janeiro. Com 38 anos de atendimento no bairro de Botafogo sempre levamos o melhor para nosso paciente.
 
-Nosso [equipe](https://mdfrossard.com.br/equipe/) possui diversos profissionais e são liderados pelos dentistas **Marcos e Davi Frossard.** 
+Nosso [equipe](/equipe/) possui diversos profissionais e são liderados pelos dentistas **Marcos e Davi Frossard.** 
 
 Temos o conceito moderno da odontologia, visando a saúde completa do indivíduo e não somente os dentes. Por isso focamos nosso atendimento na alta perfomance,  através de uma odontologia contemporânea focada em 3 pilares : **Relacionamento, confiança e pontualidade.** 
 
@@ -31,9 +31,9 @@ Para isso, temos um amplo espaço para o atendimentode diversars especialidades,
 - Tratamento de gengiva ; 
 - Entre outros.  
 
-Caso precise de um **dentista em Botafogo** entre em contato conosco, basta clicar aqui e ver os nossos [contatos.](https://mdfrossard.com.br/contato/) 
+Caso precise de um **dentista em Botafogo** entre em contato conosco, basta clicar aqui e ver os nossos [contatos.](/contato/) 
 
-O nosso endereço fica na Rua Marques número 15. Para ver a nossa exata localização, [clique aqui.](https://mdfrossard.com.br/localizacao/)
+O nosso endereço fica na Rua Marques número 15. Para ver a nossa exata localização, [clique aqui.](/localizacao/)
 
 ## O que dizem sobre a nossa clínica odontológica em Botafogo
 
@@ -55,7 +55,7 @@ O nosso endereço fica na Rua Marques número 15. Para ver a nossa exata localiz
  
 - - - 
 
-Veja mais [depoimentos](https://mdfrossard.com.br/depoimentos/) sobre o nosso atendimento na clínica de Botafogo. 
+Veja mais [depoimentos](/depoimentos/) sobre o nosso atendimento na clínica de Botafogo. 
 
 
 ## Precisa marcar um atendimento com um dentista em Botafogo?
@@ -68,6 +68,6 @@ Caso ainda tenha dúvidas, ligue para nós ou deixe seu comentário no post.
 
 Nosso atendimento é individual e portanto com hora marcada e sem atraso. Caso necessite de um **dentista em Botafogo** ligue para (021) 3513-8479 para nós que estaremos a sua disposição para atendimento.
 
-Caso você precise de um [dentista na Barra da Tijuca](https://mdfrossard.com.br/dentista-barra-da-tijuca/), também possuimos uma unidade nesse bairro. Nela contamos com toda a infra-estrutura que você precisa. 
+Caso você precise de um [dentista na Barra da Tijuca](/dentista-barra-da-tijuca/), também possuimos uma unidade nesse bairro. Nela contamos com toda a infra-estrutura que você precisa. 
 
 Att, MD frossard Odontologia

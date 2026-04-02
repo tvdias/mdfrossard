@@ -183,7 +183,7 @@ Por isso, é super importante o correto diagnóstico da alteração de cor nos d
 
 Em nossa clínica realizamos os diversos procedimentos listados acima para melhorar a estética do seu sorriso. 
 
-Estamos presentes na cidade do Rio de janeiros, nos Bairros da [Barra da Tijuca](https://mdfrossard.com.br/dentista-barra-da-tijuca/) e [Botafogo.](https://mdfrossard.com.br/dentista-em-botafogo/) 
+Estamos presentes na cidade do Rio de janeiros, nos Bairros da [Barra da Tijuca](/dentista-barra-da-tijuca/) e [Botafogo.](/dentista-em-botafogo/) 
 
 Ligue para nós para saber mais. 
 

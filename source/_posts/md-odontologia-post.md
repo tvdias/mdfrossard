@@ -19,7 +19,7 @@ Nossa trajetória de quase quatro décadas reflete o compromisso com a qualidade
 
 ![equipe dentistas na barra da tijuca](/images/uploads/2024/equipe_md_completa.webp)   
 
-Na MD Odontologia, você encontra uma [equipe](https://mdfrossard.com.br/equipe/) formada por profissionais de destaque no cenário odontológico, reconhecidos tanto por sua experiência quanto por sua dedicação. Nosso time é composto pelos especialistas:
+Na MD Odontologia, você encontra uma [equipe](/equipe/) formada por profissionais de destaque no cenário odontológico, reconhecidos tanto por sua experiência quanto por sua dedicação. Nosso time é composto pelos especialistas:
 
 - Dr. Marcos Frossard – Especialista em prótese. Com anos de prática e uma vasta experiência em reabilitações orais, o Dr. Marcos combina conhecimento técnico com um atendimento humanizado para devolver funcionalidade e estética aos sorrisos de seus pacientes.
 - Dr. Davi Frossard – Especialista em implantes e prótese. Dr. Davi é referência em procedimentos de implantodontia, oferecendo tratamentos modernos e personalizados. Sua abordagem atenciosa e detalhista faz com que cada paciente se sinta seguro e confiante em seu tratamento.
@@ -31,7 +31,7 @@ Além disso, todos os nossos profissionais são capacitados para transformar sor
 
 Com duas unidades modernas, a MD Odontologia oferece conforto, tecnologia e infraestrutura pensada para proporcionar uma experiência única aos nossos pacientes. 
 
-Seja na Barra da Tijuca ou em Botafogo, cada consulta é planejada para atender às necessidades individuais, promovendo um ambiente acolhedor e seguro. Confira mais sobre nossa infraestrutura [aqui.](https://mdfrossard.com.br/estrutura/)
+Seja na Barra da Tijuca ou em Botafogo, cada consulta é planejada para atender às necessidades individuais, promovendo um ambiente acolhedor e seguro. Confira mais sobre nossa infraestrutura [aqui.](/estrutura/)
 
 ## Compromisso com a Satisfação dos Pacientes
 
@@ -41,7 +41,7 @@ O cuidado que dedicamos aos nossos pacientes é reconhecido em cada depoimento.
 
 Marli Curi Goulart compartilha:"Já fiz vários procedimentos dentários, tanto implantes como cirurgias de enxerto, todos com excelentes resultados. Equipe carinhosa e profissional. Dr. Davi, além de profissional competente, tem sido muito atencioso e disponível em várias situações dos meus tratamentos. Já são quase dez anos de acompanhamento, sempre tudo de acordo com o previsto. Muito grata a todos!" 
 
-[Confira mais depoimentos de pacientes.](https://mdfrossard.com.br/depoimentos/)
+[Confira mais depoimentos de pacientes.](/depoimentos/)
 
 ## Agende Sua Consulta Hoje Mesmo
 

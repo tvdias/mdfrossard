@@ -15,7 +15,7 @@ Nossa missão é proporcionar aos pacientes mais do que sorrisos bonitos: querem
 
 ![equipe dentistas na barra da tijuca](/images/uploads/2024/equipe_md_completa.webp)   
 
-Contamos com uma equipe de especialista, capacitados para atuar em todas as [áreas da odontologia](https://mdfrossard.com.br/tratamentos/implante-dentario/), como ortodontia, implantodontia, estética dental, endodontia e muito mais. Além disso, nossa infraestrutura moderna foi projetada para oferecer conforto, segurança e tecnologia, garantindo resultados de excelência em todos os procedimentos realizados. 
+Contamos com uma equipe de especialista, capacitados para atuar em todas as [áreas da odontologia](/tratamentos/implante-dentario/), como ortodontia, implantodontia, estética dental, endodontia e muito mais. Além disso, nossa infraestrutura moderna foi projetada para oferecer conforto, segurança e tecnologia, garantindo resultados de excelência em todos os procedimentos realizados. 
 
 Na nossa clínica, cada atendimento é único, porque acreditamos que cada sorriso tem uma história especial para contar. Se você procura **dentistas na Barra da Tijuca** com atendimento de alto padrão, estamos prontos para cuidar de você.
 
@@ -27,7 +27,7 @@ O diferencial da nossa clínica também está no reconhecimento de nossos pacien
 Outro paciente, **Clau**, destaca:
 "Após diversas pesquisas, optei por consultar os doutores Marcus Frossard e David Frossard. Profissionais altamente qualificados que me transmitiram segurança e tranquilidade. Além disso, a estrutura física e os recursos tecnológicos da clínica são impecáveis, garantindo atendimento de excelência."
 
-Confira mais avaliações e depoimentos de pacientes em nossa página de [depoimentos.](https://mdfrossard.com.br/depoimentos/)
+Confira mais avaliações e depoimentos de pacientes em nossa página de [depoimentos.](/depoimentos/)
 
 ## Compromisso com Qualidade e Inovação
 

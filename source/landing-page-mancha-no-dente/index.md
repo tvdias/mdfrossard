@@ -21,13 +21,13 @@ layout: false
 <meta property="og:site_name" content="MD Frossard" />
 <meta property="article:publisher" content="https://www.facebook.com/MdFrossardOdontologia/" />
 <meta property="og:image" content="" />
-<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"https://mdfrossard.com.br/","sameAs":["https://www.facebook.com/MdFrossardOdontologia/","https://www.instagram.com/md_frossard_odontologia/"],"@id":"https://mdfrossard.com.br/#organization","name":"MD Frossard Odontologia","logo":"https://www.mdfrossard.com.br/wp-content/uploads/2018/03/logo-MD.jpg"}</script>
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"/","sameAs":["https://www.facebook.com/MdFrossardOdontologia/","https://www.instagram.com/md_frossard_odontologia/"],"@id":"/#organization","name":"MD Frossard Odontologia","logo":"https://www.mdfrossard.com.br/wp-content/uploads/2018/03/logo-MD.jpg"}</script>
 
 <link rel='dns-prefetch' href='//www.google.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel="alternate" type="application/rss+xml" title="Feed para MD Frossard" href="https://mdfrossard.com.br/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Feed de comentários para MD Frossard" href="https://mdfrossard.com.br/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Feed de comentários para MD Frossard Mancha no Dente &#8211; Ebook" href="https://mdfrossard.com.br/landing-page-mancha-no-dente/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed para MD Frossard" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para MD Frossard" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para MD Frossard Mancha no Dente &#8211; Ebook" href="/landing-page-mancha-no-dente/feed/" />
 <link rel='stylesheet' id='wp-block-library-css'  href='//mdfrossard.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3' type='text/css' media='all' />
 <link rel='stylesheet' id='contact-form-7-css'  href='//mdfrossard.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1' type='text/css' media='all' />
 <link rel='stylesheet' id='tp-opensans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C600%2C700&#038;ver=5.0.3' type='text/css' media='all' />
@@ -67,7 +67,7 @@ var OptimizePress = {"ajaxurl":"https:\/\/mdfrossard.com.br\/wp-admin\/admin-aja
 <div id="5c3cb710e3bd0" class="optin-box optin-box-11" style=" width: 450px; margin-top: 15px;margin-right: auto;margin-left: auto;">
 	<p class="description"><span style="font-family: 'book antiqua', palatino, serif;"><span style="text-decoration: underline;"><span style="font-size: 14pt;"><strong>Deixe</strong></span></span><span style="text-decoration: underline;"><span style="font-size: 14pt;"><strong> seu Nome e Email abaixo para acessar Seu ebook </strong></span></span></span></p>
 <form action="//mdfrossard.us7.list-manage.com/subscribe/post?u=b69d3e1d6bf4b4ea07153ab27&id=5f07a5aaeb" method="post" id="mc-embedded-subscribe-form" class="cf op-optin-validation"><div style="display:none"><input type="hidden" name="group[10033]" value="1" /><input type="hidden" name="b_b69d3e1d6bf4b4ea07153ab27_5f07a5aaeb" value="" /><input type="hidden" name="subscribe" value="Subscribe" /><input type="hidden" name="redirect_url" value="//mdfrossard.us7.list-manage.com/subscribe/post?u=b69d3e1d6bf4b4ea07153ab27&id=5f07a5aaeb" /><input type="hidden" name="email_field" value="EMAIL" /></div><div class="text-box email"><input type="email" required="required" name="EMAIL" placeholder="Coloque seu email principal" value="" /></div><div class="text-box name"><input type="text" required="required" name="NOME" placeholder="Coloque seu primeiro nome" value="" /></div><input type="hidden" id="op_optin_nonce" name="op_optin_nonce" value="2d745b0c9f" /><input type="hidden" name="_wp_http_referer" value="/landing-page-mancha-no-dente/" /><button type="submit" class="default-button"><span>Obtenha seu Ebook !!</span></button>	</form>
-	<p class="privacy">Nós valorizamos sua privacidade e nunca enviamos spam .</p></div> </div></div><div class="element-container cf" data-style="" id="le_body_row_1_col_2_el_2"><div class="element"> <div class="arrow-center"><img width="287" height="167" src="https://mdfrossard.com.br/wp-content/plugins/optimizePressPlugin/lib/assets/images/arrows/arrow-blue-2.webp" class="arrows" alt="arrow" / loading="lazy" decoding="async"></div> </div></div></div></div></div></div>        <div class="full-width footer small-footer-text">
+	<p class="privacy">Nós valorizamos sua privacidade e nunca enviamos spam .</p></div> </div></div><div class="element-container cf" data-style="" id="le_body_row_1_col_2_el_2"><div class="element"> <div class="arrow-center"><img width="287" height="167" src="/wp-content/plugins/optimizePressPlugin/lib/assets/images/arrows/arrow-blue-2.webp" class="arrows" alt="arrow" / loading="lazy" decoding="async"></div> </div></div></div></div></div></div>        <div class="full-width footer small-footer-text">
             <div id="footer_area" class=""></div>            <div class="row">
                 <div class="fixed-width">
                 
