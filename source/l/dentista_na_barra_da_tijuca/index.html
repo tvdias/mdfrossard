@@ -104,7 +104,7 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
         line-height: 1.1;
         margin-bottom: 16px;
         letter-spacing: -1px;
-        text-align: justify;
+        text-align: center;
     }
 
     .hero-copy .tagline {
@@ -196,7 +196,7 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
         max-width: 720px;
         margin: 0 auto 64px;
         line-height: 1.3;
-        text-align: justify;
+        text-align: center;
     }
 
     .testi-grid {
@@ -271,7 +271,7 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
         color: #000;
         margin-bottom: 28px;
         line-height: 1.2;
-        text-align: justify;
+        text-align: center;
     }
 
     .about-copy p {
@@ -306,7 +306,7 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
         font-size: clamp(1.8rem, 3vw, 2.6rem);
         color: var(--white);
         margin-bottom: 56px;
-        text-align: justify;
+        text-align: center;
     }
 
     .gallery-grid {
@@ -339,13 +339,28 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
 
     .digital-copy { flex: 1; }
 
-    .digital-copy h2 {
+    .section-title, .hero-body-title {
+        width: 100%;
+        text-align: center;
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .section-title h2, .hero-body-title h1 {
         font-family: 'Outfit', sans-serif;
         font-weight: 700;
         font-size: clamp(1.8rem, 3vw, 2.6rem);
         color: #000;
-        margin-bottom: 20px;
-        text-align: justify;
+        margin-bottom: 40px;
+        text-align: center;
+        display: inline-block;
+    }
+
+    .hero-body-title h1 {
+        font-size: clamp(2.2rem, 5vw, 3.8rem);
+        margin-bottom: 24px;
+        letter-spacing: -1px;
+        font-weight: 800;
     }
 
     .digital-copy p { color: var(--muted); margin-bottom: 28px; font-size: 1.05rem; }
@@ -367,7 +382,7 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
         font-family: 'Outfit', sans-serif;
         font-weight: 700;
         font-size: clamp(1.8rem, 3vw, 2.6rem);
-        text-align: justify;
+        text-align: center;
         margin-bottom: 56px;
     }
 
@@ -479,9 +494,12 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
                  alt="MD Frossard Odontologia" class="hero-logo" width="280" height="auto" loading="eager">
         </div>
 
+        <div class="hero-body-title">
+            <h1>Dentista na Barra da Tijuca</h1>
+        </div>
+
         <div class="hero-body">
             <div class="hero-copy">
-                <h1>Dentista na Barra da Tijuca</h1>
                 <p class="tagline">Seu sorriso é único — seu tratamento também.</p>
                 <p class="intro">Na MD Frossard Odontologia, oferecemos um atendimento completo e personalizado, com foco total no seu conforto e bem-estar.</p>
 
@@ -555,9 +573,11 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
 <!-- ═══ SOBRE A CLÍNICA ═══ -->
 <section class="about">
     <div class="container">
+        <div class="section-title">
+            <h2>Dentista na Barra da Tijuca</h2>
+        </div>
         <div class="about-grid">
             <div class="about-copy">
-                <h2>Dentista na Barra da Tijuca</h2>
                 <p>A MD Frossard Odontologia atua há 38 anos no Rio de Janeiro, unindo experiência, tecnologia e atendimento de alto padrão.</p>
                 <p>Dirigida pelos especialistas Dr. Marcos Frossard, Dr. Davi Frossard e Dra. Luciana Peroni, oferecemos um cuidado personalizado para quem busca um dentista na Barra da Tijuca.</p>
                 <p>Com foco em relacionamento, confiança e pontualidade, entregamos conforto, estética e resultados que transformam sorrisos. Nossa estrutura moderna e acolhedora garante uma experiência diferenciada do início ao fim.</p>
@@ -567,8 +587,8 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
             </div>
             <div class="about-img-wrap">
                 <picture>
-                    <source srcset="img/scanner.webp" type="image/webp">
-                    <img src="img/scanner.jpg" alt="Equipe MD Frossard" class="about-img"
+                    <source srcset="img/equipe.webp" type="image/webp">
+                    <img src="img/equipe.jpg" alt="Equipe MD Frossard" class="about-img"
                          width="584" height="389" loading="lazy" decoding="async">
                 </picture>
             </div>
@@ -598,9 +618,11 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
 <!-- ═══ ODONTOLOGIA DIGITAL ═══ -->
 <section class="digital">
     <div class="container">
+        <div class="section-title">
+            <h2>Conheça a Odontologia Digital</h2>
+        </div>
         <div class="digital-grid">
             <div class="digital-copy">
-                <h2>Conheça a Odontologia Digital</h2>
                 <p>iTero® é o scanner intraoral mais moderno no mundo! Criado para auxiliar o dentista nos diagnósticos e nos planos de tratamento, além de elevar a odontologia a um nível muito mais moderno.</p>
                 <p>Com ele, conseguimos criar uma cópia digital de toda sua boca, registrando dentes tortos ou quebrados, cáries, próteses, posição de mordida, etc.</p>
                 <p>A partir daí, fica muito mais fácil entender diagnósticos e planejar os próximos passos. Ligue e marque a sua consulta na nossa clínica.</p>
@@ -608,8 +630,8 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
             </div>
             <div class="digital-img-wrap">
                 <picture>
-                    <source srcset="img/equipe.webp" type="image/webp">
-                    <img src="img/equipe.jpg" alt="Odontologia Digital Scanner iTero"
+                    <source srcset="img/scanner.webp" type="image/webp">
+                    <img src="img/scanner.jpg" alt="Odontologia Digital Scanner iTero"
                          class="digital-img" width="800" height="533" loading="lazy" decoding="async">
                 </picture>
             </div>
@@ -702,10 +724,11 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
     <div class="container">
         <div class="lp-footer-grid">
             <div class="lp-footer-brand">
-                <img src="/images/logo_branco.webp" alt="MD Frossard Logo" class="lp-footer-logo" decoding="async">
+                <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=392,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/snqIBuQv10WiZfyYSGUHhA.png" 
+                     alt="MD Frossard Logo" class="lp-footer-logo" decoding="async">
                 <div class="lp-social">
                     <a href="https://api.whatsapp.com/send?phone=55021976637803" class="lp-wpp-btn">
-                        <i data-lucide="message-circle"></i>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-message-circle"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg>
                         WhatsApp
                     </a>
                 </div>
@@ -777,7 +800,7 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
         transition: background 0.2s, color 0.2s;
     }
 
-    .lp-wpp-btn i { width: 20px; height: 20px; }
+    .lp-wpp-btn svg { width: 20px; height: 20px; }
     .lp-wpp-btn:hover { background: #25D366; color: #fff; }
 
     .lp-footer-clinic { text-align: center; }
