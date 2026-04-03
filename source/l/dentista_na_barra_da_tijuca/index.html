@@ -624,6 +624,42 @@ canonical: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca/"
 
     .digital-copy p { color: var(--muted); margin-bottom: 28px; font-size: 1.05rem; }
 
+    .digital-badge {
+        display: inline-block;
+        font-size: 0.82rem;
+        font-weight: 700;
+        color: #8a6800;
+        background: linear-gradient(135deg, rgba(247,209,107,.35) 0%, rgba(212,160,23,.2) 100%);
+        border: 1px solid rgba(212,160,23,.4);
+        border-radius: 50px;
+        padding: 6px 16px;
+        margin-bottom: 18px;
+        letter-spacing: .4px;
+        text-transform: uppercase;
+    }
+
+    .digital-benefits {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        margin-bottom: 32px;
+    }
+
+    .digital-benefits li {
+        font-family: 'Inter', sans-serif;
+        font-size: 1rem;
+        color: #374151;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        background: #fff;
+        border: 1px solid rgba(212,160,23,.18);
+        border-radius: 10px;
+        padding: 12px 16px;
+        box-shadow: 0 1px 4px rgba(0,0,0,.04);
+    }
+
     .digital-img-wrap { flex: 1; width: 100%; }
 
     .digital-img {
@@ -1179,12 +1215,16 @@ canonical: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca/"
     <div class="container">
         <div class="digital-grid">
             <div class="digital-copy reveal">
-                <h2>Conheça a Odontologia Digital</h2>
-                <p>iTero® é o scanner intraoral mais moderno no mundo! Criado para auxiliar o dentista nos diagnósticos e nos planos de tratamento, além de elevar a odontologia a um nível muito mais moderno.</p>
-                <p>Com ele, conseguimos criar uma cópia digital de toda sua boca, registrando dentes tortos ou quebrados, cáries, próteses, posição de mordida, etc.</p>
-                <p>A partir daí, fica muito mais fácil entender diagnósticos e planejar os próximos passos.</p>
-                <p>Você merece um tratamento moderno, sem desconforto e com resultado. Agende e descubra.</p>
-                <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Marque Sua Consulta</a>
+                <span class="digital-badge">🏆 Tecnologia Exclusiva na Barra da Tijuca</span>
+                <h2>Chega de Moldagem Desconfortável</h2>
+                <p>Com o scanner iTero®, criamos uma cópia digital completa da sua boca em minutos — sem aquele gel desconfortável e com muito mais precisão.</p>
+                <ul class="digital-benefits">
+                    <li><span class="digital-check">✅</span> Sem moldagem com aquele gel desconfortável</li>
+                    <li><span class="digital-check">✅</span> Diagnóstico mais preciso em minutos</li>
+                    <li><span class="digital-check">✅</span> Você vê o plano do tratamento antes de começar</li>
+                    <li><span class="digital-check">✅</span> Resultados mais previsíveis e seguros</li>
+                </ul>
+                <a href="https://api.whatsapp.com/send?phone=55021976637803" class="btn btn-gold">Agende e Conheça de Perto</a>
             </div>
             <div class="digital-img-wrap reveal">
                 <picture>
