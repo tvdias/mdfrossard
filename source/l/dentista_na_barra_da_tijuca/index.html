@@ -99,13 +99,16 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
     .hero-copy h1 {
         font-family: 'Outfit', sans-serif;
         font-weight: 800;
-        font-size: clamp(2.2rem, 5vw, 3.6rem);
+        font-size: clamp(1.8rem, 4vw, 2.8rem);
         color: #0a0a0a;
         line-height: 1.1;
-        margin-bottom: 16px;
+        margin-bottom: 24px;
         letter-spacing: -1px;
         text-align: center;
     }
+
+    .hero-copy { text-align: center; }
+    .hero-cta { display: flex; flex-direction: column; align-items: center; gap: 16px; }
 
     .hero-copy .tagline {
         font-size: clamp(1rem, 2vw, 1.25rem);
@@ -262,14 +265,14 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
         align-items: flex-start;
     }
 
-    .about-copy { flex: 1; }
+    .about-copy { flex: 1; text-align: center; }
 
     .about-copy h2 {
         font-family: 'Outfit', sans-serif;
         font-weight: 700;
-        font-size: clamp(1.8rem, 3vw, 2.6rem);
+        font-size: clamp(1.6rem, 2.5vw, 2.2rem);
         color: #000;
-        margin-bottom: 28px;
+        margin-bottom: 24px;
         line-height: 1.2;
         text-align: center;
     }
@@ -281,6 +284,8 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
         line-height: 1.8;
         max-width: 560px;
         font-family: 'Inter', sans-serif;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .about-img-wrap { flex: 1; width: 100%; }
@@ -336,31 +341,18 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
         gap: 60px;
         align-items: center;
     }
-
-    .digital-copy { flex: 1; }
-
-    .section-title, .hero-body-title {
-        width: 100%;
+    .digital-copy {
+        flex: 1;
         text-align: center;
-        display: block;
-        margin-bottom: 20px;
     }
 
-    .section-title h2, .hero-body-title h1 {
+    .digital-copy h2 {
         font-family: 'Outfit', sans-serif;
         font-weight: 700;
-        font-size: clamp(1.8rem, 3vw, 2.6rem);
+        font-size: clamp(1.6rem, 2.5vw, 2.2rem);
         color: #000;
-        margin-bottom: 40px;
-        text-align: center;
-        display: inline-block;
-    }
-
-    .hero-body-title h1 {
-        font-size: clamp(2.2rem, 5vw, 3.8rem);
         margin-bottom: 24px;
-        letter-spacing: -1px;
-        font-weight: 800;
+        text-align: center;
     }
 
     .digital-copy p { color: var(--muted); margin-bottom: 28px; font-size: 1.05rem; }
@@ -494,12 +486,9 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
                  alt="MD Frossard Odontologia" class="hero-logo" width="280" height="auto" loading="eager">
         </div>
 
-        <div class="hero-body-title">
-            <h1>Dentista na Barra da Tijuca</h1>
-        </div>
-
         <div class="hero-body">
             <div class="hero-copy">
+                <h1>Dentista na Barra da Tijuca</h1>
                 <p class="tagline">Seu sorriso é único — seu tratamento também.</p>
                 <p class="intro">Na MD Frossard Odontologia, oferecemos um atendimento completo e personalizado, com foco total no seu conforto e bem-estar.</p>
 
@@ -573,11 +562,9 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
 <!-- ═══ SOBRE A CLÍNICA ═══ -->
 <section class="about">
     <div class="container">
-        <div class="section-title">
-            <h2>Dentista na Barra da Tijuca</h2>
-        </div>
         <div class="about-grid">
             <div class="about-copy">
+                <h2>Dentista na Barra da Tijuca</h2>
                 <p>A MD Frossard Odontologia atua há 38 anos no Rio de Janeiro, unindo experiência, tecnologia e atendimento de alto padrão.</p>
                 <p>Dirigida pelos especialistas Dr. Marcos Frossard, Dr. Davi Frossard e Dra. Luciana Peroni, oferecemos um cuidado personalizado para quem busca um dentista na Barra da Tijuca.</p>
                 <p>Com foco em relacionamento, confiança e pontualidade, entregamos conforto, estética e resultados que transformam sorrisos. Nossa estrutura moderna e acolhedora garante uma experiência diferenciada do início ao fim.</p>
@@ -618,11 +605,9 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
 <!-- ═══ ODONTOLOGIA DIGITAL ═══ -->
 <section class="digital">
     <div class="container">
-        <div class="section-title">
-            <h2>Conheça a Odontologia Digital</h2>
-        </div>
         <div class="digital-grid">
             <div class="digital-copy">
+                <h2>Conheça a Odontologia Digital</h2>
                 <p>iTero® é o scanner intraoral mais moderno no mundo! Criado para auxiliar o dentista nos diagnósticos e nos planos de tratamento, além de elevar a odontologia a um nível muito mais moderno.</p>
                 <p>Com ele, conseguimos criar uma cópia digital de toda sua boca, registrando dentes tortos ou quebrados, cáries, próteses, posição de mordida, etc.</p>
                 <p>A partir daí, fica muito mais fácil entender diagnósticos e planejar os próximos passos. Ligue e marque a sua consulta na nossa clínica.</p>
