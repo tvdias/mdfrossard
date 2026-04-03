@@ -760,18 +760,18 @@ canonical: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca/"
     /* ── CLÍNICA INFO (Endereço & Horários) ── */
     .clinica-info {
         background: var(--cream);
-        padding: 80px 0;
+        padding: 40px 0;
     }
 
     .clinica-info-inner {
         display: flex;
         flex-direction: column;
-        gap: 40px;
+        gap: 24px;
         align-items: flex-start;
         background: var(--white);
         border-radius: 20px;
         box-shadow: var(--shadow-md);
-        padding: 48px 40px;
+        padding: 28px 20px;
         border: 1px solid rgba(212,160,23,.15);
     }
 
@@ -781,15 +781,15 @@ canonical: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca/"
     }
 
     .clinica-info-icon-wrap {
-        width: 52px;
-        height: 52px;
+        width: 40px;
+        height: 40px;
         background: linear-gradient(135deg, rgba(247,209,107,.25) 0%, rgba(212,160,23,.15) 100%);
         border: 1px solid rgba(212,160,23,.3);
-        border-radius: 14px;
+        border-radius: 12px;
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-bottom: 16px;
+        margin-bottom: 10px;
         color: var(--gold-dark);
     }
 
@@ -883,11 +883,18 @@ canonical: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca/"
     }
 
     @media (min-width: 960px) {
+        .clinica-info { padding: 80px 0; }
         .clinica-info-inner {
             flex-direction: row;
             gap: 0;
             align-items: flex-start;
             padding: 56px 60px;
+        }
+        .clinica-info-icon-wrap {
+            width: 52px;
+            height: 52px;
+            border-radius: 14px;
+            margin-bottom: 16px;
         }
         .clinica-info-col { padding: 0 40px; }
         .clinica-info-col:first-child { padding-left: 0; }
