@@ -654,7 +654,6 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
         <div class="lp-footer-grid">
             <div class="lp-footer-brand">
                 <img src="/images/logo_branco.webp" alt="MD Frossard Logo" class="lp-footer-logo" decoding="async">
-                <p>EPAO - 3415<br>Responsável Técnico: Davi H. Frossard CRO 36193</p>
                 <div class="lp-social">
                     <a href="https://api.whatsapp.com/send?phone=55021976637803" class="lp-wpp-btn">
                         <i data-lucide="message-circle"></i>
@@ -676,6 +675,10 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
                 <p><i data-lucide="phone" class="icon-xs"></i> <span><a href="tel:2132170430">(21) 3217-0430</a><br><a href="tel:21976637803">(21) 97663-7803</a></span></p>
                 <a href="https://www.google.com.br/maps/place/Rua+Marques,+15+-+Humait%C3%A1,+Rio+de+Janeiro" target="_blank" rel="noopener" class="lp-text-link">Ver no Mapa <i data-lucide="external-link" class="icon-xs"></i></a>
             </div>
+        </div>
+
+        <div class="lp-footer-technical">
+            <p>EPAO - 3415<br>Responsável Técnico: Davi H. Frossard CRO 36193</p>
         </div>
 
         <div class="lp-footer-bottom">
@@ -703,11 +706,11 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
         margin-bottom: 60px;
     }
 
-    .lp-footer-logo { height: 75px; margin-bottom: 24px; }
+    .lp-footer-logo { height: 75px; margin: 0 auto 24px; display: block; }
 
-    .lp-footer-brand p { margin-bottom: 24px; }
+    .lp-footer-brand { text-align: center; margin-bottom: 32px; }
 
-    .lp-social { margin-top: 8px; }
+    .lp-social { margin-top: 8px; display: flex; justify-content: center; }
 
     .lp-wpp-btn {
         display: inline-flex;
@@ -728,6 +731,8 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
     .lp-wpp-btn i { width: 20px; height: 20px; }
     .lp-wpp-btn:hover { background: #25D366; color: #fff; }
 
+    .lp-footer-clinic { text-align: center; }
+
     .lp-footer-clinic h3 {
         color: #fff;
         font-size: 1.15rem;
@@ -740,8 +745,10 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
         margin-bottom: 16px;
         display: flex;
         align-items: flex-start;
+        justify-content: center;
         gap: 12px;
         font-size: 0.95rem;
+        text-align: left; /* mantém o texto alinhado com o ícone, mas o bloco centralizado no mobile */
     }
 
     .lp-footer-clinic .icon-xs {
@@ -762,6 +769,7 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
     .lp-text-link {
         display: inline-flex;
         align-items: center;
+        justify-content: center;
         gap: 6px;
         color: rgba(255,255,255,0.6) !important;
         font-size: 0.88rem;
@@ -771,6 +779,18 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
 
     .lp-text-link .icon-xs { width: 14px; height: 14px; }
 
+    .lp-footer-technical {
+        text-align: center;
+        margin-bottom: 40px;
+        padding: 0 20px;
+    }
+
+    .lp-footer-technical p {
+        font-size: 0.85rem;
+        line-height: 1.6;
+        color: rgba(255,255,255,0.5) !important;
+    }
+
     .lp-footer-bottom {
         padding-top: 24px;
         border-top: 1px solid rgba(255,255,255,0.1);
@@ -779,12 +799,21 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
 
     .lp-footer-bottom p { font-size: 0.85rem; color: rgba(255,255,255,0.5) !important; }
 
-    @media (min-width: 768px) {
-        .lp-footer-grid { grid-template-columns: repeat(2, 1fr); }
-    }
-
     @media (min-width: 1024px) {
-        .lp-footer-grid { grid-template-columns: 2fr 1.5fr 1.5fr; }
+        .lp-footer-grid { grid-template-columns: 2fr 1.5fr 1.5fr; gap: 60px; }
+        .lp-footer-brand { text-align: left; margin-bottom: 0; }
+        .lp-footer-logo { margin: 0 0 24px 0; }
+        .lp-social { justify-content: flex-start; }
+        .lp-footer-clinic { text-align: left; }
+        .lp-footer-clinic p { justify-content: flex-start; }
+        .lp-text-link { justify-content: flex-start; }
+        
+        .lp-footer-technical {
+            text-align: left;
+            margin-top: -40px; /* puxa para cima no desktop para ficar sob o logo/wpp */
+            margin-bottom: 40px;
+            max-width: 300px;
+        }
     }
 </style>
 
