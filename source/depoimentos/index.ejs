@@ -42,6 +42,27 @@ description: Veja Histórias Reais de pacientes da Clínica MD Frossard Odontolo
             </div>
             <% }) %>
         </div>
+
+        <!-- Google Reviews CTA -->
+        <div class="text-center mt-5 pt-5 reveal">
+            <div class="google-reviews-box p-5 bg-white rounded-box shadow-sm">
+                <div class="d-flex flex-column align-items-center">
+                    <div class="google-icon-wrapper mb-3">
+                        <i data-lucide="star" class="icon-lg text-warning"></i>
+                        <i data-lucide="star" class="icon-lg text-warning"></i>
+                        <i data-lucide="star" class="icon-lg text-warning"></i>
+                        <i data-lucide="star" class="icon-lg text-warning"></i>
+                        <i data-lucide="star" class="icon-lg text-warning"></i>
+                    </div>
+                    <h3>Gostou do nosso atendimento?</h3>
+                    <p class="mb-4">Sua avaliação no Google é fundamental para nós. Confira o que dizem mais de 100 pacientes sobre nossa unidade na Barra da Tijuca.</p>
+                    <a href="https://www.google.com/maps/place/MD+Frossard+Odontologia/@-23.002267,-43.3225709,17z" target="_blank" rel="noopener" class="btn btn-primary btn-lg d-inline-flex align-items-center gap-2">
+                        <i data-lucide="map-pin" class="icon-sm"></i>
+                        <span>Ver Avaliações no Google Maps (Barra)</span>
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 
@@ -53,5 +74,18 @@ description: Veja Histórias Reais de pacientes da Clínica MD Frossard Odontolo
 }
 .testimonial-text {
     flex-grow: 1;
+}
+.google-reviews-box {
+    border-radius: 20px;
+    border: 1px solid rgba(0,0,0,0.05);
+    transition: transform 0.3s ease;
+    max-width: 700px;
+    margin: 0 auto;
+}
+.google-reviews-box:hover {
+    transform: translateY(-5px);
+}
+.rounded-box {
+    border-radius: 20px;
 }
 </style>
