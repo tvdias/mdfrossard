@@ -7,6 +7,7 @@ const { DateTime } = require("luxon");
 const sizeOf = require("image-size");
 const htmlmin = require("html-minifier-terser");
 const CleanCSS = require("clean-css");
+const { minify } = require("terser");
 
 const markdown = markdownIt({
   html: true,
@@ -325,6 +326,26 @@ module.exports = function(eleventyConfig) {
           const source = fs.readFileSync(fullPath, "utf8");
           const minified = new CleanCSS({}).minify(source).styles;
           fs.writeFileSync(fullPath, minified, "utf8");
+        }
+      }
+    }
+
+    // Process external JavaScript passthrough copies
+    const jsDir = path.join(__dirname, "public", "js");
+    if (fs.existsSync(jsDir)) {
+      const jsFiles = fs.readdirSync(jsDir);
+      for (const file of jsFiles) {
+        if (file.endsWith(".js") && !file.endsWith(".min.js")) {
+          const fullPath = path.join(jsDir, file);
+          const source = fs.readFileSync(fullPath, "utf8");
+          try {
+            const result = await minify(source);
+            if (result.code) {
+              fs.writeFileSync(fullPath, result.code, "utf8");
+            }
+          } catch (err) {
+            console.error(`Erro ao minificar JS: ${fullPath}`, err);
+          }
         }
       }
     }
