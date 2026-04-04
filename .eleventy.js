@@ -316,27 +316,28 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.on("eleventy.after", async () => {
-    // Process external CSS passthrough copies
-    const cssDir = path.join(__dirname, "public", "css");
-    if (fs.existsSync(cssDir)) {
-      const files = fs.readdirSync(cssDir);
+    const publicDir = path.join(__dirname, "public");
+    
+    async function processDir(dir) {
+      if (!fs.existsSync(dir)) return;
+      const files = fs.readdirSync(dir);
       for (const file of files) {
-        if (file.endsWith(".css") && !file.endsWith(".min.css")) {
-          const fullPath = path.join(cssDir, file);
+        const fullPath = path.join(dir, file);
+        const stat = fs.statSync(fullPath);
+        
+        if (stat.isDirectory()) {
+          await processDir(fullPath);
+        } else if (file.endsWith(".css") && !file.endsWith(".min.css")) {
           const source = fs.readFileSync(fullPath, "utf8");
-          const minified = new CleanCSS({}).minify(source).styles;
-          fs.writeFileSync(fullPath, minified, "utf8");
-        }
-      }
-    }
-
-    // Process external JavaScript passthrough copies
-    const jsDir = path.join(__dirname, "public", "js");
-    if (fs.existsSync(jsDir)) {
-      const jsFiles = fs.readdirSync(jsDir);
-      for (const file of jsFiles) {
-        if (file.endsWith(".js") && !file.endsWith(".min.js")) {
-          const fullPath = path.join(jsDir, file);
+          try {
+            const minified = new CleanCSS({}).minify(source).styles;
+            if (minified) {
+              fs.writeFileSync(fullPath, minified, "utf8");
+            }
+          } catch (err) {
+            console.error(`Erro ao minificar CSS: ${fullPath}`, err);
+          }
+        } else if (file.endsWith(".js") && !file.endsWith(".min.js")) {
           const source = fs.readFileSync(fullPath, "utf8");
           try {
             const result = await minify(source);
@@ -344,11 +345,15 @@ module.exports = function(eleventyConfig) {
               fs.writeFileSync(fullPath, result.code, "utf8");
             }
           } catch (err) {
-            console.error(`Erro ao minificar JS: ${fullPath}`, err);
+            // Silencia erro para não travar o build caso algum JS legado tenha sintaxe incompatível
+            // mas ainda avisa no log interno
+            console.log(`Pulo na minificação JS (Sintaxe legada): ${file}`);
           }
         }
       }
     }
+    
+    await processDir(publicDir);
   });
 
   return {
