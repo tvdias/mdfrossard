@@ -9,7 +9,7 @@ featured_image: /images/b340818e-20e6-4587-a475-becbd9e34f97_Implante-dentário-
 
 Infelizmente, perder o elemento dentário ainda pode acontecer, devido a traumas, {% post_link como-evitar-a-carie-dentaria "cárie" %}/ ou [doença periodontal](/tratamentos/periodontia/). 
 
-Porém, ficar sem o dente não é uma opção, já que dispomos do tratamento de **{% post_link implante-de-dente "implante dentário" %} no Rio de Janeiro.** 
+Porém, ficar sem o dente não é uma opção, já que dispomos do tratamento de **{% post_link implante-dentario "implante dentário" %} no Rio de Janeiro.** 
 
 A instalação do implante dental possibilita a mudança de vida, saúde e bem estar na história de vida de diversas pessoas. 
 
@@ -36,7 +36,7 @@ O implante dentário é feito em uma liga de titânio, assim possui biocompatibi
 
 Ainda assim, sem o devido cuidado com a higienização, podemos {% post_link perder-um-implante-dentario "perder um implante dentário" %}. 
 
-A cirurgia é feita de forma criteriosa, explicamos para o paciente como será feito o procedimento e como será o {% post_link pos-operatorio-apos-uma-extracao-de-dente "pós operatório" %}. 
+A cirurgia é feita de forma criteriosa, explicamos para o paciente como será feito o procedimento e como será o {% post_link extracao-de-dente "pós operatório" %}. 
 
 A instalação do implante é realizada sob anestesia local e apresenta altas taxas de sucesso. Entretanto, sendo um procedimento cirúrgico a dor e o inchaço podem acontecer e serão acompanhados de perto. 
 

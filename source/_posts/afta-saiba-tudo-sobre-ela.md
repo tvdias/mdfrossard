@@ -69,7 +69,7 @@ Porém, vale ressaltar que em casos mais complexos é necessária uma avaliaçã
 
 Durante o período de manifestação da lesão, é importante que o paciente evite alimentos e hábitos que irritem" ainda mais a região como o consumo de alimentos apimentados e condimentados. 
 
-É importante também que haja uma {% post_link higiene-dental-escovacao-dos-dentes "boa higiene bucal" %} neste período.
+É importante também que haja uma {% post_link escovar-os-dentes "boa higiene bucal" %} neste período.
 
 Att,
 Luciana Vieira Peroni

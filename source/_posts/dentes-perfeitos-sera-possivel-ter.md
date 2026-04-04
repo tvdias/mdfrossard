@@ -29,7 +29,7 @@ Entre eles temos:
 
 Para exemplificar isso, fizemos um infográfico onde colocamos os 6 principais tratamentos dentários estéticos. 
 
-Além disso, possuímos um segundo texto sobre o {% post_link voce-ja-pensou-em-ter-um-sorriso-perfeito "sorriso perfeito" %}, nele também falamos sobre a busca de um belo sorriso.
+Além disso, possuímos um segundo texto sobre o {% post_link sorriso-perfeito "sorriso perfeito" %}, nele também falamos sobre a busca de um belo sorriso.
 
 Fator Básico para se ter dentes perfeitos 
 ------------------------------------------

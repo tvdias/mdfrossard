@@ -35,7 +35,7 @@ Essa desmineralização inicial pode ser revertida pela correta escovação e or
 
 Quando acontece as primeiras lesões no esmalte (parte externa do dente), geralmente o paciente não sente nenhuma sensação dolorosa. 
 
-Somente quando chega à dentina (parte mais interna) o paciente começa a sentir uma {% post_link sensibilidade-nos-dentes "sensibilidade" %}/{% post_link dor-de-dente-3-principais-causas-e-tratamentos "dor maior no dente" %}. 
+Somente quando chega à dentina (parte mais interna) o paciente começa a sentir uma {% post_link sensibilidade-nos-dentes "sensibilidade" %}/{% post_link dor-de-dente "dor maior no dente" %}. 
 
 Os sintomas iniciais são o aumento da sensibilidade a comidas frias e/ou doces ou bebidas. Em situações mais avançadas pode acontecer dores agudas no dente. 
 

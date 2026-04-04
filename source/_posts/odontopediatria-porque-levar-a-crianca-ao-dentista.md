@@ -28,7 +28,7 @@ Para que possamos definir quando será a primeira consulta  e com que periodici
 
 ### -Bebê
 
-Assim, por volta dos 6 meses de vida do bebê, quando observa-se a erupção dos primeiros dentes de leite (dentes decíduos), os pais /responsáveis podem buscar a orientação de um dentista (odontopediatra). Este avaliará a boca da criança e fará orientações para higienizar da melhor forma a região. Nesta fase, o dentista também poderá ajudar em questões como o {% post_link chupeta-odontologia "uso de chupetas" %} e atitudes a serem tomadas para amenizar o incômodo que o bebê sofre nesta fase de erupção de dentes.
+Assim, por volta dos 6 meses de vida do bebê, quando observa-se a erupção dos primeiros dentes de leite (dentes decíduos), os pais /responsáveis podem buscar a orientação de um dentista (odontopediatra). Este avaliará a boca da criança e fará orientações para higienizar da melhor forma a região. Nesta fase, o dentista também poderá ajudar em questões como o {% post_link uso-da-chupeta-e-os-dentes-da-crianca "uso de chupetas" %} e atitudes a serem tomadas para amenizar o incômodo que o bebê sofre nesta fase de erupção de dentes.
 
 ### \- 2 ou 3 anos de vida
 
@@ -65,7 +65,7 @@ Além disso, com este hábito, evita-se que a criança chegue ao consultório em
  
  Além disso, quando lesionados de forma extensa, podem interferir no desenvolvimento dos dentes permanentes que virão. 
  
- Assim, nós da MD Frossard possuímos em nossa {% post_link equipe "equipe profissionais" %} preparados e ambiente adequado para o acolhimento de crianças. 
+ Assim, nós da MD Frossard possuímos em nossa **equipe profissionais** preparados e ambiente adequado para o acolhimento de crianças. 
  
  Entendemos que o **atendimento infantil** merece uma atenção diferenciada e que a fase de adaptação da criança ao ambiente e ao profissional é muito importante para o sucesso do tratamento. 
  

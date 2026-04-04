@@ -16,7 +16,7 @@ Isso ocorre em parte pela nossa dificuldade com o uso do fio, o que acaba nos to
 **Porque devemos usar o fio dental ?**
 --------------------------------------
 
-Desde pequeno fomos orientados a realizar a {% post_link higiene-dental-escovacao-dos-dentes "escovação dos dentes" %}. Quando realizamos esse processo, limpamos a parte da frente e de trás dos dentes além da parte de cima (oclusal dos dentes). 
+Desde pequeno fomos orientados a realizar a {% post_link escovar-os-dentes "escovação dos dentes" %}. Quando realizamos esse processo, limpamos a parte da frente e de trás dos dentes além da parte de cima (oclusal dos dentes). 
 
 Acontece que a escova dental não alcança o espaço entre os dentes. Cada elemento dentário tem um contato com o do lado, chamado ponto de contato. 
 

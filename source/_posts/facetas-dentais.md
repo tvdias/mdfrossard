@@ -112,7 +112,7 @@ Outro ponto positivo desse tratamento é o tempo. O tratamento pode ser finaliza
 
 Não posso deixar de destacar a mudança na vida social de nossos pacientes. 
 
-Em nossa clinica realizamos diversos tratamento estéticos e em todos os casos notamos como um novo sorriso proporciona muito mais confiança e alegria. Basta ler os {% post_link depoimentos "comentários" %} que diversos pacientes deixaram para nós.
+Em nossa clinica realizamos diversos tratamento estéticos e em todos os casos notamos como um novo sorriso proporciona muito mais confiança e alegria. Basta ler os **comentários** que diversos pacientes deixaram para nós.
 
 ---
 

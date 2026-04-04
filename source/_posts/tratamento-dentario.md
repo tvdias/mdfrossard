@@ -46,7 +46,7 @@ Portanto a falta de tratamento dentário não causa somente um problema local n
 
 Outro fator importante relacionado a falta de tratamento dental esta relacionado com a sua vida social,incluindo sua amizades, relacionamentos e o seu trabalho. 
 
-Com um tratamento dentário ruim ou ineficaz, você não terá um {% post_link voce-ja-pensou-em-ter-um-sorriso-perfeito "sorriso bonito ou harmônico" %}, 
+Com um tratamento dentário ruim ou ineficaz, você não terá um {% post_link sorriso-perfeito "sorriso bonito ou harmônico" %}, 
 
 pelo simples fato que você poderá ter perdido um dente, ou ter sangramento gengival. 
 

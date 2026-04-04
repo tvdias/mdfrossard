@@ -70,7 +70,7 @@ Assim, o tratamento poderá ser mais cansativo e custoso para o paciente.
 
 Para que o medo seja superado, algumas atitudes devem ser tomadas, tanto pelo profissional quanto pelo paciente. 
 
-Nós da MD Frossard, entendemos que o bem-estar do paciente começa em sua chegada ao consultório. Dessa forma, temos uma {% post_link estrutura "estrutura de sala de espera" %} confortável e que busca transmitir tranquilidade para o paciente que aguarda atendimento. 
+Nós da MD Frossard, entendemos que o bem-estar do paciente começa em sua chegada ao consultório. Dessa forma, temos uma **estrutura de sala de espera** confortável e que busca transmitir tranquilidade para o paciente que aguarda atendimento. 
 
 Entendemos também que o paciente quer ser atendido dentro de suas necessidades e sentir-se seguro quanto a qualidade do profissional que buscou. 
 

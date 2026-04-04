@@ -17,7 +17,7 @@ Em grande parte dos casos, somente procuramos o profissional de saúde, quando a
 
 Nesse caso o problema no dente pode ser mais complicado e de mais difícil solução. 
 
-Além disso, a {% post_link dor-de-dente-3-principais-causas-e-tratamentos "dor de dente" %} é algo extremamente desconfortável. 
+Além disso, a {% post_link dor-de-dente "dor de dente" %} é algo extremamente desconfortável. 
 
 Portanto, mesmo que talvez você não sinta nenhum problema na região bucal, sempre é importante realizar consultas de revisão.
 

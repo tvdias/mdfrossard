@@ -21,7 +21,7 @@ Para ver a nossa exata localização, [clique aqui.](/localizacao/)
 
 ![](/images/uploads/2013/07/4consulorio-1-1024x683.webp)
 
-Liderada pelos dentistas [Marcos e Davi Frossard](/equipe/). Nossa clínica odontológica está presente nos bairros da [Barra da Tijuca](/dentista-barra-da-tijuca/) e de [Botafogo.](/dentista-em-botafogo/) Nossa [estrutura](/estrutura/)  comporta o atendimentos de todas as especialidades com conforto e qualidade. Além disso, a [biossegurança](/biosseguranca/) é fator primordial. 
+Liderada pelos dentistas [Marcos e Davi Frossard](/equipe/). Nossa clínica odontológica está presente nos bairros da [Barra da Tijuca](/dentista-barra-da-tijuca/) e de [Botafogo.](/dentista-em-botafogo/) Nossa [estrutura](/estrutura/)  comporta o atendimentos de todas as especialidades com conforto e qualidade. Além disso, a **biossegurança** é fator primordial. 
 
 Com um ambiente acolhedor, nossa clínica está presente no Rio de Janeiro há 37 anos.  Focamos nosso atendimento na alta perfomance,  através de uma odontologia contemporânea focada em 3 pilares : **Relacionamento, confiança e pontualidade.** 
 

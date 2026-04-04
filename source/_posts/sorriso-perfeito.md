@@ -154,7 +154,7 @@ Como dito anteriormente, não há possibilidade de ter um sorriso bonito sem os 
 
 O implante dentário devolve a capacidade de mastigação e a estética para pessoas que perderam algum elemento dentário. 
 
-Assim, você pode voltar a sorrir com segurança. Novamente, temos um texto completo explicando todos os detalhes sobre {% post_link implante-de-dente "Implantes Dentais" %}.
+Assim, você pode voltar a sorrir com segurança. Novamente, temos um texto completo explicando todos os detalhes sobre {% post_link implante-dentario "Implantes Dentais" %}.
 
 ### **Reabilitação Oral**
 

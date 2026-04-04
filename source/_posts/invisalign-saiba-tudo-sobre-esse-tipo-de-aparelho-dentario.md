@@ -67,7 +67,7 @@ Os alinhadores são trocados a **cada 15 dias**, e as consultas para ajuste e en
 
 **Sim.**
 
-A {% post_link perda-de-dentes "falta de dentes" %} ou a presença de {% post_link implante-de-dente "implantes dentários" %} não impede o tratamento com invisalign.
+A {% post_link perda-de-dentes "falta de dentes" %} ou a presença de {% post_link implante-dentario "implantes dentários" %} não impede o tratamento com invisalign.
 
 Quais os limites de idade para usar Invisalign®?
 ------------------------------------------------

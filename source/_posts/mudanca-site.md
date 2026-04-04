@@ -9,9 +9,9 @@ featured_image: /images/dbc110b0-2652-4e8a-ad7b-95fa0fd3856d_Mudança-site.webp
 
 Olá a todos ! Nosso site passou por algumas mudanças, como vocês podem ver adicionamos algumas novas partes ao site ! 
 
-Na nossa página inicial temos a {% post_link odontologia-personalizada "odontologia personalizada" %}, essa nova sessão do site foi pensada nas várias faixas etárias, afinal em cada etapa da vida temos diferentes necessidades e cuidados.
+Na nossa página inicial temos a **odontologia personalizada**, essa nova sessão do site foi pensada nas várias faixas etárias, afinal em cada etapa da vida temos diferentes necessidades e cuidados.
 
- E na odontologia isso também se aplica, em cada faixa de idade o cuidado dos dentes e os tratamentos são diferentes ! Também temos uma parte dedicada ao [check up digital preventivo](/odontologia-personalizada/ "Check Up Digital Preventivo"), que já foi bastante discutido em nosso blog. O {% post_link day-clinic "day clinic" %} que é um novo método de atendimento, diminuindo o tempo de atendimento e de consultas agora também tem a sua própria página e explicação sobre o tema. 
+ E na odontologia isso também se aplica, em cada faixa de idade o cuidado dos dentes e os tratamentos são diferentes ! Também temos uma parte dedicada ao [check up digital preventivo](/odontologia-personalizada/ "Check Up Digital Preventivo"), que já foi bastante discutido em nosso blog. O **day clinic** que é um novo método de atendimento, diminuindo o tempo de atendimento e de consultas agora também tem a sua própria página e explicação sobre o tema. 
  
  Enfim, são diversas novas mudanças e outras virão. Caso tenha alguma dúvida sobre os tratamentos mencionados, ligue ou mande email para contato@mdfrossard.com. 
  

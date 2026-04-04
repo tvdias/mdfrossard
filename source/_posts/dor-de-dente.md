@@ -95,7 +95,7 @@ Quando temos a doença instalada, precisamos de acompanhamento profissional para
 
 #### 3 - Pericoronarite 
 
-O terceiro grande fator que pode causar dor na cavidade oral é a {% post_link por-que-extrair-o-siso-tire-suas-duvidas-sobre-essa-cirurgia "periconarite" %}. 
+O terceiro grande fator que pode causar dor na cavidade oral é a {% post_link siso-porque-extrair "periconarite" %}. 
 
 Geralmente ela esta relacionada a pessoas jovens, quando os sisos estão “nascendo”. 
 
@@ -105,7 +105,7 @@ Também esta relacionado com a falta de higienização apropriada na região, pr
 
 **Tratamento-** 
 
-Para o alívio da dor nessa região, geralmente é indicada a {% post_link por-que-extrair-o-siso-tire-suas-duvidas-sobre-essa-cirurgia "exodontia do siso." %}  
+Para o alívio da dor nessa região, geralmente é indicada a {% post_link siso-porque-extrair "exodontia do siso." %}  
 
 #### Outros fatores 
 

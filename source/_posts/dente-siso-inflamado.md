@@ -72,7 +72,7 @@ Quando o efeito do remédio acabar, a dor irá voltar. Nesses casos, o procedime
 
 ![extração do siso](/images/def5168b-b6d1-4b07-ae10-4957b279518b_dente-siso-inflamado-extração.webp) 
 
-Quando a {% post_link por-que-extrair-o-siso-tire-suas-duvidas-sobre-essa-cirurgia "extração do siso" %} inflamado for indicada, não fique preocupado, nem fuja! 
+Quando a {% post_link siso-porque-extrair "extração do siso" %} inflamado for indicada, não fique preocupado, nem fuja! 
 
 Por meio de exames e anamnese, conseguimos planejar a cirurgia de forma segura e previsível. 
 

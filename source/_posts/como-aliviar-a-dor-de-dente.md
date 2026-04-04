@@ -15,7 +15,7 @@ Não observando uma rotina de consultas para revisão e acompanhamento da situa�
 
 Nesse caso, sempre acontece o questionamento de como aliviar a dor de dente. 
 
-Em nosso blog, encontramos diversos textos sobre a {% post_link voce-pode-ter-problemas-nos-dentes-e-nao-saber "importância da revisão" %} constante e também sobre a {% post_link dor-de-dente-3-principais-causas-e-tratamentos "dor de dente" %}. 
+Em nosso blog, encontramos diversos textos sobre a {% post_link problemas-nos-dentes "importância da revisão" %} constante e também sobre a {% post_link dor-de-dente "dor de dente" %}. 
 
 Nesse texto eu vou abordar sobre **como aliviar a dor de dente** e seus desdobramentos.
 

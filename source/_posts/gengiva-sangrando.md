@@ -115,7 +115,7 @@ Quando se tem uma prótese antiga e que principalmente não esta corretamente ad
 
 Nessa situação é preciso ir ao dentista para melhor avaliação da região e possível substituição da prótese por uma mais nova. 
 
-Outra opção é realizar {% post_link implante-de-dente "trabalhos fixos sobre implantes" %}.
+Outra opção é realizar {% post_link implante-dentario "trabalhos fixos sobre implantes" %}.
 
 ## Qual o Tratamento Para a Gengiva Sangrando ?
 

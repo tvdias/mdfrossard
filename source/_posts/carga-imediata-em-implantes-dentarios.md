@@ -6,7 +6,7 @@ description: >-
 date: 2014-12-04T14:06:39.000Z
 featured_image: /images/uploads/2014/03/Clareamento-dental.webp
 ---
-Os {% post_link implante-de-dente "implantes dentários" %} já estão na odontologia há bastante tempo sendo usados em larga escala e com altas taxas de sucesso. 
+Os {% post_link implante-dentario "implantes dentários" %} já estão na odontologia há bastante tempo sendo usados em larga escala e com altas taxas de sucesso. 
 
 A **carga imediata em implantes** já não é uma novidade e é efetuada no momento da instalação do implante. 
 
@@ -90,7 +90,7 @@ Em segundo lugar, o paciente tem que ter a consciência que é um dente provisó
 
 Temos que ter em mente que a carga imediata em implantes é uma realidade e que podemos utilizar durante o dia-a-dia. 
 
-Porém, temos que analisar cada caso em particular seguindo alguns critérios pré-estabelecidos para o sucesso a longo prazo do {% post_link implante-de-dente "implante" %}.
+Porém, temos que analisar cada caso em particular seguindo alguns critérios pré-estabelecidos para o sucesso a longo prazo do {% post_link implante-dentario "implante" %}.
 
 Att,
 Davi Frossard.

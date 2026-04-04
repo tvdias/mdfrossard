@@ -49,7 +49,7 @@ No consultório, o dentista avalia a adaptação e se os contatos dentários est
 
 Após isso, o paciente irá levar a placa para casa e irá usar continuamente sempre quando for dormir. 
 
-Para mais informações sobre o seu cuidado, basta {% post_link informativos "clicar aqui." %}
+Para mais informações sobre o seu cuidado, basta **clicar aqui.**
 
 **Conclusão**
 -------------

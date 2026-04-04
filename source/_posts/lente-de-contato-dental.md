@@ -27,7 +27,7 @@ Continue e veja nesse texto -
 
 ![lente de contato dental planejamento](/images/286efc3d-7fae-44d4-8bdd-35892863a73c_lente-de-contato-dente.webp) 
 
-Antigamente as {% post_link infografico-5-razoes-para-usar-faceta-de-porcelana "facetas de porcelana" %} eram as grandes “queridinhas" tanto dos dentistas como dos clientes, porém atualmente as lentes de contato ocuparam este lugar. 
+Antigamente as {% post_link 5-razoes-para-usar-faceta-de-porcelana "facetas de porcelana" %} eram as grandes “queridinhas" tanto dos dentistas como dos clientes, porém atualmente as lentes de contato ocuparam este lugar. 
 
 Entretanto, qual a grande diferença entre esses dois tipos de tratamento? 
 

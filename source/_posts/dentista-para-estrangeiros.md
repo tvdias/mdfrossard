@@ -22,7 +22,7 @@ Dessa forma, caso haja necessidade de atendimento para estrangeiros, contamos co
 
  [![dentista para estrangeiros](/images/uploads/2014/09/mapa-mundi-300x225.webp)](/images/8a21960b-4210-40c3-817e-ab6141dd8ddc_mapa-mundi.webp) 
 
-Além disso, oferecemos o {% post_link day-clinic "Day clinic" %}. 
+Além disso, oferecemos o **Day clinic**. 
 
 Com ele, nos disponibilizamos um tratamento otimizado com qualidade para resolver o seu problema o mais rápido possível. Dessa forma, não ocorrem prejuízos para sua viagem. 
 

@@ -33,7 +33,7 @@ Antigamente, para preencher este espaço, a prótese fixa era o tratamento mais 
 
 Após os devidos procedimentos, cimenta-se 3 coroas unidas sobre 2 dentes, como exemplificado na figura. 
 
-Uma solução atual e diferente é a {% post_link implante-de-dente "instalação de implante" %}. Uma cirurgia é realizada, onde um parafuso de titânio é instalado e posteriormente uma coroa (dente) é instalado. 
+Uma solução atual e diferente é a {% post_link implante-dentario "instalação de implante" %}. Uma cirurgia é realizada, onde um parafuso de titânio é instalado e posteriormente uma coroa (dente) é instalado. 
 
 Dessa forma não há necessidade de preparo nos dentes vizinhos ao espaço. 
 

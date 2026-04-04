@@ -32,7 +32,7 @@ Dito isso, devemos ter em mente que a instalação de um implante é um procedim
 
 Portanto durante o pós operatório, pode ocorrer alguma sensação de desconforto. E a dor pode, obviamente, variar dependendo do tipo e tamanho da cirurgia. 
 
-Entretanto, isso vai ser controlado com medicação e um correto {% post_link informativos "roteiro pós operatório" %} explicado previamente a cirurgia. 
+Entretanto, isso vai ser controlado com medicação e um correto **roteiro pós operatório** explicado previamente a cirurgia. 
 
 Outro ponto que devemos abordar é a dor durante o procedimento de instalação do implante dentário. 
 
@@ -51,7 +51,7 @@ O {% post_link medo-de-dentista "medo" %} e o nervosismo apesar de comuns em um 
 
 Em segundo lugar, conversar com o dentista a respeito de suas dúvidas e sobre o pós operatório irá te ajudar a compreender sobre o que você irá passar, melhorando a dor e o desconforto. 
 
-Em nosso [blog](/blog/), temos diversos temas relacionados a {% post_link implante-de-dente "implantes dentários" %} que podem te fazer entender melhor sobre esse tema, basta clicar aqui ou aqui. 
+Em nosso [blog](/blog/), temos diversos temas relacionados a {% post_link implante-dentario "implantes dentários" %} que podem te fazer entender melhor sobre esse tema, basta clicar aqui ou aqui. 
 
 Em último lugar, devemos seguir a correta orientação do dentista a respeito do pós operatório. Usando os medicamentos de forma adequada e evitando exercícios. 
 

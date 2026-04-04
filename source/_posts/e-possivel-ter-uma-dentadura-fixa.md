@@ -72,7 +72,7 @@ Portanto, além da consulta de revisão, o cuidado em casa deve ser feito atrav�
 
 ## **Conclusão**
 
-Com o correto planejamento e os devidos cuidados, podemos transformar dentaduras removíveis em dentaduras fixas com o uso de {% post_link implante-de-dente "implantes dentais" %} servindo de apoio. 
+Com o correto planejamento e os devidos cuidados, podemos transformar dentaduras removíveis em dentaduras fixas com o uso de {% post_link implante-dentario "implantes dentais" %} servindo de apoio. 
 
 Esse tipo de tratamento tem sido feito cada vez mais nos consultórios dentários. 
 
