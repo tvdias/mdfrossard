@@ -18,7 +18,7 @@ Ninguém está livre dessa situação. Além disso, sabemos o quanto uma dor de 
 
 Para momentos assim, nós da MD Frossard **oferecemos tratamento individualizado e bilíngue. **
 
-Dessa forma, caso haja necessidade de atendimento para estrangeiros, contamos com profissionais habilitados para atendê-los nos bairros de Botafogo e Barra de Tijuca.
+Dessa forma, caso haja necessidade de atendimento para estrangeiros, contamos com profissionais habilitados para atendê-los nos bairros de **{% post_link dentista-em-botafogo "Botafogo" %}** e **{% post_link dentista-barra-da-tijuca "Barra da Tijuca" %}**.
 
  [![dentista para estrangeiros](/images/uploads/2014/09/mapa-mundi-300x225.webp)](/images/8a21960b-4210-40c3-817e-ab6141dd8ddc_mapa-mundi.webp) 
 
@@ -46,8 +46,22 @@ For times like these, we at MD Frossard offer individualized treatment and bilin
 
 With it, we provide the optimal treatment and quality so that it is resolved as quickly as possible (within the possibilities of each case). 
 
-Thus, no damage to your trip occur. If you are identified with the situations described above, please contact us and we will seek the best way to serve you.
+Assim, no damage to your trip occur. If you are identified with the situations described above, please contact us and we will seek the best way to serve you.
 
+---
+
+### **Contact us to schedule an appointment | Fale conosco**
+
+*   **WhatsApp:** [Click here to message us](https://api.whatsapp.com/send?phone=5521976637803)
+*   **Phone:** +55 (21) 3217-0430
+
+<div style="margin-top: 2rem; text-align: center;">
+    <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Schedule via WhatsApp</a>
+</div>
+
+Att,
+
+**MD Frossard Odontologia**
 att,
 
 MD Frossard Odontologia
