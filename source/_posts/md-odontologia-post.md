@@ -47,7 +47,7 @@ Marli Curi Goulart compartilha:"Já fiz vários procedimentos dentários, tanto 
 
 Venha conhecer a MD Odontologia, referência em tratamentos odontológicos no Rio de Janeiro. Agende sua consulta e transforme o seu sorriso! 
 
-Entre em contato pelo telefone (021) 3513-8479 mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) ou visite uma de nossas unidades. Seu sorriso merece o melhor, e nós estamos aqui para cuidar dele.
+Entre em contato pelo telefone (021) 3513-8479 mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) ou visite uma de nossas unidades. Seu sorriso merece o melhor, e nós estamos aqui para cuidar dele.
 
 
 

@@ -27,7 +27,7 @@ No infográfico abaixo esta resumido as principais características das coroas d
 
 Caso queira falar conosco para **marcar uma consulta**, você pode: 
 
-* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) (é só clicar) ; 
+* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) (é só clicar) ; 
 * Ligar para [3513-8479](tel:2135138479).
 
 ## O que é coroa dentária ?

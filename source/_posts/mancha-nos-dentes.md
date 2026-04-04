@@ -28,7 +28,7 @@ Assim, é importante que o paciente saiba quais tipos de manchas nos dentes ele 
 
 Caso queira falar conosco para **marcar uma consulta**, você pode: 
 
-* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) (é só clicar) ; 
+* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) (é só clicar) ; 
 * Ligar para [3513-8479](tel:2135138479).
 
 ## 1 - Mancha nos dentes causadas por alimentos e hábitos tabagistas

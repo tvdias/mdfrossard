@@ -8,7 +8,7 @@ categories:
 tags:
 ---
 
-**Você precisa de dentista no Humaitá ?** Considerado um bairro residencial, o Humaitá é uma região pequena mas que apresenta muito conforto. Para saber mais sobre é [só clicar aqui](https://pt.wikipedia.org/wiki/Humaitá_(bairro_do_Rio_de_Janeiro)). Nossa clinica é referencia nesse bairro, já que estamos desde 1994 no mesmo endereço. **Estamos localizados na Rua Marques 15. Ligue para 3217-0430 ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) para marcar sua consulta.** Continue lendo para saber mais sobre a clínica.
+**Você precisa de dentista no Humaitá ?** Considerado um bairro residencial, o Humaitá é uma região pequena mas que apresenta muito conforto. Para saber mais sobre é [só clicar aqui](https://pt.wikipedia.org/wiki/Humaitá_(bairro_do_Rio_de_Janeiro)). Nossa clinica é referencia nesse bairro, já que estamos desde 1994 no mesmo endereço. **Estamos localizados na Rua Marques 15. Ligue para 3217-0430 ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) para marcar sua consulta.** Continue lendo para saber mais sobre a clínica.
 
 Dentista no Humaitá RJ
 ----------------------

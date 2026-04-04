@@ -62,6 +62,6 @@ Unidade Botafogo: Rua Marques, 15, Humaitá, Rio de Janeiro.
 
 Contato: (021) 3513-8479
 
-Mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=55021976637803)
+Mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)
 
 Não perca tempo e venha conhecer o que há de melhor em odontologia na Barra da Tijuca! Seu sorriso agradece.

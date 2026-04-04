@@ -22,7 +22,7 @@ Leia este guia completo para entender tudo sobre o clareamento dental e descobri
 
 Caso queira falar conosco para **marcar uma consulta**, você pode: 
 
-* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) (é só clicar) ; 
+* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) (é só clicar) ; 
 * Ligar para [3513-8479](tel:2135138479).
 
 **Nesse texto você irá ler :**
@@ -114,7 +114,7 @@ O acompanhamento profissional garante um tratamento seguro, eficaz e com resulta
 
 Quer um sorriso mais branco e saudável? Agende uma consulta conosco:
 
-[WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) Clique para enviar uma mensagem 
+[WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) Clique para enviar uma mensagem 
 
 Telefone: (021) 3513-8479
 

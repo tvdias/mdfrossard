@@ -22,7 +22,7 @@ Porém, quando alguma patologia está associada, esse processo pode ser mais rá
 
 Caso queira falar conosco para **marcar uma consulta**, você pode: 
 
-* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=55021976637803) (é só clicar) ; 
+* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) (é só clicar) ; 
 * Ligar para [3513-8479](tel:2135138479).
 
 ## **Causas da Perda óssea dentária**
