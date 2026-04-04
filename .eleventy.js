@@ -5,6 +5,8 @@ const yaml = require("js-yaml");
 const markdownIt = require("markdown-it");
 const { DateTime } = require("luxon");
 const sizeOf = require("image-size");
+const htmlmin = require("html-minifier-terser");
+const CleanCSS = require("clean-css");
 
 const markdown = markdownIt({
   html: true,
@@ -297,6 +299,35 @@ module.exports = function(eleventyConfig) {
       .replace(/<p>\s*{%\s*endraw\s*%}\s*<\/p>/g, "")
       .replace(/{%\s*raw\s*%}/g, "")
       .replace(/{%\s*endraw\s*%}/g, "");
+  });
+
+  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
+    if (outputPath && outputPath.endsWith(".html")) {
+      return htmlmin.minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true,
+        minifyCSS: true,
+        minifyJS: true
+      });
+    }
+    return content;
+  });
+
+  eleventyConfig.on("eleventy.after", async () => {
+    // Process external CSS passthrough copies
+    const cssDir = path.join(__dirname, "public", "css");
+    if (fs.existsSync(cssDir)) {
+      const files = fs.readdirSync(cssDir);
+      for (const file of files) {
+        if (file.endsWith(".css") && !file.endsWith(".min.css")) {
+          const fullPath = path.join(cssDir, file);
+          const source = fs.readFileSync(fullPath, "utf8");
+          const minified = new CleanCSS({}).minify(source).styles;
+          fs.writeFileSync(fullPath, minified, "utf8");
+        }
+      }
+    }
   });
 
   return {

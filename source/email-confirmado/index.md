@@ -86,7 +86,7 @@ layout: false
     <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js" />
     <noscript>
         <div style="display:inline;">
-            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1003091018/?value=0&amp;guid=ON&amp;script=0"/ loading="lazy" decoding="async">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1003091018/?value=0&amp;guid=ON&amp;script=0" loading="lazy" decoding="async">
         </div>
     </noscript>
 </body>

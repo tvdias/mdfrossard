@@ -1,5 +1,5 @@
 ---
-title: Bruxismo tratamento e causas. Veja como se "livrar" dele.
+title: Bruxismo tratamento e causas. Veja como se 'livrar' dele.
 description: >-
   O bruxismo é um problema comum atualmente. Seu diagnóstico é importante para
   evitar problemas futuros, veja aqui o correto tratamento.

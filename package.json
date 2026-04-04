@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
+    "clean-css": "^5.3.3",
     "ejs": "^3.1.10",
+    "html-minifier-terser": "^7.2.0",
     "image-size": "^1.0.2",
     "js-yaml": "^4.1.0",
     "luxon": "^3.5.0",
