@@ -25,7 +25,7 @@ Essa é a principal causa da sua gengiva estar sangrando. Portanto saber como es
 Caso queira falar conosco para **marcar uma consulta**, você pode: 
 
 * Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) (é só clicar) ; 
-* Ligar para [3513-8479](tel:2135138479).
+* Ligar para [3217-0430](tel:2132170430).
 
 ## O Que Significa ter a Gengiva Sangrando ?
 

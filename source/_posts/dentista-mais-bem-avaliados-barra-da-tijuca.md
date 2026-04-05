@@ -60,7 +60,7 @@ Unidade Barra da Tijuca: Shopping Città America - Av. das Américas, 700, Bloco
 
 Unidade Botafogo: Rua Marques, 15, Humaitá, Rio de Janeiro.
 
-Contato: (021) 3513-8479
+Contato: (021) 3217-0430
 
 Mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)
 

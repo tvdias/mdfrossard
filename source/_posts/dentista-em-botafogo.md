@@ -11,7 +11,7 @@ Apresentando praias e pontos turísticos conhecidos no mundo todo. Nessa região
 
 Nossa clínica esta localizado neste mesmo Bairro há mais 35 anos. Estamos localizados ao lado da Cobal e perto do largo dos Leões.
 
-**Para marcar uma consulta em nossa clínica de Botafogo ligue para o telefone (021) 3513-8479 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
+**Para marcar uma consulta em nossa clínica de Botafogo ligue para o telefone (021) 3217-0430 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
 
 ## **Dentista em Botafogo**
 
@@ -66,7 +66,7 @@ Em nosso site possuímos uma área aonde explicamos cada tipo de tratamento e os
 
 Caso ainda tenha dúvidas, ligue para nós ou deixe seu comentário no post. 
 
-Nosso atendimento é individual e portanto com hora marcada e sem atraso. Caso necessite de um **dentista em Botafogo** ligue para (021) 3513-8479 para nós que estaremos a sua disposição para atendimento.
+Nosso atendimento é individual e portanto com hora marcada e sem atraso. Caso necessite de um **dentista em Botafogo** ligue para (021) 3217-0430 para nós que estaremos a sua disposição para atendimento.
 
 Caso você precise de um [dentista na Barra da Tijuca](/dentista-barra-da-tijuca/), também possuimos uma unidade nesse bairro. Nela contamos com toda a infra-estrutura que você precisa. 
 

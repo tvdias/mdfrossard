@@ -15,7 +15,7 @@ Com facilidade de estacionamento e de locomoção, nosso consultório está loca
 
 Para ver a nossa exata localização, [clique aqui.](/localizacao/)
 
-**Para marcar uma consulta ligue para o telefone (021) 3513-8479 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
+**Para marcar uma consulta ligue para o telefone (021) 3217-0430 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
 
 ## Conheça mais sobre nossa clínica Odontológica na Barra da Tijuca
 
@@ -53,7 +53,7 @@ Veja mais [depoimentos.](/depoimentos/)
 
 ![](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.webp)
 
-**Para marcar uma consulta ligue para o telefone (021) 3513-8479 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
+**Para marcar uma consulta ligue para o telefone (021) 3217-0430 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
 
 Somente lembrando que atendemos todas as especialidades, tais como : 
 

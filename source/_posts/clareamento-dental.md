@@ -23,7 +23,7 @@ Leia este guia completo para entender tudo sobre o clareamento dental e descobri
 Caso queira falar conosco para **marcar uma consulta**, você pode: 
 
 * Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) (é só clicar) ; 
-* Ligar para [3513-8479](tel:2135138479).
+* Ligar para [3217-0430](tel:2132170430).
 
 **Nesse texto você irá ler :**
 
@@ -116,7 +116,7 @@ Quer um sorriso mais branco e saudável? Agende uma consulta conosco:
 
 [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) Clique para enviar uma mensagem 
 
-Telefone: (021) 3513-8479
+Telefone: (021) 3217-0430
 
 Na MD Odontologia, temos uma equipe especializada pronta para cuidar do seu sorriso com toda a segurança e profissionalismo. Venha descobrir como o clareamento dental pode transformar a sua autoestima!
 
