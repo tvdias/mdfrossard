@@ -1,8 +1,8 @@
 ---
 title: Clareamento Dental, o guia completo para um sorriso mais branco.
 description: >-
-  O clareamento dental pode mudar completamente o seu sorriso. Portanto saiba
-  absolutamente tudo sobre o clareamento caseiro e o de consultório.
+ O clareamento dental pode mudar completamente o seu sorriso. Portanto saiba
+ absolutamente tudo sobre o clareamento caseiro e o de consultório.
 date: 2014-02-15T08:15:49.000Z
 featured_image: /images/f7a5e3d0-312b-47e9-bd61-626490c95bc1_clareamento-dental.webp
 ---
@@ -116,7 +116,7 @@ Quer um sorriso mais branco e saudável? Agende uma consulta conosco:
 
 [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) Clique para enviar uma mensagem 
 
-Telefone: (021) 3217-0430
+Telefone:(21) 3217-0430
 
 Na MD Odontologia, temos uma equipe especializada pronta para cuidar do seu sorriso com toda a segurança e profissionalismo. Venha descobrir como o clareamento dental pode transformar a sua autoestima!
 

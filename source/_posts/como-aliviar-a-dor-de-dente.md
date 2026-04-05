@@ -1,8 +1,8 @@
 ---
 title: Como aliviar a dor de dente
 description: >-
-  Como Aliviar a Dor de Dente ? Essa é uma questão comum mas que pode ser
-  respondida de forma fácil. Veja agora pequenas dicas para você.
+ Como Aliviar a Dor de Dente ? Essa é uma questão comum mas que pode ser
+ respondida de forma fácil. Veja agora pequenas dicas para você.
 date: 2017-01-30T09:23:19.000Z
 featured_image: /images/9c134bd5-95a4-42f9-93bf-cea61ad74079_como-aliviar-a-dor-de-dente.webp
 ---

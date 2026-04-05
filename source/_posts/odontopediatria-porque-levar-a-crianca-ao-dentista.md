@@ -2,8 +2,8 @@
 title: Odontopediatria - Por que levar a criança ao dentista.
 author: Luciana Vieira Peroni
 description: >-
-  Levar a criança ao dentista ( odontopediatria ) é muito importante. Veja 8
-  dicas importantes no cuidado dos dentes de seu filho.
+ Levar a criança ao dentista ( odontopediatria ) é muito importante. Veja 8
+ dicas importantes no cuidado dos dentes de seu filho.
 date: 2014-07-15T08:12:22.000Z
 featured_image: /images/1f74c7e4-db1e-4dee-9144-ee6e2e1dafc0_Criança-odontologia.webp
 ---

@@ -1,8 +1,8 @@
 ---
 title: Dente Siso Inflamado - O que fazer nessa situação ?
 description: >-
-  A dor no dente siso inflamado é muito comum quando somos jovens. Porém, a
-  solução pode ser simples. Leia o texto e tire suas dúvidas.
+ A dor no dente siso inflamado é muito comum quando somos jovens. Porém, a
+ solução pode ser simples. Leia o texto e tire suas dúvidas.
 date: 2017-05-29T10:00:14.000Z
 featured_image: /images/be5df36b-1524-4f94-a657-c32ade393dc7_dente-siso-inflamado.webp
 ---

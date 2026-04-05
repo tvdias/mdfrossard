@@ -1,8 +1,8 @@
 ---
 title: 5 Causas Comuns do Mau hálito - A 3ª é a mais desconhecida
 description: >-
-  Veja as 5 causas mais comuns para o Mau hálito. Aprenda como prevenir e tratar
-  esse desconfortável problema. Pode ser mais fácil do que se imagina.
+ Veja as 5 causas mais comuns para o Mau hálito. Aprenda como prevenir e tratar
+ esse desconfortável problema. Pode ser mais fácil do que se imagina.
 date: 2016-02-01T10:05:28.000Z
 featured_image: /images/900cced6-e71a-4957-8fd3-f24be2fb9934_causas-mau-hálito.webp
 ---
@@ -57,10 +57,10 @@ Além disso, devemos verificar a presença de próteses com deficiência na limp
 
 Outras dicas são :
 
-*   Não ficar longas horas sem se alimentar. Fazer refeições de 4 em 4 horas, e de preferência com alimentos fibrosos, para estimular a salivação.
-*   Beber bastante líquido durante o dia para estimular a produção de saliva e evitar a boca seca.
-*   Ter uma alimentação saudável e balanceada, evitando alimentos que alterem o odor do hálito.
-*   Procurar atendimento médico em caso de doenças sistêmicas e que causem halitose.
+*  Não ficar longas horas sem se alimentar. Fazer refeições de 4 em 4 horas, e de preferência com alimentos fibrosos, para estimular a salivação.
+*  Beber bastante líquido durante o dia para estimular a produção de saliva e evitar a boca seca.
+*  Ter uma alimentação saudável e balanceada, evitando alimentos que alterem o odor do hálito.
+*  Procurar atendimento médico em caso de doenças sistêmicas e que causem halitose.
 
 **Tratamentos para o Mau Hálito**
 ---------------------------------

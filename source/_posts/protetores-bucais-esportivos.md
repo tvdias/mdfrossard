@@ -1,8 +1,8 @@
 ---
 title: 'Protetores bucais esportivos - Saiba tudo sobre eles. '
 description: >-
-  Protetores bucais esportivos protegem os dentes e tem como função impedir
-  fratura de dentes ou lesões na boca para praticantes de esportes, como o MMA.
+ Protetores bucais esportivos protegem os dentes e tem como função impedir
+ fratura de dentes ou lesões na boca para praticantes de esportes, como o MMA.
 date: 2014-01-16T14:49:13.000Z
 featured_image: /images/c1c44baf-0946-4868-92d9-8b1cb42fbb3a_Protetor-bucal-esportivos.webp
 ---

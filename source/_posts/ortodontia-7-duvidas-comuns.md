@@ -1,9 +1,9 @@
 ---
 title: Ortodontia - Veja 7 dúvidas comuns.
 description: >-
-  A Ortodontia promove o correto posicionamento dos dentes e ossos maxilares,
-  trazendo benefícios funcionais e estéticos. Veja 7 dúvidas comuns dos
-  pacientes.
+ A Ortodontia promove o correto posicionamento dos dentes e ossos maxilares,
+ trazendo benefícios funcionais e estéticos. Veja 7 dúvidas comuns dos
+ pacientes.
 date: 2015-02-22T18:49:48.000Z
 featured_image: /images/7669bdff-4faa-45aa-b565-c3de3aa64ddf_Ortodontia.webp
 ---

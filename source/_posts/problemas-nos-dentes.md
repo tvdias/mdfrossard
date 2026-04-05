@@ -1,8 +1,8 @@
 ---
 title: Você pode ter Problemas nos Dentes e não saber.
 description: >-
-  Existem diversos problemas nos dentes além da cárie e da doença periodontal.
-  Fique atento e não procure atendimento somente quando a dor aparece.
+ Existem diversos problemas nos dentes além da cárie e da doença periodontal.
+ Fique atento e não procure atendimento somente quando a dor aparece.
 date: 2015-09-28T11:14:16.000Z
 featured_image: /images/73436d01-0456-4f89-9245-94f5e571d927_Problemas-nos-dentes.webp
 ---

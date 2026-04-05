@@ -1,8 +1,8 @@
 ---
 title: Gengiva Inchada - 3 Dicas fáceis para melhorar
 description: >-
-  A gengiva inchada é um problema comum e causa problemas para a nossa saúde. É
-  preciso tratar e prevenir esse problema. Veja agora 3 dicas práticas.
+ A gengiva inchada é um problema comum e causa problemas para a nossa saúde. É
+ preciso tratar e prevenir esse problema. Veja agora 3 dicas práticas.
 date: 2018-03-05T08:00:56.000Z
 featured_image: /images/63d5b7a4-ffdb-4009-b025-c1816959297d_higienização-da-gengiva-inchada.webp
 ---
@@ -42,13 +42,13 @@ Veja nosso texto sobre como realizar uma {% post_link escovacao-dos-dentes "perf
 
 Muitos o esquecem, mas o fio dental é tão importante quanto o uso da escova dental. 
 
-Existem muitos casos onde o sangramento e o inchaço da gengiva acontecem entre um dente e outro, justamente onde o fio dental deveria ser usado para limpar a região.  
+Existem muitos casos onde o sangramento e o inchaço da gengiva acontecem entre um dente e outro, justamente onde o fio dental deveria ser usado para limpar a região. 
 
 **Portanto a segunda dica é: use o fio dental todo dia.**
 
  {% post_link como-passar-o-fio-dental "A forma correta" %} é guiá-lo com os dedos até o encontro da gengiva com seu dente, de forma gentil, para remover toda a sujeira que se encontra acumulada nesta região e em toda a superfície dentária não alcançada pela escova. 
 
-Faço esta lembrança pois muitos  acreditam que passar o fio apenas no contato entre os dentes já é suficiente e assim negligenciam a parte gengival. 
+Faço esta lembrança pois muitos acreditam que passar o fio apenas no contato entre os dentes já é suficiente e assim negligenciam a parte gengival. 
 
 Dessa forma, mesmo que o dente não tenha nenhum dente vizinho “colado” a ele, o fio dental deve ser usado para higienizar a região de sulco gengival (onde a gengiva toca o dente). 
 

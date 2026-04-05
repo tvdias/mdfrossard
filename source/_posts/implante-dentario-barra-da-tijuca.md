@@ -34,7 +34,7 @@ Portanto, você pode realizar seu **implante dentário com segurança na Barra d
 
 Você pode realizar a sua cirurgia de implantes em nossas clínicas, tanto no Bairro de Botafogo como na Barra da Tijuca. 
 
-Para isso você pode ligar no telefone **(021) 3217-0430** ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)
+Para isso você pode ligar no telefone **(21) 3217-0430** ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)
 
 Ligue para nós para tirar suas dúvidas e marcar sua consulta. 
 

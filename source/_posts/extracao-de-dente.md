@@ -1,8 +1,8 @@
 ---
 title: Saiba o melhor pós operatório após uma extração de dente
 description: >-
-  Você sabe qual o melhor pós operatório para uma extração de dente ? Com as
-  corretas informações a extração de dente pode ser menos dolorosa.
+ Você sabe qual o melhor pós operatório para uma extração de dente ? Com as
+ corretas informações a extração de dente pode ser menos dolorosa.
 date: 2016-04-25T09:39:44.000Z
 featured_image: /images/cb766de1-d3d9-4d30-8994-46139e85c8f4_extração-de-dente.webp
 ---

@@ -1,8 +1,8 @@
 ---
 title: 'Dentes perfeitos, será possível ter? Veja os tratamentos'
 description: >-
-  Dentes Perfeitos, essas duas palavras são buscadas e desejadas por muitas
-  pessoas. Veja agora os tratamentos certos para você.
+ Dentes Perfeitos, essas duas palavras são buscadas e desejadas por muitas
+ pessoas. Veja agora os tratamentos certos para você.
 date: 2016-07-11T10:00:40.000Z
 featured_image: /images/18af7c69-edf2-442b-93bc-d2f270790979_como-mudar-o-sorriso-1.webp
 ---

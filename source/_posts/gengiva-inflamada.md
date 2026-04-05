@@ -1,8 +1,8 @@
 ---
 title: Gengiva Inflamada e Sangrando - O segredo para não ter ela assim.
 description: >-
-  Não ter a Gengiva inflamada pode ser mais mais fácil do que se imagina. Com
-  pequenos ajustes na rotina, sua saúde gengival pode ficar bem melhor.
+ Não ter a Gengiva inflamada pode ser mais mais fácil do que se imagina. Com
+ pequenos ajustes na rotina, sua saúde gengival pode ficar bem melhor.
 date: 2017-07-03T10:00:53.000Z
 featured_image: /images/8ae97bc8-c39d-4a3e-8ba0-114e0200a68a_gengiva-inflamada-e-sangrando.webp
 ---
@@ -28,7 +28,7 @@ Quando eu falo isso aos meus clientes, a maioria responde que escova os dentes t
 
 Existem outros fatores que devem ser levados em conta para se ter uma escovação eficiente. 
 
-Tais como:  
+Tais como: 
 
 * A forma de escovação;
 * A atenção dada a esse momento 
@@ -79,11 +79,11 @@ Outro fator super importante é a gravidade do {% post_link gengiva-sangrando "s
 
 Caso você não trate a inflamação da gengiva, pode-se ter inúmeros problemas, tais como :
 
-*   Dor
-*   Edema
-*   Infecção
-*   Presença de pus
-*   Perda do dente
+*  Dor
+*  Edema
+*  Infecção
+*  Presença de pus
+*  Perda do dente
 
 Enfim, procure atendimento o quanto antes para o tratamento da gengiva inflamada. Suas consequências podem ser muito ruins para você.
 

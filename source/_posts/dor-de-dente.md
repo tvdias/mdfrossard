@@ -1,8 +1,8 @@
 ---
 title: 'Dor de dente, as 3 principais causas e tratamentos'
 description: >-
-  Você tem ou já teve dor de dente? Veja agora as 3 principais causas e seus
-  corretos tratamentos para acabar com a dor de dente.
+ Você tem ou já teve dor de dente? Veja agora as 3 principais causas e seus
+ corretos tratamentos para acabar com a dor de dente.
 date: 2014-11-17T10:00:22.000Z
 featured_image: /images/70754142-620c-4d70-9da9-a766ca1df8bd_dor-de-dente.webp
 ---
@@ -54,7 +54,7 @@ Sem sombra de dúvida é a causa principal para a dor de dente.
 
 Nesse blog já foi discutido sobre essa doença. Para mais informações, {% post_link como-evitar-a-carie-dentaria "clique aqui" %}. 
 
-A destruição do dente pela cárie começa geralmente na região do esmalte de forma pequena e localizada. À medida que a doença  avança para as partes mais internas do dente, na dentina e na polpa, a probabilidade de sentir mais dor de dente é comum. 
+A destruição do dente pela cárie começa geralmente na região do esmalte de forma pequena e localizada. À medida que a doença avança para as partes mais internas do dente, na dentina e na polpa, a probabilidade de sentir mais dor de dente é comum. 
 
 Inicialmente podemos ter uma pequena sensibilidade a ingerir líquidos mais gelados, porém se a doença cárie não for controlada, a sensação dolorosa irá aumentar causando grande desconforto. 
 

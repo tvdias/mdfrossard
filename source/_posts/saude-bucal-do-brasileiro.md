@@ -1,8 +1,8 @@
 ---
-title: 'Será que a saúde bucal do Brasileiro é boa ?  '
+title: 'Será que a saúde bucal do Brasileiro é boa ? '
 description: >-
-  Será que a saúde bucal do brasileiro é boa? Usando a pesquisa e o texto
-  publicado na revista veja, vamos ver qual a conclusão chegamos.
+ Será que a saúde bucal do brasileiro é boa? Usando a pesquisa e o texto
+ publicado na revista veja, vamos ver qual a conclusão chegamos.
 date: 2015-01-05T13:53:29.000Z
 featured_image: /images/d7bb809c-09fe-48be-8f79-f419ee13e5d4_Saúde-bucal.webp
 ---

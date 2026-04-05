@@ -1,8 +1,8 @@
 ---
 title: O que é uma prótese dentária fixa ?
 description: >-
-  Muitos clientes nos perguntam o que é uma prótese dentária fixa . Nesse texto
-  explicamos o que seria esse tipo de trabalho e quais as suas classificações.
+ Muitos clientes nos perguntam o que é uma prótese dentária fixa . Nesse texto
+ explicamos o que seria esse tipo de trabalho e quais as suas classificações.
 date: 2017-02-15T09:55:01.000Z
 featured_image: /images/611839b1-e153-4d42-b2bb-97d0c04e53ef_prótese-dentária-fixa.webp
 ---

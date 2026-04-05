@@ -1,8 +1,8 @@
 ---
 title: 7 Dicas fáceis para a sua Higiene Bucal
 description: >-
-  Mude a saúde dos seus dentes com pequenas dicas sobre Higiene Bucal. Você pode
-  alcançar uma boca muito mais saudável. Aprenda agora.
+ Mude a saúde dos seus dentes com pequenas dicas sobre Higiene Bucal. Você pode
+ alcançar uma boca muito mais saudável. Aprenda agora.
 date: 2015-08-17T10:30:39.000Z
 featured_image: /images/14399dec-bdd5-48d0-b052-90432ad0020d_higiene-bucal.webp
 ---

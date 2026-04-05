@@ -39,7 +39,7 @@ Quando você procura **dentistas na Barra da Tijuca**, pode ter certeza de que e
 
 ## Agende Sua Consulta
 
-Agende sua consulta agora mesmo e venha conhecer nossa clínica! Entre em contato pelo telefone (021) 3217-0430 ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) e descubra por que somos referência em dentistas na Barra da Tijuca. 
+Agende sua consulta agora mesmo e venha conhecer nossa clínica! Entre em contato pelo telefone(21) 3217-0430 ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) e descubra por que somos referência em dentistas na Barra da Tijuca. 
 
 Acompanhe também nossas novidades e dicas de saúde bucal em nossas redes sociais: [Instagram.](https://www.instagram.com/md_frossard_odontologia/) O seu sorriso merece o melhor, e estamos aqui para proporcionar isso a você.
 

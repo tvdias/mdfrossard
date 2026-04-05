@@ -1,8 +1,8 @@
 ---
 title: Canal no dente - Afinal quando é preciso realizar ?
 description: >-
-  O canal no dente é um procedimento muito realizado no consultório dentário.
-  Ele consiste na remoção da polpa e no tratamento do conduto radicular.
+ O canal no dente é um procedimento muito realizado no consultório dentário.
+ Ele consiste na remoção da polpa e no tratamento do conduto radicular.
 date: 2018-01-29T08:00:56.000Z
 featured_image: /images/c78bde38-d8ff-49b7-bc3f-37e374c9358d_canal-no-dente-como-evitar.webp
 ---

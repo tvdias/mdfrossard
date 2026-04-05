@@ -1,15 +1,15 @@
 ---
 title: Conheça o check up digital preventivo para os dentes.
 tags:
-  - camera intra oral
-  - dentista
-  - odontologia
-  - prevenção
+ - camera intra oral
+ - dentista
+ - odontologia
+ - prevenção
 url: 382.html
 featured_image: '/images/6f943b01-fda8-4519-bf6d-1e2fad45ba41_14.webp'
 id: 382
 categories:
-  - Sem categoria
+ - Sem categoria
 date: 2014-10-19 10:00:19
 ---
 

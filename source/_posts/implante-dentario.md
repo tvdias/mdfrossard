@@ -1,8 +1,8 @@
 ---
 title: Implante Dentário - O Guia Absolutamente Completo
 description: >-
-  Saiba tudo sobre o tratamento com Implante Dentário. Ele substitue seu dente
-  perdido, devolvendo sua mastigação, estética e harmonia no sorriso.
+ Saiba tudo sobre o tratamento com Implante Dentário. Ele substitue seu dente
+ perdido, devolvendo sua mastigação, estética e harmonia no sorriso.
 date: 2014-10-13T09:00:10.000Z
 featured_image: /images/1bd6a3a8-074a-49b9-8138-27a77a78d08b_implante-dental-1.webp
 ---
@@ -238,11 +238,11 @@ Existem inúmeras variáveis para um planejamento correto. Por isso, a avaliaç�
 
 Se você deseja recuperar sua mastigação e estética com implantes, fale conosco:
 
-*   **WhatsApp:** [Enviar mensagem agora](https://api.whatsapp.com/send?phone=5521976637803)
-*   **Telefone:** (21) 3217-0430
+*  **WhatsApp:** [Enviar mensagem agora](https://api.whatsapp.com/send?phone=5521976637803)
+*  **Telefone:**(21)(21) 3217-0430
 
 <div style="margin-top: 2rem; text-align: center;">
-    <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Agendar Consulta via WhatsApp</a>
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Agendar Consulta via WhatsApp</a>
 </div>
 
 Um grande abraço,

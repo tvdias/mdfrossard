@@ -1,8 +1,8 @@
 ---
 title: Lente de Contato Dental - 4 pontos que devemos saber
 description: >-
-  A lente de contato dental é um ótimo tratamento estético quando bem indicado.
-  Com as lentes podemos transformar o sorriso. Leia agora o texto completo.
+ A lente de contato dental é um ótimo tratamento estético quando bem indicado.
+ Com as lentes podemos transformar o sorriso. Leia agora o texto completo.
 date: 2017-05-15T13:45:45.000Z
 featured_image: /images/fefcb1b9-1ef1-40eb-8661-b0c087e83f05_lente-de-contato-dental.webp
 ---
@@ -17,10 +17,10 @@ Mas o que elas têm de tão diferente na odontologia e o que elas trazem de vant
 
 Continue e veja nesse texto -
 
-*   A grande vantagem das lente de contato dental
-*   A correta indicação
-*   Como ele é confeccionada
-*   Sua desvantagem
+*  A grande vantagem das lente de contato dental
+*  A correta indicação
+*  Como ele é confeccionada
+*  Sua desvantagem
 
 1 - Lente de contato dental  X Facetas de porcelana
 ---------------------------------------------------
@@ -63,9 +63,9 @@ Esse trabalho é indicado quando temos um dente com formato diferente ou fora de
 
 Assim, a lente de contato dental é usada em procedimentos que demandam pouco desgaste de superfície, tais como :
 
-*   Fechamento de diastemas
-*   Dentes que tiveram pequenas fraturas
-*   Dentes desalinhados.
+*  Fechamento de diastemas
+*  Dentes que tiveram pequenas fraturas
+*  Dentes desalinhados.
 
 Devemos lembrar que as lentes de contatos nos dentes podem fazer parte de um tratamento maior, a chamada {% post_link reabilitacao-oral "reabilitação oral" %}.
 

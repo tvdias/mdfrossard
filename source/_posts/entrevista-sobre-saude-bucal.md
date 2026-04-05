@@ -1,8 +1,8 @@
 ---
 title: 'Entrevista do Dr. Davi Frossard na televisão '
 description: >-
-  Veja a entrevista que o dentista Dr. Davi Frossard deu na televisão. Nela ele
-  aborda alguns aspectos sobre os implantes dentais. 
+ Veja a entrevista que o dentista Dr. Davi Frossard deu na televisão. Nela ele
+ aborda alguns aspectos sobre os implantes dentais. 
 date: 2014-08-12T15:53:25.000Z
 featured_image: /images/4d20162f-bb9b-45b7-95bf-fa22daa28629_Programa-tv.webp
 ---

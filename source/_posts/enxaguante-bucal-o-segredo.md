@@ -1,8 +1,8 @@
 ---
 title: O segredo do Enxaguante Bucal. Você deve usar ou não ?
 description: >-
-  Será o Enxaguante Bucal essencial na nossa escovação ? Podemos usar somente
-  ele na higiene bucal diária ? Leia o texto agora e descubra !
+ Será o Enxaguante Bucal essencial na nossa escovação ? Podemos usar somente
+ ele na higiene bucal diária ? Leia o texto agora e descubra !
 date: 2017-09-04T08:00:57.000Z
 featured_image: /images/cbfdb8a3-bd79-4121-a6ca-27322b9ac607_enxaguante-bucal-1.webp
 ---

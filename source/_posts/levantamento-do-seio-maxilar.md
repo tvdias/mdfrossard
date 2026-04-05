@@ -1,9 +1,9 @@
 ---
 title: Levantamento do Seio Maxilar - Esse Tratamento é seguro ?!
 description: >-
-  A Cirurgia de Levantamento do seio maxilar causa várias dúvidas entre os
-  pacientes. Leia o texto agora e saiba se é possível realizar esse
-  procedimento.
+ A Cirurgia de Levantamento do seio maxilar causa várias dúvidas entre os
+ pacientes. Leia o texto agora e saiba se é possível realizar esse
+ procedimento.
 date: 2014-07-28T10:47:00.000Z
 featured_image: /images/ed795d4d-a173-46df-97c4-ef8153e707aa_Levantamento-seio-maxilar.webp
 ---

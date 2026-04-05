@@ -2,8 +2,8 @@
 title: 'Medo de dentista, como superar ele ?'
 author: Luciana Vieira Peroni
 description: >-
-  O medo de dentista pode estar relacionado a vários fatores, como um trauma na
-  infância. Veja aqui como superar esse trauma e sorrir novamente.
+ O medo de dentista pode estar relacionado a vários fatores, como um trauma na
+ infância. Veja aqui como superar esse trauma e sorrir novamente.
 date: 2014-08-11T10:00:20.000Z
 featured_image: /images/d639e10c-76db-4eef-bdd7-b6c2afb2b55a_Medo-de-dentista.webp
 ---

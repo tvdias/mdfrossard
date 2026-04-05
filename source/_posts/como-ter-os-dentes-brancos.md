@@ -1,8 +1,8 @@
 ---
 title: Como ter Dentes Brancos - 3 Tratamentos Básicos
 description: >-
-  Você quer ter dentes brancos e saudáveis ? Ter um sorriso agradável é o sonho
-  de muitos. Leia o texto e descubra 3 tratamentos para realizar isso.
+ Você quer ter dentes brancos e saudáveis ? Ter um sorriso agradável é o sonho
+ de muitos. Leia o texto e descubra 3 tratamentos para realizar isso.
 date: 2017-11-06T09:00:35.000Z
 featured_image: /images/fc561e01-38ad-4697-8ee4-db276bc4d753_dentes-brancos.webp
 ---
@@ -42,7 +42,7 @@ Recordo também que visitas ao dentista para eliminação de tártaro acumulado 
 
 ![](/images/dc782d13-2156-49da-a708-51b1bf1e3ad5_dentes-brancos-e-o-clareamento.webp) 
 
-Quando existem dentes amarelos e com pequenas manchas, o clareamento  dental é um ótimo tratamento. 
+Quando existem dentes amarelos e com pequenas manchas, o clareamento dental é um ótimo tratamento. 
 
 Pois além de não ser invasivo, permite clarear o dente de forma segura e confiável (desde que acompanhado pelo seu dentista). 
 

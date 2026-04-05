@@ -1,8 +1,8 @@
 ---
 title: Como ter os dentes mais saudáveis ?
 description: >-
-  Nem sempre procuramos saber como ter os dentes mais saudáveis. Entretanto, é
-  importante ter saúde bucal para evitar a cárie e a doença periodontal.
+ Nem sempre procuramos saber como ter os dentes mais saudáveis. Entretanto, é
+ importante ter saúde bucal para evitar a cárie e a doença periodontal.
 date: 2018-04-16T08:00:13.000Z
 featured_image: /images/b14ef61e-c155-493f-8b7a-c0db9c6b63d4_como-ter-dentes-mais-saudáveis.webp
 ---
@@ -17,9 +17,9 @@ Através dela, detectamos problemas na fase inicial, possibilitando ter menos do
 
 Continue lendo esse texto para saber :
 
-*   Quais são as 3 principais práticas que devemos adotar
-*   O uso correto da escovar dental
-*   Como prevenir que se tenha um problema bucal
+*  Quais são as 3 principais práticas que devemos adotar
+*  O uso correto da escovar dental
+*  Como prevenir que se tenha um problema bucal
 
 **Como ter os dentes mais saudáveis e a escovação**
 ---------------------------------------------------

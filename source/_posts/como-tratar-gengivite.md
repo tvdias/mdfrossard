@@ -1,8 +1,8 @@
 ---
 title: Como Tratar a Gengivite - Saiba tudo agora
 description: >-
-  A dúvidas de como tratar a gengivite é comum. Porém, o tratamento é fácil. A
-  correta escovação e o uso do fio dental são essenciais.
+ A dúvidas de como tratar a gengivite é comum. Porém, o tratamento é fácil. A
+ correta escovação e o uso do fio dental são essenciais.
 date: 2018-02-19T08:00:01.000Z
 featured_image: /images/ac235230-9211-4cb4-9f75-57e6d3e436e6_como-tratar-a-gengivite.webp
 ---

@@ -1,8 +1,8 @@
 ---
 title: 5 alimentos que previnem cáries.
 description: >-
-  Veja os 5 alimentos que previnem cáries e que ajudam na sua saúde bucal. Mude
-  sua alimentação e melhore a saúde dos seus dentes. 
+ Veja os 5 alimentos que previnem cáries e que ajudam na sua saúde bucal. Mude
+ sua alimentação e melhore a saúde dos seus dentes. 
 date: 2016-08-23T09:06:45.000Z
 featured_image: /images/fe72e948-f92e-47f6-a5f3-78ac9655698d_5-alimentos-que-previnem-cáries.webp
 ---

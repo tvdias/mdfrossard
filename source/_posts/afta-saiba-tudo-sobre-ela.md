@@ -2,8 +2,8 @@
 title: Afta - Saiba tudo sobre esse problema.
 author: Luciana Vieira Peroni
 description: >-
-  A afta é comum na boca. Nesse texto vamos responder algumas perguntas comuns.
-  O que causa a afta e como diminuir o desconforto.
+ A afta é comum na boca. Nesse texto vamos responder algumas perguntas comuns.
+ O que causa a afta e como diminuir o desconforto.
 date: 2015-06-01T12:04:08.000Z
 featured_image: /images/cda7b970-a879-4ab4-a827-3538f278e15a_Afta-.webp
 ---

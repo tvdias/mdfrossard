@@ -1,8 +1,8 @@
 ---
 title: Será que precisamos de Fotos e Imagens na Odontologia ?
 description: >-
-  As fotos atualmente são essenciais para o tratamento reabilitador na
-  odontologia. Veja como e porque as imagens tem ajudado os dentistas.
+ As fotos atualmente são essenciais para o tratamento reabilitador na
+ odontologia. Veja como e porque as imagens tem ajudado os dentistas.
 date: 2015-01-19T10:00:47.000Z
 featured_image: /images/ab18a2d9-c3a3-416d-960d-dd4491e4493f_camera-fotografica.webp
 ---

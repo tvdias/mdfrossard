@@ -1,8 +1,8 @@
 ---
 title: Prótese sobre implante dentário - Você sabe o que é ?
 description: >-
-  A prótese sobre implante é a melhor alternativa para quando se perde um dente.
-  Sua estética e durabilidade são ótimas desde que bem cuidadas.
+ A prótese sobre implante é a melhor alternativa para quando se perde um dente.
+ Sua estética e durabilidade são ótimas desde que bem cuidadas.
 date: 2018-08-13T10:00:58.000Z
 featured_image: /images/e30cecc1-4499-41a1-af93-697dd0934221_Protese-sobre-implante.webp
 ---
@@ -17,9 +17,9 @@ Entretanto, ainda existem diversas dúvidas sobre esse tipo de tratamento.
 
 _Portanto continue lendo para saber sobre :_
 
-*   A diferença entre prótese e implantes.
-*   Os tipos de prótese sobre implante.
-*   Estética e durabilidade desse trabalho.
+*  A diferença entre prótese e implantes.
+*  Os tipos de prótese sobre implante.
+*  Estética e durabilidade desse trabalho.
 
 **Prótese e implantes - Tratamentos diferentes**
 ------------------------------------------------
@@ -46,9 +46,9 @@ Portanto, nesse texto irei somente explicar sobre as próteses fixas.
 
 Afinal, sempre quando pensamos em implantes dentais, queremos ter um trabalho com mais estabilidade. Existem basicamente 3 tipos de prótese sobre implante.
 
-1.  [Coroa Unitária sobre Implante](/coroa-dentaria/) \- Quando realizamos somente um dente sobre um Implante.
-2.  Ponte sobre implante - Quando precisamos substituir mais de um dente. Nesse caso o número de implantes pode ser menor do que o número de dentes.
-3.  Protocolo sobre implante - Quando se substitui todos os dentes ou superior ou inferior. Nesse caso se usa uma prótese completa ( todos os dentes unidos ) fixada em implantes.
+1. [Coroa Unitária sobre Implante](/coroa-dentaria/) \- Quando realizamos somente um dente sobre um Implante.
+2. Ponte sobre implante - Quando precisamos substituir mais de um dente. Nesse caso o número de implantes pode ser menor do que o número de dentes.
+3. Protocolo sobre implante - Quando se substitui todos os dentes ou superior ou inferior. Nesse caso se usa uma prótese completa ( todos os dentes unidos ) fixada em implantes.
 
 **E sua estética, é boa ?**
 ---------------------------

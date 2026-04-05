@@ -1,8 +1,8 @@
 ---
 title: O Poder do Sorriso - Veja como ele pode mudar sua auto-estima.
 description: >-
-  Todos os tratamentos são importantes para a nossa correta mastigação e saúde
-  bucal. Porém tem um fator que faz uma tremenda diferença para você, o sorriso.
+ Todos os tratamentos são importantes para a nossa correta mastigação e saúde
+ bucal. Porém tem um fator que faz uma tremenda diferença para você, o sorriso.
 date: 2015-08-03T08:00:35.000Z
 featured_image: /images/c0ccdb7e-cee3-4d12-8c7e-7b2446856fa3_sorriso.webp
 ---

@@ -1,8 +1,8 @@
 ---
 title: Ranger os dentes é normal ? Saiba tudo.
 description: >-
-  Ranger os Dentes é um hábito que esta se tornando comum em nossa população.
-  Entretanto isso não necessariamente é bom. Confira agora a razão.
+ Ranger os Dentes é um hábito que esta se tornando comum em nossa população.
+ Entretanto isso não necessariamente é bom. Confira agora a razão.
 date: 2017-07-24T14:32:30.000Z
 featured_image: /images/99a1bb75-0022-42a0-8181-5bd15bb334d2_Ranger-os-dentes-ansiedade.webp
 ---
@@ -43,8 +43,8 @@ Portanto, apesar de serem nomenclaturas diferentes, esses hábitos geram uma sé
 
 ##### As principais causas do ranger dos dentes são :
 
-*   **Estresse e a ansiedade**
-*   **Oclusão deficiente**
+*  **Estresse e a ansiedade**
+*  **Oclusão deficiente**
 
 O estresse, a ansiedade, o ir dormir pensando em problemas são situações que muitas das vezes não conseguimos evitar. 
 
@@ -60,12 +60,12 @@ Isso, ao longo do tempo pode causar sérios problemas na nossa mastigação.
 
 ##### As principais consequências de ranger os dentes são :
 
-*   **Dores nos músculos da face**
-*   **Dor de cabeça**
-*   **Sensibilidade**
-*   **Grande desgaste dos dentes**
-*   **Fraturas dentárias**
-*   **Problemas articulares**
+*  **Dores nos músculos da face**
+*  **Dor de cabeça**
+*  **Sensibilidade**
+*  **Grande desgaste dos dentes**
+*  **Fraturas dentárias**
+*  **Problemas articulares**
 
 **Tratamento**
 --------------

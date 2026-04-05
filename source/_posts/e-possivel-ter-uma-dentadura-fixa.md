@@ -1,8 +1,8 @@
 ---
 title: Dentadura Fixa- É possível ter os dentes fixos ?
 description: >-
-  Quer ter uma dentadura fixa ? Esse trabalho é possível e apresenta muitas
-  vantagens. Para saber mais, leia o texto completo.
+ Quer ter uma dentadura fixa ? Esse trabalho é possível e apresenta muitas
+ vantagens. Para saber mais, leia o texto completo.
 date: 2015-03-30T10:00:07.000Z
 featured_image: /images/5a0384f7-7d3c-4db2-92d3-e4414496ec23_Dentadura-e-implantes.webp
 ---

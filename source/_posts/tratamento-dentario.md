@@ -1,8 +1,8 @@
 ---
 title: Porque o tratamento dentário é essencial para a sua saúde.
 description: >-
-  Tratamento Dentário e sua saúde. Saiba porque o correto cuidado com o seus
-  dentes pode mudar a sua vida. Existem diversos tratamentos dentais para você.
+ Tratamento Dentário e sua saúde. Saiba porque o correto cuidado com o seus
+ dentes pode mudar a sua vida. Existem diversos tratamentos dentais para você.
 date: 2015-07-27T14:18:59.000Z
 featured_image: /images/5d522b8b-7cf0-46a6-b1f2-1181a33a47f7_Tratamento-dentário.webp
 ---

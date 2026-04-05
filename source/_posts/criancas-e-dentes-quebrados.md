@@ -1,8 +1,8 @@
 ---
 title: 'Crianças e os Dentes Quebrados - Como Tratar e evitar. '
 description: >-
-  O que fazer com crianças e dentes quebrados ? Nesse texto você encontrará qual
-  a forma de proceder caso seu filho quebre o dente. Entre e confira.
+ O que fazer com crianças e dentes quebrados ? Nesse texto você encontrará qual
+ a forma de proceder caso seu filho quebre o dente. Entre e confira.
 date: 2013-12-17T07:44:36.000Z
 featured_image: /images/7dc06590-2387-46e0-81c3-286d37d78920_Criança-e-dentes-quebrados.webp
 ---

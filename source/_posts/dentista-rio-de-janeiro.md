@@ -1,7 +1,7 @@
 ---
 title: Dentista no Rio de Janeiro
 description: >-
-  Precisa de dentista no Rio de Janeiro? Possuímos duas clinica de alto padrão nessa cidade. Realize seu tratamento com conforto e segurança em nossa clínica.
+ Precisa de dentista no Rio de Janeiro? Possuímos duas clinica de alto padrão nessa cidade. Realize seu tratamento com conforto e segurança em nossa clínica.
 date: 2015-08-28T09:20:36.000Z
 featured_image: /images/d5bbe970-79ea-4846-8f8d-8fbdccb08046_dentista-rio-de-janeiro.webp
 ---
@@ -11,7 +11,7 @@ O [Rio de Janeiro](https://pt.wikipedia.org/wiki/Rio_de_Janeiro) é uma das cida
 
 Diversas pessoas vem visitar e conhecer os encantos da cidade maravilhosa. Devido ao grande números de visitantes seja a trabalho ou turismo, pode acontecer de alguns precisarem de tratamento de saúde ou de **dentista no Rio de Janeiro**. 
 
-Se esse é o seu caso e você precise de um dentista no Rio de Janeiro, entre em contato conosco pelo telefone **(021) 3217-0430** ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) para marcar sua consulta.
+Se esse é o seu caso e você precise de um dentista no Rio de Janeiro, entre em contato conosco pelo telefone **(21) 3217-0430** ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) para marcar sua consulta.
 
 Nossa clínica odontológica na cidade do Rio de Janeiro possui mais de 37 anos de atendimento e possui dois endereços. Uma no bairro de [Botafogo](/dentista-em-botafogo/) e outra na [Barra da tijuca.](/dentista-barra-da-tijuca/)
 
@@ -51,13 +51,13 @@ Ambas possuem toda a infra estrutura para você ter um dentista no Rio de Janeir
 
 ## **Precisa marcar um Dentista no Rio de Janeiro**
 
-Para marcar uma consulta em nossas clínica no Rio de Janeiro, você pode ligar para o telefone **(021) 3217-0430** ou mande uma [mensagem via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)
+Para marcar uma consulta em nossas clínica no Rio de Janeiro, você pode ligar para o telefone **(21) 3217-0430** ou mande uma [mensagem via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)
 
 Caso queira ver a localização das nossas clínicas, você pode [clicar aqui](/localizacao/) 
 
 Nossa clinica possui diversos tipos de [tratamentos](/tratamentos/implante-dentario/) e todos podem ser feitos no mesmo local. 
 
-Como tratamentos possuímos tratamentos:  
+Como tratamentos possuímos tratamentos: 
 
 * Estéticos ( Faceta dentária ou Lente de contato dental ); 
 * Implantes dentários;

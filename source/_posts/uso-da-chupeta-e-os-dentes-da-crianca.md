@@ -2,9 +2,9 @@
 title: O uso da chupeta e os dentes da criança. Será ruim ?
 author: Luciana Vieira Peroni
 description: >-
-  O uso da chupeta e os dentes da criança, será que isso é ruim? Nesse post
-  vamos discutir a melhor maneira de usar a chupeta para não prejudicar a
-  criança.
+ O uso da chupeta e os dentes da criança, será que isso é ruim? Nesse post
+ vamos discutir a melhor maneira de usar a chupeta para não prejudicar a
+ criança.
 date: 2014-08-06T10:00:30.000Z
 featured_image: /images/3f043690-cc97-4ae3-8a84-a3a842861fe1_chupeta.webp
 ---
@@ -30,7 +30,7 @@ Como conseqüência, a criança pode apresentar problemas como:
 * Problemas de fala; 
 * Problemas respiratórios; 
 * Cárie pela má higienização da chupeta;
-* Além de problemas estéticos e sociais (como bullying ou dificuldade para aceitar seu crescimento).  
+* Além de problemas estéticos e sociais (como bullying ou dificuldade para aceitar seu crescimento). 
 
 Também é importante enfatizar que a sucção do bebê no seio materno é diferente daquela proporcionada pela chupeta ou mamadeira. 
 

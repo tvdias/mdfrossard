@@ -1,7 +1,7 @@
 ---
 title: Dentista em Botafogo na cidade do Rio de Janeiro 
 description: >-
-  Dentista em Botafogo na cidade do Rio de Janeiro. Faça seu tratamento em nossa clínica com conforto e segurança. Veja os depoimentos de diversos pacientes. 
+ Dentista em Botafogo na cidade do Rio de Janeiro. Faça seu tratamento em nossa clínica com conforto e segurança. Veja os depoimentos de diversos pacientes. 
 date: 2016-04-24T10:13:44.000Z
 featured_image: /images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp
 ---
@@ -11,7 +11,7 @@ Apresentando praias e pontos turísticos conhecidos no mundo todo. Nessa região
 
 Nossa clínica esta localizado neste mesmo Bairro há mais 35 anos. Estamos localizados ao lado da Cobal e perto do largo dos Leões.
 
-**Para marcar uma consulta em nossa clínica de Botafogo ligue para o telefone (021) 3217-0430 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
+**Para marcar uma consulta em nossa clínica de Botafogo ligue para o telefone(21) 3217-0430 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
 
 ## **Dentista em Botafogo**
 
@@ -21,7 +21,7 @@ A MD Frossard Odontologia é uma clínica odontológica antiga e familiar no Rio
 
 Nosso [equipe](/equipe/) possui diversos profissionais e são liderados pelos dentistas **Marcos e Davi Frossard.** 
 
-Temos o conceito moderno da odontologia, visando a saúde completa do indivíduo e não somente os dentes. Por isso focamos nosso atendimento na alta perfomance,  através de uma odontologia contemporânea focada em 3 pilares : **Relacionamento, confiança e pontualidade.** 
+Temos o conceito moderno da odontologia, visando a saúde completa do indivíduo e não somente os dentes. Por isso focamos nosso atendimento na alta perfomance, através de uma odontologia contemporânea focada em 3 pilares : **Relacionamento, confiança e pontualidade.** 
 
 Para isso, temos um amplo espaço para o atendimentode diversars especialidades, tais como:
 - Implante Dentário ;
@@ -29,7 +29,7 @@ Para isso, temos um amplo espaço para o atendimentode diversars especialidades,
 - Facetas ;
 - Tratamento de canal ; 
 - Tratamento de gengiva ; 
-- Entre outros.  
+- Entre outros. 
 
 Caso precise de um **dentista em Botafogo** entre em contato conosco, basta clicar aqui e ver os nossos [contatos.](/contato/) 
 
@@ -66,7 +66,7 @@ Em nosso site possuímos uma área aonde explicamos cada tipo de tratamento e os
 
 Caso ainda tenha dúvidas, ligue para nós ou deixe seu comentário no post. 
 
-Nosso atendimento é individual e portanto com hora marcada e sem atraso. Caso necessite de um **dentista em Botafogo** ligue para (021) 3217-0430 para nós que estaremos a sua disposição para atendimento.
+Nosso atendimento é individual e portanto com hora marcada e sem atraso. Caso necessite de um **dentista em Botafogo** ligue para(21) 3217-0430 para nós que estaremos a sua disposição para atendimento.
 
 Caso você precise de um [dentista na Barra da Tijuca](/dentista-barra-da-tijuca/), também possuimos uma unidade nesse bairro. Nela contamos com toda a infra-estrutura que você precisa. 
 

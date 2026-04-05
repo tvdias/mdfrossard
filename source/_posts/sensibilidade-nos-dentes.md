@@ -3,9 +3,9 @@ title: Sensibilidade nos Dentes - Veja os 9 Principais Motivos .
 date: 2014-05-15T19:10:51.000Z
 author: Luciana Vieira Peroni
 description: >-
-  A dor causada pela sensibilidade dental é muito comum no consultório
-  odontológico. Veja os 9 principais motivos e principalmente como eliminar a
-  dor.
+ A dor causada pela sensibilidade dental é muito comum no consultório
+ odontológico. Veja os 9 principais motivos e principalmente como eliminar a
+ dor.
 featured_image: /images/d58faad0-cee4-4837-ac17-cb53824b8527_sensibilidade-dental.webp
 ---
 ## Você já teve Sensibilidade nos Dentes ?
@@ -124,7 +124,7 @@ sse tipo de desgaste é extremamente maléfico ao paciente, pois usamos aliment
 
 ![sensibilidade dentinária](/images/8ac1c39d-b7b4-489f-b5b1-073ae14d232d_sensibilidade-dentinária.webp) 
 
-Claro que Sim!  Porém **não são a única solução**.  
+Claro que Sim! Porém **não são a única solução**. 
 
 Em alguns casos na região de dentina exposta, o uso destas pastas não é suficiente pois o paciente também necessita reconstruir a parede de esmalte perdida (aquela que protege a dentina) por meio de restaurações.  
 
@@ -170,7 +170,7 @@ Com pequenas correções em nossa rotina, conseguimos reverter o quadro de sensi
 
 Nos casos mais complexos , devemos procurar orientação profissional para sabermos qual a causa do problema e assim eliminar este desconforto. 
 
-É importante que o paciente mantenha suas visitas regulares ao dentista, para que ele possa observar logo de inicio algum problema, prevenindo que se tenha o desconforto da sensibilidade nos dentes.  
+É importante que o paciente mantenha suas visitas regulares ao dentista, para que ele possa observar logo de inicio algum problema, prevenindo que se tenha o desconforto da sensibilidade nos dentes. 
 
 Além disso, a colaboração do paciente é muito importante, ele deve estar apto a exercer a correta higienização dos dentes para que o sucesso do tratamento seja alcançado.  
 

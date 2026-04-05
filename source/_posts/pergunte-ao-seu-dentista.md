@@ -1,8 +1,8 @@
 ---
 title: 'Pergunte ao seu Dentista ? Tire suas dúvidas sobre tratamentos dentários. '
 description: >-
-  Tem alguma dúvida sobre o tratamento dentário ? Deixe seu comentário em nosso
-  post que iremos responder o quanto antes sua dúvida. 
+ Tem alguma dúvida sobre o tratamento dentário ? Deixe seu comentário em nosso
+ post que iremos responder o quanto antes sua dúvida. 
 date: 2014-05-05T14:56:34.000Z
 featured_image: /images/c9ff48bb-7cfd-40de-99bd-dc39cacc40ac_Pergunte-a-seu-dentista.webp
 ---

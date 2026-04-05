@@ -1,8 +1,8 @@
 ---
 title: Faceta de Porcelana - 5 Razões para mudar seu sorriso
 description: >-
-  A Faceta de Porcelana pode mudar completamente o seu sorriso e auto-estima.
-  Veja as principais indicações para você e mude também.
+ A Faceta de Porcelana pode mudar completamente o seu sorriso e auto-estima.
+ Veja as principais indicações para você e mude também.
 date: 2015-09-08T15:15:27.000Z
 featured_image: /images/adfe83ee-64a4-4200-88b2-1fb15ca650ef_faceta-porcelana.webp
 ---

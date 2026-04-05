@@ -1,8 +1,8 @@
 ---
 title: Cárie Dentária - Como evitar esse problema comum.
 description: >-
-  A Cárie dentária é a doença bucal mais comum de se ter. Porém, é possível
-  prevenir com simples atitudes. Veja aqui 10 dicas de como evitar a cárie.
+ A Cárie dentária é a doença bucal mais comum de se ter. Porém, é possível
+ prevenir com simples atitudes. Veja aqui 10 dicas de como evitar a cárie.
 date: 2014-06-20T07:49:19.000Z
 featured_image: /images/a38f22b8-210d-4ced-9cb2-e04840d0b9b4_Cárie-dentária-1.webp
 ---
@@ -27,7 +27,7 @@ Essa deterioração do dente é conseqüência do tipo de vida do indivíduo:
 
 ## **Como posso saber que estou com cárie dentária?**
 
-![cárie dentária](/images/9220d1fb-072b-428d-afb0-090be874bdca_como-clarear-os-dentes-bicarbonato.webp)  
+![cárie dentária](/images/9220d1fb-072b-428d-afb0-090be874bdca_como-clarear-os-dentes-bicarbonato.webp) 
 
 A cárie começa de forma localizada e pequena com as chamadas manchas brancas opacas. 
 

@@ -6,7 +6,7 @@ featured_image: /images/md_odontologia_barra.webp
 category: Clínica
 author: "Davi Heringer Frossard"
 intro_text: |
-  A MD Odontologia é referência em odontologia de alto padrão no Rio de Janeiro, com unidades estrategicamente localizadas na **Barra da Tijuca** (Shopping Città América, Av. das Américas, 700, Bloco 2, Sala 143) e em **Botafogo** (Rua Marques, 15, Humaitá).
+ A MD Odontologia é referência em odontologia de alto padrão no Rio de Janeiro, com unidades estrategicamente localizadas na **Barra da Tijuca** (Shopping Città América, Av. das Américas, 700, Bloco 2, Sala 143) e em **Botafogo** (Rua Marques, 15, Humaitá).
 ---
 
 Com mais de **38 anos de história**, nossa clínica se destaca pelo atendimento personalizado e pela busca constante por excelência nos resultados, garantindo aos nossos pacientes um sorriso bonito e saudável.
@@ -47,7 +47,7 @@ Marli Curi Goulart compartilha:"Já fiz vários procedimentos dentários, tanto 
 
 Venha conhecer a MD Odontologia, referência em tratamentos odontológicos no Rio de Janeiro. Agende sua consulta e transforme o seu sorriso! 
 
-Entre em contato pelo telefone (021) 3217-0430 mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) ou visite uma de nossas unidades. Seu sorriso merece o melhor, e nós estamos aqui para cuidar dele.
+Entre em contato pelo telefone(21) 3217-0430 mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) ou visite uma de nossas unidades. Seu sorriso merece o melhor, e nós estamos aqui para cuidar dele.
 
 
 

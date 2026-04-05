@@ -1,8 +1,8 @@
 ---
 title: 'Dente Inflamado - Veja 3 segredos sobre ele agora. '
 description: >-
-  O dente inflamado é uma condição que ocasiona muita dor e desconforto. Leia
-  agora o texto completo sobre esse tema e veja 3 segredos sobre isso.
+ O dente inflamado é uma condição que ocasiona muita dor e desconforto. Leia
+ agora o texto completo sobre esse tema e veja 3 segredos sobre isso.
 date: 2018-06-27T10:00:27.000Z
 featured_image: /images/6f5542f0-084c-40a2-95a7-d7c7051351a1_mau-hálito.webp
 ---

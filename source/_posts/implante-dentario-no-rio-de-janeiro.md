@@ -1,8 +1,8 @@
 ---
 title: Implante Dentário no Rio de Janeiro
 description: >-
-  Saiba tudo e tire suas dúvidas sobre a instalação de implante dentário no Rio
-  de Janeiro com segurança. O tratamento com implantes devolve a sua mastigação.
+ Saiba tudo e tire suas dúvidas sobre a instalação de implante dentário no Rio
+ de Janeiro com segurança. O tratamento com implantes devolve a sua mastigação.
 date: 2016-01-20T15:56:33.000Z
 featured_image: /images/b340818e-20e6-4587-a475-becbd9e34f97_Implante-dentário-RJ-1.webp
 ---

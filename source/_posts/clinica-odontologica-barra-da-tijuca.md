@@ -1,7 +1,7 @@
 ---
 title: Clínica Odontológica na Barra da Tijuca
 description: >-
-  Conheça a clinica odontológica na Barra da Tijuca. A MD Odontologia pode realizar o seu tratamento com toda segurança e conforto que você merece
+ Conheça a clinica odontológica na Barra da Tijuca. A MD Odontologia pode realizar o seu tratamento com toda segurança e conforto que você merece
 date: 2024-06-04T10:00:00.000Z
 featured_image: /images/blog_clinica_barra.webp
 category: Clínica
@@ -11,19 +11,19 @@ category: Clínica
 
 Nossa clínica odontológica esta presente no bairro da Barra da Tijuca na cidade do Rio de Janeiro. 
 
-Com facilidade de estacionamento e de locomoção, nosso consultório está localizado no Shopping [Citta Office Mall](https://cittaofficemall.com.br/site/).  Esse centro comercial está localizado perto de outro grande shopping, o [Downtown.](http://www.downtown.com.br)  Além disso, para quem precisa, o metrô se encontra a poucos metros da nossa clínica odontológica. 
+Com facilidade de estacionamento e de locomoção, nosso consultório está localizado no Shopping [Citta Office Mall](https://cittaofficemall.com.br/site/). Esse centro comercial está localizado perto de outro grande shopping, o [Downtown.](http://www.downtown.com.br) Além disso, para quem precisa, o metrô se encontra a poucos metros da nossa clínica odontológica. 
 
 Para ver a nossa exata localização, [clique aqui.](/localizacao/)
 
-**Para marcar uma consulta ligue para o telefone (021) 3217-0430 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
+**Para marcar uma consulta ligue para o telefone(21) 3217-0430 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
 
 ## Conheça mais sobre nossa clínica Odontológica na Barra da Tijuca
 
 ![](/images/uploads/2013/07/4consulorio-1-1024x683.webp)
 
-Liderada pelos dentistas [Marcos e Davi Frossard](/equipe/). Nossa clínica odontológica está presente nos bairros da [Barra da Tijuca](/dentista-barra-da-tijuca/) e de [Botafogo.](/dentista-em-botafogo/) Nossa [estrutura](/estrutura/)  comporta o atendimentos de todas as especialidades com conforto e qualidade. Além disso, a **biossegurança** é fator primordial. 
+Liderada pelos dentistas [Marcos e Davi Frossard](/equipe/). Nossa clínica odontológica está presente nos bairros da [Barra da Tijuca](/dentista-barra-da-tijuca/) e de [Botafogo.](/dentista-em-botafogo/) Nossa [estrutura](/estrutura/) comporta o atendimentos de todas as especialidades com conforto e qualidade. Além disso, a **biossegurança** é fator primordial. 
 
-Com um ambiente acolhedor, nossa clínica está presente no Rio de Janeiro há 37 anos.  Focamos nosso atendimento na alta perfomance,  através de uma odontologia contemporânea focada em 3 pilares : **Relacionamento, confiança e pontualidade.** 
+Com um ambiente acolhedor, nossa clínica está presente no Rio de Janeiro há 37 anos. Focamos nosso atendimento na alta perfomance, através de uma odontologia contemporânea focada em 3 pilares : **Relacionamento, confiança e pontualidade.** 
 
 Nossa equipe sempre esta disposta para realizar o melhor atendimento para você. 
 
@@ -53,7 +53,7 @@ Veja mais [depoimentos.](/depoimentos/)
 
 ![](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.webp)
 
-**Para marcar uma consulta ligue para o telefone (021) 3217-0430 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
+**Para marcar uma consulta ligue para o telefone(21) 3217-0430 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
 
 Somente lembrando que atendemos todas as especialidades, tais como : 
 

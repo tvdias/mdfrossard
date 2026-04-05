@@ -1,8 +1,8 @@
 ---
 title: 'Posso perder um Implante Dentário ?'
 description: >-
-  Afinal, será que podemos perder um implante dentário ? Devemos ficar atentos
-  para isso não acontecer. Leia o texto e evite esse problema.
+ Afinal, será que podemos perder um implante dentário ? Devemos ficar atentos
+ para isso não acontecer. Leia o texto e evite esse problema.
 date: 2016-03-01T10:00:04.000Z
 featured_image: /images/41a96660-0c56-48cf-ad77-e371be4aedd9_podemos-perder-um-implante-dentário1.webp
 ---

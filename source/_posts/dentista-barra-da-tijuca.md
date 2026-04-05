@@ -2,7 +2,7 @@
 title: 'Dentista na Barra da Tijuca'
 author: Davi Heringer Frossard
 description: >-
-  Buscando um dentista na Barra da Tijuca? Na MD Frossard Odontologia você encontra atendimento premium, tecnologia de ponta e especialistas dedicados. Agende sua consulta com o Dr. Davi Frossard.
+ Buscando um dentista na Barra da Tijuca? Na MD Frossard Odontologia você encontra atendimento premium, tecnologia de ponta e especialistas dedicados. Agende sua consulta com o Dr. Davi Frossard.
 date: 2014-05-12T11:02:32.000Z
 featured_image: /images/uploads/2024/dentista_barra_da_tijuca_md.webp
 ---
@@ -13,7 +13,7 @@ Se você procura um excelente **dentista na Barra da Tijuca** que combine tradi�
 
 Localizada no conceituado **Shopping Città America** (Bloco 2 / Sala 143), nossa clínica oferece conveniência, segurança e uma infraestrutura tecnológica completa para cuidar do seu sorriso.
 
-Ligue para **(21) 3217-0430** ou envie uma **[mensagem via WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)** para falar diretamente com nossa equipe.
+Ligue para **(21)(21) 3217-0430** ou envie uma **[mensagem via WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)** para falar diretamente com nossa equipe.
 
 ---
 
@@ -22,17 +22,17 @@ Ligue para **(21) 3217-0430** ou envie uma **[mensagem via WhatsApp ➔](https:/
 Escolher um **dentista na Barra da Tijuca** envolve avaliar minuciosamente a facilidade de acesso, as recomendações e a qualidade do suporte oferecido. Nossa unidade se destaca por:
 
 - ✅ **Localização Estratégica:** Situada na Av. das Américas, com fácil acesso pelo Metrô Jardim Oceânico e BRT.
-  
+ 
 - ✅ **Conforto e Conveniência:** Estacionamento amplo no próprio **[Città America ➔](https://cittaofficemall.com.br/site/)** e proximidade com o shopping Downtown.
-  
+ 
 - ✅ **Equipe Presente:** Aqui, você é atendido pelos sócios-diretores. Não há rotatividade de profissionais; seu tratamento é acompanhado do início ao fim pelo mesmo especialista.
-  
+ 
 - ✅ **Tecnologia Digital:** Utilizamos scanners intraorais e planejamento digital para maior precisão em implantes e estética.
 
 <br>
 
 <p style="text-align: center;">
-  <img src="/images/76345c37-98a0-457b-a71c-4dd16603ca51_Dentista-barra-da-tijuca-4-1024x682.webp" alt="Estrutura MD Frossard Barra da Tijuca" style="max-width: 100%; height: auto; border-radius: 12px;" loading="lazy" decoding="async">
+ <img src="/images/76345c37-98a0-457b-a71c-4dd16603ca51_Dentista-barra-da-tijuca-4-1024x682.webp" alt="Estrutura MD Frossard Barra da Tijuca" style="max-width: 100%; height: auto; border-radius: 12px;" loading="lazy" decoding="async">
 </p>
 
 <br>
@@ -44,9 +44,9 @@ Escolher um **dentista na Barra da Tijuca** envolve avaliar minuciosamente a fac
 Como o seu **dentista na Barra da Tijuca**, nossa clínica é liderada por uma equipe de especialistas apaixonados pela odontologia:
 
 - 👨‍⚕️ **[Dr. Marcos Frossard ➔](/equipe/marcos/):** Referência em Prótese e Reabilitação Oral.
-  
+ 
 - 👨‍⚕️ **[Dr. Davi Frossard ➔](/equipe/davi/):** Especialista em Implantodontia, focado em cirurgias guiadas e reabilitação complexa.
-  
+ 
 - 👩‍⚕️ **[Dra. Luciana Peroni ➔](/equipe/luciana/):** Especialista em Prótese dentária e Endodontia, com vasta experiência em atendimento humanizado.
 
 A integração entre as diversas especialidades nos permite oferecer uma visão 360º do seu tratamento, garantindo que a saúde bucal e a estética caminhem sempre juntas.
@@ -57,17 +57,17 @@ A integração entre as diversas especialidades nos permite oferecer uma visão 
 
 Acreditamos que a base de um bom tratamento é um diagnóstico detalhado. Em sua primeira visita a um **dentista na Barra da Tijuca** na MD Frossard, realizamos uma avaliação rigorosa que inclui:
 
-1.  🔎 Análise aprofundada da **[saúde da gengiva e tecidos de suporte ➔](/tratamentos/periodontia/)**.
-2.  🦷 Verificação da integridade das restaurações e próteses existentes.
-3.  ✨ Avaliação da **[estética do sorriso ➔](/tratamentos/estetica-dental/)** em relação à harmonia facial.
-4.  🗣️ Discussão aberta e honesta sobre as suas expectativas e necessidades.
+1. 🔎 Análise aprofundada da **[saúde da gengiva e tecidos de suporte ➔](/tratamentos/periodontia/)**.
+2. 🦷 Verificação da integridade das restaurações e próteses existentes.
+3. ✨ Avaliação da **[estética do sorriso ➔](/tratamentos/estetica-dental/)** em relação à harmonia facial.
+4. 🗣️ Discussão aberta e honesta sobre as suas expectativas e necessidades.
 
 Nosso objetivo principal é que você saia da consulta com todas as suas dúvidas esclarecidas e um plano de tratamento claro em mãos.
 
 <br>
 
 <p style="text-align: center;">
-  <img src="/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.webp" alt="Atendimento odontológico Barra da Tijuca" style="max-width: 100%; height: auto; border-radius: 12px;" loading="lazy" decoding="async">
+ <img src="/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.webp" alt="Atendimento odontológico Barra da Tijuca" style="max-width: 100%; height: auto; border-radius: 12px;" loading="lazy" decoding="async">
 </p>
 
 <br>
@@ -105,7 +105,7 @@ Atendemos todas as necessidades odontológicas em nossa clínica com o seu **den
 <br>
 
 <p style="text-align: center;">
-  <img src="/images/uploads/2024/luciana_explicando.webp" alt="Dra. Luciana e Dr. Davi em atendimento" style="max-width: 100%; height: auto; border-radius: 12px;" loading="lazy" decoding="async">
+ <img src="/images/uploads/2024/luciana_explicando.webp" alt="Dra. Luciana e Dr. Davi em atendimento" style="max-width: 100%; height: auto; border-radius: 12px;" loading="lazy" decoding="async">
 </p>
 
 <br>
@@ -116,7 +116,7 @@ Atendemos todas as necessidades odontológicas em nossa clínica com o seu **den
 
 Se você valoriza pontualidade, tecnologia de ponta e um atendimento que entende de verdade as suas necessidades, venha conhecer o melhor **dentista na Barra da Tijuca**. 
 
-- **📞 Telefone:** (21) 3217-0430
+- **📞 Telefone:**(21)(21) 3217-0430
 - **💬 WhatsApp:** **[Falar agora pelo WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)**
 - **📍 Endereço:** **[Shopping Città America – Bloco 2 / Sala 143 – Barra da Tijuca ➔](/localizacao/)**
 

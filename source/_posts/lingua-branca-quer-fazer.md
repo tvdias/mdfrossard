@@ -1,7 +1,7 @@
 ---
 title: Língua Branca – O que fazer?
 description: >-
-  A língua Branca ou língua saburrosa, pode ter diferentes causas. Algumas podem causar um problemas ruins. Veja o que fazer nessa situação. 
+ A língua Branca ou língua saburrosa, pode ter diferentes causas. Algumas podem causar um problemas ruins. Veja o que fazer nessa situação. 
 date: 2024-06-11T10:00:00.000Z
 featured_image: /images/blog_lingua_branca.webp
 category: Saúde Bucal
@@ -28,7 +28,7 @@ E qual o grande problema disso? Se você pensou no mau hálito, está correto. E
 
 Então, como limpar corretamente e remover esse esbranquiçado da língua? Isso não é difícil e qualquer um pode realizar corretamente essa limpeza. Eu recomendo aos meus pacientes usar o raspador de língua, ele tem uma melhor eficiência na limpeza. Mas, se você não achar, você pode usar a sua própria escova para isso. 
 
-Com o raspador ou a escova, você deve fazer o movimento vindo da parte de trás da língua, até a frente (até a ponta da língua), removendo toda a película branca que se encontra na língua. Isso deve ser feito pelo menos uma vez ao dia, de preferencia antes de dormir.  
+Com o raspador ou a escova, você deve fazer o movimento vindo da parte de trás da língua, até a frente (até a ponta da língua), removendo toda a película branca que se encontra na língua. Isso deve ser feito pelo menos uma vez ao dia, de preferencia antes de dormir. 
 
 ## Outras causas?
 

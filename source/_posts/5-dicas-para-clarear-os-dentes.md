@@ -1,8 +1,8 @@
 ---
 title: '5 dicas para clarear os dentes - Mude seu Sorriso. '
 description: >-
-  Veja as 5 principais dicas para clarear os dentes. Veja como você pode ter o
-  sorriso dos seus sonhos. Fique atento a quarta dica !
+ Veja as 5 principais dicas para clarear os dentes. Veja como você pode ter o
+ sorriso dos seus sonhos. Fique atento a quarta dica !
 date: 2017-08-07T10:00:41.000Z
 featured_image: /images/06880c83-e02d-445c-8961-25b9e53dce9a_dicas-para-clarear-os-dentes.webp
 ---

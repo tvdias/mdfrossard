@@ -1,8 +1,8 @@
 ---
 title: Como Clarear os Dentes - O que todo mundo deveria saber.
 description: >-
-  Existem inúmeras maneiras de como clarear os dentes. Algumas são seguras e
-  outras não. Veja o texto para clarear os dentes com rapidez.
+ Existem inúmeras maneiras de como clarear os dentes. Algumas são seguras e
+ outras não. Veja o texto para clarear os dentes com rapidez.
 date: 2017-08-21T08:00:23.000Z
 featured_image: /images/1a521bae-9c1c-4a38-b339-202ba85ed77f_como-clarear-os-dentes-caseiro.webp
 ---
@@ -19,7 +19,7 @@ Entretanto, existe um tratamento que se destaca por ser simples e seguro.
 
 Sim, estou falando sobre o {% post_link clareamento-dental "Clareamento Dental" %}. 
 
-Existem muitas dúvidas sobre esse tratamento na internet, tais como:  
+Existem muitas dúvidas sobre esse tratamento na internet, tais como: 
 
 * “Como clarear o dente com segurança”;
 * “Como clarear os dentes com bicarbonato”; 
@@ -47,10 +47,10 @@ Outros tipos de mancha só são removidas com o clareamento de fato, ou seja, us
 
 Portanto, em uma pesquisa rápida na internet, encontramos algumas formas de como clarear os dentes:
 
-*   Clareamento com bicarbonato
-*   Clareamento caseiro
-*   Clareamento a laser ou de consultório
-*   Clareamento com água oxigenada
+*  Clareamento com bicarbonato
+*  Clareamento caseiro
+*  Clareamento a laser ou de consultório
+*  Clareamento com água oxigenada
 
 Será que esses tipos de clareamento são confiáveis e podem ser usados ? Vamos descobrir agora.
 
@@ -84,9 +84,9 @@ Digo isso pois existe uma centena de kits que explicam como clarear os dentes em
 
 O clareamento pode até funcionar, porém temos que pensar em alguns tópicos importantes :
 
-*   Será o tratamento e planejamento correto para mim ?
-*   O clareamento não clareia resinas ou tratamentos de prótese dentária, o que pode resultar em cores diferentes nos dentes.
-*   Se o gel cair na gengiva, você sentir sensibilidade ou dor, a quem você irá se reportar ?
+*  Será o tratamento e planejamento correto para mim ?
+*  O clareamento não clareia resinas ou tratamentos de prótese dentária, o que pode resultar em cores diferentes nos dentes.
+*  Se o gel cair na gengiva, você sentir sensibilidade ou dor, a quem você irá se reportar ?
 
 Existem inúmeros outros fatores que poderia citar aqui. Então, como posso clarear os dentes de forma segura ? A resposta está logo abaixo.
 

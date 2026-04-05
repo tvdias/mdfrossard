@@ -1,8 +1,8 @@
 ---
 title: Enxerto ósseo na Odontologia - O que todo mundo deveria saber
 description: >-
-  Veja tudo sobre o enxerto ósseo usado na odontologia. Existem diferentes tipos
-  e eles são usados principalmente na área de implantes dentais.
+ Veja tudo sobre o enxerto ósseo usado na odontologia. Existem diferentes tipos
+ e eles são usados principalmente na área de implantes dentais.
 date: 2017-12-04T09:00:03.000Z
 featured_image: /images/b3a03403-589f-4312-90ad-9bce2d4a86a6_enxerto-ósseo.webp
 ---
@@ -24,9 +24,9 @@ Nesse texto vou discutir alguns usos do enxerto na implantodontia, bem como os 3
 
 ![](/images/9020c38e-cbcf-4395-91b0-9dce0b63c6f7_tipos-de-enxerto-osseo.webp)
 
-*   **1 - Autógeno:** Esse enxerto é considerado o "padrão ouro” apresentando bons resultados. O tipo autógeno é retirado do próprio paciente, portanto não apresenta rejeição. Ele pode ser retirado da região intra-bucal com anestesia local ou, em casos onde se demanda maior quantidade, é preciso remover o osso de outras regiões, como tíbia ou até da calota craniana. A grande desvantagem do enxerto autógeno é precisar realizar uma segunda área cirúrgica para sua remoção.
-*   **2 - Alógeno:** Nesse caso o enxerto é doado por outra pessoa e colocado na área de atuação. Apresenta menor formação óssea, pois para o material ser usado por outra pessoa é preciso passar por um rigoroso processo de inspeção. Isso faz com que o enxerto perca propriedades importantes para o processo de formação óssea. Esse tipo de enxerto ósseo não é muito utilizado na implantodontia.
-*   **3 - Xenógeno:** Esse tipo é oriundo de outra espécie. Passam por diversos processos para serem usados em humanos. O enxerto ósseo de origem bovina é o mais usado, apresentando diversos estudos que mostram a sua efetividade. Esse tipo de enxerto é muito usado na instalação de implantes e não é necessário uma segunda área cirurgia.
+*  **1 - Autógeno:** Esse enxerto é considerado o "padrão ouro” apresentando bons resultados. O tipo autógeno é retirado do próprio paciente, portanto não apresenta rejeição. Ele pode ser retirado da região intra-bucal com anestesia local ou, em casos onde se demanda maior quantidade, é preciso remover o osso de outras regiões, como tíbia ou até da calota craniana. A grande desvantagem do enxerto autógeno é precisar realizar uma segunda área cirúrgica para sua remoção.
+*  **2 - Alógeno:** Nesse caso o enxerto é doado por outra pessoa e colocado na área de atuação. Apresenta menor formação óssea, pois para o material ser usado por outra pessoa é preciso passar por um rigoroso processo de inspeção. Isso faz com que o enxerto perca propriedades importantes para o processo de formação óssea. Esse tipo de enxerto ósseo não é muito utilizado na implantodontia.
+*  **3 - Xenógeno:** Esse tipo é oriundo de outra espécie. Passam por diversos processos para serem usados em humanos. O enxerto ósseo de origem bovina é o mais usado, apresentando diversos estudos que mostram a sua efetividade. Esse tipo de enxerto é muito usado na instalação de implantes e não é necessário uma segunda área cirurgia.
 
 Além desses tipos, existem os enxertos sintéticos. Eles são produzidos em laboratório e também estão apresentando bons resultados.
 
@@ -64,11 +64,11 @@ Além disso, o acompanhamento recorrente é essencial para evitar que o problema
 
 Se você precisa de uma avaliação sobre enxerto ósseo ou implantes, entre em contato:
 
-*   **WhatsApp:** [Clique aqui para enviar uma mensagem](https://api.whatsapp.com/send?phone=5521976637803)
-*   **Telefone:** (21) 3217-0430
+*  **WhatsApp:** [Clique aqui para enviar uma mensagem](https://api.whatsapp.com/send?phone=5521976637803)
+*  **Telefone:**(21)(21) 3217-0430
 
 <div style="margin-top: 2rem; text-align: center;">
-    <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Agendar Consulta via WhatsApp</a>
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Agendar Consulta via WhatsApp</a>
 </div>
 
 Att,

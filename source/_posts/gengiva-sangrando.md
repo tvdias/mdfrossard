@@ -1,8 +1,8 @@
 ---
 title: Gengiva Sangrando - As 7 principais causas. Acabe com esse problema.
 description: >-
-  A Gengiva sangrando é um problema em nossa população. Existem 7 principais
-  fatores para isso acontecer. Entretanto, o tratamento pode ser fácil.
+ A Gengiva sangrando é um problema em nossa população. Existem 7 principais
+ fatores para isso acontecer. Entretanto, o tratamento pode ser fácil.
 date: 2014-09-08T10:00:01.000Z
 featured_image: /images/f1d598e2-a78b-493f-b23d-6375ada45fb8_gengiva-sangrando.webp
 ---

@@ -1,8 +1,8 @@
 ---
 title: Dente do Siso - 5 Segredos que você precisa saber
 description: >-
-  A remoção do dente do siso pode ser traumática para você. Veja 5 segredos
-  sobre esse tipo de cirurgia. Talvez até não seja necessária sua remoção.
+ A remoção do dente do siso pode ser traumática para você. Veja 5 segredos
+ sobre esse tipo de cirurgia. Talvez até não seja necessária sua remoção.
 date: 2017-10-23T08:00:35.000Z
 featured_image: /images/f732904a-a038-41eb-9c97-19b7383ec887_dente-do-siso.webp
 ---
@@ -47,10 +47,10 @@ Além disso, a higienização é necessária para evitar a infecção da região
 
 Após o dentista remover o seu dente, você pode ter alguns sintomas, tais como :
 
-*   Sangramento
-*   Inchaço
-*   Incômodo na região
-*   Ficar roxo
+*  Sangramento
+*  Inchaço
+*  Incômodo na região
+*  Ficar roxo
 
 Portanto, o seu {% post_link extracao-de-dente "pós operatório" %} pode ser péssimo ou ótimo. Isso depende de você seguir as recomendações a risca do seu dentista. Entretanto, a dificuldade da extração também pode afetar o sua recuperação.
 

@@ -1,8 +1,8 @@
 ---
 title: Odontologia Estética – O que seria isso?
 description: >-
-  A odontologia estética já é uma realidade em vários consultórios. Ela se
-  baseia na realização de vários procedimentos visando melhorar o seu sorriso.
+ A odontologia estética já é uma realidade em vários consultórios. Ela se
+ baseia na realização de vários procedimentos visando melhorar o seu sorriso.
 date: 2018-09-05T10:00:00.000Z
 featured_image: /images/blog_odontologia_estetica.webp
 category: Estética

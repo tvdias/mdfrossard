@@ -1,8 +1,8 @@
 ---
 title: 'Vale mais a pena prevenir do que tratar. '
 description: >-
-  A prevenção possibilita que você tenha menos dor, custo e tempo para resolver
-  uma doença nos seus dentes. Já que conseguimos detectar o problema antes. 
+ A prevenção possibilita que você tenha menos dor, custo e tempo para resolver
+ uma doença nos seus dentes. Já que conseguimos detectar o problema antes. 
 date: 2013-10-24T09:24:14.000Z
 featured_image: /images/a016a30f-26c9-4a99-86f9-fd2a0662223a_Foto-1.webp
 ---

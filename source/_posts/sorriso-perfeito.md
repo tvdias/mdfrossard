@@ -1,8 +1,8 @@
 ---
 title: 'Sorriso Perfeito - Será possível você ter ? '
 description: >-
-  Você já pensou em ter um Sorriso Perfeito e bonito? A odontologia apresenta
-  diversos tratamentos que podem melhorar a estética dos dentes. Veja como.
+ Você já pensou em ter um Sorriso Perfeito e bonito? A odontologia apresenta
+ diversos tratamentos que podem melhorar a estética dos dentes. Veja como.
 date: 2015-04-28T17:45:20.000Z
 featured_image: /images/6d06d69a-0490-4136-aa10-ca875b8ef70e_Sorriso-perfeito.webp
 ---
@@ -165,11 +165,11 @@ A reabilitação oral é a soma de todas os tratamentos citados acima. Existem m
 
 [![sorriso perfeito](/images/uploads/2015/04/perfeito-sorriso-1024x683.webp)](/images/1b4f7479-1462-4d3a-b609-c7665a55c3c6_perfeito-sorriso.webp)
 
-*   A {% post_link 7-dicas-faceis-para-a-sua-higiene-bucal "Higienização dental" %} é o pilar do sorriso perfeito.
-*   Não adianta realizar todos esses procedimentos estéticos e não ter uma boa escovação dos dentes.
-*   Escove sempre os dentes depois das refeições e principalmente antes de dormir.
-*   As consultas de revisão no dentistas são extremamente importantes para a manutenção dos dentes.
-*   É importante ressaltar que cada caso deve ser corretamente planejado para saber quais tratamentos estéticos serão necessários. A análise de cada etapa do tratamento é essencial para o dentista juntamente com o cliente, chegar a finalização do trabalho com excelência .
+*  A {% post_link 7-dicas-faceis-para-a-sua-higiene-bucal "Higienização dental" %} é o pilar do sorriso perfeito.
+*  Não adianta realizar todos esses procedimentos estéticos e não ter uma boa escovação dos dentes.
+*  Escove sempre os dentes depois das refeições e principalmente antes de dormir.
+*  As consultas de revisão no dentistas são extremamente importantes para a manutenção dos dentes.
+*  É importante ressaltar que cada caso deve ser corretamente planejado para saber quais tratamentos estéticos serão necessários. A análise de cada etapa do tratamento é essencial para o dentista juntamente com o cliente, chegar a finalização do trabalho com excelência .
 
 Vídeo Sobre Sorriso Perfeito
 ----------------------------

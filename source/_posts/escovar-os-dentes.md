@@ -1,8 +1,8 @@
 ---
 title: 7 Erros comuns na hora de escovar os dentes - o 5 pode te surpreender
 description: >-
-  Veja os 7 erros mais comuns ao escovar os dentes. Conheça também a forma
-  correta de realizar a higiene bucal. Tenha uma ótima saúde na boca. 
+ Veja os 7 erros mais comuns ao escovar os dentes. Conheça também a forma
+ correta de realizar a higiene bucal. Tenha uma ótima saúde na boca. 
 date: 2016-06-21T08:41:03.000Z
 featured_image: /images/355ec8c4-3a03-41f6-ba95-328bf813b379_escova-dente-fio-dental-macara-manequim.webp
 ---

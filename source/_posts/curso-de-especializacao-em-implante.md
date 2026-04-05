@@ -1,8 +1,8 @@
 ---
 title: Curso de Especialização em Implante
 description: >-
-  O Dr. Davi Frossard lecionou em vários cursos de implantes. Um dos cursos foi
-  na inco 25 onde ele ensinou várias técnicas cirúrgicas.
+ O Dr. Davi Frossard lecionou em vários cursos de implantes. Um dos cursos foi
+ na inco 25 onde ele ensinou várias técnicas cirúrgicas.
 date: 2014-01-25T16:30:02.000Z
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 'Carga imediata em implantes dentários, é sempre possível ?'
 description: >-
-  Carga imediata em implantes é a colocação de um dente sobre o implante logo
-  após a cirurgia. Veja se esse tratamento pode ser feito em você.
+ Carga imediata em implantes é a colocação de um dente sobre o implante logo
+ após a cirurgia. Veja se esse tratamento pode ser feito em você.
 date: 2014-12-04T14:06:39.000Z
 featured_image: /images/uploads/2014/03/Clareamento-dental.webp
 ---

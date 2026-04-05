@@ -1,8 +1,8 @@
 ---
 title: Facetas Dentais - Veja como esse tratamento pode mudar seu sorriso
 description: >-
-  Saiba tudo sobre as Facetas Dentais. Leia sobre as 6 principais indicações
-  desse tratamento, assim como suas principais vantagens e desvantagens. 
+ Saiba tudo sobre as Facetas Dentais. Leia sobre as 6 principais indicações
+ desse tratamento, assim como suas principais vantagens e desvantagens. 
 date: 2014-07-04T10:08:43.000Z
 featured_image: /images/fe51bc3e-20a0-49c2-81d5-0dc6b1b17c3b_Faceta-dental-estética.webp
 ---

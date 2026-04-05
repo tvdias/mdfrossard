@@ -1,8 +1,8 @@
 ---
 title: O segredo de como passar o Fio Dental.
 description: >-
-  Existem muitas dúvidas de como passar o fio dental . O seu uso pode parecer
-  complicado, porém ele é essencial para a sua saúde bucal. Veja agora o texto.
+ Existem muitas dúvidas de como passar o fio dental . O seu uso pode parecer
+ complicado, porém ele é essencial para a sua saúde bucal. Veja agora o texto.
 date: 2016-09-26T10:00:11.000Z
 featured_image: /images/b8b93044-cb6e-4b48-80a9-e254ad96249f_uso-fio-dental.webp
 ---

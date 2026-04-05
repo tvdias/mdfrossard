@@ -1,8 +1,8 @@
 ---
 title: 'Dentista para estrangeiros no Rio de Janeiro '
 description: >-
-  Você já precisou de dentista para estrangeiros ? Temos diversos serviços para
-  agilizar o tratamento estando fora do seu estado ou país. 
+ Você já precisou de dentista para estrangeiros ? Temos diversos serviços para
+ agilizar o tratamento estando fora do seu estado ou país. 
 date: 2014-09-18T10:00:41.000Z
 featured_image: /images/50f06e1f-1e17-4df6-9273-e779a1d7c442_image.webp
 ---
@@ -52,11 +52,11 @@ Assim, no damage to your trip occur. If you are identified with the situations d
 
 ### **Contact us to schedule an appointment | Fale conosco**
 
-*   **WhatsApp:** [Click here to message us](https://api.whatsapp.com/send?phone=5521976637803)
-*   **Phone:** +55 (21) 3217-0430
+*  **WhatsApp:** [Click here to message us](https://api.whatsapp.com/send?phone=5521976637803)
+*  **Phone:** +55 (21)(21) 3217-0430
 
 <div style="margin-top: 2rem; text-align: center;">
-    <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Schedule via WhatsApp</a>
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Schedule via WhatsApp</a>
 </div>
 
 Att,

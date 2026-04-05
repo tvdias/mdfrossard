@@ -1,8 +1,8 @@
 ---
 title: Veja o Vídeo sobre a Clínica da MD Frossard Odontologia
 description: >-
-  Veja o vídeo institucional da clínica MD Frossard Odontologia. Estamos
-  presentes na cidade do Rio de Janeiro, em Botafogo e na Barra da Tijuca. 
+ Veja o vídeo institucional da clínica MD Frossard Odontologia. Estamos
+ presentes na cidade do Rio de Janeiro, em Botafogo e na Barra da Tijuca. 
 date: 2015-09-09T09:31:23.000Z
 featured_image: /images/5580b165-1099-485a-98b1-d467021fa61e_logo-MD.webp
 ---

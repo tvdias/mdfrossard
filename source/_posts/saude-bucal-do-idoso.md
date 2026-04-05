@@ -1,9 +1,9 @@
 ---
 title: Saúde bucal do idoso - O segredo de ter uma boa qualidade de vida.
 description: >-
-  A saúde bucal do idoso é muito importante para a correta alimentação e auto
-  estima. Saiba quais os principais problemas que se pode ter nessa fase da
-  vida.
+ A saúde bucal do idoso é muito importante para a correta alimentação e auto
+ estima. Saiba quais os principais problemas que se pode ter nessa fase da
+ vida.
 date: 2015-06-16T10:44:54.000Z
 featured_image: /images/7adcdbfa-0892-4284-9b10-894d31c8b2b2_saúde-bucal-do-idoso.webp
 ---

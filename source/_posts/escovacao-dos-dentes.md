@@ -1,8 +1,8 @@
 ---
 title: Como realizar a correta escovação dos dentes ? Tire Suas dúvidas.
 description: >-
-  A escovação dos dentes é essencial para a sua saúde bucal . Veja agora como
-  realizar a correta técnica e melhore a saúde dos seus dentes.
+ A escovação dos dentes é essencial para a sua saúde bucal . Veja agora como
+ realizar a correta técnica e melhore a saúde dos seus dentes.
 date: 2015-02-16T10:00:49.000Z
 featured_image: /images/06ab8179-2005-4355-83a7-273d229af1ef_escovação-pasta.webp
 ---

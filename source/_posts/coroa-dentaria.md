@@ -1,8 +1,8 @@
 ---
 title: Coroa Dentária - Saiba TUDO sobre esse tratamento dentário.
 description: >-
-  A Coroa Dentária tem a função de devolver a mastigação e estética do dente.
-  Tire todas as suas dúvidas através de fotos, infográficos e vídeos.
+ A Coroa Dentária tem a função de devolver a mastigação e estética do dente.
+ Tire todas as suas dúvidas através de fotos, infográficos e vídeos.
 date: 2015-07-21T10:14:17.000Z
 featured_image: /images/3e904c62-2a01-4d3b-86bc-ba9ac7dd2f0f_Coroa-dentária.webp
 ---

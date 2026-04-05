@@ -1,8 +1,8 @@
 ---
 title: 'Mancha nos Dentes - Os 5 principais tipos. Veja agora. '
 description: >-
-  Você sabe o que pode causar Mancha nos Dentes? Veja quais são os 5 principais
-  fatores que alteram a cor do seu dente. Aprenda também como tratar.
+ Você sabe o que pode causar Mancha nos Dentes? Veja quais são os 5 principais
+ fatores que alteram a cor do seu dente. Aprenda também como tratar.
 date: 2014-06-02T16:27:59.000Z
 featured_image: /images/dd887440-97b6-4b2e-9589-0731f3b84261_mancha-nos-dentes.webp
 ---
@@ -10,17 +10,17 @@ As **manchas nos dentes** são muito mais comuns do que se imagina e podem afeta
 
 As alterações de cor podem ser divididas em dois grandes grupos:
 
-1.  **Extrínsecas (na parte externa do dente):** Geralmente causadas pelo consumo excessivo de café, chás, vinhos, tabagismo ou acúmulo de placa. O tratamento costuma ser mais simples e rápido.
-2.  **Intrínsecas (na parte interna do dente):** Podem ocorrer por traumas, uso de certos antibióticos (como a tetraciclina) ou excesso de flúor na infância (fluorose). Nesses casos, o tratamento costuma ser mais complexo.
+1. **Extrínsecas (na parte externa do dente):** Geralmente causadas pelo consumo excessivo de café, chás, vinhos, tabagismo ou acúmulo de placa. O tratamento costuma ser mais simples e rápido.
+2. **Intrínsecas (na parte interna do dente):** Podem ocorrer por traumas, uso de certos antibióticos (como a tetraciclina) ou excesso de flúor na infância (fluorose). Nesses casos, o tratamento costuma ser mais complexo.
 
 Em nossa clínica, oferecemos soluções modernas para cada tipo de mancha, desde limpezas profundas e clareamentos até facetas de porcelana e restaurações estéticas.
 
 ***
 
 **Neste guia, você vai entender:**
-*   Quais são os 5 principais tipos de manchas e suas causas.
-*   Os tratamentos mais indicados para cada situação.
-*   O que uma mancha preta no dente pode significar.
+*  Quais são os 5 principais tipos de manchas e suas causas.
+*  Os tratamentos mais indicados para cada situação.
+*  O que uma mancha preta no dente pode significar.
 
 ---
 
@@ -185,11 +185,11 @@ Estamos localizados no Rio de Janeiro, com unidades na **{% post_link dentista-b
 
 Entre em contato conosco para uma análise detalhada do seu caso:
 
-*   **WhatsApp:** [Enviar mensagem agora](https://api.whatsapp.com/send?phone=5521976637803)
-*   **Telefone:** (21) 3217-0430
+*  **WhatsApp:** [Enviar mensagem agora](https://api.whatsapp.com/send?phone=5521976637803)
+*  **Telefone:**(21)(21) 3217-0430
 
 <div style="margin-top: 2rem; text-align: center;">
-    <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Agendar Consulta via WhatsApp</a>
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Agendar Consulta via WhatsApp</a>
 </div>
 
 Um grande abraço,

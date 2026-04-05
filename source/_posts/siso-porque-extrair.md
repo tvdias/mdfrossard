@@ -1,8 +1,8 @@
 ---
 title: Por que extrair o siso ? Tire suas dúvidas sobre essa cirurgia.
 description: >-
-  Por que devemos extrair o siso ? Quais são suas indicações ? causa muita dor ?
-  Essa são alguns questionamentos que os pacientes tem. Veja o texto completo.
+ Por que devemos extrair o siso ? Quais são suas indicações ? causa muita dor ?
+ Essa são alguns questionamentos que os pacientes tem. Veja o texto completo.
 date: 2014-11-03T10:00:39.000Z
 featured_image: /images/fbf52b9b-4660-4b09-9901-b2a664987912_siso_incluso.webp
 ---

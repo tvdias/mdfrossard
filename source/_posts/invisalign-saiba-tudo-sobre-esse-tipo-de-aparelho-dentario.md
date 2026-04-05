@@ -1,8 +1,8 @@
 ---
 title: 'Invisalign, Saiba tudo sobre esse aparelho'
 description: >-
-  Com o invisalign você pode corrigir a posição dos seus dentes de forma
-  praticamente invisível e que não machuca os lábios. Saiba mais lendo o texto.
+ Com o invisalign você pode corrigir a posição dos seus dentes de forma
+ praticamente invisível e que não machuca os lábios. Saiba mais lendo o texto.
 date: 2015-04-06T09:36:23.000Z
 featured_image: /images/34725af2-9c4b-4383-93f6-5466869d78f0_Invisalign.webp
 ---

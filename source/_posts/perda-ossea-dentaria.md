@@ -1,8 +1,8 @@
 ---
 title: Perda Óssea Dentária - Veja as causas e como evitar.
 description: >-
-  A perda óssea dentária se não for tratada de forma adequada  causa problemas
-  nos dentes. Veja agora como a falta de higiene pode agravar essa situação. 
+ A perda óssea dentária se não for tratada de forma adequada causa problemas
+ nos dentes. Veja agora como a falta de higiene pode agravar essa situação. 
 date: 2016-02-15T10:00:39.000Z
 featured_image: /images/a5d72068-e306-40e7-bdbc-48880cdd5ebe_radiografia-panoramica-dentista-analisa.webp
 ---

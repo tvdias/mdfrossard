@@ -1,9 +1,9 @@
 ---
 title: Reabilitação oral - Saiba o segredo para mudar os seus dentes.
 description: >-
-  A reabilitação oral pode gerar muitas dúvidas. Ela consiste na total
-  reformulação dos dentes para se adquirir uma melhor mastigação e estética.
-  Leia mais.
+ A reabilitação oral pode gerar muitas dúvidas. Ela consiste na total
+ reformulação dos dentes para se adquirir uma melhor mastigação e estética.
+ Leia mais.
 date: 2016-01-18T16:47:43.000Z
 featured_image: /images/c2e56fd2-452b-4577-a282-1d3636097725_reabilitação-oral.webp
 ---
@@ -23,8 +23,8 @@ Nesse caso, precisamos mexer em vários dentes e envolver diversas especialidade
 
 Não, nem todos precisam. A reabilitação se dá por duas principais causas:
 
-1.  Quando se quer mudar esteticamente o aspecto do dente.
-2.  Pela questão funcional.
+1. Quando se quer mudar esteticamente o aspecto do dente.
+2. Pela questão funcional.
 
 Quando se tem problemas em vários dentes, precisamos intervir para devolver a função da correta mastigação e [oclusão](https://pt.wikipedia.org/wiki/Oclusão). 
 
@@ -75,9 +75,9 @@ Com a saúde da gengiva, podemos começar o tratamento de reabilitação. Depend
 
 Sim. E cada caso demanda um tempo diferente que envolve **3 pilares**:
 
-1.  O tempo de trabalho normal do tratamento escolhido.
-2.  O tempo para que o organismo da pessoa responda ao tratamento.
-3.  A freqüência e o comprometimento do paciente com o tratamento.
+1. O tempo de trabalho normal do tratamento escolhido.
+2. O tempo para que o organismo da pessoa responda ao tratamento.
+3. A freqüência e o comprometimento do paciente com o tratamento.
 
 **Conclusão**
 -------------
