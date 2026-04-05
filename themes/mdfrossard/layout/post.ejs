@@ -15,7 +15,7 @@ var p = build_post({
     url: page.url
 }, content);
 
-var authorName = typeof author !== 'undefined' ? author : null;
+var authorName = typeof author !== 'undefined' ? author : config.author;
 var currentAuthor = null;
 if (authorName && site.data.authors) {
     currentAuthor = site.data.authors.find(a => a.name === authorName || a.name.includes(authorName));
