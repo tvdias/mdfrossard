@@ -239,7 +239,7 @@ Existem inúmeras variáveis para um planejamento correto. Por isso, a avaliaç�
 Se você deseja recuperar sua mastigação e estética com implantes, fale conosco:
 
 *  **WhatsApp:** [Enviar mensagem agora](https://api.whatsapp.com/send?phone=5521976637803)
-*  **Telefone:**(21)(21) 3217-0430
+*  **Telefone:**(21) 3217-0430
 
 <div style="margin-top: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Agendar Consulta via WhatsApp</a>

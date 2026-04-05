@@ -53,7 +53,7 @@ Assim, no damage to your trip occur. If you are identified with the situations d
 ### **Contact us to schedule an appointment | Fale conosco**
 
 *  **WhatsApp:** [Click here to message us](https://api.whatsapp.com/send?phone=5521976637803)
-*  **Phone:** +55 (21)(21) 3217-0430
+*  **Phone:** +55 (21) 3217-0430
 
 <div style="margin-top: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Schedule via WhatsApp</a>

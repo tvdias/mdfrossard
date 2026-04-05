@@ -186,7 +186,7 @@ Estamos localizados no Rio de Janeiro, com unidades na **{% post_link dentista-b
 Entre em contato conosco para uma análise detalhada do seu caso:
 
 *  **WhatsApp:** [Enviar mensagem agora](https://api.whatsapp.com/send?phone=5521976637803)
-*  **Telefone:**(21)(21) 3217-0430
+*  **Telefone:**(21) 3217-0430
 
 <div style="margin-top: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Agendar Consulta via WhatsApp</a>

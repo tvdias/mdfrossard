@@ -13,7 +13,7 @@ Se você procura um excelente **dentista na Barra da Tijuca** que combine tradi�
 
 Localizada no conceituado **Shopping Città America** (Bloco 2 / Sala 143), nossa clínica oferece conveniência, segurança e uma infraestrutura tecnológica completa para cuidar do seu sorriso.
 
-Ligue para **(21)(21) 3217-0430** ou envie uma **[mensagem via WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)** para falar diretamente com nossa equipe.
+Ligue para **(21) 3217-0430** ou envie uma **[mensagem via WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)** para falar diretamente com nossa equipe.
 
 ---
 
@@ -116,7 +116,7 @@ Atendemos todas as necessidades odontológicas em nossa clínica com o seu **den
 
 Se você valoriza pontualidade, tecnologia de ponta e um atendimento que entende de verdade as suas necessidades, venha conhecer o melhor **dentista na Barra da Tijuca**. 
 
-- **📞 Telefone:**(21)(21) 3217-0430
+- **📞 Telefone:**(21) 3217-0430
 - **💬 WhatsApp:** **[Falar agora pelo WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)**
 - **📍 Endereço:** **[Shopping Città America – Bloco 2 / Sala 143 – Barra da Tijuca ➔](/localizacao/)**
 

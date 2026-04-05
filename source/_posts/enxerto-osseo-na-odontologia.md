@@ -65,7 +65,7 @@ Além disso, o acompanhamento recorrente é essencial para evitar que o problema
 Se você precisa de uma avaliação sobre enxerto ósseo ou implantes, entre em contato:
 
 *  **WhatsApp:** [Clique aqui para enviar uma mensagem](https://api.whatsapp.com/send?phone=5521976637803)
-*  **Telefone:**(21)(21) 3217-0430
+*  **Telefone:**(21) 3217-0430
 
 <div style="margin-top: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Agendar Consulta via WhatsApp</a>
