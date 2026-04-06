@@ -76,9 +76,7 @@ var author_name = post.author ? post.author : config.author;
     <% if (isIframeContain){ %>
     <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
 	  <% } %>
-    <% if (config.google_analytics){ %>
-			<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-		<% } %>
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
 		<script async custom-element="amp-timeago" src="https://cdn.ampproject.org/v0/amp-timeago-0.1.js"></script>
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <script type="application/ld+json">
@@ -202,6 +200,17 @@ var author_name = post.author ? post.author : config.author;
   </head>
 	
 	<body class="body single-post amp-single ">
+		<!-- Google Tag Manager (AMP) -->
+		<amp-analytics type="gtm" data-credentials="include">
+			<script type="application/json">
+			{
+				"vars": {
+					"gtmId": "GTM-TLR2C2T"
+				}
+			}
+			</script>
+		</amp-analytics>
+		<!-- End Google Tag Manager (AMP) -->
 		<% if (config.google_analytics){ %>
 		<amp-analytics type="gtag" data-credentials="include">
 			<script type="application/json">
