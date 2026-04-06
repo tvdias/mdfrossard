@@ -18,7 +18,7 @@ author: Davi Heringer Frossard
 language: pt_BR
 timezone: America/Sao_Paulo
 
-google_analytics: UA-34132526-1
+# Meta (Legacy)
 fb_pixel: 266409860211711
 fb_admins: 100001667267019
 fb_app_id: MdFrossardOdontologia
@@ -103,52 +103,8 @@ excerpt:
   more_excludes: []
   hideWholePostExcerpts: true
 
-generator_amp:
-  templateDir:  themes/mdfrossard/amp
-  assetDistDir: amp
-  logo:
-    path:   ../source/images/logo-150x60.png
-    width:  90 # width <= 600px
-    height: 36 # width <= 60px
-  substituteTitleImage: 
-    path:   sample/sample-substituteTitleImage.png
-    width:  1024 # width >= 696px
-    height: 800
-  cssFilePath:      style.css        #(optional) Location of css or stylus or sass file to use
-  templateFilePath: blog.ejs         #(optional) Location of ejs or pug template file to use
-  theme:
-    menu:
-      Início: /
-      Equipe: /equipe
-      Estrutura: /estrutura
-      Depoimentos: /depoimentos
-      Biossegurança: /biosseguranca
-      Informativos: /informativos
-      "Implante Dentario": /tratamentos/implante-dentario
-      Prótese: /tratamentos/protese
-      Estética: /tratamentos/estetica-dos-dentes
-      Periodontia: /tratamentos/periodontia
-      Endodontia: /tratamentos/endodontia
-      Ortodontia: /tratamentos/ortodontia
-      "Prevenção e Manutenção": /tratamentos/prevencao-e-manutencao
-      "Check Up Digital Preventivo": /tratamentos/check-up-digital-preventivo
-      "Day Clinic": /day-clinic
-      Localização: /localizacao
-      Contato: /contato
-      Blog: /blog
-    facebook_app_id: MdFrossardOdontologia
-    facebook_admins: 100001667267019
-    share_button:
-      twitter: true
-      facebook: true
-      google: true
-    latests: false
-    list_limts: 3
-    authorLink:
-      twitter_id: MD_Odontologia
-      facebook_id: MdFrossardOdontologia
-      youtube_channel: UC6AC1C8mze49D64rTY5BUyw
-    google_analytics: UA-34132526-1
-    fb_pixel: 266409860211711
-    warningLog: true
-    validateAMP: true
+# Analytics & Marketing (Atualizado para GA4)
+google_analytics: G-7S27172376
+fb_pixel: 266409860211711
+fb_admins: 100001667267019
+fb_app_id: MdFrossardOdontologia
