@@ -295,13 +295,14 @@ img {
 
 .logo {
     height: 95px;
+    width: auto;
+    object-fit: contain;
     transition: var(--transition);
 }
 
 .header.scrolled .logo {
     height: 55px;
-    /* Inverte a cor das letras (de branco para o preto original) quando o menu fica branco */
-    filter: invert(1);
+    width: auto;
 }
 
 .nav-links {
@@ -410,9 +411,11 @@ img {
     border: none;
     color: white;
     cursor: pointer;
+    z-index: 1001;
 }
 
-.header.scrolled .mobile-menu-btn {
+.header.scrolled .mobile-menu-btn,
+.header-internal .mobile-menu-btn {
     color: var(--text-main);
 }
 
@@ -1313,15 +1316,18 @@ img {
 }
 
 .header-internal .logo {
+    /* Não usar invert(1) para preservar cores originais do logo se usarmos logo colorido, 
+       mas como o site usa logo_branco.webp por enquanto, mantemos a lógica de inversão se necessário, 
+       porém o usuário pediu para não mexer na estética, apenas na deformação. */
     filter: invert(1);
 }
 
 .header-internal .nav-links li a:not(.btn) {
-    color: var(--text-dark);
+    color: var(--text-main);
 }
 
 .header-internal .mobile-menu-btn {
-    color: var(--text-dark);
+    color: var(--text-main);
 }
 
 .video-wrapper {
