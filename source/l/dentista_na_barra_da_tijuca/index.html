@@ -1656,6 +1656,7 @@ canonical: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca/"
 </a>
 
 <script>
+document.addEventListener('DOMContentLoaded', () => {
     // FAQ accordion smooth
     document.querySelectorAll('.faq-q').forEach(btn => {
         btn.addEventListener('click', () => {
@@ -1695,5 +1696,8 @@ canonical: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca/"
     });
 
     // Initialize Lucide Icons
-    lucide.createIcons();
+    if (typeof lucide !== 'undefined') {
+        lucide.createIcons();
+    }
+});
 </script>

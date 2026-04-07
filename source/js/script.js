@@ -1,14 +1,16 @@
-// Initialize Lucide Icons
-lucide.createIcons();
-
 document.addEventListener('DOMContentLoaded', () => {
+    // Initialize Lucide Icons
+    if (typeof lucide !== 'undefined') {
+        lucide.createIcons();
+    }
+
     // 1. Sticky Header Header styling on scroll
     const header = document.getElementById('header');
     
     const handleScroll = () => {
-        if (window.scrollY > 50) {
+        if (header && window.scrollY > 50) {
             header.classList.add('scrolled');
-        } else {
+        } else if (header) {
             header.classList.remove('scrolled');
         }
     };
@@ -20,18 +22,22 @@ document.addEventListener('DOMContentLoaded', () => {
     const mobileBtn = document.getElementById('mobile-menu-btn');
     const navLinks = document.getElementById('nav-links');
     
-    mobileBtn.addEventListener('click', () => {
-        navLinks.classList.toggle('active');
-        
-        // Change icon based on state
-        const icon = mobileBtn.querySelector('i');
-        if (navLinks.classList.contains('active')) {
-            icon.setAttribute('data-lucide', 'x');
-        } else {
-            icon.setAttribute('data-lucide', 'menu');
-        }
-        lucide.createIcons(); // Re-render the new icon
-    });
+    if (mobileBtn && navLinks) {
+        mobileBtn.addEventListener('click', () => {
+            navLinks.classList.toggle('active');
+            
+            // Change icon based on state
+            const icon = mobileBtn.querySelector('i');
+            if (navLinks.classList.contains('active')) {
+                icon.setAttribute('data-lucide', 'x');
+            } else {
+                icon.setAttribute('data-lucide', 'menu');
+            }
+            if (typeof lucide !== 'undefined') {
+                lucide.createIcons(); // Re-render the new icon
+            }
+        });
+    }
 
     // Handle Mobile Dropdowns
     const dropdowns = document.querySelectorAll('.dropdown > a');
@@ -74,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             if (targetElement) {
                 // Close mobile menu if open
-                if (navLinks.classList.contains('active')) {
+                if (navLinks && navLinks.classList.contains('active')) {
                     mobileBtn.click();
                 }
 
