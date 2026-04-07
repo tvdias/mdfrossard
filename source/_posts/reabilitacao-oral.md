@@ -1,96 +1,80 @@
 ---
-title: Reabilitação oral - Saiba o segredo para mudar os seus dentes.
+title: 'Reabilitação Oral: O que é, Benefícios e como Recuperar o seu Sorriso Completo'
 description: >-
- A reabilitação oral pode gerar muitas dúvidas. Ela consiste na total
- reformulação dos dentes para se adquirir uma melhor mastigação e estética.
- Leia mais.
+ A reabilitação oral é o segredo para transformar dentes desgastados ou perdidos em um sorriso saudável e funcional. 
+ Entenda como funciona esse tratamento multidisciplinar definitivo.
 date: 2016-01-18T16:47:43.000Z
 featured_image: /images/c2e56fd2-452b-4577-a282-1d3636097725_reabilitação-oral.webp
 ---
 
-Com o passar dos anos, podemos passar por diversos {% post_link tratamento-dentario "tratamentos dentários" %}, desde a realização de uma pequena restauração até a extração de um elemento dentário. 
+Com o passar dos anos, é comum passarmos por diversos {% post_link tratamento-dentario "tratamentos dentários" %} isolados — uma restauração aqui, um canal ali, ou até a perda de um dente que nunca foi reposto. 
 
-Além disso, mesmo não realizando nenhum procedimento, ainda podemos ter desgaste dos dentes ou retração gengival. 
+Somado a isso, o desgaste natural, a retração gengival e o amarelamento podem fazer com que o sorriso perca sua força e beleza. Quando o problema deixa de ser um dente apenas e passa a envolver toda a boca, entramos no campo da **Reabilitação Oral**.
 
-Dessa forma, existem momentos onde precisamos ou queremos devolver novamente a estética dos dentes. 
+Na **MD Frossard**, a reabilitação oral é tratada como uma obra de arte da engenharia biológica: devolvemos a você a capacidade de mastigar com segurança e o prazer de sorrir sem restrições.
 
-Nesse caso, precisamos mexer em vários dentes e envolver diversas especialidades neste processo. 
-
-**A isso chamamos de Reabilitação Oral.**
-
-**Todos precisam realizar uma reabilitação oral?**
---------------------------------------------------
-
-Não, nem todos precisam. A reabilitação se dá por duas principais causas:
-
-1. Quando se quer mudar esteticamente o aspecto do dente.
-2. Pela questão funcional.
-
-Quando se tem problemas em vários dentes, precisamos intervir para devolver a função da correta mastigação e [oclusão](https://pt.wikipedia.org/wiki/Oclusão). 
-
-Em outros casos, o paciente apresenta condições normais de mastigação, porém estética e {% post_link gengiva-sangrando "saúde gengival" %} comprometidas. 
-
-Com o passar do tempo, nossos dentes podem amarelar, a gengiva pode reabsorver, tornando o sorriso com um aspecto ruim. 
-
-Assim torna-se necessário intervir com várias especialidades para devolver o aspecto saudável a boca.
-
-**Como é realizada a reabilitação dos dentes ?**
-------------------------------------------------
-
-[![reabilitação dos dentes](/images/4600868e-5918-4fc5-af50-58508b12afea_reabilitação-dos-dentes.webp)](/images/4600868e-5918-4fc5-af50-58508b12afea_reabilitação-dos-dentes.webp) 
-
-Antes precisamos ter em mente que a reabilitação oral é um **procedimento complexo**, pois envolve mudar completamente a mordida e o sorriso do indivíduo de forma a estabilizar e sanar problemas, principalmente os de mastigação. 
-
-No início precisamos de exames de imagem (tomografias e/ou raio-x). 
-
-Também é preciso realizar moldagens das arcadas superior e inferior e articulá-las entre si, para checar a mordida do paciente. 
-
-Além de **inspeção meticulosa da cavidade oral**, um bom exame clínico que envolva a parte sistêmica do paciente é de grande importância, uma vez que com ele poderemos observar se existe alguma disfunção no organismo que possa influenciar em seu estado atual e em seu tratamento. 
-
-Após isso, poderemos dar inicio ao planejamento do caso. Como uma reabilitação dentária envolve mais de uma especialidade, sempre consultamos outros profissionais para se ter o melhor planejamento do caso. 
-
-Ao final, mostramos ao paciente qual a sequência de tratamento e como esperamos que o sorriso fique.
-
-**Vídeo sobre Reabilitação Oral**
 ---
+
+### **Precisa de uma Transformação Completa?**
+Se você sente que seu sorriso precisa de um novo começo, fale com nossos especialistas:
+* <i data-lucide="message-circle" class="icon-sm"></i> **[Agende sua Avaliação via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** [(21) 3217-0430](tel:2132170430)
+
+---
+
+## O que é, afinal, a Reabilitação Oral?
+
+Diferente de um tratamento pontual, a **Reabilitação Oral** é um planejamento global. Ela consiste na reformulação total da dentição para adquirir a melhor mastigação (função) combinada a um visual impecável (estética).
+
+**As duas principais frentes de atuação são:**
+
+1.  **Funcional:** Quando existem perdas de dentes ou "mordida errada" (oclusão ineficiente). Precisamos reequilibrar as forças para evitar dores na face e garantir uma digestão perfeita.
+2.  **Estética:** Quando o foco é rejuvenescer o sorriso, corrigindo dentes pequenos, amarelados ou com a {% post_link gengiva-sangrando "saúde gengival" %} comprometida.
+
+## Como funciona o processo na MD Frossard?
+![Planejamento de reabilitação dos dentes](/images/4600868e-5918-4fc5-af50-58508b12afea_reabilitação-dos-dentes.webp) 
+
+Por ser um procedimento complexo, a reabilitação exige um diagnóstico meticuloso. Não começamos nenhum tratamento sem antes "desenhar" o resultado final:
+
+*   **Exames Digitais:** Utilizamos tomografias, raios-x e escaneamentos intraorais.
+*   **Análise Sistêmica:** Verificamos sua saúde geral para garantir que o organismo responda bem aos implantes ou próteses.
+*   **Equipe Multidisciplinar:** O Dr. Davi Frossard coordena diferentes especialistas (periodontia, implantodontia, prótese) para que cada etapa seja perfeita.
+
+### **Assista ao vídeo e entenda os segredos da Reabilitação:**
 {% youtube eVJrVZTowJI %}
 
 ---
 
-**Quais especialidades são necessárias para uma reabilitação dentária ?**
--------------------------------------------------------------------------
+## Especialidades envolvidas na sua transformação
+Para reconstruir um sorriso de forma definitiva, geralmente integramos:
 
-![](/images/ea56bf19-1116-43da-bc86-5d85bc5d2d40_como-saber-se-estou-com-cárie.webp) 
+*   **Periodontia:** Garantir que a "base" (gengiva e osso) esteja saudável.
+*   **Implantodontia:** Repor raízes perdidas com implantes de alta tecnologia.
+*   **Prótese e Estética:** Finalizar com coroas, facetas ou lentes de contato que imitam a perfeição dos dentes naturais.
+*   **Ortodontia:** Alinhar dentes para que a reabilitação seja estável a longo prazo.
 
-Em grande parte dos casos, **praticamente todas.** 
+## Quanto tempo demora o tratamento?
+![Resultado de reabilitação oral](/images/c2df1b99-aed9-4ecf-97b2-07bcced39cad_reablitação-dentária.webp) 
 
-Geralmente, a reabilitação começa com o [tratamento periodontal](/tratamentos/periodontia/). Que é o tratamento dos tecidos circundantes ao dente. 
+Cada caso é único. A duração depende de três pilares: o tempo técnico de cada procedimento, a resposta biológica do seu corpo (cicatrização) e a sua frequência nas consultas. O importante é saber que **o resultado final é um investimento para a vida toda.**
 
-Com a saúde da gengiva, podemos começar o tratamento de reabilitação. Dependendo de cada caso, vamos iniciar por diferentes especialidades, desde cirurgia para extração, prótese fixa, implantes ou até ortodontia.
+---
 
-**A reabilitação oral é demorada ?**
-------------------------------------
+## **Conclusão: Invista no seu bem-estar**
 
-[![reabilitação oral](/images/c2df1b99-aed9-4ecf-97b2-07bcced39cad_reablitação-dentária.webp)](/images/c2df1b99-aed9-4ecf-97b2-07bcced39cad_reablitação-dentária.webp) 
+A reabilitação dos dentes vai muito além da vaidade; é sobre recuperar a harmonia do rosto e a saúde do corpo. Um sorriso reabilitado devolve a autoestima e a liberdade social que muitos pacientes acreditavam ter perdido para sempre.
 
-Sim. E cada caso demanda um tempo diferente que envolve **3 pilares**:
+Na **MD Frossard**, aliamos tecnologia de ponta a um atendimento humanizado para que sua jornada de transformação seja a mais confortável possível.
 
-1. O tempo de trabalho normal do tratamento escolhido.
-2. O tempo para que o organismo da pessoa responda ao tratamento.
-3. A freqüência e o comprometimento do paciente com o tratamento.
+### **Inicie seu Planejamento de Reabilitação Oral**
+Converse com nossa equipe no Rio de Janeiro e descubra o que a odontologia moderna pode fazer por você:
 
-**Conclusão**
--------------
+* <i data-lucide="message-circle" class="icon-sm"></i> **Fale pelo WhatsApp:** **[Abrir Atendimento Agora](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Telefone:** (21) 3217-0430
 
-A reabilitação dos dentes, quando bem realizada, devolve a correta mastigação e harmonia do sorriso. 
+<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Planejar Meu Novo Sorriso</a>
+</div>
 
-Os resultados são bastante satisfatórios, porém temos que saber que esse tipo de tratamento não é rápido e também é custoso. 
-
-Além disso, é preciso fazer a {% post_link 7-dicas-faceis-para-a-sua-higiene-bucal "higiene" %} de forma correta além de realizar as consultas de revisão no dentista. 
-
-Para saber sobre as especialidades e tipos de tratamentos, explore nossos textos. Temos bastante informação para dividir com você! 
-
-Deixe suas dúvidas abaixo ! 
-
-Att, 
-Davi Frossard
+**Equipe MD Frossard Odontologia**
+*Referência em Reabilitação Oral e Implantes no Rio de Janeiro.*

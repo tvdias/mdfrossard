@@ -1,122 +1,97 @@
 ---
-title: Dente Siso Inflamado - O que fazer nessa situação ?
+title: 'Dente Siso Inflamado: Sintomas, Alívio da Dor e Quando a Extração é Necessária'
 description: >-
- A dor no dente siso inflamado é muito comum quando somos jovens. Porém, a
- solução pode ser simples. Leia o texto e tire suas dúvidas.
+ Está sofrendo com o dente siso inflamado? Entenda os sintomas da pericoronarite, 
+ como aliviar a dor e por que a extração segura é a melhor solução para o seu caso.
 date: 2017-05-29T10:00:14.000Z
 featured_image: /images/be5df36b-1524-4f94-a657-c32ade393dc7_dente-siso-inflamado.webp
 ---
-Você já ouviu vários relatos sobre a imensa dor quando se tem o siso inflamado. 
 
-Esse dente, geralmente é o último a nascer em nossa arcada dentária, ocorrendo na adolescência ou até depois. 
+Você já deve ter ouvido relatos sobre a dor intensa de um **dente siso inflamado**. Esse dente, o terceiro molar, costuma ser o último a nascer, geralmente entre o final da adolescência e o início da fase adulta.
 
-Devido a sua posição bem posterior na arcada, muitos acabam tendo dificuldade para higienizá-lo, por isso sua remoção é indicada. 
+Pela sua posição lá no fundo da boca, o siso frequentemente encontra barreiras para nascer corretamente. Quando ele fica "preso" ou nasce em posição irregular, cria o cenário perfeito para o acúmulo de bactérias, resultando na temida inflamação e dor.
 
-Além disso, existem casos em que esse dente nasce em uma posição alterada, comprometendo ainda mais sua manutenção na boca. 
-
-Assim, o **dente siso inflamado** ocorre quando há higienização deficiente da região, gerando dor e desconforto.  Esse problema também pode ser chamado de pericoronarite. 
-
-Continue a ler para aprender mais sobre:
-
-* Sintomas
-* O correto tratamento
-* Os cuidados quando se extrai o siso.
-
-Caso queira falar conosco para **marcar uma consulta**, você pode: 
-
-* Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) (é só clicar) ; 
-* Ligar para [3217-0430](tel:2132170430).
-
-
-## **Sintomas do dente siso inflamado**
-
-Podemos presumir que com a correta {% post_link escovar-os-dentes "higienização" %} da área, o siso pode passar anos sem ter problema. 
-
-Entretanto, três situações podem dificultar a limpeza da região:
-
-* O siso pode não nascer na posição correta;
-* Pode existir um "pedaço" de gengiva em cima do siso, funcionando como uma "tampa" que acumula sujeira (isso pode ocorrer independente da posição dele);
-* A pessoa pode não ter abertura de boca suficiente para acessar seus dentes mais posteriores.
-
-Nessas condições descritas, mesmo a melhor escovação da região pode não ser suficiente, uma vez que alguns resíduos de sujeira poderiam ficar escondidos, sem que a escovação e o uso de fio dental conseguissem acessá-los. 
-
-Nesses casos, os riscos de inflamação e dor na região são altas.
-
- **Portanto os principais sintomas do dente siso inflamado são :**
-
-* Dor;
-* Região vermelha;
-* Edema (inchaço) na região;
-* Gosto estranho na boca;
-* Dificuldade de abertura da boca.
-
-Esses fatores são característicos de inflamação na região do siso. A dor pode ser aguda e é MUITO IMPORTANTE procurar o dentista o quanto antes.
-
-## **Tratamento do dente siso inflamado** 
-
-![siso inflamado exemplo](/images/1940f3f0-e0a2-4ed4-83ee-8fa6c05a44bb_dente-siso-dor.webp) 
-
-O melhor caminho para evitar o dente siso inflamado é higienizar corretamente a região. 
-
-Entretanto, como dito acima, isso nem sempre é possível. 
-
-Alguns pacientes nos relatam que usam medicação por conta própria para melhorar a dor no siso. 
-
-Porém, isso não é recomendável e deve ser evitado. 
-
-O uso de medicamentos deve ser realizado sob supervisão do dentista, até porque, momentaneamente a dor pode melhorar mas o problema não será resolvido. 
-
-Quando o efeito do remédio acabar, a dor irá voltar. Nesses casos, o procedimento indicado é a **extração do elemento dentário acometido**.   
-
-## **Extração do siso**
-
-![extração do siso](/images/def5168b-b6d1-4b07-ae10-4957b279518b_dente-siso-inflamado-extração.webp) 
-
-Quando a {% post_link siso-porque-extrair "extração do siso" %} inflamado for indicada, não fique preocupado, nem fuja! 
-
-Por meio de exames e anamnese, conseguimos planejar a cirurgia de forma segura e previsível. 
-
-Exames de imagem como radiografia periapical, radiografia panorâmica e até mesmo tomografia são necessários e indispensáveis (tomografia é utilizada em casos mais complexos). 
-
-Por meio deles fechamos o diagnóstico e todo o procedimento é explicado para nosso cliente e sanamos todas as suas dúvidas. {% post_link dente-do-siso "Leia mais sobre extração do siso" %}.
+Na **MD Frossard**, somos especialistas em remover o desconforto causado pelo siso com procedimentos seguros, indolores e de rápida recuperação.
 
 ---
 
-## Vídeo sobre o siso inflamado
+### **Precisa de Alívio Urgente para o Siso?**
+Não sofra com a dor. Fale agora com nossa equipe de atendimento:
+* <i data-lucide="message-circle" class="icon-sm"></i> **[Agende Imediato via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** [(21) 3217-0430](tel:2132170430)
 
+---
+
+## O que causa a inflamação do siso? (Pericoronarite)
+
+A inflamação mais comum no siso é chamada de **Pericoronarite**. Ela ocorre quando um pedaço de gengiva cobre parcialmente o dente, criando um "capuz" onde restos de comida e bactérias ficam presos, sem que a escova consiga alcançar.
+
+**As três situações que mais dificultam a limpeza:**
+1.  **Posição Incorreta:** O siso nasce "deitado" ou inclinado, empurrando os outros dentes.
+2.  **O Capuz Gengival:** Tecido gengival em cima do dente que funciona como uma armadilha de sujeira.
+3.  **Dificuldade de Acesso:** Falta de espaço na boca para que a escova e o fio dental cheguem ao local.
+
+## Sintomas do Dente Siso Inflamado
+Se você suspeita que seu siso está com problemas, fique atento a estes sinais:
+
+* **Dor Aguda:** Que pode irradiar para o ouvido ou garganta.
+* **Inchaço (Edema):** Na região da gengiva ou até no rosto.
+* **Vermelhidão e Calor:** Sinais clássicos de infecção.
+* **Gosto Ruim na Boca:** Devido à presença de secreções na inflamação.
+* **Trismo:** Dificuldade ou dor ao abrir completamente a boca.
+
+> [!CAUTION]
+> **Atenção:** Se a inflamação vier acompanhada de febre ou dificuldade para engolir, procure um dentista imediatamente. Infecções no siso podem se espalhar rapidamente.
+
+## Qual o correto tratamento?
+![Exemplo de siso inflamado](/images/1940f3f0-e0a2-4ed4-83ee-8fa6c05a44bb_dente-siso-dor.webp) 
+
+Muitos pacientes cometem o erro de se automedicar. Embora analgésicos possam mascarar o sintoma, eles **não resolvem a causa**. Assim que o efeito do remédio passa, a dor volta ainda mais forte.
+
+O tratamento definitivo geralmente envolve:
+1.  **Combate à Infecção:** Com prescrição de antibióticos e bochechos específicos feitos pelo dentista.
+2.  **Extração do Siso:** Uma vez controlada a fase aguda, a remoção do dente é a única forma de garantir que o problema nunca mais volte.
+
+### **Entenda tudo sobre a Extração Segura no vídeo abaixo:**
 {% youtube zC_ID2g8C4E %}
 
----
+## A Extração do Siso: Segurança e Modernidade
+Na nossa clínica, a {% post_link siso-porque-extrair "extração do siso" %} é tratada com planejamento digital. Utilizamos radiografias panorâmicas e, quando necessário, tomografias computadorizadas para visualizar a posição exata das raízes e nervos.
 
-## **Cuidados pós operatórios**
+Isso garante uma cirurgia extremamente rápida, segura e com o mínimo de trauma possível. {% post_link dente-do-siso "Clique aqui e tire suas dúvidas sobre a cirurgia" %}.
 
-![pós operatório siso inflamado](/images/ecb1b46e-c753-44ca-b384-d1a0a278e59e_dente-siso-inflamado-cuidados.webp) 
+## Cuidados Pós-Operatórios: O Segredo da Boa Recuperação
+Para que você volte à sua rotina rapidamente, o pós-operatório é fundamental:
 
-Possuímos um texto completo sobre os cuidados pós operatórios ( {% post_link extracao-de-dente "link" %} ) que o paciente deve ter.
-
-**Porém, vou listar os principais aqui :**
-
-* Evitar realizar atividades físicas;
-* Evitar pegar sol;
-* Se alimentar com alimentos frios e pastosos;
-* Higienizar a região corretamente.
-
-Esses cuidados são importantes! 
-
-Consequências ruins podem ocorrer caso o paciente não siga as orientações do dentista! 
+* **Repouso:** Evite atividades físicas nas primeiras 48 a 72 horas.
+* **Alimentação:** Priorize alimentos gelados e pastosos (sorvetes, iogurtes, caldos mornos).
+* **Higiene:** Escovação delicada, seguindo rigorosamente as orientações da nossa equipe.
+* **Medicação:** Tome os medicamentos nos horários exatos prescritos pelo Dr. Davi.
 
 ---
+
+## Dúvidas frequentes sobre o Siso
+Assista a este guia rápido para perder o medo:
+
 {% youtube C20z6hZOjHo %}
+
 ---
 
-Finalizando, não fique preocupado caso você realmente precise remover o siso. A cirurgia é feita com segurança e seguindo todos os cuidados pós operatórios a recuperação será muito boa. 
+## **Agende sua Avaliação na MD Frossard**
 
-O importante, vale ressaltar, é que o paciente busque informação e tire suas dúvidas. 
+Não deixe uma pequena inflamação virar uma emergência dolorosa. Nossa equipe está preparada para cuidar de você com todo o conforto que a tecnologia moderna permite.
 
+**Escolha a unidade mais próxima de você no Rio de Janeiro:**
 
-Só assim terá confiança no profissional que irá cuidar dele. Caso ainda esteja com dúvida, é só deixar um comentário logo abaixo.
+* <i data-lucide="message-circle" class="icon-sm"></i> **Fale pelo WhatsApp:** **[Abrir Atendimento Agora](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Telefone:** (21) 3217-0430
 
-Até a próxima,
+<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Resolver Meu Problema de Siso</a>
+</div>
+
+**Dr. Davi Frossard - MD Frossard Odontologia**
+*Referência em Cirurgia e Saúde Bucal na Barra da Tijuca e Botafogo.*
 
 
 **Davi Frossard - MD Frossard Odontologia**
