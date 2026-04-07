@@ -1,81 +1,86 @@
 ---
-title: 'Invisalign, Saiba tudo sobre esse aparelho'
+title: 'Invisalign: Saiba tudo sobre o Aparelho Invisalign'
 description: >-
- Com o invisalign você pode corrigir a posição dos seus dentes de forma
- praticamente invisível e que não machuca os lábios. Saiba mais lendo o texto.
+ Com o aparelho Invisalign você pode corrigir a posição dos seus dentes de forma
+ praticamente invisível e ultraconfortável. Saiba tudo sobre o pioneiro Invisalign lendo o texto completo.
 date: 2015-04-06T09:36:23.000Z
 featured_image: /images/34725af2-9c4b-4383-93f6-5466869d78f0_Invisalign.webp
 ---
 
-Você já pensou se pudesse alinhar e corrigir a posição dos seus dentes com um aparelho praticamente invisível, que não atrapalha a escovação e nem machuca os lábios?
+Você já imaginou se pudesse alinhar e corrigir a posição dos seus dentes usando um método completamente estético e incrivelmente rápido? 
 
-Isso é possível com o sistema **Invisalign®.**
+A união do avanço da engenharia americana com a inteligência artificial tornou isso possível com o sistema original e pioneiro chamado **Invisalign®**. Ele age usando um material praticamente invisível, que não atrapalha a sua escovação diária e acaba de vez com os ferros que machucam agressivamente os lábios.
 
-Criamos um post  explicativo sobre o sistema Invisalign®, com as perguntas que mais ouvimos aqui, na MD Frossard Odontologia.
+Criamos este prático guia explicativo sobre como o fabuloso **Invisalign** atua e respondemos as principais dúvidas contidianas aqui na clínica MD Frossard Odontologia do Rio de Janeiro.
 
-O que é Invisalign®?
---------------------
+---
 
-[![aparelho invisalign](/images/uploads/2015/04/aparelho-invisalign-1024x752.webp)](/images/3716881e-9273-4a78-818c-ed52bc1f697e_aparelho-invisalign.webp)
+## O que é o Invisalign® afinal?
 
-**Invisalign® é um aparelho ortodôntico diferente do convencional.**
+[![Aparelho Invisalign demonstrativo](/images/uploads/2015/04/aparelho-invisalign-1024x752.webp)](/images/3716881e-9273-4a78-818c-ed52bc1f697e_aparelho-invisalign.webp)
 
-Ao invés de bráquetes e fios, são utilizadas finas placas transparentes, chamados de alinhadores, feitas sob medida para cada paciente para se conseguir o alinhamento dos dentes de forma progressiva.
+O **Invisalign** é definitivamente um aparelho ortodôntico que revolucionou tudo o que conhecíamos de modelo convencional na profissão! 
 
-Como essas placas transparentes movimentam os dentes?
------------------------------------------------------
+No lugar do antigo metal, dos braquetes frios nas unhas e dos arames pontudos de antigamente, utilizam-se finíssimas placas inteligentes transparentes feitas do revolucionário polímero SmartTrack, desenhadas digitalmente com exclusividade mundial para cada caso! 
 
-Para movimentar qualquer dente basta exercer uma leve pressão sobre ele, de forma contínua.
+Elas são categorizadas como "alinhadores" e cumprem o trabalho pesadíssimo do alinhamento dos dentes sem você notar que estão agindo na boca!
 
-É dessa forma que os aparelhos convencionais funcionam, pois os fios pressionam os dentes para a posição desejada.
+## Como Essas Placas Transparentes Movimentam Meus Dentes?
 
-Com Invisalign®, o principio é o mesmo. Cada placa pressiona levemente os dentes em direção ao lugar certo, assim os dentes se movimentam progressivamente.
+Toda correção precisa de uma pressão muito calculada. Com o **aparelho Invisalign**, esse princípio atua sob modelagem matemática computadorizada:
 
-Como é realizado o processo de planejamento e personalização para o meu caso?
------------------------------------------------------------------------------
+* Cada placazinha do kit empurra e pressiona milimetricamente o grupo de dentes exato na mira para o lugar futuro desejado. 
+* O alinhamento dental evolui suave e progressivamente. Nunca em "trancos" como nos antigos apertos bimestrais! 
+* A precisão digital antecipa 100% da movimentação da força. Tudo para guiar os seus dentes sem traumatizar a raiz viva natural lá dentro da gengiva de maneira silenciosa.
 
-[![Invisalign perto](/images/422f9ca4-ba04-4e44-9e1d-836096d29554_Invisalign-perto.webp)](/images/422f9ca4-ba04-4e44-9e1d-836096d29554_Invisalign-perto.webp)
+---
 
-Primeiro são realizadas fotografias e as moldagens dos dentes aqui no Rio de Janeiro, que são então encaminhadas para os EUA. Lá, os moldes são escaneados e um planejamento totalmente digitalizado (chamado Clincheck)  é elaborado de acordo com as instruções enviadas pelo nosso Ortodontista.
+## Como é o Exame e Elaboração da Minha Caixinha Invisalign?
 
-O planejamento digital é então apresentado ao paciente para aprovação. Nessa consulta, já será possível saber quantos alinhadores serão necessários e, portanto, qual será o tempo de tratamento. Uma vez aprovado, dá-se inicio à confecção da sequência completa de placas na fábrica da Invisalign®, ou seja, todos os alinhadores que serão necessários do início ao fim do tratamento, são produzidas e enviadas de uma única vez.
+[![Invisalign visto super de perto](/images/422f9ca4-ba04-4e44-9e1d-836096d29554_Invisalign-perto.webp)](/images/422f9ca4-ba04-4e44-9e1d-836096d29554_Invisalign-perto.webp)
 
-Quantas horas por dia devo usar os alinhadores?
------------------------------------------------
+1. Você vem até a nossa base no Rio e é escaneado magicamente pelo aparelho computacional de boca em apenas alguns minutos sem massa nenhuma!
+2. Nossas orientações clínicas altamente minuciosas são remetidas por nuvem digital diretamente para a sede do complexo na Califórnia, EUA.
+3. Toda a topografia da sua mordida é alocada e um incrível vídeo tridimensional (nomeado Software ClinCheck) simula a evolução visual dos próximos meses antes ainda de instalarmos as peças físicas.
+4. O dentista mestre aprova perante seus olhos no consultório (você mesmo avalia e dá nota nas fotos). Automaticamente começa-se a sofisticadíssima usinagem matriz na fábrica da Invisalign de todo o bloco original único customizado, enviado magicamente das Américas para a MD Frossard finalizando o espetáculo.  
 
-O paciente de Invisalign® deve utilizar os alinhadores durante, pelo menos, **22 horas por dia**, o removendo apenas para comer, beber líquidos quentes, escovar os dentes e passar o fio dental.
+---
 
-O tratamento é doloroso?
-------------------------
+## As Principais Dúvidas de Rotina:
 
-De forma geral, os pacientes Invisalign® sentem menos desconforto que os pacientes de ortodontia convencional, pois as forças sobre os dentes são planejadas com mais precisão e sempre de uma forma bem leve.
+### Uso Obrigatório por Quantas Horas ao Dia?
+A disciplina é da conta do próprio encarregado. Todo paciente no protocolo **Invisalign** obriga-se sem exceções em manter os transparentes durante cerca de **20 a 22 horas completas diárias minimum.** Removemos rigidamente apenas aos três episódios do dia: Comer tranquilamente pratos quentes e saborear vinhos roxos, e aos períodos no escovar do dente higienizando fios.   
 
-O alinhador atrapalha na fala?
-------------------------------
+### Esse Tipo de Força Atua com Fortes Dores Diárias?
+Incomparavelmente a tudo aquilo reportado como torturante por adolescentes do modo padrão há dez anos. Devido o SmartTrack da placa abraçar delicadamente a coroa da superfície do sorriso, todo torque tem limitação física. O paciente sentirá incômodo inicial de formigamentos pelo empurrar dos três a quatro primeiros curtos dias na transição dos plásticos para que osso afrouxe suave!
 
-**Não.**
+### A Placa Prejudica Socialmente ao Falar Publicamente?
+**Definitivamente Não.** O filme elástico do polímero gruda num isolamento vácuo com o dente para ele não flutuar solto com a saída natural salivar. A sua voz não vai ser fanha e locutores continuam exercendo publicamente normalmente a fonética pura da língua pela adesão íntima com céu protetor! 
 
-Os alinhadores são muito bem adaptados aos dentes, então a fala não fica prejudicada.
+### Preciso Ir Frequentemente Todo Mês Fazer Manutenção?
+Depende do andamento rápido imposto pela avaliação! O seu médico fornecerá várias plaquinhas originais novas fechadas e você mesmo as destrava sozinho para vestir sequencialmente (a cada 7 a 15 dias sem parar a rotina ocupada). Dessa forma, o paciente se projeta retornando num controle esporádico à clínica na média a cada trinta até os sessenta práticos dias!
 
-De quanto em quanto tempo preciso trocar os alinhadores e ir ao Ortodontista?
------------------------------------------------------------------------------
+### O Sistema Pode Ser Adotado Quem Viveu Perda de Dentes Faltantes Antes?
+A espetacular **tecnologia Invisalign** prevê espaços programáticos de cor de proteção quando as pontes anteriores falharam!  Se ocorreu a  [Perda de Dente](/perda-de-dentes/) e a arcada cedeu furos vazios em ausências estéticas ou mesmo naqueles com sólidos [Implantes Dentários de Porcelana Ocultos](/implante-dentario/), essas condições não proíbem mais seus consertos oclusais precisos!    
 
-Os alinhadores são trocados a **cada 15 dias**, e as consultas para ajuste e entrega de novas placas são mensais ou a cada dois meses.
+### Não Tenho Idade Adequada a Tratamento Ortodôntico Estético?
+A vida e a ciência eliminaram a concepção infantil para dentes direitos! Milhões de pessoas aderindo no planeta a marca com plena função em jovens executivos até adultos bem idosos reabilitando desgastes passados!  
 
-É possível usar Invisalign® mesmo tendo dentes faltando ou implantes?
----------------------------------------------------------------------
+---
 
-**Sim.**
+### **Um Sorriso Magnético: Agende Sua Avaliação Invisalign**  
 
-A {% post_link perda-de-dentes "falta de dentes" %} ou a presença de {% post_link implante-dentario "implantes dentários" %} não impede o tratamento com invisalign.
+Faça parte hoje dos sorrisos mais modernos sem se submeter aos fios afiados antiquados. Comece imediatamente a cuidar da sua saúde entrando em nossa recepção humana online especializada:
 
-Quais os limites de idade para usar Invisalign®?
-------------------------------------------------
+* <i data-lucide="message-circle" class="icon-sm"></i> **Envie Mensagem No WhatsApp Imediato:** **[Clicar Aqui Para Iniciar](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Telefone Central (Fixo):** (21) 3217-0430
 
-Não há restrições quanto à idade.
+<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Planejar Meu Aparelho Invisível Hoje</a>
+</div>
 
-Desde adolescentes até idosos podem se beneficiar dos tratamentos com Invisalign®.
+Um abraço cordial,
 
-Em breve teremos mais novidades sobre o sistema Invisalign® aqui no Blog.
+**Equipe MD Frossard Ortodontia Digital**
 
-Abraços!
+---
