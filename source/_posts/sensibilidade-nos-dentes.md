@@ -1,177 +1,130 @@
 ---
-title: Sensibilidade nos Dentes - Veja os 9 Principais Motivos .
+title: 'Sensibilidade nos Dentes: Veja os 9 Principais Motivos e Como Curar'
 date: 2014-05-15T19:10:51.000Z
 author: Luciana Vieira Peroni
 description: >-
- A dor causada pela sensibilidade dental é muito comum no consultório
- odontológico. Veja os 9 principais motivos e principalmente como eliminar a
- dor.
+ A dor causada pela sensibilidade dental é um dos incômodos mais comuns no consultório.
+ Entenda os 9 principais motivos e descubra como eliminar a dor de forma definitiva.
 featured_image: /images/d58faad0-cee4-4837-ac17-cb53824b8527_sensibilidade-dental.webp
 ---
-## Você já teve Sensibilidade nos Dentes ?
 
-Com essa pergunta começo o texto, pois a **sensibilidade nos Dentes** é mais comum do que se imagina e muitos pacientes chegam ao consultório dentário com essa queixa. 
+Você já sentiu aquele "choque" ou uma pontada aguda ao tomar um copo de água gelada ou um café quente? 
 
-A carência de informações corretas sobre esse assunto é grande, uma vez que o conhecimento sobre o tratamento só está relacionada ao uso de pastas dentais como solução. 
+Se a resposta for sim, você faz parte de uma grande parcela da população que sofre com a **sensibilidade nos dentes**. Este problema é muito mais comum do que se imagina e é uma das queixas frequentes aqui na MD Frossard. 
 
-Porém, deve-se saber a origem do problema e não somente o tratamento. Pois, a abordagem pode ser totalmente diferente dependendo da causa. 
+Muitas vezes, a solução parece ser apenas trocar a pasta de dente, mas a verdade é que a **sensibilidade nos dentes** pode esconder problemas mais sérios que exigem uma abordagem clínica específica. 
 
-Desta forma, o objetivo deste texto será definir o que é **sensibilidade nos dentes**, mapear suas possíveis causas e mostrar as soluções que o profissional pode utilizar no tratamento de seu paciente. 
-
-Ficou curioso? Então continue lendo esse artigo.
-
-## **Hipersensibilidade dentinária, o que é?**
-
-
-![Sensibilidade nos dentes](/images/bfe5de85-5f82-4173-99f2-662c43ea1cf8_Sensibilidade-nos-dentes1-1024x405.webp) 
----
-Hipersensibilidade dentinária é o nome correto para a sensibilidade nos dentes da qual falamos neste post. 
-
-Ela ocorre quando há **exposição gradual da dentina**, que é parte mais interna do dente. Na [dentina](https://pt.wikipedia.org/wiki/Dentina), encontram-se pequenos canais (túbulos dentinários) que contém terminações nervosas e fluidos.  
-
-Quando o dente está sobre ação de calor ou frio e estes túbulos estão expostos, ocorre a movimentação rápida do fluido contido neles. 
-
-Esta movimentação faz com que as terminações nervosas reajam gerando a sensação de dor.  
-
-E qual é a sensação que a sensibilidade causa em nossos dentes ? 
-
-Ela é caracterizada pela dor aguda (“dor fina”, “pontada”) e de curta duração (que logo “passa”) percebida após a ingestão de alimentos frios ou quentes. Por vezes sentida até com a passagem de ar pela boca quando falamos.
-
-## **Quais são as 9 principais causas da Sensibilidade nos dentes ?**
-
-![sensibilidade dentária](/images/ebe1b333-f7ce-43fd-b413-84db3dc1a69e_sensibilidade-dentária.webp) 
-
-
-
-##### **1) Escovação excessiva** 
-
-Ocorre desgaste do esmalte do dente quando o indivíduo faz uso de uma escovação agressiva, com muita força. 
-
-Este tipo de lesão pode ainda agravar se, associado a este hábito, ocorre a utilização de escovas de cerdas duras. 
-
-Além de prejudicar o dente, isso também pode levar a retração gengival, o que expõe ainda mais a dentina.    
-
-##### **2) Doença da gengiva (gengivite)**
-
-Quando há a inflamação na [gengiva (gengivite)](/tratamentos/periodontia/ "Periodontia"), ela fica inchada, sangrante e dolorida. 
-
-Por vezes, podemos observar que a gengiva “descola” do dente, expondo partes que não tem esmalte e que antes estavam cobertas pela gengiva sadia. 
-
-Esta situação gera incômodo, dor, sendo então caracterizada como sensibilidade nos dentes causada pela inflamação gengival;  
-
-##### **3) Ranger dos dentes** 
-
-Pacientes que rangem os dentes (apresentam {% post_link ranger-os-dentes "bruxismo" %}) geram um desgaste anormal do esmalte dentário, podendo assim apresentar dentes sensíveis;  
-
-##### **4) Retração gengival**
-
-Como dito anteriormente, a retração gengival expõe regiões do dente que não possuem a proteção do esmalte, deixando a dentina mais exposta e causando a sensibilidade nos dentes;  
-
-##### **5) {% post_link clareamento-dental "Clareamento dental" %}**
-
-Durante este procedimento, os pacientes podem apresentar sensibilidade dental. 
-
-Ela pode ser causada diretamente pelo clareador e seus derivados, ou indiretamente pela pressão que o gel aprisionado na moldeira de clareamento pode provocar no fluido dentinário ; 
-
-Deve-se ficar atento se já existe a hipersensibilidade dentária antes de realizar o {% post_link clareamento-dental "clareamento dental" %}. 
-
-Se for esse o caso, a sensibilidade deve ser tratada para depois realizar o branqueamento do dente. Assim evitamos maiores desconfortos durante o tratamento.  
-
-##### **6) Cremes dentais abrasivos** (como os que prometem clarear os dentes) 
-
-Existem cremes dentais com vários graus de abrasividade. A textura deles é diferente, como se fosse uma pasta “com areia”. 
-
-O material abrasivo, muito comum em pastas clareadoras, é o agente responsável pela microabrasão no esmalte gerando polimento dental. 
-
-Ele limpa o dente pois desgasta o esmalte e assim consegue remover pigmentações aderidas, deixando os dentes mais claros. 
-
-Com o passar do tempo e com o uso freqüente, ele acaba promovendo um desgaste excessivo do esmalte, deixando-o mais fino e assim, a dentina fica menos protegida, gerando sensibilidade nos dentes.  
-
-##### **7) Uso de piercing na boca e hábitos parafuncionais que possam denegrir a estrutura do esmalte do dente**
-
-O piercing em contato com o dente, pode com o tempo provocar o desgaste ou a quebra do esmalte por ficar “raspando” nele  com freqüência, uma vez que muitos usuários do adereço ficam mordendo o objeto voluntariamente ou involuntariamente, quando mastigam ou falam. 
-
-Morder canetas, alfinetes ou ainda passar qualquer objeto duro nos dentes para remover resíduos de alimentos, com o tempo também podem provocar o desgaste dos dentes e assim gerar sensibilidade.  
-
-##### **8) Restaurações quebradas, infiltradas ou mal adaptadas**
-
-Muitas das vezes não conseguimos identificá-las e precisamos da ajuda do dentista para diagnosticá-las. 
-
-Quando as restaurações (obturações) quebram, se soltam ou estão em áreas com lesão cariosa nova, o dente afetado pode apresentar sensibilidade, pois tem a dentina mais exposta. 
-
-Assim, em casos onde a necessidade é apenas restaurar o dente, sem {% post_link tratamento-de-canal "tratamento endodôntico" %}, o paciente deve procurar ajuda especializada para colocar estas restaurações no lugar e assim a sensibilidade cessará.  
-
-##### **9) Biocorrosão ácida**
-
-A [erosão ácida](http://www.colgate.com.br/app/CP/BR/OC/Information/Articles/Oral-and-Dental-Health-Basics/Common-Concerns/Sensitivity/article/Enamel-Erosion-How-It-Affects-Your-Teeth.cvsp) ocorre quando o esmalte sofre desgaste por meio de ácidos. 
-
-Eles podem ter duas origens: 
-
-**1) Intrínseca -** ácido gástrico ou regurgitação decorrente de problemas médicos ou psicológicos como refluxo ácido, anorexia, bulimia. 
-
-**2) Extrínseca -** ácidos relacionados com a alimentação como consumo de açúcar, refrigerantes dietéticos, sucos de fruta, bebidas carbonatadas que contribuem para tornar a boca muito ácida. E
-
-sse tipo de desgaste é extremamente maléfico ao paciente, pois usamos alimentos ácidos diariamente e o seu uso continuo causa amplo desgaste no dente.
-
-## Vídeo sobre 9 motivos de sensibilidade nos dentes 
+Neste guia completo, vamos explicar o que é a hipersensibilidade, suas causas e como você pode voltar a comer e beber o que gosta sem medo.
 
 ---
-{% youtube LSG1at5_tCY %}
+
+### O que você vai descobrir:
+* O que acontece dentro do dente para gerar essa "pontada".
+* 9 causas surpreendentes (de escovação errada a refluxo).
+* Por que as pastas de dente sozinhas nem sempre resolvem.
+* O passo a passo para remover a sensibilidade hoje.
+
+**Sente dor ao beber algo gelado agora? Fale com nossa equipe:**
+* <i data-lucide="message-circle" class="icon-xs"></i> **[Agendar Avaliação via WhatsApp (Clique Aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
+
 ---
 
+## O que é, afinal, a Sensibilidade nos Dentes?
 
-## **Os cremes dentais utilizados para combater dentes sensíveis são eficazes?**
+![Ilustração da exposição da dentina](/images/bfe5de85-5f82-4173-99f2-662c43ea1cf8_Sensibilidade-nos-dentes1-1024x405.webp) 
 
-![sensibilidade dentinária](/images/8ac1c39d-b7b4-489f-b5b1-073ae14d232d_sensibilidade-dentinária.webp) 
+O nome técnico para esse incômodo é **Hipersensibilidade Dentinária**. 
 
-Claro que Sim! Porém **não são a única solução**. 
+Ela ocorre quando a **dentina** (a camada mais interna e porosa do dente) fica exposta. A dentina possui milhares de microcanais (túbulos dentinários) que levam diretamente ao nervo do dente.
 
-Em alguns casos na região de dentina exposta, o uso destas pastas não é suficiente pois o paciente também necessita reconstruir a parede de esmalte perdida (aquela que protege a dentina) por meio de restaurações.  
+Quando você consome algo frio, quente ou ácido, o fluido dentro desses canais se movimenta rapidamente, disparando o nervo e gerando aquela dor aguda e de curta duração — a famosa "pontada" que logo passa.
 
-Além disso, devemos usar agentes dessensibilizantes que atuam protegendo a área de dentina exposta. 
+---
 
-Nesse caso, são realizadas pelo menos 4 consultas para diminuir a sensibilidade e somente após fazer a restauração da região.
+## As 9 Principais Causas da Sensibilidade nos Dentes
 
-Portanto, sempre um correto planejamento deve ser realizado, para que a origem da sensibilidade nos dentes possa ser identificada.
+![Causas da sensibilidade dentária](/images/ebe1b333-f7ce-43fd-b413-84db3dc1a69e_sensibilidade-dentária.webp) 
 
-## **O que devo fazer para remover a sensibilidade dental?**
+### 1) Escovação com Força Excessiva
+Muita gente acredita que "limpar bem" exige força. Na verdade, a escovação agressiva desgasta o esmalte e retrai a gengiva, expondo a raiz do dente.
 
-![tratamento sensibilidade dental](/images/3edf4997-709e-4efc-b726-cb7df5c74dc1_tratamento-sensibilidade.webp)   
+### 2) Gengivite e Doenças da Gengiva
+Quando a gengiva está inflamada ([Gengivite](/gengiva-sangrando/)), ela tende a se "descolar" do dente, deixando áreas desprotegidas que dão origem à **sensibilidade nos dentes**.
 
-**A )** **Ir ao dentista.** - Só ele poderá avaliar qual a causa, para assim prover ao paciente o melhor plano de tratamento. Se você leu todo o post, percebeu que apenas uso de pasta de dente para sensibilidade nos dentes não é a solução para este problema ! ; 
+### 3) Ranger os Dentes (Bruxismo)
+O hábito de apertar ou ranger os dentes ([Bruxismo](/bruxismo-tratamento/)) causa um desgaste anormal e acelerado do esmalte, deixando a dentina "no limite".
 
-**B)** Fazer a correta higiene bucal com escova macia e uso de fio dental, com calma. Este passo irá prevenir tanto o desgaste precoce dos dentes quanto o surgimento de gengivite e outros problemas periodontais; 
+### 4) Retração Gengival
+Com o tempo, a gengiva pode subir (ou descer), expondo a raiz, que não tem a proteção do esmalte e é naturalmente sensível.
 
-**C)** Interromper o uso de cremes dentais abrasivos que prometam clarear os dentes; 
+### 5) Clareamento Dental Recente
+O gel clareador pode causar sensibilidade temporária durante o tratamento. É fundamental tratar a sensibilidade prévia antes de iniciar o [Clareamento Dental](/clareamento-dental/).
 
-**D)** Interromper por um tempo o tratamento clareador. Porém, isso deve ser informado ao dentista;
+### 6) Pastas de Dente Abrasivas ("Whitening")
+Muitos cremes dentais que prometem clarear agem por abrasão. Eles "lixam" as manchas, mas também podem desgastar o esmalte se usados sem orientação.
 
-**E)** Fazer uso de pastas para sensibilidade nos dentes e enxaguatórios sob orientação do dentista, que irá informar qual será o tratamento mais apropriado para o caso; 
+### 7) Hábitos Parafuncionais e Piercings
+Morder canetas, abrir embalagens com os dentes ou o atrito constante de um piercing na língua/lábio desgastam fisicamente o esmalte.
 
-**F)** Colocação de restauração (obturação) em locais em que há indicação, pois houve perda de esmalte dentário; 
+### 8) Restaurações Quebradas ou Infiltradas
+Se uma obturação antiga quebra ou tem infiltração por [Cárie](/como-evitar-a-carie-dentaria/), a proteção do dente falha e o nervo fica exposto.
 
-**G)** Evitar alimentos ácidos; 
+### 9) Erosão Ácida (Alimentar ou Gástrica)
+O contato frequente com substâncias ácidas — como refrigerantes, limão em excesso ou até o refluxo gástrico — "derrete" quimicamente a camada protetora do dente.
 
-**H)** Evitar ranger os dentes; 
+---
 
-**I)** Remover piercings e hábitos parafuncionais.
+## As Pastas para Sensibilidade Funcionam?
 
-### **Dica extra** 
+![Cremes dentais para dentes sensíveis](/images/8ac1c39d-b7b4-489f-b5b1-073ae14d232d_sensibilidade-dentinária.webp) 
 
-Se você estiver com **muita sensibilidade nos dentes** (geralmente após o clareamento), pode-se colocar a pasta para sensibilidade dentária na moldeira de clareamento e deixar na boca por cerca de 5 a 10 minutos. Isso provavelmente irá aliviar muito a sensação dolorosa.
+Sim, elas são eficazes para **bloquear os sinais de dor**, mas nem sempre resolvem a **causa**. 
 
-## **Conclusão**
+Muitas vezes, a **sensibilidade nos dentes** é tão severa que apenas a pasta não basta. Precisamos "blindar" a área exposta com restaurações de resina ou aplicar agentes dessensibilizantes de uso exclusivo em consultório, que agem como um selante potente.
 
-![conclusão sensibilidade dental](/images/57d8a0c3-0e7f-40e4-b5b1-4b08bf665b1f_conclusão-sensibilidade-dental.webp) 
+---
 
-**A sensibilidade nos dentes não é algo com o qual temos que nos acostumar a conviver.** 
+## O Guia para Eliminar a Sensibilidade
 
-Com pequenas correções em nossa rotina, conseguimos reverter o quadro de sensibilidade dentária. 
+![Tratamento clínico da sensibilidade](/images/3edf4997-709e-4efc-b726-cb7df5c74dc1_tratamento-sensibilidade.webp) 
 
-Nos casos mais complexos , devemos procurar orientação profissional para sabermos qual a causa do problema e assim eliminar este desconforto. 
+Se você quer parar de sofrer, siga este protocolo:
 
-É importante que o paciente mantenha suas visitas regulares ao dentista, para que ele possa observar logo de inicio algum problema, prevenindo que se tenha o desconforto da sensibilidade nos dentes. 
+1. **Visita Clínica:** Somente o dentista pode identificar se a causa é uma retração, uma cárie ou bruxismo.
+2. **Escovação Inteligente:** Troque sua escova por uma **extra macia** e pare de fazer força.
+3. **Mude a Dieta:** Evite o excesso de alimentos ácidos e refrigerantes durante as crises.
+4. **Tratamento de Blindagem:** Em casos de retração, fazemos pequenas restaurações invisíveis que cobrem a raiz exposta e cessam a dor na hora.
+5. **Placa de Proteção:** Se você range os dentes, uma placa de [Bruxismo](/bruxismo-tratamento/) é essencial para evitar o desgaste contínuo.
 
-Além disso, a colaboração do paciente é muito importante, ele deve estar apto a exercer a correta higienização dos dentes para que o sucesso do tratamento seja alcançado.  
+---
 
-Tem alguma dúvida ? Não deixe de perguntar logo abaixo.
+### **Dica Extra para Alívio Imediato:**
+Se você está com muita dor após um clareamento, aplique um pouco de pasta para sensibilidade dentro da sua moldeira e deixe agir por 10 minutos. Isso acalma o nervo rapidamente.
+
+---
+
+## Conclusão
+
+A **sensibilidade nos dentes** não é algo com o qual você deve aprender a conviver. É um alerta do seu corpo de que a proteção biológica do seu sorriso está falhando. 
+
+Com as correções certas na rotina e o apoio profissional adequado, você pode voltar a ter prazer ao comer e beber em poucos dias.
+
+---
+
+### **Recupere o Conforto do Seu Sorriso Hoje!**
+
+Não espere a dor se tornar insuportável. Agende uma consulta na MD Frossard e descubra a causa exata da sua sensibilidade para tratá-la na raiz.
+
+* <i data-lucide="message-circle" class="icon-sm"></i> **Falar com a Recepção no WhatsApp:** **[Clique Aqui Para Agendar sua Avaliação](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Chame Agora no Telefone:** (21) 3217-0430
+
+<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Acabar com a Sensibilidade nos Meus Dentes</a>
+</div>
+
+Um abraço, 
+
+**Equipe MD Frossard Odontologia (Barra e Botafogo)**
+
+---

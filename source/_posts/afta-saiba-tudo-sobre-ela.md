@@ -1,75 +1,95 @@
 ---
-title: Afta - Saiba tudo sobre esse problema.
+title: 'Afta: O que Causa e Como Tratar essas Feridas na Boca'
 author: Luciana Vieira Peroni
 description: >-
- A afta é comum na boca. Nesse texto vamos responder algumas perguntas comuns.
- O que causa a afta e como diminuir o desconforto.
+ A afta é uma das lesões mais comuns e incômodas que surgem na boca. 
+ Entenda o que causa a afta, conheça os tipos e saiba como acelerar a cicatrização.
 date: 2015-06-01T12:04:08.000Z
 featured_image: /images/cda7b970-a879-4ab4-a827-3538f278e15a_Afta-.webp
 ---
-Hoje quero compartilhar com você uma das doenças mais comuns na boca, **a afta.**
 
-Provavelmente você já teve afta e ela deve ter cicatrizado sem nenhum outro problema. 
+Quem nunca sentiu o incômodo persistente de uma **afta** ao comer algo temperado ou apenas ao falar? 
 
-Porém, você sabe o que causou essa problema? 
+Essa pequena ferida, que surge quase sem aviso na língua, bochechas ou gengiva, é uma das patologias bucais mais frequentes no mundo. Embora a maioria desapareça em poucos dias, a dor que ela causa é desproporcional ao seu tamanho, afetando diretamente a sua alimentação e qualidade de vida.
 
-Será que não teria alguma maneira de diminuir a irritação na região durante a fase ativa da doença? Como evitar ? 
+Mas você sabe o que realmente faz uma **afta** nascer e, principalmente, quando a presença dela pode indicar algo mais sério na sua saúde? 
 
-Essa são algumas perguntas que vamos explicar nesse texto.
+Neste guia, explicamos tudo o que você precisa saber para lidar com essas lesões e como aliviar o desconforto rapidamente.
 
-## **O que é afta ?**
+---
 
-É uma das patologias bucais mais comuns. Bem incômodas, apresentam-se como feridas no interior da boca causando dor. Podem apresentar sangramento, vermelhidão e ressecamento na região afetada e, surgem geralmente na língua e nas paredes internas da boca.
+### O que você descobrirá aqui:
+* O que é tecnicamente uma afta e por que elas doem tanto.
+* Os 9 gatilhos comuns (do estresse à alimentação).
+* Diferença entre as aftas menores, maiores e herpetiformes.
+* Orientações práticas para uma cicatrização sem traumas.
 
-## **Quais são as suas Causas **
+**Tem uma ferida na boca que não cicatriza há mais de 15 dias? Fale com a gente:**
+* <i data-lucide="message-circle" class="icon-xs"></i> **[Agendar Avaliação via WhatsApp (Clique Aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
 
-[![afta causa](/images/b2311f89-f197-4e80-bf66-63c2a020c54d_afta-causa.webp)](/images/b2311f89-f197-4e80-bf66-63c2a020c54d_afta-causa.webp)
+---
 
-Seu diagnóstico é basicamente clínico e por exclusão de outras doenças. Suas possíveis causas são:
+## O que é uma Afta?
 
-* Alergias;
-* Predisposição genética;
-* Má nutrição;
-* Anormalidades hematológicas;
-* Influências hormonais;
-* Agentes infecciosos;
-* Traumas (pancadas) na boca;
-* Estresse, pelo fato de prejudicar o sistema imune do indivíduo;
-* Imunossupressão (em pacientes com HIV/AIDS ou Câncer);
+Diferente de um herpes (que é viral e contagioso), a **afta** é uma úlcera não contagiosa que surge no interior da boca. Elas costumam ser feridas rasas, com centro esbranquiçado ou amarelado e bordas bem vermelhas.
 
-Há ainda situações que favorecem o surgimento de aftas como o hábito de fumar, o uso de prótese dental, o uso de medicamentos que comprometem a imunidade do indivíduo, o estado de boca seca e outros.
+O grande incômodo vem da exposição das terminações nervosas na área da ferida, que reagem agressivamente ao contato com alimentos ácidos, salgados ou picantes.
 
-## **Podem ser de 3 tipos **
+---
 
-Podemos encontrar 3 tipos de manifestações aftosas: Menor, Maior e Herpetiforme.
+## Quais são as Causas Reais?
 
-### 1) Menor:
+![Ilustração sobre as causas da afta](/images/b2311f89-f197-4e80-bf66-63c2a020c54d_afta-causa.webp)
 
-Este tipo é encontrado em 80% dos pacientes afetados. É a que apresenta menor duração (7 a 14 dias). As lesões inicialmente são avermelhadas e progridem para uma ulceração  com membrana removível de aspecto branco-amarelado. Podem medir de 3 a 10 mm e a dor não é proporcional ao tamanho da lesão. O número de lesões em um mesmo evento pode variar de 1 a 5.
+O surgimento de uma **afta** raramente tem uma causa única. Na maioria das vezes, ela é o resultado de um desequilíbrio no organismo. Os principais gatilhos são:
 
-### 2) Maior:
+* **Estresse e Ansiedade:** Prejudicam o sistema imune, deixando a mucosa bucal mais sensível.
+* **Traumas Físicos:** Mordidas acidentais na bochecha ou ferimentos causados por braquetes de aparelho.
+* **Deficiências Nutricionais:** Falta de vitamina B12, ferro ou ácido fólico no sangue.
+* **Hormônios:** É comum o surgimento de aftas em mulheres durante períodos do ciclo menstrual.
+* **Alimentação Ácida:** Abacaxi, limão, kiwi e outros alimentos cítricos podem irritar a região.
 
-Apresentam ulcerações mais profundas, de 10 a 30 mm de diâmetro, e podem levar de 2 a 6 semanas para regredir. Podem deixar cicatrizes e o número de lesões em um mesmo evento pode variar de 1 a 10.
+---
 
-### 3) Herpetiforme:
+## Conheça os 3 Tipos de Aftas
 
-É a variação que apresenta maior número de lesões e maior frequência de recorrência. Elas podem medir de 1 a 3 mm de diâmetro, porém, em um único episódio podem estar presentes cerca de 100 lesões, lembrando lesão primária de herpes simples. A cicatrização ocorre de 7 a 10 dias e ocorrem mais em mulheres na fase adulta.
+Nem toda **afta** é igual. Elas variam em tamanho e tempo de recuperação:
 
-## **Tratamento e prognóstico**
+1. **Afta Menor (80% dos casos):** Medem de 3 a 10 mm e duram de uma a duas semanas. Não deixam cicatrizes.
+2. **Afta Maior:** São mais profundas, medem mais de 1 cm e podem levar até 6 semanas para sumir, por vezes deixando cicatrizes fibrosas.
+3. **Herpetiforme:** São dezenas de pequenas feridas (até 100 ao mesmo tempo) que se agrupam. Apesar do nome, não têm relação com o vírus do herpes.
 
-[![afta tratamento](/images/64342d4e-56b0-4090-bd24-6cb13c1a007a_afta-tratamento.webp)](/images/64342d4e-56b0-4090-bd24-6cb13c1a007a_afta-tratamento.webp) 
+---
 
-Quando for acometido por uma lesão bucal, é importante que o paciente procure seu dentista para que este possa diagnosticar a lesão. 
+## Como Tratar e Quando se Preocupar?
 
-Tendo então certeza de que se trata de algum tipo de afta, ele poderá orientar o paciente da melhor forma, prescrevendo assim apenas uma medicação tópica para os casos mais simples. 
+![Tratamento e medicação para aftas](/images/64342d4e-56b0-4090-bd24-6cb13c1a007a_afta-tratamento.webp) 
 
-A afta por si só é uma lesão que desaparece sem que necessariamente necessite de intervenção para desaparecer. 
+Na maioria absoluta dos casos, a **afta** cicatriza sozinha. O tratamento foca em aliviar a dor e acelerar o processo:
 
-Porém, vale ressaltar que em casos mais complexos é necessária uma avaliação minuciosa para que se verifique a existência de alguma doença sistêmica que possa estar contribuindo para esta situação. 
+* **Evite Irritantes:** Corte pimenta, álcool e alimentos ácidos enquanto a ferida estiver aberta.
+* **Higiene Impecável:** Mantenha uma [excelente higiene bucal](/escovacao-dos-dentes/) para evitar que bactérias infectem a ferida.
+* **Medicação Tópica:** Pomadas específicas sob orientação do dentista podem criar uma película protetora que isola o nervo e alivia a dor na hora.
 
-Durante o período de manifestação da lesão, é importante que o paciente evite alimentos e hábitos que irritem" ainda mais a região como o consumo de alimentos apimentados e condimentados. 
+> [!IMPORTANT]
+> **Atenção:** Se você tem aftas que demoram mais de duas semanas para desaparecer, ou que surgem com muita frequência, é essencial procurar um cirurgião-dentista na MD Frossard para investigar possíveis causas sistêmicas.
 
-É importante também que haja uma {% post_link escovar-os-dentes "boa higiene bucal" %} neste período.
+---
 
-Att,
-Luciana Vieira Peroni
+### **Livre-se do Desconforto na Boca!**
+
+Não deixe uma pequena ferida estragar o prazer da sua alimentação. Na MD Frossard, avaliamos a saúde da sua mucosa para garantir que seu sorriso esteja sempre livre de dores.
+
+* <i data-lucide="message-circle" class="icon-sm"></i> **Marcar consulta no WhatsApp:** **[Clique Aqui Para Iniciar o Atendimento](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Falar na Recepção (Fixo):** (21) 3217-0430
+
+<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Avaliar a Saúde da Minha Boca</a>
+</div>
+
+Um abraço, 
+
+**Dra. Luciana Vieira Peroni e Equipe**
+
+---
