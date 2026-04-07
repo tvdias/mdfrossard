@@ -1,61 +1,80 @@
 ---
-title: Minha Coroa Caiu – O que eu Faço?
+title: 'Minha Coroa Caiu: O que fazer e o que NÃO fazer em caso de urgência'
 description: >-
- Quando acontece o problema da coroa cair, o que você deve fazer? 
- Quais são os procedimentos necessários resolver esse problema.
+ Sua coroa dentária soltou? Saiba como agir rápido, o que evitar e por que
+ você não deve tentar colar em casa. Veja o guia de urgência da MD Frossard.
 date: 2019-12-05T10:00:00.000Z
 featured_image: /images/blog_coroa_caiu.webp
 category: Prótese
 ---
-Planejar e realizar a viagem dos sonhos juntamente com a família. Mas um problema acontece, **sua coroa cai...**
 
-Talvez aquele dia cheio de compromissos importantes, em que você planejou tudo antecipadamente e o mesmo problema ocorre, você acorda com a sua coroa do dente solta. 
+Você estava aproveitando uma refeição ou simplesmente conversando quando, de repente, sente algo solto na boca: **sua coroa dentária caiu.**
 
-Essas situações acontecem todos os dias, mas quando é com você, o quadro muda de figura...
+Essa é uma das emergências mais comuns no consultório dentário. Embora não seja necessariamente doloroso no início, a queda de uma prótese (fixa ou provisória) deixa a estrutura interna do dente exposta e vulnerável a infecções e fraturas.
 
-Ninguém espera que sua coroa solte, mas problemas ocorrem e devem ser solucionados. 
-
-Portanto, quando você pensa **“minha coroa caiu, o que eu faço”**, esse texto é para você. 
-
-## A queda de uma coroa pode acontecer em dois momentos distintos :
-
-***1. Quando se tem uma coroa provisória.*** 
-
-Nesse caso, uma nova coroa esta sendo realizada pelo dentista e durante esse período você irá usar um dente provisório. Quando isso acontece, é preciso usar um cimento temporário ( mais fraco) para facilitar a remoção da coroa.
-
-Portanto, a queda de uma coroa provisória é comum, mesmo que ainda desagradável. 
-
-Portanto, você deve evitar de comer chicletes ou balas que “grudam” e também ter cuidado na hora de usar o fio dental. 
+Se você está pensando **"minha coroa caiu, e agora?"**, este guia foi feito para te ajudar a resolver o problema com segurança.
 
 ---
 
-***2. Quando se tem uma coroa definitiva.*** 
-
-Quando a coroa definitiva solta, o problema pode ser maior. Esse tipo de prótese não deve soltar, já que é usado um cimento definitivo. 
-
-Nessa situação é preciso avaliar o que aconteceu. Será que foi uma cárie no dente? Será que a coroa quebrou ? 
-
-Após essa avaliação, se for constado algum problema é preciso tratar o dente e posteriormente realizar uma nova coroa. 
-
-Em alguns casos, a coroa pode soltar e o dente não apresentar nenhum problema. Nesse caso, apenas uma nova cimentação deve ser feita. 
-
-Sempre quando sua coroa cair ( seja provisória ou definitiva ) é preciso que você guarde ela. Isso irá facilitar e agilizar o tratamento. 
+### **🚨 Precisa de Atendimento Urgente?**
+Se sua coroa caiu e você precisa de um dentista no Rio de Janeiro (Botafogo ou Barra), fale conosco agora:
+* <i data-lucide="message-circle" class="icon-sm"></i> **[WhatsApp Urgência: (21) 97663-7803](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** [(21) 3217-0430](tel:2132170430)
 
 ---
-## Video "minha coroa caiu"
 
+## Por que a Coroa pode Cair?
+
+Existem dois cenários principais, e entender qual é o seu ajuda o dentista no diagnóstico:
+
+### 1. Queda de Coroa Provisória
+É muito comum e, de certa forma, esperado. Coroas provisórias são coladas com um cimento temporário para que o dentista possa removê-las facilmente quando a peça definitiva chegar do laboratório. 
+*   **Dica:** Evite alimentos pegajosos (chicletes, balas) e tenha cuidado redobrado com o fio dental nesta região.
+
+### 2. Queda de Coroa Definitiva
+Este caso exige mais atenção. Uma coroa definitiva é projetada para durar anos. Se ela soltou, algo mudou. As causas mais comuns são:
+*   **Infiltração por Cárie:** Um novo processo de cárie sob a coroa pode ter destruído o suporte que a prendia.
+*   **Fratura do Dente Suporte:** O dente que segura a coroa pode ter sofrido uma microfratura.
+*   **Falha no Cimento:** Em casos raros, o material adesivo pode ter sofrido fadiga.
+
+> [!CAUTION]
+> **NUNCA use colas instantâneas (como Super Bonder) para colar sua coroa.** 
+> Essas colas são tóxicas para a polpa do dente e para a gengiva. Além disso, você pode colar a peça na posição errada, o que pode causar uma fratura catastrófica no dente vizinho ou na mandíbula ao fechar a boca.
+
+---
+
+## O Passo a Passo do que fazer agora
+
+1.  **Guarde a Coroa:** Se você a encontrou, limpe-a delicadamente com água e guarde-a em um local seguro. Em muitos casos, o dentista pode apenas fazer a limpeza e cimentá-la novamente.
+2.  **Mantenha a Área Limpa:** Escove a região com extrema delicadeza para evitar o acúmulo de alimentos no dente exposto.
+3.  **Não Force a Mastigação na Área:** Evite comer do lado onde a coroa caiu para não fraturar o dente que ficou sem proteção.
+4.  **Agende uma Avaliação Imediata:** Somente um profissional pode diagnosticar se a peça ainda serve ou se houve algum dano estrutural.
+
+### **Assista às dicas do Dr. Davi Frossard:**
 {% youtube 2m2pLc2fiJg %}
 
 ---
 
-## Respondendo a pergunta “minha coroa caiu, o que eu faço” ?
+## Como resolvemos o problema na MD Frossard?
 
-Não tem jeito, você precisa ir ao dentista. Sozinho você não irá conseguir saber o que houve no seu dente, nem cimentar ele da maneira correta. 
-
-Portanto, se você tiver um dentista de confiança, ligue para ele o quanto antes. 
-
-Caso você não tenha ou esteja fora da sua cidade, existem clínicas de emergência onde o problema pode ser resolvido, mesmo que temporariamente. 
-
-O mais importante é saber que somente o dentista pode avaliar e diagnosticar o que deve ser feito para solucionar esse problema .
+Na nossa clínica, tratamos casos de queda de prótese com prioridade. Nossa abordagem inclui:
+1.  **Avaliação Radiográfica:** Verificamos se há cárie ou fratura interna.
+2.  **Limpeza e Desinfecção:** Preparamos o dente e a coroa para uma nova adesão.
+3.  **Recimentação ou Nova Peça:** Se a coroa estiver em perfeito estado e o dente saudável, fazemos a colagem imediata. Caso contrário, planejamos uma nova peça com tecnologia digital para garantir um ajuste perfeito.
 
 ---
+
+## **Não espere a dor aparecer**
+
+Um dente sem coroa está desprotegido contra bactérias. Quanto mais rápido você buscar ajuda, menores são as chances de precisar de um tratamento de canal ou de perder o dente permanentemente.
+
+### **Fale com nossos especialistas agora mesmo:**
+* <i data-lucide="message-circle" class="icon-sm"></i> **Envie um WhatsApp:** **[Atendimento de Emergência](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Botafogo ou Barra:** (21) 3217-0430
+
+<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Resolver Meu Problema Agora</a>
+</div>
+
+**Equipe MD Frossard Odontologia**
+*Referência em Prótese e Reabilitação Oral há 38 anos.*
