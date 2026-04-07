@@ -1,96 +1,105 @@
 ---
-title: Dente do Siso - 5 Segredos que você precisa saber
+title: Dente do Siso: 5 Fatos Secretos Antes de Desesperar
 description: >-
- A remoção do dente do siso pode ser traumática para você. Veja 5 segredos
- sobre esse tipo de cirurgia. Talvez até não seja necessária sua remoção.
+ A extração repentina do dente do siso não precisa ser um trauma para você.
+ Veja os 5 segredos sobre a cirurgia, a inflamação e quando você nem precisará retirá-lo.
 date: 2017-10-23T08:00:35.000Z
 featured_image: /images/f732904a-a038-41eb-9c97-19b7383ec887_dente-do-siso.webp
 ---
 
-É provável que você tenha {% post_link medo-de-dentista "medo de dentista" %}. 
+O simples fato em ouvir o motor de um consultório já é provável que cause o terrível [Medo do Dentista](/medo-de-dentista/) na maioria das pessoas. E mesmo para pacientes seguros liderados e fortes no dia a dia, admitimos que dificilmente a rotina das macas cirúrgicas é algo maravilhoso.
 
-Mesmo não tendo fobia, dificilmente é agradável ir ao dentista. 
+Agora, se você for uma daquelas pessoas que fica extremamente tensa na poltrona somente para fazer uma pequena limpeza dental superficial, e de repentes sente fortes dores na gengiva do fundo e descobre que está nascendo seu **dente do siso**... O pânico instala-se.
 
-Se você for uma daquelas pessoas que fica tensa somente para fazer uma pequena profilaxia, imagina para remover o **dente do siso**. 
+**Estou colocando terror exagerado? De forma nenhuma.** 
 
-Estou colocando muito terror? Talvez sim. 
+Contudo, saiba primeiro de tudo que a modernidade tecnológica blindou as antigas dores traumáticas. Os velhos procedimentos cruéis, regados a machucados profundos pela extração das raízes mudaram para exodontias (extrações) estéreis e precisas pautadas em escaneamento 3D rápido.
 
-Primeiro não é necessário tanto medo de ir ao dentista, mesmo se for para extrair o siso. Todos os procedimentos para uma extração são feitos com planejamento e segurança. 
+Para te entregar um controle psicológico e zero receios noturnos, quero levantar a bandeira branca e revelar estes **5 segredos cirúrgicos absolutos** por trás da remoção do moderno **dente do siso**. Dê bastante atenção no final e entenda por que o seu pode passar intocado.
 
-Para dar a você mais segurança e menos medo eu quero discutir 5 segredos sobre a remoção do dente do siso. Confira até o final e fique atento ao ponto número 4.
+---
 
-**1 - É uma cirurgia (extração do dente do siso) **
----------------------------------------------------
+## 1. Precisamos Falar a Verdade: É uma Cirurgia Sim!
 
-![extração dente do siso](/images/b5ce4fb2-09f1-43a8-a62d-e162b12c9303_extração-dente-do-siso.webp) 
+![Demonstração animada da cirurgia de siso](/images/b5ce4fb2-09f1-43a8-a62d-e162b12c9303_extração-dente-do-siso.webp) 
 
-Sim, isso não tem como negar, é preciso realizar uma cirurgia para remover esse dente. 
+Não existe rodeios falsos, nós teremos de abrir para encontrar. E é justamente ao ouvir a expressão "cirurgia de extração" que engatilha o principal fator de tensão na grande maioria: a quebra cirúrgica do osso maxilar se o dente tiver muito fundo grudado ao nervo (Isso é perfeitamente indolor sob nossa injeção moderna).
 
-Isso, ocasiona uma limitação passageira pelo trauma desse procedimento. Esse é o principal fator de você sentir medo e receio. 
+Ninguém, sob qualquer consciência lógica natural, se deita feliz achando que ser fatiado seja algo empolgante na sexta feira, ainda mais se o procedimento é cavado debaixo na própria mandíbula fechada de uma boca.
 
-Ninguém em sã consciência acha que realizar uma cirurgia é algo agradável, mesmo as menores. Imagine esse procedimento sendo feita na sua boca. 
+**O Contraponto Prático e Oculto:**
+Não congele achando ser um monstro medieval inatingível com mortes. Se seguindo estritamente as potentes profilaxias antibióticas protetivas antecipadas dos nossos cirurgiões dentistas e fazendo repouso digno com compressas regradas, seu inchaço some rapidamente.
 
-Entretanto, não entre em pânico, essa cirurgia não é um monstro de 7 cabeças. Se você seguir as recomendações que o seu dentista lhe informar, o seu pós operatório vai ser muito mais tranquilo.
+## 2. A Mágica e o Sucesso Só Moram No Seu Descanso e Frio
 
-**2 - É preciso ter repouso após remover o dente do siso **
------------------------------------------------------------
+![Dicas para pós cirurgia - descanso com compressas frias](/images/28b7b40d-64d7-4843-a342-0a5a565aad3c_dente-do-siso-repouso.webp) 
 
-![repouso dente do siso](/images/28b7b40d-64d7-4843-a342-0a5a565aad3c_dente-do-siso-repouso.webp) 
+A única dica médica real que não te vendem: não resuma seu trabalho a "fechar o buraco". Obedeça rigidamente aos papéis passados pelo cirurgião maxilofacial na hora da saída sem atalhos. O seu absoluto repouso imóvel e cabeça elevada travesseiro acima guiarão sua salvação imune anti-hemorragias. 
 
-A dica aqui é pura e simples: siga o que o seu dentista te orientar. 
+* Sem academia pesada e circulação fervendo. 
+* Total adoção de dietas batidas pastosas brancas ou fluidas. 
+* Ingira frios e aplique de fora da cara pedras potentes geladas de forma repetida de um lado para o outro. 
 
-O repouso é extremamente importante e um dos principais fatores para você ter um bom pós operatório. 
+Você experimentará as seguintes coisas sem precisar chorar de ansiedade:
+* Salivar leves laivos de muito pequeno sangramento escurecido;
+* Regiões do queixo em tamanhos inflados inchados;
+* Ficar temporariamente com limitação leve de roxo na bochecha de lado.
 
-Mas ele não é o único. É preciso realizar alimentação líquida e pastosa de preferência gelada. 
+O estado do [Pós-Operatório do Dente Frossard](/extracao-de-dente/) vai de péssimo e apavorante para o suave, apenas determinando a quantidade cirúrgica óssea desfeita e a sua dedicação disciplinar fora da cadeira.  
 
-Além disso, a higienização é necessária para evitar a infecção da região. Você pode ler um texto completo sobre o pós operatório, aqui. 
+---
 
-Após o dentista remover o seu dente, você pode ter alguns sintomas, tais como :
+## 3. Há Inigualáveis "Sisos Muito Mais Complicados"
 
-*  Sangramento
-*  Inchaço
-*  Incômodo na região
-*  Ficar roxo
+![Exemplo de dente siso deitado trancafiado de lado](/images/d9006bee-bce8-4a11-8400-865d0deaa835_dente-do-siso-dificil.webp) 
 
-Portanto, o seu {% post_link extracao-de-dente "pós operatório" %} pode ser péssimo ou ótimo. Isso depende de você seguir as recomendações a risca do seu dentista. Entretanto, a dificuldade da extração também pode afetar o sua recuperação.
+Toda anatomia esquelética difere! Nunca encare extrações alinhadas as promessas curtas do vizinho como modelo real:
 
-**3 - Existem dentes do siso mais difíceis de serem removidos**
----------------------------------------------------------------
+1. **Os Sisos Simples Padrões:** Erguem-se verticais iguais a dentes normais já furando sua gengiva para fora com fácil extração simples de tenaz em dois rápidos minutos inteiros.
+2. **Os Sisos Horizontais Ocultos (Impactados Terceiro Molar):** Totalmente "deitados" trancafiados pela espessa cortical óssea, repousando por baixo empurrando raízes mortais dos molares do meio. Nossos cortes demandam longos minutos de blocos secionados, separando delicada raiz por raiz por conta de cruzarem veias maxilares mandibulares nevrálgicas de dor (Eles criam um resguardo forte roxo com restrições difíceis de abrir a fala nos dias de trás).
 
-![dente do siso](/images/d9006bee-bce8-4a11-8400-865d0deaa835_dente-do-siso-dificil.webp) 
+---
 
-Nem toda remoção do dente do siso é igual. 
-
-Existem dentes consideramos mais fáceis e outros mais complicados. 
-
-E como posso saber disso? Um dos fatores a serem considerados é a posição do dente. Sisos inclinados ou impactados são mais difíceis de remover do que os dentes bem posicionados.  
-
-Já que precisamos cortar osso para removê-los, o que gera um trauma maior na região. Assim, quando mais difícil for para remover o dente e mais tempo demorar para isso, provavelmente o seu pós operatório será mais chato e com mais restrição.
-
-**4 - Nem todo os sisos precisam ser removidos**
-------------------------------------------------
+## 4. O Grande Segredo: Mas Precisamos Mesmo Remover Todos?
 
 ![](/images/7928d4b4-1803-4385-8485-c4ccbaebd34d_dente-do-siso-remoção.webp) 
 
-Isso mesmo, você leu certo. 
+Você leu maravilhosamente correto! Não, na MD Frossard a moda brutal mundial do abate irrestrito cirúrgico em linha diminuiu. Nós poupamos quem cumpre as exigências.
+Nem sempre existirá o terror real da remoção de qualquer que nasça!
 
-Em alguns casos não é necessário remover o dente do siso. 
+* Se a imagem da Tomografia revela raízes do terceiro dente completamente alinhadas sem tranco para fora empurrar;
+* Se ele estourou bonito a pele do osso sadio apresentando perfeita limpeza do paciente usando o fio entre seu antecessor; 
+* NÓS PODEMOS MANTER O INTACTO SEU **DENTE DO SISO** NO SORRISO ABSOLUTAMENTE FUNCIONAL COMO MASTIGADORES EFETIVOS E FORTE CONTRA TRAUMAS!
 
-Quando o dente estiver bem posicionado, com espaço para a sua erupção e possa ser higienizado de forma adequada, podemos manter ele na cavidade bucal. 
+Nós, contudo, criadores de estética plena acompanharemos anualmente a erupção desses sadios pilares e bloquearemos o tártaro fétido neles!
 
-Além disso, dentes que estão com acesso difícil para realizar a extração podem ser deixados sem mexer, desde que sejam acompanhados rotineiramente.
+---
 
-**5 - Podemos sentir dor no dente do siso**
--------------------------------------------
+## 5. Quando o Siso Chora com Desconforto Infernal de Pus 
 
 ![](/images/6d0923aa-06ab-459d-9750-aad945c5a936_dor-dente-do-siso.webp) 
 
-Você pode estar passando por isso {% post_link dente-siso-inflamado "nesse momento" %}. 
+Talvez o sofrimento pungente no local irradiando garganta e febre ao amassar os lábios com dificuldade e o céu da boca inchando se inicie no seu agora exato neste leito de sono, as clássicas [Pericoronarites Agudas com Bactéria Presa](/dente-siso-inflamado/). 
 
-Caso, o siso esteja incomodando ou a região ao redor dele esteja doendo é mais do que recomendável você ir ao dentista. 
+Se esse desfiladeiro inflamatório escarlate sangra pulsando do lado, pular os braços longos da odontotanatologia por pavor e pânico levará os dutos cheios a pesadas síndromes hospitalares urgentes perigosas!
 
-O profissional irá analisar o dente do siso, pedir os exame necessários e se for o caso indicar para a extração. 
+Agende imediatamente para radiografarmos a raiz enforcada. Se condenarmos cirurgicamente a exodontia não corra! O pior era a imaginação sem anestesias em casa.
 
-Não fuja dessa situação. 
+---
 
-A extração do dente do siso não é uma cirurgia de outro mundo. Seguindo as instruções de forma correta, a remoção do siso ficará muito mais tranquila.
+### **Garanta e Elimine Seu Siso Com a Melhor Equipe MD No Rio**
+
+Você tem um inchaço estranho no dente e não suporta encostar a língua de dores atrás da mordida nos espelhos de trás? Acabe hoje com o pesadelo da dor antes de inchar o osso amanhã e entre em paz de consciência e mente anestesiada da MD Frossard para a retirada estéril fina!
+
+Fale neste instante com nosso esquadrão plantão virtual via recepção central:
+
+* <i data-lucide="message-circle" class="icon-sm"></i> **Emergência Via Mensagem do WhatsApp:** **[Basta Acionar Nós Aqui e Agendarmos Urgente o Alívio Clínico](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Chame por Ligação Imediata:** (21) 3217-0430
+
+<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Interromper o Inchaço do Dente do Siso</a>
+</div>
+
+Boa recuperação, conte sempre conosco abertos a você. 
+
+---

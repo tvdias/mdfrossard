@@ -1,104 +1,118 @@
 ---
-title: Tratamento de canal - Quando precisamos realizar esse procedimento ?!
+title: Tratamento de Canal: O Guia Prático para Salvar seu Dente
 description: >-
- Aprenda absolutamente tudo sobre o Tratamento de Canal. Ele pode ser rápido e
- indolor, saiba se o canal do dente é o procedimento certo para você.
+ Aprenda absolutamente tudo sobre o Tratamento de Canal. Descubra se ele pode ser rápido e
+ indolor, e compreenda como o procedimento de canal recupera a estabilidade e alívio da sua boca.
 date: 2016-06-06T10:10:42.000Z
 featured_image: /images/5da5cc7d-9d5c-4cfb-a768-a74665fac085_tratamento-de-canal.webp
 ---
-Você já sentiu aquela dor de dente muito forte, que você não sabe o que fazer ? 
 
-Se a resposta for positiva, você sabe que essa sensação é uma das piores que existem. 
+Você já perdeu noites de sono sentindo aquelas fortes agulhadas no rosto profundo, sem saber o que fazer para parar? 
 
-Também pode ser indicativo de que você precisa realizar o **tratamento de canal**. 
+Se a resposta for positiva, você já experimentou de uma das piores e mais incômodas sensações de alarme do corpo humano. Isso também é o indicativo médico universal de que você precisará urgente realizar um moderno **tratamento de canal**. 
 
-Tudo pode começar com uma pequena {% post_link como-evitar-a-carie-dentaria "cárie dental" %}, que se não tratada progride de pouco em pouco até comprometer o dente por completo. 
+Tudo começa sempre com uma singela [Cárie Dental Silenciosa](/como-evitar-a-carie-dentaria/), que se não for removida e tapada rapidamente transpassa o esmalte. Quando o estrago chega perto do centro vital (a polpa dentária vermelha, onde fica o nervo principal e os vasos de sangue), o dente dá os seus primeiros gritos agudos de irritação ao tocarmos alimentos gelados. 
 
-Quando a cárie chega perto da [polpa dentária](https://pt.wikipedia.org/wiki/Polpa_dentária) (onde fica o nervo do dente), começamos a sentir um desconforto, como ao ingerir água gelada. 
+Após este alerta do nervo, se varrermos o aviso para debaixo do tapete, a pressão esmaga e o abscesso domina. E é exatamente após isso que realizar adequadamente o **tratamento de canal** reverterá esse sofrimento devolvendo total paz ao seu dente infectado.
 
-Após esse primeiro sinal e se não procurarmos atendimento adequado, podemos sentir uma dor aguda. 
+---
 
-Quando isso acontece é preciso realizar o tratamento de canal do dente para eliminando o desconforto. 
+### O Que Entenderemos Aqui:
+* O exato escopo curativo por trás da cirurgia do canal moderno.
+* Quais os silenciosos sinais e alertas exigindo este conserto.
+* Como anestesias avançadas bloquearam aquele velho medo da dor da poltrona de antigamente.
 
-Nesse texto, quero conversar com vocês sobre como é realizado o tratamento de canal.
+**A dor forte já começou? Fale com nosso plantão neste minuto:**
+* <i data-lucide="message-circle" class="icon-xs"></i> **[Agendar Avaliação Rápida (WhatsApp)](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-xs"></i> **Central Telefônica Frossard:** [(21) 3217-0430](tel:2132170430)
 
-## **O que é tratamento de canal ?**
+---
+
+## Mas o que é, Resumidamente, o Tratamento de Canal?
 
 [![](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.webp)](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.webp) 
 
-A explicação simples e direta seria : O tratamento endodôntico, consiste no tratamento da polpa do dente. O procedimento envolve a remoção da área danificada do dente (a polpa), limpeza e desinfecção e, em seguida, o preenchimento e selamento. 
+A justificativa técnica e direta da Endodontia: Consiste obrigatoriamente da completa e radical extirpação do corpo do nervo estragado. Limpa-se, esteriliza-se o buraco de contaminações, selando depois tudo com resina forte.
 
-Talvez tenha ficado complicado o entendimento, portanto vamos explicar com mais detalhes. 
+Ficou complicado aos seus ouvidos?
 
-Todos os nossos dentes possuem uma polpa dental. Ela tem a função de "nutrição" mantendo o dente saudável na boca. 
+### Vamos Traduzir a Anatomia para a Vida Real:
+1. Pense no dente como uma belíssima barraca dura de ossos, onde vive um morador mole vital (O Nervo Polpar), farto em nutrir de sangue tudo no interior.
+2. Devido furos gigantes ("cárie agressiva" ou bater o rosto do acidente) esse "morador sensível" inflama em excesso e morre ("Necrose da Polpa"). 
+3. Quando essa parte biológica morre trancafiada por dentro da raiz da sua boca vira um prato recheado gerador de perigosos gases pútridos (Sua famosa e horrível [Dor de Dente Latejante](/dor-de-dente/)). 
+4. Nosso cirurgião, então, invade, desinfeta de forma estéril com jatos cirúrgicos todos esses minerais velhos, e veda o buraco injetando ali guta-percha pura. O cimento estabiliza de vez sua base natural do próprio sorriso original que ali vai ficar para sempre na gengiva.
 
-Entretanto, devido a algum fator externo ( a cárie por exemplo ) a polpa é atingida, causando sua "morte"( necrose ). 
+---
 
-Para manter o dente viável em nossa boca, temos que tratar essa polpa, colocando um material sintético. Assim, podemos manter o dente por muito mais tempo em nossa boca.
+## Como Sei que Este Intervenção Urgente Foi Feita Pra Mim?
 
-## **Como eu sei que preciso de tratamento de canal ?**
+Apesar do desespero dos sinais apitantes fortíssimos ser um claro caminho e roteiro principal de conduta, **não é o único cenário!**  Por vezes, pessoas vivem sem reclamar mas a destruição continua quieta:
 
-Apesar da dor dentária ser um grande indicativo para o tratamento de canal, ele não é a única razão para tal. 
+**Os Sinais Exigindo um Médico Avaliando seu Canal:**
+* Trauma ou fratura antiga onde você sentiu e caiu; mas "esqueceu"
+* Frequência recorrente surgindo daquela misteriosa Bolota de Pus e Sangue debaixo do dente sobre a gengiva da bochecha (uma chamada pífia "Fístula Quente")
+* Altíssimas reações dolorosas prolongadas demoradas aos copos gelados por vários amargos e intermináveis minutos
+* Aparelhos dentários de Ortodontia empurraram pesados causando uma forte opacidade cinzenta mortal no seu canino sem vida
+* E claro: Um gigantesco buraco escuro profundo, asilo das sobras diárias do pior prato cheio, apontado como [Cáries Profundas Letais](/como-evitar-a-carie-dentaria/).
 
-**Algumas razões são :**
+As complicações no osso periapical descem direto correndo pelo torax na garganta gerando anginas sérias caso menospreze-as se entupindo só com calmantes farmaceuticas. Portanto pare!
 
-* Trauma Dental
-* Recorrente abscesso na gengiva
-* Sensibilidade prolongada do dente
-* Cor alterada do dente
-* Necessidade de tratamento protético
-* Cárie profunda
+---
 
-Em muitos casos a dor aguda pode acontecer e passar. 
-
-Porém, se houver necessidade do tratamento endodôntico e este não for realizado podemos ter um abscesso, que é um problema pior e pode progredir para quadros mais sérios de saúde. 
-
-Portanto, apesar de não sentirmos dor nos dentes, podemos ter sérios problemas, onde somente o dentista poderá realizar o melhor diagnóstico tratamento.
-
-## **Vídeo sobre o tratamento de canal** 
+## O Resumo e a Orientaçao Prática em Vídeo: 
 
 {% youtube RVwtTUHEqwo %}
 
 ---
 
-## **O tratamento de canal é doloroso ?** 
+## Verdade Nua: Tratamento de Canal Dói Muito?
 
-O tratamento do canal sempre foi temido pelos pacientes. 
+O processo na mente coletiva foi incrustado desde os idos dos avós como brutal! Com um milhão de contos de terror sobre picadas, nervos vivos expostos puxados ou anestesias fracas. 
 
-Já que além de ser demorado era doloroso, porém isso mudou. 
+A medicina reverteu tudo. O atual **tratamento de canal** usa tecnologia de base altamente segura de potentes sedações e bloqueadores articulares anestésicos que penetram até o cérebro inferior e cortam perfeitamente todo desconforto nervoso local antes do motor de broca tocar. Sim! Nossos pacientes facilmente e não raramentes cochilam suavemente na própria cadeira durante horas a fio pela profunda tranquilidade. 
 
-Todo o procedimento é feito sob anestesia local, portanto a sensação de dor diminui bastante e praticamente some. 
+Finalizada todas etapas, restará claro um ínfimo choque ou batido pelo evento pontual local operatório, domado com eficácia nos próximos três dias pelos fracos antiflamatórios prescritos ao sair da nossa moderna porta por Frossard!
 
-Após o tratamento ser finalizado, pode acontecer um pequeno desconforto pelo trauma criado. 
+## As Lendas da Morosidade: Preciso Voltar 5 vezes para Terminar?
 
-Entretanto uma medicação é receitada para o paciente, evitando essa dor.
+![A limpeza segura do canal pela equipe frossard](/images/7fda4568-439b-475f-a52d-1d6946b2bd4d_tratamento-endodontico.webp) 
 
-## **Em quantas consultas é feito o tratamento de canal ?**
+Antigamente todos amedrontavam a si por acreditar piamente nas visitas chatas semanais. Devido ao uso manual das limas giratórias lentíssimas que os velhos odontólogos raspavam milímetros. 
 
-![tratamento endodontico](/images/7fda4568-439b-475f-a52d-1d6946b2bd4d_tratamento-endodontico.webp) 
+Para a imensa glória do paciente rotineiro ocupado, as novidades americanas mudaram a realidade em 1 Consulta de Ação! Aparelhos localizadores motorizados com ponteiras afiadas realizam limpeza tridimensional desinfetando toda câmara perigosa no mesmo horário exato.
 
-Antigamente, era necessário várias consultas para finalizar o tratamento de canal. 
+### Quando Necessitamos Passar para Duas Etapas?
+Somente em agudos episódios complexos. Fartos com derramamento purulento agudo transbordando fétidos durante e exalando pus no pesçoco não fecham, se acalmam medicados dias dentro aguardando total secagem bactericida interna.  
 
-Isso causava muito medo nos pacientes e alguns ainda pensam que o canal é demorado para ser feito. 
+## Existe Outra Alternativa Diferente?
 
-Atualmente, em grande parte dos casos, apenas uma consulta é necessária para o completo tratamento. Isso se deve ao avanço no material e na técnica. 
+A mais rústica e lamentável seria ceder ao alicate de [Extrair Brutalmente](/siso-porque-extrair/) seu inestimável órgão. Uma perda irrecuperável e drástica! O vazio gerado derruba tridimensionalmente todo alinhamento, gerando desgastes descontrolados ou necessidade imediata das caras hastes na base, que você pode conferir as soluções dos [Implantes de Porcelana no Osso Dentário](/implante-dentario/).
 
-Em outros casos, quando se tem uma infecção maior e a com presença de pus é necessário mais de uma consulta para realizar a completa descontaminação do dente.   \[rev_slider marque_avaliacao]  
+Se você adiar e brincar com calmantes e analgésicos enganadores da rotina sentirá dores incontroláveis e perdas agressivas crônicas das tabuas gengivais ao fundo. 
 
-## **Qual a alternativa para o tratamento endodôntico ?**
+---
 
-A única alternativa seria a remoção do dente. 
+## Um Infográfico Com O Passo e Caminho Clínico
 
-Porém isso, pode gerar problemas graves para a correta mastigação e oclusão, você pode saber mais {% post_link perda-de-dentes "sobre isso aqui" %}. 
+Para ver como limpamos milímetros:
 
-Se o tratamento correto não for feito pode se ter infecção aguda, com presença de pus e reabsorção óssea ao redor do dente.
+![Infográfico mostrando o tratamento de canal](/images/7d4d5cf4-d4bf-48d1-b72b-70d054cbce58_Infografico-tratamento-de-canal.webp) 
 
-## **Infográfico sobre as etapas do tratamento de canal **
+---
 
-Para melhor visualização e entendimento sobre as etapas do tratamento endodôntico, preparei esse infográfico para você. 
+### **Garanta Um Alívio Cirúrgico Moderno Conosco!**
 
-![Infografico tratamento de canal](/images/7d4d5cf4-d4bf-48d1-b72b-70d054cbce58_Infografico-tratamento-de-canal.webp) 
+Temos arquitetada para lhe socorrer profissionais exclusivos que eliminarão seu desespero garantindo a raiz sagrada protegida sem dor. 
 
+Ligue para as secretárias online, converse os detalhes abertamente sobre nosso ambiente acolhedor, agendando a blindagem da sensibilidade urgente:
 
+* <i data-lucide="message-circle" class="icon-sm"></i> **Acione o WhatsApp Clínico Imediato:** **[Inicie a Marcação Por Aqui (Rápido)](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Plantão (Fixo Frossard):** (21) 3217-0430
 
-Até a próxima.
+<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Salvar Meu Dente da Dor Aguda</a>
+</div>
+
+Tranque logo essa via e volte a sonhar, um grande abraço Frossard!
+
+---

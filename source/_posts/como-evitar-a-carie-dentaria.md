@@ -1,120 +1,104 @@
 ---
-title: Cárie Dentária - Como evitar esse problema comum.
+title: 'Cárie Dentária: 10 Dicas Práticas de Como Evitar Esse Problema'
 description: >-
- A Cárie dentária é a doença bucal mais comum de se ter. Porém, é possível
- prevenir com simples atitudes. Veja aqui 10 dicas de como evitar a cárie.
+ A cárie dentária é a doença bucal causadora de perdas mais comum do mundo. 
+ Porém, é muito fácil de ser prevenida. Veja aqui as 10 dicas de como evitar a cárie.
 date: 2014-06-20T07:49:19.000Z
 featured_image: /images/a38f22b8-210d-4ced-9cb2-e04840d0b9b4_Cárie-dentária-1.webp
 ---
-A [doença periodontal](/tratamentos/periodontia/ "Periodontia") e a **Cárie dentária** são as principais causas de perda dentária, sendo a cárie a principal responsável pelas dores de dente. 
 
-Porém, elas podem ser prevenidas com simples atitudes.
+A dolorosa [Doença Periodontal](/gengiva-sangrando/) e a assustadora **Cárie Dentária** ainda encabeçam a lista mundial de principais causadoras pela perda de dentes vitais. Como a cárie também é a principal responsável por aquelas terríveis [dores pontiagudas à noite](/dor-de-dente/), tratá-la preventivamente é uma paz pro seu bolso e nervos.
 
-## **Afinal o que é cárie dentária ?**
+A excelente notícia que trazemos? Ela pode ser sumariamente erradicada da rotina da sua família com simplicíssimas atitudes caseiras combinadas.
 
-![cárie dentária](/images/2ee9fce2-78c8-444c-9b94-c14e7f1eeaa2_cárie-dentária-300x240.webp) 
+Neste guia direto, dissecamos todos os mistérios das cáries que ninguém nunca te explicou e destilamos as **10 dicas de ouro** para o paciente Frossard blindar seu sorriso em casa.
 
-A Cárie pode ser definida de forma simplista como o processo de destruição localizada dos tecidos dentais pela ação das bactérias.
-
-A desmineralização acontece em todas as estruturas dentárias geralmente pelo ácido láctico, fruto destas bactérias. 
-
-Essa deterioração do dente é conseqüência do tipo de vida do indivíduo: 
-
-* Se ele escova os dentes regularmente; 
-* O tipo de dieta; 
-* A presença de flúor na água ingerida; 
-* O uso ou não de pasta de dente.
-
-## **Como posso saber que estou com cárie dentária?**
-
-![cárie dentária](/images/9220d1fb-072b-428d-afb0-090be874bdca_como-clarear-os-dentes-bicarbonato.webp) 
-
-A cárie começa de forma localizada e pequena com as chamadas manchas brancas opacas. 
-
-Essa desmineralização inicial pode ser revertida pela correta escovação e orientação pelo dentista. 
-
-Quando acontece as primeiras lesões no esmalte (parte externa do dente), geralmente o paciente não sente nenhuma sensação dolorosa. 
-
-Somente quando chega à dentina (parte mais interna) o paciente começa a sentir uma {% post_link sensibilidade-nos-dentes "sensibilidade" %}/{% post_link dor-de-dente "dor maior no dente" %}. 
-
-Os sintomas iniciais são o aumento da sensibilidade a comidas frias e/ou doces ou bebidas. Em situações mais avançadas pode acontecer dores agudas no dente. 
-
-A melhor maneira de se saber da presença ou não de cárie é visitar regularmente o dentista, pois existem regiões que somente o profissional e com auxílio de raio-x pode detectar. 
-
-Assim, ao identificar uma lesão de forma precoce, evita-se um dano maior a cavidade bucal.
-
-## **Quais as regiões mais comuns para se ter cárie ?**
-
-Podemos ter a presença de cáries em todas as regiões do dente. 
-
-1) Cárie coronária - Tipo mais comum. 
-
-Ocorre em todas as faixas etárias. Presente na região de coroa do dente ou entre eles. Afeta, tanto o esmalte como a dentina. 
-
-2) Cárie radicular - É a lesão que acomete a raiz do dente. 
-
-Quando a gengiva retrai (desce) e parte da raiz fica exposta. Essa região é muito menos protegida que a coroa dentária por não ter esmalte. 
-
-Assim, quando se tem cárie nessa região, sua progressão é muito mais rápida.
-
-## **Como é feito o tratamento da cárie ?**
-
-![](/images/ea56bf19-1116-43da-bc86-5d85bc5d2d40_como-saber-se-estou-com-cárie.webp) 
-
-O tratamento, feito pelo dentista, consiste em primeiro detectar aonde esta localizada a cárie. 
-
-Depois temos que analisar o tamanho dessa lesão para saber como vamos abordar esse tratamento. 
-
-Por exemplo, essa cárie esta próxima do nervo do dente, teremos que realizar o [tratamento endodôntico](/tratamentos/endodontia/ "Endodontia"). 
-
-A maneira mais simples para esse tratamento é limpar todo o tecido dentário comprometido para depois restaurar a região, restabelecendo o formato normal do dente.
-
-**Vídeo Será que você tem cárie ?**
 ---
+
+### Resumo Rápido Para Seu Cuidado Diário:
+* O exato momento na ciência em que o açúcar fura a defesa do dente.
+* Teste Caseiro: Como enxergar sem Raio-X se as manchas nasceram nela.
+* Qual é a parte escondida na base que a cárie fura em extrema velocidade.
+* O passo de limpeza #4 que 90% das pessoas ignora antes de deitar.
+
+**Acha que furou seu dente e precisa do nosso plantão profilático?** 
+* <i data-lucide="message-circle" class="icon-xs"></i> **[Garanta uma Avaliação Local (Via WhatsApp Rápido)](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-xs"></i> **Chame no Telefone da Clínica (Fixo):** [(21) 3217-0430](tel:2132170430)
+
+---
+
+## O Que é Realisticamente a Cárie Dentária?
+
+![A destruição química visível da cárie sob o esmalte](/images/2ee9fce2-78c8-444c-9b94-c14e7f1eeaa2_cárie-dentária-300x240.webp) 
+
+Longe de ser o "bichinho comedor de sujeira" das historinhas infantis, a **Cárie Dentária** pode ser definida de forma biológica como uma avassaladora **desmineralização química**. Ela é um processo ininterrupto de destruição localizada feita por ataques super ácidos.
+
+Ocorre que nossa boca tem naturalmente bactérias próprias morando nela. Mas, quando você entrega para elas comidas ricas em carboidratos brancos e açúcares e não escova, elas fazem um banquete orgânico e literalmente urinam/excretam uma carga de Ácido Láctico concentrado por horas nas paredes! 
+
+Esse "urina" bacteriana é tão corrosiva, que perfura e literalmente derrete as paredes do esmalte puro humano. Logo, se formará cáries nela totalmente à base da falta da quebra mecânica dessa massa viscosa (sua placa) pela sua escova!
+
+## É Possível Saber Precocemente Que Estou Com Cáries?
+
+![Os primeiros alertas da desmineralização](/images/9220d1fb-072b-428d-afb0-090be874bdca_como-clarear-os-dentes-bicarbonato.webp) 
+
+No momento inicial do "derretimento" causado pelo ácido (desmineralização agressiva), a escuridão do buraco não está presente. A **cárie dentária** começa com o alerta de manchas brancas opacas iguais giz foscas pelo osso!
+
+* Quando as minúsculas perfurações químicas do ácido estão estritamente no Esmalte duro de cima da capinha do dente, você é absolutamente surdo. O dente **nunca sente ardência e nem pequenas dores iniciais nessa fase**, o que gera negligência trágica em milhares de adolescentes cariocas!
+* Apenas após varar esse escudo blindado e o túnel podre despencar alcançando a Dentina molhada interna, a pulsação [Sensível nos Dentes Quentes e Gelados](/sensibilidade-nos-dentes/) ecoará. Aí começam as pontadinhas que doem de susto de madrugada. 
+
+## Quais Regiões Ficam Mais Riscadas no Osso?
+
+![Os principais estragos na estrutura coronária e radicular do sorriso](/images/ea56bf19-1116-43da-bc86-5d85bc5d2d40_como-saber-se-estou-com-cárie.webp) 
+
+1. **A Cárie Superficial Coronária (A Campeã Mundial):** Ocorre em milhões de brasileiros na própria coroa dos cumes da mastigação onde mastigamos maçãs livremente, também perfura violentamente se alojando no vácuo escuro exato do espaçamento de dois dentes onde as agulhas do palito não alcançam!
+2. **A Rápidissima Cárie Radicular:** As raízes deveriam viver ocultas na terra! Devido à força das escovas duras recuando velozmente nossa frágil gengiva para trás para raiz, os nacos puros dessa exposta perdem proteção. A bactéria cariogênica avança em extrema letalidade furando muito rápido os colos fracos não blindados em esmalte grosso.
+
+## Precisamos do Endodontista Canal para Curar a Cárie?
+
+O tamanho detectado nas chapas raio-x é que norteia a operação. A maneira rápida, cirurgiada e padrão do tratamento baseia no minucioso desbaste raspado e lavagem profunda por jatos rotatórios brocantes que assepsiarão a caverninha antes colando uma selante brilhosa restauradora que recobre fechando a porta a vácuo! Tudo termina lá mesmo! 
+
+Entretanto; os pacientes indisciplinados que sentaram no tempo sentindo abafados dores noturnas até a placa cavucar atingindo os vasos da base, receberão incontornavelmente [a prescrição para Limpeza do Tratamento Famoso Endodôntico (Canal)](/tratamento-de-canal/).
+
+---
+
+## Assista as Diferenças Práticas Antes Que Despencarem Dores!
+
 {% youtube hSoR7ttm8-c %}
 
 ---
 
-## **O que pode ocasionar a cárie dentária ?**
+## 10 Formas Táticas Práticas de Blindar Sua Prevenção em Casa
 
-Como dito anteriormente, a cárie é causada pelo acúmulo de detritos, sujeira no dente, geralmente ocasionados pela falha na higienização. 
+![Táticas blindadas contra a formação orgânica de tártaro](/images/2a2f13bc-5f9c-40a3-b8f7-787b190180bb_cárie-dentária.webp) 
 
-Por exemplo, não escovar os dentes após as refeições, ter uma dieta baseada em alimentos com muito açúcar, não usar pasta de dente com flúor e principalmente não ir frequentemente ao dentista para uma consulta de manutenção.
+Siga perfeitamente nossa checklist vitalíssima. E poupe sua conta bancária de inúteis futuras reconstruções que custam o triplo:
 
-## **Os 10 principais  cuidados que devemos ter para evitar a cárie dentária?**
+1. **O Ângulo Mágico da Remoção:** Não serre as mucosas retas e cortantes de vai-e-vem violento! Posicione 45 graus inclinadas tocando os pezinhos nas frestinhas, espanando a capa mucosa da gengiva na vertical!
+2. **Menos Pasta É Muito Mais Polimento:** Superdosar em creme faz as grossas bolinhas ensaboadas na espuma maquiarem as cerdas durantes os contatos e te encobrirem da noção real das raspadas nas paredes! Os cremes flúors garantem imunidade, as cerdas secas friccionando é que despencam os males mortais cariogênicos brancos. 
+3. **Escovação Reta Final da Língua (Checklist Diário Ignorado):** Use um Raspador de Língua oficial e limpe e varra aquela saburra grossa bege onde apodrece os fungos diários noturnos e cria gases azedos no estômago! 
+4. **Use Filamentos Têxteis (O Fio):** O buraco cego invisível microscópico contínuo na divisão encostado entre seus dois incisivos não suporta entrar cerdas! Use-o sem choros.
+5. **Enxágue Racional Auxiliar:** Complete a lavagem da água e saliva pura adotando fórmulas puras sem agressivo álcool destilativo diluído, bloqueando queimaduras labiais desnecessárias nos bochechos!
+6. **Controle a Carga Ácida Ingerida:** Café torrado, guaranás doces pretos, leites grossos infantis! Deixe as colônias ingerir na refeição pesada do lanche ou no pesado horário das águas salivares abundantes como na mesa cheia do almoço! 
+7. **Os Doces Caranguejos das Fissuras:** Balinhas macias das lanchonetes de filmes (estilo dadinhos massas toffy chicletes açucarados) colam nos tetos. Isso é terrível! Prefira chocolates mais secos duros que você pode ingerir sem colar profundamente a lama densa grudada no teto molhado!
+8. **As Visitas Semestrais Táticas (Checkups VIP):** Ações pontuais marcadas nas blindagens microscópicas infantis injetando as massas dos Fissurantes Preenchedores Plásticos (Selantes Molares de fossículas) em cima de coroas perfeitamente intactas para não acumular resquícios precoces. 
+9. **Banir Inimigos Secantes:** Cigarro fumaçado torrado detona completamente sua água basilar de imunidade diminuindo todas as proteções enzimáticas de saúde local!
+10. **Nutrição Fortíssima Global e Estrutural:** A dieta de couve duras fibrosas brutas do sistema rasga automaticamente lodos podres moles que se alojam lateralmente das margens durante as ríspidas atitudes da digestão crua inicial! 
 
-![](/images/2a2f13bc-5f9c-40a3-b8f7-787b190180bb_cárie-dentária.webp) 
+---
 
-**DICA 1 -** 
-A escovação deve ser feita sempre após as refeições e com escova macia, com creme dental contendo flúor. **Escove os dentes pelo menos três vezes** ao dia e prefira escovas de cabeça pequena e com cerdas macias.   
+### **Garanta Um Bloqueio Precoce: Agende seu Check-up Prevenção Digital Frossard Hoje!**
 
-**DICA 2 -** 
-Ao escovar os dentes, coloque as cerdas da escova entre a gengiva e os dentes de forma que ela fique inclinada 45º. Faça movimentos leves verticais com as cerdas entre a gengiva e o dente por toda a arcada dentária, por dentro e por fora. Escove a parte interna dos dentes da frente usando a escova no sentido vertical. Escove a superfície dos dentes responsável pela mastigação com a escova apoiada em sua superfície em movimentos de vai e vem.   
+Pare de imaginar buracos na hora em que doem, agende nossa lupa maxilofacial microscópica estéril focada em prevenir seus medos silenciosos online. Fale imediatamente enviando uma mensagem urgente da poltrona de casa em nossas frentes no WhatsApp agora mesmo do Rio:
 
-**DICA 3 -** 
-Use uma **quantidade mínima de pasta de dente.** Quando o creme dental é colocado em grande quantidade, faz espuma e dá a falsa sensação de limpeza. O creme deve ser utilizado pelo motivo de possuir flúor e ainda alguns deles tem a função de prevenir o aparecimento de placa bacteriana, mas o que realmente limpa os dentes, retirando a placa é a escovação aliada ao fio dental.   
+* <i data-lucide="message-circle" class="icon-sm"></i> **Acionar Nossas Consultoras Clínicas:** **[Envie Uma Mensagem WhatsApp Direta Online Aqui](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Chame Agora via Call Center (Fixo Rio):** (21) 3217-0430
 
-**DICA 4 -** 
-**Escovar a língua** é fundamental para evitar o acúmulo de bactérias na região. Existe no mercado um aparelho chamado: “raspador de língua”, e deve ser usado diariamente.   
+<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Prevenir Minha Clínica com Proteção Completa</a>
+</div>
 
-**DICA 5 -** 
-Complete a limpeza usando do enxaguatório bucal. Deve-se dar preferência aos enxaguatórios sem adição de álcool.   
+Traga o seu cuidado pessoal imediato nas unidades Frossard de luxo.
 
-**DICA 6 -** 
-Evite alimentos com alto teor de açúcar, como doces, balas e biscoitos que grudam nos dentes, além de sucos, refrigerantes, leite, café adoçados com açúcar ou mel. Prefira consumí-los após o almoço pois é quando os níveis de saliva estão mais altos e isso ajuda na higienização dos dentes.   
+Um abraço cuidadoso!
 
-**DICA 7 -** 
-**Evite o cigarro**, pois pessoas que fumam têm maior probabilidade de desenvolver doença gengival e câncer.   
-
-**DICA 8 -** 
-Em crianças e adolescentes deve-se fazer um tratamento preventivo com visitas semestrais ao dentista, com aplicações de flúor e selantes, para fortificar e selar os dentes e protegê-los de cáries nos locais mais suscetíveis.   
-
-**DICA 9 -** 
-Mantenha uma alimentação balanceada, **sem excesso de açúcar**. Consumimos muitos alimentos pastosos e doces em vez de alimentos mais saudáveis e isso altera a condição da saúde bucal. Evite refrigerantes e “aquelas balas que grudam com muita facilidade no dente”.   
-
-**DICA 10 -** 
-O tratamento preventivo também inclui uma visita ao dentista a cada semestre para a realização de Check-ups preventivos.
-
-Att, 
-
-Davi Frossard
+---
