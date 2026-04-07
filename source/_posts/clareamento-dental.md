@@ -1,5 +1,5 @@
 ---
-title: Clareamento Dental: O Guia Definitivo para Dentes Perfeitos
+title: 'Clareamento Dental: O Guia Definitivo para Dentes Perfeitos'
 description: >-
  O clareamento dental pode mudar completamente o impacto da sua imagem e rejuvenescer o seu rosto.
  Entenda tudo sobre o clareamento caseiro, a laser de consultório e a sensibilidade.

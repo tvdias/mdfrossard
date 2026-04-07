@@ -1,5 +1,5 @@
 ---
-title: Tratamento de Canal: O Guia Prático para Salvar seu Dente
+title: 'Tratamento de Canal: O Guia Prático para Salvar seu Dente'
 description: >-
  Aprenda absolutamente tudo sobre o Tratamento de Canal. Descubra se ele pode ser rápido e
  indolor, e compreenda como o procedimento de canal recupera a estabilidade e alívio da sua boca.

@@ -178,9 +178,12 @@ function buildPost(postLike, htmlOverride) {
   };
 }
 
+const escapeHtml = (str) =>
+  str.replace(/[&<>"']/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[m]));
+
 function renderOpenGraph(meta = {}) {
-  const title = meta.title ? `${meta.title} | ${siteConfig.title}` : siteConfig.title;
-  const description = meta.description || siteConfig.description || "";
+  const title = meta.title ? escapeHtml(`${meta.title} | ${siteConfig.title}`) : escapeHtml(siteConfig.title);
+  const description = escapeHtml(meta.description || siteConfig.description || "");
   const image = meta.image ? toAbsoluteUrl(meta.image) : undefined;
   const tags = [
     `<meta property="og:locale" content="pt_BR">`,
@@ -268,9 +271,20 @@ module.exports = function(eleventyConfig) {
 
     let rendered = content;
 
-    // Renderizar {% youtube id %}
+    // Renderizar {% youtube id %} - Removendo tags <p> ou <hX> que o Markdown possa ter inserido ao redor
+    rendered = rendered.replace(/(?:<p>|<h\d>)\s*{%\s*youtube\s+([a-zA-Z0-9_-]+)\s*%}\s*(?:<\/p>|<\/h\d>)/g, (match, id) => {
+      return `<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 40px 0; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+        <iframe src="https://www.youtube.com/embed/${id}" 
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+                allowfullscreen 
+                loading="lazy">
+        </iframe>
+      </div>`;
+    });
+
+    // Fallback: se sobrar algum (ex: dentro de outras tags ou sem tags), capturamos aqui
     rendered = rendered.replace(/{%\s*youtube\s+([a-zA-Z0-9_-]+)\s*%}/g, (match, id) => {
-      return `<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 20px 0;">
+      return `<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 40px 0; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
         <iframe src="https://www.youtube.com/embed/${id}" 
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
                 allowfullscreen 
