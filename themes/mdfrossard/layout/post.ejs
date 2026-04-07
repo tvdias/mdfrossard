@@ -96,6 +96,72 @@ var readingTime = Math.max(1, Math.round(wordCount / 200));
     padding: 0 1rem;
 }
 
+.article-body h2 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--text-main, #1a1a1a);
+    margin: 4.5rem 0 2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #c9a84c;
+    display: inline-block;
+    font-family: var(--font-heading);
+}
+
+.article-body h3 {
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin: 3.5rem 0 1.5rem;
+    font-family: var(--font-heading);
+}
+
+.content p {
+    font-size: 1.125rem;
+    line-height: 1.8;
+    color: var(--text-main);
+    margin: 0 0 2.5rem;
+    font-family: var(--font-body);
+}
+
+.content ul {
+    margin: 0 0 3rem 1.5rem;
+    font-family: var(--font-body);
+    font-size: 1.125rem;
+    line-height: 1.8;
+    color: var(--text-main);
+}
+
+.content li {
+    margin-bottom: 1rem;
+}
+
+.content a {
+    color: #b08a20;
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    transition: all 0.2s ease;
+}
+
+.content a:hover {
+    color: var(--text-main);
+}
+
+.content img {
+    width: 100%;
+    height: auto;
+    border-radius: 1rem;
+    margin: 4.5rem 0;
+    box-shadow: 0 12px 40px rgba(0,0,0,0.12);
+    display: block;
+}
+
+.post-hero-meta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+}
 
 .post-tag {
     display: inline-flex;

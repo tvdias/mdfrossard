@@ -72,7 +72,7 @@ Como resultado, todo o dente ao redor fica impregnado de um tom cinza e sombrio.
 **Como Resolvemos:** 
 * Isolamento e troca altamente delicada desse bloco de metal oxidado.
 * Colocamos modernos preenchimentos de resinas nanohíbridas translúcidas que respeitam a cor viva e natural (invisíveis aos olhos). 
-* Grandes destruições resolvemos com peças de cerâmicas livres de metal. {% post_link tratamentos/protese-dentaria "Confira mais sobre Próteses Livres de Metais" %}.
+* Grandes destruições resolvemos com peças de cerâmicas livres de metal. [Confira mais sobre Próteses Livres de Metais](/tratamentos/protese-dentaria/).
 
 ## 4. Fluorose: Danos por Excesso de Flúor na Infância
 
