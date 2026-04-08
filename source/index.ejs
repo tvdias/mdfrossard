@@ -19,7 +19,7 @@ hide_title: true
             <h1>Seu sorriso levado a sério,<br>com tecnologia e conforto.</h1>
             <p>Equipe qualificada para devolver o seu sorriso sua autoestima. Tratamentos completos na Barra da Tijuca e Botafogo.</p>
             <div class="hero-buttons">
-                <a href="tel:21976637803" class="btn btn-primary btn-lg">Marque sua Avaliação</a>
+                <a href="tel:21976637803" onclick="return gtagSendEventTelefone(this.href)" class="btn btn-primary btn-lg">Marque sua Avaliação</a>
             </div>
         </div>
         <div class="hero-card reveal delay-1">
@@ -27,7 +27,7 @@ hide_title: true
                 <i data-lucide="calendar-check" class="card-icon"></i>
                 <h3>Agendamento Rápido</h3>
                 <p>Fale diretamente com nossa equipe pelo WhatsApp e escolha o melhor horário.</p>
-                <a href="https://api.whatsapp.com/send?phone=5521976637803" target="_blank"
+                <a href="https://api.whatsapp.com/send?phone=5521976637803" onclick="return gtagSendEventWhatsapp(this.href)"
                     class="text-link">Chamar no WhatsApp <i data-lucide="arrow-right" class="icon-xs"></i></a>
             </div>
         </div>
@@ -82,7 +82,7 @@ hide_title: true
                 </div>
             </a>
 
-            <a href="tel:21976637803" class="feature-card reveal delay-4">
+            <a href="tel:21976637803" onclick="return gtagSendEventTelefone(this.href)" class="feature-card reveal delay-4">
                 <div class="card-img">
                     <img src="/images/consulta_new.webp" style="object-position: top center;" alt="Marque sua consulta" loading="lazy" decoding="async" width="533" height="800">
                     <div class="card-overlay">

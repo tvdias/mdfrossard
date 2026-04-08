@@ -37,7 +37,7 @@ layout: layout.ejs
                 </div>
                 
                 <div class="member-cta mt-5">
-                    <a href="https://api.whatsapp.com/send?phone=5521976637803" target="_blank" class="btn btn-primary">
+                    <a href="https://api.whatsapp.com/send?phone=5521976637803" onclick="return gtagSendEventWhatsapp(this.href)" class="btn btn-primary">
                         <i data-lucide="calendar" class="icon-sm"></i> Agendar com <%= title.split(' ')[1] %>
                     </a>
                 </div>

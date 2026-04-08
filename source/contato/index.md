@@ -34,7 +34,7 @@ description: Veja como entrar em contato com a nossa clínica. É possível liga
                         <div>
                             <h4>WhatsApp</h4>
                             <p>(21) 97663-7803</p>
-                            <a href="https://api.whatsapp.com/send?phone=5521976637803" target="_blank" class="btn btn-sm btn-outline mt-2">Mande um oi</a>
+                            <a href="https://api.whatsapp.com/send?phone=5521976637803" onclick="return gtagSendEventWhatsapp(this.href)" class="btn btn-sm btn-outline mt-2">Mande um oi</a>
                         </div>
                     </div>
                     <div class="contact-method-item">

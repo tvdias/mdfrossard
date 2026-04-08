@@ -21,21 +21,27 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    // Monitorar todos os cliques no site
+    // Monitor Global de Cliques (Rede de Segurança e Cobertura Total)
     document.addEventListener('click', function(e) {
         var anchor = e.target.closest('a');
         if (!anchor) return;
 
         var href = anchor.href || '';
+        var hasManualTracking = anchor.getAttribute('onclick') && anchor.getAttribute('onclick').includes('gtagSendEvent');
         
-        // Rastrear Cliques em WhatsApp
+        // Se o link já tem rastreamento manual, não interferimos
+        if (hasManualTracking) return;
+
+        // Rastrear Cliques em WhatsApp automaticamente
         if (href.indexOf('api.whatsapp.com') !== -1 || href.indexOf('wa.me') !== -1) {
-            trackLead('contato_whatsapp', 'WhatsApp Click');
+            e.preventDefault();
+            gtagSendEventWhatsapp(href);
         } 
         
-        // Rastrear Cliques em Telefone
+        // Rastrear Cliques em Telefone automaticamente
         else if (href.indexOf('tel:') === 0) {
-            trackLead('contato_telefone', 'Phone Click');
+            e.preventDefault();
+            gtagSendEventTelefone(href);
         }
     });
 });
