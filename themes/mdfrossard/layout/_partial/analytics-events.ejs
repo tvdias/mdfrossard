@@ -40,3 +40,40 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 </script>
+
+<!-- Google tag (gtag.js) event - delayed navigation helpers -->
+<!-- Gerado pelo Google Ads para garantir envio do evento antes da navegação -->
+<script>
+  // WhatsApp: aguarda confirmação do evento contato_whatsapp antes de navegar
+  function gtagSendEventWhatsapp(url) {
+    var callback = function () {
+      if (typeof url === 'string') {
+        window.location = url;
+      }
+    };
+    gtag('event', 'contato_whatsapp', {
+      'event_callback': callback,
+      'event_timeout': 2000
+    });
+    return false;
+  }
+
+  // Telefone (GA4): aguarda confirmação do evento contato_telefone antes de navegar
+  function gtagSendEventTelefone(url) {
+    // Dispara PHT Calls imediatamente (conversão Google Ads)
+    if (typeof gtag === 'function') {
+      gtag('event', 'PHT Calls');
+    }
+    // Dispara contato_telefone com callback de navegação
+    var callback = function () {
+      if (typeof url === 'string') {
+        window.location = url;
+      }
+    };
+    gtag('event', 'contato_telefone', {
+      'event_callback': callback,
+      'event_timeout': 2000
+    });
+    return false;
+  }
+</script>
