@@ -76,4 +76,17 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     return false;
   }
+  // PHT Calls (Google Ads): aguarda confirmação do evento antes de navegar
+  function gtagSendEventPHTCalls(url) {
+    var callback = function () {
+      if (typeof url === 'string') {
+        window.location = url;
+      }
+    };
+    gtag('event', 'PHT Calls', {
+      'event_callback': callback,
+      'event_timeout': 2000
+    });
+    return false;
+  }
 </script>
