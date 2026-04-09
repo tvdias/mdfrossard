@@ -1,0 +1,491 @@
+---
+layout: landing_page
+title: "Transformações do Sorriso | MD Frossard Odontologia"
+description: "Veja como o seu sorriso pode mudar. Conheça nossos casos de Facetas de Cerâmica, Implantes e Reabilitação em Botafogo e Barra da Tijuca."
+google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600"
+canonical: "https://mdfrossard.com.br/l/transformacoes-do-sorriso/"
+---
+
+<!-- SEO & Performance -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://mdfrossard.com.br/l/transformacoes-do-sorriso/">
+    
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://mdfrossard.com.br/l/transformacoes-do-sorriso/">
+    <meta property="og:title" content="Transformações do Sorriso | MD Frossard Odontologia">
+    <meta property="og:description" content="Veja como o seu sorriso pode mudar. Conheça casos reais de estética, implantes e reabilitação oral.">
+    <!-- Imagem de Destaque / Caso Genérico -->
+    <meta property="og:image" content="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/F6iVDXNwDEih39z7eHDSg.jpg">
+</head>
+
+<style>
+    :root {
+        --gold: #c9a84c;
+        --gold-light: #f7d16b;
+        --gold-dark: #b18e38;
+        --dark: #1a1a1a;
+        --darkest: #0a0a0a;
+        --text: #333333;
+        --muted: #6b7280;
+        --light: #fofof0;
+        --cream: #faf9f7;
+        --white: #ffffff;
+        --radius: 16px;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+        font-family: 'Outfit', sans-serif;
+        color: var(--text);
+        background: var(--cream);
+        line-height: 1.6;
+        -webkit-font-smoothing: antialiased;
+        overflow-x: hidden;
+    }
+
+    .container {
+        width: 100%; max-width: 1160px;
+        margin: 0 auto; padding: 0 24px;
+    }
+
+    /* ── REVEAL ANIMATION ── */
+    .reveal {
+        opacity: 0; transform: translateY(30px);
+        transition: opacity .7s cubic-bezier(.16,1,.3,1), transform .7s cubic-bezier(.16,1,.3,1);
+    }
+    .reveal.visible { opacity: 1; transform: translateY(0); }
+    .delay-1 { transition-delay: .1s; }
+    .delay-2 { transition-delay: .2s; }
+    .delay-3 { transition-delay: .3s; }
+
+    /* ── COMPONENTES REUTILIZÁVEIS ── */
+    .btn {
+        display: inline-flex; align-items: center; justify-content: center;
+        gap: 12px; padding: 18px 36px; border-radius: 50px;
+        font-family: 'Outfit', sans-serif; font-weight: 700; font-size: 1.05rem;
+        text-decoration: none; border: none; cursor: pointer;
+        transition: all .3s cubic-bezier(.16,1,.3,1);
+    }
+
+    .btn-gold {
+        background: linear-gradient(135deg, var(--gold-light) 0%, var(--gold-dark) 100%);
+        color: #fff; box-shadow: 0 8px 32px rgba(201, 168, 76, 0.3);
+    }
+    .btn-gold:hover { transform: translateY(-3px); box-shadow: 0 12px 40px rgba(201, 168, 76, 0.45); }
+
+    .btn-dark {
+        background: var(--darkest); color: var(--gold-light);
+        border: 1px solid rgba(255,255,255,0.1);
+    }
+    .btn-dark:hover { background: #222; transform: translateY(-2px); }
+
+    .btn-whatsapp {
+        background: linear-gradient(135deg, #2ecc71 0%, #1aab57 100%);
+        color: #fff; box-shadow: 0 8px 32px rgba(37,211,102,.3);
+    }
+    .btn-whatsapp:hover { transform: translateY(-3px); box-shadow: 0 12px 40px rgba(37,211,102,.45); }
+
+    /* ── HERO ── */
+    .hero {
+        background: var(--darkest);
+        color: var(--white); padding: 40px 0 100px;
+        position: relative; overflow: hidden;
+    }
+
+    .hero::before {
+        content: ''; position: absolute;
+        top: -40%; left: -20%; width: 800px; height: 800px;
+        background: radial-gradient(circle, rgba(201, 168, 76, 0.08) 0%, transparent 60%);
+        border-radius: 50%; pointer-events: none;
+    }
+
+    .hero-logo-wrap { display: flex; justify-content: center; margin-bottom: 50px; }
+    .hero-logo { max-width: 240px; width: 100%; height: auto; }
+
+    .hero-body { text-align: center; position: relative; z-index: 2; max-width: 800px; margin: 0 auto; }
+    .hero h1 {
+        font-family: 'Outfit', sans-serif; font-weight: 800;
+        font-size: clamp(2.4rem, 5vw, 4.5rem); line-height: 1.1;
+        margin-bottom: 24px; letter-spacing: -1.5px;
+    }
+    .hero h1 span { color: var(--gold); }
+    .hero .intro {
+        font-size: 1.2rem; color: rgba(255,255,255,.8); font-weight: 300;
+        margin-bottom: 40px; font-family: 'Inter', sans-serif;
+    }
+
+    /* ── CASOS (Z-PATTERN) ── */
+    .casos-wrap { padding: 100px 0; background: var(--white); }
+    
+    .caso-loop { margin-bottom: 120px; }
+    .caso-loop:last-child { margin-bottom: 0; }
+    
+    .caso-grid {
+        display: grid; grid-template-columns: 1fr; gap: 40px; align-items: center;
+    }
+
+    .caso-content h2 {
+        font-size: clamp(2rem, 3.5vw, 2.8rem); font-weight: 800;
+        color: var(--darkest); margin-bottom: 24px; letter-spacing: -1px;
+    }
+    
+    .caso-content p {
+        font-family: 'Inter', sans-serif; font-size: 1.1rem; line-height: 1.8;
+        color: var(--muted); margin-bottom: 30px;
+    }
+
+    .caso-img-wrap {
+        position: relative; border-radius: var(--radius); overflow: hidden;
+        box-shadow: var(--shadow-lg); transition: transform 0.5s cubic-bezier(.16,1,.3,1);
+    }
+    .caso-img-wrap:hover { transform: scale(1.02); }
+    
+    .caso-img { width: 100%; height: auto; display: block; }
+    
+    .badge-gold {
+        display: inline-block; padding: 6px 14px; background: rgba(201, 168, 76, 0.1);
+        color: var(--gold-dark); border-radius: 50px; font-size: 0.8rem;
+        font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 16px;
+    }
+
+    /* Disclaimer */
+    .disclaimer-medico {
+        max-width: 800px; margin: 40px auto 0; text-align: center;
+        font-family: 'Inter', sans-serif; font-size: 0.75rem; color: #a1a1aa;
+        font-style: italic; line-height: 1.6; padding: 0 24px;
+    }
+
+    /* ── CLÍNICAS / MAPAS ── */
+    .clinicas { padding: 100px 0; background: var(--cream); }
+    .clinicas-header { text-align: center; margin-bottom: 60px; }
+    .clinicas-header h2 { font-size: clamp(2rem, 4vw, 2.8rem); font-weight: 800; color: #0a0a0a; letter-spacing: -1px; }
+
+    .clinicas-grid { display: grid; grid-template-columns: 1fr; gap: 40px; }
+
+    .clinica-card {
+        background: #181818; border-radius: 20px; border: 1px solid rgba(201,168,76,.15);
+        overflow: hidden; display: flex; flex-direction: column;
+        transition: transform .3s ease, box-shadow .3s ease;
+    }
+    .clinica-card:hover { transform: translateY(-5px); box-shadow: 0 16px 40px rgba(0,0,0,.15); }
+
+    .clinica-card-header {
+        background: linear-gradient(135deg, #111 0%, #1a1a1a 100%);
+        padding: 32px; display: flex; align-items: center; gap: 20px;
+        border-bottom: 1px solid rgba(255,255,255,.05);
+    }
+
+    .clinica-icon-wrap {
+        width: 56px; height: 56px; background: rgba(247,209,107,.1); border: 1px solid rgba(201,168,76,.3);
+        border-radius: 14px; display: flex; align-items: center; justify-content: center; color: var(--gold-light);
+    }
+
+    .clinica-card-header-titles { display: flex; flex-direction: column; }
+    .clinica-card-header-titles span { color: var(--gold-dark); font-size: .8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; }
+    .clinica-card-header-titles h3 { color: var(--white); font-size: 1.6rem; font-weight: 700; margin: 0; line-height: 1.2; }
+
+    .clinica-card-body { padding: 32px; display: flex; flex-direction: column; gap: 32px; flex: 1; }
+
+    .clinica-info-grid { display: grid; grid-template-columns: 1fr; gap: 24px; }
+    .clinica-info-block { display: flex; flex-direction: column; gap: 8px; }
+    .clinica-info-block-title { display: flex; align-items: center; gap: 8px; color: rgba(255,255,255,.5); font-size: .8rem; font-weight: 600; text-transform: uppercase; letter-spacing: .5px; }
+    .clinica-info-block-content { color: #e5e5e5; font-size: 1rem; line-height: 1.6; }
+    
+    .clinica-phone-link { color: #fff; text-decoration: none; font-weight: 600; font-size: 1.1rem; display: block; margin-bottom: 4px; transition: color .2s; }
+    .clinica-phone-link:hover { color: var(--gold-light); }
+
+    .clinica-map-container { width: 100%; height: 260px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(255,255,255,.1); }
+    .clinica-map-container iframe { width: 100%; height: 100%; border: none; }
+
+    .clinica-cta-btn {
+        display: flex; align-items: center; justify-content: center; gap: 10px;
+        padding: 16px; border-radius: 10px; border: 1.5px solid rgba(201,168,76,.4);
+        color: var(--gold-light); font-weight: 600; text-decoration: none;
+        transition: all .2s; background: rgba(201,168,76,.05); margin-top: auto;
+    }
+    .clinica-cta-btn:hover { background: var(--gold-dark); color: #fff; border-color: var(--gold-dark); }
+
+    /* ── STICKY WPP ── */
+    .sticky-wpp {
+        position: fixed; bottom: 20px; left: 16px; right: 16px; z-index: 9999;
+        background: #0a0a0a; color: var(--white); text-decoration: none; padding: 16px 28px;
+        border-radius: 50px; font-weight: 700; font-size: 0.95rem; font-family: 'Outfit', sans-serif;
+        display: flex; align-items: center; justify-content: center; gap: 12px;
+        box-shadow: 0 8px 32px rgba(0,0,0,.35); transition: transform .2s; border: 1px solid rgba(255,255,255,.08);
+    }
+    .sticky-wpp-icon { width: 22px; height: 22px; background: #25D366; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+    .sticky-wpp:active { transform: scale(.97); }
+
+    /* ── FOOTER ── */
+    .footer-mini {
+        background: #0a0a0a; color: rgba(255,255,255,.4); padding: 40px 0;
+        text-align: center; border-top: 1px solid rgba(255,255,255,.05);
+        font-family: 'Inter', sans-serif; font-size: 0.8rem;
+    }
+    .footer-mini-logo { max-width: 180px; width: 100%; height: auto; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto; }
+
+    /* ── RESPONSIVE ── */
+    @media (min-width: 960px) {
+        .container { padding: 0 48px; }
+        .hero { padding: 60px 0 120px; }
+        .caso-grid { grid-template-columns: 1.15fr 1fr; gap: 80px; }
+        .row-reverse { direction: rtl; }
+        .row-reverse > * { direction: ltr; }
+        
+        .clinicas-grid { grid-template-columns: repeat(2, 1fr); gap: 40px; }
+        .clinicas { padding: 120px 0; }
+        .clinica-info-grid { grid-template-columns: 1fr 1fr; }
+        .clinica-info-block:nth-child(3) { grid-column: 1 / -1; }
+        
+        .sticky-wpp { display: none; }
+    }
+</style>
+
+<!-- ═══ HERO ═══ -->
+<section class="hero">
+    <div class="container">
+        <div class="hero-logo-wrap reveal">
+            <a href="/">
+                <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=392,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/snqIBuQv10WiZfyYSGUHhA.png" 
+                     alt="MD Frossard Odontologia" class="hero-logo" width="260" height="72" loading="eager" decoding="async" fetchpriority="high">
+            </a>
+        </div>
+        <div class="hero-body">
+            <h1 class="reveal delay-1">Veja como o <span>Seu Sorriso</span> pode mudar!</h1>
+            <p class="intro reveal delay-2">38 anos construindo sorrisos e recuperando a autoestima. Dentistas Marcos e Davi Frossard.</p>
+            <div class="reveal delay-3" style="display:flex; justify-content:center;">
+                <a href="https://api.whatsapp.com/send?phone=5521976637803" onclick="return gtagSendEventWhatsapp(this.href)" class="btn btn-whatsapp" style="width: auto; min-width: 320px;">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 01-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 012.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>
+                    Agende sua Consulta
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══ CASOS (PORTFOLIO Z-PATTERN) ═══ -->
+<section class="casos-wrap" id="casos">
+    <div class="container">
+
+        <!-- Caso 1: Facetas -->
+        <div class="caso-loop">
+            <div class="caso-grid">
+                <div class="caso-img-wrap reveal delay-1">
+                    <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/F6iVDXNwDEih39z7eHDSg.jpg" 
+                         alt="Transformação com Facetas de Cerâmica" class="caso-img" loading="lazy" decoding="async">
+                </div>
+                <div class="caso-content reveal delay-2">
+                    <span class="badge-gold">Estética Avançada</span>
+                    <h2>Facetas de Cerâmica</h2>
+                    <p>Os laminados cerâmicos, as famosas facetas, são os "queridinhos" do momento quando se fala em estética. Eles proporcionam uma grande mudança e com pouco desgaste do dente, quando comparado a tratamentos mais invasivos, como coroas totais por exemplo.</p>
+                    <p>O mais legal desse tipo de tratamento é a previsibilidade, já que em muitos casos podemos demonstrar na própria boca do paciente o resultado planejado final. Nesse caso demostramos o uso de faceta nos dentes anteriores e coroas dentárias nos dentes posteriores. Perceba como o sorriso da paciente está mais jovem e com maior harmonia.</p>
+                    <a href="https://api.whatsapp.com/send?phone=5521976637803" onclick="return gtagSendEventWhatsapp(this.href)" class="btn btn-gold" style="margin-top: 10px;">Fale com um Especialista</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Caso 2: Implantes (Invertido Desktop) -->
+        <div class="caso-loop">
+            <div class="caso-grid row-reverse">
+                <div class="caso-img-wrap reveal delay-1" style="box-shadow: var(--shadow-lg);">
+                    <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/zMaCmqpSEu0aAgsJndwNA.jpg" 
+                         alt="Tratamento sobre Implantes Dentários" class="caso-img" loading="lazy" decoding="async">
+                </div>
+                <div class="caso-content reveal delay-2">
+                    <span class="badge-gold">Implantes e Prótese Fixa</span>
+                    <h2>Tratamento sobre Implantes Dentários</h2>
+                    <p>Os implantes dentários são a melhor opção quando se perde um ou vários dentes, desde que o paciente possua uma avaliação clínica e radiológica favorável para sua indicação.</p>
+                    <p>Esse tratamento envolve uma cirurgia prévia para a instalação de implantes (parafusos de titânio), que servirão de suporte para os novos dentes. No caso demonstrado na foto, infelizmente o paciente perdeu todos os dentes.</p>
+                    <p>Após análise clínica, foram instalados implantes superiores e inferiores para proporcionar um sorriso completamente novo. Vale ressaltar que esse procedimento permite que o paciente tenha dentes fixos, sem a necessidade de usar prótese removível.</p>
+                    <a href="https://api.whatsapp.com/send?phone=5521976637803" onclick="return gtagSendEventWhatsapp(this.href)" class="btn btn-gold" style="margin-top: 10px;">Volte a sorrir com Segurança</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Caso 3: Reabilitação -->
+        <div class="caso-loop">
+            <div class="caso-grid">
+                <div class="caso-img-wrap reveal delay-1">
+                    <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/sFMGHSGxjUeEMser9Eadg.jpg" 
+                         alt="Reabilitação de todos os dentes" class="caso-img" loading="lazy" decoding="async">
+                </div>
+                <div class="caso-content reveal delay-2">
+                    <span class="badge-gold">Reabilitação Oral</span>
+                    <h2>Reabilitação de todos os dentes</h2>
+                    <p>Reabilitação é quando existe a necessidade de mexermos em diversos dentes. É um procedimento complexo, que envolve diversas especialidades da odontologia. Nesses casos, o planejamento inicial é extremamente importante para a ótima finalização do tratamento.</p>
+                    <p>No caso ilustrado, a queixa principal era para melhorar seu sorriso e restabelecer função em regiões onde a mastigação não era eficiente.</p>
+                    <p>Para isso, tratamentos foram realizados em praticamente todos os dentes, tais como: coroas, facetas, tratamento de canal e tratamento da gengiva.</p>
+                    <a href="https://api.whatsapp.com/send?phone=5521976637803" onclick="return gtagSendEventWhatsapp(this.href)" class="btn btn-gold" style="margin-top: 10px;">Transforme-se também</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <p class="disclaimer-medico reveal">
+        Casos meramente ilustrativos extraídos do acervo clínico. A forma, cor, tamanho dos dentes e indicações de técnicas variam de pessoa para pessoa. A sua indicação exata depende inteiramente de uma avaliação com o profissional capacitado.
+    </p>
+</section>
+
+<!-- ═══ CLÍNICAS / MAPAS (MÓDULO UNIFICADO) ═══ -->
+<section class="clinicas" id="contato">
+    <div class="container">
+         <div class="clinicas-header reveal">
+            <h2>Nossas Unidades</h2>
+        </div>
+
+        <div class="clinicas-grid">
+            
+            <!-- CARD BARRA -->
+            <div class="clinica-card reveal delay-1">
+                <div class="clinica-card-header">
+                    <div class="clinica-icon-wrap">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></svg>
+                    </div>
+                    <div class="clinica-card-header-titles">
+                        <span>Unidade</span>
+                        <h3>Barra da Tijuca</h3>
+                    </div>
+                </div>
+                
+                <div class="clinica-card-body">
+                    <div class="clinica-info-grid">
+                        <div class="clinica-info-block">
+                            <span class="clinica-info-block-title">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="var(--gold-dark)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+                                Endereço
+                            </span>
+                            <div class="clinica-info-block-content">
+                                Av. das Américas, 700<br>Bloco 2 / Sala 143<br>Shopping Città America<br>CEP 22640-100
+                            </div>
+                        </div>
+
+                        <div class="clinica-info-block">
+                            <span class="clinica-info-block-title">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="var(--gold-dark)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                                Atendimento
+                            </span>
+                            <div class="clinica-info-block-content">
+                                <a href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)" class="clinica-phone-link">(21) 3217-0430</a>
+                                <a href="tel:21976637803" onclick="return gtagSendEventTelefone(this.href)" class="clinica-phone-link">(21) 97663-7803</a>
+                            </div>
+                        </div>
+
+                        <div class="clinica-info-block">
+                            <span class="clinica-info-block-title">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="var(--gold-dark)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                                Horário de Funcionamento
+                            </span>
+                            <div class="clinica-info-block-content" style="color: var(--gold-light);">
+                                <strong>Segunda a Sexta:</strong> 08h às 18h
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="clinica-map-container">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.5!2d-43.3680!3d-22.9961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bda22ab77a5c9%3A0x1!2sAv.+das+Am%C3%A9ricas%2C+700+-+Barra+da+Tijuca!5e0!3m2!1spt-BR!2sbr!4v1" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+
+                    <a href="https://maps.google.com/?q=Av.+das+Américas,+700+Barra+da+Tijuca+Rio+de+Janeiro" target="_blank" rel="noopener noreferrer" class="clinica-cta-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+                        Escanear Rota até a Clínica
+                    </a>
+                </div>
+            </div>
+
+            <!-- CARD BOTAFOGO -->
+            <div class="clinica-card reveal delay-2">
+                <div class="clinica-card-header">
+                    <div class="clinica-icon-wrap">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></svg>
+                    </div>
+                    <div class="clinica-card-header-titles">
+                        <span>Unidade</span>
+                        <h3>Botafogo</h3>
+                    </div>
+                </div>
+                
+                <div class="clinica-card-body">
+                    <div class="clinica-info-grid">
+                        <div class="clinica-info-block">
+                            <span class="clinica-info-block-title">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="var(--gold-dark)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+                                Endereço
+                            </span>
+                            <div class="clinica-info-block-content">
+                                Rua Marques, 15<br>Humaitá / Botafogo<br>Ao lado da Cobal<br>CEP 22260-240
+                            </div>
+                        </div>
+
+                        <div class="clinica-info-block">
+                            <span class="clinica-info-block-title">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="var(--gold-dark)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                                Atendimento
+                            </span>
+                            <div class="clinica-info-block-content">
+                                <a href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)" class="clinica-phone-link">(21) 3217-0430</a>
+                                <a href="tel:21976637803" onclick="return gtagSendEventTelefone(this.href)" class="clinica-phone-link">(21) 97663-7803</a>
+                            </div>
+                        </div>
+
+                        <div class="clinica-info-block">
+                            <span class="clinica-info-block-title">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="var(--gold-dark)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                                Horário de Funcionamento
+                            </span>
+                            <div class="clinica-info-block-content" style="color: var(--gold-light);">
+                                <strong>Segunda a Sexta:</strong> 08h às 18h
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="clinica-map-container">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.5!2d-43.1900!3d-22.9620!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bda22ab77a5c9%3A0x1!2sRua+Marques%2C+15+Humait%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+
+                    <a href="https://maps.google.com/?q=Rua+Marques,+15+Humaitá+Rio+de+Janeiro" target="_blank" rel="noopener noreferrer" class="clinica-cta-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+                        Escanear Rota até a Clínica
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- ═══ FOOTER MINIMALISTA ═══ -->
+<footer class="footer-mini">
+    <div class="container">
+        <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=392,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/snqIBuQv10WiZfyYSGUHhA.png" 
+             alt="MD Frossard Odontologia" class="footer-mini-logo" width="180" height="50" loading="lazy">
+        <p>CNPJ: 28.526.471/0001-49 | EPAO-1033</p>
+        <p style="margin-top:8px;">&copy; <script>document.write(new Date().getFullYear())</script> MD Frossard Odontologia. Todos os direitos reservados.</p>
+    </div>
+</footer>
+
+<!-- ── STICKY WPP MOBILE ── -->
+<a href="https://api.whatsapp.com/send?phone=5521976637803" onclick="return gtagSendEventWhatsapp(this.href)" class="sticky-wpp">
+    <span class="sticky-wpp-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 01-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 012.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>
+    </span>
+    Agendar Avaliação
+</a>
+
+<!-- Animação Base -->
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if(entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, { threshold: 0.15 });
+        
+        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+    });
+</script>
