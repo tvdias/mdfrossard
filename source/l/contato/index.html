@@ -110,7 +110,10 @@ canonical: "https://mdfrossard.com.br/l/contato/"
     .hero-logo-wrap {
         display: flex; justify-content: center; margin-bottom: 40px;
     }
-    .hero-logo { max-width: 240px; width: 100%; height: auto; }
+    .hero-logo { 
+        max-width: 240px; width: 100%; height: auto; 
+        filter: brightness(0) invert(1); /* Deixa a logo 100% branca para máximo contraste no fundo escuro */
+    }
 
     .hero-body {
         display: flex; flex-direction: column; text-align: center; gap: 30px; position: relative; z-index: 2;
@@ -215,7 +218,7 @@ canonical: "https://mdfrossard.com.br/l/contato/"
         text-align: center; border-top: 1px solid rgba(255,255,255,.05);
         font-family: 'Inter', sans-serif; font-size: 0.8rem;
     }
-    .footer-mini-logo { max-width: 140px; opacity: .5; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto; }
+    .footer-mini-logo { max-width: 140px; opacity: .8; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto; filter: brightness(0) invert(1); }
 
 
     /* ── RESPONSIVE ── */
