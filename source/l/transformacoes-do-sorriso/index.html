@@ -85,7 +85,7 @@ canonical: "https://mdfrossard.com.br/l/transformacoes-do-sorriso/"
     /* ── HERO ── */
     .hero {
         background: var(--cream);
-        color: var(--darkest); padding: 60px 0 80px;
+        color: var(--darkest); padding: 30px 0 40px;
         position: relative; overflow: hidden;
     }
 
@@ -183,13 +183,13 @@ canonical: "https://mdfrossard.com.br/l/transformacoes-do-sorriso/"
     .lp-footer {
         background: linear-gradient(180deg, #111 0%, #0a0a0a 100%);
         color: rgba(255,255,255,0.75); padding: 56px 0 0;
-        border-top: 3px solid var(--gold-dark); font-family: 'Outfit', sans-serif;
+        border-top: 3px solid #d4af37; font-family: 'Outfit', sans-serif;
     }
     .lp-footer-top {
         display: flex; flex-direction: column; align-items: center; gap: 16px; text-align: center; margin-bottom: 40px;
     }
-    .lp-footer-logo { height: 60px; width: auto; display: block; filter: brightness(0) invert(1); }
-    .lp-footer-tagline { font-family: 'Inter', sans-serif; font-size: 0.85rem; color: rgba(255,255,255,0.45); margin: 0; }
+    .lp-footer-logo { height: 60px; width: auto; display: block; }
+    .lp-footer-tagline { font-family: 'Inter', sans-serif; font-size: 0.85rem; color: rgba(255,255,255,0.45); margin: 0; text-transform: none; letter-spacing: .4px; }
     .lp-wpp-btn {
         display: inline-flex; align-items: center; gap: 8px; padding: 10px 22px;
         background: rgba(37,211,102,0.1); border: 1.5px solid #25D366; border-radius: 50px;
@@ -203,7 +203,7 @@ canonical: "https://mdfrossard.com.br/l/transformacoes-do-sorriso/"
     .lp-footer-grid { display: grid; grid-template-columns: 1fr; gap: 32px; margin-bottom: 40px; }
     .lp-footer-col { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 10px; }
     .lp-footer-col-title {
-        display: flex; align-items: center; gap: 7px; font-family: 'Outfit', sans-serif; font-size: 0.78rem; font-weight: 700; color: var(--gold-dark); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px;
+        display: flex; align-items: center; gap: 7px; font-family: 'Outfit', sans-serif; font-size: 0.78rem; font-weight: 700; color: #d4af37; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px;
     }
     .lp-footer-col p { font-family: 'Inter', sans-serif; font-size: 0.88rem; color: rgba(255,255,255,0.65); line-height: 1.75; margin: 0; }
     .lp-map-link {
@@ -226,7 +226,7 @@ canonical: "https://mdfrossard.com.br/l/transformacoes-do-sorriso/"
     /* ── RESPONSIVE ── */
     @media (min-width: 960px) {
         .container { padding: 0 48px; }
-        .hero { padding: 60px 0 120px; }
+        .hero { padding: 40px 0 60px; }
         .caso-grid { grid-template-columns: 1.15fr 1fr; gap: 80px; }
         .row-reverse { direction: rtl; }
         .row-reverse > * { direction: ltr; }
