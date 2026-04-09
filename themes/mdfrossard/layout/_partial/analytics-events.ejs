@@ -9,7 +9,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 'event_label': label,
                 'lead_source': window.location.pathname
             });
-            console.log('Lead Tracked: ' + eventName + ' (' + label + ')');
         } else if (typeof dataLayer !== 'undefined') {
             dataLayer.push({
                 'event': eventName,
@@ -17,7 +16,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 'event_label': label,
                 'lead_source': window.location.pathname
             });
-            console.log('Lead Tracked via DataLayer: ' + eventName);
         }
     }
 

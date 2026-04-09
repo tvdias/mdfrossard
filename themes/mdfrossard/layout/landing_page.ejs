@@ -11,10 +11,21 @@
     
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>
     
+    <!-- Landing Pages: bloquear indexação orgânica -->
+    <meta name="robots" content="noindex, nofollow">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Preconnect: Google Tag Manager, GA4, Ads -->
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://www.google-analytics.com">
+    <link rel="dns-prefetch" href="https://googleads.g.doubleclick.net">
+    <link rel="dns-prefetch" href="https://www.google.com">
+    <link rel="dns-prefetch" href="https://api.whatsapp.com">
     <% if (typeof google_fonts !== 'undefined' && google_fonts) { %>
-    <link href="https://fonts.googleapis.com/css2?family=<%= google_fonts %>&display=swap" rel="stylesheet">
+    <!-- Google Fonts: carregamento não-bloqueante para melhor LCP/FCP -->
+    <link href="https://fonts.googleapis.com/css2?family=<%= google_fonts %>&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=<%= google_fonts %>&display=swap" rel="stylesheet"></noscript>
     <% } %>
     
     <%- open_graph({
