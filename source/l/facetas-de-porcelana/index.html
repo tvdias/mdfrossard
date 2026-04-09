@@ -339,6 +339,238 @@ canonical: "https://mdfrossard.com.br/l/facetas-de-porcelana/"
         text-transform: uppercase;
     }
 
+    .testi-divider {
+        height: 1px;
+        background: rgba(212,160,23,.2);
+        margin: 16px 0;
+        width: 40px;
+    }
+
+    /* ── LP FOOTER ── */
+    .lp-footer {
+        background: linear-gradient(180deg, #111 0%, #0a0a0a 100%);
+        color: rgba(255,255,255,0.75);
+        padding: 56px 0 0;
+        border-top: 3px solid #d4af37;
+        font-family: 'Outfit', sans-serif;
+    }
+
+    /* Topo */
+    .lp-footer-top {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .lp-footer-logo {
+        height: 60px;
+        width: auto;
+        display: block;
+    }
+
+    .lp-footer-tagline {
+        font-family: 'Inter', sans-serif;
+        font-size: 0.85rem;
+        color: rgba(255,255,255,0.45);
+        letter-spacing: .4px;
+        margin: 0;
+    }
+
+    .lp-wpp-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 10px 22px;
+        background: rgba(37,211,102,0.1);
+        border: 1.5px solid #25D366;
+        border-radius: 50px;
+        color: #25D366;
+        font-weight: 600;
+        font-size: 0.9rem;
+        text-decoration: none;
+        transition: background .2s, color .2s;
+        font-family: 'Outfit', sans-serif;
+    }
+    .lp-wpp-btn:hover { background: #25D366; color: #fff; }
+
+    /* Divisor */
+    .lp-footer-divider {
+        width: 100%;
+        height: 1px;
+        background: linear-gradient(90deg, transparent 0%, rgba(212,160,23,.5) 50%, transparent 100%);
+        margin-bottom: 40px;
+    }
+
+    /* Grid de colunas */
+    .lp-footer-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 32px;
+        margin-bottom: 40px;
+    }
+
+    .lp-footer-col {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .lp-footer-col-title {
+        display: flex;
+        align-items: center;
+        gap: 7px;
+        font-family: 'Outfit', sans-serif;
+        font-size: 0.78rem;
+        font-weight: 700;
+        color: #d4af37;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-bottom: 6px;
+    }
+
+    .lp-footer-col p {
+        font-family: 'Inter', sans-serif;
+        font-size: 0.88rem;
+        color: rgba(255,255,255,0.65);
+        line-height: 1.75;
+        margin: 0;
+    }
+
+    .lp-map-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+        font-family: 'Inter', sans-serif;
+        font-size: 0.8rem;
+        color: rgba(255,255,255,0.4);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+        transition: color .2s;
+        margin-top: 4px;
+    }
+    .lp-map-link:hover { color: #d4af37; }
+
+    /* Horários */
+    .lp-footer-horario {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        width: 100%;
+    }
+    .lp-footer-dia {
+        font-family: 'Inter', sans-serif;
+        font-size: 0.83rem;
+        color: rgba(255,255,255,0.55);
+        min-width: 80px;
+        text-align: right;
+    }
+    .lp-footer-hora {
+        font-family: 'Outfit', sans-serif;
+        font-size: 0.88rem;
+        font-weight: 600;
+        color: #fff;
+    }
+    .lp-footer-hora--closed {
+        color: rgba(255,255,255,0.35);
+        font-weight: 400;
+        font-size: 0.83rem;
+    }
+
+    /* Telefones */
+    .lp-footer-tel {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        margin-top: 6px;
+        align-items: center;
+    }
+    .lp-footer-tel a {
+        font-family: 'Inter', sans-serif;
+        font-size: 0.88rem;
+        color: rgba(255,255,255,0.65);
+        text-decoration: none;
+        transition: color .2s;
+    }
+    .lp-footer-tel a:hover { color: #d4af37; }
+
+    /* Bottom bar */
+    .lp-footer-bottom {
+        border-top: 1px solid rgba(255,255,255,0.07);
+        padding: 20px 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 8px;
+        text-align: center;
+    }
+
+    .lp-footer-epao {
+        font-family: 'Inter', sans-serif;
+        font-size: 0.75rem;
+        color: rgba(255,255,255,0.3);
+        margin: 0;
+    }
+
+    .lp-footer-bottom-links {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 8px 20px;
+        font-family: 'Inter', sans-serif;
+        font-size: 0.78rem;
+        color: rgba(255,255,255,0.35);
+    }
+    .lp-footer-bottom-links a {
+        color: rgba(255,255,255,0.35);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+        transition: color .2s;
+    }
+    .lp-footer-bottom-links a:hover { color: rgba(255,255,255,0.75); }
+
+    @media (min-width: 960px) {
+        .lp-footer { padding: 64px 0 0; }
+
+        .lp-footer-top {
+            flex-direction: row;
+            justify-content: space-between;
+            text-align: left;
+            margin-bottom: 48px;
+        }
+
+        .lp-footer-grid {
+            grid-template-columns: repeat(3, 1fr);
+            gap: 0;
+            border-top: none;
+        }
+
+        .lp-footer-col {
+            align-items: flex-start;
+            text-align: left;
+            padding: 0 40px;
+            border-right: 1px solid rgba(255,255,255,.06);
+        }
+
+        .lp-footer-col:first-child { padding-left: 0; }
+        .lp-footer-col:last-child { padding-right: 0; border-right: none; }
+
+        .lp-footer-horario { justify-content: flex-start; }
+        .lp-footer-dia { text-align: left; }
+        .lp-footer-tel { align-items: flex-start; }
+
+        .lp-footer-bottom {
+            flex-direction: row;
+            justify-content: space-between;
+            text-align: left;
+        }
+    }
+
     /* ── GALLERY ── */
     .gallery {
         background: var(--cream);
@@ -572,29 +804,40 @@ canonical: "https://mdfrossard.com.br/l/facetas-de-porcelana/"
                         <span class="testi-stars">★★★★★</span>
                         <span class="testi-platform">Google</span>
                     </div>
-                    <p class="testi-text">"O trabalho feito por eles me mudou esteticamente e funcionalmente. Dr Davi, Dr Marcos e todo o time, vocês são demais! Superou todas as minhas expectativas no tratamento estético."</p>
+                    <p class="testi-text">"Sempre tive pânico de dentista, algo que me impediu de ir ao dentista por 15 anos, praticamente. Chorava, fugia, verdadeiro terror! Quando encontrei a MD Frossard estava apavorada mas decidida e eles foram essenciais para que eu finalmente superasse e me cuidasse. O trabalho feito por eles me mudou esteticamente e funcionalmente. Dr Davi, Dr Marcos, a querida Lili e todo o time, vocês são demais!"</p>
+                    <div class="testi-divider"></div>
                     <span class="testi-author">Larissa Rodrigues</span>
                 </div>
             </a>
+
             <a href="/depoimentos/" class="testi-card-link">
                 <div class="testi-card reveal">
                     <div class="testi-source">
                         <span class="testi-stars">★★★★★</span>
                         <span class="testi-platform">Google</span>
                     </div>
-                    <p class="testi-text">"Fiquei super satisfeito com o processo e resultado do tratamento estético-dentário que fiz na Md Frossard. Expertise profissional e climatização de gentileza e responsabilidade."</p>
+                    <p class="testi-text">"Cheguei à Clínica MD Frossard através de uma pesquisa na internet. Nunca fui tão bem atendida e tão acolhida. Voltei a confiar em dentista após ser tratada pelo Dr Marcos e pelo Dr David, a segurança e a delicadeza com que falam com seus pacientes faz toda a diferença. Indico de olhos fechados para todos que precisarem!"</p>
+                    <div class="testi-divider"></div>
+                    <span class="testi-author">Elisa d'Arêde</span>
+                </div>
+            </a>
+
+            <a href="/depoimentos/" class="testi-card-link">
+                <div class="testi-card reveal">
+                    <div class="testi-source">
+                        <span class="testi-stars">★★★★★</span>
+                        <span class="testi-platform">Google</span>
+                    </div>
+                    <p class="testi-text">"Fiquei super satisfeito com o processo e resultado do tratamento estético-dentário que fiz na Md Frossard Odontologia. Nota 10 em todos os quesitos para a equipe comandada pelos Drs. Marcos e seu filho David. Além da expertise profissional, destaque para o clima de gentileza, pontualidade e responsabilidade."</p>
+                    <div class="testi-divider"></div>
                     <span class="testi-author">Otávio Azevedo</span>
                 </div>
             </a>
-            <a href="/depoimentos/" class="testi-card-link">
-                <div class="testi-card reveal">
-                    <div class="testi-source">
-                        <span class="testi-stars">★★★★★</span>
-                        <span class="testi-platform">Google</span>
-                    </div>
-                    <p class="testi-text">"Segurança e delicadeza que fazem toda a diferença. Voltei a confiar no meu sorriso após o tratamento com as facetas. Indico de olhos fechados!"</p>
-                    <span class="testi-author">Elisa d'Arêde</span>
-                </div>
+        </div>
+
+        <div class="reveal" style="margin-top: 40px; text-align: center;">
+            <a href="/depoimentos/" class="btn" style="background: transparent; border: 2px solid var(--gold-dark); color: var(--gold-dark); box-shadow: none; min-width: 280px;">
+                Ver mais depoimentos
             </a>
         </div>
     </div>
@@ -710,11 +953,82 @@ canonical: "https://mdfrossard.com.br/l/facetas-de-porcelana/"
     </div>
 </section>
 
-<!-- ═══ FOOTER EXTREMAMENTE SIMPLIFICADO COMPARTILHANDO O PADRÃO ═══ -->
-<footer style="background:#0a0a0a; color:#444; padding: 40px 0; text-align:center; font-family:Inter; font-size:0.8rem;">
+<footer class="lp-footer" id="contato">
     <div class="container">
-        <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=392,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/snqIBuQv10WiZfyYSGUHhA.png" width="140" style="opacity:0.5; margin-bottom:16px;"><br>
-        <p>© 2026 MD Frossard Odontologia. RT: Dr. Davi H. Frossard — CRO 36193</p>
+
+        <!-- Topo: Logo + tagline -->
+        <div class="lp-footer-top">
+            <a href="/">
+                <img src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=392,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/snqIBuQv10WiZfyYSGUHhA.png"
+                     alt="MD Frossard Odontologia" class="lp-footer-logo" width="180" height="50" decoding="async" loading="lazy">
+            </a>
+            <p class="lp-footer-tagline">38 anos transformando sorrisos no Rio de Janeiro</p>
+            <a href="https://api.whatsapp.com/send?phone=5521976637803" onclick="return gtagSendEventWhatsapp(this.href)" class="lp-wpp-btn">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 01-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 012.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>
+                Falar pelo WhatsApp
+            </a>
+        </div>
+
+        <!-- Divisor dourado -->
+        <div class="lp-footer-divider"></div>
+
+        <!-- Grid de informações -->
+        <div class="lp-footer-grid">
+
+            <div class="lp-footer-col">
+                <h4 class="lp-footer-col-title">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                    Barra da Tijuca
+                </h4>
+                <p>Av. das Américas, 700<br>Bloco 2 / Sala 143<br>Shopping Città America<br>CEP: 22640-100</p>
+                <a href="https://www.google.com/maps/place/MD+Frossard+Odontologia/@-23.002267,-43.3225709,17z" target="_blank" rel="noopener" class="lp-map-link">
+                    Ver no Google Maps
+                    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+                </a>
+            </div>
+
+            <div class="lp-footer-col">
+                <h4 class="lp-footer-col-title">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                    Botafogo
+                </h4>
+                <p>Rua Marques, 15 — Casa<br>Ao lado da Cobal do Humaitá<br>CEP: 22260-240</p>
+                <a href="https://www.google.com.br/maps/place/Rua+Marques,+15+-+Humait%C3%A1,+Rio+de+Janeiro" target="_blank" rel="noopener" class="lp-map-link">
+                    Ver no Google Maps
+                    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+                </a>
+            </div>
+
+            <div class="lp-footer-col">
+                <h4 class="lp-footer-col-title">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                    Atendimento
+                </h4>
+                <p class="lp-footer-horario">
+                    <span class="lp-footer-dia">Seg — Sex</span>
+                    <span class="lp-footer-hora">08h às 18h</span>
+                </p>
+                <p class="lp-footer-horario">
+                    <span class="lp-footer-dia">Sáb / Dom</span>
+                    <span class="lp-footer-hora lp-footer-hora--closed">Fechado</span>
+                </p>
+                <div class="lp-footer-tel">
+                    <a href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)">(21) 3217-0430</a>
+                    <a href="tel:21976637803" onclick="return gtagSendEventTelefone(this.href)">(21) 97663-7803</a>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Bottom bar -->
+        <div class="lp-footer-bottom">
+            <p class="lp-footer-epao">EPAO 3415 &nbsp;·&nbsp; RT: Dr. Davi H. Frossard — CRO 36193</p>
+            <div class="lp-footer-bottom-links">
+                <span>© 2026 MD Frossard. Todos os direitos reservados.</span>
+                <a href="privacidade.html">Política de Privacidade</a>
+            </div>
+        </div>
+
     </div>
 </footer>
 
