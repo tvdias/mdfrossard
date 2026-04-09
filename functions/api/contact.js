@@ -1,10 +1,21 @@
 const SPARKPOST_API_URL = "https://api.sparkpost.com/api/v1/transmissions";
+const ALLOWED_ORIGIN = "https://mdfrossard.com.br";
+
+// Sanitize user-supplied HTML to prevent HTML Injection in emails
+function escHtml(str) {
+  return String(str ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
 
 function json(body, status = 200) {
   return new Response(JSON.stringify(body), {
     status,
     headers: {
-      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Origin": ALLOWED_ORIGIN,
       "Access-Control-Allow-Methods": "POST, OPTIONS",
       "Access-Control-Allow-Headers": "Content-Type",
       "Content-Type": "application/json; charset=utf-8",
@@ -23,7 +34,7 @@ async function sendMessage(payload, env) {
       content: {
         from: env.SITE_EMAIL_FROM || "site@email.mdfrossard.com.br",
         subject: `CONTATO: ${payload.subject}`,
-        html: `<html><body><p>Mensagem enviada pelo site</p><p>De: ${payload.name} - ${payload.email}</p><p>Assunto: ${payload.subject}</p><p>Mensagem:<br />${payload.message}</p></body></html>`,
+        html: `<html><body><p>Mensagem enviada pelo site</p><p>De: ${escHtml(payload.name)} - ${escHtml(payload.email)}</p><p>Assunto: ${escHtml(payload.subject)}</p><p>Mensagem:<br />${escHtml(payload.message)}</p></body></html>`,
       },
       recipients: [{ address: env.CONTACT_EMAIL }],
     }),
