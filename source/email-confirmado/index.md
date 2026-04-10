@@ -14,8 +14,8 @@ layout: false
 	<title>Email Confirmado - MD Frossard</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>  
-    <meta name="author" content="MD Frossard - http://www.mdfrossard.com.br" /> 
-    <meta name="Publisher" content="MD Frossard - http://www.mdfrossard.com.br" /> 
+    <meta name="author" content="MD Frossard - https://www.mdfrossard.com.br" /> 
+    <meta name="Publisher" content="MD Frossard - https://www.mdfrossard.com.br" /> 
     <meta name="keywords" content="implante, ortodontia, odontologia, dentista, saúde, boca, sorriso, dente, aparelho dentário, aparelho ortodôntico, aparelho, mau hálito, halitose, endodontia, tratamento, biossegurança, estética, prevenção e manutenção, escovar destes, escovação, tratamento dentário" />
     <meta name=Googlebot content=all />
     <meta name="robots" content="noindex,follow"/>
@@ -46,13 +46,13 @@ layout: false
                         <h2>Passo 1: Compartilhe este site com seus melhores amigos</h2>
                         <h3>Basta clicar nos botões abaixo para compartilhar o site MD Frossard Odontologia com seus amigos.</h3>
                         <div class="mails">
-                            <a href="http://www.facebook.com/sharer.php?u=https://mdfrossard.com.br" class="facebook" target="_blank">Compartilhe no Facebook</a>
-                            <a href="http://twitter.com/home?status=https://mdfrossard.com.br" class="twitter" target="_blank">Compartilhe no Twitter</a>
+                            <a href="https://www.facebook.com/sharer.php?u=https://mdfrossard.com.br" class="facebook" target="_blank" rel="noopener noreferrer">Compartilhe no Facebook</a>
+                            <a href="https://twitter.com/home?status=https://mdfrossard.com.br" class="twitter" target="_blank" rel="noopener noreferrer">Compartilhe no Twitter</a>
                         </div>                
                         <h2>Passo 2: Siga o MD Frossard Odontologia nas redes sociais</h2>
                         <h3>Receba informações exclusivas.</h3>
                         <div class="mails">
-                          <a href="//www.facebook.com/MdFrossardOdontologia?fref=ts" class="facebook" target="_blank">Facebook</a>
+                          <a href="//www.facebook.com/MdFrossardOdontologia?fref=ts" class="facebook" target="_blank" rel="noopener noreferrer">Facebook</a>
                         </div>                
                     </div><!-- col -->
                 </div><!-- row -->

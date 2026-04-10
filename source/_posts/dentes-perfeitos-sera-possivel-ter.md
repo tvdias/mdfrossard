@@ -13,7 +13,7 @@ Aliás, todos querem ter o sorriso perfeito, o corpo perfeito, o nariz perfeito.
 
 Enfim, buscamos a satisfação de ter algo único e sem defeito. Vamos começar a pensar sobre a possibilidade de ter dentes perfeitos. 
 
-Antes disso, vamos pensar no [significado](http://michaelis.uol.com.br/moderno/portugues/index.php?lingua=portugues-portugues&palavra=perfeito) da palavra perfeito, buscando no dicionário, encontramos definições como : que não tem defeito, só tem qualidades boas, magistral,notável entre outras. 
+Antes disso, vamos pensar no [significado](https://michaelis.uol.com.br/moderno/portugues/index.php?lingua=portugues-portugues&palavra=perfeito) da palavra perfeito, buscando no dicionário, encontramos definições como : que não tem defeito, só tem qualidades boas, magistral,notável entre outras. 
 
 Além disso, a percepção de beleza pode ser diferente de pessoa para pessoa. Portanto atingir o grau de perfeição é muito difícil. 
 

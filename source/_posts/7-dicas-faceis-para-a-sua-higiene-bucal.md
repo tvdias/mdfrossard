@@ -76,7 +76,7 @@ O sangramento se deve a dois principais fatores, o primeiro se deve a falta de u
 
 Precisamos compreender que a força excessiva durante a escovação não irá melhorar a sua higiene bucal. 
 
-O uso da força em excesso pode lesionar a gengiva ocasionando [retração gengival](http://www.colgate.com.br/pt/br/oc/oral-health/conditions/gum-disease/article/ada-10-gum-recession). 
+O uso da força em excesso pode lesionar a gengiva ocasionando [retração gengival](https://www.colgate.com.br/pt/br/oc/oral-health/conditions/gum-disease/article/ada-10-gum-recession). 
 
 Essas áreas expostas são mais suscetíveis a cárie. A mesma situação ocorre ao realizar o uso do fio dental, não devemos forçar o fio com a gengiva.
 

@@ -11,7 +11,7 @@ category: Clínica
 
 Nossa clínica odontológica esta presente no bairro da Barra da Tijuca na cidade do Rio de Janeiro. 
 
-Com facilidade de estacionamento e de locomoção, nosso consultório está localizado no Shopping [Citta Office Mall](https://cittaofficemall.com.br/site/). Esse centro comercial está localizado perto de outro grande shopping, o [Downtown.](http://www.downtown.com.br) Além disso, para quem precisa, o metrô se encontra a poucos metros da nossa clínica odontológica. 
+Com facilidade de estacionamento e de locomoção, nosso consultório está localizado no Shopping [Citta Office Mall](https://cittaofficemall.com.br/site/). Esse centro comercial está localizado perto de outro grande shopping, o [Downtown.](https://www.downtown.com.br) Além disso, para quem precisa, o metrô se encontra a poucos metros da nossa clínica odontológica. 
 
 Para ver a nossa exata localização, [clique aqui.](/localizacao/)
 

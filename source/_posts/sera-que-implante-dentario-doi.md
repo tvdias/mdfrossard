@@ -13,7 +13,7 @@ Eu detesto sentir dor seja a mais leve possível.
 
 Com toda certeza eu posso afirmar que você também odeia essa palavra. 
 
-Porém, pensando de outra maneira, apesar de ser contraditório, a [dor](http://www.sbed.org.br/materias.php?cd_secao=74) pode nos avisar que algo esta errado e precisamos procurar orientação. 
+Porém, pensando de outra maneira, apesar de ser contraditório, a [dor](https://www.sbed.org.br/materias.php?cd_secao=74) pode nos avisar que algo esta errado e precisamos procurar orientação. 
 
 Porém, nesse texto, eu não quero abordar esse tipo de dor e sim o desconforto que pode acontecer após uma cirurgia dentária, sendo mais específico, após a instalação de um {% post_link implante-dentario "implante dentário" %}. 
 
@@ -26,7 +26,7 @@ Apesar de termos um índice de sucesso alto com implantes dentários, a dor aind
 
 ![implante implante dor](/images/8219148e-34ac-4502-98c2-798fb56f83db_implante-implante-dor.webp) 
 
-Antes de mais nada a [dor](http://www.sbed.org.br/materias.php?cd_secao=76) é uma sensação subjetiva, não é possível mensurar o nível de dor. O que para um dói muito para você, pode não doer tanto para outro. 
+Antes de mais nada a [dor](https://www.sbed.org.br/materias.php?cd_secao=76) é uma sensação subjetiva, não é possível mensurar o nível de dor. O que para um dói muito para você, pode não doer tanto para outro. 
 
 Dito isso, devemos ter em mente que a instalação de um implante é um procedimento cirúrgico. Por consequência criamos um “trauma” na região para podermos posteriormente melhorar algo que antes não estava bom. Que no nosso caso é devolver a correta mastigação para o paciente. 
 

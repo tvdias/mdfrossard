@@ -62,7 +62,7 @@ Por isso, uma consulta de revisão a cada 6 meses ( em média ) deve ser feita p
 
 A limpeza incorreta do trabalho, pode levar a inflamação gengival e em casos mais graves até a perda do implante. 
 
-Portanto, além da consulta de revisão, o cuidado em casa deve ser feito através de escovação, uso de passa fio, escova interdental ou até o [waterpic](http://www.waterpik.com.br).
+Portanto, além da consulta de revisão, o cuidado em casa deve ser feito através de escovação, uso de passa fio, escova interdental ou até o [waterpic](https://www.waterpik.com.br).
 
 ## Vídeo sobre dentadura fixa 
 

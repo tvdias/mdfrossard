@@ -11,7 +11,7 @@ Todos sabem que o cuidado com o corpo é importante para termos uma boa qualidad
 
 Por isso, buscamos realizar atividades físicas, procuramos médicos de qualidade, tentamos evitar comidas calóricas e nos {% post_link 5-alimentos-que-previnem-caries "alimentamos de comidas mais saudáveis" %}. (sim eu sei, nem sempre fazemos isso, mas tentamos ! ;-)). 
 
-De uma maneira geral, todos nós queremos viver bem e bastante tempo. Assim, além da saúde do corpo e da mente necessitamos ter saúde dos dentes. O **tratamento dentário** é essencial para se conseguir ter uma [correta alimentação](http://www.minhavida.com.br/alimentacao/materias/17780-alimentacao-correta-e-aliada-para-evitar-o-envelhecimento-precoce).
+De uma maneira geral, todos nós queremos viver bem e bastante tempo. Assim, além da saúde do corpo e da mente necessitamos ter saúde dos dentes. O **tratamento dentário** é essencial para se conseguir ter uma [correta alimentação](https://www.minhavida.com.br/alimentacao/materias/17780-alimentacao-correta-e-aliada-para-evitar-o-envelhecimento-precoce).
 
 **Antes uma pequena história**
 ------------------------------

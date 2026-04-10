@@ -59,6 +59,6 @@ Caso não pare, você deve procurar atendimento com o dentista.
 
 Nesse caso você terá que usar um fio dental de inserção, onde ao invés de colocar o fio pela parte de cima, você vai entrar com ele na parte da frente dos dentes. 
 
-Como exemplo temos o [SuperFloss,](http://oralb.com.br/pt-br/produtos/fio-dental-super-floss?gclid=CjwKEAjw34i_BRDH9fbylbDJw1gSJAAvIFqUPEtZfU1hV1xoE5OxpFjvsWiyrSjtUa1VYdfqAj163RoC1srw_wcB) que apresenta uma ponta rígida que permite inseri-lo entre os dentes, em volta do aparelho, ou sob a {% post_link o-que-e-uma-protese-dentaria-fixa "ponte" %}; um fio mais esponjoso, para a limpeza de espaços mais amplos, e um fio normal para a limpeza dos dentes.
+Como exemplo temos o [SuperFloss,](https://oralb.com.br/pt-br/produtos/fio-dental-super-floss?gclid=CjwKEAjw34i_BRDH9fbylbDJw1gSJAAvIFqUPEtZfU1hV1xoE5OxpFjvsWiyrSjtUa1VYdfqAj163RoC1srw_wcB) que apresenta uma ponta rígida que permite inseri-lo entre os dentes, em volta do aparelho, ou sob a {% post_link o-que-e-uma-protese-dentaria-fixa "ponte" %}; um fio mais esponjoso, para a limpeza de espaços mais amplos, e um fio normal para a limpeza dos dentes.
 
 Até a Próxima.

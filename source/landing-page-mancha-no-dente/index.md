@@ -5,10 +5,10 @@ layout: false
 ---
 {% raw %}
 <!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="pt-BR" prefix="og: http://ogp.me/ns#"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="pt-BR" prefix="og: http://ogp.me/ns#"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="pt-BR" prefix="og: http://ogp.me/ns#"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="pt-BR" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<!--[if lt IE 7 ]><html class="ie ie6" lang="pt-BR" prefix="og: https://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="pt-BR" prefix="og: https://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="pt-BR" prefix="og: https://ogp.me/ns#"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="pt-BR" prefix="og: https://ogp.me/ns#"> <!--<![endif]-->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />

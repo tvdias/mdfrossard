@@ -1,4 +1,6 @@
 User-agent: *
+Disallow: /admin/
+Disallow: /l/
 Allow: /
 
 Sitemap: https://mdfrossard.com.br/sitemap.xml

@@ -8,7 +8,7 @@ featured_image: /images/adfe83ee-64a4-4200-88b2-1fb15ca650ef_faceta-porcelana.we
 ---
 A procura por tratamentos estéticos está cada vez maior em nossa população. 
 
-Segundo [reportagem recente](http://g1.globo.com/bemestar/noticia/2014/07/brasil-se-torna-pela-primeira-vez-lider-em-cirurgias-plasticas-diz-organizacao.html), o Brasil se tornou o líder em cirurgias plásticas, passando a frente dos EUA. Esse fenômeno também está presente nos consultórios odontológicos. 
+Segundo [reportagem recente](https://g1.globo.com/bemestar/noticia/2014/07/brasil-se-torna-pela-primeira-vez-lider-em-cirurgias-plasticas-diz-organizacao.html), o Brasil se tornou o líder em cirurgias plásticas, passando a frente dos EUA. Esse fenômeno também está presente nos consultórios odontológicos. 
 
 Antigamente, grande parte dos pacientes procuravam atendimento devido a dor, atualmente a maior procura é para tratamentos estéticos. 
 

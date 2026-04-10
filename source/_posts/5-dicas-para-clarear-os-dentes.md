@@ -38,7 +38,7 @@ Ao longo do tempo o dente tende a voltar para a cor original.
 
 Mas porque não alongar mais o tempo do branqueamento do dente? 
 
-Uma dica para clarear os dentes fácil de ser aplicada é evitar o uso constante de bebidas com corante e também [coca-cola.](http://www.cocacola.com.br/pt/home/) 
+Uma dica para clarear os dentes fácil de ser aplicada é evitar o uso constante de bebidas com corante e também [coca-cola.](https://www.cocacola.com.br/pt/home/) 
 
 Esse simples ato, possibilita a longevidade maior do clareamento.
 

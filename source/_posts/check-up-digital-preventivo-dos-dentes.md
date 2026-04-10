@@ -20,7 +20,7 @@ Prevenção , prevenção e prevenção 
 
 Essa é a palavra que todo ser humano deve ter em mente quando se pensa em saúde. 
 
-Se não fosse a prevenção, quantas pessoas já teriam morrido de [câncer de mama](http://www2.inca.gov.br/wps/wcm/connect/tiposdecancer/site/home/mama/cancer_mama+) ou [de próstata](http://www2.inca.gov.br/wps/wcm/connect/tiposdecancer/site/home/prostata/definicao).( no caso desse tipo de doença, o diagnóstico precoce aumenta muito a chance de sobre vida). 
+Se não fosse a prevenção, quantas pessoas já teriam morrido de [câncer de mama](https://www2.inca.gov.br/wps/wcm/connect/tiposdecancer/site/home/mama/cancer_mama+) ou [de próstata](https://www2.inca.gov.br/wps/wcm/connect/tiposdecancer/site/home/prostata/definicao).( no caso desse tipo de doença, o diagnóstico precoce aumenta muito a chance de sobre vida). 
 
 O cuidado anual ou semestral com a saúde é essencial para todos e deve ser uma obrigação, nós temos que parar com a preguiça e realizar o check up seguindo as orientações dos médicos. 
 

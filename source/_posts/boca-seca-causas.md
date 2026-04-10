@@ -9,7 +9,7 @@ featured_image: /images/9ed551ab-56ad-4fee-8b45-f7bcb63c19e5_xerostomias.webp
 
 A xerostomia, ou também **boca seca**, está associada à falta de saliva na cavidade oral. 
 
-Isso pode acontecer devido a problemas menores como a ansiedade ou com desordens mais complicadas como a [síndrome de Sjögren.](http://pt.wikipedia.org/wiki/S%25C3%25ADndrome_de_Sj%25C3%25B6gren). 
+Isso pode acontecer devido a problemas menores como a ansiedade ou com desordens mais complicadas como a [síndrome de Sjögren.](https://pt.wikipedia.org/wiki/S%25C3%25ADndrome_de_Sj%25C3%25B6gren). 
 
 As estruturas responsáveis pela produção de saliva são as glândulas salivares. Nós possuímos 3, cada uma com localizações diferentes. Normalmente uma pessoa produz em média 1 L a 1,5 L de saliva por dia.
 
@@ -30,7 +30,7 @@ Já ficou muito tempo de boca aberta e sentiu uma sensação desconfortável de 
 
 Pois é, a saliva é essencial na deglutição de alimentos pois a digestão começa com ela umedecendo o bolo alimentar. 
 
-A saliva ainda tem outra função crucial na proteção da mucosa bucal. Sem ela, vamos ter ardência na gengiva, maior quantidade de cáries e uma [língua saburrosa](http://www.saburralingual.com.br) (acúmulo de placa bacteriana e sujeira na língua). 
+A saliva ainda tem outra função crucial na proteção da mucosa bucal. Sem ela, vamos ter ardência na gengiva, maior quantidade de cáries e uma [língua saburrosa](https://www.saburralingual.com.br) (acúmulo de placa bacteriana e sujeira na língua). 
 
 Isso ocorre pois a saliva umedece a mucosa da boca facilitando a movimentação da língua. 
 
@@ -60,7 +60,7 @@ As causas são diversas como:
 
 Ainda podemos ter a diminuição do fluxo salivar devido ao uso de medicamentos, principalmente os antidepressivos, antialérgicos e antihipertensivos. 
 
-Também temos causas mais graves, onde deve-se prestar mais atenção e ter acompanhamento médico, como a diabetes, a  [síndrome de Sjögren](http://pt.wikipedia.org/wiki/S%25C3%25ADndrome_de_Sj%25C3%25B6gren),ou algum problema específico das glândulas salivares. 
+Também temos causas mais graves, onde deve-se prestar mais atenção e ter acompanhamento médico, como a diabetes, a  [síndrome de Sjögren](https://pt.wikipedia.org/wiki/S%25C3%25ADndrome_de_Sj%25C3%25B6gren),ou algum problema específico das glândulas salivares. 
 
 Além disso, deve-se lembrar que os idosos apresentam mais a sensação de boca seca, já que com o passar da idade, ocorre uma diminuição da quantidade de saliva produzida.
 

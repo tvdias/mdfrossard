@@ -52,7 +52,7 @@ Entretanto, o principal fator relacionado a perda de osso nos dentes é devido a
 
 Esse doença acontece pela inflamação da gengiva, devido ao acúmulo de alimentos e a falta da correta higienização. 
 
-Isso, pode levar a severa perda de osso. Existem sim outros problemas, como a [menopausa](http://www.gineco.com.br/saude-feminina/menopausa/o-que-emenopausa/) e a idade. 
+Isso, pode levar a severa perda de osso. Existem sim outros problemas, como a [menopausa](https://www.gineco.com.br/saude-feminina/menopausa/o-que-emenopausa/) e a idade. 
 
 Caso você tenha a periodontite o tratamento periodontal junto com o especialista é extremamente importante.
 

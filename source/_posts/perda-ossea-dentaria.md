@@ -113,7 +113,7 @@ Isso pode estar relacionado com a diminuição da produção de estrogênio.
 
 Assim, nas mulheres é importante manter o controle da escovação para evitar a doença periodontal e por consequência não ter maior perda óssea dentária. 
 
-Para mais informações sobre esta associação [leia este artigo](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-72032006000500005). 
+Para mais informações sobre esta associação [leia este artigo](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-72032006000500005). 
 
 Continue lendo nosso [Blog](/blog/) para saber mais. Caso tenha alguma dúvida, deixe seu comentário abaixo.
 

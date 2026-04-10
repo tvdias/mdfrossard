@@ -64,7 +64,7 @@ Além disso, existem casos mais complicados que necessitamos realizar uma tomogr
 
 Mas, existem muitos casos, onde ele pode estar "deitado" o que dificulta muito a nossa cirurgia. 
 
-Também com a tomografia podemos ver a relação das raízes com o [nervo alveolar inferior.](http://pt.wikipedia.org/wiki/Nervo_alveolar_inferior) 
+Também com a tomografia podemos ver a relação das raízes com o [nervo alveolar inferior.](https://pt.wikipedia.org/wiki/Nervo_alveolar_inferior) 
 
 Existem casos onde a raiz pode estar muito perto do nervo podendo causar parestesia transitória, 
 

@@ -7,7 +7,7 @@ date: 2015-01-05T13:53:29.000Z
 featured_image: /images/d7bb809c-09fe-48be-8f79-f419ee13e5d4_Saúde-bucal.webp
 ---
 
-Em recente reportagem da [revista Veja](http://veja.abril.com.br), podemos comprovar o que já vemos no dia a dia. 
+Em recente reportagem da [revista Veja](https://veja.abril.com.br), podemos comprovar o que já vemos no dia a dia. 
 
 **O Brasileiro cuida muito mal de sua saúde bucal.** 
 

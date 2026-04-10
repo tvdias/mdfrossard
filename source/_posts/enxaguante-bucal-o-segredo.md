@@ -36,7 +36,7 @@ Ao entrar em uma farmácia, observamos uma quantidade enorme de enxaguantes buca
 
 Cada um de uma marca diferente e com um composto ativo diferente. 
 
-Existem as marcas mais famosas, como o da [Colgate ( Plax )](http://www.colgateprofissional.com.br/produtos/Antisseptico-Bucal-Plax-Fresh-Mint/detalhes)  e [Oral-B ( Pro-saúde )](https://oralb.com.br/pt-br/produtos/antisseptico-bucal-oral-b-pro-saude) e outras nem tanto. 
+Existem as marcas mais famosas, como o da [Colgate ( Plax )](https://www.colgateprofissional.com.br/produtos/Antisseptico-Bucal-Plax-Fresh-Mint/detalhes)  e [Oral-B ( Pro-saúde )](https://oralb.com.br/pt-br/produtos/antisseptico-bucal-oral-b-pro-saude) e outras nem tanto. 
 
 Umas tem um principio ativo x e outro Y. E todas prometem ser as melhores. 
 
