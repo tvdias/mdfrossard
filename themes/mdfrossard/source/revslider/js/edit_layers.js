@@ -2,11 +2,11 @@
 /*!
  * VERSION: beta 0.2.3
  * DATE: 2013-07-10
- * UPDATES AND DOCS AT: http://www.greensock.com
+ * UPDATES AND DOCS AT: https://www.greensock.com
  *
  * @license Copyright (c) 2008-2013, GreenSock. All rights reserved.
  * SplitText is a Club GreenSock membership benefit; You must have a valid membership to use
- * this code without violating the terms of use. Visit http://www.greensock.com/club/ to sign up or get more details.
+ * this code without violating the terms of use. Visit https://www.greensock.com/club/ to sign up or get more details.
  * This work is subject to the software agreement that was issued with your membership.
  *
  * @author: Jack Doyle, jack@greensock.com

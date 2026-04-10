@@ -401,9 +401,9 @@
 			<option value="false" text="No" />
 		</field>
 		<field name="text_google_font" type="statictext" label="The google font families to load:" />
-		<field name="google_font" type="multitext" class="text-sidebar-long-double" default="&lt;link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'&gt;" />
+		<field name="google_font" type="multitext" class="text-sidebar-long-double" default="&lt;link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'&gt;" />
 		<field name="text_google_font" type="statictext" label="&lt;a href=&quot;javascript:void(0);&quot; data-name=&quot;google_font&quot; class=&quot;multiple_text_add&quot; &gt;&lt;div class='addnewicon reviconwithhover'&gt;&lt;i class='revicon-list-add'&gt;&lt;/i&gt;Add New&lt;/div&gt;&lt;div class='clear'&gt;&lt;/div&gt;&lt;/a&gt;" />
-		<field name="text_google" type="statictext" label="To add more google fonts please read &lt;a target=&quot;_blank&quot; href=&quot;http://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380/faqs/15268&quot;&gt; this tutorial &lt;/a&gt; " />
+		<field name="text_google" type="statictext" label="To add more google fonts please read &lt;a target=&quot;_blank&quot; href=&quot;https://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380/faqs/15268&quot;&gt; this tutorial &lt;/a&gt; " />
 	</fieldset>
 	
 </fields>

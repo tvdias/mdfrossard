@@ -289,7 +289,7 @@ CodeMirror.defineMode("css", function(config) {
 
     token: function(stream, state) {
       
-      // Use these terms when applicable (see http://www.xanthir.com/blog/b4E50)
+      // Use these terms when applicable (see https://www.xanthir.com/blog/b4E50)
       // 
       // rule** or **ruleset:
       // A selector + braces combo, or an at-rule.

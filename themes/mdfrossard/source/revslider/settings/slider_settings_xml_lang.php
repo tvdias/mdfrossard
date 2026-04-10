@@ -21,7 +21,7 @@ _e("Yes","revslider");
 _e("No","revslider"); 
 _e("Google Font","revslider"); 
 _e("The google font family to load","revslider"); 
-_e("To add more google fonts please read <a target=\"_blank\" href=\"http://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380/faqs/15268\"> this tutorial </a> ","revslider"); 
+_e("To add more google fonts please read <a target=\"_blank\" href=\"https://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380/faqs/15268\"> this tutorial </a> ","revslider"); 
 _e("Stop Slider","revslider"); 
 _e("On / Off to stop slider after some amount of loops / slides","revslider"); 
 _e("Stop After Loops","revslider"); 
