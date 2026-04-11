@@ -677,6 +677,131 @@ canonical: "https://mdfrossard.com.br/l/clinica_odontologica_na_barra_da_tijuca/
         box-shadow: var(--shadow-lg);
     }
 
+    /* ── CLÍNICA INFO (Endereço & Horários) ── */
+    .clinica-info {
+        background: var(--cream);
+        padding: 40px 0;
+    }
+
+    .clinica-info-inner {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        align-items: flex-start;
+        background: var(--white);
+        border-radius: 20px;
+        box-shadow: var(--shadow-md);
+        padding: 28px 20px;
+        border: 1px solid rgba(212,160,23,.15);
+    }
+
+    .clinica-info-col {
+        flex: 1;
+        width: 100%;
+    }
+
+    .clinica-info-icon-wrap {
+        width: 40px;
+        height: 40px;
+        background: linear-gradient(135deg, rgba(247,209,107,.25) 0%, rgba(212,160,23,.15) 100%);
+        border: 1px solid rgba(212,160,23,.3);
+        border-radius: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 10px;
+        color: var(--gold-dark);
+    }
+
+    .clinica-info-col h3 {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        font-size: 1.1rem;
+        color: #0a0a0a;
+        margin-bottom: 12px;
+        letter-spacing: -.2px;
+    }
+
+    .clinica-info-col p {
+        font-family: 'Inter', sans-serif;
+        font-size: 0.97rem;
+        color: #4b5563;
+        line-height: 1.8;
+    }
+
+    .clinica-map-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        margin-top: 14px;
+        font-family: 'Inter', sans-serif;
+        font-size: 0.88rem;
+        font-weight: 600;
+        color: var(--gold-dark);
+        text-decoration: none;
+        border-bottom: 1px solid rgba(212,160,23,.35);
+        padding-bottom: 2px;
+        transition: color .2s, border-color .2s;
+    }
+
+    .clinica-map-link:hover { color: #c9870a; border-color: #c9870a; }
+
+    .clinica-horarios {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .clinica-horarios li {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-family: 'Inter', sans-serif;
+        font-size: 0.95rem;
+        padding: 10px 14px;
+        background: #f8f7f4;
+        border-radius: 8px;
+    }
+
+    .clinica-dia { color: #374151; font-weight: 500; }
+    .clinica-hora { color: var(--gold-dark); font-weight: 700; }
+
+    .clinica-phone-link {
+        font-family: 'Inter', sans-serif;
+        font-size: 1rem;
+        color: #4b5563;
+        text-decoration: none;
+        transition: color .2s;
+    }
+
+    .clinica-phone-link:hover { color: var(--gold-dark); }
+
+    .clinica-wpp-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        margin-top: 16px;
+        background: linear-gradient(135deg, #2ecc71 0%, #1aab57 100%);
+        color: #fff;
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        font-size: 0.92rem;
+        text-decoration: none;
+        padding: 12px 22px;
+        border-radius: 50px;
+        box-shadow: 0 4px 16px rgba(37,211,102,.30);
+        transition: transform .2s, box-shadow .2s;
+    }
+
+    .clinica-wpp-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(37,211,102,.40); }
+
+    .clinica-info-divider {
+        width: 100%;
+        height: 1px;
+        background: rgba(212,160,23,.15);
+    }
+
     /* ── FAQ ── */
     .faq { padding: 96px 0; background: var(--cream); }
 
@@ -976,6 +1101,29 @@ canonical: "https://mdfrossard.com.br/l/clinica_odontologica_na_barra_da_tijuca/
         .btn { width: auto; min-width: 260px; max-width: none; }
         .hero-cta .btn { min-width: 340px; }
 
+        .clinica-info { padding: 80px 0; }
+        .clinica-info-inner {
+            flex-direction: row;
+            gap: 0;
+            align-items: flex-start;
+            padding: 56px 60px;
+        }
+        .clinica-info-icon-wrap {
+            width: 52px;
+            height: 52px;
+            border-radius: 14px;
+            margin-bottom: 16px;
+        }
+        .clinica-info-col { padding: 0 40px; }
+        .clinica-info-col:first-child { padding-left: 0; }
+        .clinica-info-col:last-child { padding-right: 0; }
+        .clinica-info-divider {
+            width: 1px;
+            height: auto;
+            align-self: stretch;
+            background: rgba(212,160,23,.15);
+        }
+
         .lp-footer { padding: 64px 0 0; }
 
         .lp-footer-top {
@@ -1098,6 +1246,12 @@ canonical: "https://mdfrossard.com.br/l/clinica_odontologica_na_barra_da_tijuca/
                 </div>
             </a>
         </div>
+
+        <div class="reveal" style="margin-top: 40px; text-align: center;">
+            <a href="/depoimentos/" class="btn" style="background: transparent; border: 2px solid var(--gold-dark); color: var(--gold-dark); box-shadow: none; min-width: 280px;">
+                Ver mais depoimentos
+            </a>
+        </div>
     </div>
 </section>
 
@@ -1111,7 +1265,7 @@ canonical: "https://mdfrossard.com.br/l/clinica_odontologica_na_barra_da_tijuca/
                 </div>
                 <h3>Endereço</h3>
                 <p>Av. das Américas, 700<br>Bloco 2 / Sala 143<br>Shopping Città America<br>Barra da Tijuca — CEP 22640-100</p>
-                <a href="https://www.google.com/maps/place/MD+Frossard+Odontologia/@-23.002267,-43.3225709,17z" target="_blank" rel="noopener noreferrer" class="clinica-map-link">
+                <a href="https://share.google/dByZdhTbp6XWBuVqh" target="_blank" rel="noopener noreferrer" class="clinica-map-link">
                     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
                     Ver no Google Maps
                 </a>
