@@ -30,6 +30,34 @@ var readingTime = Math.max(1, Math.round(wordCount / 200));
 %>
 
 <section class="section section-internal">
+    <!-- Structured Data: BlogPosting -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "<%= p.title %>",
+      "description": "<%= p.description || '' %>",
+      "image": "<%= new URL(p.featured_image || '/images/uploads/2024/md_odontologia_barra.webp', config.url).toString() %>",
+      "author": {
+        "@type": "Person",
+        "name": "<%= p.author ? p.author.name : config.author %>"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "MD Frossard Odontologia",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://mdfrossard.com.br/images/logo-MD.jpg"
+        }
+      },
+      "datePublished": "<%= p.date ? new Date(p.date).toISOString() : '' %>",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "<%= new URL(p.url, config.url).toString() %>"
+      }
+    }
+    </script>
+
     <div class="container">
         <div class="article-body">
             <!-- Back link -->
