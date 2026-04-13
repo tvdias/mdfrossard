@@ -39,6 +39,7 @@
     <%- include('_partial/google-tag') %>
     
     <%- include('_partial/fb-pixel') %>
+    <%- include('_partial/phonetrack') %>
 </head>
 <body style="margin: 0; padding: 0;">
     <!-- Google Tag Manager (noscript) -->
@@ -47,5 +48,15 @@
     <!-- End Google Tag Manager (noscript) -->
     <%- content %>
     <%- include('_partial/analytics-events') %>
+    
+    <!-- Scripts Globais LPs -->
+    <script defer src="https://unpkg.com/lucide@latest"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            if (typeof lucide !== 'undefined') {
+                lucide.createIcons();
+            }
+        });
+    </script>
 </body>
 </html>
