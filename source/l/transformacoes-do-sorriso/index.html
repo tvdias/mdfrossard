@@ -5,7 +5,8 @@ description: "Veja como o seu sorriso pode mudar. Conheça nossos casos de Facet
 google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600"
 canonical: "https://mdfrossard.com.br/l/transformacoes-do-sorriso/"
 og_image: "/images/lps/transformacao-com-facetas-de-ceramica.webp"
---- <!-- Imagem de Destaque / Caso Genérico --><style>
+---
+<!-- Imagem de Destaque / Caso Genérico --><style>
     :root {
         --gold: #c9a84c;
         --gold-light: #f7d16b;
@@ -121,7 +122,11 @@ og_image: "/images/lps/transformacao-com-facetas-de-ceramica.webp"
         display: block;
         border-radius: var(--radius);
         box-shadow: var(--shadow-lg);
-    }transition: transform 0.5s cubic-bezier(.16,1,.3,1);
+    }
+
+    .caso-img-wrap {
+        position: relative; border-radius: var(--radius); overflow: hidden;
+        box-shadow: var(--shadow-lg); transition: transform 0.5s cubic-bezier(.16,1,.3,1);
     }
     .caso-img-wrap:hover { transform: scale(1.02); }
     
