@@ -105,8 +105,12 @@ canonical: "https://mdfrossard.com.br/l/clinica_odontologica_no_rio_de_janeiro/"
     /* ── HERO ── */
     .hero { background: linear-gradient(160deg, #f5f2eb 0%, #ffffff 70%); padding: 52px 0 80px; position: relative; overflow: hidden; }
     .hero::before { content: ''; position: absolute; top: -120px; right: -120px; width: 480px; height: 480px; background: radial-gradient(circle, rgba(212,160,23,.1) 0%, transparent 70%); pointer-events: none; }
-    .hero-logo-wrap { display: flex; justify-content: center; margin-bottom: 48px; }
-    .hero-logo { max-width: 180px; width: 100%; height: auto; filter: brightness(1.1); }
+    .hero-logo-wrap {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 48px;
+        min-height: 92px; /* Reserva espaço para o logo 180px */
+    }.hero-logo { max-width: 180px; width: 100%; height: auto; filter: brightness(1.1); }
     .hero-body { display: flex; flex-direction: column; gap: 44px; align-items: center; text-align: center; }
     .hero-copy { flex: 1; text-align: center; padding-bottom: 8px; }
     .hero-copy h1 { font-family: 'Outfit', sans-serif; font-weight: 800; font-size: clamp(2.2rem, 5vw, 2.8rem); color: #0a0a0a; line-height: 1.08; margin-bottom: 20px; letter-spacing: -1.5px; text-align: center; }
@@ -121,7 +125,15 @@ canonical: "https://mdfrossard.com.br/l/clinica_odontologica_no_rio_de_janeiro/"
     .hero-phone::before { content: ''; display: inline-block; width: 18px; height: 18px; background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81 19.79 19.79 0 011.07 3.18 2 2 0 013.07 1h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L7.09 8.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z' stroke='%23c9870a' stroke-width='2' fill='none'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-size: contain; }
     .hero-phone:hover { color: var(--gold-dark); }
     .hero-img-wrap { flex: 1; width: 100%; max-width: 520px; }
-    .hero-img { width: 100%; height: auto; border-radius: var(--radius); box-shadow: var(--shadow-lg); }
+    .hero-img {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 650 / 975;
+        background: #f7f3ed;
+        display: block;
+        border-radius: var(--radius);
+        box-shadow: var(--shadow-lg);
+    }
 
     /* ── TESTIMONIALS ── */
     .testi { background: var(--darkest); padding: 96px 0; text-align: center; }

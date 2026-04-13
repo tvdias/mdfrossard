@@ -164,6 +164,7 @@ canonical: "https://mdfrossard.com.br/l/clinica_odontologica_na_barra_da_tijuca/
         display: flex;
         justify-content: center;
         margin-bottom: 48px;
+        min-height: 92px; /* Reserva espaço para o logo 180px */
     }
 
     .hero-logo { max-width: 180px; width: 100%; height: auto; filter: brightness(1.1); }
@@ -282,6 +283,9 @@ canonical: "https://mdfrossard.com.br/l/clinica_odontologica_na_barra_da_tijuca/
     .hero-img {
         width: 100%;
         height: auto;
+        aspect-ratio: 650 / 975;
+        background: #f7f3ed;
+        display: block;
         border-radius: var(--radius);
         box-shadow: var(--shadow-lg);
     }

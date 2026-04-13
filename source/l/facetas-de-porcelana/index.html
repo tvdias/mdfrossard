@@ -154,6 +154,7 @@ canonical: "https://mdfrossard.com.br/l/facetas-de-porcelana/"
         display: flex;
         justify-content: center;
         margin-bottom: 48px;
+        min-height: 92px; /* Reserva espaço para o logo 180px */
     }
 
     .hero-logo { max-width: 180px; width: 100%; height: auto; }
@@ -266,6 +267,9 @@ canonical: "https://mdfrossard.com.br/l/facetas-de-porcelana/"
     .hero-img {
         width: 100%;
         height: auto;
+        aspect-ratio: 660 / 440; /* Imagem facetas original */
+        background: #f7f3ed;
+        display: block;
         border-radius: var(--radius);
         box-shadow: var(--shadow-lg);
     }
