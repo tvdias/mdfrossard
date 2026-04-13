@@ -30,10 +30,15 @@
     <noscript><link href="https://fonts.googleapis.com/css2?family=<%= google_fonts %>&display=swap" rel="stylesheet"></noscript>
     <% } %>
     
+    <% if (typeof canonical !== 'undefined' && canonical) { %>
+    <link rel="canonical" href="<%= canonical %>">
+    <% } %>
+
     <%- open_graph({
       title: pageTitle,
       description: pageDescription,
-      url: page.url
+      url: page.url,
+      image: typeof og_image !== 'undefined' ? og_image : ''
     }) %>
 
     <%- include('_partial/gtm') %>
