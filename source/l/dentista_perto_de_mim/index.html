@@ -94,7 +94,7 @@ canonical: "https://mdfrossard.com.br/l/dentista_perto_de_mim/"
     .hero { background: linear-gradient(160deg, #f5f2eb 0%, #ffffff 70%); padding: 52px 0 80px; position: relative; overflow: hidden; }
     .hero::before { content: ''; position: absolute; top: -120px; right: -120px; width: 480px; height: 480px; background: radial-gradient(circle, rgba(212,160,23,.1) 0%, transparent 70%); pointer-events: none; }
     .hero-logo-wrap { display: flex; justify-content: center; margin-bottom: 48px; }
-    .hero-logo { max-width: 240px; width: 100%; height: auto; filter: brightness(1.1); }
+    .hero-logo { max-width: 180px; width: 100%; height: auto; filter: brightness(1.1); }
     .hero-body { display: flex; flex-direction: column; gap: 44px; align-items: center; text-align: center; }
     .hero-copy { flex: 1; text-align: center; padding-bottom: 8px; }
     .hero-copy h1 { font-family: 'Outfit', sans-serif; font-weight: 800; font-size: clamp(2.2rem, 5vw, 2.8rem); color: #0a0a0a; line-height: 1.08; margin-bottom: 20px; letter-spacing: -1.5px; text-align: center; }
@@ -228,6 +228,7 @@ canonical: "https://mdfrossard.com.br/l/dentista_perto_de_mim/"
     .sticky-wpp-icon { width: 22px; height: 22px; background: #25D366; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
 
     @media (min-width: 960px) {
+        .hero-logo { max-width: 240px; }
         .container { padding: 0 48px; }
         .hero-body { flex-direction: row; align-items: center; gap: 60px; text-align: left; }
         .hero-copy { text-align: left; display: flex; flex-direction: column; align-items: flex-start; flex: 1.4; }
