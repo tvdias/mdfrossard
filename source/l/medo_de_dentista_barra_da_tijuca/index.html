@@ -339,41 +339,50 @@ body {
     padding: 100px 0;
     background: var(--white);
 }
-.doutores-grid {
-    display: grid; grid-template-columns: 1fr; gap: 40px; align-items: center;
+.doutores-header {
+    text-align: center; max-width: 680px; margin: 0 auto 60px;
+}
+.doutores-header h2 {
+    font-size: clamp(2rem, 4vw, 2.8rem); font-weight: 800;
+    color: var(--dark); line-height: 1.18; letter-spacing: -1px; margin-bottom: 16px;
+}
+.doutores-header h2 span { color: var(--teal); }
+.doutores-header p {
+    font-family: 'Inter', sans-serif; font-size: 1.03rem;
+    color: var(--muted); line-height: 1.8; margin-bottom: 16px;
+}
+.doutores-cards {
+    display: grid; grid-template-columns: 1fr; gap: 28px;
 }
 .doutor-card {
-    display: flex; flex-direction: column;
+    display: grid; grid-template-columns: 160px 1fr; gap: 0;
     background: var(--cream); border-radius: var(--radius);
     overflow: hidden; box-shadow: var(--shadow-sm);
-    border: 1px solid rgba(0,0,0,.05);
+    border: 1px solid rgba(29,106,114,.1);
     transition: var(--transition);
+    align-items: stretch;
 }
 .doutor-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-md); }
 .doutor-img-wrap {
-    aspect-ratio: 3/4;
+    width: 160px; min-height: 200px;
     background: var(--teal-light);
-    overflow: hidden;
+    overflow: hidden; flex-shrink: 0;
 }
-.doutor-img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.doutor-info { padding: 28px 24px; }
-.doutor-nome { font-size: 1.25rem; font-weight: 800; color: var(--dark); margin-bottom: 4px; }
+.doutor-img { width: 100%; height: 100%; object-fit: cover; object-position: center top; display: block; }
+.doutor-info {
+    padding: 28px 28px;
+    display: flex; flex-direction: column; justify-content: center;
+}
+.doutor-nome { font-size: 1.3rem; font-weight: 800; color: var(--dark); margin-bottom: 4px; }
 .doutor-titulo { 
-    font-family: 'Inter', sans-serif; font-size: 0.83rem; color: var(--teal);
-    font-weight: 600; margin-bottom: 14px; text-transform: uppercase; letter-spacing: .5px;
+    font-family: 'Inter', sans-serif; font-size: 0.8rem; color: var(--teal);
+    font-weight: 700; margin-bottom: 12px; text-transform: uppercase; letter-spacing: .5px;
 }
 .doutor-desc {
     font-family: 'Inter', sans-serif; font-size: 0.93rem; color: var(--muted); line-height: 1.7;
 }
-
-.doutores-text h2 {
-    font-size: clamp(1.9rem, 3.5vw, 2.8rem); font-weight: 800;
-    color: var(--dark); line-height: 1.18; letter-spacing: -1px; margin-bottom: 20px;
-}
-.doutores-text h2 span { color: var(--teal); }
-.doutores-text p {
-    font-family: 'Inter', sans-serif; font-size: 1.03rem;
-    color: var(--muted); line-height: 1.8; margin-bottom: 16px;
+.doutores-cta {
+    text-align: center; margin-top: 44px;
 }
 
 /* ── TRANSFORMAÇÕES / GALLERY ─────────────────────────────────── */
@@ -588,11 +597,16 @@ body {
     .gallery-grid { grid-template-columns: 1fr 1fr 1fr; }
 }
 
+@media (min-width: 720px) {
+    .doutores-cards { grid-template-columns: 1fr 1fr; }
+}
+
 @media (min-width: 960px) {
     .hero { padding: 80px 0; }
     .hero-logo { height: 68px; }
     .empatia-grid { grid-template-columns: 1fr 1fr; }
-    .doutores-grid { grid-template-columns: 1fr 2fr; }
+    .doutor-card { grid-template-columns: 180px 1fr; }
+    .doutor-img-wrap { width: 180px; }
     .lp-footer-grid { grid-template-columns: repeat(3, 1fr); align-items: flex-start; }
     .lp-footer-bottom { flex-direction: row; justify-content: space-between; }
     .sticky-wpp { display: none; }
@@ -606,11 +620,12 @@ body {
         <!-- Logo -->
         <div class="hero-logo-wrap reveal">
             <a href="/">
-                <img src="/images/lps/logomdfrossardhero.webp"
+                <img src="/images/logo_branco.webp"
                      alt="MD Frossard Odontologia"
                      class="hero-logo"
                      width="240" height="68"
-                     loading="eager" decoding="async" fetchpriority="high">
+                     loading="eager" decoding="async" fetchpriority="high"
+                     style="filter: drop-shadow(0 2px 12px rgba(0,0,0,.35));">
             </a>
         </div>
 
@@ -800,65 +815,69 @@ body {
 </section>
 
 
-<!-- ═══ DOUTORES ═══ -->
+<!-- ═══ QUEM VAI TE ATENDER ═══ -->
 <section class="doutores">
     <div class="container">
-        <div class="doutores-grid">
-            <div style="display: flex; flex-direction: column; gap: 24px;">
-                <div class="doutor-card reveal">
-                    <div class="doutor-img-wrap">
-                        <img src="/images/lps/dr-davi-frossard.webp"
-                             alt="Dr. Davi Frossard — Dentista na Barra da Tijuca"
-                             class="doutor-img"
-                             loading="lazy" decoding="async"
-                             width="360" height="480">
-                    </div>
-                    <div class="doutor-info">
-                        <div class="doutor-nome">Dr. Davi Frossard</div>
-                        <div class="doutor-titulo">CRO 36193 · Implantodontia & Reabilitação</div>
-                        <p class="doutor-desc">Especialista em pacientes com ansiedade odontológica. Formado com foco em atendimento humanizado e técnicas de mínimo desconforto.</p>
-                    </div>
+
+        <!-- Cabeçalho centralizado -->
+        <div class="doutores-header reveal">
+            <span class="empatia-label">Quem vai te atender</span>
+            <h2>Dentistas que <span>ouvem primeiro,</span><br>tratam depois.</h2>
+            <p>
+                A MD Frossard é uma clínica de pai e filho com 38 anos de história na Barra da Tijuca.
+                Aprendemos que o maior obstáculo para a saúde bucal não é técnico — é emocional.
+                Por isso, construímos um atendimento feito para quem tem medo.
+            </p>
+            <p>
+                <strong>Se você tem entre 6 meses e 20 anos sem ir ao dentista por medo,</strong>
+                você está exatamente no lugar certo.
+            </p>
+        </div>
+
+        <!-- Cards dos doutores -->
+        <div class="doutores-cards">
+
+            <div class="doutor-card reveal">
+                <div class="doutor-img-wrap">
+                    <img src="/images/atendimento_davi_novo.webp"
+                         alt="Dr. Davi Frossard atendendo — Dentista na Barra da Tijuca"
+                         class="doutor-img"
+                         loading="lazy" decoding="async"
+                         width="360" height="480">
                 </div>
-                <div class="doutor-card reveal delay-1">
-                    <div class="doutor-img-wrap">
-                        <img src="/images/lps/dr-marcos-frossard.webp"
-                             alt="Dr. Marcos Frossard — Dentista na Barra da Tijuca"
-                             class="doutor-img"
-                             loading="lazy" decoding="async"
-                             width="360" height="480">
-                    </div>
-                    <div class="doutor-info">
-                        <div class="doutor-nome">Dr. Marcos Frossard</div>
-                        <div class="doutor-titulo">38 anos de experiência · Prótese & Estética</div>
-                        <p class="doutor-desc">Fundador da clínica, referência em odontologia restauradora no Rio. Atende pacientes com histórico de medo há décadas, sempre com escuta ativa.</p>
-                    </div>
+                <div class="doutor-info">
+                    <div class="doutor-nome">Dr. Davi Frossard</div>
+                    <div class="doutor-titulo">CRO 36193 · Implantodontia & Reabilitação</div>
+                    <p class="doutor-desc">Especialista em pacientes com ansiedade odontológica, com foco em atendimento humanizado e técnicas indolores. Acredita que explicar é parte do tratamento.</p>
                 </div>
             </div>
 
-            <div class="doutores-text reveal delay-2">
-                <span class="empatia-label">Quem vai te atender</span>
-                <h2>Dentistas que<br><span>ouvem primeiro,</span><br>tratam depois.</h2>
-                <p>
-                    A MD Frossard é uma clínica de pai e filho com 38 anos de história na Barra da Tijuca.
-                    Em todo esse tempo, aprendemos que o maior obstáculo para a saúde bucal não é técnico —
-                    é emocional.
-                </p>
-                <p>
-                    Por isso construímos um atendimento pensado para pessoas que têm medo. Que precisam de
-                    mais tempo, mais explicações, mais paciência. Que querem ser tratadas como adultos, não
-                    apressadas como números.
-                </p>
-                <p>
-                    <strong>Se você tem entre 6 meses e 20 anos sem ir ao dentista por medo,</strong>
-                    você está exatamente no lugar certo.
-                </p>
-                <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Olá!%20Tenho%20medo%20de%20dentista%20e%20gostaria%20de%20agendar%20uma%20avaliação."
-                   onclick="return gtagSendEventWhatsapp(this.href)"
-                   class="btn btn-teal" style="margin-top: 20px;">
-                    Agendar minha avaliação
-                </a>
+            <div class="doutor-card reveal delay-1">
+                <div class="doutor-img-wrap">
+                    <img src="/images/lps/dr-marcos-frossard.webp"
+                         alt="Dr. Marcos Frossard — Fundador da MD Frossard Odontologia"
+                         class="doutor-img"
+                         loading="lazy" decoding="async"
+                         width="360" height="480">
+                </div>
+                <div class="doutor-info">
+                    <div class="doutor-nome">Dr. Marcos Frossard</div>
+                    <div class="doutor-titulo">38 anos de experiência · Prótese & Estética</div>
+                    <p class="doutor-desc">Fundador da clínica, referência em odontologia restauradora no Rio. Atende pacientes com histórico de medo há décadas, sempre com escuta ativa e sem julgamento.</p>
+                </div>
             </div>
+
         </div>
+
+        <div class="doutores-cta reveal">
+            <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Olá!%20Tenho%20medo%20de%20dentista%20e%20gostaria%20de%20conhecer%20o%20atendimento%20de%20vocês."
+               onclick="return gtagSendEventWhatsapp(this.href)"
+               class="btn btn-teal">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 01-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 012.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>
+                Agendar minha avaliação com o Dr. Davi ou Dr. Marcos
+            </a>
+        </div>
+
     </div>
 </section>
 
