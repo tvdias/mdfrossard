@@ -352,25 +352,24 @@ body {
     color: var(--muted); line-height: 1.8; margin-bottom: 16px;
 }
 .doutores-cards {
-    display: grid; grid-template-columns: 1fr; gap: 28px;
+    display: flex; flex-direction: column; gap: 28px; max-width: 860px; margin: 0 auto;
 }
 .doutor-card {
-    display: grid; grid-template-columns: 160px 1fr; gap: 0;
+    display: flex; flex-direction: column;
     background: var(--cream); border-radius: var(--radius);
     overflow: hidden; box-shadow: var(--shadow-sm);
     border: 1px solid rgba(29,106,114,.1);
     transition: var(--transition);
-    align-items: stretch;
 }
 .doutor-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-md); }
 .doutor-img-wrap {
-    width: 160px; min-height: 200px;
+    width: 100%; height: 320px;
     background: var(--teal-light);
     overflow: hidden; flex-shrink: 0;
 }
-.doutor-img { width: 100%; height: 100%; object-fit: cover; object-position: center top; display: block; }
+.doutor-img { width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; }
 .doutor-info {
-    padding: 28px 28px;
+    padding: 28px;
     display: flex; flex-direction: column; justify-content: center;
 }
 .doutor-nome { font-size: 1.3rem; font-weight: 800; color: var(--dark); margin-bottom: 4px; }
@@ -598,15 +597,15 @@ body {
 }
 
 @media (min-width: 720px) {
-    .doutores-cards { grid-template-columns: 1fr 1fr; }
+    .doutor-card { flex-direction: row; align-items: stretch; }
+    .doutor-img-wrap { width: 240px; height: auto; }
+    .doutor-info { padding: 36px; }
 }
 
 @media (min-width: 960px) {
     .hero { padding: 80px 0; }
     .hero-logo { height: 68px; }
     .empatia-grid { grid-template-columns: 1fr 1fr; }
-    .doutor-card { grid-template-columns: 180px 1fr; }
-    .doutor-img-wrap { width: 180px; }
     .lp-footer-grid { grid-template-columns: repeat(3, 1fr); align-items: flex-start; }
     .lp-footer-bottom { flex-direction: row; justify-content: space-between; }
     .sticky-wpp { display: none; }
