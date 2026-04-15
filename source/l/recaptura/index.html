@@ -611,6 +611,26 @@ a{text-decoration:none}
   .footer-tels{align-items:flex-start}
   .sticky-wpp{display:none}
 }
+
+/* PATCH: Adição Responsiva Específica das Imagens Rockty para LP Recaptura */
+.hero-photo {
+  object-fit: contain !important;
+  object-position: center !important;
+}
+.galeria-img {
+  object-fit: contain !important;
+  object-position: center !important;
+  background: transparent !important;
+}
+
+@media(min-width: 900px) {
+  .hero-photo { max-height: 500px; display: block; margin: 0 auto; width: 100%; }
+  .galeria-img { aspect-ratio: 6/5 !important; display: block; margin: 0 auto; width: 100%; }
+}
+@media(max-width: 899px) {
+  .hero-photo { height: auto !important; aspect-ratio: 3/2 !important; width: 100%; }
+  .galeria-img { height: auto !important; aspect-ratio: 6/5 !important; width: 100%; margin-bottom: 8px;}
+}
 </style>
 
 
@@ -686,7 +706,6 @@ a{text-decoration:none}
       <img src="/images/lps/recaptura/hero.webp"
            alt="Transforme seu Sorriso — Clínica MD Frossard"
            class="hero-photo"
-           style="object-fit: contain; object-position: center; width: 100%; max-height: 500px; display: block; margin: 0 auto;"
            loading="eager" decoding="async" fetchpriority="high"
            width="1200" height="800">
     </div>
@@ -891,7 +910,7 @@ a{text-decoration:none}
       <div class="galeria-card rv">
         <img src="/images/lps/recaptura/galeria_1.webp"
              alt="Grandes Mudanças"
-             class="galeria-img" style="height: 260px; width: 100%; object-fit: contain; object-position: center; border-radius: 8px;" loading="lazy" decoding="async" width="517" height="430">
+             class="galeria-img" loading="lazy" decoding="async" width="517" height="430">
         <div class="galeria-cap">
           <span>Reabilitação</span>
           <h3>Grandes Mudanças</h3>
@@ -900,7 +919,7 @@ a{text-decoration:none}
       <div class="galeria-card rv d1">
         <img src="/images/lps/recaptura/galeria_2.webp"
              alt="Mudanças Discretas"
-             class="galeria-img" style="height: 260px; width: 100%; object-fit: contain; object-position: center; border-radius: 8px;" loading="lazy" decoding="async" width="800" height="672">
+             class="galeria-img" loading="lazy" decoding="async" width="800" height="672">
         <div class="galeria-cap">
           <span>Estética</span>
           <h3>Mudanças discretas</h3>
@@ -909,7 +928,7 @@ a{text-decoration:none}
       <div class="galeria-card rv d2">
         <img src="/images/lps/recaptura/galeria_3.webp"
              alt="Mudanças de Vida"
-             class="galeria-img" style="height: 260px; width: 100%; object-fit: contain; object-position: center; border-radius: 8px;" loading="lazy" decoding="async" width="800" height="672">
+             class="galeria-img" loading="lazy" decoding="async" width="800" height="672">
         <div class="galeria-cap">
           <span>Transformação</span>
           <h3>Mudanças de vida</h3>
