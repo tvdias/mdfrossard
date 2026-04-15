@@ -233,6 +233,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "source/admin": "admin" });
   eleventyConfig.addPassthroughCopy({ "source/robots.txt": "robots.txt" });
   eleventyConfig.addPassthroughCopy({ "source/_redirects": "_redirects" });
+  eleventyConfig.addPassthroughCopy({ "source/_headers": "_headers" });
   for (const assetGlob of contentAssetGlobs) {
     eleventyConfig.addPassthroughCopy(assetGlob);
   }
