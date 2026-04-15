@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <% var pageTitle = typeof title !== 'undefined' ? title : ''; %>
-    <title><%= pageTitle ? (pageTitle + " | " + config.title) : config.title %></title>
+    <title><%= pageTitle || config.title %></title>
     
     <% var pageDescription = typeof description !== 'undefined' ? description : config.description; %>
     <meta name="description" content="<%= pageDescription %>">
