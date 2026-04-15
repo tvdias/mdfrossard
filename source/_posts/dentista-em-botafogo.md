@@ -70,4 +70,39 @@ Nosso atendimento é individual e portanto com hora marcada e sem atraso. Caso n
 
 Caso você precise de um [dentista na Barra da Tijuca](/dentista-barra-da-tijuca/), também possuimos uma unidade nesse bairro. Nela contamos com toda a infra-estrutura que você precisa. 
 
-Att, MD frossard Odontologia
+
+
+## Tratamentos Disponíveis na Clínica de Botafogo
+
+Na nossa unidade de Botafogo, realizamos uma ampla gama de tratamentos odontológicos com a mesma qualidade que nos tornou referência no Rio de Janeiro há mais de 38 anos:
+
+**Implante Dentário:** Recolocamos dentes perdidos de forma definitiva e com aparência natural, utilizando implantes de titânio de alta performance. Ideal para quem perdeu um ou mais dentes e quer recuperar a mastigação e o sorriso.
+
+**Facetas de Porcelana e Lentes de Contato Dental:** Para quem quer transformar o sorriso com resultado natural e duradouro. Corrigimos cor, forma e tamanho dos dentes em poucas sessões.
+
+**Ortodontia:** Alinhamento dos dentes com aparelhos fixos metálicos, estéticos ou alinhadores transparentes. Tratamos crianças, adolescentes e adultos.
+
+**Periodontia:** Tratamento de gengiva inflamada, gengivite e doença periodontal. A saúde das gengivas é essencial para a longevidade dos dentes.
+
+**Tratamento de Canal (Endodontia):** Salve seu dente sem dor. Nossos procedimentos de canal são realizados com anestesia eficaz e tecnologia de precisão.
+
+## Como Chegar à Nossa Clínica em Botafogo
+
+Nossa unidade de Botafogo fica na **Rua Marques, 15**, ao lado da Cobal do Humaitá, em frente ao Largo dos Leões. O endereço é de fácil acesso tanto de carro quanto de transporte público.
+
+- **De metrô:** Estação Botafogo (Linha 1 — Orange), a aproximadamente 10 minutos a pé ou de táxi
+- **De ônibus:** Diversas linhas passam pela Rua Voluntários da Pátria e pela Rua Humaitá
+- **De carro:** Estacionamento disponível na Rua Marques e redondezas
+
+## Perguntas Frequentes sobre nossa Clínica em Botafogo
+
+**Vocês atendem por convênio em Botafogo?**
+Nosso atendimento é particular em ambas as unidades. Trabalhamos com pagamento parcelado e fornecemos documentação para reembolso junto ao seu plano odontológico, quando aplicável.
+
+**Qual o horário de atendimento?**
+Atendemos de segunda a sexta, das 8h às 18h. O agendamento é feito pelo telefone (21) 3217-0430 ou pelo WhatsApp (21) 97663-7803.
+
+**Preciso marcar consulta ou posso ir sem agendamento?**
+O atendimento é sempre com hora marcada para garantir pontualidade e dedicação exclusiva ao seu caso. Entre em contato para agendar com antecedência.
+
+Att, MD Frossard Odontologia

@@ -66,6 +66,38 @@ Como tratamentos possuímos tratamentos:
 * Tratamento de canal; 
 * Entre outros.   
 
-Att, 
+
+
+## Por que a MD Frossard é referência em odontologia no Rio de Janeiro
+
+Com 38 anos de atuação contínua no Rio de Janeiro, a MD Frossard Odontologia construiu uma reputação baseada em resultados consistentes e relacionamentos duradouros com os pacientes. Muitas famílias passam o atendimento de geração em geração — pais que começaram a tratar com o Dr. Marcos Frossard hoje levam os filhos para se consultar com o Dr. Davi Frossard.
+
+Nossa filosofia de atendimento está centrada em três pilares: **relacionamento, confiança e pontualidade.** Acreditamos que um tratamento odontológico bem-sucedido começa antes mesmo de sentar na cadeira — começa no primeiro contato, na forma como explicamos cada etapa do diagnóstico e do plano de tratamento.
+
+## Especialidades disponíveis nas duas unidades no Rio de Janeiro
+
+Tanto a unidade da **Barra da Tijuca** quanto a de **Botafogo** oferecem atendimento completo nas seguintes especialidades:
+
+- **Implantodontia** — reposição de dentes perdidos com implantes de titânio de alta qualidade
+- **Estética dental** — facetas de porcelana, lentes de contato dental e clareamento
+- **Prótese dentária** — coroas fixas, próteses sobre implantes e próteses removíveis
+- **Ortodontia** — aparelhos fixos, estéticos e alinhadores transparentes
+- **Periodontia** — tratamento de gengiva e prevenção de perda óssea
+- **Endodontia** — tratamento de canal com tecnologia de precisão
+
+## Tecnologia iTero® disponível no Rio de Janeiro
+
+Nossa clínica na Barra da Tijuca conta com o **scanner iTero®**, um equipamento de digitalização 3D que substitui as moldagens convencionais com gel. Com ele, obtemos um mapeamento preciso de toda a boca em minutos — sem desconforto, com mais precisão e com a possibilidade de visualizar o resultado do tratamento ainda na consulta.
+
+## Como agendar sua consulta
+
+Para agendar uma consulta com um dentista no Rio de Janeiro, entre em contato pela nossa equipe. Respondemos pelo WhatsApp com agilidade e ajudamos você a escolher o horário e a unidade mais conveniente.
+
+- 📞 **(21) 3217-0430**
+- 💬 **[WhatsApp (21) 97663-7803](https://api.whatsapp.com/send?phone=5521976637803)**
+- 📍 Barra da Tijuca: Shopping Città America — Av. das Américas, 700, Sala 143
+- 📍 Botafogo: Rua Marques, 15 — ao lado da Cobal do Humaitá
+
+Att,
 
 MD Frossard Odontologia
