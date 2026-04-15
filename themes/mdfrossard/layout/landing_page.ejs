@@ -34,6 +34,10 @@
     <link rel="canonical" href="<%= canonical %>">
     <% } %>
 
+    <% if (typeof hero_preload !== 'undefined' && hero_preload) { %>
+    <link rel="preload" as="image" href="<%= hero_preload %>" fetchpriority="high" type="image/webp">
+    <% } %>
+
     <%- open_graph({
       title: pageTitle,
       description: pageDescription,
