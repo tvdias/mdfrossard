@@ -1,0 +1,917 @@
+<html><head><script type="58f376b27d6e8729e04d6deb-text/javascript">window.mainHasBeenDownloaded = false</script><script type="58f376b27d6e8729e04d6deb-text/javascript">window.sessionId = 'rck.' + Math.random().toString(36).substr(2, 9) + '.' + Date.now();</script><style type="text/css">
+html {
+  box-sizing: border-box;
+  -ms-overflow-style: scrollbar;
+  font-family: sans-serif;
+}
+body{
+    margin:0;
+    padding:0
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+.container-fluid {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col,
+.col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm,
+.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md,
+.col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg,
+.col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl,
+.col-xl-auto {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.col {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
+}
+
+.col-auto {
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  width: auto;
+  max-width: 100%;
+}
+
+.col-1 {
+  -ms-flex: 0 0 8.333333%;
+  flex: 0 0 8.333333%;
+  max-width: 8.333333%;
+}
+
+.col-2 {
+  -ms-flex: 0 0 16.666667%;
+  flex: 0 0 16.666667%;
+  max-width: 16.666667%;
+}
+
+.col-3 {
+  -ms-flex: 0 0 25%;
+  flex: 0 0 25%;
+  max-width: 25%;
+}
+
+.col-4 {
+  -ms-flex: 0 0 33.333333%;
+  flex: 0 0 33.333333%;
+  max-width: 33.333333%;
+}
+
+.col-5 {
+  -ms-flex: 0 0 41.666667%;
+  flex: 0 0 41.666667%;
+  max-width: 41.666667%;
+}
+
+.col-6 {
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+.col-7 {
+  -ms-flex: 0 0 58.333333%;
+  flex: 0 0 58.333333%;
+  max-width: 58.333333%;
+}
+
+.col-8 {
+  -ms-flex: 0 0 66.666667%;
+  flex: 0 0 66.666667%;
+  max-width: 66.666667%;
+}
+
+.col-9 {
+  -ms-flex: 0 0 75%;
+  flex: 0 0 75%;
+  max-width: 75%;
+}
+
+.col-10 {
+  -ms-flex: 0 0 83.333333%;
+  flex: 0 0 83.333333%;
+  max-width: 83.333333%;
+}
+
+.col-11 {
+  -ms-flex: 0 0 91.666667%;
+  flex: 0 0 91.666667%;
+  max-width: 91.666667%;
+}
+
+.col-12 {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+@media (min-width: 576px) {
+  .col-sm {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+  }
+  .col-sm-auto {
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: auto;
+    max-width: 100%;
+  }
+  .col-sm-1 {
+    -ms-flex: 0 0 8.333333%;
+    flex: 0 0 8.333333%;
+    max-width: 8.333333%;
+  }
+  .col-sm-2 {
+    -ms-flex: 0 0 16.666667%;
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%;
+  }
+  .col-sm-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+  .col-sm-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+  .col-sm-5 {
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+  }
+  .col-sm-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .col-sm-7 {
+    -ms-flex: 0 0 58.333333%;
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+  }
+  .col-sm-8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+  .col-sm-9 {
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+  }
+  .col-sm-10 {
+    -ms-flex: 0 0 83.333333%;
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+  }
+  .col-sm-11 {
+    -ms-flex: 0 0 91.666667%;
+    flex: 0 0 91.666667%;
+    max-width: 91.666667%;
+  }
+  .col-sm-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .order-sm-first {
+    -ms-flex-order: -1;
+    order: -1;
+  }
+  .order-sm-last {
+    -ms-flex-order: 13;
+    order: 13;
+  }
+  .order-sm-0 {
+    -ms-flex-order: 0;
+    order: 0;
+  }
+  .order-sm-1 {
+    -ms-flex-order: 1;
+    order: 1;
+  }
+  .order-sm-2 {
+    -ms-flex-order: 2;
+    order: 2;
+  }
+  .order-sm-3 {
+    -ms-flex-order: 3;
+    order: 3;
+  }
+  .order-sm-4 {
+    -ms-flex-order: 4;
+    order: 4;
+  }
+  .order-sm-5 {
+    -ms-flex-order: 5;
+    order: 5;
+  }
+  .order-sm-6 {
+    -ms-flex-order: 6;
+    order: 6;
+  }
+  .order-sm-7 {
+    -ms-flex-order: 7;
+    order: 7;
+  }
+  .order-sm-8 {
+    -ms-flex-order: 8;
+    order: 8;
+  }
+  .order-sm-9 {
+    -ms-flex-order: 9;
+    order: 9;
+  }
+  .order-sm-10 {
+    -ms-flex-order: 10;
+    order: 10;
+  }
+  .order-sm-11 {
+    -ms-flex-order: 11;
+    order: 11;
+  }
+  .order-sm-12 {
+    -ms-flex-order: 12;
+    order: 12;
+  }
+  .offset-sm-0 {
+    margin-left: 0;
+  }
+  .offset-sm-1 {
+    margin-left: 8.333333%;
+  }
+  .offset-sm-2 {
+    margin-left: 16.666667%;
+  }
+  .offset-sm-3 {
+    margin-left: 25%;
+  }
+  .offset-sm-4 {
+    margin-left: 33.333333%;
+  }
+  .offset-sm-5 {
+    margin-left: 41.666667%;
+  }
+  .offset-sm-6 {
+    margin-left: 50%;
+  }
+  .offset-sm-7 {
+    margin-left: 58.333333%;
+  }
+  .offset-sm-8 {
+    margin-left: 66.666667%;
+  }
+  .offset-sm-9 {
+    margin-left: 75%;
+  }
+  .offset-sm-10 {
+    margin-left: 83.333333%;
+  }
+  .offset-sm-11 {
+    margin-left: 91.666667%;
+  }
+}
+
+@media (min-width: 768px) {
+  .col-md {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+  }
+  .col-md-auto {
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    width: auto;
+    max-width: 100%;
+  }
+  .col-md-1 {
+    -ms-flex: 0 0 8.333333%;
+    flex: 0 0 8.333333%;
+    max-width: 8.333333%;
+  }
+  .col-md-2 {
+    -ms-flex: 0 0 16.666667%;
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%;
+  }
+  .col-md-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+  .col-md-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+  .col-md-5 {
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+  }
+  .col-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .col-md-7 {
+    -ms-flex: 0 0 58.333333%;
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+  }
+  .col-md-8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+  .col-md-9 {
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+  }
+  .col-md-10 {
+    -ms-flex: 0 0 83.333333%;
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+  }
+  .col-md-11 {
+    -ms-flex: 0 0 91.666667%;
+    flex: 0 0 91.666667%;
+    max-width: 91.666667%;
+  }
+  .col-md-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+
+.form-control {
+  display: block;
+  width: 100%;
+  height: calc(2.25rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+  .form-control {
+    transition: none;
+  }
+}
+
+.form-control::-ms-expand {
+  background-color: transparent;
+  border: 0;
+}
+
+.form-control:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.form-control::-webkit-input-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control::-moz-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control:-ms-input-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control::-ms-input-placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control::placeholder {
+  color: #6c757d;
+  opacity: 1;
+}
+
+.form-control:disabled, .form-control[readonly] {
+  background-color: #e9ecef;
+  opacity: 1;
+}
+
+.btn {
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: normal;
+  text-align: center;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+background-color: transparent;border: 1px solid transparent;
+}
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn.active.focus {
+ outline:0;
+}
+.btn-light{
+  color:#212529;
+  background-color:#f8f9fa;
+  border-color:#f8f9fa
+}
+.btn-light:hover{
+  color:#212529;
+  background-color:#e2e6ea;
+  border-color:#dae0e5
+}
+.btn-light.focus,
+.btn-light:focus{
+  box-shadow:0 0 0 .2rem rgba(216,217,219,.5)
+}
+.btn-light.disabled,.btn-light:disabled{
+  color:#212529;
+  background-color:#f8f9fa;
+  border-color:#f8f9fa
+}
+
+.embed-responsive{
+  position:relative;
+  display:block;
+  width:100%;
+  padding:0;
+  overflow:hidden
+}
+.embed-responsive::before{
+  display:block;
+  content:""
+}
+.embed-responsive .embed-responsive-item,
+.embed-responsive embed,
+.embed-responsive iframe,
+.embed-responsive object,
+.embed-responsive video{
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  width:100%;
+  height:100%;
+  border:0
+}
+.embed-responsive-21by9::before{
+  padding-top:42.857143%
+}
+.embed-responsive-16by9::before{
+  padding-top:56.25%
+}
+.embed-responsive-3by4::before{
+  padding-top:133.333333%
+}
+.embed-responsive-1by1::before{
+  padding-top:100%
+}
+.img-fluid{max-width:100%;height:auto}
+.form-text{display:block;margin-top:.25rem}
+.text-muted{color:#6c757d!important}
+.was-validated .form-control:valid{
+  border-color:#28a745;
+  padding-right:2.25rem;
+  background-repeat:no-repeat;
+  background-position:center right calc(2.25rem / 4);
+  background-size:calc(2.25rem / 2) calc(2.25rem / 2);
+  background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%2328a745' d='M2.3 6.73L.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e")
+}
+.form-control.is-valid:focus,.was-validated .form-control:valid:focus{
+  border-color:#28a745;
+  box-shadow:0 0 0 .2rem rgba(40,167,69,.25)}
+  .form-control.is-valid~.valid-feedback,
+  .form-control.is-valid~.valid-tooltip,
+  .was-validated .form-control:valid~.valid-feedback,
+  .was-validated .form-control:valid~.valid-tooltip{
+    display:block
+  }
+  .was-validated textarea.form-control:valid,textarea.form-control.is-valid{
+    padding-right:2.25rem;
+    background-position:top calc(2.25rem / 4) right calc(2.25rem / 4)
+  }
+  .form-control.is-invalid,.was-validated .form-control:invalid{
+    border-color:#dc3545;
+    padding-right:2.25rem;
+    background-repeat:no-repeat;
+    background-position:center right calc(2.25rem / 4);
+    background-size:calc(2.25rem / 2) calc(2.25rem / 2);
+    background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23dc3545' viewBox='-2 -2 7 7'%3e%3cpath stroke='%23d9534f' d='M0 0l3 3m0-3L0 3'/%3e%3ccircle r='.5'/%3e%3ccircle cx='3' r='.5'/%3e%3ccircle cy='3' r='.5'/%3e%3ccircle cx='3' cy='3' r='.5'/%3e%3c/svg%3E")
+  }
+  .form-control.is-invalid:focus,.was-validated .form-control:invalid:focus{
+      border-color:#dc3545;
+      box-shadow:0 0 0 .2rem rgba(220,53,69,.25)
+  }
+  .form-control.is-invalid~.invalid-feedback,.form-control.is-invalid~.invalid-tooltip,.was-validated .form-control:invalid~.invalid-feedback,.was-validated .form-control:invalid~.invalid-tooltip{
+    display:block
+  }
+  .was-validated textarea.form-control:invalid,textarea.form-control.is-invalid{
+    padding-right:2.25rem;
+    background-position:top calc(2.25rem / 4) right calc(2.25rem / 4)
+  }
+.form-check {
+  position:relative;
+  display:block;
+  padding-left:1.25rem
+}
+.form-check-input {
+  position:absolute;
+  margin-top:.1rem;
+  margin-left:-1.25rem
+}
+.form-check-input:disabled~.form-check-label {
+  color:#6c757d
+}
+.form-check-label {
+  margin-bottom:0
+}
+.form-check-inline {
+  display:-webkit-inline-box;
+  display:-ms-inline-flexbox;
+  display:inline-flex;
+  -webkit-box-align:center;
+  -ms-flex-align:center;
+  align-items:center;
+  padding-left:0;
+  margin-right:.75rem
+}
+.form-check-inline .form-check-input {
+  position:static;
+  margin-top:0;
+  margin-right:.3125rem;
+  margin-left:0
+}
+.form-check-input.is-valid~.valid-feedback,.form-check-input.is-valid~.valid-tooltip,.was-validated .form-check-input:valid~.valid-feedback,.was-validated .form-check-input:valid~.valid-tooltip {
+  display:block
+}
+.form-check-input.is-invalid~.form-check-label,.was-validated .form-check-input:invalid~.form-check-label {
+  color:#dc3545
+}
+.form-check-input.is-invalid~.invalid-feedback,.form-check-input.is-invalid~.invalid-tooltip,.was-validated .form-check-input:invalid~.invalid-feedback,.was-validated .form-check-input:invalid~.invalid-tooltip {
+  display:block
+}
+.form-check {
+  width:100%
+}
+</style><style data-styled="fNZDHe bOlifQ dCKGYr fnusIO fnkbNl hwhdQ gYNPLT ldrLyc ZRIrN iQcxxC hpOrnk hPpAaC hFtuVi iliKCr jJvxj kExSaf beyfLP lkSAZR hpMNbG kKsjaG LdWqp coqzLd iowPFW UiqkV iQpCEX bllBsi cblSkX kLVsrk bdywgx gpqZLC iIDVHT jEMDPx kYcvsD jJYiYK fKAuZm kKbQmA gQfgFl dwtFiO dzdvvu gChKGU hYoSzO dmQSqL jwXpmn iyTqsN jjHZOH feLUgK jAIaJa gaqGZe bLqdEy kTFkFv eNaNfK cnFusj iKuXRN cTcbxo hCojrU dVfZjf cvNPei iFAXzG kyMkLa gVVOJI fgpMRG jywlyZ gqWGou isWpMy iJWSZr lbiDhu YtfBW kPGqBt jUUfSt jFIVpF cXRuTq lnGoVc gZOTnz bKxeuc" data-styled-version="4.1.3">
+/* sc-component-id: sc-global-2256131066 */
+body{font-family:Roboto;}
+/* sc-component-id: sc-global-2938812482 */
+#react-app{width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:column;-ms-flex-flow:column;flex-flow:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;} html{-webkit-scroll-behavior:smooth;-moz-scroll-behavior:smooth;-ms-scroll-behavior:smooth;scroll-behavior:smooth;font-family:sans-serif;color:#212529;} body{margin:0px;} form{margin-bottom:0;} b,strong{font-weight:bold;} p{margin:0;} ul{margin-block-end:0;margin-block-start:0;} .embed-responsive .embed-responsive-item,.embed-responsive embed,.embed-responsive iframe,.embed-responsive object,.embed-responsive video{top:2px;} .fb-comments{width:100% !important;height:100% !important;} .fb-comments iframe{border:0;display:block;margin:0 auto;width:100% !important;height:100% !important;} .hidden{display:none;}
+/* sc-component-id: sc-dxgOiQ */
+.kKbQmA{display:block;text-align:center;max-width:none;z-index:1;} @media (max-width:820px) and (min-width:600px){.kKbQmA{display:block;max-width:none;z-index:1;}} @media (max-width:479px){.kKbQmA{display:block;max-width:none;z-index:1;}}.gQfgFl{display:block;text-align:center;margin-top:20px;margin-left:0;max-width:none;z-index:1;} @media (max-width:820px) and (min-width:600px){.gQfgFl{display:block;max-width:none;z-index:1;}} @media (max-width:479px){.gQfgFl{display:block;margin-top:20px;margin-left:0;max-width:none;z-index:1;}}.dwtFiO{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin-top:11px;margin-left:0;z-index:1;} @media (max-width:820px) and (min-width:600px){.dwtFiO{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;z-index:1;}} @media (max-width:479px){.dwtFiO{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;z-index:1;}}.dzdvvu{width:85%;border:2px solid rgba(33,37,41,1);border-radius:0px 0px 0px 0px;} @media (max-width:820px) and (min-width:600px){} @media (max-width:479px){.dzdvvu{width:98%;}}.gChKGU{display:block;text-align:center;margin-top:22px;margin-left:0;max-width:none;z-index:1;} @media (max-width:820px) and (min-width:600px){.gChKGU{display:block;max-width:none;z-index:1;}} @media (max-width:479px){.gChKGU{display:block;text-align:center;max-width:none;z-index:1;}}
+/* sc-component-id: sc-ckVGcZ */
+.feLUgK{font-size:27px;font-weight:600;color:#212529;line-height:38px;font-family:Adamina;padding-top:5px;padding-right:20px;padding-bottom:5px;padding-left:20px;text-align:center;-webkit-text-decoration:none;text-decoration:none;cursor:auto;width:100%;margin-top:0;margin-bottom:0;} @media (max-width:820px) and (min-width:600px){.feLUgK{line-height:1.1;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.feLUgK{font-size:21px;line-height:33px;width:100%;padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px;cursor:auto;margin-bottom:0;}}.jAIaJa{font-size:35px;font-weight:600;color:#212529;text-align:center;-webkit-text-decoration:none;text-decoration:none;line-height:1.1;cursor:auto;width:100%;margin-top:0;margin-bottom:0;} @media (max-width:820px) and (min-width:600px){.jAIaJa{line-height:1.1;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.jAIaJa{font-size:30px;line-height:1.1;cursor:auto;width:100%;margin-bottom:0;}}.gaqGZe{font-size:30px;font-weight:600;color:#212529;padding-top:5px;padding-right:20px;padding-bottom:5px;padding-left:20px;text-align:center;-webkit-text-decoration:none;text-decoration:none;line-height:1.1;cursor:auto;width:100%;margin-top:0;margin-bottom:0;} @media (max-width:820px) and (min-width:600px){.gaqGZe{line-height:1.1;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.gaqGZe{font-size:26px;padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px;line-height:1.1;cursor:auto;width:100%;margin-bottom:0;}}.bLqdEy{font-size:35px;font-weight:600;color:#212529;text-align:center;-webkit-text-decoration:none;text-decoration:none;line-height:1.1;cursor:auto;width:100%;margin-top:0;margin-bottom:0;} @media (max-width:820px) and (min-width:600px){.bLqdEy{line-height:1.1;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.bLqdEy{line-height:1.1;cursor:auto;width:100%;margin-bottom:0;}}.kTFkFv{font-size:26px;font-weight:600;color:#212529;text-align:center;-webkit-text-decoration:none;text-decoration:none;line-height:1.1;cursor:auto;width:100%;margin-top:0;margin-bottom:0;} @media (max-width:820px) and (min-width:600px){.kTFkFv{line-height:1.1;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.kTFkFv{line-height:1.1;cursor:auto;width:100%;margin-bottom:0;}}.eNaNfK{font-size:35px;font-weight:600;color:#212529;text-align:center;-webkit-text-decoration:none;text-decoration:none;line-height:1.1;cursor:auto;width:100%;margin-top:0;margin-bottom:0;} @media (max-width:820px) and (min-width:600px){.eNaNfK{line-height:1.1;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.eNaNfK{font-size:35px;line-height:1.1;cursor:auto;width:100%;margin-bottom:0;}}.cnFusj{font-size:45px;font-weight:600;color:#212529;text-align:center;-webkit-text-decoration:none;text-decoration:none;line-height:1.1;cursor:auto;width:100%;margin-top:0;margin-bottom:0;} @media (max-width:820px) and (min-width:600px){.cnFusj{line-height:1.1;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.cnFusj{font-size:37px;line-height:1.1;cursor:auto;width:100%;margin-bottom:0;}}
+/* sc-component-id: sc-jKJlTe */
+.kLVsrk{font-size:15px;color:#212529;font-family:Roboto;font-weight:400;text-align:center;margin-top:7px;margin-right:0;margin-bottom:0;margin-left:0;-webkit-text-decoration:none;text-decoration:none;line-height:1.5;cursor:auto;width:100%;} @media (max-width:820px) and (min-width:600px){.kLVsrk{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.kLVsrk{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}}.bdywgx{font-size:23px;color:#212529;margin-top:15px;margin-right:0;margin-bottom:0;margin-left:0;line-height:29px;font-family:Adamina;padding-top:5px;padding-right:50px;padding-bottom:5px;padding-left:50px;text-align:center;-webkit-text-decoration:none;text-decoration:none;cursor:auto;width:100%;} @media (max-width:820px) and (min-width:600px){.bdywgx{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.bdywgx{font-size:19px;margin-top:2px;margin-right:0;margin-bottom:0;margin-left:0;padding-top:5px;padding-right:24px;padding-bottom:5px;padding-left:24px;line-height:1.5;cursor:auto;width:100%;}}.gpqZLC{font-size:23px;color:#212529;margin-top:20px;margin-right:0;margin-bottom:0;margin-left:0;font-weight:500;text-align:center;-webkit-text-decoration:none;text-decoration:none;line-height:1.5;cursor:auto;width:100%;} @media (max-width:820px) and (min-width:600px){.gpqZLC{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.gpqZLC{font-size:20px;line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}}.iIDVHT{font-size:15px;color:#212529;margin-top:10px;margin-right:0;margin-bottom:0;margin-left:0;text-align:center;-webkit-text-decoration:none;text-decoration:none;line-height:1.5;cursor:auto;width:100%;} @media (max-width:820px) and (min-width:600px){.iIDVHT{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.iIDVHT{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}}.jEMDPx{font-size:22px;color:#212529;margin-top:10px;margin-right:0;margin-bottom:0;margin-left:0;font-weight:500;text-align:center;-webkit-text-decoration:none;text-decoration:none;line-height:1.5;cursor:auto;width:100%;} @media (max-width:820px) and (min-width:600px){.jEMDPx{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.jEMDPx{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}}.kYcvsD{font-size:18px;color:#212529;margin-top:10px;margin-right:0;margin-bottom:0;margin-left:0;font-family:Adamina;text-align:center;-webkit-text-decoration:none;text-decoration:none;line-height:1.5;cursor:auto;width:100%;} @media (max-width:820px) and (min-width:600px){.kYcvsD{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.kYcvsD{margin-top:10px;margin-right:0;margin-bottom:0;margin-left:0;text-align:center;line-height:1.5;cursor:auto;width:100%;}}.jJYiYK{font-size:18px;color:#212529;margin-top:10px;margin-right:0;margin-bottom:0;margin-left:0;font-family:Adamina;text-align:center;-webkit-text-decoration:none;text-decoration:none;line-height:1.5;cursor:auto;width:100%;} @media (max-width:820px) and (min-width:600px){.jJYiYK{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.jJYiYK{margin-top:10px;margin-right:0;margin-bottom:0;margin-left:0;line-height:1.5;cursor:auto;width:100%;}}.fKAuZm{font-size:22px;color:#212529;text-align:center;-webkit-text-decoration:none;text-decoration:none;line-height:1.5;cursor:auto;width:100%;margin-top:0;margin-bottom:0;} @media (max-width:820px) and (min-width:600px){.fKAuZm{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.fKAuZm{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}}
+/* sc-component-id: sc-hMqMXs */
+.cvNPei{font-size:16px;color:#212529;line-height:28px;font-family:Adamina;padding-top:5px;padding-right:20px;padding-bottom:5px;padding-left:20px;text-align:center;-webkit-text-decoration:none;text-decoration:none;cursor:auto;width:100%;margin-top:0;margin-bottom:0;} @media (max-width:820px) and (min-width:600px){.cvNPei{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.cvNPei{padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px;line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}}.iFAXzG{font-size:15px;color:#212529;line-height:27px;padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px;font-family:Adamina;text-align:center;-webkit-text-decoration:none;text-decoration:none;cursor:auto;width:100%;margin-top:0;margin-bottom:0;} @media (max-width:820px) and (min-width:600px){.iFAXzG{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.iFAXzG{margin-top:20px;margin-right:0;margin-bottom:0;margin-left:0;line-height:1.5;cursor:auto;width:100%;}}.kyMkLa{font-size:16px;color:#212529;line-height:28px;font-family:Adamina;padding-top:5px;padding-right:5px;padding-bottom:20px;padding-left:20px;text-align:center;-webkit-text-decoration:none;text-decoration:none;cursor:auto;width:100%;margin-top:0;margin-bottom:0;} @media (max-width:820px) and (min-width:600px){.kyMkLa{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.kyMkLa{margin-top:20px;margin-right:0;margin-bottom:0;margin-left:0;padding-top:5px;padding-right:5px;padding-bottom:20px;padding-left:10px;line-height:1.5;cursor:auto;width:100%;}}.gVVOJI{font-size:20px;color:#212529;line-height:39px;text-align:center;padding-top:5px;padding-right:5px;padding-bottom:20px;padding-left:5px;font-family:Adamina;-webkit-text-decoration:none;text-decoration:none;cursor:auto;width:100%;margin-top:0;margin-bottom:0;} @media (max-width:820px) and (min-width:600px){.gVVOJI{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.gVVOJI{margin-top:10px;margin-right:0;margin-bottom:0;margin-left:0;font-size:16px;line-height:35px;text-align:center;padding-top:5px;padding-right:0px;padding-bottom:20px;padding-left:0px;cursor:auto;width:100%;}}.fgpMRG{font-size:26px;color:#212529;text-align:center;margin-top:0px;margin-right:0;margin-bottom:0;margin-left:0;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;-webkit-text-decoration:none;text-decoration:none;line-height:1.5;cursor:auto;width:100%;} @media (max-width:820px) and (min-width:600px){.fgpMRG{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.fgpMRG{margin-top:0px;margin-right:0;margin-bottom:0;margin-left:0;width:73%;text-align:justify;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:20px;line-height:1.5;cursor:auto;}}.jywlyZ{font-size:14px;color:#212529;margin-top:10px;margin-right:0;margin-bottom:0;margin-left:0;text-align:center;-webkit-text-decoration:none;text-decoration:none;line-height:1.5;cursor:auto;width:100%;} @media (max-width:820px) and (min-width:600px){.jywlyZ{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.jywlyZ{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}}.gqWGou{font-size:26px;color:#212529;text-align:center;margin-top:0px;margin-right:0;margin-bottom:0;margin-left:0;-webkit-text-decoration:none;text-decoration:none;line-height:1.5;cursor:auto;width:100%;} @media (max-width:820px) and (min-width:600px){.gqWGou{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}} @media (max-width:479px){.gqWGou{line-height:1.5;cursor:auto;width:100%;margin-bottom:0;}}
+/* sc-component-id: sc-kkGfuU */
+.cTcbxo{background:url() center center / auto repeat scroll rgba(254,215,102,1);font-size:19px;margin-top:27px;margin-right:0;margin-bottom:0;margin-left:0;border:4px solid rgba(39,38,38,1);border-radius:5px 5px 5px 5px;font-family:Adamina;font-weight:900;width:55%;color:rgba(39,38,38,1);-webkit-text-decoration:none;text-decoration:none;overflow:hidden;} @media (max-width:820px) and (min-width:600px){} @media (max-width:479px){.cTcbxo{font-size:18px;width:74%;margin-top:18px;margin-right:0;margin-bottom:0;margin-left:0;}}
+/* sc-component-id: sc-iAyFgw */
+.hYoSzO{width:169px;height:83px;max-width:100%;cursor:pointer;object-fit:cover;} @media (max-width:820px) and (min-width:600px){.hYoSzO{max-width:100%;cursor:pointer;}} @media (max-width:479px){.hYoSzO{max-width:100%;cursor:pointer;}}.dmQSqL{width:523px;height:310px;max-width:100%;cursor:auto;border-radius:20px 20px 20px 20px;object-fit:cover;} @media (max-width:820px) and (min-width:600px){.dmQSqL{max-width:100%;cursor:auto;}} @media (max-width:479px){.dmQSqL{width:333px;height:198px;max-width:100%;cursor:auto;}}.jwXpmn{width:290px;height:242px;max-width:100%;cursor:auto;border-radius:5px 5px 5px 5px;object-fit:cover;} @media (max-width:820px) and (min-width:600px){.jwXpmn{max-width:100%;cursor:auto;}} @media (max-width:479px){.jwXpmn{max-width:100%;cursor:auto;}}.iyTqsN{width:291px;height:244px;max-width:100%;cursor:auto;border-radius:5px 5px 5px 5px;object-fit:cover;} @media (max-width:820px) and (min-width:600px){.iyTqsN{max-width:100%;cursor:auto;}} @media (max-width:479px){.iyTqsN{max-width:100%;cursor:auto;}}.jjHZOH{width:480px;height:320px;max-width:100%;cursor:auto;border-radius:10px 10px 10px 10px;object-fit:cover;} @media (max-width:820px) and (min-width:600px){.jjHZOH{max-width:100%;cursor:auto;}} @media (max-width:479px){.jjHZOH{width:420px;height:280px;max-width:100%;cursor:auto;}}
+/* sc-component-id: sc-eHgmQL */
+@media (max-width:820px) and (min-width:600px){} @media (max-width:479px){}
+/* sc-component-id: sc-jWBwVP */
+.iKuXRN{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;z-index:1;error: false;} @media (max-width:820px) and (min-width:600px){.iKuXRN{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;z-index:1;}} @media (max-width:479px){.iKuXRN{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;z-index:1;}}
+/* sc-component-id: sc-eqIVtm */
+.jFIVpF{font-size:26px;font-weight:600;text-align:left;line-height:1.5;width:100%;} @media (max-width:820px) and (min-width:600px){.jFIVpF{text-align:left;line-height:1.5;width:100%;}} @media (max-width:479px){.jFIVpF{font-size:23px;text-align:left;line-height:1.5;width:100%;}}.cXRuTq{font-size:16px;text-align:left;font-weight:700;font-family:Adamina;line-height:24px;margin-top:10px;margin-right:0;margin-bottom:0;margin-left:0;width:100%;} @media (max-width:820px) and (min-width:600px){.cXRuTq{text-align:left;line-height:1.5;width:100%;}} @media (max-width:479px){.cXRuTq{text-align:left;line-height:1.5;width:100%;}}
+/* sc-component-id: sc-fAjcbJ */
+.jUUfSt{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;z-Index:1;} @media (max-width:820px) and (min-width:600px){.jUUfSt{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;}} @media (max-width:479px){.jUUfSt{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;}}
+/* sc-component-id: sc-caSCKo */
+.kPGqBt{width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;} @media (max-width:820px) and (min-width:600px){.kPGqBt{width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;}} @media (max-width:479px){.kPGqBt{width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;}}
+/* sc-component-id: sc-gisBJw */
+.lbiDhu{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flexFlow:column;-ms-flexFlow:column;flexFlow:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
+/* sc-component-id: sc-kjoXOD */
+.YtfBW{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flexFlow:column;-ms-flexFlow:column;flexFlow:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:column;-ms-flex-flow:column;flex-flow:column;width:100%;}
+/* sc-component-id: sc-cHGsZl */
+.bKxeuc{width:100%;background-color:#e5e5e5;margin-top:0.5rem;border:0;border-top:1px solid rgba(0,0,0,.1);}
+/* sc-component-id: sc-TOsTZ */
+.gZOTnz{width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-self:flex-start;-ms-flex-item-align:start;align-self:flex-start;-webkit-transition:max-height 1s ease;transition:max-height 1s ease;overflow:hidden;}
+/* sc-component-id: sc-kgAjT */
+.iJWSZr{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:column;-ms-flex-flow:column;flex-flow:column;-webkit-flex:none;-ms-flex:none;flex:none;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;padding:0;margin-bottom:0;margin-top:0;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;width:100%;} @media (max-width:820px) and (min-width:600px){.iJWSZr{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:column;-ms-flex-flow:column;flex-flow:column;-webkit-flex:none;-ms-flex:none;flex:none;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;padding:0;margin-bottom:0;margin-top:0;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;width:100%;}} @media (max-width:479px){.iJWSZr{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:column;-ms-flex-flow:column;flex-flow:column;-webkit-flex:none;-ms-flex:none;flex:none;-webkit-box-pack:space-around;-webkit-justify-content:space-around;-ms-flex-pack:space-around;justify-content:space-around;padding:0;margin-bottom:0;margin-top:0;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;width:100%;}}
+/* sc-component-id: sc-cJSrbW */
+.isWpMy{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;} @media (max-width:820px) and (min-width:600px){.isWpMy{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}} @media (max-width:479px){.isWpMy{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}}
+/* sc-component-id: sc-gxMtzJ */
+.hCojrU{z-index:1;background:rgba(0,0,0,0.4);position:absolute;top:0;left:0;width:100%;height:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;background-image:url('https://i.ytimg.com/vi/PciDIxOMAFQ/hqdefault.jpg');background-size:cover;background-position:center;}
+/* sc-component-id: sc-dfVpRl */
+.dVfZjf{width:70px;opacity:0.8;cursor:pointer;}
+/* sc-component-id: sc-RefOD */
+.cblSkX{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;overflow-wrap:break-word;z-Index:1;}
+/* sc-component-id: sc-eIHaNI */
+.kKsjaG{padding:5px;margin:0;} @media (max-width:820px) and (min-width:600px){} @media (max-width:479px){}.LdWqp{padding:5px;margin:0;margin-top:30px;margin-right:0;margin-bottom:0;margin-left:0;padding-top:5px;padding-right:30px;padding-bottom:5px;padding-left:30px;} @media (max-width:820px) and (min-width:600px){} @media (max-width:479px){.LdWqp{margin-top:0px;margin-right:0;margin-bottom:0;margin-left:0;padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;}}.coqzLd{padding:5px;margin:0;margin-top:10px;margin-right:0;margin-bottom:0;margin-left:0;} @media (max-width:820px) and (min-width:600px){} @media (max-width:479px){}.iowPFW{padding:5px;margin:0;margin-top:0px;margin-right:0;margin-bottom:0;margin-left:0;} @media (max-width:820px) and (min-width:600px){} @media (max-width:479px){}.UiqkV{padding:5px;margin:0;background:url() center center / auto repeat scroll rgba(39,38,38,1);} @media (max-width:820px) and (min-width:600px){} @media (max-width:479px){}.iQpCEX{padding:5px;margin:0;} @media (max-width:820px) and (min-width:600px){} @media (max-width:479px){.iQpCEX{margin-top:10px;margin-right:0;margin-bottom:0;margin-left:0;}}.bllBsi{padding:5px;margin:0;margin-top:5px;margin-right:0;margin-bottom:0;margin-left:0;padding-top:5px;padding-right:20px;padding-bottom:5px;padding-left:30px;} @media (max-width:820px) and (min-width:600px){} @media (max-width:479px){.bllBsi{padding-top:5px;padding-right:10px;padding-bottom:5px;padding-left:10px;}}
+/* sc-component-id: sc-eTpRJs */
+.iliKCr{padding:5px;margin:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;} @media (max-width:820px) and (min-width:600px){.iliKCr{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}} @media (max-width:479px){.iliKCr{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}}.jJvxj{padding:5px;margin:0;padding-top:0px;padding-right:5px;padding-bottom:5px;padding-left:5px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;} @media (max-width:820px) and (min-width:600px){.jJvxj{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}} @media (max-width:479px){.jJvxj{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}}.kExSaf{padding:5px;margin:0;margin-top:0px;margin-right:0;margin-bottom:0;margin-left:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;} @media (max-width:820px) and (min-width:600px){.kExSaf{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}} @media (max-width:479px){.kExSaf{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}}.beyfLP{padding:5px;margin:0;margin-top:30px;margin-right:0;margin-bottom:0;margin-left:0;padding-top:5px;padding-right:5px;padding-bottom:20px;padding-left:5px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;} @media (max-width:820px) and (min-width:600px){.beyfLP{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}} @media (max-width:479px){.beyfLP{margin-top:5px;margin-right:0;margin-bottom:0;margin-left:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}}.lkSAZR{padding:5px;margin:0;margin-top:5px;margin-right:0;margin-bottom:0;margin-left:0;padding-top:5px;padding-right:5px;padding-bottom:20px;padding-left:5px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;} @media (max-width:820px) and (min-width:600px){.lkSAZR{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}} @media (max-width:479px){.lkSAZR{margin-top:5px;margin-right:0;margin-bottom:0;margin-left:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}}.hpMNbG{padding:5px;margin:0;padding-top:5px;padding-right:5px;padding-bottom:20px;padding-left:5px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;} @media (max-width:820px) and (min-width:600px){.hpMNbG{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}} @media (max-width:479px){.hpMNbG{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}}
+/* sc-component-id: sc-dxZgTM */
+.bOlifQ{padding:5px;display:initial;} @media (max-width:820px) and (min-width:600px){.bOlifQ{display:initial;}} @media (max-width:479px){.bOlifQ{display:initial;}}.dCKGYr{padding:5px;padding-top:5px;padding-right:5px;padding-bottom:15px;padding-left:5px;background:url() center center / auto repeat scroll rgba(255,255,255,0);display:initial;} @media (max-width:820px) and (min-width:600px){.dCKGYr{display:initial;}} @media (max-width:479px){.dCKGYr{padding-top:5px;padding-right:5px;padding-bottom:15px;padding-left:5px;display:initial;}}.fnusIO{padding:5px;margin-top:20px;margin-right:0;margin-bottom:0;margin-left:0;background:url() center center / auto repeat scroll rgba(39,38,38,1);display:initial;} @media (max-width:820px) and (min-width:600px){.fnusIO{display:initial;}} @media (max-width:479px){.fnusIO{display:initial;}}.fnkbNl{padding:5px;padding-top:5px;padding-right:5px;padding-bottom:40px;padding-left:5px;background:url() center center / auto repeat scroll rgba(255,249,249,1);margin-top:0px;margin-right:0;margin-bottom:0;margin-left:0;display:initial;} @media (max-width:820px) and (min-width:600px){.fnkbNl{display:initial;}} @media (max-width:479px){.fnkbNl{padding-top:5px;padding-right:5px;padding-bottom:15px;padding-left:5px;display:initial;}}.hwhdQ{padding:5px;padding-top:5px;padding-right:5px;padding-bottom:40px;padding-left:5px;background:url() center center / auto repeat scroll rgba(255,249,249,1);margin-top:20px;margin-right:0;margin-bottom:0;margin-left:0;display:initial;} @media (max-width:820px) and (min-width:600px){.hwhdQ{display:initial;}} @media (max-width:479px){.hwhdQ{padding-top:5px;padding-right:5px;padding-bottom:15px;padding-left:5px;display:initial;}}.gYNPLT{padding:5px;background:url() center center / auto repeat scroll rgba(39,38,38,1);display:initial;} @media (max-width:820px) and (min-width:600px){.gYNPLT{display:initial;}} @media (max-width:479px){.gYNPLT{display:initial;}}.ldrLyc{padding:5px;background:url() center center / auto repeat scroll rgba(255,249,249,1);display:initial;} @media (max-width:820px) and (min-width:600px){.ldrLyc{display:initial;}} @media (max-width:479px){.ldrLyc{display:initial;}}.ZRIrN{padding:5px;background:url() center center / auto repeat scroll rgba(255,249,249,1);display:initial;} @media (max-width:820px) and (min-width:600px){.ZRIrN{display:initial;}} @media (max-width:479px){.ZRIrN{padding-top:10px;padding-right:5px;padding-bottom:5px;padding-left:5px;display:initial;}}.iQcxxC{padding:5px;margin-top:25px;margin-right:0;margin-bottom:0;margin-left:0;background:url() center center / auto repeat scroll rgba(58,58,58,1);display:initial;} @media (max-width:820px) and (min-width:600px){.iQcxxC{display:initial;}} @media (max-width:479px){.iQcxxC{display:initial;}}.hpOrnk{padding:5px;margin-top:10px;margin-right:0;margin-bottom:0;margin-left:0;padding-top:5px;padding-right:5px;padding-bottom:25px;padding-left:5px;display:initial;} @media (max-width:820px) and (min-width:600px){.hpOrnk{display:initial;}} @media (max-width:479px){.hpOrnk{display:initial;}}.hPpAaC{padding:5px;background:url() center center / auto repeat scroll rgba(39,38,38,1);margin-top:0px;margin-right:0;margin-bottom:0;margin-left:0;display:initial;} @media (max-width:820px) and (min-width:600px){.hPpAaC{display:initial;}} @media (max-width:479px){.hPpAaC{margin-top:0px;margin-right:0;margin-bottom:0;margin-left:0;display:initial;}}.hFtuVi{padding:5px;background:url() center center / auto repeat scroll rgba(39,38,38,1);padding-top:5px;padding-right:5px;padding-bottom:60px;padding-left:5px;display:initial;} @media (max-width:820px) and (min-width:600px){.hFtuVi{display:initial;}} @media (max-width:479px){.hFtuVi{padding-top:5px;padding-right:5px;padding-bottom:70px;padding-left:5px;display:initial;}}
+/* sc-component-id: sc-hBbWxd */
+.fNZDHe{position:absolute;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;right:24px;bottom:24px;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;-webkit-flex-flow:column-reverse;-ms-flex-flow:column-reverse;flex-flow:column-reverse;z-index:1000;}</style><meta data-rh charSet="UTF-8" /><meta data-rh httpEquiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta data-rh name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, shrink-to-fit=no" /><meta data-rh name="description" /><meta data-rh name="keywords" /><meta data-rh property="og:locale" content="en_US" /><meta data-rh property="og:type" content="article" /><meta data-rh property="og:title" content /><meta data-rh property="og:description" content /><meta data-rh property="og:site_name" content /><meta data-rh property="og:url" content /><title data-rh>Transforme seu Sorriso</title><script data-rh type="58f376b27d6e8729e04d6deb-text/javascript">
+								function checkStateAndCall(callback) {
+									var _success = false;
+									return function () {
+											if (!_success && (!this.readyState || this.readyState === 'complete')) {
+												_success = true;
+												callback();
+											}
+									}
+								}
+
+								function getMain(results) {
+									function loadNext() {
+										if (!results.length) {
+											return;
+										}
+
+										var path = results.shift();
+										var scriptElm = document.createElement('script');
+										scriptElm.type = 'text/javascript';
+										scriptElm.async = true;
+										scriptElm.src = path;
+										scriptElm.onload = scriptElm.onreadystatechange = checkStateAndCall(loadNext);
+
+										// this one will be ready
+										var headElm = document.head || document.getElementsByTagName('head')[0];
+										headElm.appendChild(scriptElm);
+									}
+										
+									const events = ['mouseover', 'mousedown', 'scroll', 'touchstart', 'mousemove'];
+									const triggerHydrate = () => {
+										loadNext(); // start a chain
+										removeEventListeners();
+										if(window) window.mainHasBeenDownloaded = true
+									};
+
+									const addEventListeners = () => {
+										events.forEach(event => {
+											self.addEventListener(event, triggerHydrate);
+										});
+
+    									self.addEventListener('deviceorientation', handleDeviceOrientation);
+									};
+
+									const removeEventListeners = () => {
+										events.forEach(event => {
+											self.removeEventListener(event, triggerHydrate);
+										});
+										
+										self.removeEventListener('deviceorientation', handleDeviceOrientation);
+									};
+
+									const handleDeviceOrientation = (event) => {
+										if (Math.abs(event.alpha) > 1 || Math.abs(event.beta) > 1 || Math.abs(event.gamma) > 1) {
+											triggerHydrate();
+											removeEventListeners(); // Optionally remove listeners after hydration
+										}
+									};
+
+									addEventListeners();
+
+									setTimeout(() => {
+										if(window && !window.mainHasBeenDownloaded){
+											triggerHydrate()
+										}
+									}, 5000)
+
+								}
+
+								function getFont(font) {
+									function loadNext() {
+										var linkElm = document.createElement('link');
+										linkElm.type = 'text/css';
+										linkElm.rel = "stylesheet";
+										linkElm.href = font;
+
+										// this one will be ready
+										var headElm = document.head || document.getElementsByTagName('head')[0];
+										headElm.insertBefore(linkElm, headElm.firstChild);
+									}
+									loadNext();
+								}
+							</script><script data-rh id="result" type="javascript/worker">
+								self.onmessage = function (e) {
+									const loadLinkFont = async (initial) => {
+									const fonts = ['latin', 'latin-ext']
+									const variants = ['300', 'regular', '400', '500', '600', 'regular', '700', '900']
+									return await getUrl(initial, fonts, variants)
+								}
+
+								const getUrl = (font, results, variants) => {
+									const variantsEnc = variants.join(",")
+									const familiesEnc = encodeURIComponent(font) +':'+ variantsEnc
+									let query = '?family='+ familiesEnc
+
+									// Query the fonts in the specified
+									query += '&subset='+ results.join(",") +'&display=swap'
+
+									// Fetch and return stylesheet
+									const FONT_BASE_URL = "https://fonts.googleapis.com/css"
+									return FONT_BASE_URL + query
+									}
+
+									var links = []
+									var fonts = ['Roboto','Adamina'];
+									fonts.map((font) => {
+										if (!links.includes(font)) {
+												loadLinkFont(font)
+												.then((result) => {
+													self.postMessage({ type: 'getFont', link: result });
+												})
+												links.push(font)
+											}
+										})
+
+									const secondMessage = { type: 'getMain' }
+									self.postMessage(secondMessage);
+								};
+							</script><script type="58f376b27d6e8729e04d6deb-text/javascript">
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '483372628859981');
+            fbq('track', 'PageView', {}, {eventID: 'PageView.' + window.sessionId});
+            fbq('track', 'Contact', {}, {eventID: 'Contact' + '.' + window.sessionId});
+          </script><script type="58f376b27d6e8729e04d6deb-text/javascript">
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+            var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';
+            j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-TQQ4DB8');
+          </script><div><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TQQ4DB8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript></div></head><body><div id="react-app"><div class="sc-hBbWxd fNZDHe"></div><div id="267cf646-7ccb-4b69-ab6e-c99ff7c40c70" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM bOlifQ"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs iliKCr"><div class="sc-bZQynM sc-dxgOiQ col-md-12  sc-eIHaNI kKsjaG"><div class="sc-RefOD cblSkX"><h2 class="sc-fjdhpX sc-jKJlTe kLVsrk"><div><b>&nbsp; &nbsp; &nbsp;&nbsp;<a href="tel:22665955"><font color="#000000">Agende sua consulta (21)&nbsp;2266-5955</font></a></b></div></h2></div></div></div></div></div><div id="8b0d1c51-d82e-4b95-893c-80d11ddd1d1e" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM bOlifQ"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs jJvxj"><div class="sc-bZQynM sc-dxgOiQ col-md-12  sc-eIHaNI kKsjaG"><div class="sc-bZQynM img-fluid  sc-dxgOiQ kKbQmA"><img data-src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/2KY1UPetSEaKxNJmyoxUCQ.png" data-widthmap="{&quot;natural&quot;:&quot;1690&quot;,&quot;style&quot;:&quot;169&quot;,&quot;tablet&quot;:null,&quot;mobile&quot;:null}" class="sc-gqjmRU sc-iAyFgw hYoSzO" /></div></div></div></div></div><div id="91fc3e7d-3d2c-4eb5-9986-d8e28c6ebc18" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM dCKGYr"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs kExSaf"><div class="sc-bZQynM sc-dxgOiQ col-md-6  sc-eIHaNI LdWqp"><div class="sc-RefOD cblSkX"><h1 class="sc-jTzLTM sc-ckVGcZ feLUgK"><div>Tenha o sorriso que você deseja com a segurança que você merece.&nbsp;</div></h1></div><div class="sc-RefOD cblSkX"><h2 class="sc-fjdhpX sc-jKJlTe bdywgx"><div>Ligue e saiba mais sobre os nossos tratamentos. Transforme seu sorriso com quem entende.&nbsp;</div></h2></div><div class="sc-bZQynM sc-dxgOiQ sc-jWBwVP iKuXRN"><a type="button" disabled class="sc-iwsKbI btn  sc-kkGfuU cTcbxo">Marque sua Consulta</a></div></div><div class="sc-bZQynM sc-dxgOiQ col-md-6  sc-eIHaNI kKsjaG"><div class="sc-bZQynM img-fluid  sc-dxgOiQ gQfgFl"><img data-src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/LoXT6FZnY0KqTF9U73YpBQ.jpeg" data-widthmap="{&quot;natural&quot;:&quot;4756&quot;,&quot;style&quot;:&quot;523&quot;,&quot;tablet&quot;:null,&quot;mobile&quot;:&quot;333&quot;}" class="sc-gqjmRU sc-iAyFgw dmQSqL" /></div></div></div></div></div><div id="48df62cc-4a26-416e-b215-2bb633f368db" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM fnusIO"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs iliKCr"><div class="sc-bZQynM sc-dxgOiQ col-md-12  sc-eIHaNI kKsjaG"><div class="sc-RefOD cblSkX"><h1 class="sc-jTzLTM sc-ckVGcZ jAIaJa"><div><font color="#ffffff">Ainda com dúvidas?</font></div></h1></div></div></div></div></div><div id="1809e6a9-9d84-4df7-b552-1799205fd262" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM fnkbNl"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs beyfLP"><div class="sc-bZQynM sc-dxgOiQ col-md-6  sc-eIHaNI coqzLd"><div class="sc-RefOD cblSkX"><h1 class="sc-jTzLTM sc-ckVGcZ gaqGZe"><div>Conheça a tecnologia do escaneamento dos dentes</div></h1></div><div class="sc-RefOD cblSkX"><h2 class="sc-fjdhpX sc-jKJlTe gpqZLC"><div>Com o escaneamento você pode ver rapidamente o seu novo sorriso. Assim, conseguimos criar uma cópia digital de toda sua boca, registrando dentes tortos ou quebrados, cáries, próteses, posição de mordida, etc. </div></h2></div></div><div class="sc-bZQynM sc-dxgOiQ col-md-6  sc-eIHaNI kKsjaG"><div class="sc-bZQynM sc-dxgOiQ dwtFiO"><div class="sc-bZQynM embed-responsive embed-responsive-16by9 sc-dxgOiQ dzdvvu"><div src="https://i.ytimg.com/vi/PciDIxOMAFQ/hqdefault.jpg" class="sc-gxMtzJ hCojrU"><svg fill="#fff" viewBox="0 0 50 50" class="sc-dfVpRl dVfZjf"><path d="M24 4C12.95 4 4 12.95 4 24s8.95 20 20 20 20-8.95 20-20S35.05 4 24 4zm-4 29V15l12 9-12 9z"></path></svg></div></div></div><div class="sc-RefOD cblSkX"><h2 class="sc-fjdhpX sc-jKJlTe iIDVHT"><div>Dê play no video</div></h2></div></div></div></div></div><div id="6fbe8d9b-239d-40c7-a92b-2bcc95e6ce01" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM fnusIO"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs iliKCr"><div class="sc-bZQynM sc-dxgOiQ col-md-12  sc-eIHaNI kKsjaG"><div class="sc-RefOD cblSkX"><h1 class="sc-jTzLTM sc-ckVGcZ jAIaJa"><font color="#ffffff">Nossos tratamentos podem proporcionar ...</font><br></h1></div></div></div></div></div><div id="80821109-eb73-4be3-a802-6eaf705cbe8a" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM hwhdQ"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs lkSAZR"><div class="sc-bZQynM sc-dxgOiQ col-md-4  sc-eIHaNI kKsjaG"><div class="sc-bZQynM img-fluid  sc-dxgOiQ kKbQmA"><img data-src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/F6iVDXNwDEih39z7eHDSg.jpg" data-widthmap="{&quot;natural&quot;:&quot;517&quot;,&quot;style&quot;:&quot;290&quot;,&quot;tablet&quot;:null,&quot;mobile&quot;:null}" class="sc-gqjmRU sc-iAyFgw jwXpmn" /></div><div class="sc-RefOD cblSkX"><h2 class="sc-fjdhpX sc-jKJlTe jEMDPx"><div>Grandes Mudanças</div></h2></div></div><div class="sc-bZQynM sc-dxgOiQ col-md-4  sc-eIHaNI iowPFW"><div class="sc-bZQynM img-fluid  sc-dxgOiQ kKbQmA"><img data-src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/yd84QFAJ3Ue8LvPjBUAYA.jpg" data-widthmap="{&quot;natural&quot;:&quot;940&quot;,&quot;style&quot;:&quot;291&quot;,&quot;tablet&quot;:null,&quot;mobile&quot;:null}" class="sc-gqjmRU sc-iAyFgw iyTqsN" /></div><div class="sc-RefOD cblSkX"><h2 class="sc-fjdhpX sc-jKJlTe jEMDPx"><div>Mudanças discretas</div></h2></div></div><div class="sc-bZQynM sc-dxgOiQ col-md-4  sc-eIHaNI kKsjaG"><div class="sc-bZQynM img-fluid  sc-dxgOiQ kKbQmA"><img data-src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/GMFzO30PZ0mH3tpw9G4Qog.jpg" data-widthmap="{&quot;natural&quot;:&quot;940&quot;,&quot;style&quot;:&quot;291&quot;,&quot;tablet&quot;:null,&quot;mobile&quot;:null}" class="sc-gqjmRU sc-iAyFgw iyTqsN" /></div><div class="sc-RefOD cblSkX"><h2 class="sc-fjdhpX sc-jKJlTe jEMDPx"><div>Mudanças de vida</div></h2></div></div></div></div></div><div id="a7c49959-19dd-4c7b-b65b-0833ba051655" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM gYNPLT"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs iliKCr"><div class="sc-bZQynM sc-dxgOiQ col-md-12  sc-eIHaNI kKsjaG"><div class="sc-RefOD cblSkX"><h1 class="sc-jTzLTM sc-ckVGcZ bLqdEy"><div><font color="#ffffff">Por isso é tão importante ler isso</font></div></h1></div></div></div></div></div><div id="3d2b054f-cda6-43b7-9c8a-808bf262939c" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM gYNPLT"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs iliKCr"><div class="sc-bZQynM sc-dxgOiQ col-md-4  sc-eIHaNI kKsjaG"><div class="sc-RefOD cblSkX"><span class="sc-cSHVUG sc-hMqMXs cvNPei"><font color="#ffffff" style="">Sempre tive pânico de dentista, algo que me impediu de ir ao dentista por 15 anos, praticamente. Chorava, fugia, verdadeiro terror! 
+Quando encontrei a MD Frossard estava apavorada mas decidida e eles foram essenciais para que eu finalmente superasse e me cuidasse. 
+Desde o atendimento por telefone, ate a consulta, e dia após dia, me senti abraçada por uma equipe inteira, o que fez toda a diferença!! 
+O trabalho feito por eles me mudou esteticamente e funcionalmente. 
+Agradeço demais e recomendo, são excelentes profissionais! Dr Davi, Dr Marcos, a querida Lili e todo o time, vocês são demais!!  </font></span></div><div class="sc-RefOD cblSkX"><h2 class="sc-fjdhpX sc-jKJlTe kYcvsD"><div><b><font color="#ffffff"><u>Larissa Rodrigues</u></font></b></div></h2></div></div><div class="sc-bZQynM sc-dxgOiQ col-md-4  sc-eIHaNI UiqkV"><div class="sc-RefOD cblSkX"><span class="sc-cSHVUG sc-hMqMXs iFAXzG"><font color="#ffffff">Sempre tive medo de fazer tratamento dentário. Precisava fazer três implantes, mas adiei isso por muitos anos. Foram várias opiniões que tive sobre a necessidade de usar aparelho ortodôntico para posteriormente fazer o implante. Isso interferiu muito negativo na minha decisão. Cheguei na Clínica MD Frossard Odontologia através das ótimas avaliações que li na internet, com a finalidade de fazer os implantes. Tenho sido atendida por Dr. Marcos e Dr. Davi que fez os três implantes, são muitos competentes e gentis. Não precisei usar aparelho, não senti dor durante e após a cirurgia, nem inchaços. Me senti muito bem assistida. Parabéns Dr. Marcos e Dr. Davi pela excelência no tratamento ao cliente. Tive muito contato com a Lili, instrumentadora, que é muito agradável e gentil, enfim todos da equipe são competentes e atenciosos. A Clínica é higienicamente impecável, bonita e aconchegante. Só tenho a agradecer por tudo!</font><br></span></div><div class="sc-RefOD cblSkX"><h2 class="sc-fjdhpX sc-jKJlTe jJYiYK"><font color="#ffffff"><u>Maria Helena Moura de Farias</u></font><br></h2></div></div><div class="sc-bZQynM sc-dxgOiQ col-md-4  sc-eIHaNI iQpCEX"><div class="sc-RefOD cblSkX"><span class="sc-cSHVUG sc-hMqMXs kyMkLa"><font color="#ffffff" style="">¨Qualidade e competência, estas duas palavras traduzem os serviços e atendimento da MD odontologia. Fui atendido durante a Pandemia e me senti muito seguro em relação a limpeza e cuidados no ambiente de atendimento. Quero agradecer a toda a equipe, mas principalmente a esses dois excelentes profissionais que me atenderam, dra Luciana Peroni e dr Davi Frossard, vocês superaram minhas expectativas. ¨&nbsp;</font><br></span></div><div class="sc-RefOD cblSkX"><h2 class="sc-fjdhpX sc-jKJlTe jJYiYK"><b><font color="#ffffff"><u>&nbsp;Isaias Paulino</u></font></b></h2></div></div></div></div></div><div id="f65780f9-a176-4850-ae60-22c0010657ab" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM ldrLyc"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs iliKCr"><div class="sc-bZQynM sc-dxgOiQ col-md-12  sc-eIHaNI kKsjaG"><div class="sc-RefOD cblSkX"><h1 class="sc-jTzLTM sc-ckVGcZ kTFkFv"><div>Quem está por trás da clínica?</div></h1></div></div></div></div></div><div id="1912a09e-4077-4246-8448-18498f96fafe" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM ZRIrN"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs iliKCr"><div class="sc-bZQynM sc-dxgOiQ col-md-7  sc-eIHaNI bllBsi"><div class="sc-RefOD cblSkX"><span class="sc-cSHVUG sc-hMqMXs gVVOJI"><font color="#000000">A MD Frossard Odontologia é uma clínica odontológica que atua há 37 anos no Rio de Janeiro, gerenciada pelos dentistas Marcos e Davi Frossard.&nbsp;</font><div><div><font color="#000000">Focamos nosso atendimento em 3 pilares: Relacionamento, Confiança e Pontualidade.</font></div><div><div><font color="#000000">Nosso objetivo é que o seu tratamento seja memorável, por isso o seu trabalho é personalizado e de qualidade. <br>Além disso, contamos com uma estrutura privilegiada, apta para proporcionar conforto durante atendimento<b style="">.</b></font></div></div></div></span></div></div><div class="sc-bZQynM sc-dxgOiQ col-md-5  sc-eIHaNI kKsjaG"><div class="sc-bZQynM img-fluid  sc-dxgOiQ gChKGU"><img data-src="https://cdn.rockty.com.br/cdn-cgi/image/quality=80,width=,format=webp/tenants/Hv3BdE0rWEGXd7XZByPDmQ/images/oBTwzXscy0ihfzpKnJaTlA.jpeg" data-widthmap="{&quot;natural&quot;:&quot;6000&quot;,&quot;style&quot;:&quot;480&quot;,&quot;tablet&quot;:null,&quot;mobile&quot;:&quot;420&quot;}" class="sc-gqjmRU sc-iAyFgw jjHZOH" /></div></div></div></div></div><div id="fe8593cf-0727-494c-bdb8-deaf6f88d702" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM iQcxxC"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs iliKCr"><div class="sc-bZQynM sc-dxgOiQ col-md-12  sc-eIHaNI kKsjaG"><div class="sc-RefOD cblSkX"><h1 class="sc-jTzLTM sc-ckVGcZ eNaNfK"><div><font color="#ffffff">Perguntas Frequentes</font></div></h1></div></div></div></div></div><div id="a9527a00-aeaf-4181-ba7d-906a13a23055" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM hpOrnk"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs iliKCr"><div class="sc-bZQynM sc-dxgOiQ col-md-6  sc-eIHaNI kKsjaG"><div class="sc-cJSrbW isWpMy"><div class="sc-kgAjT iJWSZr"><div style="cursor: pointer;" class="sc-gisBJw lbiDhu"><div class="sc-gisBJw sc-kjoXOD YtfBW"><div class="sc-caSCKo kPGqBt"><div class="sc-eqIVtm sc-fAjcbJ jUUfSt"><div class="sc-eqIVtm jFIVpF"><div>Qual o preço dos tratamentos?</div></div></div><svg viewBox="0 0 24 24" width="32" height="32" style="align-self: center; transform: rotate(0deg);" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" class="sc-kpOJdX sc-eHgmQL lnGoVc"><path fill="#212121" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></div><div style="max-height: 0px;" class="sc-TOsTZ gZOTnz"><div class="sc-eqIVtm sc-fAjcbJ jUUfSt"><div class="sc-eqIVtm cXRuTq">Por cuidar de cada paciente de forma única, cada caso é tratado de forma individual. Portanto, só é possível calcular o valor do seu tratamento a partir da primeira consulta, que é realizada por um cirurgião-dentista especializado.&nbsp;<div>Nessa consulta são identificados vários aspectos pessoais: idade, perfil alimentar, condições de saúde (gestante, diabético, hipertenso...) e seus hábitos que influenciam na saúde bucal.&nbsp;</div><div>Além disso, questões técnicas também serão avaliadas: durabilidade do tratamento, expectativa estética, viabilidade das técnicas, entre outras particularidades.&nbsp;</div><div>São esses fatores que serão levados em conta para recomendar o tratamento adequado, e isso pode alterar caso a caso.&nbsp;</div></div></div></div><hr color="#e5e5e5" class="sc-cHGsZl bKxeuc" /></div></div></div></div></div><div class="sc-bZQynM sc-dxgOiQ col-md-6  sc-eIHaNI kKsjaG"><div class="sc-cJSrbW isWpMy"><div class="sc-kgAjT iJWSZr"><div style="cursor: pointer;" class="sc-gisBJw lbiDhu"><div class="sc-gisBJw sc-kjoXOD YtfBW"><div class="sc-caSCKo kPGqBt"><div class="sc-eqIVtm sc-fAjcbJ jUUfSt"><div class="sc-eqIVtm jFIVpF">Aceitam Convênio?  </div></div><svg viewBox="0 0 24 24" width="32" height="32" style="align-self: center; transform: rotate(0deg);" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" class="sc-kpOJdX sc-eHgmQL lnGoVc"><path fill="#212121" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></div><div style="max-height: 0px;" class="sc-TOsTZ gZOTnz"><div class="sc-eqIVtm sc-fAjcbJ jUUfSt"><div class="sc-eqIVtm cXRuTq">Não aceitamos convênios odontológicos, porém disponibilizamos toda a documentação necessária para que você possa solicitar o reembolso à sua operadora.</div></div></div><hr color="#e5e5e5" class="sc-cHGsZl bKxeuc" /></div></div></div></div></div></div></div></div><div id="agende" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM hPpAaC"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs iliKCr"><div class="sc-bZQynM sc-dxgOiQ col-md-12  sc-eIHaNI kKsjaG"><div class="sc-RefOD cblSkX"><h1 class="sc-jTzLTM sc-ckVGcZ cnFusj"><div><font color="#ffffff">Agende sua consulta</font></div></h1></div></div></div></div><div id="bd350e37-2b54-4a14-a09b-b56a62ca80a7" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM gYNPLT"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs iliKCr"><div class="sc-bZQynM sc-dxgOiQ col-md-12  sc-eIHaNI kKsjaG"><div class="sc-RefOD cblSkX"><h2 class="sc-fjdhpX sc-jKJlTe fKAuZm"><b><font color="#ffffff">Segunda a Sexta - 8h às 18h -&nbsp; Barra da Tijuca e Botafogo</font></b></h2></div></div></div></div></div><div id="5aeec932-9f23-483d-bd06-b95a96d7f2fa" class="sc-bZQynM sc-dxgOiQ container-fluid  sc-dxZgTM hFtuVi"><div style="padding: 0px;" class="container"><div class="sc-bZQynM sc-dxgOiQ row  sc-eTpRJs hpMNbG"><div class="sc-bZQynM sc-dxgOiQ col-md-6  sc-eIHaNI kKsjaG"><div class="sc-RefOD cblSkX"><h2 class="sc-fjdhpX sc-jKJlTe fKAuZm"><div><b><font color="#ffffff">No telefone</font></b></div></h2></div><div class="sc-RefOD cblSkX"><span class="sc-cSHVUG sc-hMqMXs fgpMRG"><div><b>&nbsp; <a href="tel:22665955"><font color="#fba026">(021) 2266-5955</font></a></b><br></div></span></div><div class="sc-RefOD cblSkX"><span class="sc-cSHVUG sc-hMqMXs jywlyZ"><b><font color="#ffffff">Ligue para nossa clinica e tire suas dúvidas</font></b></span></div></div><div class="sc-bZQynM sc-dxgOiQ col-md-6  sc-eIHaNI iQpCEX"><div class="sc-RefOD cblSkX"><h2 class="sc-fjdhpX sc-jKJlTe fKAuZm"><div><b><font color="#ffffff">Whatsapp</font></b></div></h2></div><div class="sc-RefOD cblSkX"><span class="sc-cSHVUG sc-hMqMXs gqWGou"><b><a href="https://api.whatsapp.com/send?phone=55021976637803"><font color="#00d084">Nos envie uma mensagem !</font></a></b></span></div><div class="sc-RefOD cblSkX"><span class="sc-cSHVUG sc-hMqMXs jywlyZ"><div><b><font color="#ffffff">Fácil e prático, agende sua consulta diretamente pelo Whatsapp</font></b></div></span></div></div></div></div></div></div><script type="58f376b27d6e8729e04d6deb-text/javascript" async>window.initialReduxState = {"source":{"board":[{"$$typeof":"react.element","type":"div","key":"267cf646-7ccb-4b69-ab6e-c99ff7c40c70","ref":null,"props":{"rck_id":"267cf646-7ccb-4b69-ab6e-c99ff7c40c70","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px"},"children":[{"$$typeof":"react.element","type":"div","key":"54df7c2e-394e-416b-830c-86694cb8d0eb","ref":null,"props":{"rck_id":"54df7c2e-394e-416b-830c-86694cb8d0eb","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"305c29fd-e8be-4ef7-8c15-1febec762ec9","ref":null,"props":{"rck_id":"305c29fd-e8be-4ef7-8c15-1febec762ec9","className":"col-md-12","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"b425efc2-ad5a-4614-96dc-8178dd78edb8","ref":null,"props":{"className":"lead","rck_id":"b425efc2-ad5a-4614-96dc-8178dd78edb8","rck_type":"element","rck_element":"sub-headline","tag":"div","text":"\u003Cdiv\u003E\u003Cb\u003E&nbsp; &nbsp; &nbsp;&nbsp;\u003Ca href=\"tel:22665955\"\u003E\u003Cfont color=\"#000000\"\u003EAgende sua consulta (21)&nbsp;2266-5955\u003C\u002Ffont\u003E\u003C\u002Fa\u003E\u003C\u002Fb\u003E\u003C\u002Fdiv\u003E","style":{"fontSize":"15px","color":"#212529","fontFamily":"Roboto","fontWeight":"400","textAlign":"center","marginTop":"7px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null}]},"_owner":null}]},"_owner":null}]},"_owner":null},{"$$typeof":"react.element","type":"div","key":"8b0d1c51-d82e-4b95-893c-80d11ddd1d1e","ref":null,"props":{"rck_id":"8b0d1c51-d82e-4b95-893c-80d11ddd1d1e","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px"},"children":[{"$$typeof":"react.element","type":"div","key":"eccf2e89-8a85-45a2-83d3-9320ce9d5159","ref":null,"props":{"rck_id":"eccf2e89-8a85-45a2-83d3-9320ce9d5159","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0,"paddingTop":"0px","paddingRight":"5px","paddingBottom":"5px","paddingLeft":"5px"},"children":[{"$$typeof":"react.element","type":"div","key":"774385c6-60e1-46ff-a106-7e189952b605","ref":null,"props":{"rck_id":"774385c6-60e1-46ff-a106-7e189952b605","className":"col-md-12","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"img","key":"0ac9b572-cb06-4dc7-bcac-ee7c6b97c876","ref":null,"props":{"className":"img-fluid","rck_id":"0ac9b572-cb06-4dc7-bcac-ee7c6b97c876","rck_type":"element","rck_element":"img","src":"https:\u002F\u002Fcdn.rockty.com.br\u002Fcdn-cgi\u002Fimage\u002Fquality=80,width=,format=webp\u002Ftenants\u002FHv3BdE0rWEGXd7XZByPDmQ\u002Fimages\u002F2KY1UPetSEaKxNJmyoxUCQ.png","type":"external","newWindow":true,"source":"https:\u002F\u002Fmdfrossard.com.br\u002F","redirectType":"noAction","callback":"","style":{"width":"169px","height":"83px"},"naturalWidth":"1690px"},"_owner":null}]},"_owner":null}]},"_owner":null}]},"_owner":null},{"$$typeof":"react.element","type":"div","key":"91fc3e7d-3d2c-4eb5-9986-d8e28c6ebc18","ref":null,"props":{"rck_id":"91fc3e7d-3d2c-4eb5-9986-d8e28c6ebc18","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","paddingTop":"5px","paddingRight":"5px","paddingBottom":"15px","paddingLeft":"5px","background":"url() center center \u002F auto repeat scroll rgba(255, 255, 255, 0)"},"children":[{"$$typeof":"react.element","type":"div","key":"b17cfbdb-4d8e-4224-9673-08d63245ae0d","ref":null,"props":{"rck_id":"b17cfbdb-4d8e-4224-9673-08d63245ae0d","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0,"marginTop":"0px","marginRight":0,"marginBottom":0,"marginLeft":0},"children":[{"$$typeof":"react.element","type":"div","key":"93f1890c-0182-48f4-8575-6332d7e7f455","ref":null,"props":{"rck_id":"93f1890c-0182-48f4-8575-6332d7e7f455","className":"col-md-6","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0,"marginTop":"30px","marginRight":0,"marginBottom":0,"marginLeft":0,"paddingTop":"5px","paddingRight":"30px","paddingBottom":"5px","paddingLeft":"30px"},"children":[{"$$typeof":"react.element","type":"div","key":"d8fa4d82-ca38-4af5-99e5-f7c274d74428","ref":null,"props":{"rck_id":"d8fa4d82-ca38-4af5-99e5-f7c274d74428","rck_type":"element","rck_element":"headline","tag":"div","className":"","text":"\u003Cdiv\u003ETenha o sorriso que você deseja com a segurança que você merece.&nbsp;\u003C\u002Fdiv\u003E","style":{"fontSize":"27px","fontWeight":600,"color":"#212529","lineHeight":"38px","fontFamily":"Adamina","paddingTop":"5px","paddingRight":"20px","paddingBottom":"5px","paddingLeft":"20px"},"mobile":{"fontSize":"21px","lineHeight":"33px","width":"100%","paddingTop":"5px","paddingRight":"10px","paddingBottom":"5px","paddingLeft":"10px"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"06dfeafd-ed3c-4768-9d73-785f6855c816","ref":null,"props":{"className":"lead","rck_id":"06dfeafd-ed3c-4768-9d73-785f6855c816","rck_type":"element","rck_element":"sub-headline","tag":"div","text":"\u003Cdiv\u003ELigue e saiba mais sobre os nossos tratamentos. Transforme seu sorriso com quem entende.&nbsp;\u003C\u002Fdiv\u003E","style":{"fontSize":"23px","color":"#212529","marginTop":"15px","marginRight":0,"marginBottom":0,"marginLeft":0,"lineHeight":"29px","fontFamily":"Adamina","paddingTop":"5px","paddingRight":"50px","paddingBottom":"5px","paddingLeft":"50px"},"mobile":{"fontSize":"19px","marginTop":"2px","marginRight":0,"marginBottom":0,"marginLeft":0,"paddingTop":"5px","paddingRight":"24px","paddingBottom":"5px","paddingLeft":"24px"}},"_owner":null},{"$$typeof":"react.element","type":"button","key":"3424eeba-e878-4180-8952-f21b4b153106","ref":null,"props":{"rck_id":"3424eeba-e878-4180-8952-f21b4b153106","className":"btn","style":{"marginTop":"27px","marginRight":0,"marginBottom":0,"marginLeft":0,"background":"url() center center \u002F auto repeat scroll rgba(254, 215, 102, 1)","border":"4px solid rgba(39, 38, 38, 1)","borderRadius":"5px 5px 5px 5px","fontFamily":"Adamina","fontWeight":"900","width":"55%","fontSize":"19px","color":"rgba(39, 38, 38, 1)"},"rck_type":"element","rck_element":"button","text":"Marque sua Consulta","aria-label":"Button","type":"jumpToContainer","newWindow":false,"source":"#agende","redirectType":"noAction","callback":"","mobile":{"marginTop":"18px","marginRight":0,"marginBottom":0,"marginLeft":0,"width":"74%","fontSize":"18px"}},"_owner":null}],"mobile":{"marginTop":"0px","marginRight":0,"marginBottom":0,"marginLeft":0,"paddingTop":"5px","paddingRight":"5px","paddingBottom":"5px","paddingLeft":"5px"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"b5ea42af-0cd1-4d27-b4d8-a561944b066b","ref":null,"props":{"rck_id":"b5ea42af-0cd1-4d27-b4d8-a561944b066b","className":"col-md-6","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"img","key":"ad3f08fa-67af-4be4-820f-0e90abd03ea9","ref":null,"props":{"className":"img-fluid","rck_id":"ad3f08fa-67af-4be4-820f-0e90abd03ea9","rck_type":"element","rck_element":"img","src":"https:\u002F\u002Fcdn.rockty.com.br\u002Fcdn-cgi\u002Fimage\u002Fquality=80,width=,format=webp\u002Ftenants\u002FHv3BdE0rWEGXd7XZByPDmQ\u002Fimages\u002FLoXT6FZnY0KqTF9U73YpBQ.jpeg","style":{"width":"523px","height":"310px","marginTop":"20px","marginRight":0,"marginBottom":0,"marginLeft":0,"borderRadius":"20px 20px 20px 20px"},"naturalWidth":"4756px","mobile":{"width":"333px","height":"198px","marginTop":"20px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null}]},"_owner":null}]},"_owner":null}],"contentboxed":"true","mobile":{"paddingTop":"5px","paddingRight":"5px","paddingBottom":"15px","paddingLeft":"5px"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"48df62cc-4a26-416e-b215-2bb633f368db","ref":null,"props":{"rck_id":"48df62cc-4a26-416e-b215-2bb633f368db","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","marginTop":"20px","marginRight":0,"marginBottom":0,"marginLeft":0,"background":"url() center center \u002F auto repeat scroll rgba(39, 38, 38, 1)"},"children":[{"$$typeof":"react.element","type":"div","key":"66743880-e939-40b0-8703-0c8ec7d2aa72","ref":null,"props":{"rck_id":"66743880-e939-40b0-8703-0c8ec7d2aa72","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"10ca5fc4-55c6-4322-841d-a7f0cb2aea32","ref":null,"props":{"rck_id":"10ca5fc4-55c6-4322-841d-a7f0cb2aea32","className":"col-md-12","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"8a41f553-9cbe-4c7f-986e-75cb63202c25","ref":null,"props":{"rck_id":"8a41f553-9cbe-4c7f-986e-75cb63202c25","rck_type":"element","rck_element":"headline","tag":"div","className":"","text":"\u003Cdiv\u003E\u003Cfont color=\"#ffffff\"\u003EAinda com dúvidas?\u003C\u002Ffont\u003E\u003C\u002Fdiv\u003E","style":{"fontSize":"35px","fontWeight":600,"color":"#212529"},"mobile":{"fontSize":"30px"}},"_owner":null}]},"_owner":null}]},"_owner":null}],"contentboxed":"true"},"_owner":null},{"$$typeof":"react.element","type":"div","key":"1809e6a9-9d84-4df7-b552-1799205fd262","ref":null,"props":{"rck_id":"1809e6a9-9d84-4df7-b552-1799205fd262","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","paddingTop":"5px","paddingRight":"5px","paddingBottom":"40px","paddingLeft":"5px","background":"url() center center \u002F auto repeat scroll rgba(255, 249, 249, 1)","marginTop":"0px","marginRight":0,"marginBottom":0,"marginLeft":0},"children":[{"$$typeof":"react.element","type":"div","key":"5a2d713b-ea77-443b-a4d1-f7ec007daf3b","ref":null,"props":{"rck_id":"5a2d713b-ea77-443b-a4d1-f7ec007daf3b","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0,"marginTop":"30px","marginRight":0,"marginBottom":0,"marginLeft":0,"paddingTop":"5px","paddingRight":"5px","paddingBottom":"20px","paddingLeft":"5px"},"children":[{"$$typeof":"react.element","type":"div","key":"131c19a9-96e2-41a3-9ec6-3bfc3c08fc6b","ref":null,"props":{"rck_id":"131c19a9-96e2-41a3-9ec6-3bfc3c08fc6b","className":"col-md-6","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0,"marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0},"children":[{"$$typeof":"react.element","type":"div","key":"e60a2684-0255-4827-86be-25bd4a624455","ref":null,"props":{"rck_id":"e60a2684-0255-4827-86be-25bd4a624455","rck_type":"element","rck_element":"headline","tag":"div","className":"","text":"\u003Cdiv\u003EConheça a tecnologia do escaneamento dos dentes\u003C\u002Fdiv\u003E","style":{"fontSize":"30px","fontWeight":600,"color":"#212529","paddingTop":"5px","paddingRight":"20px","paddingBottom":"5px","paddingLeft":"20px"},"mobile":{"fontSize":"26px","paddingTop":"5px","paddingRight":"10px","paddingBottom":"5px","paddingLeft":"10px"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"43d315af-16e0-4068-9eff-29c5ec91012a","ref":null,"props":{"className":"lead","rck_id":"43d315af-16e0-4068-9eff-29c5ec91012a","rck_type":"element","rck_element":"sub-headline","tag":"div","text":"\u003Cdiv\u003ECom o escaneamento você pode ver rapidamente o seu novo sorriso. Assim, conseguimos criar uma cópia digital de toda sua boca, registrando dentes tortos ou quebrados, cáries, próteses, posição de mordida, etc. \u003C\u002Fdiv\u003E","style":{"fontSize":"23px","color":"#212529","marginTop":"20px","marginRight":0,"marginBottom":0,"marginLeft":0,"fontWeight":"500"},"mobile":{"fontSize":"20px"}},"_owner":null}]},"_owner":null},{"$$typeof":"react.element","type":"div","key":"574b0433-ff2f-418b-b6a6-31ae3008e6c0","ref":null,"props":{"rck_id":"574b0433-ff2f-418b-b6a6-31ae3008e6c0","className":"col-md-6","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"03ed46e0-6344-4a9e-96ee-21a95c7aba22","ref":null,"props":{"className":"embed-responsive embed-responsive-16by9","rck_id":"03ed46e0-6344-4a9e-96ee-21a95c7aba22","rck_type":"element","rck_element":"video","style":{"display":"flex","width":"85%","borderRadius":"0px 0px 0px 0px","border":"2px solid rgba(33, 37, 41, 1)","justifyContent":"center","marginTop":"11px","marginRight":0,"marginBottom":0,"marginLeft":0},"src":"https:\u002F\u002Fwww.youtube.com\u002Fembed\u002FPciDIxOMAFQ","mobile":{"width":"98%"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"03359efb-e860-484d-aab1-09566c0d77cf","ref":null,"props":{"className":"lead","rck_id":"03359efb-e860-484d-aab1-09566c0d77cf","rck_type":"element","rck_element":"sub-headline","tag":"div","text":"\u003Cdiv\u003EDê play no video\u003C\u002Fdiv\u003E","style":{"fontSize":"15px","color":"#212529","marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null}]},"_owner":null}],"mobile":{"marginTop":"5px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null}],"contentboxed":"true","mobile":{"paddingTop":"5px","paddingRight":"5px","paddingBottom":"15px","paddingLeft":"5px"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"6fbe8d9b-239d-40c7-a92b-2bcc95e6ce01","ref":null,"props":{"rck_id":"6fbe8d9b-239d-40c7-a92b-2bcc95e6ce01","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","marginTop":"20px","marginRight":0,"marginBottom":0,"marginLeft":0,"background":"url() center center \u002F auto repeat scroll rgba(39, 38, 38, 1)"},"children":[{"$$typeof":"react.element","type":"div","key":"e8242438-8733-4205-b338-4813cf898273","ref":null,"props":{"rck_id":"e8242438-8733-4205-b338-4813cf898273","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"8f6573fa-6a68-46ca-9067-7e0fb8d66d9a","ref":null,"props":{"rck_id":"8f6573fa-6a68-46ca-9067-7e0fb8d66d9a","className":"col-md-12","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"e94d8356-65d5-42d3-beb0-5949a063e6d6","ref":null,"props":{"rck_id":"e94d8356-65d5-42d3-beb0-5949a063e6d6","rck_type":"element","rck_element":"headline","tag":"div","className":"","text":"\u003Cfont color=\"#ffffff\"\u003ENossos tratamentos podem proporcionar ...\u003C\u002Ffont\u003E\u003Cbr\u003E","style":{"fontSize":"35px","fontWeight":600,"color":"#212529"},"mobile":{"fontSize":"30px"}},"_owner":null}]},"_owner":null}]},"_owner":null}],"contentboxed":"true"},"_owner":null},{"$$typeof":"react.element","type":"div","key":"80821109-eb73-4be3-a802-6eaf705cbe8a","ref":null,"props":{"rck_id":"80821109-eb73-4be3-a802-6eaf705cbe8a","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","paddingTop":"5px","paddingRight":"5px","paddingBottom":"40px","paddingLeft":"5px","background":"url() center center \u002F auto repeat scroll rgba(255, 249, 249, 1)","marginTop":"20px","marginRight":0,"marginBottom":0,"marginLeft":0},"children":[{"$$typeof":"react.element","type":"div","key":"898fa3f5-35b8-44c8-bab1-7a7d474d7920","ref":null,"props":{"rck_id":"898fa3f5-35b8-44c8-bab1-7a7d474d7920","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0,"marginTop":"5px","marginRight":0,"marginBottom":0,"marginLeft":0,"paddingTop":"5px","paddingRight":"5px","paddingBottom":"20px","paddingLeft":"5px"},"children":[{"$$typeof":"react.element","type":"div","key":"699328fc-6059-49e5-91a9-2404a25f0c56","ref":null,"props":{"rck_id":"699328fc-6059-49e5-91a9-2404a25f0c56","className":"col-md-4","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"img","key":"69662b11-a345-4482-9755-bdb5a2756b46","ref":null,"props":{"className":"img-fluid","rck_id":"69662b11-a345-4482-9755-bdb5a2756b46","rck_type":"element","rck_element":"img","src":"https:\u002F\u002Fcdn.rockty.com.br\u002Fcdn-cgi\u002Fimage\u002Fquality=80,width=,format=webp\u002Ftenants\u002FHv3BdE0rWEGXd7XZByPDmQ\u002Fimages\u002FF6iVDXNwDEih39z7eHDSg.jpg","style":{"width":"290px","height":"242px","borderRadius":"5px 5px 5px 5px"},"naturalWidth":"517px"},"_owner":null},{"$$typeof":"react.element","type":"div","key":"2acf275f-e002-4ec7-a9ee-e4a59f675f40","ref":null,"props":{"className":"lead","rck_id":"2acf275f-e002-4ec7-a9ee-e4a59f675f40","rck_type":"element","rck_element":"sub-headline","tag":"div","text":"\u003Cdiv\u003EGrandes Mudanças\u003C\u002Fdiv\u003E","style":{"fontSize":22,"color":"#212529","marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0,"fontWeight":"500"}},"_owner":null}]},"_owner":null},{"$$typeof":"react.element","type":"div","key":"8aae3d80-c838-4bac-b493-93f8f0bc7ecd","ref":null,"props":{"rck_id":"8aae3d80-c838-4bac-b493-93f8f0bc7ecd","className":"col-md-4","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0,"marginTop":"0px","marginRight":0,"marginBottom":0,"marginLeft":0},"children":[{"$$typeof":"react.element","type":"img","key":"e40cd75b-d2fd-4bee-98f2-d8ba415826d5","ref":null,"props":{"className":"img-fluid","rck_id":"e40cd75b-d2fd-4bee-98f2-d8ba415826d5","rck_type":"element","rck_element":"img","src":"https:\u002F\u002Fcdn.rockty.com.br\u002Fcdn-cgi\u002Fimage\u002Fquality=80,width=,format=webp\u002Ftenants\u002FHv3BdE0rWEGXd7XZByPDmQ\u002Fimages\u002Fyd84QFAJ3Ue8LvPjBUAYA.jpg","style":{"width":"291px","height":"244px","borderRadius":"5px 5px 5px 5px"},"naturalWidth":"940px"},"_owner":null},{"$$typeof":"react.element","type":"div","key":"b0ee88d2-d8a1-4613-9bd4-153591f2de0a","ref":null,"props":{"className":"lead","rck_id":"b0ee88d2-d8a1-4613-9bd4-153591f2de0a","rck_type":"element","rck_element":"sub-headline","tag":"div","text":"\u003Cdiv\u003EMudanças discretas\u003C\u002Fdiv\u003E","style":{"fontSize":22,"color":"#212529","marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0,"fontWeight":"500"}},"_owner":null}]},"_owner":null},{"$$typeof":"react.element","type":"div","key":"bbdf3cca-d420-4148-b732-5defebbd6ffd","ref":null,"props":{"rck_id":"bbdf3cca-d420-4148-b732-5defebbd6ffd","className":"col-md-4","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"img","key":"233b422f-a47c-4363-b642-7a90f2778382","ref":null,"props":{"className":"img-fluid","rck_id":"233b422f-a47c-4363-b642-7a90f2778382","rck_type":"element","rck_element":"img","src":"https:\u002F\u002Fcdn.rockty.com.br\u002Fcdn-cgi\u002Fimage\u002Fquality=80,width=,format=webp\u002Ftenants\u002FHv3BdE0rWEGXd7XZByPDmQ\u002Fimages\u002FGMFzO30PZ0mH3tpw9G4Qog.jpg","style":{"width":"291px","height":"244px","borderRadius":"5px 5px 5px 5px"},"naturalWidth":"940px"},"_owner":null},{"$$typeof":"react.element","type":"div","key":"1ba59009-9ea7-43cc-882a-e0b406120be5","ref":null,"props":{"className":"lead","rck_id":"1ba59009-9ea7-43cc-882a-e0b406120be5","rck_type":"element","rck_element":"sub-headline","tag":"div","text":"\u003Cdiv\u003EMudanças de vida\u003C\u002Fdiv\u003E","style":{"fontSize":22,"color":"#212529","marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0,"fontWeight":"500"}},"_owner":null}]},"_owner":null}],"mobile":{"marginTop":"5px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null}],"contentboxed":"true","mobile":{"paddingTop":"5px","paddingRight":"5px","paddingBottom":"15px","paddingLeft":"5px"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"a7c49959-19dd-4c7b-b65b-0833ba051655","ref":null,"props":{"rck_id":"a7c49959-19dd-4c7b-b65b-0833ba051655","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","background":"url() center center \u002F auto repeat scroll rgba(39, 38, 38, 1)"},"children":[{"$$typeof":"react.element","type":"div","key":"4a714605-5d5e-4cec-9669-649d9b5f188d","ref":null,"props":{"rck_id":"4a714605-5d5e-4cec-9669-649d9b5f188d","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"2dddc662-e5b0-46f0-b0a3-87c936435798","ref":null,"props":{"rck_id":"2dddc662-e5b0-46f0-b0a3-87c936435798","className":"col-md-12","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"6b16e096-bcff-43d3-a1a8-84934ca67a15","ref":null,"props":{"rck_id":"6b16e096-bcff-43d3-a1a8-84934ca67a15","rck_type":"element","rck_element":"headline","tag":"div","className":"","text":"\u003Cdiv\u003E\u003Cfont color=\"#ffffff\"\u003EPor isso é tão importante ler isso\u003C\u002Ffont\u003E\u003C\u002Fdiv\u003E","style":{"fontSize":"35px","fontWeight":600,"color":"#212529"}},"_owner":null}]},"_owner":null}]},"_owner":null}]},"_owner":null},{"$$typeof":"react.element","type":"div","key":"3d2b054f-cda6-43b7-9c8a-808bf262939c","ref":null,"props":{"rck_id":"3d2b054f-cda6-43b7-9c8a-808bf262939c","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","background":"url() center center \u002F auto repeat scroll rgba(39, 38, 38, 1)"},"children":[{"$$typeof":"react.element","type":"div","key":"f601f82c-4e1d-461e-ab43-ea63ca074943","ref":null,"props":{"rck_id":"f601f82c-4e1d-461e-ab43-ea63ca074943","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"e398cb9c-93e2-45c5-ade1-0baea2ed776d","ref":null,"props":{"rck_id":"e398cb9c-93e2-45c5-ade1-0baea2ed776d","className":"col-md-4","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"25a7dba9-ccfe-482f-a86c-3597d9c605a8","ref":null,"props":{"className":"lead","rck_id":"25a7dba9-ccfe-482f-a86c-3597d9c605a8","rck_type":"element","rck_element":"paragraph","tag":"div","text":"\u003Cfont color=\"#ffffff\" style=\"\"\u003ESempre tive pânico de dentista, algo que me impediu de ir ao dentista por 15 anos, praticamente. Chorava, fugia, verdadeiro terror! \nQuando encontrei a MD Frossard estava apavorada mas decidida e eles foram essenciais para que eu finalmente superasse e me cuidasse. \nDesde o atendimento por telefone, ate a consulta, e dia após dia, me senti abraçada por uma equipe inteira, o que fez toda a diferença!! \nO trabalho feito por eles me mudou esteticamente e funcionalmente. \nAgradeço demais e recomendo, são excelentes profissionais! Dr Davi, Dr Marcos, a querida Lili e todo o time, vocês são demais!!  \u003C\u002Ffont\u003E","style":{"fontSize":"16px","color":"#212529","lineHeight":"28px","fontFamily":"Adamina","paddingTop":"5px","paddingRight":"20px","paddingBottom":"5px","paddingLeft":"20px"},"mobile":{"paddingTop":"5px","paddingRight":"10px","paddingBottom":"5px","paddingLeft":"10px"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"c43183fd-5db0-4de8-a303-6b56373f7301","ref":null,"props":{"className":"lead","rck_id":"c43183fd-5db0-4de8-a303-6b56373f7301","rck_type":"element","rck_element":"sub-headline","tag":"div","text":"\u003Cdiv\u003E\u003Cb\u003E\u003Cfont color=\"#ffffff\"\u003E\u003Cu\u003ELarissa Rodrigues\u003C\u002Fu\u003E\u003C\u002Ffont\u003E\u003C\u002Fb\u003E\u003C\u002Fdiv\u003E","style":{"fontSize":"18px","color":"#212529","marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0,"fontFamily":"Adamina"},"mobile":{"marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0,"textAlign":"center"}},"_owner":null}]},"_owner":null},{"$$typeof":"react.element","type":"div","key":"93d0e120-0048-447e-b0b0-c8656d13a20a","ref":null,"props":{"rck_id":"93d0e120-0048-447e-b0b0-c8656d13a20a","className":"col-md-4","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0,"background":"url() center center \u002F auto repeat scroll rgba(39, 38, 38, 1)"},"children":[{"$$typeof":"react.element","type":"div","key":"5669ba87-987b-45a0-9f2d-564c4dc89691","ref":null,"props":{"className":"lead","rck_id":"5669ba87-987b-45a0-9f2d-564c4dc89691","rck_type":"element","rck_element":"paragraph","tag":"div","text":"\u003Cfont color=\"#ffffff\"\u003ESempre tive medo de fazer tratamento dentário. Precisava fazer três implantes, mas adiei isso por muitos anos. Foram várias opiniões que tive sobre a necessidade de usar aparelho ortodôntico para posteriormente fazer o implante. Isso interferiu muito negativo na minha decisão. Cheguei na Clínica MD Frossard Odontologia através das ótimas avaliações que li na internet, com a finalidade de fazer os implantes. Tenho sido atendida por Dr. Marcos e Dr. Davi que fez os três implantes, são muitos competentes e gentis. Não precisei usar aparelho, não senti dor durante e após a cirurgia, nem inchaços. Me senti muito bem assistida. Parabéns Dr. Marcos e Dr. Davi pela excelência no tratamento ao cliente. Tive muito contato com a Lili, instrumentadora, que é muito agradável e gentil, enfim todos da equipe são competentes e atenciosos. A Clínica é higienicamente impecável, bonita e aconchegante. Só tenho a agradecer por tudo!\u003C\u002Ffont\u003E\u003Cbr\u003E","style":{"fontSize":"15px","color":"#212529","lineHeight":"27px","paddingTop":"5px","paddingRight":"10px","paddingBottom":"5px","paddingLeft":"10px","fontFamily":"Adamina"},"mobile":{"marginTop":"20px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"b7d76eed-4023-415e-9f1d-747989b88048","ref":null,"props":{"className":"lead","rck_id":"b7d76eed-4023-415e-9f1d-747989b88048","rck_type":"element","rck_element":"sub-headline","tag":"div","text":"\u003Cfont color=\"#ffffff\"\u003E\u003Cu\u003EMaria Helena Moura de Farias\u003C\u002Fu\u003E\u003C\u002Ffont\u003E\u003Cbr\u003E","style":{"fontSize":"18px","color":"#212529","marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0,"fontFamily":"Adamina"},"mobile":{"marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null}]},"_owner":null},{"$$typeof":"react.element","type":"div","key":"e3ddb57e-4650-48f4-8f2d-ec05eed39326","ref":null,"props":{"rck_id":"e3ddb57e-4650-48f4-8f2d-ec05eed39326","className":"col-md-4","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"bf484e81-f094-4ad8-bcb6-ff702df3093a","ref":null,"props":{"className":"lead","rck_id":"bf484e81-f094-4ad8-bcb6-ff702df3093a","rck_type":"element","rck_element":"paragraph","tag":"div","text":"\u003Cfont color=\"#ffffff\" style=\"\"\u003E¨Qualidade e competência, estas duas palavras traduzem os serviços e atendimento da MD odontologia. Fui atendido durante a Pandemia e me senti muito seguro em relação a limpeza e cuidados no ambiente de atendimento. Quero agradecer a toda a equipe, mas principalmente a esses dois excelentes profissionais que me atenderam, dra Luciana Peroni e dr Davi Frossard, vocês superaram minhas expectativas. ¨&nbsp;\u003C\u002Ffont\u003E\u003Cbr\u003E","style":{"fontSize":"16px","color":"#212529","lineHeight":"28px","fontFamily":"Adamina","paddingTop":"5px","paddingRight":"5px","paddingBottom":"20px","paddingLeft":"20px"},"mobile":{"marginTop":"20px","marginRight":0,"marginBottom":0,"marginLeft":0,"paddingTop":"5px","paddingRight":"5px","paddingBottom":"20px","paddingLeft":"10px"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"cc723a08-1331-4c53-858e-255aaefafd78","ref":null,"props":{"className":"lead","rck_id":"cc723a08-1331-4c53-858e-255aaefafd78","rck_type":"element","rck_element":"sub-headline","tag":"div","text":"\u003Cb\u003E\u003Cfont color=\"#ffffff\"\u003E\u003Cu\u003E&nbsp;Isaias Paulino\u003C\u002Fu\u003E\u003C\u002Ffont\u003E\u003C\u002Fb\u003E","style":{"fontSize":"18px","color":"#212529","marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0,"fontFamily":"Adamina"},"mobile":{"marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null}],"mobile":{"marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null}]},"_owner":null}],"contentboxed":"true"},"_owner":null},{"$$typeof":"react.element","type":"div","key":"f65780f9-a176-4850-ae60-22c0010657ab","ref":null,"props":{"rck_id":"f65780f9-a176-4850-ae60-22c0010657ab","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","background":"url() center center \u002F auto repeat scroll rgba(255, 249, 249, 1)"},"children":[{"$$typeof":"react.element","type":"div","key":"7ee47987-b2fa-4351-95b6-1369b4c9164b","ref":null,"props":{"rck_id":"7ee47987-b2fa-4351-95b6-1369b4c9164b","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"1858042f-bce9-4cc8-abd8-e77d5f1bd962","ref":null,"props":{"rck_id":"1858042f-bce9-4cc8-abd8-e77d5f1bd962","className":"col-md-12","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"4c4be53e-5542-4339-a78b-6248c70b7b57","ref":null,"props":{"rck_id":"4c4be53e-5542-4339-a78b-6248c70b7b57","rck_type":"element","rck_element":"headline","tag":"div","className":"","text":"\u003Cdiv\u003EQuem está por trás da clínica?\u003C\u002Fdiv\u003E","style":{"fontSize":26,"fontWeight":600,"color":"#212529"}},"_owner":null}]},"_owner":null}]},"_owner":null}]},"_owner":null},{"$$typeof":"react.element","type":"div","key":"1912a09e-4077-4246-8448-18498f96fafe","ref":null,"props":{"rck_id":"1912a09e-4077-4246-8448-18498f96fafe","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","background":"url() center center \u002F auto repeat scroll rgba(255, 249, 249, 1)"},"children":[{"$$typeof":"react.element","type":"div","key":"14f42de8-ebf5-4396-a7cc-fafe2bdf4ea7","ref":null,"props":{"rck_id":"14f42de8-ebf5-4396-a7cc-fafe2bdf4ea7","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"61b16488-00dd-4a73-8eca-150b5f7778d1","ref":null,"props":{"rck_id":"61b16488-00dd-4a73-8eca-150b5f7778d1","className":"col-md-7","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0,"marginTop":"5px","marginRight":0,"marginBottom":0,"marginLeft":0,"paddingTop":"5px","paddingRight":"20px","paddingBottom":"5px","paddingLeft":"30px"},"children":[{"$$typeof":"react.element","type":"div","key":"a863ceaa-b8f1-4bed-a638-81fc4244782e","ref":null,"props":{"className":"lead","rck_id":"a863ceaa-b8f1-4bed-a638-81fc4244782e","rck_type":"element","rck_element":"paragraph","tag":"div","text":"\u003Cfont color=\"#000000\"\u003EA MD Frossard Odontologia é uma clínica odontológica que atua há 37 anos no Rio de Janeiro, gerenciada pelos dentistas Marcos e Davi Frossard.&nbsp;\u003C\u002Ffont\u003E\u003Cdiv\u003E\u003Cdiv\u003E\u003Cfont color=\"#000000\"\u003EFocamos nosso atendimento em 3 pilares: Relacionamento, Confiança e Pontualidade.\u003C\u002Ffont\u003E\u003C\u002Fdiv\u003E\u003Cdiv\u003E\u003Cdiv\u003E\u003Cfont color=\"#000000\"\u003ENosso objetivo é que o seu tratamento seja memorável, por isso o seu trabalho é personalizado e de qualidade. \u003Cbr\u003EAlém disso, contamos com uma estrutura privilegiada, apta para proporcionar conforto durante atendimento\u003Cb style=\"\"\u003E.\u003C\u002Fb\u003E\u003C\u002Ffont\u003E\u003C\u002Fdiv\u003E\u003C\u002Fdiv\u003E\u003C\u002Fdiv\u003E","style":{"fontSize":"20px","color":"#212529","lineHeight":"39px","textAlign":"center","paddingTop":"5px","paddingRight":"5px","paddingBottom":"20px","paddingLeft":"5px","fontFamily":"Adamina"},"mobile":{"marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0,"fontSize":"16px","lineHeight":"35px","textAlign":"center","paddingTop":"5px","paddingRight":"0px","paddingBottom":"20px","paddingLeft":"0px"}},"_owner":null}],"mobile":{"paddingTop":"5px","paddingRight":"10px","paddingBottom":"5px","paddingLeft":"10px"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"1d4687a3-87be-4ede-b10c-740a42cb45e5","ref":null,"props":{"rck_id":"1d4687a3-87be-4ede-b10c-740a42cb45e5","className":"col-md-5","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"img","key":"0ac8a2e8-b52e-42a3-886d-150031cf94c4","ref":null,"props":{"className":"img-fluid","rck_id":"0ac8a2e8-b52e-42a3-886d-150031cf94c4","rck_type":"element","rck_element":"img","src":"https:\u002F\u002Fcdn.rockty.com.br\u002Fcdn-cgi\u002Fimage\u002Fquality=80,width=,format=webp\u002Ftenants\u002FHv3BdE0rWEGXd7XZByPDmQ\u002Fimages\u002FoBTwzXscy0ihfzpKnJaTlA.jpeg","style":{"width":"480px","height":"320px","marginTop":"22px","marginRight":0,"marginBottom":0,"marginLeft":0,"borderRadius":"10px 10px 10px 10px"},"naturalWidth":"6000px","mobile":{"width":"420px","height":"280px","textAlign":"center"}},"_owner":null}]},"_owner":null}]},"_owner":null}],"contentboxed":"true","mobile":{"paddingTop":"10px","paddingRight":"5px","paddingBottom":"5px","paddingLeft":"5px"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"fe8593cf-0727-494c-bdb8-deaf6f88d702","ref":null,"props":{"rck_id":"fe8593cf-0727-494c-bdb8-deaf6f88d702","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","marginTop":"25px","marginRight":0,"marginBottom":0,"marginLeft":0,"background":"url() center center \u002F auto repeat scroll rgba(58, 58, 58, 1)"},"children":[{"$$typeof":"react.element","type":"div","key":"89b4f7d7-77bf-469e-ba76-48f086c3ab62","ref":null,"props":{"rck_id":"89b4f7d7-77bf-469e-ba76-48f086c3ab62","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"46677800-52d2-4149-9970-c1d3568fd1c9","ref":null,"props":{"rck_id":"46677800-52d2-4149-9970-c1d3568fd1c9","className":"col-md-12","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"a484ed81-d44d-43c2-afd6-893188d1d86a","ref":null,"props":{"rck_id":"a484ed81-d44d-43c2-afd6-893188d1d86a","rck_type":"element","rck_element":"headline","tag":"div","className":"","text":"\u003Cdiv\u003E\u003Cfont color=\"#ffffff\"\u003EPerguntas Frequentes\u003C\u002Ffont\u003E\u003C\u002Fdiv\u003E","style":{"fontSize":"35px","fontWeight":600,"color":"#212529"},"mobile":{"fontSize":"35px"}},"_owner":null}]},"_owner":null}]},"_owner":null}],"contentboxed":"true"},"_owner":null},{"$$typeof":"react.element","type":"div","key":"a9527a00-aeaf-4181-ba7d-906a13a23055","ref":null,"props":{"rck_id":"a9527a00-aeaf-4181-ba7d-906a13a23055","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0,"paddingTop":"5px","paddingRight":"5px","paddingBottom":"25px","paddingLeft":"5px"},"children":[{"$$typeof":"react.element","type":"div","key":"c11cfc17-f875-4e29-b02b-7adb618d277a","ref":null,"props":{"rck_id":"c11cfc17-f875-4e29-b02b-7adb618d277a","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"4ba9e634-750c-43b8-a1da-b720a4e1704e","ref":null,"props":{"rck_id":"4ba9e634-750c-43b8-a1da-b720a4e1704e","className":"col-md-6","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"ul","key":"4597af26-facd-4531-b75d-7d22f19519f1","ref":null,"props":{"rck_id":"4597af26-facd-4531-b75d-7d22f19519f1","rck_type":"element","rck_element":"faq","children":[{"$$typeof":"react.element","type":"li","key":"bb8883cc-d477-45cf-a2ec-9befbabb7cfc","ref":null,"props":{"rck_id":"bb8883cc-d477-45cf-a2ec-9befbabb7cfc","rck_type":"element","rck_element":"faqItem","children":[{"$$typeof":"react.element","type":"function(e){var t=Object(w.a)();return r.a.createElement(\"div\",{rck_id:t,rck_type:\"element\",rck_element:\"headline\",tag:\"div\",className:\"\",text:Ot(\"default.headlineText\",e),style:{fontSize:26,fontWeight:600,color:\"#212529\"},key:t})}","key":"7f994e8f-04fb-4467-b221-6e27c4483052","ref":null,"props":{"rck_id":"7f994e8f-04fb-4467-b221-6e27c4483052","rck_type":"element","rck_element":"headline","noAction":true,"tag":"div","className":"","text":"\u003Cdiv\u003EQual o preço dos tratamentos?\u003C\u002Fdiv\u003E","style":{"fontSize":26,"fontWeight":600,"textAlign":"left"},"mobile":{"fontSize":"23px"}},"_owner":null},{"$$typeof":"react.element","type":"function(e){var t=Object(w.a)();return r.a.createElement(\"div\",{key:t,className:\"lead\",rck_id:t,rck_type:\"element\",rck_element:\"paragraph\",tag:\"div\",text:Ot(\"default.paragraphText\",e),style:{fontSize:14,color:\"#212529\"}})}","key":"155c044a-6a3c-4d41-81b5-ffb7e5f48dde","ref":null,"props":{"className":"lead","rck_id":"155c044a-6a3c-4d41-81b5-ffb7e5f48dde","rck_type":"element","rck_element":"paragraph","noAction":true,"tag":"div","text":"Por cuidar de cada paciente de forma única, cada caso é tratado de forma individual. Portanto, só é possível calcular o valor do seu tratamento a partir da primeira consulta, que é realizada por um cirurgião-dentista especializado.&nbsp;\u003Cdiv\u003ENessa consulta são identificados vários aspectos pessoais: idade, perfil alimentar, condições de saúde (gestante, diabético, hipertenso...) e seus hábitos que influenciam na saúde bucal.&nbsp;\u003C\u002Fdiv\u003E\u003Cdiv\u003EAlém disso, questões técnicas também serão avaliadas: durabilidade do tratamento, expectativa estética, viabilidade das técnicas, entre outras particularidades.&nbsp;\u003C\u002Fdiv\u003E\u003Cdiv\u003ESão esses fatores que serão levados em conta para recomendar o tratamento adequado, e isso pode alterar caso a caso.&nbsp;\u003C\u002Fdiv\u003E","style":{"fontSize":"16px","textAlign":"left","fontWeight":"700","fontFamily":"Adamina","lineHeight":"24px","marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null}]},"_owner":null}]},"_owner":null}]},"_owner":null},{"$$typeof":"react.element","type":"div","key":"06e7695a-6e8c-4637-acb0-2117a5aa016f","ref":null,"props":{"rck_id":"06e7695a-6e8c-4637-acb0-2117a5aa016f","className":"col-md-6","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"ul","key":"d781a8d6-209c-49a6-9c46-044b8782b0c8","ref":null,"props":{"rck_id":"d781a8d6-209c-49a6-9c46-044b8782b0c8","rck_type":"element","rck_element":"faq","children":[{"$$typeof":"react.element","type":"li","key":"8f3a8854-ffb4-40e8-b444-62197df9a1f3","ref":null,"props":{"rck_id":"8f3a8854-ffb4-40e8-b444-62197df9a1f3","rck_type":"element","rck_element":"faqItem","children":[{"$$typeof":"react.element","type":"function(e){var t=Object(q.a)();return r.a.createElement(\"div\",{rck_id:t,rck_type:\"element\",rck_element:\"headline\",tag:\"div\",className:\"\",text:Te(\"default.headlineText\",e),style:{fontSize:26,fontWeight:600,color:\"#212529\"},key:t})}","key":"8918b204-e1b8-4ccc-84ca-fabe77c7e2d6","ref":null,"props":{"rck_id":"8918b204-e1b8-4ccc-84ca-fabe77c7e2d6","rck_type":"element","rck_element":"headline","noAction":true,"tag":"div","className":"","text":"Aceitam Convênio?  ","style":{"fontSize":26,"fontWeight":600,"textAlign":"left"},"mobile":{"fontSize":"23px"}},"_owner":null},{"$$typeof":"react.element","type":"function(e){var t=Object(q.a)();return r.a.createElement(\"div\",{key:t,className:\"lead\",rck_id:t,rck_type:\"element\",rck_element:\"paragraph\",tag:\"div\",text:Te(\"default.paragraphText\",e),style:{fontSize:14,color:\"#212529\"}})}","key":"b754855c-dee8-4c1e-a080-9dec025ed9bd","ref":null,"props":{"className":"lead","rck_id":"b754855c-dee8-4c1e-a080-9dec025ed9bd","rck_type":"element","rck_element":"paragraph","noAction":true,"tag":"div","text":"Não aceitamos convênios odontológicos, porém disponibilizamos toda a documentação necessária para que você possa solicitar o reembolso à sua operadora.","style":{"fontSize":"16px","textAlign":"left","fontWeight":"700","fontFamily":"Adamina","lineHeight":"24px","marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null}]},"_owner":null}]},"_owner":null}]},"_owner":null}]},"_owner":null}],"contentboxed":"true"},"_owner":null},{"$$typeof":"react.element","type":"div","key":"f4f513b2-b880-4ad9-8475-d9696edd893a","ref":null,"props":{"rck_id":"f4f513b2-b880-4ad9-8475-d9696edd893a","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","background":"url() center center \u002F auto repeat scroll rgba(39, 38, 38, 1)","marginTop":"0px","marginRight":0,"marginBottom":0,"marginLeft":0},"children":[{"$$typeof":"react.element","type":"div","key":"2ad450a5-5fcb-439f-b5e5-02f6bd2b1859","ref":null,"props":{"rck_id":"2ad450a5-5fcb-439f-b5e5-02f6bd2b1859","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"e95918f9-8e5c-4c16-9a5c-64bfab7744ec","ref":null,"props":{"rck_id":"e95918f9-8e5c-4c16-9a5c-64bfab7744ec","className":"col-md-12","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"c855b7bd-1d18-4b63-aa22-b53933a848d5","ref":null,"props":{"rck_id":"c855b7bd-1d18-4b63-aa22-b53933a848d5","rck_type":"element","rck_element":"headline","tag":"div","className":"","text":"\u003Cdiv\u003E\u003Cfont color=\"#ffffff\"\u003EAgende sua consulta\u003C\u002Ffont\u003E\u003C\u002Fdiv\u003E","style":{"fontSize":"45px","fontWeight":600,"color":"#212529"},"mobile":{"fontSize":"37px"}},"_owner":null}]},"_owner":null}]},"_owner":null}],"contentboxed":"false","mobile":{"marginTop":"0px","marginRight":0,"marginBottom":0,"marginLeft":0},"name":"agende"},"_owner":null},{"$$typeof":"react.element","type":"div","key":"bd350e37-2b54-4a14-a09b-b56a62ca80a7","ref":null,"props":{"rck_id":"bd350e37-2b54-4a14-a09b-b56a62ca80a7","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","background":"url() center center \u002F auto repeat scroll rgba(39, 38, 38, 1)"},"children":[{"$$typeof":"react.element","type":"div","key":"ae819a26-4d5e-4a8b-91e6-c08d3e497128","ref":null,"props":{"rck_id":"ae819a26-4d5e-4a8b-91e6-c08d3e497128","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"05f4ab5a-22bd-4416-b9f4-cd53886556ca","ref":null,"props":{"rck_id":"05f4ab5a-22bd-4416-b9f4-cd53886556ca","className":"col-md-12","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"84e390a8-7424-4754-8bc8-d29faeed5fb7","ref":null,"props":{"className":"lead","rck_id":"84e390a8-7424-4754-8bc8-d29faeed5fb7","rck_type":"element","rck_element":"sub-headline","tag":"div","text":"\u003Cb\u003E\u003Cfont color=\"#ffffff\"\u003ESegunda a Sexta - 8h às 18h -&nbsp; Barra da Tijuca e Botafogo\u003C\u002Ffont\u003E\u003C\u002Fb\u003E","style":{"fontSize":22,"color":"#212529"}},"_owner":null}]},"_owner":null}]},"_owner":null}]},"_owner":null},{"$$typeof":"react.element","type":"div","key":"5aeec932-9f23-483d-bd06-b95a96d7f2fa","ref":null,"props":{"rck_id":"5aeec932-9f23-483d-bd06-b95a96d7f2fa","className":"container-fluid","rck_type":"container","rck_highlightable":"1","style":{"padding":"5px","background":"url() center center \u002F auto repeat scroll rgba(39, 38, 38, 1)","paddingTop":"5px","paddingRight":"5px","paddingBottom":"60px","paddingLeft":"5px"},"children":[{"$$typeof":"react.element","type":"div","key":"7c88b877-f1f8-455f-8d44-64633e392763","ref":null,"props":{"rck_id":"7c88b877-f1f8-455f-8d44-64633e392763","className":"row","rck_type":"row","rck_highlightable":"1","style":{"padding":"5px","margin":0,"paddingTop":"5px","paddingRight":"5px","paddingBottom":"20px","paddingLeft":"5px"},"children":[{"$$typeof":"react.element","type":"div","key":"0058f2fb-966c-47cd-aa4a-b8c00249c076","ref":null,"props":{"rck_id":"0058f2fb-966c-47cd-aa4a-b8c00249c076","className":"col-md-6","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"0dc9244f-5ee1-40d6-afda-a73be5f65294","ref":null,"props":{"className":"lead","rck_id":"0dc9244f-5ee1-40d6-afda-a73be5f65294","rck_type":"element","rck_element":"sub-headline","tag":"div","text":"\u003Cdiv\u003E\u003Cb\u003E\u003Cfont color=\"#ffffff\"\u003ENo telefone\u003C\u002Ffont\u003E\u003C\u002Fb\u003E\u003C\u002Fdiv\u003E","style":{"fontSize":22,"color":"#212529"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"0b0ba2b9-008b-442b-a9b8-db0857cf422e","ref":null,"props":{"className":"lead","rck_id":"0b0ba2b9-008b-442b-a9b8-db0857cf422e","rck_type":"element","rck_element":"paragraph","tag":"div","text":"\u003Cdiv\u003E\u003Cb\u003E&nbsp; \u003Ca href=\"tel:22665955\"\u003E\u003Cfont color=\"#fba026\"\u003E(021) 2266-5955\u003C\u002Ffont\u003E\u003C\u002Fa\u003E\u003C\u002Fb\u003E\u003Cbr\u003E\u003C\u002Fdiv\u003E","style":{"fontSize":"26px","color":"#212529","textAlign":"center","marginTop":"0px","marginRight":0,"marginBottom":0,"marginLeft":0,"paddingTop":"5px","paddingRight":"5px","paddingBottom":"5px","paddingLeft":"5px"},"mobile":{"marginTop":"0px","marginRight":0,"marginBottom":0,"marginLeft":0,"width":"73%","textAlign":"justify","paddingTop":"5px","paddingRight":"5px","paddingBottom":"5px","paddingLeft":"20px"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"670de285-e44e-47b0-9add-af5dc05f02c8","ref":null,"props":{"className":"lead","rck_id":"670de285-e44e-47b0-9add-af5dc05f02c8","rck_type":"element","rck_element":"paragraph","tag":"div","text":"\u003Cb\u003E\u003Cfont color=\"#ffffff\"\u003ELigue para nossa clinica e tire suas dúvidas\u003C\u002Ffont\u003E\u003C\u002Fb\u003E","style":{"fontSize":14,"color":"#212529","marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null}]},"_owner":null},{"$$typeof":"react.element","type":"div","key":"649357db-8ce5-49f8-86a0-d07a7d5ea46d","ref":null,"props":{"rck_id":"649357db-8ce5-49f8-86a0-d07a7d5ea46d","className":"col-md-6","rck_type":"column","rck_highlightable":"1","style":{"padding":"5px","margin":0},"children":[{"$$typeof":"react.element","type":"div","key":"4882eebf-25fd-4e7a-9300-adeac8214dc2","ref":null,"props":{"className":"lead","rck_id":"4882eebf-25fd-4e7a-9300-adeac8214dc2","rck_type":"element","rck_element":"sub-headline","tag":"div","text":"\u003Cdiv\u003E\u003Cb\u003E\u003Cfont color=\"#ffffff\"\u003EWhatsapp\u003C\u002Ffont\u003E\u003C\u002Fb\u003E\u003C\u002Fdiv\u003E","style":{"fontSize":22,"color":"#212529"}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"43d76da0-647c-4cf3-a68b-1f44e8298366","ref":null,"props":{"className":"lead","rck_id":"43d76da0-647c-4cf3-a68b-1f44e8298366","rck_type":"element","rck_element":"paragraph","tag":"div","text":"\u003Cb\u003E\u003Ca href=\"https:\u002F\u002Fapi.whatsapp.com\u002Fsend?phone=55021976637803\"\u003E\u003Cfont color=\"#00d084\"\u003ENos envie uma mensagem !\u003C\u002Ffont\u003E\u003C\u002Fa\u003E\u003C\u002Fb\u003E","style":{"fontSize":"26px","color":"#212529","textAlign":"center","marginTop":"0px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null},{"$$typeof":"react.element","type":"div","key":"e26736d7-9a16-43b8-8a4e-2f6f6847674c","ref":null,"props":{"className":"lead","rck_id":"e26736d7-9a16-43b8-8a4e-2f6f6847674c","rck_type":"element","rck_element":"paragraph","tag":"div","text":"\u003Cdiv\u003E\u003Cb\u003E\u003Cfont color=\"#ffffff\"\u003EFácil e prático, agende sua consulta diretamente pelo Whatsapp\u003C\u002Ffont\u003E\u003C\u002Fb\u003E\u003C\u002Fdiv\u003E","style":{"fontSize":14,"color":"#212529","marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null}],"mobile":{"marginTop":"10px","marginRight":0,"marginBottom":0,"marginLeft":0}},"_owner":null}]},"_owner":null}],"mobile":{"paddingTop":"5px","paddingRight":"5px","paddingBottom":"70px","paddingLeft":"5px"}},"_owner":null}],"pageSettings":{"language":"pt-BR","badgeAllowed":false,"position":"bottomLeft","launchContent":0,"pageFontFamily":"Roboto","colorSwatch":["#212529","#f7c22b","#3a3a3a","#25d366","#28f30b","#d3dad2","#212121","#f8eeee","#272626","#ffd5d5","#fff9f9","#0c0c0c","#dad2d2","#fe4a49","#2ab7ca","#fed766"],"userClasses":["btn"],"tagManagerId":"GTM-TQQ4DB8","facebookPixel":"483372628859981","facebookEvent":"Contact","facebookApi":true,"seo_title":"Transforme seu Sorriso","fonts":[{"style":"Roboto"},{"style":"Adamina"}]}},"notification":[],"tenant":{"pageId":"s3yUdTd50e5OlC3ELPz2A","tenantId":"Hv3BdE0rWEGXd7XZByPDmQ","funnelId":"bukJHzIuEEGYjXqoiW7Iyw","stepId":"ROi9bWULAUOtrk1ESMOgsA","type":"Escaner Digital","isSSR":true},"settings":{"url":"dentista.mdfrossard.com.br\u002Frecaptura","version":"0","originStepUrl":null,"originStepId":null,"isConversion":false,"accountIsDisabled":false},"checkout":{"orderBumps":[],"errorModal":false,"paymentButtonState":"default","checkoutData":{"name":"","email":"","confirmEmail":"","telephone":{"number":"","dialCode":"+55","countryCode":"br"},"document":{"number":"","countryCode":"br"},"payment_method":"creditCard","multiMeansInstallments":"","creditCard1":{"holder_name":"","number":"","card_expiration":"","cvv":""},"creditCard2":{"holder_name":"","number":"","card_expiration":"","cvv":""},"orderBumps":{"installments":[],"products":[]}},"checkoutValidate":{"name":{"touched":false,"message":null},"email":{"touched":false,"message":null},"confirmEmail":{"touched":false,"message":null},"telephoneNumber":{"touched":false,"message":null},"document":{"number":{"touched":false,"message":null}},"creditCard1":{"holder_name":{"touched":false,"message":null},"number":{"touched":false,"message":null},"card_expiration":{"touched":false,"message":null},"cvv":{"touched":false,"message":null}},"creditCard2":{"holder_name":{"touched":false,"message":null},"number":{"touched":false,"message":null},"card_expiration":{"touched":false,"message":null},"cvv":{"touched":false,"message":null}}}},"product":{"product":null,"precification":null},"router":{"location":{"pathname":"\u002F","search":"","hash":"","key":"0i1asq"},"action":"POP"}}</script><script type="58f376b27d6e8729e04d6deb-text/javascript" async>
+                var blob = new Blob([
+                    document.querySelector('#result').textContent
+                ], { type: "text/javascript" });
+
+                var worker = new Worker(window.URL.createObjectURL(blob));
+
+                worker.onmessage = function (e) {
+                    if (e.data.type === 'getFont') {
+                        getFont(e.data.link);
+                    }
+                    if (e.data.type === 'getMain') {
+                        getMain([
+                            '/dist-rockty/vendor_df25ea405572fcb5f537.js',
+                            '/dist-rockty/main-client_444a604b0705363f09d5.js'
+                        ]);
+                    }
+                };
+
+                worker.postMessage({ url: document.location.protocol + '//' + document.location.host });
+            </script><script type="58f376b27d6e8729e04d6deb-text/javascript" async>
+                var devicePixelRatio = window.devicePixelRatio;
+                var deviceWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+                var deviceType;
+                if(deviceWidth >= 992) deviceType = 'style';
+                if(deviceWidth < 992 && deviceWidth >= 820) deviceType = 'tablet';
+                if(deviceWidth < 820) deviceType = 'mobile';
+
+                var imgs = document.getElementsByTagName("img");
+                
+                for (var i = 0; i < imgs.length; i++) {
+                    var img = imgs[i];
+                    var src = img.dataset.src;
+
+                    if(!src){
+                        continue;
+                    }
+
+                    var widthMap = JSON.parse(img.dataset.widthmap);
+                    const widthParam = "width="
+					const widthIndex = src.indexOf(widthParam)
+                    img.src = src;
+
+                    if(img.dataset.isgif || widthIndex === -1) {
+                        continue;
+                    }
+
+                    if(widthMap[deviceType]) {
+                        var finalWidth = '';
+                        var logicalSize = widthMap[deviceType] * devicePixelRatio;
+                        if (widthMap.natural && logicalSize > widthMap.natural) {
+                            finalWidth = widthMap.natural;
+                        } else {
+                            if(logicalSize) finalWidth = logicalSize;
+                        }
+                        if(widthIndex !== -1) img.src = src.slice(0, (widthIndex + widthParam.length)) + finalWidth + src.slice(widthIndex + widthParam.length);
+                        continue;
+                    }
+
+                    if(widthMap.style) {
+                        var finalWidth = '';
+                        var logicalSize = widthMap.style * devicePixelRatio;
+                        if (widthMap.natural && logicalSize > widthMap.natural) {
+                            finalWidth = widthMap.natural;
+                        } else {
+                            if(logicalSize) finalWidth = logicalSize;
+                        }
+                        if(widthIndex !== -1) img.src = src.slice(0, (widthIndex + widthParam.length)) + finalWidth + src.slice(widthIndex + widthParam.length);
+                        continue;
+                    }
+                }
+            </script><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="58f376b27d6e8729e04d6deb-|49" defer></script></body></html>
