@@ -1,5 +1,7 @@
 ---
 title: Conheça o check up digital preventivo para os dentes.
+description: >-
+  Saiba o que é o check up digital preventivo na odontologia e como a câmera intraoral ajuda a detectar cáries e problemas nos dentes antes que se tornem graves.
 tags:
  - camera intra oral
  - dentista

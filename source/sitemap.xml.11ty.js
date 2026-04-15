@@ -7,7 +7,18 @@ class SiteMap {
 
   render(data) {
     const urls = (data.collections.all || [])
-      .filter((item) => item && item.url && !item.url.startsWith("/admin") && !item.url.startsWith("/l/") && data?.config?.url)
+      .filter((item) => {
+        if (!item || !item.url || !data?.config?.url) return false;
+        const url = item.url;
+        // Excluir seções que não devem ser indexadas
+        if (url.startsWith("/admin")) return false;
+        if (url.startsWith("/l/")) return false;
+        if (url.startsWith("/email-confirmado")) return false;
+        if (url.startsWith("/landing-page-mancha-no-dente")) return false;
+        // Excluir páginas que tenham noindex explícito no frontmatter
+        if (item.data && item.data.noindex === true) return false;
+        return true;
+      })
       .map((item) => `<url><loc>${new URL(item.url, data.config.url).toString()}</loc></url>`)
       .join("\n");
 

@@ -1,5 +1,6 @@
 ---
 title: Congresso IN 2013
+noindex: true
 date: 2013-10-03 11:10:51
 featured_image:
 categories:

@@ -14,13 +14,14 @@
     <meta name="description" content="<%= pageDescription %>">
     <meta name="theme-color" content="#0a0a0a">
 
-    <!-- Fonts -->
+    <!-- Fonts: carregamento não-bloqueante para melhor LCP/FCP -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet"></noscript>
 
     <!-- Icons (Lucide) -->
-    <script defer src="https://unpkg.com/lucide@latest"></script>
+    <script defer src="https://unpkg.com/lucide@0.383.0/dist/umd/lucide.min.js"></script>
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/styles.css">
