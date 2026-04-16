@@ -62,7 +62,6 @@ Vídeo sobre dor com implantes dentais 
 
 {% youtube We6SUOzbK5U %}
 
-
 **Conclusão** 
 --------------
 

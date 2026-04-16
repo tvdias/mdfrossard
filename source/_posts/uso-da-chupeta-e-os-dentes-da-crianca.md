@@ -26,6 +26,7 @@ O problema do uso da chupeta e os dentes da criança 
 O problema quanto ao uso da chupeta, dentro da Odontologia, encontra-se no desenvolvimento dos ossos da face da criança e quando a mesma começa a apresentar dentes em sua boquinha, pois, esta faz com que os dentes se estabilizem na boca em posição errada e ainda pode levar à deformação do palato (céu da boca)e mandíbula. 
 
 Como conseqüência, a criança pode apresentar problemas como: 
+
 * Mordida aberta; 
 * Problemas de fala; 
 * Problemas respiratórios; 

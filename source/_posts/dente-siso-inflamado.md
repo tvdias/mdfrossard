@@ -17,6 +17,7 @@ Na **MD Frossard**, somos especialistas em remover o desconforto causado pelo si
 
 ### **Precisa de Alívio Urgente para o Siso?**
 Não sofra com a dor. Fale agora com nossa equipe de atendimento:
+
 * <i data-lucide="message-circle" class="icon-sm"></i> **[Agende Imediato via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** [(21) 3217-0430](tel:2132170430)
 
@@ -92,6 +93,5 @@ Não deixe uma pequena inflamação virar uma emergência dolorosa. Nossa equipe
 
 **Dr. Davi Frossard - MD Frossard Odontologia**
 *Referência em Cirurgia e Saúde Bucal na Barra da Tijuca e Botafogo.*
-
 
 **Davi Frossard - MD Frossard Odontologia**

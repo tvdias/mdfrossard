@@ -13,7 +13,6 @@ Se você está buscando pelos dentistas mais bem avaliados na Barra da Tijuca, t
 
 A MD Frossard Odontologia, com suas unidades na Barra da Tijuca e em Botafogo, é referência quando o assunto é cuidado com o sorriso, profissionalismo e aquele toque especial de acolhimento que todo mundo procura em um dentista.
 
-
 ## Por que a MD Frossard Odontologia é tão bem avaliada?
 
 Primeiro, vamos ao que interessa: qualidade. Aqui, não estamos falando só de dentes alinhados ou um clareamento dental brilhante (apesar de fazermos isso muito bem, diga-se de passagem). 

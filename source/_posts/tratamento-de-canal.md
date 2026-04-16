@@ -23,6 +23,7 @@ Após este alerta do nervo, se varrermos o aviso para debaixo do tapete, a press
 * Como anestesias avançadas bloquearam aquele velho medo da dor da poltrona de antigamente.
 
 **A dor forte já começou? Fale com nosso plantão neste minuto:**
+
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Agendar Avaliação Rápida (WhatsApp)](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-xs"></i> **Central Telefônica Frossard:** [(21) 3217-0430](tel:2132170430)
 
@@ -49,6 +50,7 @@ Ficou complicado aos seus ouvidos?
 Apesar do desespero dos sinais apitantes fortíssimos ser um claro caminho e roteiro principal de conduta, **não é o único cenário!**  Por vezes, pessoas vivem sem reclamar mas a destruição continua quieta:
 
 **Os Sinais Exigindo um Médico Avaliando seu Canal:**
+
 * Trauma ou fratura antiga onde você sentiu e caiu; mas "esqueceu"
 * Frequência recorrente surgindo daquela misteriosa Bolota de Pus e Sangue debaixo do dente sobre a gengiva da bochecha (uma chamada pífia "Fístula Quente")
 * Altíssimas reações dolorosas prolongadas demoradas aos copos gelados por vários amargos e intermináveis minutos

@@ -75,7 +75,6 @@ E isso deve ser feito desde a infância, a partir dos seis meses já é possíve
 
 Entretanto, realizar esses cuidados periodicamente acaba saindo muito mais barato do que ter que pagar por cirurgias e extrações dos dentes.
 
-
 ## Cuide da saúde de todo o seu corpo
 
 Você viu que cuidar da saúde dos seus dentes e da sua boca não é tão difícil assim? Além disso, os seus benefícios são muitos, uma vez que podem influenciar diretamente na causa de outros problemas de saúde, como o parto prematuro nas grávidas e a endocardite.

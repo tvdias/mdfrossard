@@ -17,6 +17,7 @@ Neste artigo, você vai descobrir que o "perfeito" é aquele sorriso que harmoni
 
 ### **Deseja Planejar o Seu Sorriso Perfeito?**
 Converse com nossos especialistas e descubra qual o melhor caminho para você:
+
 * <i data-lucide="message-circle" class="icon-sm"></i> **[Agende sua Avaliação via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-sm"></i> **Botafogo ou Barra:** [(21) 3217-0430](tel:2132170430)
 

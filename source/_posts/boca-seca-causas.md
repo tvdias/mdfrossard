@@ -49,6 +49,7 @@ Boca seca e suas causas 
 ![boca seca](/images/4f2fafcc-c3c1-4310-80fa-ab137d75b22c_falta-de-saliva.webp) 
 
 As causas são diversas como: 
+
 * A {% post_link 7-dicas-faceis-para-a-sua-higiene-bucal "má higienização" %}; 
 * Uso de álcool; 
 * Fumo;
@@ -68,6 +69,7 @@ Conseqüências da boca seca na saúde
 -----------------------------------
 
 As principais conseqüências são: 
+
 * O aumento da quantidade de cáries; 
 * Ardência na gengiva;
 * Dificuldade de deglutição e mastigação; 

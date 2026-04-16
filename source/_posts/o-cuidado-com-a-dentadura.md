@@ -14,6 +14,7 @@ Hoje gostaria de falar sobre a **o cuidado com a Dentadura.**
 A prótese removível total ou mais conhecida como dentadura, em diversos casos é uma solução para repor a perda dos dentes, devolvendo a estética e a mastigação. 
 
 Nesse texto além de conversar sobre: 
+
 * o cuidado com a dentadura; 
 * Suas vantagens e desvantagens; 
 * Iremos explicar como podemos passar de uma prótese removível para uma fixa usando implantes dentários.

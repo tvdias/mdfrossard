@@ -74,6 +74,7 @@ Para cada problema mencionado, precisamos de um texto para explicar todos os det
 [![saude bucal e o corpo](/images/9ebcb904-b349-47b5-b649-6c8b5c95269f_saude-bucal-e-o-corpo.webp)](/images/9ebcb904-b349-47b5-b649-6c8b5c95269f_saude-bucal-e-o-corpo.webp) 
 
 Os principais problemas que podemos ter são: 
+
 * Problemas cardíacos; 
 * Gastrite;
 * Diabetes; 

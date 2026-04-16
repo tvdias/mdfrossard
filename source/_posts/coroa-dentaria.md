@@ -17,6 +17,7 @@ Na **MD Frossard**, utilizamos o que há de mais moderno em cerâmicas e zircôn
 
 ### **Precisa Recuperar a Força do Seu Sorriso?**
 Se você tem um dente quebrado ou precisa trocar uma prótese antiga, fale conosco:
+
 * <i data-lucide="message-circle" class="icon-sm"></i> **[Agende sua Avaliação via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-sm"></i> **Unidades Barra e Botafogo:** [(21) 3217-0430](tel:2132170430)
 
@@ -35,10 +36,12 @@ A escolha do material é fundamental para o sucesso estético e funcional:
 
 ### **1. Coroas Metal-Free (Sem Metal)**
 São a tendência mundial. Feitas de Zircônia ou Dissilicato de Lítio (E.max), elas são brancas por dentro e por fora. 
+
 *   **Vantagem:** Não deixam aquela "linha cinza" na gengiva com o passar dos anos e possuem uma translucidez idêntica ao esmalte natural.
 
 ### **2. Coroas Metalocerâmicas**
 Possuem uma estrutura interna de metal revestida por porcelana. 
+
 *   **Vantagem:** São extremamente resistentes e indicadas para dentes posteriores em pacientes com bruxismo severo, onde a carga mastigatória é altíssima.
 
 ### **3. Facetas e Lentes de Contato**
@@ -48,6 +51,7 @@ Quando o dente está íntegro e o objetivo é apenas mudar a "frente" dele, opta
 
 ## Quando a Coroa Dentária é indicada?
 As coroas são versáteis e essenciais nas seguintes situações:
+
 *   **Dentes fragilizados por canal:** Após o tratamento endodôntico, o dente fica mais "seco" e propenso a quebrar.
 *   **Substituição de grandes restaurações:** Quando a resina começa a infiltrar ou quebrar com frequência.
 *   **Implantes Dentários:** A coroa é a parte que parafusamos sobre o implante para você poder mastigar.

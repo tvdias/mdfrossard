@@ -65,6 +65,7 @@ Por isso, nos cuidados pós operatórios, temos pontos básicos que devemos segu
 {% youtube C20z6hZOjHo %}
 
 ---
+
 ## **Os três pontos básicos no pós operatório de uma extração de dente **
 
 ![bom pós operatório](/images/6c93eb0e-d393-4a54-a983-039b40367931_bom-pós-operatório.webp) 

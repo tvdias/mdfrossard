@@ -21,6 +21,7 @@ Se você não quer mais sofrer em casa, neste guia rápido irei abordar de forma
 * Quais as 3 doenças reais silenciosas que estão inflamando a sua boca agora mesmo.
 
 **Para dores urgentes, não perca tempo lendo. Fale conosco imediatamente:**
+
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Nosso Plantão Emergencial via WhatsApp (Clique Aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
 
@@ -92,6 +93,7 @@ Especialmente comum nas dezenas de jovens estudantes do Rio de Janeiro. Nascer o
 [![Radiografia avaliando raiz](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.webp)](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.webp) 
 
 Além das três causas, não perca tempo buscando na internet para dores oriundas de:
+
 * Rachaduras ou Fraturas que você bateu violentamente.
 * Regiões do rosto acordando muito quentes e absurdamente inchadas ("Bolas purulentas"). 
 * Mobilidade (O dente todo mole caindo solto).

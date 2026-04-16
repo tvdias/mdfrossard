@@ -24,6 +24,7 @@ Nosso [equipe](/equipe/) possui diversos profissionais e são liderados pelos de
 Temos o conceito moderno da odontologia, visando a saúde completa do indivíduo e não somente os dentes. Por isso focamos nosso atendimento na alta perfomance, através de uma odontologia contemporânea focada em 3 pilares : **Relacionamento, confiança e pontualidade.** 
 
 Para isso, temos um amplo espaço para o atendimentode diversars especialidades, tais como:
+
 - Implante Dentário ;
 - Prótese Dentária ; 
 - Facetas ;
@@ -57,7 +58,6 @@ O nosso endereço fica na Rua Marques número 15. Para ver a nossa exata localiz
 
 Veja mais [depoimentos](/depoimentos/) sobre o nosso atendimento na clínica de Botafogo. 
 
-
 ## Precisa marcar um atendimento com um dentista em Botafogo?
 
 Em nossa clínica, possuímos diversos tipos de tratamentos, como estética com facetas de porcelana, Implantes dentais, clareamento, Ortodontia entre outros. 
@@ -69,8 +69,6 @@ Caso ainda tenha dúvidas, ligue para nós ou deixe seu comentário no post.
 Nosso atendimento é individual e portanto com hora marcada e sem atraso. Caso necessite de um **dentista em Botafogo** ligue para(21) 3217-0430 para nós que estaremos a sua disposição para atendimento.
 
 Caso você precise de um [dentista na Barra da Tijuca](/dentista-barra-da-tijuca/), também possuimos uma unidade nesse bairro. Nela contamos com toda a infra-estrutura que você precisa. 
-
-
 
 ## Tratamentos Disponíveis na Clínica de Botafogo
 

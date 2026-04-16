@@ -23,6 +23,7 @@ Nesse artigo rápido, você entenderá se os seus sintomas diários realmente co
 * O tratamento físico que vai devolver o sono tranquilo nessa noite.
 
 **Manda no dente e acorda com o maxilar dolorido e cansado? Fale com a clínica urgente:**
+
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Agende sua Avaliação com nossos Especialistas (WhatsApp)](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
 

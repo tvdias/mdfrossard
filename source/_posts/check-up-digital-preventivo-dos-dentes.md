@@ -42,6 +42,7 @@ Porque prevenir é melhor do que tratar ( 3 fatores básicos )
 ------------------------------------------------------------
 
 A prevenção é melhor por 3 fatores básicos e fácil de entender: 
+
 * **É mais barato** 
 * **Causa menos desconforto** 
 * **O tratamento é bem menor** 

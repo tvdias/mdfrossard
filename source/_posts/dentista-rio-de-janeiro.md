@@ -59,14 +59,12 @@ Nossa clinica possui diversos tipos de [tratamentos](/tratamentos/implante-denta
 
 Como tratamentos possuímos tratamentos: 
 
-* Estéticos ( Faceta dentária ou Lente de contato dental ); 
-* Implantes dentários;
-* Coroas dentárias;
-* Clareamento dental; 
-* Tratamento de canal; 
-* Entre outros.   
-
-
+- Estéticos ( Faceta dentária ou Lente de contato dental ); 
+- Implantes dentários;
+- Coroas dentárias;
+- Clareamento dental; 
+- Tratamento de canal; 
+- Entre outros.   
 
 ## Por que a MD Frossard é referência em odontologia no Rio de Janeiro
 

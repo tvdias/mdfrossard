@@ -22,6 +22,7 @@ Apesar disso, atualmente conseguimos atingir um grau estético muito alto, onde 
 Para mudar o sorriso da pessoas, dispomos de uma série de tratamentos estéticos e de {% post_link reabilitacao-oral "reabilitação" %}. 
 
 Entre eles temos: 
+
 * Facetas; 
 * Clareamento; 
 * Implantes;
@@ -51,4 +52,5 @@ Infográfico -  Tratamentos para mudar o sorriso (dentes perfeitos)
 ------------------------------------------------------------------
 
 ![dentes perfeitos](/images/125446a5-a228-4fe7-b779-6a5b8e196201_dentes-perfeitos-2.webp) 
+
 Até a próxima e continue navegando em nosso blog para mais informações.

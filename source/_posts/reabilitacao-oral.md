@@ -17,6 +17,7 @@ Na **MD Frossard**, a reabilitação oral é tratada como uma obra de arte da en
 
 ### **Precisa de uma Transformação Completa?**
 Se você sente que seu sorriso precisa de um novo começo, fale com nossos especialistas:
+
 * <i data-lucide="message-circle" class="icon-sm"></i> **[Agende sua Avaliação via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** [(21) 3217-0430](tel:2132170430)
 

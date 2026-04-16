@@ -56,6 +56,7 @@ Beber bastante água e ter certos cuidados sobre os tipos de alimentos ingeridos
 O tratamento dessa doença, ou seja, a forma como o dentista irá intervir, depende do estágio em que ela se encontra. 
 
 Se for na fase inicial, as seguintes medidas são suficientes para impedir sua progressão e eliminar o estado de doença na região acometida: 
+
 * A correta higienização da região; 
 * O reforço com enxaguatórios fluorados; 
 * a revisão dos tipos de alimentos ingeridos pelo paciente. 

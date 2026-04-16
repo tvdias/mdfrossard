@@ -23,6 +23,7 @@ Neste guia prático listamos os porquês você acorda com a sua **gengiva sangra
 * Se os seus implantes passados e coroas protéticas afetam as inflamações. 
 
 **Sangrou de forma prolongada, espontânea com cor escurecida? Não ignore inflamados cardíacos! Chame e agende:**
+
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Agendar Limpeza Endovenosa pelo WhatsApp das Atendentes](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
 

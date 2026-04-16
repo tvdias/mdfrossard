@@ -33,6 +33,7 @@ Com o raspador ou a escova, você deve fazer o movimento vindo da parte de trás
 ## Outras causas?
 
 ![Lingua Branca outras causas](/images/9186d3d6-f83d-4f1a-a5ad-197ae4571ce9_escovação-dos-dentes.webp) 
+
 Porém, mesmo que a falta de higienização possa ser a principal causa da língua ficar branca, ela não é a única. Existem algumas outras condições ou doenças que podem causar isso. 
 
 Posso citar alguns exemplos. O mais comum é a candidíase, que ocorre em pessoas com um sistema imunológico deficiente. Outros exemplos são o líquem plano, sífilis e até leucoplasia. Nesses casos a ida ao dentista é essencial para o correto diagnóstico e tratamento. 

@@ -22,8 +22,6 @@ Para facilitar, vou explicar algumas dicas fáceis de serem implementadas.
 
 ![higiene bucal dicas](/images/bfa7560f-9d16-43af-b5a3-dc99bbc1fdd4_higiene-bucal-dicas.webp)
 
-
-
 #### **1) Escove os dentes sempre que possível **
 
 Essa dica vem com a clássica frase, escove os dentes 3 vezes ao dia sempre depois das refeições.  

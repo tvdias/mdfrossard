@@ -49,6 +49,3 @@ Venha conhecer a MD Odontologia, referência em tratamentos odontológicos no Ri
 
 Entre em contato pelo telefone(21) 3217-0430 mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) ou visite uma de nossas unidades. Seu sorriso merece o melhor, e nós estamos aqui para cuidar dele.
 
-
-
-

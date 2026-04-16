@@ -25,6 +25,7 @@ Neste guia, explicamos tudo o que você precisa saber para lidar com essas lesõ
 * Orientações práticas para uma cicatrização sem traumas.
 
 **Tem uma ferida na boca que não cicatriza há mais de 15 dias? Fale com a gente:**
+
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Agendar Avaliação via WhatsApp (Clique Aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
 

@@ -17,6 +17,7 @@ Neste guia, você vai entender as causas reais por trás dessas marcas e as tecn
 
 ### **Preocupado com uma mancha no dente?**
 Não espere o quadro se agravar. Agende uma avaliação detalhada em nossas unidades:
+
 * <i data-lucide="message-circle" class="icon-sm"></i> **[Clique para agendar via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-sm"></i> **Botafogo ou Barra:** [(21) 3217-0430](tel:2132170430)
 
@@ -26,6 +27,7 @@ Não espere o quadro se agravar. Agende uma avaliação detalhada em nossas unid
 As manchas mais frequentes são as superficiais, acumuladas na camada externa do esmalte. Elas surgem pelo contato constante com pigmentos fortes que aderem à estrutura dentária.
 
 **Os maiores vilões:**
+
 * **Alimentos Corados:** Café, chás escuros, vinhos tintos e refrigerantes de cola.
 * **Tabagismo:** A nicotina e o alcatrão criam uma **mancha no dente** amarelada e persistente que penetra nos micro-poros do esmalte.
 

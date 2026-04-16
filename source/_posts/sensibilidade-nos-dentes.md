@@ -25,6 +25,7 @@ Neste guia completo, vamos explicar o que é a hipersensibilidade, suas causas e
 * O passo a passo para remover a sensibilidade hoje.
 
 **Sente dor ao beber algo gelado agora? Fale com nossa equipe:**
+
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Agendar Avaliação via WhatsApp (Clique Aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
 

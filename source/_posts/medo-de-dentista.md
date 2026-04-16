@@ -33,6 +33,7 @@ Dentro deste quadro, sabemos que o ser humano muitas das vezes desenvolve o esta
 Isso é perfeitamente observado no atendimento infantil. 
 
 Muitas crianças, num primeiro momento, demonstram medo do atendimento odontológico por fatores que estão acabando de conhecer: 
+
 * cadeira odontológica; 
 * Barulho; 
 * Gosto diferente; 
@@ -55,6 +56,7 @@ Neste último caso, o dentista passa de promotor de saúde para carrasco, logo, 
 Além das crianças, adultos também são acometidos pelo medo. 
 
 Na maioria das vezes este medo está relacionado com alguma experiência desagradável que tiveram:
+
 * Como {% post_link como-aliviar-a-dor-de-dente "dor de dente" %}; 
 * Tratamento muito extenso; 
 * Alguma condição sistêmica que limite o tratamento odontológico e por isso ele tem receio.
@@ -90,8 +92,6 @@ Vídeo medo de dentista
 ----------------------
 
 {% youtube bEW82uVOVCo %}
-
-
 
 Att,
 Luciana Vieira Peroni

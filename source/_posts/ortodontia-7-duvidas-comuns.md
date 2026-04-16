@@ -22,6 +22,7 @@ Apesar da **Ortodontia** ser um assunto popular, muitas dúvidas ainda cercam o 
 * Manutenção e opções estéticas (Invisalign).
 
 **Quer saber qual o melhor aparelho para o seu caso? Fale conosco:**
+
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Consultar Especialista via WhatsApp (Clique Aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
 

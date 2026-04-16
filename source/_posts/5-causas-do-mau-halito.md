@@ -24,6 +24,7 @@ Neste artigo, vamos revelar as 5 causas mais frequentes e como você pode recupe
 * Tratamentos clínicos que resolvem o problema na raiz.
 
 **Inseguro com o seu hálito? Agende uma avaliação detalhada:**
+
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Agendar pelo WhatsApp (Clique Aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
 

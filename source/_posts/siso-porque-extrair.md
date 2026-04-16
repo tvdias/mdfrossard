@@ -28,6 +28,7 @@ Quais são as indicações para extração do siso 
 [![extração siso](/images/7bfbb242-7598-49e6-bde8-f7236e397efa_extração-siso.webp)](/images/7bfbb242-7598-49e6-bde8-f7236e397efa_extração-siso.webp) 
 
 A seguir, listo as situações em que sua remoção é indicada: 
+
 - Quando falta espaço na arcada e o siso ao nascer estaria numa posição ruim para higienização; 
 - Quando está cariado e sua restauração e tratamento endodôntico fica inviável; 
 - Quando, por meio de radiografias, observamos que o mau posicionamento do siso representa risco eminente de cárie para o dente vizinho; 

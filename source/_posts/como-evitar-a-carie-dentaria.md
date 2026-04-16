@@ -22,6 +22,7 @@ Neste guia direto, dissecamos todos os mistérios das cáries que ninguém nunca
 * O passo de limpeza #4 que 90% das pessoas ignora antes de deitar.
 
 **Acha que furou seu dente e precisa do nosso plantão profilático?** 
+
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Garanta uma Avaliação Local (Via WhatsApp Rápido)](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-xs"></i> **Chame no Telefone da Clínica (Fixo):** [(21) 3217-0430](tel:2132170430)
 

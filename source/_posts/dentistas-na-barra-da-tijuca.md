@@ -45,4 +45,3 @@ Agende sua consulta agora mesmo e venha conhecer nossa clínica! Entre em contat
 
 Acompanhe também nossas novidades e dicas de saúde bucal em nossas redes sociais: [Instagram.](https://www.instagram.com/md_frossard_odontologia/) O seu sorriso merece o melhor, e estamos aqui para proporcionar isso a você.
 
-

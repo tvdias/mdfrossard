@@ -135,6 +135,7 @@ Nós praticamos muito essa revolução, priorizando para as regiões dos incisiv
 O implante é confeccionado em titânio de graduação hospitalar, então a rejeição biológica por anticorpos do organismo reativo **absolutamente não ocorre na modernidade!** 
 
 O único cenário de perda onde um novo pilar pode soltar precocemente ocorre por:
+
 * Descuidos assustadores da ingestão rigorosa de medicações;
 * Fumantes compulsivos operados não avisados;
 * Sobrecargas mastigatórias precoces esmagando as junções moles iniciais.

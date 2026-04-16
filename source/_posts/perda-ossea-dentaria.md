@@ -67,8 +67,6 @@ Já o mau hálito é um fator característico da periodontite.
 
 ![perda óssea dentária - escovação](/images/6872f42c-033d-420c-9506-8956a66e75b5_Perda-óssea-nos-dentes.webp) 
 
-
-
 O melhor tratamento é a **prevenção**. Como o principal fator da perda óssea é a periodontite e sua ocorrência se deve a falta de higienização, a correta {% post_link escovacao-dos-dentes "escovação" %} e uso de fio dental é a melhor opção de tratamento. 
 
 Também devemos procurar um dentista para diagnosticar se estamos realizando a correta escovação, ou seja, sem forçar a gengiva. 
@@ -80,8 +78,6 @@ Além disso, devemos sempre estar atentos para não ocorrer uma nova perda de os
 ## Vídeo sobre a perda óssea dental 
 
 {% youtube PUf1_2zH200 %}
-
-
 
 ## **Qual a população mais acometida pela perda óssea?**
 
@@ -118,6 +114,5 @@ Para mais informações sobre esta associação [leia este artigo](https://www.s
 Continue lendo nosso [Blog](/blog/) para saber mais. Caso tenha alguma dúvida, deixe seu comentário abaixo.
 
 Att,
-
 
 **Davi Frossard  - MD Frossard Odontologia**

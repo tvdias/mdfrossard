@@ -12,6 +12,7 @@ O clareamento dental é um dos procedimentos estéticos mais realizados nos cons
 **Primeiro** por sua facilidade e segurança. **Segundo** pelos ótimo resultado alcançado. 
 
 Existem basicamente duas modalidades de clareamento: 
+
 * O chamado clareamento a laser 
 * E o clareamento caseiro. 
 

@@ -17,6 +17,7 @@ Neste artigo, vamos desvendar os mitos sobre a "rejeição" e explicar o que rea
 
 ### **🛡️ Seu Implante está Seguro?**
 Mantenha sua saúde bucal em dia com um check-up preventivo na MD Frossard:
+
 * <i data-lucide="message-circle" class="icon-sm"></i> **[WhatsApp: (21) 97663-7803](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="shield-check" class="icon-sm"></i> **[Avalie Seus Implantes](https://api.whatsapp.com/send?phone=5521976637803)**
 
@@ -38,6 +39,7 @@ Se o material é seguro, por que alguns implantes se perdem? Os principais vilõ
 
 ### 1. Higienização Deficiente (Peri-implantite)
 Da mesma forma que as bactérias causam a periodontite nos dentes naturais, elas podem atacar os tecidos ao redor do implante. 
+
 *   **O problema:** Como o implante não tem o ligamento periodontal (uma barreira natural do dente), a infecção pode avançar mais rápido pelo osso. 
 *   **Solução:** Fio dental e escovação rigorosa são indispensáveis.
 
@@ -52,6 +54,7 @@ Tabagismo e diabetes descontrolada prejudicam a cicatrização e a vascularizaç
 ## Sinais de Alerta: Quando procurar o dentista?
 
 Fique atento se notar:
+
 *   Sangramento ou inchaço na gengiva ao redor do implante.
 *   Gosto ruim persistente ou mau hálito localizado.
 *   Mobilidade da coroa ou do próprio implante.

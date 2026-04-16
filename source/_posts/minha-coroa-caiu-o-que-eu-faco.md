@@ -18,6 +18,7 @@ Se você está pensando **"minha coroa caiu, e agora?"**, este guia foi feito pa
 
 ### **🚨 Precisa de Atendimento Urgente?**
 Se sua coroa caiu e você precisa de um dentista no Rio de Janeiro (Botafogo ou Barra), fale conosco agora:
+
 * <i data-lucide="message-circle" class="icon-sm"></i> **[WhatsApp Urgência: (21) 97663-7803](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** [(21) 3217-0430](tel:2132170430)
 
@@ -29,10 +30,12 @@ Existem dois cenários principais, e entender qual é o seu ajuda o dentista no 
 
 ### 1. Queda de Coroa Provisória
 É muito comum e, de certa forma, esperado. Coroas provisórias são coladas com um cimento temporário para que o dentista possa removê-las facilmente quando a peça definitiva chegar do laboratório. 
+
 *   **Dica:** Evite alimentos pegajosos (chicletes, balas) e tenha cuidado redobrado com o fio dental nesta região.
 
 ### 2. Queda de Coroa Definitiva
 Este caso exige mais atenção. Uma coroa definitiva é projetada para durar anos. Se ela soltou, algo mudou. As causas mais comuns são:
+
 *   **Infiltração por Cárie:** Um novo processo de cárie sob a coroa pode ter destruído o suporte que a prendia.
 *   **Fratura do Dente Suporte:** O dente que segura a coroa pode ter sofrido uma microfratura.
 *   **Falha no Cimento:** Em casos raros, o material adesivo pode ter sofrido fadiga.

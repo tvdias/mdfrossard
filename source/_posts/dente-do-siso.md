@@ -41,6 +41,7 @@ A única dica médica real que não te vendem: não resuma seu trabalho a "fecha
 * Ingira frios e aplique de fora da cara pedras potentes geladas de forma repetida de um lado para o outro. 
 
 Você experimentará as seguintes coisas sem precisar chorar de ansiedade:
+
 * Salivar leves laivos de muito pequeno sangramento escurecido;
 * Regiões do queixo em tamanhos inflados inchados;
 * Ficar temporariamente com limitação leve de roxo na bochecha de lado.

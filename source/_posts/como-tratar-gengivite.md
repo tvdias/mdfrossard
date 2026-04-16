@@ -38,6 +38,7 @@ A {% post_link escovacao-dos-dentes "falta da escovação" %} leva ao acúmulo d
 ![como tratar a gengivite e a escovação](/images/0d8dd98a-615d-46b0-9124-2ad603410e76_como-tratar-a-gengivite-tratamento.webp) 
 
 Portanto fica a pergunta, como tratar a gengivite ? O controle da inflamação da gengiva se baseia em dois aspectos que devem ser realizados todos os dias: 
+
 * A escovação;
 * Uso do {% post_link como-passar-o-fio-dental "fio dental" %}. 
 
