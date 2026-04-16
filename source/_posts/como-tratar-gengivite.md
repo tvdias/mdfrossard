@@ -7,7 +7,7 @@ date: 2018-02-19T08:00:01.000Z
 featured_image: /images/ac235230-9211-4cb4-9f75-57e6d3e436e6_como-tratar-a-gengivite.webp
 ---
 
-Em nossa boca podemos apresentar diversos problema bucais. Alguns mais sérios e outros muito fáceis de serem tratados. 
+Em nossa boca podemos apresentar diversos problema bucais, como a gengivite. Alguns mais sérios e outros muito fáceis de serem tratados. 
 
 Dentre os problemas mais tranquilos, temos a gengivite. 
 

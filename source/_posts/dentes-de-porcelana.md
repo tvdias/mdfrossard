@@ -8,7 +8,7 @@ featured_image: /images/9f7a46a2-9006-4366-aa0f-335bc15c76e8_dentes-de-porcelana
 ---
 **Estética**, essa é uma palavra muito usada por todos nós. 
 
-Sempre almejamos ter um rosto jovem e um sorriso bonito. Na odontologia temos diversos tipos de tratamentos que podemos fazer para melhorar o seu sorriso. 
+Sempre almejamos ter um rosto jovem e um sorriso bonito com dentes de porcelana. Na odontologia temos diversos tipos de tratamentos que podemos fazer para melhorar o seu sorriso. 
 
 Um dos mais falados atualmente é a {% post_link lente-de-contato-dental "lente de contato dental" %}, entretanto existem outros procedimentos que também podem ser realizados. 
 

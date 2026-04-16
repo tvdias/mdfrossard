@@ -7,7 +7,7 @@ date: 2018-03-19T08:00:14.000Z
 featured_image: /images/4759297e-056f-449b-aca7-fd53d709d48f_placa-de-bruxismo.webp
 ---
 
-Dor de cabeça ou na musculatura da face, aliado ao desgaste do dente são alguns fatores relacionados ao {% post_link bruxismo-tratamento "bruxismo" %}. 
+Dor de cabeça ou na musculatura da face, aliado ao desgaste do dente são alguns fatores relacionados ao {% post_link bruxismo-tratamento "bruxismo" %}, que pode ser controlado com uma placa para bruxismo. 
 
 Infelizmente, esse problema é cada vez mais comum nos consultórios dentários. 
 

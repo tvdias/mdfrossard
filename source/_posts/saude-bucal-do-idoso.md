@@ -14,7 +14,7 @@ Os números apresentados pela [nações unidas](https://www.sdh.gov.br/assuntos/
 
 No Brasil este fenômeno também ocorre. Segundo a [pesquisa de 2011 do IBGE](https://www.ibge.gov.br) a população de idosos (acima de 60 anos), somam 23,5 milhões o dobro da pesquisa de 1991 quando se contabilizava 10,7 milhões de pessoas. 
 
-Alguns chegam à terceira idade com saúde boa, em ordem e aparentemente sem nenhum problema mais grave. 
+Alguns chegam à terceira idade com saúde boa, em ordem e aparentemente sem nenhum problema mais grave. A saúde bucal nessa fase é especialmente importante.
 
 Outros, porém, apresentam alguma enfermidade, dentre eles, {% post_link problemas-nos-dentes "problemas dentários" %}. 
 

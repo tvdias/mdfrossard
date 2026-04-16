@@ -6,7 +6,7 @@ description: >-
 date: 2017-12-04T09:00:03.000Z
 featured_image: /images/b3a03403-589f-4312-90ad-9bce2d4a86a6_enxerto-ósseo.webp
 ---
-Um dos grandes questionamentos que recebo em nosso blog é sobre a {% post_link perda-ossea-dentaria "perda óssea" %}. 
+Um dos grandes questionamentos que recebo em nosso blog é sobre a {% post_link perda-ossea-dentaria "perda óssea" %} e o enxerto ósseo necessário para corrigi-la. 
 
 Dentre essas dúvidas, uma pergunta frequente é sobre o **enxerto ósseo** e sobre quando usar. 
 

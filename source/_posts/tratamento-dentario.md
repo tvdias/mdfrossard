@@ -7,7 +7,7 @@ date: 2015-07-27T14:18:59.000Z
 featured_image: /images/5d522b8b-7cf0-46a6-b1f2-1181a33a47f7_Tratamento-dentário.webp
 ---
 
-Todos sabem que o cuidado com o corpo é importante para termos uma boa qualidade de vida. 
+Todos sabem que o cuidado com o corpo é importante para termos uma boa qualidade de vida, e isso inclui um bom tratamento dentário. 
 
 Por isso, buscamos realizar atividades físicas, procuramos médicos de qualidade, tentamos evitar comidas calóricas e nos {% post_link 5-alimentos-que-previnem-caries "alimentamos de comidas mais saudáveis" %}. (sim eu sei, nem sempre fazemos isso, mas tentamos ! ;-)). 
 

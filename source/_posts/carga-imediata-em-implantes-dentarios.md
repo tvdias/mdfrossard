@@ -6,7 +6,7 @@ description: >-
 date: 2014-12-04T14:06:39.000Z
 featured_image: /images/uploads/2014/03/Clareamento-dental.webp
 ---
-Os {% post_link implante-dentario "implantes dentários" %} já estão na odontologia há bastante tempo sendo usados em larga escala e com altas taxas de sucesso. 
+Os {% post_link implante-dentario "implantes dentários" %} já estão na odontologia há bastante tempo sendo usados em larga escala e com altas taxas de sucesso. Uma das técnicas mais modernas é a carga imediata em implantes.
 
 A **carga imediata em implantes** já não é uma novidade e é efetuada no momento da instalação do implante. 
 

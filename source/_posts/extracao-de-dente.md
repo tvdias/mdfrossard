@@ -16,7 +16,7 @@ O fato de ter postergado a visita ao dentista causa problemas como a {% post_lin
 
 Como esses problemas não foram detectados precocemente, a condição do dente pode ser ruim o que culmina na indicação mais grave, sua remoção. 
 
-Em nossa clínica recebemos pacientes com este histórico. 
+Em nossa clínica recebemos muitos pacientes que precisam de uma extração de dente. 
 
 Diversas dúvidas sobre o tema da extração de dente são feitas :
 

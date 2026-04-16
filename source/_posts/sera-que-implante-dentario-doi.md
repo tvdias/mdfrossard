@@ -15,7 +15,7 @@ Com toda certeza eu posso afirmar que você também odeia essa palavra.
 
 Porém, pensando de outra maneira, apesar de ser contraditório, a [dor](https://www.sbed.org.br/materias.php?cd_secao=74) pode nos avisar que algo esta errado e precisamos procurar orientação. 
 
-Porém, nesse texto, eu não quero abordar esse tipo de dor e sim o desconforto que pode acontecer após uma cirurgia dentária, sendo mais específico, após a instalação de um {% post_link implante-dentario "implante dentário" %}. 
+Porém, nesse texto, eu não quero abordar esse tipo de dor e sim o desconforto específico do implante dentário, o que pode acontecer após uma cirurgia dentária de instalação de um implante. 
 
 Escutamos muito em nossa rotina clínica a seguinte pergunta, **"instalar implante dentário dói? "**. 
 

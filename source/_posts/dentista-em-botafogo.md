@@ -5,9 +5,9 @@ description: >-
 date: 2016-04-24T10:13:44.000Z
 featured_image: /images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp
 ---
-A Zona Sul do Rio de Janeiro é uma das regiões mais badaladas do [Rio de Janeiro.](https://pt.wikipedia.org/wiki/Rio_de_Janeiro) 
+A Zona Sul do Rio de Janeiro é uma das regiões mais badaladas do [Rio de Janeiro.](https://pt.wikipedia.org/wiki/Rio_de_Janeiro) Se você procura um dentista em Botafogo, saiba que está em um dos bairros mais tradicionais da cidade. 
 
-Apresentando praias e pontos turísticos conhecidos no mundo todo. Nessa região se encontra o [bairro de Botafogo](https://pt.wikipedia.org/wiki/Botafogo), que é um dos mais antigos do Rio de Janeiro. 
+Apresentando praias e pontos turísticos conhecidos no mundo todo, nessa região se encontra o [bairro de Botafogo](https://pt.wikipedia.org/wiki/Botafogo), que é um dos mais antigos do Rio de Janeiro. 
 
 Nossa clínica esta localizado neste mesmo Bairro há mais 35 anos. Estamos localizados ao lado da Cobal e perto do largo dos Leões.
 

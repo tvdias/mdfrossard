@@ -1,5 +1,5 @@
 ---
-title: 'Faceta Dental: Tudo que Você Precisa Saber'
+title: 'Facetas Dentais: Tudo que Você Precisa Saber'
 description: "Entenda como a Faceta Dental constrói o sorriso dos seus sonhos. Leia sobre as 6 principais indicações para Facetas Dentais, suas enormes vantagens."
 date: 2014-07-04T10:08:43.000Z
 featured_image: /images/fe51bc3e-20a0-49c2-81d5-0dc6b1b17c3b_Faceta-dental-estética.webp
@@ -21,7 +21,7 @@ Continue lendo esse guia rápido e aprenda os segredos da técnica:
 
 ---
 
-## Como é a Confecção da Faceta Dental?
+## Como é a Confecção das Facetas Dentais?
 
 ![Faceta dental](/images/e0bc58b2-2b81-460f-b0dc-4f2f7bd7ee0b_faceta-dental.webp) 
 

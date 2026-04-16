@@ -9,7 +9,7 @@ featured_image: /images/6f1c4a88-de47-4959-b711-fdb67eb81f43_Dúvida-cárie.webp
 
 A doença cárie já foi amplamente discutida em nosso blog. Entretanto, existem muitas dúvidas de clientes sobre esse tema, sendo a principal **"como saber se estou com cárie"**.
 
-## Identificando os estágios da cárie
+## Identificando os Estágios da Cárie
 
 Devemos saber que antes da cárie aparecer com uma cavidade, ela apresenta fases iniciais que podem ser revertidas. A primeira delas é a mancha branca opaca. 
 

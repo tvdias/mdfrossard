@@ -11,7 +11,7 @@ Para isso, vou compartilhar **5 dicas de saúde bucal** para serem aplicadas hoj
 
 São dicas que aparentemente parecem fáceis e simples, mas que poucas pessoas praticam com consistência. 
 
-## **1) Escove os dente todos os dias.**
+## **1) Escove os dente todos os dias - Passo Essencial para Saúde Bucal**
 
 A primeira das 5 dicas de saúde bucal aparentemente é simples, mas é a mais importante de todas. 
 

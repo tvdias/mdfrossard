@@ -23,7 +23,7 @@ Existem diferentes tipos de **protetores bucais**.
 
 Independente disso, eles devem ser flexíveis, confortáveis de usar, resistentes a fratura e não devem restringir a fala ou a respiração.
 
-## **Os tipos são :** 
+## **Os Tipos de Protetores Bucais são :** 
 
 **1- Protetores feitos sob medida -** São os melhores para os atletas, pois são feitos sob medida, que o deixa confortável e facilita a respiração. Além de oferecer melhor proteção. Nesse caso o dentista molda o paciente, e em cima desse molde constrói o protetor. 
 

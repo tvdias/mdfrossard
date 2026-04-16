@@ -7,7 +7,7 @@ date: 2017-07-03T10:00:53.000Z
 featured_image: /images/8ae97bc8-c39d-4a3e-8ba0-114e0200a68a_gengiva-inflamada-e-sangrando.webp
 ---
 
-Nosso [blog](/blog/) recebe milhares de visitas e centenas de mensagens com questionamentos dos mais variados tipos. Porém, algumas se destacam. 
+Nosso [blog](/blog/) recebe milhares de visitas e centenas de mensagens com questionamentos dos mais variados tipos sobre saúde bucal, especialmente sobre gengiva inflamada. Porém, algumas se destacam. 
 
 E no Top 3 de perguntas, a **dúvida sobre a gengiva inflamada se destaca**. 
 

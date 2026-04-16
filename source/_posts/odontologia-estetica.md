@@ -15,7 +15,7 @@ Mas o que seria a chamada odontologia estética? São diversos procedimentos rea
 
 Os 5 principais são o clareamento dental, a realização de facetas, instalação de coroas, cirurgia gengival e a reabilitação oral. E é justamente sobre esses tratamentos que vamos discutir nesse texto.
 
-## **Clareamento dental**
+## **Clareamento Dental - Procedimento de Odontologia Estética**
 
 ![Odontologia estética](/images/0a437d8a-9b9a-48c8-a3a4-8255056fd779_odontologia-estetica.webp "Odontologia estética") 
 

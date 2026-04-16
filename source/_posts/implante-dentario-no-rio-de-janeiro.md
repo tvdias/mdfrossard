@@ -9,7 +9,7 @@ featured_image: /images/b340818e-20e6-4587-a475-becbd9e34f97_Implante-dentário-
 
 Infelizmente, perder o elemento dentário ainda pode acontecer, devido a traumas, {% post_link como-evitar-a-carie-dentaria "cárie" %}/ ou [doença periodontal](/tratamentos/periodontia/). 
 
-Porém, ficar sem o dente não é uma opção, já que dispomos do tratamento de **{% post_link implante-dentario "implante dentário" %} no Rio de Janeiro.** 
+Porém, ficar sem o dente não é uma opção aqui no Rio de Janeiro, já que dispomos do tratamento de **implante dentário no Rio de Janeiro**, um procedimento que devolve a saúde e autoestima dos pacientes. 
 
 A instalação do implante dental possibilita a mudança de vida, saúde e bem estar na história de vida de diversas pessoas. 
 

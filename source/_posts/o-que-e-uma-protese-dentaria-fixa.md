@@ -7,7 +7,7 @@ date: 2017-02-15T09:55:01.000Z
 featured_image: /images/611839b1-e153-4d42-b2bb-97d0c04e53ef_prótese-dentária-fixa.webp
 ---
 
-Na odontologia procuramos sempre atender o paciente da melhor forma, onde a principal meta é tratar e cuidar da cavidade bucal. 
+Na odontologia procuramos sempre atender o paciente da melhor forma, onde a principal meta é tratar e cuidar da cavidade bucal com soluções como uma prótese dentária fixa quando necessário. 
 
 Entretanto, caso você não realize as [consulta de prevenção](/tratamentos/prevencao-manutencao/) com a freqüência necessária, os dentes podem apresentar problemas. 
 
