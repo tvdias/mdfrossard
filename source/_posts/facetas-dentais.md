@@ -25,7 +25,7 @@ Continue lendo esse guia rápido e aprenda os segredos da técnica:
 
 ## Como é a Confecção da Faceta Dental?
 
-![](/images/e0bc58b2-2b81-460f-b0dc-4f2f7bd7ee0b_faceta-dental.webp) 
+![Faceta dental](/images/e0bc58b2-2b81-460f-b0dc-4f2f7bd7ee0b_faceta-dental.webp) 
 
 As famosas **facetas dentais** consistem em escudos levíssimos, como autênticas lâminas de cerâmica. São muito finas, transparentes mas de extrema resistência ao impacto e atrito da mastigação! 
 

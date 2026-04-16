@@ -8,6 +8,7 @@ featured_image:
 categories:
  - Sem categoria
 tags:
+noindex: true
 ---
 
 ![foto inco](/images/ef89d41a-8c7b-48ab-9899-c36eddc2506a_foto-inco-300x300.webp "foto inco")

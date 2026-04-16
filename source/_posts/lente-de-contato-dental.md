@@ -46,7 +46,7 @@ Cada peça tem sua atuação de ouro:
 
 ## 2. Como a Lente de Contato Dental é Confeccionada?
 
-![](/images/c4447f8c-d8ef-47c7-8a98-9622b4fb33a7_lente-de-contato-dental-dúvidas.webp) 
+![Lente de contato dental dúvidas](/images/c4447f8c-d8ef-47c7-8a98-9622b4fb33a7_lente-de-contato-dental-dúvidas.webp) 
 
 Para construções estéticas bilionárias não existe achismo ou "fazer no olho". O planejamento computadorizado determina absolutamente tudo. 
 
@@ -73,7 +73,7 @@ Em muitos casos ambiciosos de construção de personalidade, cobrir dez dentes i
 
 ## 4. E Quanto às Desvantagens e o Preço que Você Paga?
 
-![](/images/83ccbeab-da3f-43de-b42c-177fef8e511b_lente-de-contato-dental-desvantagens.webp) 
+![Lente de contato dental desvantagens](/images/83ccbeab-da3f-43de-b42c-177fef8e511b_lente-de-contato-dental-desvantagens.webp) 
 
 A porcelana é resistente a tudo, não pega cor de café, e é indestrutível ao tempo. Mas o cimento adesivo invisível da borda de baixo precisa seguir normas biológicas humanas. E isso exige total comprometimento do nosso paciente em higienização daquele novo patrimônio, ou perderá todo o investimento!
 

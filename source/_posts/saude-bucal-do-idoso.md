@@ -42,7 +42,7 @@ O atendimento não deve ser focado apenas nos problemas bucais, devemos ter um h
 Alguns dos principais problemas na saúde bucal do idoso são:
 ------------------------------------------------------------
 
-![](/images/f2332d0e-b0f6-4189-acb3-e465906d1149_prótese-dentária.webp) 
+![Prótese dentária](/images/f2332d0e-b0f6-4189-acb3-e465906d1149_prótese-dentária.webp) 
 
 **1) Xerostomia** 
 

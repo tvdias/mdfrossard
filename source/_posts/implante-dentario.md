@@ -33,7 +33,7 @@ Caso queira pular a leitura e falar diretamente conosco para **avaliação prese
 
 ## A Importância Estética e Funcional dos Dentes
 
-![](/images/ab479cbc-2293-419e-a9be-72a7f87d3a4d_Importancia-dos-dentes-Implante-dental.webp)   
+![Importancia dos dentes implante dental](/images/ab479cbc-2293-419e-a9be-72a7f87d3a4d_Importancia-dos-dentes-Implante-dental.webp)   
 
 Você já se perguntou o porquê de termos dentes com tamanhos e pontas diferentes? E como cada um deles encaixa de maneira perfeita como engrenagens quando fechamos a boca? 
 
@@ -96,7 +96,7 @@ A arquitetura moderna prevê várias configurações, tudo depende do quão avar
 
 ### A. Implante Dentário Unitário
 
-![](/images/4c7f2d87-c5c7-4e21-b384-22a5e54c96a1_Implante-dentário-unitário.webp) 
+![Implante dentário unitário](/images/4c7f2d87-c5c7-4e21-b384-22a5e54c96a1_Implante-dentário-unitário.webp) 
 
 A situação mais resolvida nos consultórios: substituir apenas "aquele" dente machucado preservando tudo em volta. Após uma simples tomada de tomografia digital na clínica para mapear seu osso maxilar milimétricamente, realizamos muitas vezes a técnica imediata.
 
@@ -104,7 +104,7 @@ Isso significa sedar a região, extrair o toco ruim, e imediatamente no mesmo mi
 
 ### B. Múltiplos Implantes e Pontes
 
-![](/images/e380c2d3-d5c4-4b65-86d2-90390da2ee38_Implante-dentário-Múltiplo.webp) 
+![Implante dentário múltiplo](/images/e380c2d3-d5c4-4b65-86d2-90390da2ee38_Implante-dentário-Múltiplo.webp) 
 
 O paciente sofreu acidentes ou perdeu historicamente mais de um dente ladeado. Em vez de entupir o osso e os nervos instalando implantes exaustivamente lado a lado encavalados, nós distribuímos com sabedoria!
 
@@ -112,7 +112,7 @@ Fixamos dois implantes sólidos de base nas extremidades, e sobre eles nós ergu
 
 ### C. Prótese Protocolo All-On-4 (Dentadura Fixa Completa)
 
-![](/images/a826c291-9628-4911-8a74-aa2b42a81f02_Implante-dentário-protocolo.webp) 
+![Implante dentário protocolo](/images/a826c291-9628-4911-8a74-aa2b42a81f02_Implante-dentário-protocolo.webp) 
 
 O fim do sofrimento crônico das dentaduras velhas. Para arcadas 100% lisas e tristes pela ausência dentária, traçamos simetricamente de 4 a 6 implantes potentes.
 

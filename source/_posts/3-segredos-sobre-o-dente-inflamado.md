@@ -36,7 +36,7 @@ Basta {% post_link como-saber-se-estou-com-carie "clicar aqui" %} e {% post_link
 
 ## **Tratamento pode ser rápido**
 
-![](/images/0c4c8e02-eb7f-4ff4-bd74-465e27bb0439_dente-inflamado-evitar-pode-ser-fácil.webp) 
+![Dente inflamado evitar pode ser fácil](/images/0c4c8e02-eb7f-4ff4-bd74-465e27bb0439_dente-inflamado-evitar-pode-ser-fácil.webp) 
 
 Quando já se tem o dente inflamado, o tratamento pode ser rápido. 
 

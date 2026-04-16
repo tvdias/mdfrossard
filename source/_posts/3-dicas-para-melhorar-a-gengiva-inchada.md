@@ -56,7 +56,7 @@ O uso do fio pode ser difícil e demandar tempo. Porém, o uso antes de dormir �
 
 ## **Ir ao dentista**
 
-![](/images/1e89317b-7099-45c2-bc5b-1962a6686ba4_ir-ao-dentista-gengiva-inchada-1.webp)
+![Ir ao dentista gengiva inchada 1](/images/1e89317b-7099-45c2-bc5b-1962a6686ba4_ir-ao-dentista-gengiva-inchada-1.webp)
 
 A [prevenção](/tratamentos/prevencao-manutencao/) sempre é a forma mais eficaz e barata para evitar e solucionar problemas de saúde. 
 

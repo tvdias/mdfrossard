@@ -62,7 +62,7 @@ Toda anatomia esquelética difere! Nunca encare extrações alinhadas as promess
 
 ## 4. O Grande Segredo: Mas Precisamos Mesmo Remover Todos?
 
-![](/images/7928d4b4-1803-4385-8485-c4ccbaebd34d_dente-do-siso-remoção.webp) 
+![Dente do siso remoção](/images/7928d4b4-1803-4385-8485-c4ccbaebd34d_dente-do-siso-remoção.webp) 
 
 Você leu maravilhosamente correto! Não, na MD Frossard a moda brutal mundial do abate irrestrito cirúrgico em linha diminuiu. Nós poupamos quem cumpre as exigências.
 Nem sempre existirá o terror real da remoção de qualquer que nasça!
@@ -77,7 +77,7 @@ Nós, contudo, criadores de estética plena acompanharemos anualmente a erupçã
 
 ## 5. Quando o Siso Chora com Desconforto Infernal de Pus 
 
-![](/images/6d0923aa-06ab-459d-9750-aad945c5a936_dor-dente-do-siso.webp) 
+![Dor dente do siso](/images/6d0923aa-06ab-459d-9750-aad945c5a936_dor-dente-do-siso.webp) 
 
 Talvez o sofrimento pungente no local irradiando garganta e febre ao amassar os lábios com dificuldade e o céu da boca inchando se inicie no seu agora exato neste leito de sono, as clássicas [Pericoronarites Agudas com Bactéria Presa](/dente-siso-inflamado/). 
 

@@ -37,7 +37,7 @@ Por isso, consideramos o tratamento com implante e próteses, procedimentos dife
 **Tipos de prótese sobre implante**
 -----------------------------------
 
-![](/images/c7a0b692-6ded-4852-a46f-9cf4e7d5da43_Protese-sobre-implante-dentario.webp) 
+![Protese sobre implante dentario](/images/c7a0b692-6ded-4852-a46f-9cf4e7d5da43_Protese-sobre-implante-dentario.webp) 
 
 Após ser feito essa explicação, precisamos saber quais os tipos de prótese podem ser realizadas sobre um implante.
 Apesar de existirem trabalhos removíveis sobre implante, eles atualmente são pouco realizados. 

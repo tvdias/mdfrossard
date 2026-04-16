@@ -40,7 +40,7 @@ Podemos realizar o clareamento de consultório, o caseiro ou aliar os dois tipos
 **Faceta dental **
 ------------------
 
-![](/images/bd793809-cae3-4bf2-9220-f6ce1f569cd1_dentes-mais-brancos-com-facetas.webp) 
+![Dentes mais brancos com facetas](/images/bd793809-cae3-4bf2-9220-f6ce1f569cd1_dentes-mais-brancos-com-facetas.webp) 
 
 A terceira opção de como ter os dentes mais brancos são as facetas dentais. 
 

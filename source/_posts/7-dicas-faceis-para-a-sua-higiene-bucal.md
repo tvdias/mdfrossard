@@ -18,7 +18,7 @@ Além disso, em dentes íntegros, sem nenhum tratamento, conservamos sua vitalid
 
 Para facilitar, vou explicar algumas dicas fáceis de serem implementadas.
 
-# **7 Dicas fáceis para a sua higiene bucal**
+## 7 Dicas fáceis para a sua higiene bucal
 
 ![higiene bucal dicas](/images/bfa7560f-9d16-43af-b5a3-dc99bbc1fdd4_higiene-bucal-dicas.webp)
 
@@ -72,7 +72,7 @@ O sangramento se deve a dois principais fatores, o primeiro se deve a falta de u
 
 #### **4 ) Evitar a força excessiva**
 
-![](/images/30b86ced-1416-4108-9b6f-bfd5ee043abd_saber-se-estou-com-cárie.webp) 
+![Saber se estou com cárie](/images/30b86ced-1416-4108-9b6f-bfd5ee043abd_saber-se-estou-com-cárie.webp) 
 
 Precisamos compreender que a força excessiva durante a escovação não irá melhorar a sua higiene bucal. 
 

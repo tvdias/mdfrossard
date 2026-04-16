@@ -36,6 +36,6 @@ Leia e compartilhe com amigos e familiares.
 Infográfico o Poder do Sorriso
 ------------------------------
 
-![](/images/6116e09d-a73b-46c9-8259-be6f938bbb56_O-poder-do-sorriso.-1.webp)   
+![O poder do sorriso. 1](/images/6116e09d-a73b-46c9-8259-be6f938bbb56_O-poder-do-sorriso.-1.webp)   
 
 Tenha atitude e mude a sua vida. Caso tenha alguma dúvidas, deixe seu comentário logo abaixo. Att, Davi Frossard

@@ -22,7 +22,7 @@ Nesse texto vou discutir alguns usos do enxerto na implantodontia, bem como os 3
 
 ### **Quais são os tipos de Enxerto ósseo?**
 
-![](/images/9020c38e-cbcf-4395-91b0-9dce0b63c6f7_tipos-de-enxerto-osseo.webp)
+![Tipos de enxerto osseo](/images/9020c38e-cbcf-4395-91b0-9dce0b63c6f7_tipos-de-enxerto-osseo.webp)
 
 *  **1 - Autógeno:** Esse enxerto é considerado o "padrão ouro” apresentando bons resultados. O tipo autógeno é retirado do próprio paciente, portanto não apresenta rejeição. Ele pode ser retirado da região intra-bucal com anestesia local ou, em casos onde se demanda maior quantidade, é preciso remover o osso de outras regiões, como tíbia ou até da calota craniana. A grande desvantagem do enxerto autógeno é precisar realizar uma segunda área cirúrgica para sua remoção.
 *  **2 - Alógeno:** Nesse caso o enxerto é doado por outra pessoa e colocado na área de atuação. Apresenta menor formação óssea, pois para o material ser usado por outra pessoa é preciso passar por um rigoroso processo de inspeção. Isso faz com que o enxerto perca propriedades importantes para o processo de formação óssea. Esse tipo de enxerto ósseo não é muito utilizado na implantodontia.

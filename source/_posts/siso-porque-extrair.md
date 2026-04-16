@@ -75,7 +75,7 @@ Concluindo
 
 Assim, diante do que foi listado, entende-se que quando indicado, a extração dos sisos deve ser realizada. 
 
-O pós operatório é simples, veja neste [link](/files/informativo-pos-operatorio.pdf). 
+O pós operatório é simples e nossa equipe orienta cada paciente individualmente sobre todos os cuidados necessários após o procedimento. 
 
 Porém vale ressaltar que, para que haja o sucesso da cirurgia e diminuição dos incômodos pós operatórios, além da habilidade e conhecimentos do profissional, há a necessidade da colaboração do paciente. 
 

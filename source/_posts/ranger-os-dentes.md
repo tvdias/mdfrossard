@@ -70,7 +70,7 @@ Isso, ao longo do tempo pode causar sérios problemas na nossa mastigação.
 **Tratamento**
 --------------
 
-![](/images/afd49724-482c-48ee-b0d1-33a807558cf9_ranger-os-dentes-tratamento.webp) 
+![Ranger os dentes tratamento](/images/afd49724-482c-48ee-b0d1-33a807558cf9_ranger-os-dentes-tratamento.webp) 
 
 Para tratar esse problema devemos antes saber o motivo. 
 

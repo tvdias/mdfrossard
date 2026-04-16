@@ -44,7 +44,7 @@ Esse simples ato, possibilita a longevidade maior do clareamento.
 
 ## **4- Não confie em todos os métodos "fáceis" para clarear os dentes**
 
-![](/images/27ecec9a-ac50-4c21-8727-ba9e86c5195a_5-dicas-para-clarear-os-dentes.webp) 
+![5 dicas para clarear os dentes](/images/27ecec9a-ac50-4c21-8727-ba9e86c5195a_5-dicas-para-clarear-os-dentes.webp) 
 
 Sempre existiram os métodos descritos como "milagrosos" ou "fáceis" para realizar algum tratamento.
 
@@ -62,7 +62,7 @@ O clareamento dos dentes não é difícil de ser alcançado, mas precisamos ter 
 
 ## **5- Evite cigarro**
 
-![](/images/b20c29db-d298-447b-916c-00313cd96c2d_Clarear-os-dentes-dicas.webp) 
+![Clarear os dentes dicas](/images/b20c29db-d298-447b-916c-00313cd96c2d_Clarear-os-dentes-dicas.webp) 
 
 O cigarro como todos sabem causa diversos problemas de saúde.
 

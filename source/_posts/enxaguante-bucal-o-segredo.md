@@ -51,7 +51,7 @@ Entretanto, existem alguns pontos importantes a serem citados :
 
 ## **Enxaguante com Gluconato de Clorexidina**
 
-![](/images/7e9324c8-765d-43f6-adb3-a34c039bb32e_enxaguante-bucal-mulher.webp) 
+![Enxaguante bucal mulher](/images/7e9324c8-765d-43f6-adb3-a34c039bb32e_enxaguante-bucal-mulher.webp) 
 
 Esse princípio ativo presente em alguns bochechos bucais torna o produto completamente diferente dos demais. 
 
@@ -68,7 +68,7 @@ Sua indicação é principalmente para pós operatório e também para paciente 
 
 ## **Existe algum enxaguante bucal infantil ?**
 
-![](/images/331552a8-3941-472b-9de7-c394b6806a65_enxaguante-bucal-infantil.webp) 
+![Enxaguante bucal infantil](/images/331552a8-3941-472b-9de7-c394b6806a65_enxaguante-bucal-infantil.webp) 
 
 Sim, existe. Entretanto devemos ficar atentos com a idade. 
 
@@ -85,7 +85,7 @@ O principal sempre deve ser a correta escovação e o uso do fio dental.
 
 ## **Posso substituir a escovação e o fio dental pelo uso somente do enxaguante bucal ?**
 
-![](/images/1c5f025e-cb3d-4f10-a2ca-57d97acf4eee_enxaguante-bucal-e-escovação.webp) 
+![Enxaguante bucal e escovação](/images/1c5f025e-cb3d-4f10-a2ca-57d97acf4eee_enxaguante-bucal-e-escovação.webp) 
 
 Enfim e não menos importante. 
 

@@ -99,7 +99,7 @@ Além disso, ainda existe a periodontite agressiva. Nesse caso a perda de osso p
 
 ## **Relação da perda óssea dentária com a menopausa e a osteoporose**
 
-![](/images/bd99957c-d2cb-4324-80bb-c82dd9e5ec6d_Perda-óssea-dentária-e-a-menopausa.webp) 
+![Perda óssea dentária e a menopausa](/images/bd99957c-d2cb-4324-80bb-c82dd9e5ec6d_Perda-óssea-dentária-e-a-menopausa.webp) 
 
 A menopausa é um evento fisiológico que ocorre com a interrupção da menstruação, o que provoca a diminuição de estrogênio no organismo e tem início por volta de 50 anos de idade nas mulheres. 
 

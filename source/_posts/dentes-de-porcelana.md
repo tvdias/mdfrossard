@@ -55,7 +55,7 @@ Além disso, em caso que demandam muita estética, podemos usar as lentes de con
 
 ## **Entretanto, cuidado.**
 
-![](/images/0e386db3-b00a-43ce-861a-5c52561818c1_dentes-de-porcelana-estetica.webp)   
+![Dentes de porcelana estetica](/images/0e386db3-b00a-43ce-861a-5c52561818c1_dentes-de-porcelana-estetica.webp)   
 
 Sim, é preciso ter cuidado. 
 

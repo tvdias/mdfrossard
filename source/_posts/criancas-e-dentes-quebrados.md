@@ -20,7 +20,7 @@ Primeiro, fique calmo, o nervosismo não irá ajudar. Mas fique atento a não pe
 Criança e dentes quebrados, uma mistura comum 
 ----------------------------------------------
 
-![](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-crianças.webp) 
+![Medo de dentista e as crianças](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-crianças.webp) 
 
 Um dos acidentes mais comuns em crianças são aqueles que envolvem algum trauma na boca. 
 

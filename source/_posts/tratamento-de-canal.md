@@ -30,7 +30,7 @@ Após este alerta do nervo, se varrermos o aviso para debaixo do tapete, a press
 
 ## Mas o que é, Resumidamente, o Tratamento de Canal?
 
-[![](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.webp)](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.webp) 
+[![Tratamento de canal](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.webp)](/images/369d54a8-7fd9-40bf-93ce-8f8c0dba34dd_Tratamento-de-canal.webp) 
 
 A justificativa técnica e direta da Endodontia: Consiste obrigatoriamente da completa e radical extirpação do corpo do nervo estragado. Limpa-se, esteriliza-se o buraco de contaminações, selando depois tudo com resina forte.
 

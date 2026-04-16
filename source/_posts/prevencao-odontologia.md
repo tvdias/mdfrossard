@@ -5,6 +5,7 @@ description: >-
  uma doença nos seus dentes. Já que conseguimos detectar o problema antes. 
 date: 2013-10-24T09:24:14.000Z
 featured_image: /images/a016a30f-26c9-4a99-86f9-fd2a0662223a_Foto-1.webp
+noindex: true
 ---
 
 A odontologia atualmente tem voltado muito para a manutenção e principalmente para a prevenção de doenças bucais. 

@@ -19,7 +19,7 @@ Para ver a nossa exata localização, [clique aqui.](/localizacao/)
 
 ## Conheça mais sobre nossa clínica Odontológica na Barra da Tijuca
 
-![](/images/uploads/2013/07/4consulorio-1-1024x683.webp)
+![4consulorio 1 1024x683](/images/uploads/2013/07/4consulorio-1-1024x683.webp)
 
 Liderada pelos dentistas [Marcos e Davi Frossard](/equipe/). Nossa clínica odontológica está presente nos bairros da [Barra da Tijuca](/dentista-barra-da-tijuca/) e de [Botafogo.](/dentista-em-botafogo/) Nossa [estrutura](/estrutura/) comporta o atendimentos de todas as especialidades com conforto e qualidade. Além disso, a **biossegurança** é fator primordial. 
 
@@ -51,7 +51,7 @@ Veja mais [depoimentos.](/depoimentos/)
 
 ## Marque uma consulta em nossa clínica
 
-![](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.webp)
+![Dentista na barra da tijuca rj](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.webp)
 
 **Para marcar uma consulta ligue para o telefone(21) 3217-0430 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
 

@@ -5,6 +5,7 @@ description: >-
  dúvida sobre a odontologia. Leiam e aprendam mais sobre os seus dentes. 
 date: 2013-07-27T23:51:12.000Z
 featured_image: /images/ac76a2c3-cae4-45d3-84f0-72114b1f0c24_Foto-1.webp
+noindex: true
 ---
 Olá a todos ! 
 

@@ -42,7 +42,7 @@ Quando uma bactéria agressiva ataca esse nervo, ele responde imediatamente inch
 
 ## Remédios e Antibióticos Ajudam de Verdade?
 
-![](/images/83ac7390-8198-4236-9442-73a7cee9ecd9_medicação-extração-de-dente.webp) 
+![Medicação extração de dente](/images/83ac7390-8198-4236-9442-73a7cee9ecd9_medicação-extração-de-dente.webp) 
 
 Muitas pessoas chegam à clínica dopadas dizendo que a dor piorou, pois acreditaram que apenas um forte analgésico da farmácia seria suficiente. Entenda isso rapidamente: o remédio oral nunca agirá lá dentro da polpa bloqueada!
 

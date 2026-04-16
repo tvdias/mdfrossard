@@ -40,7 +40,7 @@ Recordo também que visitas ao dentista para eliminação de tártaro acumulado 
 
 ## **2 - Dentes Brancos e o Clareamento Dentário**
 
-![](/images/dc782d13-2156-49da-a708-51b1bf1e3ad5_dentes-brancos-e-o-clareamento.webp) 
+![Dentes brancos e o clareamento](/images/dc782d13-2156-49da-a708-51b1bf1e3ad5_dentes-brancos-e-o-clareamento.webp) 
 
 Quando existem dentes amarelos e com pequenas manchas, o clareamento dental é um ótimo tratamento. 
 
