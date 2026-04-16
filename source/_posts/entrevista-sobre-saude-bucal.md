@@ -27,10 +27,10 @@ Neste bate-papo, dividimos o conteúdo em 4 partes para facilitar seu acesso a c
 #### Parte 01: Inovações e Atendimento
 {% youtube I4iWtXdCzQU %}
 
-#### Parte 02: Mitos e Verdades sobre Clareamento
+#### Parte 02: Mitos e Verdades sobre {% post_link clareamento-dental "Clareamento Dental" %}
 {% youtube VZ1ykPfXZF0 %}
 
-#### Parte 03: Implantodontia Moderna
+#### Parte 03: {% post_link implante-dentario "Implantodontia" %} Moderna
 {% youtube imAlxFTEoSg %}
 
 #### Parte 04: Conclusão e Dicas de Saúde Oral

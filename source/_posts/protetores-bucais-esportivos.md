@@ -31,7 +31,7 @@ Independente disso, eles devem ser flexíveis, confortáveis de usar, resistente
 
 **3- Protetores comuns -** São mais baratos e menos eficientes, dificultam a respiração e não são tão confortáveis. São comprados pronto para uso. 
 
-A MD Frossard odontologia realiza esse tipo de trabalho caso haja indicação.
+A MD Frossard odontologia realiza esse tipo de trabalho caso haja indicação. Saiba mais sobre nossa [equipe especializada](/equipe/) e {% post_link dentista-barra-da-tijuca "nossos consultórios" %}.
 
 Abraços a todos,
 Davi Frossard
