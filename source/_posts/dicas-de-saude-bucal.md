@@ -1,5 +1,5 @@
 ---
-title: 5 Dicas de Saúde Bucal
+title: '5 Dicas de Saúde Bucal para um Sorriso Saudável'
 description: "5 dicas de saúde bucal para manter seus dentes saudáveis e seu sorriso bonito. Aprenda sobre escovação correta, fio dental, alimentação e prevenção de cáries."
 date: 2018-05-18T10:00:46.000Z
 featured_image: /images/blog_dicas_saude.webp

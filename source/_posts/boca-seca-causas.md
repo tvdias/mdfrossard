@@ -13,8 +13,7 @@ Isso pode acontecer devido a problemas menores como a ansiedade ou com desordens
 
 As estruturas responsáveis pela produção de saliva são as glândulas salivares. Nós possuímos 3, cada uma com localizações diferentes. Normalmente uma pessoa produz em média 1 L a 1,5 L de saliva por dia.
 
-Porque a saliva é tão importante
---------------------------------
+## Porque a saliva é tão importante
 
 ![boca seca causas](/images/52e2b0ca-53b1-473c-9f7a-566d020191eb_xerostomia.webp) 
 
@@ -43,8 +42,7 @@ Resumindo, quando temos pouca presença de saliva, vamos ter:
 * Maior quantidade de cáries; 
 * Língua saburrosa e mau-hálito.
 
-Boca seca e suas causas 
-------------------------
+## Boca seca e suas causas
 
 ![boca seca](/images/4f2fafcc-c3c1-4310-80fa-ab137d75b22c_falta-de-saliva.webp) 
 
@@ -65,8 +63,7 @@ Também temos causas mais graves, onde deve-se prestar mais atenção e ter acom
 
 Além disso, deve-se lembrar que os idosos apresentam mais a sensação de boca seca, já que com o passar da idade, ocorre uma diminuição da quantidade de saliva produzida.
 
-Conseqüências da boca seca na saúde
------------------------------------
+## Conseqüências da boca seca na saúde
 
 As principais conseqüências são: 
 
@@ -77,8 +74,7 @@ As principais conseqüências são:
 * [Mau hálito](/tratamentos/periodontia/);
 * Dor na garganta.
 
-Tratamentos para a Boca seca
-----------------------------
+## Tratamentos para a Boca seca
 
 ![tratamento boca seca](/images/dded3508-ce80-48fe-b3b0-0df072637020_Estimulo-salivar.webp) 
 

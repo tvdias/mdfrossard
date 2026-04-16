@@ -23,8 +23,7 @@ Imagine agora outra situação, paciente jovem, com os dentes bonitos e perfeito
 
 Pois bem, o implante dentário pode e deve substituir o dente ausente por outro com igual estética. Por causa de histórias iguais a essa, quero conversar sobre o implante dentário no Rio de Janeiro.
 
-Mas por que implante dentário no Rio de Janeiro
------------------------------------------------
+## Implante dentário como solução
 
 ![implante dentário no rio de janeiro](/images/cbb4bfad-1621-4550-9056-921841c114df_implante-dentário-rio-de-janeiro.webp) 
 
@@ -36,7 +35,7 @@ O implante dentário é feito em uma liga de titânio, assim possui biocompatibi
 
 Ainda assim, sem o devido cuidado com a higienização, podemos {% post_link perder-um-implante-dentario "perder um implante dentário" %}. 
 
-A cirurgia é feita de forma criteriosa, explicamos para o paciente como será feito o procedimento e como será o {% post_link extracao-de-dente "pós operatório" %}. 
+A cirurgia é feita de forma criteriosa, explicamos para o paciente como será feito o procedimento e como será o {% post_link extracao-de-dente "pós operatório" %}. 
 
 A instalação do implante é realizada sob anestesia local e apresenta altas taxas de sucesso. Entretanto, sendo um procedimento cirúrgico a dor e o inchaço podem acontecer e serão acompanhados de perto. 
 

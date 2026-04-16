@@ -1,8 +1,6 @@
 ---
 title: 'Dente do Siso: 5 Fatos Secretos Antes de Desesperar'
-description: >-
- A extração repentina do dente do siso não precisa ser um trauma para você.
- Veja os 5 segredos sobre a cirurgia, a inflamação e quando você nem precisará retirá-lo.
+description: "A extração repentina do dente do siso não precisa ser um trauma para você. Veja os 5 segredos sobre a cirurgia, a inflamação e quando você nem precisará."
 date: 2017-10-23T08:00:35.000Z
 featured_image: /images/f732904a-a038-41eb-9c97-19b7383ec887_dente-do-siso.webp
 ---

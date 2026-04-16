@@ -1,5 +1,5 @@
 ---
-title: Gengiva Inflamada e Sangrando - O segredo para não ter ela assim.
+title: 'Gengiva Inflamada e Sangrando: Causas e Tratamento'
 description: >-
  Não ter a Gengiva inflamada pode ser mais mais fácil do que se imagina. Com
  pequenos ajustes na rotina, sua saúde gengival pode ficar bem melhor.
@@ -13,10 +13,9 @@ E no Top 3 de perguntas, a **dúvida sobre a gengiva inflamada se destaca**.
 
 Realmente esse problema é comum, talvez você tenha e não saiba. Será que existe algum segredo ou alguma fórmula mágica para não se ter a gengiva inflamada? 
 
-A resposta pode te surpreender. É sobre isso que vamos discutir nesse texto. Leia até o final para conhecer mais desse tema e se livrar dele.
+A resposta pode te surpreender. É sobre isso que vamos discutir nesse texto. Leia até o final para conhecer mais desse tema e se livrar dele.
 
-**Afinal, porque tenho a gengiva inflamada ?**
-----------------------------------------------
+## Causas da gengiva inflamada
 
 ![Gengiva inflamada](/images/5114fb31-efc7-453b-9806-02a724f5af0c_inflamação-gengiva.webp) 
 
@@ -36,8 +35,7 @@ Tais como:
 
 Antes de entrarmos no tratamento, preciso abordar os diferentes níveis da gengiva inflamada.
 
-**Níveis de sangramento e inflamação da gengiva.**
---------------------------------------------------
+## Tipos e níveis de inflamação gengival
 
 ![gengiva inflamada tratamento](/images/96d4cc2d-7af0-4c59-8f5e-526894e2a713_gengiva-sangrando-tratamento.webp) 
 
@@ -49,10 +47,9 @@ Em grande parte dos casos ocorre uma progressão. Começamos com um pequeno sang
 
 O primeiro nível do problema na gengiva se chama de **gengivite.** Nesse caso, a gengiva apresenta pouco sangramento e pode ser revertido mais facilmente. 
 
-Um segundo nível se chama de **[periodontite](/tratamentos/periodontia/)**, quando ocorre perda de osso e maior inflamação. Nesse caso a ajuda profissional é de suma importância para reversão do caso.  
+Um segundo nível se chama de **[periodontite](/tratamentos/periodontia/)**, quando ocorre perda de osso e maior inflamação. Nesse caso a ajuda profissional é de suma importância para reversão do caso.  
 
-**Tratamento da gengiva inflamada**
------------------------------------
+## Tratamento eficaz da gengiva inflamada
 
 ![escovação gengiva inflamada](/images/4afc0ed6-f885-4e07-86ea-32eadcbf100e_gengiva-inflamada-escovação.webp) 
 
@@ -74,8 +71,7 @@ Nesse texto publicado em nosso blog, descrevemos toda a técnica de escovação 
 
 Outro fator super importante é a gravidade do {% post_link gengiva-sangrando "sangramento" %}. Quando a inflamação esta muito grande (periodontite) precisamos de ajuda profissional para realizar o correto tratamento. Nesse caso, a ida ao dentista é essencial para o restabelecimento da saúde gengival.
 
-**Consequências da gengiva inflamada**
---------------------------------------
+## Consequências de não tratar a gengiva
 
 Caso você não trate a inflamação da gengiva, pode-se ter inúmeros problemas, tais como :
 

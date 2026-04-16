@@ -8,9 +8,9 @@ featured_image: /images/50f06e1f-1e17-4df6-9273-e779a1d7c442_image.webp
 ---
 Esse texto é voltado para pessoas **procurando dentista para estrangeiros** na cidade do Rio de Janeiro. 
 
-Com a necessidade de deslocamento entre cidades e até países, muitos profissionais permanecem mais tempo longe de casa ou do trabalho, ou seja, longe de seus locais de referência.  
+Com a necessidade de deslocamento entre cidades e até países, muitos profissionais permanecem mais tempo longe de casa ou do trabalho, ou seja, longe de seus locais de referência.  
 
-Assim, o que fazer caso haja alguma emergência odontotólogica nesse período? 
+Assim, o que fazer caso haja alguma emergência odontotólogica nesse período? 
 
 E se a pessoa em questão necessitar de atendimento especial por conta da diferença de idioma? 
 
@@ -19,6 +19,8 @@ Ninguém está livre dessa situação. Além disso, sabemos o quanto uma dor de 
 Para momentos assim, nós da MD Frossard **oferecemos tratamento individualizado e bilíngue. **
 
 Dessa forma, caso haja necessidade de atendimento para estrangeiros, contamos com profissionais habilitados para atendê-los nos bairros de **{% post_link dentista-em-botafogo "Botafogo" %}** e **{% post_link dentista-barra-da-tijuca "Barra da Tijuca" %}**.
+
+## Serviços especializados para estrangeiros
 
  [![dentista para estrangeiros](/images/uploads/2014/09/mapa-mundi-300x225.webp)](/images/8a21960b-4210-40c3-817e-ab6141dd8ddc_mapa-mundi.webp) 
 

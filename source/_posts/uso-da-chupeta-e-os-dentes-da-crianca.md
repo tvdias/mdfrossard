@@ -11,15 +11,13 @@ featured_image: /images/3f043690-cc97-4ae3-8a84-a3a842861fe1_chupeta.webp
 
 Olá a todos! Hoje gostaria de abordar um assunto muito comum no atendimento aos pequenos: **o uso da chupeta e os dentes da criança.**
 
-Uso da chupeta nas crianças
----------------------------
+## Entendendo o uso da chupeta
 
-O uso de chupetas é algo cultural, introduzido pelos pais para acalmar seu bebê em momentos nos quais a criança encontra-se chorosa, aparentemente incontrolável. 
+O uso de chupetas é algo cultural, introduzido pelos pais para acalmar seu bebê em momentos nos quais a criança encontra-se chorosa, aparentemente incontrolável. 
 
 De fato a chupeta possui papel gerador de segurança e conforto, pois simula o aconchego que o bebê encontra quanto está em contato com a mãe no momento da amamentação.
 
-O problema do uso da chupeta e os dentes da criança 
-----------------------------------------------------
+## Problemas causados pela chupeta nos dentes
 
 ![uso da chupeta e os dentes da criança](/images/df5c58e0-3cbf-455a-9e1c-a423cf854273_halitose.webp) 
 
@@ -37,10 +35,11 @@ Também é importante enfatizar que a sucção do bebê no seio materno é difer
 
 Mamar no peito é importante para que criança desenvolva de forma apropriada ossos da face, músculos orofaciais, oclusão dentária e respiração. 
 
+## Recomendações para uso da chupeta
+
 **Dessa forma, o uso de chupetas não é proibido.** 
 
-Como minimizar isso 
---------------------
+## Como minimizar isso
 
 O ideal é que, caso os pais queiram utilizar chupetas em seus filhos, utilizem a chupeta {% post_link ortodontia-7-duvidas-comuns "ortodôntica" %} e feita de silicone, que é mais anatômica para a boquinha do bebê. 
 

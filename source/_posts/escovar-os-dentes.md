@@ -1,5 +1,5 @@
 ---
-title: 7 Erros comuns na hora de escovar os dentes - o 5 pode te surpreender
+title: '7 Erros ao Escovar os Dentes que Você Deve Evitar'
 description: >-
  Veja os 7 erros mais comuns ao escovar os dentes. Conheça também a forma
  correta de realizar a higiene bucal. Tenha uma ótima saúde na boca. 
@@ -9,8 +9,7 @@ featured_image: /images/355ec8c4-3a03-41f6-ba95-328bf813b379_escova-dente-fio-de
 
 **Escovar os dentes** é um hábito que adquirimos desde pequenos, sendo transmitidos pelos nossos pais. Porém, ao se tornar um hábito, muitas vezes fazemos sem prestar atenção aos detalhes, o que pode comprometer a correta escovação. Portanto, quero conversar com vocês sobre 7 erros comuns que cometemos ao escovar os dentes.
 
-**7 erros na hora de escovar os dentes **
------------------------------------------
+## Erros comuns na escovação dos dentes
 
 #### **1 - Escovar os dentes realizando outra atividade** 
 Durante o ato de escovar os dentes é necessário que estejamos focados na tarefa, ou seja, sem estar assistindo televisão ou pensando nos problemas da vida. 
@@ -27,7 +26,7 @@ O uso do fio dental é essencial para completa limpeza dos dentes. As áreas ent
 
 Por isso o {% post_link como-passar-o-fio-dental "fio dental" %} faz parte da rotina de escovar os dentes. Porém, existem casos onde a grande freqüência de uso do fio pode lesionar a gengiva. 
 
-Aliado a isso, o uso de força excessiva do fio dental pode ocasionar dor e retração. Portanto, usando o fio uma vez ao dia e antes de dormir já é um grande feito para a correta escovação dos dentes.
+Aliado a isso, o uso de força excessiva do fio dental pode ocasionar dor e retração. Portanto, usando o fio uma vez ao dia e antes de dormir já é um grande feito para a correta escovação dos dentes.
 
 #### **4 - Escovar somente a parte que se enxerga** 
 Outro erro muito comum ao escovar os dentes. Você não deve somente escovar a parte da frente dos dentes, ou seja, a parte que se enxerga.
@@ -49,8 +48,7 @@ A escova dental deve ser trocada de tempos em tempos. Quando a escova fica esgar
 
 O tempo para trocar a escova é difícil determinar. Pois vai depender da força usada durante a escovação e também do tipo de cerda usada, mais macia ou dura.
 
-**Então afinal, qual a maneira correta de escovar os dentes **
---------------------------------------------------------------
+## Maneira correta de escovar os dentes
 
 ![escovar os dentes](/images/bf2a9364-7c04-4519-bcca-5700796d581a_escovar-os-dentes.webp) 
 
@@ -60,7 +58,7 @@ Porém, vou resumir aqui a correta técnica para escovar os dentes.
 
 **A técnica é essa :** 
 
-*"Esteja você usando uma escova de dentes normal ou uma escova de dentes elétrica, você deve escovar cada seção de sua boca no mínimo 30 segundos (superior direita e esquerda, inferior direita e esquerda). Além disso, é importante o uso da pasta dental. Para a parte da frente e a parte de trás dos dentes , manter a escova com angulo de 45 graus realizando movimentos suaves e curtos, de cima para baixo. Não se esqueça de escovar a língua, o que ajudará a ter um hálito fresco.”* 
+*"Esteja você usando uma escova de dentes normal ou uma escova de dentes elétrica, você deve escovar cada seção de sua boca no mínimo 30 segundos (superior direita e esquerda, inferior direita e esquerda). Além disso, é importante o uso da pasta dental. Para a parte da frente e a parte de trás dos dentes , manter a escova com angulo de 45 graus realizando movimentos suaves e curtos, de cima para baixo. Não se esqueça de escovar a língua, o que ajudará a ter um hálito fresco."* 
 
 Continue navegando em nosso site e veja outras informações interessantes sobre os nossos dentes.
 

@@ -17,6 +17,8 @@ Podemos perder dentes de diferentes maneiras:
 
 Nas duas últimas opções, um correto cuidado com a higiene dental e consultas de revisão podem impedir a perda de um dente. 
 
+## Impacto da perda de dentes
+
 Como mostrado nas ilustrações , quando perdemos um dente, ficamos com um espaço vazio em nossa arcada, deixando os dentes vizinhos sem ponto de apoio. 
 
 [![perda de dentes e suas consequecias.](/images/79e11d27-5592-4253-b7b1-aa86bc9f19e1_perda-de-dentes-e-suas-consequecias..webp)](/images/79e11d27-5592-4253-b7b1-aa86bc9f19e1_perda-de-dentes-e-suas-consequecias..webp) 
@@ -27,9 +29,11 @@ Sem este contato, os dentes proximais (vizinhos ao dente perdido) se aproximam e
 * Problemas mastigatórios;
 * Dor na articulação. 
 
+## Soluções para perda de dentes
+
 Para restaurar a correta mastigação, temos algumas opções que vão desde a prótese removível até o uso de próteses fixas sobre implantes. 
 
-Antigamente, para preencher este espaço, a prótese fixa era o tratamento mais apropriado. Para isto, é preciso preparar os dentes vizinhos ao espaço (“gasta” para receber a forma apropriada). 
+Antigamente, para preencher este espaço, a prótese fixa era o tratamento mais apropriado. Para isto, é preciso preparar os dentes vizinhos ao espaço ("gasta" para receber a forma apropriada). 
 
 Após os devidos procedimentos, cimenta-se 3 coroas unidas sobre 2 dentes, como exemplificado na figura. 
 
@@ -39,7 +43,7 @@ Dessa forma não há necessidade de preparo nos dentes vizinhos ao espaço.
 
 A tabela abaixo demonstra algumas diferenças entre estes os procedimentos, no caso de perda de 1 (um) dente: 
 
-[![Perda de dentes](/images/de8bbb78-68d8-4638-ac1a-d8763083c213_Perda-de-dentes.webp)](/images/de8bbb78-68d8-4638-ac1a-d8763083c213_Perda-de-dentes.webp)   
+[![Perda de dentes](/images/de8bbb78-68d8-4638-ac1a-d8763083c213_Perda-de-dentes.webp)](/images/de8bbb78-68d8-4638-ac1a-d8763083c213_Perda-de-dentes.webp)   
 
 Diante do que foi mostrado, vale ressaltar que anamnese e exame clínico corretos são necessários para definir a melhor forma de tratamento. 
 

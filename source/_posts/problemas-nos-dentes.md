@@ -21,8 +21,7 @@ Além disso, a {% post_link dor-de-dente "dor de dente" %} é algo extremamente 
 
 Portanto, mesmo que talvez você não sinta nenhum problema na região bucal, sempre é importante realizar consultas de revisão.
 
-**Afinal, quais são os principais problemas nos dentes ?**
-----------------------------------------------------------
+## Tipos de problemas dentários
 
 [![problemas nos dentes](/images/7ff44ecb-487e-4399-8c97-a097abbbc463_problemas-no-dente.webp)](/images/7ff44ecb-487e-4399-8c97-a097abbbc463_problemas-no-dente.webp) 
 
@@ -36,7 +35,7 @@ Os problemas {% post_link gengiva-sangrando "periodontais" %} e a {% post_link c
 
 * **Problemas de oclusão** 
 
-Cada dente tem um posicionamento correto para a mastigação eficaz.  
+Cada dente tem um posicionamento correto para a mastigação eficaz.  
 
 Quando a harmonia dos contatos dos dentes (oclusão) não ocorre de forma equilibrada temos um problema nos dentes. Nesse caso, podemos ter dores na articulação, {% post_link perda-ossea-dentaria "perda óssea" %} nos elementos dentários e uma mastigação ruim. 
 
@@ -72,20 +71,16 @@ Também, a cavidade bucal pode indicar outros problemas de ordem sistêmica que 
 
 **Portanto, fique atento com problemas bucais.**
 
-**Portanto, como evitar problemas no dente ?**
-----------------------------------------------
+## Prevenção de problemas dentários
 
 [![problemas nos dentes resolvido](/images/cf75c1f3-97f1-4ccb-ac9b-44eb30f2bec4_problemas-nos-dentes-resolvido.webp)](/images/cf75c1f3-97f1-4ccb-ac9b-44eb30f2bec4_problemas-nos-dentes-resolvido.webp) 
 
 Primeiro você deve ter em mente que a ausência de dor na cavidade bucal, não é o único fator a ser levado em conta para apontar que não existe problema com os dentes. 
 
-A dor não é o único fator para ir ao dentista. Existem outros fatores que somente através da consulta de um especialista podem indicar problemas “silenciosos”. 
+A dor não é o único fator para ir ao dentista. Existem outros fatores que somente através da consulta de um especialista podem indicar problemas "silenciosos". 
 
 Em segundo lugar, é preciso de ano em ano realizar consultas de revisão com o dentista, para verificar se existe algum problema oculto nos dentes, antes que a doença se torne algo mais grave e de difícil tratamento.
 
-Vídeo problemas nos dentes - Dente Quebrado
----------------------------
+## Vídeo problemas nos dentes - Dente Quebrado
 ---
-{% youtube TRD8-BH2PSQ %}
----
-
+## {% youtube TRD8-BH2PSQ %}

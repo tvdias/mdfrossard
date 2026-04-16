@@ -23,8 +23,7 @@ Não somente para os dentes mas para toda a musculatura da face.
 
 É sobre isso que quero explicar para vocês hoje. Ranger os dentes não é algo normal e gera uma série de problemas.
 
-**Ranger os dentes é a mesma coisa que Bruxismo ?**
----------------------------------------------------
+## Conceito e nomenclatura do bruxismo
 
 Muitos confundem essa nomenclatura, mas basicamente são a mesma coisa. 
 
@@ -36,8 +35,7 @@ Nesse caso, a pessoa aperta os dentes uns contra os outros, gerando os mesmos pr
 
 Portanto, apesar de serem nomenclaturas diferentes, esses hábitos geram uma série de problemas parecidos em nossa arcada dentária.
 
-**Causas e Consequências de Ranger os Dentes **
------------------------------------------------
+## Causas e consequências do ranger de dentes
 
 ![ranger os dentes e o stress](/images/047935d6-61aa-4c7d-a7d4-3939b748474d_ranger-os-dentes.webp)
 
@@ -67,8 +65,7 @@ Isso, ao longo do tempo pode causar sérios problemas na nossa mastigação.
 *  **Fraturas dentárias**
 *  **Problemas articulares**
 
-**Tratamento**
---------------
+## Tratamento do ranger de dentes
 
 ![Ranger os dentes tratamento](/images/afd49724-482c-48ee-b0d1-33a807558cf9_ranger-os-dentes-tratamento.webp) 
 

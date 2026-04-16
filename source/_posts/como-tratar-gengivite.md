@@ -19,8 +19,7 @@ Se isso não for realizado, {% post_link perda-ossea-dentaria "problemas mais gr
 
 Continue lendo esse texto para saber como tratar a gengivite.
 
-**Quais os sintomas da gengivite ?**
-------------------------------------
+## Identificando os sintomas da gengivite
 
 ![como tratar a gengivite](/images/3bcffa16-867a-410e-aeba-586b5391a2a7_como-tratar-a-gengivite-sintomas.webp) 
 
@@ -32,8 +31,7 @@ Esse problema ocorre basicamente pela falta da correta higienização da boca.
 
 A {% post_link escovacao-dos-dentes "falta da escovação" %} leva ao acúmulo de resíduo alimentar no dente que resulta na inflamação da gengiva e sangramento.
 
-**Como tratar a gengivite - Dois aspectos Básicos**
----------------------------------------------------
+## Tratamento eficaz da gengivite
 
 ![como tratar a gengivite e a escovação](/images/0d8dd98a-615d-46b0-9124-2ad603410e76_como-tratar-a-gengivite-tratamento.webp) 
 
@@ -46,8 +44,7 @@ Apenas com esse dois hábitos já é possível reverter um quadro de gengivite.
 
 Porém, devemos realizar a higienização bucal todos os dias e com o devido cuidado. Ao longo do mesmo dia, se isso não for feito, já podemos ter uma leve gengivite.
 
-**Conclusão**
--------------
+## Complicações da gengivite não tratada
 
 Apesar da gengivite ser comum ela não é um problema complicado. 
 

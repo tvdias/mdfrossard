@@ -13,14 +13,13 @@ Hoje gostaria de falar sobre a **o cuidado com a Dentadura.**
 
 A prótese removível total ou mais conhecida como dentadura, em diversos casos é uma solução para repor a perda dos dentes, devolvendo a estética e a mastigação. 
 
-Nesse texto além de conversar sobre: 
+Nesse texto além de conversar sobre: 
 
 * o cuidado com a dentadura; 
 * Suas vantagens e desvantagens; 
 * Iremos explicar como podemos passar de uma prótese removível para uma fixa usando implantes dentários.
 
-A perda dos dentes ainda acontece em nossa população
-----------------------------------------------------
+## Perda de dentes e dentaduras
 
 A perda dos dentes, infelizmente ainda é comum em nossa população. 
 
@@ -28,14 +27,13 @@ Apesar da melhora em relação a [prevenção](/odontologia-personalizada/ "Chec
 
 O maior deles concerteza é a **perda dentária**. 
 
-A perda do dente é o último estágio de um processo malicioso, sendo os dois principais, a {% post_link como-evitar-a-carie-dentaria "cárie" %} e a {% post_link gengiva-sangrando "doença periodontal" %}. 
+A perda do dente é o último estágio de um processo malicioso, sendo os dois principais, a {% post_link como-evitar-a-carie-dentaria "cárie" %} e a {% post_link gengiva-sangrando "doença periodontal" %}. 
 
 Essas duas doenças podem ser interrompidas ou evitadas pelo simples processo da prevenção e da escovação dos dentes. 
 
 Porém, não é o que ocorre, o que leva a população a perder os dentes. Em muitos casos todos eles, o que ocasiona o uso de uma **dentadura**. 
 
-Mas afinal, o que é uma dentadura ?
------------------------------------
+## Caracterização da dentadura
 
 ![cuidado com a dentadura](/images/uploads/2015/02/Protocolo-dentes-1024x680.webp) 
 
@@ -47,10 +45,9 @@ Além disso, uma dentadura bem feita pode apresentar uma ótima estética, além
 
 Infelizmente, a prótese total tem muitas desvantagens, sendo a principal ser **removível**. Quando realizamos a mastigação ela não apresenta a mesma segurança que os dentes ou trabalhos fixos. 
 
-Outra desvantagem é na fase inicial. Quando todos os dentes foram removidos e estão iniciando uso da prótese total. A adaptação é difícil, já que a prótese é desconfortável e pode machucar.  
+Outra desvantagem é na fase inicial. Quando todos os dentes foram removidos e estão iniciando uso da prótese total. A adaptação é difícil, já que a prótese é desconfortável e pode machucar.  
 
-6 Dicas Fáceis para o Cuidado com a Dentadura
----------------------------------------------
+## Dicas para cuidar da dentadura
 
 [![dentadura](/images/uploads/2015/03/Dentadura-1024x682.webp)](/images/3875e74c-e66c-463c-99b1-35eb7ac64449_Dentadura.webp) 
 
@@ -88,8 +85,7 @@ O paciente pode deixar a prótese durante toda a noite nessa solução e escovar
 
 Visite o dentista se sua prótese quebrar, lascar, rachar ou ficar solta. Não fique tentando ajustá-la sozinho, pois poderá danifica-lá mais ainda. Essa é uma dica super importante no cuidado com a dentadura.
 
-Existem outras opções quando se perde os dentes  ?
---------------------------------------------------
+## Alternativas aos cuidados da dentadura
 
 ![dentista-sorriso](/images/0f3beeba-591b-4bac-b9a2-bd24f377d0dd_dentista-sorriso.webp) 
 
@@ -111,8 +107,7 @@ Porém, ela pode devolver a estética e a mastigação.
 
 Mas, se você procura por um trabalho com mais segurança, sem dúvida, os implantes dentais são a melhor escolha.
 
-Dúvidas ?
----------
+## Dúvidas sobre o cuidado da dentadura
 
 Ainda tem dúvidas sobre o cuidado com a dentadura? Deixe seu comentário ou pergunta logo abaixo.
 

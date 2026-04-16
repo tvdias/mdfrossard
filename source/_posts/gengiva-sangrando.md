@@ -1,8 +1,6 @@
 ---
 title: 'Gengiva Sangrando? As 7 Causas Diretas e o Tratamento Prático'
-description: >-
- Ter a gengiva sangrando ao passar o fio dental não é normal, é um sério alerta vascular!
- Existem 7 fatores inflamatórios ocultos nisso. Veja como parar o sangue hoje.
+description: "Ter a gengiva sangrando ao passar o fio dental não é normal, é um sério alerta vascular! Existem 7 fatores inflamatórios ocultos nisso. Veja como parar o."
 date: 2014-09-08T10:00:01.000Z
 featured_image: /images/f1d598e2-a78b-493f-b23d-6375ada45fb8_gengiva-sangrando.webp
 ---

@@ -33,8 +33,7 @@ Para ilustrar a diferença que o sorriso pode trazer para a sua vida, fiz esse i
 
 Leia e compartilhe com amigos e familiares.
 
-Infográfico o Poder do Sorriso
-------------------------------
+## Infográfico o Poder do Sorriso
 
 ![O poder do sorriso. 1](/images/6116e09d-a73b-46c9-8259-be6f938bbb56_O-poder-do-sorriso.-1.webp)   
 

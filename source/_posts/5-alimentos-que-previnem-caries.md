@@ -31,8 +31,7 @@ A prevenção da cárie acontece pela correta técnica de escovação e o uso do
 
 Os alimentos são coadjuvantes na ajuda a prevenção da cárie, ou seja, de nada adianta usar esses alimentos e não realizar nenhuma higiene dental.
 
-**Vídeo Será que você tem cárie ?**
----
+## Vídeo Será que você tem cárie ?
 {% youtube hSoR7ttm8-c %}
 
 ---

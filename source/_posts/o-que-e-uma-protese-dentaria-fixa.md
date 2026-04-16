@@ -17,8 +17,7 @@ Esse diagnóstico gera uma série de dúvidas no paciente e logo surge a pergunt
 
 É sobre esse tema que vou discutir nesse texto.
 
-**O que é uma prótese dentária fixa ?**
----------------------------------------
+## Definição de prótese dentária fixa
 
 ![prótese dentária fixa](/images/f2332d0e-b0f6-4189-acb3-e465906d1149_prótese-dentária.webp) 
 
@@ -39,8 +38,7 @@ Portanto, voltando a pergunta sobre o que é uma prótese dentária fixa, a clas
 
 Note que nesse texto estou somente citando as próteses fixas, já que também existem as removíveis.
 
-**Tipos de próteses dentárias fixas :**
----------------------------------------
+## Tipos de próteses dentárias fixas
 
 #### ![o que é uma prótese dentária fixa](/images/2e617f05-514c-4dc2-a3a9-bbec90c878b5_o-que-é-uma-prótese-dentária-fixa.webp)
 
@@ -48,7 +46,7 @@ Note que nesse texto estou somente citando as próteses fixas, já que também e
 
 Essa é o tipo de prótese fixa mais comum e muito realizada nos consultórios dentários. 
 
-Nesse caso, “prepara” totalmente o dente para receber uma “capa" ao redor dele. Existem diferentes tipos de materiais que podem ser usados para confeccionar esse trabalho. 
+Nesse caso, "prepara" totalmente o dente para receber uma "capa" ao redor dele. Existem diferentes tipos de materiais que podem ser usados para confeccionar esse trabalho. 
 
 Em nosso blog, temos um {% post_link coroa-dentaria "infográfico" %} bem interessante e de fácil entendimento sobre as {% post_link coroa-dentaria "coroas dentárias." %}
 
@@ -66,6 +64,6 @@ Porém, nesse caso, existe uma perda de um elemento dentário. Portanto, para su
 
 Igual a coroa ou ponte fixa, porém, a prótese é feita sobre um implante dentário e não sobre um dente. 
 
-Continue navegando em nosso site e [blog](/blog/), possuímos diversos textos que podem responder a sua dúvida.   
+Continue navegando em nosso site e [blog](/blog/), possuímos diversos textos que podem responder a sua dúvida.   
 
 Até a próxima.

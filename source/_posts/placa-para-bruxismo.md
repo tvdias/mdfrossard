@@ -15,8 +15,7 @@ Muitos pacientes estão com esses sintomas e eles geram grande desconforto na ma
 
 Porém, o mais comum e fácil de se realizar é a **placa para bruxismo**.
 
-**Diagnóstico** 
-----------------
+## Diagnóstico do bruxismo
 
 ![placa para bruxismo](/images/3ab180cd-3558-409b-b6f3-979e2266abf1_placa-de-bruximo-diagnótico.webp) 
 
@@ -30,10 +29,9 @@ Com o bruxismo detectado podemos evitar dores os problemas associados.
 
 Além disso, alguns sintomas comuns podem levar ao diagnóstico desse problema. Dor nos músculos da face ou de cabeça ao acordar são ótimos exemplos. 
 
-Nesse caso é preciso que você busque tratamento o quanto antes.  
+Nesse caso é preciso que você busque tratamento o quanto antes.  
 
-**Como a placa para bruxismo é feita ?**
-----------------------------------------
+## Confecção da placa para bruxismo
 
 Existem diversos tratamentos para combater o ranger de dentes. 
 
@@ -51,8 +49,7 @@ Após isso, o paciente irá levar a placa para casa e irá usar continuamente se
 
 Para mais informações sobre o seu cuidado, basta **clicar aqui.**
 
-**Conclusão**
--------------
+## Cuidados e uso da placa para bruxismo
 
 ![vantagens placa para bruxismo](/images/c204dd45-fc82-4ac1-affd-bd6afe1b4e46_fique-atento-na-placa-de-bruxismo.webp) 
 

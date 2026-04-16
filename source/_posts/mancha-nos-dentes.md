@@ -1,8 +1,6 @@
 ---
-title: 'Mancha no Dente: Os 5 principais tipos e os tratamentos estéticos mais eficazes'
-description: >-
- Você sabia que nem toda mancha no dente é sinal de cárie? Conheça os 5 tipos 
- mais comuns, desde café até traumas, e descubra como a Odontologia Estética devolve a brancura do seu sorriso.
+title: 'Mancha no Dente: 5 Tipos e os Tratamentos Estéticos'
+description: "Você sabia que nem toda mancha no dente é sinal de cárie? Conheça os 5 tipos mais comuns, desde café até traumas, e descubra como a Odontologia Estética."
 date: 2014-06-02T16:27:59.000Z
 featured_image: /images/dd887440-97b6-4b2e-9589-0731f3b84261_mancha-nos-dentes.webp
 ---

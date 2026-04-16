@@ -25,20 +25,18 @@ Continue lendo para saber :
 *  Vantagens e desvantagens.
 *  Sensibilidade e o clareamento a laser.
 
-**Clareamento a laser é a laser mesmo?**
-----------------------------------------
+## Entendendo o clareamento a laser
 
-O chamado "laser", realizado durante o clareamento, tem sido menos usado. Antigamente, era normal usar essa luz diferenciada, porém, novos estudos mostram que o uso do “laser" não traz vantagens para a mudança de cor no dente. 
+O chamado "laser", realizado durante o clareamento, tem sido menos usado. Antigamente, era normal usar essa luz diferenciada, porém, novos estudos mostram que o uso do "laser" não traz vantagens para a mudança de cor no dente. 
 Podendo inclusive causar mais [sensibilidade dental](/sensibilidade-nos-dentes/). 
 
 Por isso, em muitas clínicas o nome de clareamento a laser tem sido trocado para clareamento de consultório. 
 
 Nesse caso, apesar de não se usar o laser, os procedimentos vão seguir a mesma regra. 
 
-Entretanto, ainda precisamos usar o [fotopolimerizador](https://pt.wikipedia.org/wiki/Fotopolimerizador) (a famosa luz azul) para “endurecer" a barreira de proteção da gengiva.
+Entretanto, ainda precisamos usar o [fotopolimerizador](https://pt.wikipedia.org/wiki/Fotopolimerizador) (a famosa luz azul) para "endurecer" a barreira de proteção da gengiva.
 
-**Como ele é feito ?**
-----------------------
+## Procedimento do clareamento dental
 
 ![clareamento a laser](/images/41877bdb-851a-4b1d-a9fb-0ab5b05554d3_clareamento-a-laser-funciona.webp "clareamento a laser") 
 
@@ -48,8 +46,7 @@ Como o gel usado para clarear o dente pode ser irritante a gengiva é preciso pr
 
 O clareamento a laser se inicia com a aplicação do gel sobre o dente. Ele deve ficar em contato com o dente de 10 a 15 minutos e pode ser trocado entre 2 a 3 vezes por sessão.
 
-**Benefícios e desvantagens**
------------------------------
+## Vantagens e riscos do clareamento
 
 O benefício mais fácil de se notar é o resultado final, ou seja, o dente mais branco com uma estética melhor. 
 
@@ -61,8 +58,7 @@ Esse problema pode ser contornado com o uso de uma pasta que diminui a sensibili
 
 O clareamento deixa somente branco o dente hígido, ou seja, onde não se tenha resina ou coroa. Nesse caso, talvez seja preciso trocar a restauração para igualar a cor.
 
-**Conclusão**
--------------
+## Conclusão
 
 Pela facilidade de uso e relativos poucos problemas, o clareamento a laser ou de consultório pode ser feito com segurança apresentando ótimos resultados. 
 

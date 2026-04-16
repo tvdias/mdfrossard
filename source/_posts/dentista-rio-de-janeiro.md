@@ -1,5 +1,5 @@
 ---
-title: Dentista no Rio de Janeiro
+title: 'Dentista no Rio de Janeiro com 38 Anos de Experiência'
 description: >-
  Precisa de dentista no Rio de Janeiro? Possuímos duas clinica de alto padrão nessa cidade. Realize seu tratamento com conforto e segurança em nossa clínica.
 date: 2015-08-28T09:20:36.000Z

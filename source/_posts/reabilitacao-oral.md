@@ -1,8 +1,6 @@
 ---
-title: 'Reabilitação Oral: O que é, Benefícios e como Recuperar o seu Sorriso Completo'
-description: >-
- A reabilitação oral é o segredo para transformar dentes desgastados ou perdidos em um sorriso saudável e funcional. 
- Entenda como funciona esse tratamento multidisciplinar definitivo.
+title: 'Reabilitação Oral: O que É e Como Recuperar o Sorriso'
+description: "A reabilitação oral é o segredo para transformar dentes desgastados ou perdidos em um sorriso saudável e funcional. Entenda como funciona esse tratamento."
 date: 2016-01-18T16:47:43.000Z
 featured_image: /images/c2e56fd2-452b-4577-a282-1d3636097725_reabilitação-oral.webp
 ---

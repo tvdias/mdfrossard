@@ -12,8 +12,7 @@ Hoje o tema que abordaremos é sobre algo muito comum na população: o **medo d
 
 Para muitos este tema pode não ter importância, mas para boa parte das pessoas é algo que necessita ser acompanhado e superado.
 
-**O que pode causar o medo de dentista ?**
-------------------------------------------
+## Origem do medo de dentista
 
 ![medo de dentista](/images/uploads/2014/07/medo-de-dentista-300x246.webp) 
 
@@ -23,8 +22,7 @@ Ela, ainda, pode ser momentânea ou acompanhar a pessoa durante situações de r
 
 Para cada causa existe uma forma de abordagem diferente pelo cirurgião dentista e, em todas elas, deve-se proporcionar total atenção e apoio ao paciente, sem banalizar o desconforto que ele sinta nestas situações.
 
-**Medo de dentista nas crianças**
----------------------------------
+## Medo de dentista em crianças
 
 [![medo de dentista e as crianças](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-crianças.webp)](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-crianças.webp) 
 
@@ -42,14 +40,13 @@ Muitas crianças, num primeiro momento, demonstram medo do atendimento odontoló
 
 Dessa forma, é muito importante que o profissional apresente estas novidades de forma atrativa e tranquila, para que a criança possa sentir-se segura e confiar no tratamento. 
 
-Além do “medo por ser novidade”, também existem os receios que os próprios pais/responsáveis  transmitem para os filhos, falando principalmente de casos em que sentiram dor ou se submeteram a anestesia. 
+Além do "medo por ser novidade", também existem os receios que os próprios pais/responsáveis  transmitem para os filhos, falando principalmente de casos em que sentiram dor ou se submeteram a anestesia. 
 
-Com o intuito de influenciar no comportamento da criança para que esta haja da forma que o responsável espera, algumas pessoas semeiam o medo na criança, avisando que “se chorar o dentista vai usar injeção,“se você não ficar quieto vou falar pro dentista arrancar seu dente”. 
+Com o intuito de influenciar no comportamento da criança para que esta haja da forma que o responsável espera, algumas pessoas semeiam o medo na criança, avisando que "se chorar o dentista vai usar injeção,"se você não ficar quieto vou falar pro dentista arrancar seu dente". 
 
 Neste último caso, o dentista passa de promotor de saúde para carrasco, logo, qualquer um teria medo! Assim, este tipo de atitude de alguns pais/responsáveis é equivocada e deve ser abolida.
 
-**Os adultos e a odontofobia **
--------------------------------
+## Medo de dentista em adultos
 
 [![medo de dentista e os adutos](/images/110ed6be-4d06-4d2c-a7df-90d7e7b1d5f9_medo-de-dentista-e-os-adutos.webp)](/images/110ed6be-4d06-4d2c-a7df-90d7e7b1d5f9_medo-de-dentista-e-os-adutos.webp) 
 
@@ -65,8 +62,7 @@ Tais casos devem ser acompanhados com toda a atenção e jamais deve-se subestim
 
 Assim, o tratamento poderá ser mais cansativo e custoso para o paciente.
 
-**Como evitar a odontofobia ?**
--------------------------------
+## Estratégias para superar o medo de dentista
 
 [![como evitar o medo de dentista](/images/96cf38f9-d3e3-4bc3-a2b2-9e8e6134d0e3_como-evitar-o-medo-de-dentista.webp)](/images/96cf38f9-d3e3-4bc3-a2b2-9e8e6134d0e3_como-evitar-o-medo-de-dentista.webp) 
 
@@ -76,7 +72,7 @@ Nós da MD Frossard, entendemos que o bem-estar do paciente começa em sua chega
 
 Entendemos também que o paciente quer ser atendido dentro de suas necessidades e sentir-se seguro quanto a qualidade do profissional que buscou. 
 
-Assim, no momento da consulta, focamos no motivo pelo qual fomos procurados pelo paciente, sua necessidade e, caso algum sintoma de “medo” seja identificado, buscamos confortá-lo esclarecendo suas dúvidas sobre o tratamento dando-lhe segurança e confiança para que esta fase seja superada. 
+Assim, no momento da consulta, focamos no motivo pelo qual fomos procurados pelo paciente, sua necessidade e, caso algum sintoma de "medo" seja identificado, buscamos confortá-lo esclarecendo suas dúvidas sobre o tratamento dando-lhe segurança e confiança para que esta fase seja superada. 
 
 Conosco o paciente possui liberdade de questionamento e estamos sempre a postos para esclarecer suas dúvidas. Além da postura profissional, incentivamos sempre nossos pacientes a superarem etapas e orientamos para que algumas atitudes deletérias sejam abolidas, como por exemplo, evitar transmitir sensações ruins ou mentiras para crianças.
 
@@ -86,10 +82,9 @@ Dessa forma, fica claro que o diálogo franco entre paciente e dentista deve ser
 
 Com confiança no profissional, além de superar os medos, o indivíduo ainda garante um excelente trabalho para si. 
 
-Viu só como conversar com seu dentista é importante? Quem disse que paciente só tem que ficar calado?  
+Viu só como conversar com seu dentista é importante? Quem disse que paciente só tem que ficar calado?  
 
-Vídeo medo de dentista
-----------------------
+## Vídeo medo de dentista
 
 {% youtube bEW82uVOVCo %}
 

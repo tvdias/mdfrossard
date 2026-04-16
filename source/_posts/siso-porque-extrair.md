@@ -7,10 +7,9 @@ date: 2014-11-03T10:00:39.000Z
 featured_image: /images/fbf52b9b-4660-4b09-9901-b2a664987912_siso_incluso.webp
 ---
 
-Por que extrair o siso?
------------------------
+## Informações sobre o siso
 
-Muitos pacientes temem este diagnóstico: **“precisa extrair seus sisos”.** 
+Muitos pacientes temem este diagnóstico: **"precisa extrair seus sisos".** 
 
 {% post_link medo-de-dentista "Medo da cirurgia" %}, medo da anestesia e medo de dor são as primeiras sensações que aparecem e fazem com que a pessoa postergue este evento. 
 
@@ -22,8 +21,7 @@ Além disso, caso ocorra na região acúmulo de sujeira, devido à falta de higi
 
 Caso o siso esteja em posição correta, sem causar transtorno, incômodo, dor e tiver condições de higienização, muitas das vezes ele nem precisa ser removido.
 
-Quais são as indicações para extração do siso 
-----------------------------------------------
+## Indicações para extração do siso
 
 [![extração siso](/images/7bfbb242-7598-49e6-bde8-f7236e397efa_extração-siso.webp)](/images/7bfbb242-7598-49e6-bde8-f7236e397efa_extração-siso.webp) 
 
@@ -36,11 +34,10 @@ A seguir, listo as situações em que sua remoção é indicada:
 - Quando, por meio de radiografias, observamos que o mau posicionamento do siso representa risco eminente de reabsorção da raiz do dente vizinho; 
 - Quando o paciente irá realizar tratamento ortodôntico e assim a extração prévia do siso irá prevenir qualquer desconforto para a extração, uma vez que com aparelho a cirurgia fica mais difícil; 
 - Prevenção de cistos e tumores odontogênicos; 
-- Prevenção para que o siso “não entorte os outros dentes”. 
+- Prevenção para que o siso "não entorte os outros dentes". 
 Alguns profissionais defendem que com o nascimento dos sisos eles podem empurrar os dentes para frente,na procura de espaço, e assim apinhá-los.
 
-Pericoronarite, problema comum no siso 
----------------------------------------
+## Pericoronarite e complicações
 
 Como mencionado anteriormente, quando não higienizamos o dente corretamente, podemos ter a pericoronarite. 
 
@@ -52,8 +49,7 @@ Além disso, as vezes a região pode estar dolorida dificultando sua escovação
 
 Assim, a placa se acumula entre o siso e a gengiva, causando muita dor e desconforto.
 
-E a cirurgia para remoção do siso, como acontece?
--------------------------------------------------
+## Procedimento cirúrgico para extração
 
 [![radiografia-panoramica-terceiros-molares-sisos](/images/154f252c-cee2-46d3-b873-28ac05eb49e5_radiografia-panoramica-terceiros-molares-sisos.webp)](/images/154f252c-cee2-46d3-b873-28ac05eb49e5_radiografia-panoramica-terceiros-molares-sisos.webp) 
 
@@ -65,14 +61,13 @@ Além disso, existem casos mais complicados que necessitamos realizar uma tomogr
 
 Mas, existem muitos casos, onde ele pode estar "deitado" o que dificulta muito a nossa cirurgia. 
 
-Também com a tomografia podemos ver a relação das raízes com o [nervo alveolar inferior.](https://pt.wikipedia.org/wiki/Nervo_alveolar_inferior) 
+Também com a tomografia podemos ver a relação das raízes com o [nervo alveolar inferior.](https://pt.wikipedia.org/wiki/Nervo_alveolar_inferior) 
 
 Existem casos onde a raiz pode estar muito perto do nervo podendo causar parestesia transitória, 
 
 Portanto, existem casos mais simples e outros mais complexos que devemos planejar com bastante cuidado.
 
-Concluindo
-----------
+## Considerações finais
 
 Assim, diante do que foi listado, entende-se que quando indicado, a extração dos sisos deve ser realizada. 
 

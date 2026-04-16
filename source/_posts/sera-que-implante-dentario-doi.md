@@ -17,18 +17,17 @@ Porém, pensando de outra maneira, apesar de ser contraditório, a [dor](https:/
 
 Porém, nesse texto, eu não quero abordar esse tipo de dor e sim o desconforto que pode acontecer após uma cirurgia dentária, sendo mais específico, após a instalação de um {% post_link implante-dentario "implante dentário" %}. 
 
-Escutamos muito em nossa rotina clínica a seguinte pergunta, **“instalar implante dentário dói? ”**. 
+Escutamos muito em nossa rotina clínica a seguinte pergunta, **"instalar implante dentário dói? "**. 
 
 Apesar de termos um índice de sucesso alto com implantes dentários, a dor ainda pode acontecer. Sobre isto que conversaremos a seguir.
 
-**Afinal, implante dentário dói ou não ?**
-------------------------------------------
+## Avaliação da dor com implante dentário
 
 ![implante implante dor](/images/8219148e-34ac-4502-98c2-798fb56f83db_implante-implante-dor.webp) 
 
 Antes de mais nada a [dor](https://www.sbed.org.br/materias.php?cd_secao=76) é uma sensação subjetiva, não é possível mensurar o nível de dor. O que para um dói muito para você, pode não doer tanto para outro. 
 
-Dito isso, devemos ter em mente que a instalação de um implante é um procedimento cirúrgico. Por consequência criamos um “trauma” na região para podermos posteriormente melhorar algo que antes não estava bom. Que no nosso caso é devolver a correta mastigação para o paciente. 
+Dito isso, devemos ter em mente que a instalação de um implante é um procedimento cirúrgico. Por consequência criamos um "trauma" na região para podermos posteriormente melhorar algo que antes não estava bom. Que no nosso caso é devolver a correta mastigação para o paciente. 
 
 Portanto durante o pós operatório, pode ocorrer alguma sensação de desconforto. E a dor pode, obviamente, variar dependendo do tipo e tamanho da cirurgia. 
 
@@ -38,10 +37,9 @@ Outro ponto que devemos abordar é a dor durante o procedimento de instalação 
 
 Independente do tipo de cirurgia, iremos usar anestesia local para evitar o desconforto. 
 
-Porém, ainda assim, poderemos sentir alguma “pressão” durante o ato cirúrgico. Isso tudo deve ser bem explicado pelo dentista para o paciente, evitando confusão entre a dor de fato ou alguma sensibilidade cirúrgica.
+Porém, ainda assim, poderemos sentir alguma "pressão" durante o ato cirúrgico. Isso tudo deve ser bem explicado pelo dentista para o paciente, evitando confusão entre a dor de fato ou alguma sensibilidade cirúrgica.
 
-**O que fazer para sentir menos dor ?**
----------------------------------------
+## Estratégias para minimizar a dor
 
 ![medico-vetorial](/images/c3ef894d-d4fb-422f-b16b-27897607e9c2_medico-vetorial.webp) 
 
@@ -57,13 +55,11 @@ Em último lugar, devemos seguir a correta orientação do dentista a respeito d
 
 Realizar o que o dentista orientou é o caminho para não ter dor após a instalação do implante.
 
-Vídeo sobre dor com implantes dentais 
---------------------------------------
+## Vídeo sobre dor com implantes dentais
 
 {% youtube We6SUOzbK5U %}
 
-**Conclusão** 
---------------
+## Conclusão sobre implante e dor
 
 ![implante dentario doi](/images/3f568da3-5f73-4ad0-bee6-10bb898024fd_implante-dentario-doi.webp) 
 

@@ -1,8 +1,6 @@
 ---
 title: 'Dor de Dente: As 3 Principais Causas e Tratamentos Imediatos'
-description: >-
- Você está com uma dor de dente aguda? Veja agora as 3 principais causas ocultas
- e os corretos tratamentos na clínica para acabar imediatamente com a dor de dente.
+description: "Você está com uma dor de dente aguda? Veja agora as 3 principais causas ocultas e os corretos tratamentos na clínica para acabar imediatamente com a dor."
 date: 2014-11-17T10:00:22.000Z
 featured_image: /images/70754142-620c-4d70-9da9-a766ca1df8bd_dor-de-dente.webp
 ---

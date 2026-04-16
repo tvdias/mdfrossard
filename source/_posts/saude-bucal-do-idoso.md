@@ -1,5 +1,5 @@
 ---
-title: Saúde bucal do idoso - O segredo de ter uma boa qualidade de vida.
+title: 'Saúde Bucal do Idoso: Guia para Qualidade de Vida'
 description: >-
  A saúde bucal do idoso é muito importante para a correta alimentação e auto
  estima. Saiba quais os principais problemas que se pode ter nessa fase da
@@ -22,8 +22,7 @@ Como o foco deste site é a odontologia, quero mostrar os problemas que você p
 
 Se você já se encontra nessa faixa e apresenta estes quadros, fique atento com **sua saúde bucal** e saiba como cuidar bem dela aqui.
 
-**Saúde bucal do idoso - Um trabalho Multidisciplinar**
--------------------------------------------------------
+## Saúde bucal do idoso - Um trabalho Multidisciplinar
 
 [![saúde bucal do idoso](/images/eca93cb6-38bc-44a8-b0e2-4bd2b97e761c_saúde-bucal-dos-idosos.webp)](/images/eca93cb6-38bc-44a8-b0e2-4bd2b97e761c_saúde-bucal-dos-idosos.webp)
 
@@ -39,8 +38,7 @@ O atendimento não deve ser focado apenas nos problemas bucais, devemos ter um h
 
 **Terceiro motivo:** O tratamento de complicações bucais é mais melindroso em qualquer paciente com doença sistêmica pelos cuidados que elas necessitam. Na maior idade, tais desordens demandam cuidados mais específicos e com isso podem limitar movimentos e deslocamentos do paciente. Portanto complicações bucais podem ser mais complexas para serem executadas, mesmo elas sendo simples.
 
-Alguns dos principais problemas na saúde bucal do idoso são:
-------------------------------------------------------------
+## Alguns dos principais problemas na saúde bucal do idoso são:
 
 ![Prótese dentária](/images/f2332d0e-b0f6-4189-acb3-e465906d1149_prótese-dentária.webp) 
 
@@ -62,8 +60,7 @@ Alguns tem {% post_link coroa-dentaria "coroas" %}, outros implantes e muitos us
 
 A saúde bucal do idoso pode ser muito afetada pela dificuldade na higienização dos dentes. Isso pode causar diversos problemas, sendo a doença periodontal um dos mais comuns.
 
-**Na terceira idade podemos realizar todos os procedimentos dentários?**
--------------------------------------------------------------------------
+## Na terceira idade podemos realizar todos os procedimentos dentários?
 
 [![saúde do idoso](/images/a4da6625-68a1-4cf4-acfb-6204f2a2ab3c_saúde-do-idoso.webp)](/images/a4da6625-68a1-4cf4-acfb-6204f2a2ab3c_saúde-do-idoso.webp) 
 
@@ -83,8 +80,7 @@ Porém, antes de tudo a correta prevenção deve ser feita. Com o diagnóstico a
 
 Posteriormente todos os principais procedimentos, como uso de prótese, endodontia, periodontia ou implantes, podem e devem ser realizados visando uma melhor qualidade de vida pra você.
 
-**Odontologia para cada idade **
---------------------------------
+## Odontologia para cada idade
 
 [![higiene bucal do idoso](/images/1212ef9a-9f98-4972-b713-1eeb839665fb_higiene-bucal-do-idoso.webp)](/images/1212ef9a-9f98-4972-b713-1eeb839665fb_higiene-bucal-do-idoso.webp) 
 

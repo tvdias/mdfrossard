@@ -1,8 +1,6 @@
 ---
-title: 'Dente Siso Inflamado: Sintomas, Alívio da Dor e Quando a Extração é Necessária'
-description: >-
- Está sofrendo com o dente siso inflamado? Entenda os sintomas da pericoronarite, 
- como aliviar a dor e por que a extração segura é a melhor solução para o seu caso.
+title: 'Dente Siso Inflamado: Sintomas, Dor e Quando Extrair'
+description: "Está sofrendo com o dente siso inflamado? Entenda os sintomas da pericoronarite, como aliviar a dor e por que a extração segura é a melhor solução para o."
 date: 2017-05-29T10:00:14.000Z
 featured_image: /images/be5df36b-1524-4f94-a657-c32ade393dc7_dente-siso-inflamado.webp
 ---

@@ -1,8 +1,6 @@
 ---
-title: 'Sorriso Perfeito: Como a Odontologia Estética Transforma sua Vida e Autoestima'
-description: >-
- Ter um sorriso perfeito é mais que estética; é sobre confiança e saúde. 
- Descubra os tratamentos modernos, como lentes de contato e Invisalign, que tornam esse sonho possível.
+title: 'Sorriso Perfeito: Como a Odontologia Estética Transforma'
+description: "Ter um sorriso perfeito é mais que estética; é sobre confiança e saúde. Descubra os tratamentos modernos, como lentes de contato e Invisalign, que tornam."
 date: 2015-04-28T17:45:20.000Z
 featured_image: /images/6d06d69a-0490-4136-aa10-ca875b8ef70e_Sorriso-perfeito.webp
 ---

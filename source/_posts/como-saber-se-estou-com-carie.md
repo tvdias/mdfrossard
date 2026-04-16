@@ -7,10 +7,9 @@ date: 2016-09-05T10:00:54.000Z
 featured_image: /images/6f1c4a88-de47-4959-b711-fdb67eb81f43_Dúvida-cárie.webp
 ---
 
-A doença cárie já foi amplamente discutida em nosso blog. Entretanto, existem muitas dúvidas de clientes sobre esse tema, sendo a principal **“como saber se estou com cárie“**.
+A doença cárie já foi amplamente discutida em nosso blog. Entretanto, existem muitas dúvidas de clientes sobre esse tema, sendo a principal **"como saber se estou com cárie"**.
 
-**Fases da doença cárie**
--------------------------
+## Identificando os estágios da cárie
 
 Devemos saber que antes da cárie aparecer com uma cavidade, ela apresenta fases iniciais que podem ser revertidas. A primeira delas é a mancha branca opaca. 
 
@@ -20,8 +19,7 @@ Além disso, devemos ficar atentos que nem toda mancha branca significa que esta
 
 A mancha branca por cárie, geralmente esta localizada perto da gengiva ou na área oclusal. Se nada for realizado durante essa fase inicial e o paciente não for submetido a tratamento, a {% post_link como-evitar-a-carie-dentaria "cárie" %} irá progredir causando maiores problemas, como a cavidade no dente.
 
-**Como saber se estou com cárie ?**
------------------------------------
+## Diagnóstico profissional da cárie
 
 ![como saber se estou com cárie](/images/ea56bf19-1116-43da-bc86-5d85bc5d2d40_como-saber-se-estou-com-cárie.webp) 
 
@@ -35,21 +33,20 @@ Somente o dentista poderá dar o correto diagnóstico, indicando que você possu
 
 Devemos saber que uma mancha escura no dente nem sempre é indicativo de uma cárie, podendo indicar outros tipos de problemas. 
 
-E mesmo você tendo certeza que possui uma cárie no dente, o que poderia fazer?  Se for na fase avançada, com cavitação no dente, você não irá conseguir realizar nada sozinho. 
+E mesmo você tendo certeza que possui uma cárie no dente, o que poderia fazer?  Se for na fase avançada, com cavitação no dente, você não irá conseguir realizar nada sozinho. 
 
-Por isso, a melhor resposta para a pergunta de “como saber se estou com cárie”, é procurar um tratamento com um dentista de qualidade e confiança para realizar o melhor diagnóstico e tratamento. 
+Por isso, a melhor resposta para a pergunta de "como saber se estou com cárie", é procurar um tratamento com um dentista de qualidade e confiança para realizar o melhor diagnóstico e tratamento. 
 
 Entretanto, você pode fazer sua parte em casa, a correta técnica de escovação e do uso do fio dental diminui muito a chance da ocorrência da cárie. 
 
-Beber bastante água e ter certos cuidados sobre os tipos de alimentos ingeridos, também auxiliam nesta prevenção. 
+Beber bastante água e ter certos cuidados sobre os tipos de alimentos ingeridos, também auxiliam nesta prevenção. 
 
-**Vídeo Será que você tem cárie ?**
----
+## Vídeo Será que você tem cárie ?
 {% youtube hSoR7ttm8-c %}
 
 ---
-**Tratamento da cárie**
-------------------------
+
+## Tratamento e reversão da cárie
 
 ![saber se estou com cárie](/images/30b86ced-1416-4108-9b6f-bfd5ee043abd_saber-se-estou-com-cárie.webp) 
 

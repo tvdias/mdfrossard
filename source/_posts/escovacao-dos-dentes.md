@@ -15,8 +15,7 @@ A correta higiene bucal irá proporcionar um hálito puro e saudável, além de 
 
 Para fazer um bom trabalho de escovação dos dentes necessita-se de pelo menos dois minutos usando a técnica recomendada.
 
-A correta forma de realizar a escovação dos dentes
---------------------------------------------------
+## Técnica correta de escovação dos dentes
 
 ![escovação dos dentes](/images/9186d3d6-f83d-4f1a-a5ad-197ae4571ce9_escovação-dos-dentes.webp) 
 
@@ -24,12 +23,11 @@ Esteja usando uma escova de dentes normal ou uma escova de dentes elétrica, voc
 
 Além disso, é importante o uso da pasta dental. Para a parte da frente e a parte de trás dos dentes, manter a escova com angulo de 45 graus realizando movimentos suaves e curtos, de cima para baixo. Não se esqueça de escovar a língua, o que ajudará a ter um hálito fresco.
 
-Além da escovação dos dentes, o **fio dental é essencial para a higiene**.
---------------------------------------------------------------------------
+## Complementação com fio dental
 
 ![escovação dos dentes fio dental](/images/51ef4032-8333-4d77-9362-ffb28aecbd43_escovação-dos-dentes-fio-dental.webp) 
 
-Para usar Pegue cerca de 50 centímetros de fio dental e enrole frouxamente a maior parte dele em volta de cada dedo médio (enrole mais em um dedo do que no outro) deixando 5 centímetros de fio entre eles. 
+Para usar Pegue cerca de 50 centímetros de fio dental e enrole frouxamente a maior parte dele em volta de cada dedo médio (enrole mais em um dedo do que no outro) deixando 5 centímetros de fio entre eles. 
 
 Com os seus polegares e os dedos indicadores segurando o fio estendido, deslize-o suavemente para baixo entre os seus dentes, tomando cuidado para não pressioná-lo contra a sua gengiva. 
 

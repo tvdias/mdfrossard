@@ -17,8 +17,7 @@ O que fazer?
 
 Primeiro, fique calmo, o nervosismo não irá ajudar. Mas fique atento a não perder tempo e realizar todos os procedimentos descritos aqui.
 
-Criança e dentes quebrados, uma mistura comum 
-----------------------------------------------
+## Traumas dentários em crianças
 
 ![Medo de dentista e as crianças](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-crianças.webp) 
 
@@ -28,8 +27,7 @@ As vezes, durante as brincadeiras, ocorrem tombos ou pancadas que acabam injuria
 
 Estes traumas podem tanto não ter sinal como também podem gerar edema, cortes ou ainda fratura dental.
 
-O que fazer quando ocorre um acidente 
---------------------------------------
+## Procedimentos de emergência para dentes quebrados
 
 Quando uma situação dessas ocorrer, tente manter a calma e acalme a criança. 
 
@@ -43,8 +41,7 @@ Caso isto tenha acontecido, encontre o fragmento dentário ou dente e armazene-o
 
 Feito isto, **procure imediatamente seu dentista** para que ele possa tomar providências de forma a recuperar o dente que sofreu o trauma.
 
-Dica importante 
-----------------
+## Atenção para dentes de leite e permanentes
 
 É importante ressaltar que **tanto dentes de leite quanto dentes permanentes** merecem a mesma atenção. Mesmo que o trauma não tenha gerado fratura dentária, a criança deve ser levada ao dentista para que ele possa avaliar clinicamente a situação, avaliar se o dente está mole e, se necessário, fazer um RX do local e prescrever medicação. 
 

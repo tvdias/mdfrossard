@@ -21,8 +21,7 @@ Continue lendo esse texto para saber :
 *  O uso correto da escovar dental
 *  Como prevenir que se tenha um problema bucal
 
-**Como ter os dentes mais saudáveis e a escovação**
----------------------------------------------------
+## Escovação e saúde dentária
 
 **A escovação é o segredo que todo mundo sabe, mas que nem sempre é realizado corretamente.** 
 
@@ -32,8 +31,7 @@ Entretanto, não é possível ter dentes saudáveis se a correta escovação dos
 
 A limpeza bucal é fácil de ser realizada, {% post_link escovar-os-dentes "nesse texto" %} eu explico com detalhes toda a técnica para um efetivo cuidado dos dentes.
 
-**Uso do Fio dental **
-----------------------
+## Complementação com fio dental
 
 ![Como ter os dentes mais saudáveis](/images/871930ef-bab5-4734-ad8c-9a274d365e96_como-ter-dentes-mais-saudáveis-e-o-uso-do-fio-dental.webp) 
 
@@ -43,10 +41,9 @@ Por experiencia clínica, percebo que muitos sabem de sua importância, entretan
 
 A falta de tempo e a dificuldade para seu uso são as desculpas para não utilizar o fio dental. 
 
-Esse quadro pode ser revertido facilmente. Em grande parte dos casos, o uso constante e correto da técnica adequada diminui o sangramento e gera saúde da gengiva. A técnica completo pode ser lida {% post_link como-passar-o-fio-dental "aqui" %}.
+Esse quadro pode ser revertido facilmente. Em grande parte dos casos, o uso constante e correto da técnica adequada diminui o sangramento e gera saúde da gengiva. A técnica completo pode ser lida {% post_link como-passar-o-fio-dental "aqui" %}.
 
-**Ir ao dentista**
-------------------
+## Acompanhamento profissional com dentista
 
 O principal responsável de responder a sua dúvida de como ter os dentes mais saudáveis é o **dentista.** 
 
@@ -58,4 +55,3 @@ Se você ainda tiver alguma dúvida sobre esse tema, deixe sua pergunta abaixo!
 
 Att,
 Davi Frossard
-

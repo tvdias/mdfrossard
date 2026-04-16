@@ -21,8 +21,7 @@ _Portanto continue lendo para saber sobre :_
 *  Os tipos de prótese sobre implante.
 *  Estética e durabilidade desse trabalho.
 
-**Prótese e implantes - Tratamentos diferentes**
-------------------------------------------------
+## Prótese e implantes - Tratamentos diferentes
 
 Talvez a principal dúvida sobre esse tema seja a confusão que existe entre a prótese e o [implante dental.](/implante-dentario/) 
 
@@ -34,8 +33,7 @@ No Brasil, ainda existem duas especialidades diferentes, uma chamada de Implanto
 
 Por isso, consideramos o tratamento com implante e próteses, procedimentos diferentes.
 
-**Tipos de prótese sobre implante**
------------------------------------
+## Tipos de prótese sobre implante
 
 ![Protese sobre implante dentario](/images/c7a0b692-6ded-4852-a46f-9cf4e7d5da43_Protese-sobre-implante-dentario.webp) 
 
@@ -50,8 +48,7 @@ Afinal, sempre quando pensamos em implantes dentais, queremos ter um trabalho co
 2. Ponte sobre implante - Quando precisamos substituir mais de um dente. Nesse caso o número de implantes pode ser menor do que o número de dentes.
 3. Protocolo sobre implante - Quando se substitui todos os dentes ou superior ou inferior. Nesse caso se usa uma prótese completa ( todos os dentes unidos ) fixada em implantes.
 
-**E sua estética, é boa ?**
----------------------------
+## E sua estética, é boa ?
 
 A prótese sobre implante apresenta uma ótima estética podendo se assemelhar ao dente natural. 
 
@@ -65,8 +62,7 @@ Para isso, cada trabalho é único, ou seja, para cada pessoa é feito um dente 
 
 ---
 
-**A prótese sobre implante dura muito tempo ?**
------------------------------------------------
+## A prótese sobre implante dura muito tempo ?
 
 Assim como no dente, a durabilidade desse tratamento irá depender de uma boa higienização da região e a ida as consultas de revisão no dentista. 
 

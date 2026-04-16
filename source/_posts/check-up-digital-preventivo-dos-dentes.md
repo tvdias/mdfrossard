@@ -17,8 +17,7 @@ date: 2014-10-19 10:00:19
 
 Check up digital preventivo na odontologia, você sabe o que é isso? Então leia esse texto para saber como praticamente eliminar problemas nos dentes.
 
-Prevenção , prevenção e prevenção 
-----------------------------------
+## Prevenção , prevenção e prevenção
 
 Essa é a palavra que todo ser humano deve ter em mente quando se pensa em saúde. 
 
@@ -38,8 +37,7 @@ Ou seja, o cliente termina o tratamento odontológico, o dentista não explica q
 
 Em outra parte a culpa é do paciente, que apesar do dentista avisar da revisão, ligar para poder marcar, o paciente nunca retorna para a consulta de prevenção.
 
-Porque prevenir é melhor do que tratar ( 3 fatores básicos )
-------------------------------------------------------------
+## Porque prevenir é melhor do que tratar ( 3 fatores básicos )
 
 A prevenção é melhor por 3 fatores básicos e fácil de entender: 
 
@@ -55,8 +53,7 @@ Com isso, ao invés de tratar uma cárie grande, com possibilidade de fazer cana
 
 Portanto, ficaria mais barato (não teríamos o tratamento endodôntico), seria feito em menos tempo (uma consulta apenas) e a dor e o desconforto seria bem menor.
 
-Check up Digital preventivo na odontologia
-------------------------------------------
+## Check up Digital preventivo na odontologia
 
 Para evitar esse problemas, temos usado o check up digital preventivo. Esse tipo de tratamento visa mantermos um controle dental através de revisões semestrais ou anuais.
 

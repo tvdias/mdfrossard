@@ -1,8 +1,6 @@
 ---
 title: 'Aparelho Ortodôntico: 7 Dúvidas Comuns sobre Ortodontia'
-description: >-
- A Ortodontia promove o correto posicionamento dos dentes e ossos maxilares.
- Conheça os benefícios e tire as 7 principais dúvidas sobre o uso de aparelho ortodôntico.
+description: "A Ortodontia promove o correto posicionamento dos dentes e ossos maxilares. Conheça os benefícios e tire as 7 principais dúvidas sobre o uso de aparelho."
 date: 2015-02-22T18:49:48.000Z
 featured_image: /images/7669bdff-4faa-45aa-b565-c3de3aa64ddf_Ortodontia.webp
 ---

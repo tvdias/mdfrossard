@@ -1,10 +1,8 @@
 ---
-title: 'Sensibilidade nos Dentes: Veja os 9 Principais Motivos e Como Curar'
+title: 'Sensibilidade nos Dentes: 9 Causas e Como Tratar'
 date: 2014-05-15T19:10:51.000Z
 author: Luciana Vieira Peroni
-description: >-
- A dor causada pela sensibilidade dental é um dos incômodos mais comuns no consultório.
- Entenda os 9 principais motivos e descubra como eliminar a dor de forma definitiva.
+description: "A dor causada pela sensibilidade dental é um dos incômodos mais comuns no consultório. Entenda os 9 principais motivos e descubra como eliminar a dor de."
 featured_image: /images/d58faad0-cee4-4837-ac17-cb53824b8527_sensibilidade-dental.webp
 ---
 

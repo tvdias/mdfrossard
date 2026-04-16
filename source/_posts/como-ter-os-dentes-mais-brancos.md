@@ -13,8 +13,7 @@ Você, assim como eu, queremos nos sentir bem com o nosso sorriso. Para isso, ex
 
 Leia texto para saber **3 opções de como ter os dentes mais brancos.** Vou elencar eles em ordem de complexidade. Sendo o primeiro mais fácil de ser realizado e por qualquer pessoa. Nos outros dois é preciso de auxilio do dentista.
 
-**Higienização  **
-------------------
+## Dentes brancos através da higiene
 
 Não adianta saber como ter os dentes mais brancos e não ter saúde. 
 
@@ -26,8 +25,7 @@ Isso, deixa o dente com um aspecto ruim e principalmente facilita o aparecimento
 
 Para saber como escovar os dente e usar o fio dental corretamente, clique {% post_link escovacao-dos-dentes "aqui" %} e {% post_link como-passar-o-fio-dental "aqui" %}.
 
-**Clareamento **
-----------------
+## Clareamento dos dentes
 
 O clareamento dos dentes é a forma mais difundida para se ter dentes brancos. 
 
@@ -37,8 +35,7 @@ Esse tratamento é muito pouco invasivo. Para sua realização é preciso ter os
 
 Podemos realizar o clareamento de consultório, o caseiro ou aliar os dois tipos de tratamentos. Em nosso blog, temos um guia completo sobre esse tratamento, {% post_link clareamento-dental "veja agora" %}.
 
-**Faceta dental **
-------------------
+## Facetas dentais para estética
 
 ![Dentes mais brancos com facetas](/images/bd793809-cae3-4bf2-9220-f6ce1f569cd1_dentes-mais-brancos-com-facetas.webp) 
 

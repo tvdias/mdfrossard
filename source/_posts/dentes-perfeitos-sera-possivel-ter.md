@@ -32,8 +32,7 @@ Para exemplificar isso, fizemos um infográfico onde colocamos os 6 principais t
 
 Além disso, possuímos um segundo texto sobre o {% post_link sorriso-perfeito "sorriso perfeito" %}, nele também falamos sobre a busca de um belo sorriso.
 
-Fator Básico para se ter dentes perfeitos 
-------------------------------------------
+## Saúde bucal como base para dentes perfeitos
 
 Muitos querem mudar o sorriso, fazer {% post_link 5-razoes-para-usar-faceta-de-porcelana "facetas de porcelana" %} ou {% post_link clareamento-dental "clareamento dentário" %}, mas esquecem do básico, a saúde gengival dos dentes. 
 
@@ -41,15 +40,10 @@ Sim, se não existir o cuidado básico dos dentes, toda a parte estética é per
 
 Somente com as gengiva saudável e os dentes sem cáries é possível realizar um tratamento estético de qualidade.
 
-Video sobre como mudar o sorriso
-------------------------------------------------------------------
+## Principais tratamentos para dentes perfeitos
 
 ---
-{% youtube iB7hLaHqoZ0 %}
----
-
-Infográfico -  Tratamentos para mudar o sorriso (dentes perfeitos)
-------------------------------------------------------------------
+## {% youtube iB7hLaHqoZ0 %}
 
 ![dentes perfeitos](/images/125446a5-a228-4fe7-b779-6a5b8e196201_dentes-perfeitos-2.webp) 
 

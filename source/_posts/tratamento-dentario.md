@@ -13,8 +13,7 @@ Por isso, buscamos realizar atividades físicas, procuramos médicos de qualidad
 
 De uma maneira geral, todos nós queremos viver bem e bastante tempo. Assim, além da saúde do corpo e da mente necessitamos ter saúde dos dentes. O **tratamento dentário** é essencial para se conseguir ter uma [correta alimentação](https://www.minhavida.com.br/alimentacao/materias/17780-alimentacao-correta-e-aliada-para-evitar-o-envelhecimento-precoce).
 
-**Antes uma pequena história**
-------------------------------
+## Caso de sucesso em tratamento dentário
 
 [![Historia tratamento dentário](/images/a76bdfe9-7ade-4643-b747-3dbf7320fc20_Historia-tratamento-dentário.webp)](/images/a76bdfe9-7ade-4643-b747-3dbf7320fc20_Historia-tratamento-dentário.webp) 
 
@@ -26,23 +25,21 @@ Entretanto, devido a pavor de dentista, nunca fazia uma visita regular no dentis
 
 Assim, ela teve que superar seu trauma, e com a indicação de um grande amigo, veio realizar um tratamento dentário conosco. Somente dessa maneira ela conseguiu reaver sua saúde novamente.
 
-**O tratamento dentário e sua saúde **
---------------------------------------
+## Impacto do tratamento dentário na saúde
 
 [![Tratamento dentário e saúde](/images/b364658f-b092-4e3b-9180-bfabc63be5e7_Tratamento-dentário-e-saúde.webp)](/images/b364658f-b092-4e3b-9180-bfabc63be5e7_Tratamento-dentário-e-saúde.webp) 
 
-A saúde bucal do brasileiro é ruim, aliás eu já comentei isso em um {% post_link saude-bucal-do-brasileiro "post recente" %} baseado na reportagem da revista Veja.  
+A saúde bucal do brasileiro é ruim, aliás eu já comentei isso em um {% post_link saude-bucal-do-brasileiro "post recente" %} baseado na reportagem da revista Veja.  
 
 Na época a pesquisa apontou alguns dados importantes que indicam o pouco cuidado com os dentes. Vimos que 48% não consideram importante ir ao {% post_link check-up-digital-preventivo-dos-dentes "dentista regulamente" %}, 38% raramente usam o fio dental e 29% acham normal perder o dente na velhice ! 
 
 Entretanto temos que ter o discernimento que a falta de tratamento dos dentes, tem relação com uma série de problemas de saúde importantes, como a gastrite, problemas cardíacos, diabetes e problemas respiratórios. 
 
-Algumas bactérias presentes na {% post_link gengiva-sangrando "doença periodontal" %} , tem relação com doenças do coração, ou seja, pode aumentar a chance de ter um problema de saúde mais grave. 
+Algumas bactérias presentes na {% post_link gengiva-sangrando "doença periodontal" %} , tem relação com doenças do coração, ou seja, pode aumentar a chance de ter um problema de saúde mais grave. 
 
-Portanto a falta de tratamento dentário não causa somente um problema local no dentes, mas sim um problema para o corpo todo.
+Portanto a falta de tratamento dentário não causa somente um problema local no dentes, mas sim um problema para o corpo todo.
 
-**Falta de tratamento dos dentes e sua vida social **
------------------------------------------------------
+## Impacto social do tratamento dentário
 
 Outro fator importante relacionado a falta de tratamento dental esta relacionado com a sua vida social,incluindo sua amizades, relacionamentos e o seu trabalho. 
 
@@ -54,8 +51,7 @@ Estou sendo um pouco dramático, talvez sim.
 
 Mas, o descuido em relação aos dentes, poderá gerar problemas que irão dificultar a sua relação social com outras pessoas, afinal, ninguém quer sorrir e apresentar uma falha no dente.
 
-**Quais os tipos de tratamento dentários existem ?**
-----------------------------------------------------
+## Tipos de tratamentos dentários
 
 [![tipos tratamento dentário](/images/4573e3b6-f5b4-4b39-b36f-b777c70b0fca_tipos-tratamento-dentário.webp)](/images/4573e3b6-f5b4-4b39-b36f-b777c70b0fca_tipos-tratamento-dentário.webp) 
 
@@ -75,7 +71,7 @@ Existe uma página em nosso site que explica cada tipo de tratamento que pode se
 
 Outros diagnósticos temos que realmente realizar uma reabilitação bucal, onde teremos que tratar praticamente todos os dentes, e o paciente irá ser atendido pelas diversas especialidades odontológicas. 
 
-**Você já marcou seu tratamento dentário?**   
+**Você já marcou seu tratamento dentário?**   
 
 Att, 
 Davi Frossard

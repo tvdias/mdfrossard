@@ -16,7 +16,9 @@ A pesquisa foi realizada pela revista SAÚDE e ouviu 1818 homens e mulheres, de 
 
 [![Tabela revista Veja](/images/9ead0f39-87cb-408a-bbff-87cc2ac02379_Tabela-revista-Veja.webp)](/images/9ead0f39-87cb-408a-bbff-87cc2ac02379_Tabela-revista-Veja.webp) 
 
-Agora vamos analisar os resultados apresentados na pesquisa. Antes de tudo, devemos ressaltar o fato de que a  pesquisa foi realizada com quase 80% de pessoas pertencentes a classe A ou B, ou seja, com uma parte da população que tem acesso a informação e poder aquisitivo para buscar tratamento dentário com qualidade. 
+Agora vamos analisar os resultados apresentados na pesquisa. Antes de tudo, devemos ressaltar o fato de que a pesquisa foi realizada com quase 80% de pessoas pertencentes a classe A ou B, ou seja, com uma parte da população que tem acesso a informação e poder aquisitivo para buscar tratamento dentário com qualidade. 
+
+## Análise da pesquisa sobre saúde bucal
 
 Um dos pontos que mais me chamaram a atenção foi que quase metade da população não considera importante ir ao dentista regularmente. 
 
@@ -24,7 +26,7 @@ Atualmente, o que mais conversamos com nossos pacientes é a respeito da import�
 
 Vamos parar para e refletir um pouco, qual são as duas principais causas que levam as pessoas ao dentista ? 
 
-Pela nossa rotina clínica, seria : 
+Pela nossa rotina clínica, seria : 
 
 * A dor ; 
 * Questões estéticas. 
@@ -40,7 +42,9 @@ Além disso, o tratamento se torna mais barato e rápido. {% post_link check-up-
 
 Outros dois pontos que devem ser analisados com cuidado são os 38% que não usam o fio dental e os 23% que não escovam os dentes antes de dormir. 
 
-Os dois principais problemas que temos em nosso consultório no dia a dia são a {% post_link como-evitar-a-carie-dentaria "cárie" %} e a reclamação de {% post_link gengiva-sangrando "gengiva sangrando" %} ou doença periodontal. 
+## Problemas bucais decorrentes de má higiene
+
+Os dois principais problemas que temos em nosso consultório no dia a dia são a {% post_link como-evitar-a-carie-dentaria "cárie" %} e a reclamação de {% post_link gengiva-sangrando "gengiva sangrando" %} ou doença periodontal. 
 
 Esses dois problemas estão relacionados diretamente com dois pontos da pesquisa. 
 
@@ -48,7 +52,7 @@ O uso do fio dental é de suma importância na [higiene oral](/tratamentos/preve
 
 O não uso dele, é a razão de muitos problemas periodontais ou de cáries interproximais. 
 
-O ponto da pesquisa  sobre "não escovar os dentes antes de dormir" é bem alarmante. 
+O ponto da pesquisa  sobre "não escovar os dentes antes de dormir" é bem alarmante. 
 
 Digo isso, pois a noite é quando temos a diminuição do fluxo salivar, que atua como uma proteção aos dentes, consequentemente se cria um ambiente mais propício para instalação da doença cárie. 
 
@@ -62,8 +66,7 @@ Com 10 anos muita coisa já aconteceu na dentição da criança, desde o nascime
 
 Desde cedo, temos que levar nossos filhos a consultas de revisão. Assim, além de criar um hábito positivo em nosso filhos estaremos protegendo seus dentes.
 
-Saúde Bucal e a relação com o corpo 
-------------------------------------
+## Relação entre saúde bucal e saúde geral
 
 Na segunda parte da reportagem vemos que a boca pode estar relacionada com diversos outros problemas de saúde do corpo. 
 
@@ -82,7 +85,7 @@ Os principais problemas que podemos ter são:
 
 A principal ligação entre essas doenças é a relação com as bactérias presentes na doença periodontal, pois algumas também estão presentes nos problemas citados acima. 
 
-Vamos exemplificar com os problemas cardíacos. No exemplo dado pela própria revista veja, _“quem é suscetível a distúrbios do coração e sofre também de periodontite tem 25% mais probabilidade de desenvolver a endocardite bacteriana, inflamação grave da película que envolve o coração.”_ 
+Vamos exemplificar com os problemas cardíacos. No exemplo dado pela própria revista veja, _"quem é suscetível a distúrbios do coração e sofre também de periodontite tem 25% mais probabilidade de desenvolver a endocardite bacteriana, inflamação grave da película que envolve o coração."_ 
 
 Só por essa citação devemos ficar atentos com a influência da saúde bucal no organismo. M
 

@@ -21,8 +21,7 @@ Digo isto pois as imagens nos trazem informações valiosas para o nosso planeja
 * Informação ao protético; 
 * Documentação do caso.
 
-Quais os tipos de câmeras usadas e pra que servem ?
----------------------------------------------------
+## Tipos de câmeras e seus usos
 
  [![checkup-digital-02](/images/023233b8-ac8d-49e9-ae20-ecaa66d74f87_checkup-digital-02.webp)](/images/023233b8-ac8d-49e9-ae20-ecaa66d74f87_checkup-digital-02.webp) 
  
@@ -38,10 +37,12 @@ Quais os tipos de câmeras usadas e pra que servem ?
  
  Em segundo lugar, o uso das imagens tem possibilitado realizar o **planejamento virtual ou DSD**. 
  
- Nesse caso, com fotos de sorriso  e rosto do  paciente e usando programas de computador, podemos planejar virtualmente como será a o final do caso. 
+ Nesse caso, com fotos de sorriso  e rosto do  paciente e usando programas de computador, podemos planejar virtualmente como será a o final do caso. 
  
  Claro que devemos saber que isso é um planejamento hipotético e que durante o tratamento pode acontecer variações, mas de maneira geral possibilita demostrar ao cliente como seria seu sorriso ao final do tratamento. 
- 
+
+## Importância das imagens no planejamento
+
  Portanto as fotos e imagens têm sido aliados importantes no tratamento odontológico. Sem dúvida são essenciais para o bom tratamento de reabilitação dentária para todo dentista.
 
 Att, 

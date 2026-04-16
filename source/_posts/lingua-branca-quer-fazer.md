@@ -1,5 +1,5 @@
 ---
-title: Língua Branca – O que fazer?
+title: 'Língua Branca: Causas, Tratamento e O que Fazer'
 description: >-
  A língua Branca ou língua saburrosa, pode ter diferentes causas. Algumas podem causar um problemas ruins. Veja o que fazer nessa situação. 
 date: 2024-06-11T10:00:00.000Z

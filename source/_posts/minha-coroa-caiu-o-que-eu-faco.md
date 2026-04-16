@@ -1,5 +1,5 @@
 ---
-title: 'Minha Coroa Caiu: O que fazer e o que NÃO fazer em caso de urgência'
+title: 'Minha Coroa Caiu: O que Fazer e o que NÃO Fazer'
 description: >-
  Sua coroa dentária soltou? Saiba como agir rápido, o que evitar e por que
  você não deve tentar colar em casa. Veja o guia de urgência da MD Frossard.
@@ -42,7 +42,7 @@ Este caso exige mais atenção. Uma coroa definitiva é projetada para durar ano
 
 > [!CAUTION]
 > **NUNCA use colas instantâneas (como Super Bonder) para colar sua coroa.** 
-> Essas colas são tóxicas para a polpa do dente e para a gengiva. Além disso, você pode colar a peça na posição errada, o que pode causar uma fratura catastrófica no dente vizinho ou na mandíbula ao fechar a boca.
+> Essas colas são tóxicas para a polpa do dente e para a gengiva. Além disso, você pode colar a peça na posição errada, o que pode causar uma fratura catastrófica no dente vizinho ou na mandíbula ao fechar a boca. Nos casos mais graves, pode ainda ser necessário um {% post_link tratamento-de-canal "tratamento de canal" %}.
 
 ---
 
@@ -63,13 +63,13 @@ Este caso exige mais atenção. Uma coroa definitiva é projetada para durar ano
 Na nossa clínica, tratamos casos de queda de prótese com prioridade. Nossa abordagem inclui:
 1.  **Avaliação Radiográfica:** Verificamos se há cárie ou fratura interna.
 2.  **Limpeza e Desinfecção:** Preparamos o dente e a coroa para uma nova adesão.
-3.  **Recimentação ou Nova Peça:** Se a coroa estiver em perfeito estado e o dente saudável, fazemos a colagem imediata. Caso contrário, planejamos uma nova peça com tecnologia digital para garantir um ajuste perfeito.
+3.  **Recimentação ou Nova Peça:** Se a {% post_link coroa-dentaria "coroa" %} estiver em perfeito estado e o dente saudável, fazemos a colagem imediata. Caso contrário, planejamos uma nova peça com tecnologia digital para garantir um ajuste perfeito.
 
 ---
 
 ## **Não espere a dor aparecer**
 
-Um dente sem coroa está desprotegido contra bactérias. Quanto mais rápido você buscar ajuda, menores são as chances de precisar de um tratamento de canal ou de perder o dente permanentemente.
+Um dente sem coroa está desprotegido contra bactérias. Quanto mais rápido você buscar ajuda, menores são as chances de precisar de um tratamento de canal ou de perder o dente permanentemente — caso em que um {% post_link implante-dentario "implante dentário" %} pode ser a melhor solução.
 
 ### **Fale com nossos especialistas agora mesmo:**
 * <i data-lucide="message-circle" class="icon-sm"></i> **Envie um WhatsApp:** **[Atendimento de Emergência](https://api.whatsapp.com/send?phone=5521976637803)**

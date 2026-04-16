@@ -22,9 +22,9 @@ Gostaríamos de compartilhar com você o nosso vídeo institucional. Ele resume 
 ---
 
 ### **O que você encontrará na nossa clínica?**
-* **Tradição Familiar:** A experiência acumulada de gerações de dentistas.
-* **Tecnologia Digital:** Tratamentos mais rápidos, precisos e confortáveis.
-* **Atendimento Personalizado:** Pontualidade e foco total no seu bem-estar.
+* **Tradição Familiar:** Conheça a nossa [equipe](/equipe/) de especialistas.
+* **Tecnologia Digital:** Tratamentos mais rápidos, precisos e confortáveis — veja nossa [estrutura](/estrutura/).
+* **Atendimento Personalizado:** Pontualidade e foco total no seu bem-estar em todas as nossas [especialidades](/tratamentos/).
 
 **Gostou do que viu? Venha nos fazer uma visita!**
 

@@ -1,8 +1,6 @@
 ---
 title: 'Invisalign: Saiba tudo sobre o Aparelho Invisalign'
-description: >-
- Com o aparelho Invisalign você pode corrigir a posição dos seus dentes de forma
- praticamente invisível e ultraconfortável. Saiba tudo sobre o pioneiro Invisalign lendo o texto completo.
+description: "Com o aparelho Invisalign você pode corrigir a posição dos seus dentes de forma praticamente invisível e ultraconfortável. Saiba tudo sobre o pioneiro."
 date: 2015-04-06T09:36:23.000Z
 featured_image: /images/34725af2-9c4b-4383-93f6-5466869d78f0_Invisalign.webp
 ---
@@ -45,8 +43,6 @@ Toda correção precisa de uma pressão muito calculada. Com o **aparelho Invisa
 4. O dentista mestre aprova perante seus olhos no consultório (você mesmo avalia e dá nota nas fotos). Automaticamente começa-se a sofisticadíssima usinagem matriz na fábrica da Invisalign de todo o bloco original único customizado, enviado magicamente das Américas para a MD Frossard finalizando o espetáculo.  
 
 ---
-
-## As Principais Dúvidas de Rotina:
 
 ### Uso Obrigatório por Quantas Horas ao Dia?
 A disciplina é da conta do próprio encarregado. Todo paciente no protocolo **Invisalign** obriga-se sem exceções em manter os transparentes durante cerca de **20 a 22 horas completas diárias minimum.** Removemos rigidamente apenas aos três episódios do dia: Comer tranquilamente pratos quentes e saborear vinhos roxos, e aos períodos no escovar do dente higienizando fios.   

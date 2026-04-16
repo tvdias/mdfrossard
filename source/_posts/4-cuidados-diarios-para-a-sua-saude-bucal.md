@@ -20,7 +20,7 @@ Confira o conteúdo para saber um pouco mais sobre os principais cuidados que n�
 
 Beber bastante água não é recomendado apenas por médicos, mas também pelos outros profissionais da saúde, como os dentistas. Isso porque o consumo de água faz a diferença em relação à saúde bucal.
 
-Sabe a saliva que você tem na boca? Ela é essencial para cuidar dos dentes e da gengiva, além de ajudar a prevenir diferentes doenças bucais, causadas por inúmeras das bactérias que existem em nossa boca.
+Sabe a saliva que você tem na boca? Ela é essencial para cuidar dos dentes e da gengiva, além de ajudar a prevenir diferentes doenças bucais, como {% post_link como-evitar-a-carie-dentaria "cáries" %} e gengivite, causadas por bactérias que existem em nossa boca.
 
 Por isso, beber aqueles dois litros de água recomendado pelo seu médico pode fazer diferença também para os seus dentes. 
 
@@ -57,13 +57,13 @@ Entretanto, é muito importante que a pasta de dente não seja engolida, princip
 
 ## 3 - Passe o fio dental
 
-Para ter uma boa saúde bucal, é essencial passar o fio dental pelo menos uma vez por dia. Dessa forma, os restos de alimentos que ficam presos entre os dentes e que a escova não alcança, podem ser retirados da maneira adequada.
+Para ter uma boa saúde bucal, é essencial {% post_link como-passar-o-fio-dental "passar o fio dental" %} pelo menos uma vez por dia. Dessa forma, os restos de alimentos que ficam presos entre os dentes e que a escova não alcança, podem ser retirados da maneira adequada.
 
 O seu excesso faz com que tenha uma maior proliferação das bactérias, que se acumulam entre os dentes e próximos à gengiva, criando o biofilme, conhecido também como a placa bacteriana.
 
 Nessa fase, é possível remover o biofilme em casa, usando o fio dental diariamente. Entretanto, caso a placa se acumule, pode se endurecer e se transformar no tártaro, que possui uma aparência um pouco mais escura e apenas pode ser retirado no consultório odontológico.
 
-Além disso, o biofilme pode causar doenças bucais, como a periodontite que é uma inflamação nos tecidos do dente, que causa a retração gengival e, quando não tratada, pode levar a perda do dente.
+Além disso, o biofilme pode causar doenças bucais, como a {% post_link gengiva-sangrando "periodontite" %} que é uma inflamação nos tecidos do dente, que causa a retração gengival e, quando não tratada, pode levar a perda do dente.
 
 ## 4 - Vá ao dentista
 
@@ -83,7 +83,7 @@ Muito mais do que ter sorrisos bonitos, queremos estar saudáveis, não é mesmo
 
 Por isso, siga todas essas dicas com cuidado e paciência, além de não pular nenhum detalhe! Outro ponto importante é sempre ouvir as recomendações do seu dentista. 
 
-É possível encontrar bons profissionais através de indicações de amigos, por convênios e até mesmo por conta dos [benefícios empresariais](https://blog.idealodonto.com.br/beneficios-empresariais/beneficios-empresariais/) de onde você trabalha. 
+É possível encontrar bons profissionais através de indicações de amigos, por convênios ou pesquisando por {% post_link dentista-barra-da-tijuca "dentistas próximos a você" %}. 
 
 O importante é estar sempre saudável!
 

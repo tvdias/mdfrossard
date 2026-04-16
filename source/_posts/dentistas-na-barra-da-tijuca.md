@@ -1,7 +1,6 @@
 ---
-title: Dentistas Barra da Tijuca – Excelência em Odontologia na Sua Região
-description: >-
-  Procurando dentistas na Barra da Tijuca com tradição e tecnologia? A MD Frossard Odontologia está no Città América com 38 anos de experiência e atendimento personalizado.
+title: 'Dentistas na Barra da Tijuca – Odontologia de Excelência'
+description: "Procurando dentistas na Barra da Tijuca com tradição e tecnologia? A MD Frossard Odontologia está no Città América com 38 anos de experiência e."
 date: 2024-06-21T10:00:10.000Z
 featured_image: /images/blog_clinica_barra.webp
 category: Clínica

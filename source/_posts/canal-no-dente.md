@@ -15,8 +15,7 @@ Seja pelo desconhecimento de que o dente está com problema ou pela falta da cor
 
 Nesse texto quero discutir quando é preciso realizar esse tratamento e principalmente como evitá-lo.
 
-**Quando é preciso realizar o canal no dente**
-----------------------------------------------
+## O canal no dente como procedimento essencial
 
 ![canal no dente e a dor](/images/d38097ef-2d5c-41f2-a42d-035349a042ad_canal-no-dente-evitar.webp) 
 
@@ -34,10 +33,9 @@ Quando se tem uma queda ou pancada onde o dente seja atingido, mesmo que não oc
 
 Após isso, caso seja necessário, uma coroa ou restauração é feita para consertar a fratura. 
 
-Uma terceira indicação é quando existe alguma **lesão sem sintoma no dente.** Ela pode aumentar ao longo do tempo, até ser detectada em uma consulta de revisão no dentista. E para tratá-la, muitas das vezes, a endodontia é envolvida.  
+Uma terceira indicação é quando existe alguma **lesão sem sintoma no dente.** Ela pode aumentar ao longo do tempo, até ser detectada em uma consulta de revisão no dentista. E para tratá-la, muitas das vezes, a endodontia é envolvida.
 
-**Como evitar o tratamento de canal**
--------------------------------------
+## Prevenção do canal no dente
 
 ![canal no dente](/images/06534b0f-d85b-4beb-9dc5-a0f7c3939e25_Canal-no-dente.webp) 
 

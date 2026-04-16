@@ -1,8 +1,6 @@
 ---
-title: 'Coroa Dentária: O Guia Definitivo sobre Próteses Fixas e Porcelanas Modernas'
-description: >-
- A coroa dentária é a solução ideal para recuperar dentes quebrados ou fragilizados. 
- Conheça os tipos de porcelana (Metal-Free) e veja como devolver a força e a estética ao seu sorriso.
+title: 'Coroa Dentária: Guia Completo sobre Próteses e Porcelanas'
+description: "A coroa dentária é a solução ideal para recuperar dentes quebrados ou fragilizados. Conheça os tipos de porcelana (Metal-Free) e veja como devolver a."
 date: 2015-07-21T10:14:17.000Z
 featured_image: /images/3e904c62-2a01-4d3b-86bc-ba9ac7dd2f0f_Coroa-dentária.webp
 ---
