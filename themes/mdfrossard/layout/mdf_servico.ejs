@@ -117,7 +117,7 @@ const safeData = (key, fallback = '') => typeof data !== 'undefined' && data[key
     position: relative;
     z-index: 2;
     color: white;
-    padding-top: 220px;
+    padding-top: 140px;
 }
 
 .breadcrumb {
@@ -136,7 +136,7 @@ const safeData = (key, fallback = '') => typeof data !== 'undefined' && data[key
 
 .treatment-hero-content h1 {
     color: white;
-    font-size: 2.75rem;
+    font-size: 2rem;
     font-weight: 800;
     line-height: 1.1;
     margin-bottom: 16px;
@@ -168,7 +168,7 @@ const safeData = (key, fallback = '') => typeof data !== 'undefined' && data[key
 }
 
 .intro-text h2 {
-    font-size: 2.25rem;
+    font-size: 1.75rem;
     font-weight: 800;
     margin-bottom: 24px;
     color: var(--primary-dark);
@@ -304,7 +304,7 @@ const safeData = (key, fallback = '') => typeof data !== 'undefined' && data[key
 .treatment-cta h2 {
     position: relative;
     z-index: 2;
-    font-size: 2.25rem;
+    font-size: 1.75rem;
     margin-bottom: 16px;
     color: white;
 }
@@ -332,9 +332,14 @@ const safeData = (key, fallback = '') => typeof data !== 'undefined' && data[key
     .cta-buttons { flex-direction: row; }
 }
 
-@media (max-width: 768px) {
-    .treatment-hero-content h1 { font-size: 2.25rem; }
-    .treatment-cta h2 { font-size: 1.75rem; }
+@media (min-width: 768px) {
+    .treatment-hero-content h1 { font-size: 2.75rem; }
+    .intro-text h2 { font-size: 2.25rem; }
+    .treatment-cta h2 { font-size: 2.25rem; }
+}
+
+@media (min-width: 992px) {
+    .treatment-hero-content { padding-top: 220px; }
 }
 </style>
 

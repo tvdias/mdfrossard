@@ -100,7 +100,7 @@ img {
 }
 
 .section {
-    padding: 100px 0;
+    padding: 60px 0;
 }
 
 .section-header {
@@ -109,7 +109,7 @@ img {
 }
 
 .section-header h2 {
-    font-size: 2.5rem;
+    font-size: 1.75rem;
     margin-bottom: 16px;
 }
 
@@ -730,12 +730,14 @@ img {
 .newsletter-wrapper {
     background: linear-gradient(135deg, var(--bg-dark), #1e293b);
     border-radius: var(--border-radius-lg);
-    padding: 60px;
+    padding: 32px 20px;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-between;
     position: relative;
     overflow: hidden;
+    text-align: center;
 }
 
 .newsletter-content {
@@ -751,7 +753,7 @@ img {
 
 .newsletter-text h2 {
     color: white;
-    font-size: 2.5rem;
+    font-size: 1.75rem;
     margin-bottom: 16px;
 }
 
@@ -762,7 +764,9 @@ img {
 
 .newsletter-form {
     display: flex;
+    flex-direction: column;
     gap: 16px;
+    width: 100%;
 }
 
 .newsletter-form input {
@@ -1073,21 +1077,34 @@ img {
         flex-direction: row;
         justify-content: flex-end;
     }
-    
+
+    .section {
+        padding: 100px 0;
+    }
+
+    .section-header h2 {
+        font-size: 2.5rem;
+    }
+
     .grid-4 {
         grid-template-columns: repeat(2, 1fr);
     }
-    
+
     .testimonials-grid {
         grid-template-columns: repeat(2, 1fr);
     }
-    
+
     .footer-grid {
         grid-template-columns: repeat(2, 1fr);
     }
-    
+
     .hero-buttons {
         flex-direction: row;
+    }
+
+    .page-hero h1 {
+        font-size: 2.5rem;
+        letter-spacing: -1px;
     }
 }
 
@@ -1223,8 +1240,12 @@ img {
         flex-direction: row;
         padding: 60px;
         text-align: left;
+        align-items: center;
     }
-    .newsletter-form { flex-direction: row; }
+    .newsletter-text h2 {
+        font-size: 2.5rem;
+    }
+    .newsletter-form { flex-direction: row; width: auto; }
     .newsletter-img { display: block; opacity: 0.4; }
 }
 
@@ -1269,11 +1290,11 @@ img {
 }
 
 .page-hero h1 {
-    font-size: 2.5rem;
+    font-size: 1.75rem;
     line-height: 1.3;
     color: var(--primary-dark);
     margin-bottom: 20px;
-    letter-spacing: -1px;
+    letter-spacing: -0.5px;
 }
 
 .page-hero p {
