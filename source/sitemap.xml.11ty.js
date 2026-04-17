@@ -15,11 +15,22 @@ class SiteMap {
         if (url.startsWith("/l/")) return false;
         if (url.startsWith("/email-confirmado")) return false;
         if (url.startsWith("/landing-page-mancha-no-dente")) return false;
+        if (url.startsWith("/images/")) return false;
         // Excluir páginas que tenham noindex explícito no frontmatter
         if (item.data && item.data.noindex === true) return false;
         return true;
       })
-      .map((item) => `<url><loc>${new URL(item.url, data.config.url).toString()}</loc></url>`)
+      .map((item) => {
+        const loc = new URL(item.url, data.config.url).toString();
+        const lastmod = item.data && item.data.updated
+          ? new Date(item.data.updated).toISOString().split("T")[0]
+          : item.date
+            ? new Date(item.date).toISOString().split("T")[0]
+            : null;
+        return lastmod
+          ? `<url><loc>${loc}</loc><lastmod>${lastmod}</lastmod></url>`
+          : `<url><loc>${loc}</loc></url>`;
+      })
       .join("\n");
 
     return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>`;
