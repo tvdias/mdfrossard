@@ -769,7 +769,7 @@ a{text-decoration:none}
       <img src="/images/lps/recaptura/hero.webp"
            alt="Transforme seu Sorriso — Clínica MD Frossard"
            class="hero-photo"
-           loading="eager" decoding="async" fetchpriority="high"
+           loading="eager" decoding="sync" fetchpriority="high"
            width="1200" height="800">
       </picture>
     </div>
@@ -1304,23 +1304,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // ── FAQ Accordion ──
   document.querySelectorAll('.faq-q').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const item = btn.closest('.faq-item');
-      const ans  = item.querySelector('.faq-a');
-      const inner = item.querySelector('.faq-a-inner');
-      const open = btn.classList.contains('open');
-
-      document.querySelectorAll('.faq-q').forEach(b => {
-        b.classList.remove('open');
-        b.closest('.faq-item').querySelector('.faq-a').style.maxHeight = '0';
-      });
-
-      if (!open) {
-        btn.classList.add('open');
-        ans.style.maxHeight = inner.scrollHeight + 'px';
-      }
-    });
-  });
+              btn.addEventListener('click', () => {
+                  const item = btn.closest('.faq-item');
+                  const answer = item.querySelector('.faq-a');
+                  const isOpen = btn.classList.contains('open');
+                  document.querySelectorAll('.faq-q').forEach(b => {
+                      b.classList.remove('open');
+                      b.closest('.faq-item').querySelector('.faq-a').classList.remove('open');
+                  });
+                  if (!isOpen) { btn.classList.add('open'); answer.classList.add('open'); }
+              });
+          });
 
   // ── Scroll Reveal ──
   const obs = new IntersectionObserver(entries => {

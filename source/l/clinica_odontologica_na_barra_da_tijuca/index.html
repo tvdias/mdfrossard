@@ -889,19 +889,11 @@ og_image: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca/img/hero.jpg"
 
     .faq-q.open .chevron { transform: rotate(180deg); }
 
-    .faq-a {
-        overflow: hidden;
-        max-height: 0;
-        transition: max-height .4s ease;
-    }
+    .faq-a { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .35s ease; }
+        .faq-a.open { grid-template-rows: 1fr; }
 
-    .faq-a-inner {
-        padding: 0 32px 28px;
-        color: #4b5563;
-        font-size: .975rem;
-        line-height: 1.85;
-        font-family: 'Inter', sans-serif;
-    }
+    .faq-a-inner { min-height: 0; overflow: hidden; padding: 0 32px; transition: padding .35s ease; }
+        .faq-a.open .faq-a-inner { padding: 0 32px 28px; }
 
     .faq-cta {
         text-align: center;
@@ -1237,7 +1229,7 @@ og_image: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca/img/hero.jpg"
         <div class="hero-logo-wrap">
             <a href="/">
                 <img src="/images/lps/logomdfrossardhero.webp" 
-                     alt="MD Frossard Odontologia" class="hero-logo" width="240" height="123" loading="eager" decoding="async" fetchpriority="high">
+                     alt="MD Frossard Odontologia" class="hero-logo" width="240" height="123" loading="eager" decoding="async" >
             </a>
         </div>
 
@@ -1266,7 +1258,7 @@ og_image: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca/img/hero.jpg"
                 <picture>
                     <source srcset="../../l/dentista_na_barra_da_tijuca/img/hero.webp" type="image/webp">
                     <img src="../../l/dentista_na_barra_da_tijuca/img/hero.webp" alt="Clínica Odontológica na Barra da Tijuca - MD Frossard" class="hero-img"
-                         width="650" height="975" loading="eager" decoding="async" fetchpriority="high">
+                         width="650" height="975" loading="eager" decoding="sync" fetchpriority="high">
                 </picture>
             </div>
         </div>
@@ -1634,23 +1626,17 @@ og_image: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca/img/hero.jpg"
 document.addEventListener('DOMContentLoaded', () => {
     // FAQ accordion
     document.querySelectorAll('.faq-q').forEach(btn => {
-        btn.addEventListener('click', () => {
-            const item = btn.closest('.faq-item');
-            const answer = item.querySelector('.faq-a');
-            const inner = item.querySelector('.faq-a-inner');
-            const isOpen = btn.classList.contains('open');
-
-            document.querySelectorAll('.faq-q').forEach(b => {
-                b.classList.remove('open');
-                b.closest('.faq-item').querySelector('.faq-a').style.maxHeight = '0';
+                btn.addEventListener('click', () => {
+                    const item = btn.closest('.faq-item');
+                    const answer = item.querySelector('.faq-a');
+                    const isOpen = btn.classList.contains('open');
+                    document.querySelectorAll('.faq-q').forEach(b => {
+                        b.classList.remove('open');
+                        b.closest('.faq-item').querySelector('.faq-a').classList.remove('open');
+                    });
+                    if (!isOpen) { btn.classList.add('open'); answer.classList.add('open'); }
+                });
             });
-
-            if (!isOpen) {
-                btn.classList.add('open');
-                answer.style.maxHeight = inner.scrollHeight + 'px';
-            }
-        });
-    });
 
     // Scroll reveal
     const revealObserver = new IntersectionObserver((entries) => {

@@ -483,12 +483,8 @@ a{text-decoration:none}
   transition:transform .3s var(--ease);
 }
 .faq-q.open .faq-chevron{transform:rotate(180deg)}
-.faq-a{max-height:0;overflow:hidden;transition:max-height .35s ease}
-.faq-a-inner{
-  padding:0 24px 20px;
-  font-family:'Inter',sans-serif;font-size:.95rem;
-  color:var(--muted);line-height:1.8;
-}
+.faq-a{display:grid;grid-template-rows:0fr;transition:grid-template-rows .35s ease}.faq-a.open{grid-template-rows:1fr}
+.faq-a-inner{min-height:0;overflow:hidden;padding:0 24px;transition:padding .35s ease;font-family:'Inter',sans-serif;font-size:.95rem;color:var(--muted);line-height:1.8}.faq-a.open .faq-a-inner{padding:0 24px 20px}
 
 /* ─────────────────────────────────────────────────────────── */
 /* ══ 10 LOCALIZAÇÃO ═════════════════════════════════════════ */
@@ -751,7 +747,7 @@ a{text-decoration:none}
       <img src="/images/equipe_davi.webp"
            alt="Dr. Davi Frossard — Dentista na Barra da Tijuca"
            class="hero-photo"
-           loading="eager" decoding="async" fetchpriority="high"
+           loading="eager" decoding="sync" fetchpriority="high"
            width="700" height="933">
       </picture>
     </div>
@@ -1296,23 +1292,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // ── FAQ Accordion ──
   document.querySelectorAll('.faq-q').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const item = btn.closest('.faq-item');
-      const ans  = item.querySelector('.faq-a');
-      const inner = item.querySelector('.faq-a-inner');
-      const open = btn.classList.contains('open');
-
-      document.querySelectorAll('.faq-q').forEach(b => {
-        b.classList.remove('open');
-        b.closest('.faq-item').querySelector('.faq-a').style.maxHeight = '0';
-      });
-
-      if (!open) {
-        btn.classList.add('open');
-        ans.style.maxHeight = inner.scrollHeight + 'px';
-      }
-    });
-  });
+              btn.addEventListener('click', () => {
+                  const item = btn.closest('.faq-item');
+                  const answer = item.querySelector('.faq-a');
+                  const isOpen = btn.classList.contains('open');
+                  document.querySelectorAll('.faq-q').forEach(b => {
+                      b.classList.remove('open');
+                      b.closest('.faq-item').querySelector('.faq-a').classList.remove('open');
+                  });
+                  if (!isOpen) { btn.classList.add('open'); answer.classList.add('open'); }
+              });
+          });
 
   // ── Scroll Reveal ──
   const obs = new IntersectionObserver(entries => {
