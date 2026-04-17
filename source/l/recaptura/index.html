@@ -681,13 +681,12 @@ a{text-decoration:none}
   background: transparent !important;
 }
 
+/* mobile-first: aspect ratios base (mobile) → override at 900px+ */
+.hero-photo { height: auto; aspect-ratio: 3/2; width: 100%; }
+.galeria-img { height: auto; aspect-ratio: 6/5; width: 100%; margin-bottom: 8px; }
 @media(min-width: 900px) {
-  .hero-photo { max-height: 500px; display: block; margin: 0 auto; width: 100%; }
-  .galeria-img { aspect-ratio: 6/5 !important; display: block; margin: 0 auto; width: 100%; }
-}
-@media(max-width: 899px) {
-  .hero-photo { height: auto !important; aspect-ratio: 3/2 !important; width: 100%; }
-  .galeria-img { height: auto !important; aspect-ratio: 6/5 !important; width: 100%; margin-bottom: 8px;}
+  .hero-photo { max-height: 500px; aspect-ratio: unset; display: block; margin: 0 auto; }
+  .galeria-img { aspect-ratio: 6/5; display: block; margin: 0 auto; margin-bottom: 0; }
 }
 </style>
 
