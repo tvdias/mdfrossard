@@ -339,11 +339,12 @@ section{padding:64px 0}
 .transf-grid{
   display:grid;grid-template-columns:1fr;gap:20px;align-items:stretch;
 }
-.transf-card{border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-sm);border:1px solid rgba(0,0,0,.06);display:flex;flex-direction:column;background:#fff}
+.transf-card{border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-sm);border:1px solid rgba(0,0,0,.06);background:#fff;height:100%}
+.transf-card picture{display:block;width:100%}
 /* aspect-ratio 6/5 (=1.2) matches the natural ratio of the antes/depois stacks (~1.19)
    so the yellow divider stays centered in every image, no cropping. */
 .transf-img{width:100%;aspect-ratio:6/5;object-fit:cover;object-position:center;display:block;background:#f3f4f6}
-.transf-cap{padding:16px 20px;background:#fff;flex:1;display:flex;flex-direction:column;justify-content:flex-start}
+.transf-cap{padding:16px 20px;background:#fff}
 .transf-tag{
   display:inline-block;align-self:flex-start;font-size:.68rem;font-weight:700;text-transform:uppercase;
   letter-spacing:.8px;color:var(--teal);background:var(--teal-light);
