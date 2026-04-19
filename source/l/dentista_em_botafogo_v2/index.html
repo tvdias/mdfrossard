@@ -226,12 +226,16 @@ section{padding:64px 0}
    06 · TRANSFORMAÇÕES
 ══════════════════════════════════════════ */
 .transformacoes{background:#fff}
-.transf-grid{display:grid;grid-template-columns:1fr;gap:20px}
-.transf-card{border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-sm);border:1px solid rgba(0,0,0,.06)}
-.transf-img{width:100%;aspect-ratio:4/3;object-fit:cover}
-.transf-cap{padding:16px 20px;background:#fff}
-.transf-tag{display:inline-block;font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;color:var(--teal);background:var(--teal-light);padding:3px 10px;border-radius:50px;margin-bottom:8px}
-.transf-cap h3{font-size:.95rem;font-weight:700;color:var(--ink)}
+.transf-grid{display:grid;grid-template-columns:1fr;gap:20px;align-items:stretch}
+.transf-card{border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-sm);border:1px solid rgba(0,0,0,.06);display:flex;flex-direction:column;background:#fff}
+/* aspect-ratio 6/5 (=1.2) matches the natural ratio of the antes/depois stacks (~1.19)
+   so object-fit:cover crops virtually nothing and the yellow divider in every image
+   stays centered. Kept object-fit:cover as a safety net for any future image that
+   doesn't match exactly. */
+.transf-img{width:100%;aspect-ratio:6/5;object-fit:cover;object-position:center;display:block;background:#f3f4f6}
+.transf-cap{padding:16px 20px;background:#fff;flex:1;display:flex;flex-direction:column;justify-content:flex-start}
+.transf-tag{display:inline-block;align-self:flex-start;font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;color:var(--teal);background:var(--teal-light);padding:3px 10px;border-radius:50px;margin-bottom:8px}
+.transf-cap h3{font-size:.95rem;font-weight:700;color:var(--ink);line-height:1.35}
 @media(min-width:640px){.transf-grid{grid-template-columns:1fr 1fr}}
 @media(min-width:960px){.transf-grid{grid-template-columns:1fr 1fr 1fr}}
 
