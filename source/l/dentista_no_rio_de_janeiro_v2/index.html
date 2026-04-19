@@ -202,11 +202,12 @@ section{padding:64px 0}
 /* hero image — right column */
 .hero-visual{
   position:relative;overflow:hidden;min-height:320px;
-  background:var(--ink-soft);
+  background:var(--ink);
 }
 .hero-visual::before{
   content:'';position:absolute;top:0;left:0;width:80px;height:100%;
   background:linear-gradient(to right,var(--ink),transparent);z-index:2;
+  pointer-events:none;
 }
 .hero-img{
   width:100%;height:100%;
@@ -241,6 +242,14 @@ section{padding:64px 0}
   .hero-visual{min-height:unset}
   .hero-stat-strip{flex-direction:column;top:0;bottom:auto;width:auto;right:0;left:auto;background:none;backdrop-filter:none}
   .hero-stat{display:none}/* hide on desktop — stats shown in trust strip */
+  /* ── Feather the hero image into the dark side on desktop.
+     Replaces the old 80px ::before band with a mask that smoothly
+     fades the photo itself — no visible edge between text panel and photo. */
+  .hero-visual::before{display:none}
+  .hero-img{
+    -webkit-mask-image:linear-gradient(to right,transparent 0%,rgba(0,0,0,.15) 8%,rgba(0,0,0,.55) 22%,rgba(0,0,0,.88) 40%,#000 55%);
+    mask-image:linear-gradient(to right,transparent 0%,rgba(0,0,0,.15) 8%,rgba(0,0,0,.55) 22%,rgba(0,0,0,.88) 40%,#000 55%);
+  }
 }
 
 /* ══════════════════════════════════════════
