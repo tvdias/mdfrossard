@@ -69,11 +69,18 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     };
     var safeCb = safeExecuteCallback(callback, 2000);
-    gtag('event', 'contato_whatsapp', {
-      'event_category': 'Engagement',
-      'event_callback': safeCb,
-      'event_timeout': 2000
-    });
+    if (typeof gtag === 'function') {
+      gtag('event', 'contato_whatsapp', {
+        'event_category': 'Engagement',
+        'event_callback': safeCb,
+        'event_timeout': 2000
+      });
+    } else {
+      safeCb();
+    }
+    if (typeof fbq === 'function') {
+      fbq('track', 'Contact');
+    }
     return false;
   }
 
@@ -88,11 +95,18 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     };
     var safeCb = safeExecuteCallback(callback, 2000);
-    gtag('event', 'contato_telefone', {
-      'event_category': 'Engagement',
-      'event_callback': safeCb,
-      'event_timeout': 2000
-    });
+    if (typeof gtag === 'function') {
+      gtag('event', 'contato_telefone', {
+        'event_category': 'Engagement',
+        'event_callback': safeCb,
+        'event_timeout': 2000
+      });
+    } else {
+      safeCb();
+    }
+    if (typeof fbq === 'function') {
+      fbq('track', 'Contact');
+    }
     return false;
   }
   // PHT Calls (Google Ads): aguarda confirmação do evento antes de navegar
@@ -103,11 +117,18 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     };
     var safeCb = safeExecuteCallback(callback, 2000);
-    gtag('event', 'PHT Calls', {
-      'event_category': 'Engagement',
-      'event_callback': safeCb,
-      'event_timeout': 2000
-    });
+    if (typeof gtag === 'function') {
+      gtag('event', 'PHT Calls', {
+        'event_category': 'Engagement',
+        'event_callback': safeCb,
+        'event_timeout': 2000
+      });
+    } else {
+      safeCb();
+    }
+    if (typeof fbq === 'function') {
+      fbq('track', 'Contact');
+    }
     return false;
   }
 </script>
