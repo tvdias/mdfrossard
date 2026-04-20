@@ -1,0 +1,51 @@
+<!-- Delay Engine For Scripts (GTM & FB) -->
+<script>
+(function() {
+  var delayedFired = false;
+  var delayTimer;
+
+  function fireDelayedScripts() {
+    if (delayedFired) return;
+    delayedFired = true;
+    
+    // Clear the timeout if fired by user interaction
+    if (delayTimer) clearTimeout(delayTimer);
+    
+    // Remove listeners so they don't fire again
+    window.removeEventListener('scroll', fireDelayedScripts, {passive: true});
+    window.removeEventListener('mousemove', fireDelayedScripts, {passive: true});
+    window.removeEventListener('touchstart', fireDelayedScripts, {passive: true});
+    document.removeEventListener('click', fireDelayedScripts, {passive: true});
+
+    // Find all delayed scripts and execute them
+    var scripts = document.querySelectorAll('script[type="text/delayed-script"]');
+    for (var i = 0; i < scripts.length; i++) {
+      var s = scripts[i];
+      var newScript = document.createElement('script');
+      newScript.type = 'text/javascript';
+      
+      if (s.hasAttribute('data-src')) {
+          newScript.src = s.getAttribute('data-src');
+          newScript.async = true;
+      }
+      if (s.textContent) {
+          newScript.textContent = s.textContent;
+      }
+      
+      document.body.appendChild(newScript);
+      
+      // Keep DOM clean (optional)
+      s.parentNode.removeChild(s);
+    }
+  }
+
+  // Bind interactions
+  window.addEventListener('scroll', fireDelayedScripts, {passive: true, once: true});
+  window.addEventListener('mousemove', fireDelayedScripts, {passive: true, once: true});
+  window.addEventListener('touchstart', fireDelayedScripts, {passive: true, once: true});
+  document.addEventListener('click', fireDelayedScripts, {passive: true, once: true});
+  
+  // Hard fallback at 3500ms
+  delayTimer = setTimeout(fireDelayedScripts, 3500);
+})();
+</script>

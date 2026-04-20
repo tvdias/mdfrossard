@@ -48,6 +48,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <!-- Google tag (gtag.js) event - delayed navigation helpers -->
 <!-- Gerado pelo Google Ads para garantir envio do evento antes da navegação -->
 <script>
+  // Helper Universal seguro. Dispara o callback mesmo que o GTM ainda não tenha processado
+  function safeExecuteCallback(callback, timeoutMs) {
+    var executed = false;
+    var safeCb = function() {
+      if (!executed) {
+        executed = true;
+        callback();
+      }
+    };
+    setTimeout(safeCb, timeoutMs || 2000);
+    return safeCb;
+  }
+
   // WhatsApp: aguarda confirmação do evento contato_whatsapp antes de navegar
   function gtagSendEventWhatsapp(url) {
     var callback = function () {
@@ -55,8 +68,10 @@ document.addEventListener('DOMContentLoaded', function() {
         window.location = url;
       }
     };
+    var safeCb = safeExecuteCallback(callback, 2000);
     gtag('event', 'contato_whatsapp', {
-      'event_callback': callback,
+      'event_category': 'Engagement',
+      'event_callback': safeCb,
       'event_timeout': 2000
     });
     return false;
@@ -64,18 +79,18 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Telefone (GA4): aguarda confirmação do evento contato_telefone antes de navegar
   function gtagSendEventTelefone(url) {
-    // Dispara PHT Calls imediatamente (conversão Google Ads)
     if (typeof gtag === 'function') {
       gtag('event', 'PHT Calls');
     }
-    // Dispara contato_telefone com callback de navegação
     var callback = function () {
       if (typeof url === 'string') {
         window.location = url;
       }
     };
+    var safeCb = safeExecuteCallback(callback, 2000);
     gtag('event', 'contato_telefone', {
-      'event_callback': callback,
+      'event_category': 'Engagement',
+      'event_callback': safeCb,
       'event_timeout': 2000
     });
     return false;
@@ -87,8 +102,10 @@ document.addEventListener('DOMContentLoaded', function() {
         window.location = url;
       }
     };
+    var safeCb = safeExecuteCallback(callback, 2000);
     gtag('event', 'PHT Calls', {
-      'event_callback': callback,
+      'event_category': 'Engagement',
+      'event_callback': safeCb,
       'event_timeout': 2000
     });
     return false;
