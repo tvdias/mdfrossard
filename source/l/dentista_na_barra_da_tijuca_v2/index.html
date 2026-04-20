@@ -1,7 +1,7 @@
 ---
 layout: landing_page
 title: "Dentista na Barra da Tijuca | MD Frossard Odontologia"
-description: "Dentista na Barra da Tijuca com 38 anos de experiência. Implantes, Facetas e Reabilitação com resultado garantido. Agende sua avaliação agora!"
+description: "Dentista na Barra da Tijuca com 38 anos de experiência. Implantes, Facetas e Reabilitação com planejamento digital e protocolo clínico consolidado. Agende sua avaliação."
 google_fonts: "Outfit:wght@600;700;800;900&family=Inter:wght@400;600"
 canonical: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca_v2/"
 hero_preload: "/images/equipe_davi.webp"
@@ -95,6 +95,38 @@ og_image: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca_v2/img/hero.w
     }
   ]
 }
+</script>
+
+<!-- ═══ LGPD / Google Consent Mode v2 — DEFAULT DENIED ═══
+     Precisa rodar ANTES de qualquer gtag. Se o usuário já consentiu
+     em visita anterior, lê o localStorage e libera. -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  (function(){
+    var stored = null;
+    try { stored = localStorage.getItem('mdf_consent_v1'); } catch(e) {}
+    if (stored === 'granted') {
+      gtag('consent','default',{
+        'ad_storage':'granted',
+        'ad_user_data':'granted',
+        'ad_personalization':'granted',
+        'analytics_storage':'granted',
+        'functionality_storage':'granted',
+        'security_storage':'granted'
+      });
+    } else {
+      gtag('consent','default',{
+        'ad_storage':'denied',
+        'ad_user_data':'denied',
+        'ad_personalization':'denied',
+        'analytics_storage':'denied',
+        'functionality_storage':'granted',
+        'security_storage':'granted',
+        'wait_for_update': 500
+      });
+    }
+  })();
 </script>
 
 <style>
@@ -211,6 +243,44 @@ a{text-decoration:none}
   color:rgba(255,255,255,.55);
 }
 .hero-proof-item .dot{width:5px;height:5px;border-radius:50%;background:var(--gold);flex-shrink:0;}
+.hero-compliance{
+  margin-top:18px;
+  font-family:'Inter',sans-serif;font-size:.72rem;
+  color:rgba(255,255,255,.42);letter-spacing:.4px;
+  border-top:1px solid rgba(255,255,255,.08);padding-top:14px;
+}
+
+/* ─ LGPD Consent Banner ───────────────────────────────── */
+.lgpd-banner{
+  position:fixed;bottom:0;left:0;right:0;z-index:9999;
+  background:var(--ink);color:#fff;
+  border-top:2px solid var(--gold);
+  box-shadow:0 -8px 32px rgba(0,0,0,.35);
+  padding:18px 20px;
+  transform:translateY(110%);transition:transform .4s var(--ease);
+  font-family:'Inter',sans-serif;
+}
+.lgpd-banner.show{transform:translateY(0)}
+.lgpd-inner{
+  max-width:1100px;margin:0 auto;
+  display:flex;flex-wrap:wrap;align-items:center;gap:16px;
+  justify-content:space-between;
+}
+.lgpd-text{
+  flex:1 1 300px;
+  font-size:.85rem;line-height:1.55;color:rgba(255,255,255,.82);
+}
+.lgpd-text a{color:var(--gold-glow);text-decoration:underline}
+.lgpd-btns{display:flex;flex-wrap:wrap;gap:10px;flex-shrink:0}
+.lgpd-btn{
+  padding:10px 20px;border-radius:50px;
+  font-family:'Outfit',sans-serif;font-weight:700;font-size:.85rem;
+  border:none;cursor:pointer;transition:all .25s var(--ease);white-space:nowrap;
+}
+.lgpd-btn-accept{background:linear-gradient(135deg,var(--gold-glow),var(--gold));color:var(--ink)}
+.lgpd-btn-accept:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(201,162,39,.35)}
+.lgpd-btn-reject{background:transparent;color:rgba(255,255,255,.72);border:1px solid rgba(255,255,255,.22)}
+.lgpd-btn-reject:hover{background:rgba(255,255,255,.08);color:#fff}
 
 /* RIGHT - foto */
 .hero-right{
@@ -733,10 +803,13 @@ a{text-decoration:none}
         </div>
 
         <div class="hero-proof">
-          <span class="hero-proof-item"><span class="dot"></span>38 anos de experiência</span>
-          <span class="hero-proof-item"><span class="dot"></span>Shopping Città America</span>
-          <span class="hero-proof-item"><span class="dot"></span>Seg–Sex, 8h–18h</span>
+          <span class="hero-proof-item"><span class="dot"></span>Resposta em até 1h no WhatsApp</span>
+          <span class="hero-proof-item"><span class="dot"></span>Atendimento sem pressa</span>
+          <span class="hero-proof-item"><span class="dot"></span>Orçamento transparente no mesmo dia</span>
         </div>
+        <p class="hero-compliance">
+          RT: Dr. Davi H. Frossard — CRO-RJ 36193 &nbsp;·&nbsp; EPAO 3415
+        </p>
       </div>
     </div>
 
@@ -763,7 +836,7 @@ a{text-decoration:none}
   <div class="trust-bar-inner">
     <div class="trust-bar-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
-      Resultados com garantia
+      Planejamento digital 3D
     </div>
     <div class="trust-bar-item">
       <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
@@ -826,8 +899,8 @@ a{text-decoration:none}
   <div class="c">
     <div class="section-header rv">
       <p class="section-eyebrow">O que fazemos</p>
-      <h2 class="section-title">Tratamentos que transformam</h2>
-      <p class="section-sub">Da prevenção à reabilitação completa. Você começa pela avaliação e a gente cuida do resto.</p>
+      <h2 class="section-title">Implantes, Facetas e Reabilitação na Barra da Tijuca</h2>
+      <p class="section-sub">Da prevenção à reabilitação completa, com planejamento digital e protocolo consolidado. Você começa pela avaliação e a gente cuida do resto.</p>
     </div>
 
     <div class="servicos-grid">
@@ -1276,6 +1349,57 @@ a{text-decoration:none}
     </div>
   </div>
 </footer>
+
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  LGPD Consent Banner                                   -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<div class="lgpd-banner" id="lgpd-banner" role="dialog" aria-label="Aviso de privacidade" aria-live="polite">
+  <div class="lgpd-inner">
+    <p class="lgpd-text">
+      Usamos cookies e tecnologias semelhantes para analisar o uso do site, personalizar conteúdo e medir anúncios.
+      Ao aceitar, você concorda com o tratamento dos seus dados conforme nossa
+      <a href="/privacidade.html">Política de Privacidade</a> (LGPD).
+    </p>
+    <div class="lgpd-btns">
+      <button type="button" class="lgpd-btn lgpd-btn-reject" onclick="mdfConsent('denied')">Recusar</button>
+      <button type="button" class="lgpd-btn lgpd-btn-accept" onclick="mdfConsent('granted')">Aceitar</button>
+    </div>
+  </div>
+</div>
+<script>
+(function(){
+  var KEY = 'mdf_consent_v1';
+  var banner = document.getElementById('lgpd-banner');
+  var stored = null;
+  try { stored = localStorage.getItem(KEY); } catch(e) {}
+  if (!stored) {
+    // Mostra banner após pequeno delay (não compete com LCP)
+    setTimeout(function(){ banner.classList.add('show'); }, 1200);
+  }
+  window.mdfConsent = function(decision){
+    try { localStorage.setItem(KEY, decision); } catch(e) {}
+    if (typeof gtag === 'function') {
+      if (decision === 'granted') {
+        gtag('consent','update',{
+          'ad_storage':'granted',
+          'ad_user_data':'granted',
+          'ad_personalization':'granted',
+          'analytics_storage':'granted'
+        });
+      } else {
+        gtag('consent','update',{
+          'ad_storage':'denied',
+          'ad_user_data':'denied',
+          'ad_personalization':'denied',
+          'analytics_storage':'denied'
+        });
+      }
+    }
+    banner.classList.remove('show');
+  };
+})();
+</script>
 
 
 <!-- STICKY WPP MOBILE -->
