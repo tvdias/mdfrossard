@@ -2,7 +2,7 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1003091018"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
+  if (typeof gtag !== 'function') { function gtag(){dataLayer.push(arguments);} }
   gtag('js', new Date());
   gtag('config', 'AW-1003091018');
   gtag('config', 'G-7S27172376');

@@ -97,37 +97,8 @@ og_image: "https://mdfrossard.com.br/l/dentista_na_barra_da_tijuca_v2/img/hero.w
 }
 </script>
 
-<!-- ═══ LGPD / Google Consent Mode v2 — DEFAULT DENIED ═══
-     Precisa rodar ANTES de qualquer gtag. Se o usuário já consentiu
-     em visita anterior, lê o localStorage e libera. -->
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  (function(){
-    var stored = null;
-    try { stored = localStorage.getItem('mdf_consent_v1'); } catch(e) {}
-    if (stored === 'granted') {
-      gtag('consent','default',{
-        'ad_storage':'granted',
-        'ad_user_data':'granted',
-        'ad_personalization':'granted',
-        'analytics_storage':'granted',
-        'functionality_storage':'granted',
-        'security_storage':'granted'
-      });
-    } else {
-      gtag('consent','default',{
-        'ad_storage':'denied',
-        'ad_user_data':'denied',
-        'ad_personalization':'denied',
-        'analytics_storage':'denied',
-        'functionality_storage':'granted',
-        'security_storage':'granted',
-        'wait_for_update': 500
-      });
-    }
-  })();
-</script>
+
+
 
 <style>
 /* ═══ TOKENS ═══════════════════════════════════════════════ */
