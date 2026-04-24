@@ -130,5 +130,19 @@ body.lgpd-visible .whatsapp-fab{
     banner.classList.remove('show');
     document.body.classList.remove('lgpd-visible');
   };
+  // Permite revogar consent + reabrir banner a partir da página de privacidade
+  window.mdfConsentReopen = function(){
+    try { localStorage.removeItem(KEY); } catch(e) {}
+    if (typeof gtag === 'function') {
+      gtag('consent','update',{
+        'ad_storage':'denied',
+        'ad_user_data':'denied',
+        'ad_personalization':'denied',
+        'analytics_storage':'denied'
+      });
+    }
+    banner.classList.add('show');
+    document.body.classList.add('lgpd-visible');
+  };
 })();
 </script>
