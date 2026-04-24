@@ -1335,11 +1335,17 @@ body.lgpd-visible .sticky-wpp{
   var stored = null;
   try { stored = localStorage.getItem(KEY); } catch(e) {}
   if (!stored) {
-    // Mostra banner após pequeno delay (não compete com LCP)
-    setTimeout(function(){
+    // Espera a main thread dar um respiro p/ não competir com o LCP.
+    // requestIdleCallback em navegadores modernos; fallback p/ setTimeout no Safari.
+    var showBanner = function(){
       banner.classList.add('show');
       document.body.classList.add('lgpd-visible');
-    }, 1200);
+    };
+    if ('requestIdleCallback' in window) {
+      requestIdleCallback(showBanner, { timeout: 2000 });
+    } else {
+      setTimeout(showBanner, 1200);
+    }
   }
   window.mdfConsent = function(decision){
     try { localStorage.setItem(KEY, decision); } catch(e) {}
