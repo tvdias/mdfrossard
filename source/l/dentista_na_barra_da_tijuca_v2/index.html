@@ -221,67 +221,6 @@ a{text-decoration:none}
   border-top:1px solid rgba(255,255,255,.08);padding-top:14px;
 }
 
-/* ─ LGPD Consent Banner ───────────────────────────────── */
-.lgpd-banner{
-  position:fixed;bottom:0;left:0;right:0;z-index:10000;
-  background:var(--ink);color:#fff;
-  border-top:2px solid var(--gold);
-  box-shadow:0 -8px 32px rgba(0,0,0,.35);
-  padding:18px 20px;
-  padding-bottom:calc(18px + env(safe-area-inset-bottom,0px));
-  transform:translateY(110%);transition:transform .4s var(--ease);
-  font-family:'Inter',sans-serif;
-}
-.lgpd-banner.show{transform:translateY(0)}
-.lgpd-inner{
-  max-width:1100px;margin:0 auto;
-  display:flex;flex-wrap:wrap;align-items:center;gap:16px;
-  justify-content:space-between;
-}
-.lgpd-text{
-  flex:1 1 300px;
-  font-size:.85rem;line-height:1.55;color:rgba(255,255,255,.82);
-}
-.lgpd-text a{color:var(--gold-glow);text-decoration:underline}
-.lgpd-btns{display:flex;flex-wrap:wrap;gap:10px;flex-shrink:0}
-.lgpd-btn{
-  padding:10px 20px;border-radius:50px;
-  font-family:'Outfit',sans-serif;font-weight:700;font-size:.85rem;
-  border:none;cursor:pointer;transition:all .25s var(--ease);white-space:nowrap;
-  min-height:40px;
-}
-.lgpd-btn-accept{background:linear-gradient(135deg,var(--gold-glow),var(--gold));color:var(--ink)}
-.lgpd-btn-accept:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(201,162,39,.35)}
-.lgpd-btn-reject{background:transparent;color:rgba(255,255,255,.72);border:1px solid rgba(255,255,255,.22)}
-.lgpd-btn-reject:hover{background:rgba(255,255,255,.08);color:#fff}
-
-/* Mobile: touch targets ≥44px, texto legível, safe-area, banner mais compacto */
-@media (max-width:760px){
-  .lgpd-banner{
-    padding:14px 14px;
-    padding-bottom:calc(14px + env(safe-area-inset-bottom,0px));
-  }
-  .lgpd-inner{
-    flex-direction:column;align-items:stretch;gap:12px;
-  }
-  .lgpd-text{
-    flex:1 1 auto;font-size:.92rem;line-height:1.5;
-  }
-  .lgpd-btns{
-    display:grid;grid-template-columns:1fr 1fr;gap:10px;
-  }
-  .lgpd-btn{
-    padding:13px 14px;font-size:.95rem;min-height:46px;
-    white-space:normal;
-  }
-}
-
-/* FAB WhatsApp cede espaço enquanto o banner está visível */
-body.lgpd-visible .sticky-wpp{
-  opacity:0;transform:scale(.85) translateY(10px);
-  pointer-events:none;visibility:hidden;
-}
-
 /* RIGHT - foto */
 .hero-right{
   position:relative;overflow:hidden;min-height:340px;
@@ -1312,65 +1251,7 @@ body.lgpd-visible .sticky-wpp{
 </footer>
 
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--  LGPD Consent Banner                                   -->
-<!-- ═══════════════════════════════════════════════════════ -->
-<div class="lgpd-banner" id="lgpd-banner" role="dialog" aria-label="Aviso de privacidade" aria-live="polite">
-  <div class="lgpd-inner">
-    <p class="lgpd-text">
-      Usamos cookies e tecnologias semelhantes para analisar o uso do site, personalizar conteúdo e medir anúncios.
-      Ao aceitar, você concorda com o tratamento dos seus dados conforme nossa
-      <a href="/privacidade/" target="_blank" rel="noopener">Política de Privacidade</a> (LGPD).
-    </p>
-    <div class="lgpd-btns">
-      <button type="button" class="lgpd-btn lgpd-btn-reject" onclick="mdfConsent('denied')">Recusar</button>
-      <button type="button" class="lgpd-btn lgpd-btn-accept" onclick="mdfConsent('granted')">Aceitar</button>
-    </div>
-  </div>
-</div>
-<script>
-(function(){
-  var KEY = 'mdf_consent_v1';
-  var banner = document.getElementById('lgpd-banner');
-  var stored = null;
-  try { stored = localStorage.getItem(KEY); } catch(e) {}
-  if (!stored) {
-    // Espera a main thread dar um respiro p/ não competir com o LCP.
-    // requestIdleCallback em navegadores modernos; fallback p/ setTimeout no Safari.
-    var showBanner = function(){
-      banner.classList.add('show');
-      document.body.classList.add('lgpd-visible');
-    };
-    if ('requestIdleCallback' in window) {
-      requestIdleCallback(showBanner, { timeout: 2000 });
-    } else {
-      setTimeout(showBanner, 1200);
-    }
-  }
-  window.mdfConsent = function(decision){
-    try { localStorage.setItem(KEY, decision); } catch(e) {}
-    if (typeof gtag === 'function') {
-      if (decision === 'granted') {
-        gtag('consent','update',{
-          'ad_storage':'granted',
-          'ad_user_data':'granted',
-          'ad_personalization':'granted',
-          'analytics_storage':'granted'
-        });
-      } else {
-        gtag('consent','update',{
-          'ad_storage':'denied',
-          'ad_user_data':'denied',
-          'ad_personalization':'denied',
-          'analytics_storage':'denied'
-        });
-      }
-    }
-    banner.classList.remove('show');
-    document.body.classList.remove('lgpd-visible');
-  };
-})();
-</script>
+<!-- LGPD Consent Banner: agora vem via partial compartilhado (landing_page.ejs) -->
 
 
 <!-- STICKY WPP MOBILE — FAB circular -->
