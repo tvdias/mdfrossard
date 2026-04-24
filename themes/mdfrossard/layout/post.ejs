@@ -135,7 +135,7 @@ var readingTime = Math.max(1, Math.round(wordCount / 200));
                 </div>
             <% } %>
 
-            <img src="<%= p.featured_image || '/images/uploads/2024/md_odontologia_barra.webp' %>" loading="lazy" decoding="async" alt="<%= p.title %>" class="article-img reveal">
+            <img src="<%= p.featured_image || '/images/uploads/2024/md_odontologia_barra.webp' %>" loading="eager" fetchpriority="high" decoding="async" width="1200" height="675" alt="<%= p.title %>" class="article-img reveal">
 
             <div class="content reveal">
                 <%- content %>
@@ -335,5 +335,60 @@ var readingTime = Math.max(1, Math.round(wordCount / 200));
 
 .back-to-blog:hover {
     color: #c9a84c;
+}
+
+/* ── Mobile (<= 760px): reduz espaçamentos exagerados e conserta underline H2 ── */
+@media (max-width: 760px) {
+    .article-body {
+        padding: 0 1.1rem;
+    }
+    .article-body h1 {
+        font-size: 1.65rem !important;
+        line-height: 1.25 !important;
+        margin-bottom: 1.25rem !important;
+    }
+    .article-body h2 {
+        font-size: 1.3rem;
+        margin: 2.5rem 0 1.25rem;
+        display: block;       /* full-width underline */
+        padding-bottom: 0.4rem;
+    }
+    .article-body h3 {
+        font-size: 1.15rem;
+        margin: 2rem 0 1rem;
+    }
+    .content p,
+    .content ul {
+        font-size: 1rem;
+        line-height: 1.7;
+    }
+    .content p {
+        margin: 0 0 1.4rem;
+    }
+    .content ul {
+        margin: 0 0 1.6rem 1.3rem;
+    }
+    .content li {
+        margin-bottom: 0.6rem;
+    }
+    .content img,
+    .article-img {
+        margin: 1.75rem 0 !important;
+        border-radius: 0.75rem;
+    }
+    .author-box {
+        gap: 1rem;
+        padding: 1.25rem;
+        margin: 2rem 0;
+    }
+    .post-hero-meta {
+        gap: 0.6rem;
+        margin-bottom: 1rem;
+    }
+    .intro-text {
+        font-size: 1rem !important;
+        line-height: 1.65 !important;
+        margin-bottom: 1.5rem !important;
+    }
 }
 </style>
