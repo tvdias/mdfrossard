@@ -223,11 +223,12 @@ a{text-decoration:none}
 
 /* ─ LGPD Consent Banner ───────────────────────────────── */
 .lgpd-banner{
-  position:fixed;bottom:0;left:0;right:0;z-index:9999;
+  position:fixed;bottom:0;left:0;right:0;z-index:10000;
   background:var(--ink);color:#fff;
   border-top:2px solid var(--gold);
   box-shadow:0 -8px 32px rgba(0,0,0,.35);
   padding:18px 20px;
+  padding-bottom:calc(18px + env(safe-area-inset-bottom,0px));
   transform:translateY(110%);transition:transform .4s var(--ease);
   font-family:'Inter',sans-serif;
 }
@@ -247,11 +248,39 @@ a{text-decoration:none}
   padding:10px 20px;border-radius:50px;
   font-family:'Outfit',sans-serif;font-weight:700;font-size:.85rem;
   border:none;cursor:pointer;transition:all .25s var(--ease);white-space:nowrap;
+  min-height:40px;
 }
 .lgpd-btn-accept{background:linear-gradient(135deg,var(--gold-glow),var(--gold));color:var(--ink)}
 .lgpd-btn-accept:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(201,162,39,.35)}
 .lgpd-btn-reject{background:transparent;color:rgba(255,255,255,.72);border:1px solid rgba(255,255,255,.22)}
 .lgpd-btn-reject:hover{background:rgba(255,255,255,.08);color:#fff}
+
+/* Mobile: touch targets ≥44px, texto legível, safe-area, banner mais compacto */
+@media (max-width:760px){
+  .lgpd-banner{
+    padding:14px 14px;
+    padding-bottom:calc(14px + env(safe-area-inset-bottom,0px));
+  }
+  .lgpd-inner{
+    flex-direction:column;align-items:stretch;gap:12px;
+  }
+  .lgpd-text{
+    flex:1 1 auto;font-size:.92rem;line-height:1.5;
+  }
+  .lgpd-btns{
+    display:grid;grid-template-columns:1fr 1fr;gap:10px;
+  }
+  .lgpd-btn{
+    padding:13px 14px;font-size:.95rem;min-height:46px;
+    white-space:normal;
+  }
+}
+
+/* FAB WhatsApp cede espaço enquanto o banner está visível */
+body.lgpd-visible .sticky-wpp{
+  opacity:0;transform:scale(.85) translateY(10px);
+  pointer-events:none;visibility:hidden;
+}
 
 /* RIGHT - foto */
 .hero-right{
@@ -666,7 +695,8 @@ a{text-decoration:none}
   background:var(--green);color:#fff;text-decoration:none;
   z-index:9998;
   box-shadow:0 6px 20px rgba(37,211,102,.45);
-  transition:transform .25s var(--ease),box-shadow .25s var(--ease);
+  transition:transform .25s var(--ease),box-shadow .25s var(--ease),
+             opacity .3s var(--ease),visibility .3s var(--ease);
 }
 .sticky-wpp:hover{transform:translateY(-3px);box-shadow:0 10px 28px rgba(37,211,102,.55)}
 .sticky-wpp:active{transform:translateY(-1px)}
@@ -1290,7 +1320,7 @@ a{text-decoration:none}
     <p class="lgpd-text">
       Usamos cookies e tecnologias semelhantes para analisar o uso do site, personalizar conteúdo e medir anúncios.
       Ao aceitar, você concorda com o tratamento dos seus dados conforme nossa
-      <a href="/privacidade.html">Política de Privacidade</a> (LGPD).
+      <a href="/privacidade/" target="_blank" rel="noopener">Política de Privacidade</a> (LGPD).
     </p>
     <div class="lgpd-btns">
       <button type="button" class="lgpd-btn lgpd-btn-reject" onclick="mdfConsent('denied')">Recusar</button>
@@ -1306,7 +1336,10 @@ a{text-decoration:none}
   try { stored = localStorage.getItem(KEY); } catch(e) {}
   if (!stored) {
     // Mostra banner após pequeno delay (não compete com LCP)
-    setTimeout(function(){ banner.classList.add('show'); }, 1200);
+    setTimeout(function(){
+      banner.classList.add('show');
+      document.body.classList.add('lgpd-visible');
+    }, 1200);
   }
   window.mdfConsent = function(decision){
     try { localStorage.setItem(KEY, decision); } catch(e) {}
@@ -1328,6 +1361,7 @@ a{text-decoration:none}
       }
     }
     banner.classList.remove('show');
+    document.body.classList.remove('lgpd-visible');
   };
 })();
 </script>
