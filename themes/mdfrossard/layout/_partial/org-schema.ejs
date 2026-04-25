@@ -1,0 +1,49 @@
+<!-- Structured Data: Dentist (organização) — fallback global para páginas que não têm schema próprio.
+     Posts (post.ejs) e LPs (landing_page.ejs) já têm schemas específicos (BlogPosting / LocalBusiness)
+     e este partial não conflita: o Google aceita múltiplos blocos JSON-LD por página. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dentist",
+  "@id": "https://mdfrossard.com.br/#organization",
+  "name": "MD Frossard Odontologia",
+  "url": "https://mdfrossard.com.br/",
+  "logo": "https://mdfrossard.com.br/images/logo-MD.jpg",
+  "image": "https://mdfrossard.com.br/images/lps/equipe-md-frossard-odontologia.webp",
+  "telephone": "+552132170430",
+  "priceRange": "$$$",
+  "address": [
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "Av. das Américas, 700 — Bloco 2 / Sala 143",
+      "addressLocality": "Rio de Janeiro",
+      "addressRegion": "RJ",
+      "postalCode": "22640-100",
+      "addressCountry": "BR"
+    },
+    {
+      "@type": "PostalAddress",
+      "streetAddress": "Rua Voluntários da Pátria, 89, Botafogo",
+      "addressLocality": "Rio de Janeiro",
+      "addressRegion": "RJ",
+      "postalCode": "22270-010",
+      "addressCountry": "BR"
+    }
+  ],
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "opens": "08:00",
+    "closes": "18:00"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "120"
+  },
+  "sameAs": [
+    "https://www.facebook.com/MdFrossardOdontologia/",
+    "https://www.instagram.com/md_frossard_odontologia/"
+  ]
+}
+</script>

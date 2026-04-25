@@ -1,0 +1,40 @@
+---
+layout: layout.ejs
+title: "Página não encontrada"
+description: "A página que você está procurando não existe ou foi movida. Volte ao início ou explore o blog da MD Frossard."
+permalink: "/404.html"
+eleventyExcludeFromCollections: true
+noindex: true
+---
+
+<section class="section section-internal" style="min-height: 60vh; display: flex; align-items: center;">
+    <div class="container" style="text-align: center; max-width: 640px;">
+        <div style="font-size: 7rem; font-weight: 800; color: #c9a84c; line-height: 1; margin-bottom: 1rem; font-family: var(--font-heading);">
+            404
+        </div>
+        <h1 style="font-size: 2rem; line-height: 1.2; margin-bottom: 1rem;">
+            Página não encontrada
+        </h1>
+        <p style="font-size: 1.125rem; line-height: 1.7; color: #555; margin-bottom: 2.5rem;">
+            A página que você está procurando não existe ou foi movida. Pode ter sido removida ou o endereço pode estar incorreto.
+        </p>
+        <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+            <a href="/" class="btn btn-primary">
+                <i data-lucide="home" class="icon-sm"></i> Voltar ao início
+            </a>
+            <a href="/blog/" class="btn btn-outline">
+                <i data-lucide="book-open" class="icon-sm"></i> Ler o blog
+            </a>
+            <a href="https://api.whatsapp.com/send?phone=5521976637803" onclick="return gtagSendEventWhatsapp(this.href)" class="btn btn-outline">
+                <i data-lucide="message-circle" class="icon-sm"></i> Falar no WhatsApp
+            </a>
+        </div>
+    </div>
+</section>
+
+<style>
+@media (max-width: 760px) {
+    .section-internal h1 { font-size: 1.5rem !important; }
+    .section-internal div[style*="7rem"] { font-size: 5rem !important; }
+}
+</style>

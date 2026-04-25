@@ -1,5 +1,6 @@
 const fs = require("node:fs");
 const path = require("node:path");
+const crypto = require("node:crypto");
 const ejs = require("ejs");
 const yaml = require("js-yaml");
 const markdownIt = require("markdown-it");
@@ -181,10 +182,14 @@ function buildPost(postLike, htmlOverride) {
 const escapeHtml = (str) =>
   str.replace(/[&<>"']/g, (m) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[m]));
 
+// Imagem default para og:image quando a página não define featured_image.
+// Garante que TODO compartilhamento (WhatsApp, Facebook, X, LinkedIn, etc.) tenha preview visual.
+const DEFAULT_OG_IMAGE = "/images/lps/equipe-md-frossard-odontologia.webp";
+
 function renderOpenGraph(meta = {}) {
   const title = meta.title ? escapeHtml(`${meta.title} | ${siteConfig.title}`) : escapeHtml(siteConfig.title);
   const description = escapeHtml(meta.description || siteConfig.description || "");
-  const image = meta.image ? toAbsoluteUrl(meta.image) : undefined;
+  const image = toAbsoluteUrl(meta.image || DEFAULT_OG_IMAGE);
   const tags = [
     `<meta property="og:locale" content="pt_BR">`,
     `<meta property="og:type" content="website">`,
@@ -197,10 +202,8 @@ function renderOpenGraph(meta = {}) {
     `<meta name="twitter:description" content="${description}">`,
   ];
 
-  if (image) {
-    tags.push(`<meta property="og:image" content="${image}">`);
-    tags.push(`<meta name="twitter:image" content="${image}">`);
-  }
+  tags.push(`<meta property="og:image" content="${image}">`);
+  tags.push(`<meta name="twitter:image" content="${image}">`);
 
   return tags.join("\n  ");
 }
@@ -372,6 +375,47 @@ module.exports = function(eleventyConfig) {
     }
     
     await processDir(publicDir);
+
+    // ── Cache-busting: adiciona ?v=<hash> em refs locais a /css/* e /js/*
+    // Combinado com Cache-Control: immutable no _headers, isso garante que:
+    //  - assets sem mudança continuam servidos do cache do browser por 1 ano
+    //  - assets que mudaram ganham nova URL (?v=novo-hash) e são re-baixados
+    const assetHashCache = {};
+    function hashAsset(absPath) {
+      if (assetHashCache[absPath]) return assetHashCache[absPath];
+      if (!fs.existsSync(absPath)) return null;
+      const buf = fs.readFileSync(absPath);
+      const hash = crypto.createHash("md5").update(buf).digest("hex").slice(0, 8);
+      assetHashCache[absPath] = hash;
+      return hash;
+    }
+
+    async function rewriteHtmlAssetRefs(dir) {
+      if (!fs.existsSync(dir)) return;
+      const files = fs.readdirSync(dir);
+      for (const file of files) {
+        const fullPath = path.join(dir, file);
+        const stat = fs.statSync(fullPath);
+        if (stat.isDirectory()) {
+          await rewriteHtmlAssetRefs(fullPath);
+        } else if (file.endsWith(".html")) {
+          const original = fs.readFileSync(fullPath, "utf8");
+          const updated = original.replace(
+            /(href|src)="(\/(?:css|js)\/[^"?]+\.(?:css|js))(\?[^"]*)?"/g,
+            (match, attr, refPath) => {
+              const assetAbsPath = path.join(publicDir, refPath);
+              const h = hashAsset(assetAbsPath);
+              if (!h) return match;
+              return `${attr}="${refPath}?v=${h}"`;
+            }
+          );
+          if (updated !== original) {
+            fs.writeFileSync(fullPath, updated, "utf8");
+          }
+        }
+      }
+    }
+    await rewriteHtmlAssetRefs(publicDir);
   });
 
   return {
