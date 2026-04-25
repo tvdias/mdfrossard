@@ -1,7 +1,6 @@
 ---
 title: Dentista Mais Bem Avaliados da Barra da Tijuca
-description: >-
-  Conheça os dentistas mais bem avaliados da Barra da Tijuca. A MD Frossard Odontologia tem nota 5.0 no Google, com mais de 100 avaliações e 38 anos de tradição.
+description: "Conheça os dentistas mais bem avaliados da Barra da Tijuca. A MD Frossard tem nota 5.0 no Google, mais de 100 avaliações e 38 anos de tradição."
 date: 2024-06-25T10:00:15.000Z
 featured_image: /images/blog_clinica_barra.webp
 category: Clínica

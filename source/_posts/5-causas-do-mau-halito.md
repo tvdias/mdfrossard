@@ -1,8 +1,6 @@
 ---
 title: 'Mau Hálito: Entenda as 5 Causas Comuns e Como Eliminar'
-description: >-
- O mau hálito atinge até 50% da população e 90% dos casos têm origem na boca. 
- Descubra as causas reais e aprenda como tratar esse problema de forma definitiva.
+description: "Mau hálito atinge até 50% da população e 90% dos casos vêm da boca. Descubra as 5 causas mais comuns e como tratar o problema de forma definitiva."
 date: 2016-02-01T10:05:28.000Z
 featured_image: /images/900cced6-e71a-4957-8fd3-f24be2fb9934_causas-mau-hálito.webp
 ---

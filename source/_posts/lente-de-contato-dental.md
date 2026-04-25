@@ -1,8 +1,6 @@
 ---
 title: 'Lente de Contato Dental: 4 Pontos que Você Deve Saber'
-description: >-
- A lente de contato dental é o tratamento estético de maior destaque na atualidade. 
- Transforme o seu sorriso em dias. Leia os benefícios e indicações completas.
+description: "A lente de contato dental é o tratamento estético em alta. Transforme seu sorriso em dias. Veja benefícios, indicações e como funciona o procedimento."
 date: 2017-05-15T13:45:45.000Z
 featured_image: /images/fefcb1b9-1ef1-40eb-8661-b0c087e83f05_lente-de-contato-dental.webp
 ---

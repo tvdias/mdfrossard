@@ -1,8 +1,6 @@
 ---
 title: 'Posso Perder um Implante Dentário? Verdades, Mitos e Cuidados'
-description: >-
- Afinal, o corpo pode rejeitar um implante? Entenda por que o titânio é seguro, 
- quais os riscos reais de perda e como garantir a longevidade do seu tratamento.
+description: "Afinal, o corpo pode rejeitar um implante? Entenda por que o titânio é seguro, os riscos reais de perda e como garantir a longevidade do tratamento."
 date: 2016-03-01T10:00:04.000Z
 featured_image: /images/41a96660-0c56-48cf-ad77-e371be4aedd9_podemos-perder-um-implante-dentário1.webp
 ---
