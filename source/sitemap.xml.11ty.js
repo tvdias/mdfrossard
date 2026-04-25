@@ -16,6 +16,7 @@ class SiteMap {
         if (url.startsWith("/email-confirmado")) return false;
         if (url.startsWith("/landing-page-mancha-no-dente")) return false;
         if (url.startsWith("/images/")) return false;
+        if (url.startsWith("/_drafts/")) return false;
         // Excluir páginas que tenham noindex explícito no frontmatter
         if (item.data && item.data.noindex === true) return false;
         return true;

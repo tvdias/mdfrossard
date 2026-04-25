@@ -215,6 +215,9 @@ module.exports = function(eleventyConfig) {
     "source/l/**/*.{jpg,jpeg,png,gif,svg,webp}",
   ];
 
+  // Ignora pastas internas (rascunhos, etc.) — nunca devem ser renderizadas como páginas públicas
+  eleventyConfig.ignores.add("source/_drafts/**");
+
   eleventyConfig.setLibrary("md", markdown);
   eleventyConfig.addExtension("ejs", {
     outputFileExtension: "html",
