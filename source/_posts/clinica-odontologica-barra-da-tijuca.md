@@ -1,68 +1,62 @@
 ---
-title: Clínica Odontológica na Barra da Tijuca
-description: >-
- Conheça a clinica odontológica na Barra da Tijuca. A MD Odontologia pode realizar o seu tratamento com toda segurança e conforto que você merece
+title: "Estrutura da Clínica Odontológica na Barra da Tijuca"
+description: "Tour pela estrutura da clínica odontológica MD Frossard na Barra da Tijuca: salas, equipamentos, biossegurança e localização no Shopping Città América."
 date: 2024-06-04T10:00:00.000Z
 featured_image: /images/blog_clinica_barra.webp
 category: Clínica
 ---
 
-## Clínica Odontológica na Barra da Tijuca
+> **Sobre esta página:** Esta página apresenta a estrutura física, equipamentos e localização da nossa clínica. Para conhecer a equipe e os serviços, visite a página principal do nosso [dentista na Barra da Tijuca](/dentista-barra-da-tijuca/).
 
-Nossa clínica odontológica esta presente no bairro da Barra da Tijuca na cidade do Rio de Janeiro. 
+## Onde fica a clínica na Barra da Tijuca
 
-Com facilidade de estacionamento e de locomoção, nosso consultório está localizado no Shopping [Citta Office Mall](https://cittaofficemall.com.br/site/). Esse centro comercial está localizado perto de outro grande shopping, o [Downtown.](https://www.downtown.com.br) Além disso, para quem precisa, o metrô se encontra a poucos metros da nossa clínica odontológica. 
+Nossa unidade da Barra está no **Shopping Città América**, na Av. das Américas, 700 — Bloco 2 / Sala 143. Pertinho do Downtown, com fácil acesso por carro (estacionamento no próprio shopping) e a poucos metros do BRT. Para o endereço exato e mapa, [veja nossa página de localização](/localizacao/).
 
-Para ver a nossa exata localização, [clique aqui.](/localizacao/)
+![consultório clínica odontológica barra da tijuca](/images/uploads/2013/07/4consulorio-1-1024x683.webp)
 
-**Para marcar uma consulta ligue para o telefone(21) 3217-0430 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
+## Salas e equipamentos
 
-## Conheça mais sobre nossa clínica Odontológica na Barra da Tijuca
+A clínica ocupa **6 salas clínicas** independentes, cada uma equipada para procedimentos de baixa, média e alta complexidade:
 
-![4consulorio 1 1024x683](/images/uploads/2013/07/4consulorio-1-1024x683.webp)
+- **Cadeiras odontológicas** com sistema de iluminação LED e instrumentação digital
+- **Raio-X digital** integrado a software de planejamento
+- **Tomógrafo** para planejamento 3D de implantes (parceria com radiologia local)
+- **Equipamento de endodontia** com localizador apical e motor com torque controlado
+- **Câmera intraoral** para diagnóstico e demonstração ao paciente
 
-Liderada pelos dentistas [Marcos e Davi Frossard](/equipe/). Nossa clínica odontológica está presente nos bairros da [Barra da Tijuca](/dentista-barra-da-tijuca/) e de [Botafogo.](/dentista-em-botafogo/) Nossa [estrutura](/estrutura/) comporta o atendimentos de todas as especialidades com conforto e qualidade. Além disso, a **biossegurança** é fator primordial. 
+## Biossegurança
 
-Com um ambiente acolhedor, nossa clínica está presente no Rio de Janeiro há 37 anos. Focamos nosso atendimento na alta perfomance, através de uma odontologia contemporânea focada em 3 pilares : **Relacionamento, confiança e pontualidade.** 
+Para nós, biossegurança é fator primordial — não negociável:
 
-Nossa equipe sempre esta disposta para realizar o melhor atendimento para você. 
+- **Sala dedicada** para esterilização separada da área clínica
+- **Autoclave classe B** com ciclo validado e registro de cada lote
+- **Embalagem individual** de instrumental, com indicador biológico de esterilização
+- **Protocolo de barreira** trocado a cada paciente
+- **Monitoramento periódico** com relatório de validação dos equipamentos de esterilização
 
-## O que dizem sobre a nossa clínica odontológica na Barra da Tijuca
+## Recepção e atendimento
 
-"Conheço o Dr. Marcos desde a barriga da minha mãe e desde sempre cuidei dos meus dentes com ele. Recentemente ele e seu filho, Dr. Davi, realizaram o meu sonho de ter um sorriso perfeito. Estou muito feliz e realizada com o resultado e recomendo a MD Odontologia de olhos fechados. Eles cuidam de toda a minha família (mãe, marido e, em breve, filhas) e são extremamente competentes, além de super atenciosos. "
-
-**_"Bianca Sadkowski"_**
-
-- - - 
-
-"Já tive várias experiências com dentistas que não foram nada boas… até que encontrei o MD FROSSARD! A equipe toda é muito atenciosa e competente. Eu, que tenho traumas com dentistas, só tenho a agradecer o atendimento que tive! Completamente indolor. Estou muito satisfeita com o trabalho realizado e com o resultado."
-
-**_"Anneliza Argon"_**
-
-- - -
-
-"Cheguei na MD Frossard no ano de 2013 para tratamento dentário. Já havia passado por dois dentistas que não conseguiram resolver o meu problema bucal, pois a infecção estava muito grande. Fui atendida pelo Dr. Davi Frossard e as coisas começaram a melhorar, ele fez os meus implantes e esta cuidando da minha saúde oral. Eu indico para várias pessoas e falo do carinho e cuidado que a MD Frossard Odontologia tem com seus pacientes."
-
-**_"Rita Márcia M. da Rosa"_**
- 
-- - - 
-
-Veja mais [depoimentos.](/depoimentos/) 
-
-## Marque uma consulta em nossa clínica
+A recepção foi pensada para reduzir ansiedade — comum entre pacientes odontológicos. Ambiente claro, climatizado, com café e Wi-Fi. Pontualidade é levada a sério: a meta é atender no horário marcado, com no máximo 5 minutos de tolerância.
 
 ![Dentista na barra da tijuca rj](/images/72f2c2a5-1d27-4ee1-abe9-bd257971ec02_dentista-na-barra-da-tijuca-RJ.webp)
 
-**Para marcar uma consulta ligue para o telefone(21) 3217-0430 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
+## Especialidades atendidas na Barra
 
-Somente lembrando que atendemos todas as especialidades, tais como : 
+Todas as especialidades odontológicas são executadas no mesmo endereço — você não precisa percorrer diferentes consultórios para concluir um tratamento:
 
-- Implante Dentário ;
-- Prótese Dentária ; 
-- Facetas ;
-- Tratamento de canal ; 
-- Tratamento de gengiva ; 
-- Entre outros. 
+- [Implante Dentário](/tratamentos/implante-dentario/)
+- [Prótese Dentária](/tratamentos/protese-dentaria/)
+- [Estética Dental](/tratamentos/estetica-dental/) (facetas, lentes de contato, clareamento)
+- [Endodontia](/tratamentos/endodontia/) (canal)
+- [Periodontia](/tratamentos/periodontia/) (gengiva)
+- [Ortodontia](/tratamentos/ortodontia/) (aparelho ortodôntico)
 
-Se tiver alguma dúvida, ligue para nós ou deixe um comentário. 
- 
+## Conheça a clínica pessoalmente
+
+Marque uma visita sem compromisso para conhecer a estrutura antes de iniciar tratamento longo. Para falar com nossa equipe:
+
+- **(21) 3217-0430**
+- [**WhatsApp (21) 97663-7803**](https://api.whatsapp.com/send?phone=5521976637803)
+- **Endereço:** Av. das Américas, 700 — Bloco 2 / Sala 143, Barra da Tijuca, Rio de Janeiro
+
+Para conhecer nossos profissionais, [conheça nossa clínica de dentista na Barra da Tijuca](/dentista-barra-da-tijuca/) e a [equipe](/equipe/).

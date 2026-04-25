@@ -164,6 +164,14 @@ var readingTime = Math.max(1, Math.round(wordCount / 200));
                     <i data-lucide="message-circle" class="icon-sm"></i> Agende sua Consulta
                 </a>
             </div>
+
+            <!-- Local SEO: link contextual para money page -->
+            <aside class="post-units-aside reveal" aria-label="Atendimento presencial">
+                <p class="post-units-aside__title">Atendemos no Rio de Janeiro</p>
+                <p class="post-units-aside__copy">
+                    Este artigo foi escrito pela equipe da MD Frossard Odontologia, que atua há 38 anos na cidade. Conheça nossa unidade na <a href="/dentista-barra-da-tijuca/"><strong>Barra da Tijuca</strong></a> ou em <a href="/dentista-em-botafogo/"><strong>Botafogo</strong></a>.
+                </p>
+            </aside>
         </div>
     </div>
 </section>
@@ -334,6 +342,37 @@ var readingTime = Math.max(1, Math.round(wordCount / 200));
 }
 
 .back-to-blog:hover {
+    color: #c9a84c;
+}
+
+/* Post local-units aside (subtle internal link block) */
+.post-units-aside {
+    margin: 3rem 0 0;
+    padding: 1.25rem 1.5rem;
+    background: #faf7ee;
+    border-left: 3px solid #c9a84c;
+    border-radius: 6px;
+}
+.post-units-aside__title {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #c9a84c;
+    margin: 0 0 0.4rem;
+}
+.post-units-aside__copy {
+    font-size: 0.95rem;
+    color: #444;
+    line-height: 1.6;
+    margin: 0;
+}
+.post-units-aside__copy a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+.post-units-aside__copy a:hover {
     color: #c9a84c;
 }
 

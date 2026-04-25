@@ -120,3 +120,79 @@ Se você valoriza pontualidade, tecnologia de ponta e um atendimento que entende
 - **📍 Endereço:** **[Shopping Città America – Bloco 2 / Sala 143 – Barra da Tijuca ➔](/localizacao/)**
 
 A MD Frossard Odontologia está pronta para oferecer o melhor cuidado ao seu sorriso!
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dentist",
+  "@id": "https://mdfrossard.com.br/dentista-barra-da-tijuca/#dentist-barra",
+  "name": "MD Frossard Odontologia — Dentista na Barra da Tijuca",
+  "url": "https://mdfrossard.com.br/dentista-barra-da-tijuca/",
+  "image": "https://mdfrossard.com.br/images/uploads/2024/dentista_barra_da_tijuca_md.webp",
+  "logo": "https://mdfrossard.com.br/images/logo-MD.jpg",
+  "description": "Clínica odontológica na Barra da Tijuca com 38 anos de experiência. Especialistas em implantes, facetas, ortodontia, endodontia, periodontia e reabilitação oral.",
+  "telephone": "+552132170430",
+  "priceRange": "$$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Av. das Américas, 700 - Bloco 2 / Sala 143",
+    "addressLocality": "Rio de Janeiro",
+    "addressRegion": "RJ",
+    "postalCode": "22640-100",
+    "addressCountry": "BR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -23.0019,
+    "longitude": -43.3216
+  },
+  "hasMap": "https://share.google/dByZdhTbp6XWBuVqh",
+  "areaServed": [
+    { "@type": "Place", "name": "Barra da Tijuca" },
+    { "@type": "Place", "name": "Recreio dos Bandeirantes" },
+    { "@type": "Place", "name": "Jacarepaguá" },
+    { "@type": "Place", "name": "Itanhangá" },
+    { "@type": "Place", "name": "Joá" },
+    { "@type": "Place", "name": "São Conrado" }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+      "opens": "08:00",
+      "closes": "18:00"
+    }
+  ],
+  "medicalSpecialty": [
+    "Dentistry",
+    "Prosthodontics",
+    "Endodontics",
+    "Periodontics",
+    "Orthodontics",
+    "CosmeticDentistry"
+  ],
+  "availableService": [
+    { "@type": "MedicalProcedure", "name": "Implante Dentário", "url": "https://mdfrossard.com.br/tratamentos/implante-dentario/" },
+    { "@type": "MedicalProcedure", "name": "Prótese Dentária", "url": "https://mdfrossard.com.br/tratamentos/protese-dentaria/" },
+    { "@type": "MedicalProcedure", "name": "Estética Dental (Facetas e Lentes de Contato)", "url": "https://mdfrossard.com.br/tratamentos/estetica-dental/" },
+    { "@type": "MedicalProcedure", "name": "Endodontia (Canal)", "url": "https://mdfrossard.com.br/tratamentos/endodontia/" },
+    { "@type": "MedicalProcedure", "name": "Periodontia (Gengiva)", "url": "https://mdfrossard.com.br/tratamentos/periodontia/" },
+    { "@type": "MedicalProcedure", "name": "Ortodontia", "url": "https://mdfrossard.com.br/tratamentos/ortodontia/" }
+  ],
+  "employee": [
+    { "@type": "Person", "name": "Dr. Marcos Frossard", "jobTitle": "Cirurgião-Dentista — Prótese e Reabilitação Oral", "url": "https://mdfrossard.com.br/equipe/marcos/" },
+    { "@type": "Person", "name": "Dr. Davi Frossard", "jobTitle": "Cirurgião-Dentista — Implantodontia", "url": "https://mdfrossard.com.br/equipe/davi/" },
+    { "@type": "Person", "name": "Dra. Luciana Peroni", "jobTitle": "Cirurgiã-Dentista — Prótese e Endodontia", "url": "https://mdfrossard.com.br/equipe/luciana/" }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/MdFrossardOdontologia/",
+    "https://www.instagram.com/md_frossard_odontologia/"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "120",
+    "bestRating": "5"
+  }
+}
+</script>

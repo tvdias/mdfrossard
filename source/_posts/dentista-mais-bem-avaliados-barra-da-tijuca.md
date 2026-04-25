@@ -1,16 +1,18 @@
 ---
-title: Dentista Mais Bem Avaliados da Barra da Tijuca
-description: "Conheça os dentistas mais bem avaliados da Barra da Tijuca. A MD Frossard tem nota 5.0 no Google, mais de 100 avaliações e 38 anos de tradição."
+title: "Avaliações dos Pacientes — MD Frossard na Barra da Tijuca"
+description: "Depoimentos reais de pacientes da MD Frossard na Barra da Tijuca: implantes, facetas e reabilitação oral. Veja por que somos referência em atendimento."
 date: 2024-06-25T10:00:15.000Z
 featured_image: /images/blog_clinica_barra.webp
 category: Clínica
 ---
 
-## Encontre os Dentistas Mais Bem Avaliados na Barra da Tijuca
+> **Sobre esta página:** Reunimos depoimentos reais de pacientes que realizaram tratamentos na nossa unidade da Barra. Para conhecer a clínica em si, visite a página principal do nosso [dentista na Barra da Tijuca](/dentista-barra-da-tijuca/).
 
-Se você está buscando pelos dentistas mais bem avaliados na Barra da Tijuca, temos boas notícias: sua busca pode ter acabado aqui! 
+## Por que reunimos os depoimentos em uma página
 
-A MD Frossard Odontologia, com suas unidades na Barra da Tijuca e em Botafogo, é referência quando o assunto é cuidado com o sorriso, profissionalismo e aquele toque especial de acolhimento que todo mundo procura em um dentista.
+Avaliações em redes sociais e Google ficam dispersas e somem com o tempo. Esta página é nosso arquivo público de depoimentos detalhados de pacientes que realizaram tratamentos na nossa unidade da Barra da Tijuca — para que quem está pesquisando possa ler com calma e contextualizar.
+
+A MD Frossard atende há 38 anos no Rio, com unidades na Barra e em Botafogo, e é referência em implantes, facetas e reabilitação oral.
 
 ## Por que a MD Frossard Odontologia é tão bem avaliada?
 

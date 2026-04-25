@@ -60,6 +60,30 @@ const safeData = (key, fallback = '') => typeof data !== 'undefined' && data[key
 </section>
 <% } %>
 
+<!-- Local SEO Reinforcement: Unidades -->
+<section class="local-units-section reveal" aria-labelledby="local-units-heading">
+    <div class="container">
+        <div class="local-units-header">
+            <h2 id="local-units-heading">Atendemos na Barra da Tijuca e em Botafogo</h2>
+            <p>Toda a equipe e a estrutura para o seu tratamento estão concentradas em duas unidades no Rio de Janeiro, com mesma equipe e mesmo padrão de atendimento.</p>
+        </div>
+        <div class="local-units-grid">
+            <a href="/dentista-barra-da-tijuca/" class="local-unit-card">
+                <span class="local-unit-pin" aria-hidden="true">📍</span>
+                <h3>Dentista na Barra da Tijuca</h3>
+                <p>Av. das Américas, 700 — Bloco 2 / Sala 143 · Shopping Città America</p>
+                <span class="local-unit-link">Conhecer a unidade da Barra →</span>
+            </a>
+            <a href="/dentista-em-botafogo/" class="local-unit-card">
+                <span class="local-unit-pin" aria-hidden="true">📍</span>
+                <h3>Dentista em Botafogo</h3>
+                <p>Rua Marques, 15 — ao lado da Cobal do Humaitá</p>
+                <span class="local-unit-link">Conhecer a unidade de Botafogo →</span>
+            </a>
+        </div>
+    </div>
+</section>
+
 <!-- CTA Section -->
 <section class="treatment-cta reveal">
     <div class="container text-center">
@@ -340,6 +364,74 @@ const safeData = (key, fallback = '') => typeof data !== 'undefined' && data[key
 
 @media (min-width: 992px) {
     .treatment-hero-content { padding-top: 220px; }
+}
+
+/* Local SEO units block */
+.local-units-section {
+    background: var(--bg-light);
+    padding: 64px 0;
+}
+.local-units-header {
+    text-align: center;
+    max-width: 720px;
+    margin: 0 auto 40px;
+}
+.local-units-header h2 {
+    font-size: 1.5rem;
+    color: var(--primary-dark);
+    margin-bottom: 12px;
+}
+.local-units-header p {
+    color: var(--text-muted);
+    line-height: 1.6;
+}
+.local-units-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    max-width: 920px;
+    margin: 0 auto;
+}
+@media (min-width: 768px) {
+    .local-units-grid { grid-template-columns: 1fr 1fr; }
+    .local-units-header h2 { font-size: 1.875rem; }
+}
+.local-unit-card {
+    display: block;
+    background: white;
+    border-radius: 14px;
+    padding: 28px 26px;
+    border: 1px solid rgba(0,0,0,0.05);
+    border-top: 3px solid var(--brand-primary, #c9a227);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.local-unit-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 32px rgba(0,0,0,0.08);
+}
+.local-unit-pin {
+    display: inline-block;
+    font-size: 1.3rem;
+    margin-bottom: 6px;
+}
+.local-unit-card h3 {
+    font-size: 1.125rem;
+    color: var(--primary-dark);
+    margin: 0 0 8px;
+    font-weight: 700;
+}
+.local-unit-card p {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.55;
+    margin: 0 0 14px;
+}
+.local-unit-link {
+    color: var(--brand-primary, #c9a227);
+    font-weight: 600;
+    font-size: 0.95rem;
 }
 </style>
 

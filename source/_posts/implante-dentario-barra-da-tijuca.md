@@ -1,12 +1,14 @@
 ---
-title: Implante Dentário na Barra da Tijuca
-description: Implante dentário na Barra da Tijuca. Saiba tudo sobre o procedimento e volte a mastigar e sorrir com segurança.
+title: "Implante Dentário na Barra da Tijuca: Guia Completo"
+description: "Implante dentário na Barra da Tijuca: como funciona, quanto tempo dura, quanto custa e quando é indicado. Guia escrito por especialistas com 38 anos."
 date: 2024-06-18T10:00:03.000Z
 featured_image: /images/blog_protese_implante.webp
 category: Implante
 ---
 
-## Implante Dentário na Barra da Tijuca
+> **Quer saber sobre o procedimento?** Este guia explica como funciona o implante dentário. Se você quer conhecer a clínica em si, visite a página principal do nosso [dentista na Barra da Tijuca](/dentista-barra-da-tijuca/). Para o panorama nacional, leia também o nosso [guia completo de implante dentário](/implante-dentario/).
+
+## Quando o implante dentário é indicado
 
 Infelizmente, perder um dente ainda pode acontecer devido a traumas, cáries ou doenças periodontais. No entanto, ficar sem o dente não é uma opção quando se trata de oferecermos o tratamento de **implantes dentários na Barra da Tijuca.**
 
