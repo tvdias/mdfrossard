@@ -13,15 +13,17 @@ layout: false
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <title>Mancha no Dente - Ebook - MD Frossard</title>
+<meta name="description" content="Ebook gratuito sobre manchas nos dentes — causas, tipos e tratamentos. Baixe agora e cuide do seu sorriso com a MD Frossard.">
+
 <meta name="robots" content="noindex,follow"/>
 <meta property="og:locale" content="pt_BR" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Mancha no Dente - Ebook - MD Frossard" />
-<meta property="og:url" content="https://www.mdfrossard.com.br/landing-page-mancha-no-dente/" />
+<meta property="og:url" content="https://mdfrossard.com.br/landing-page-mancha-no-dente/" />
 <meta property="og:site_name" content="MD Frossard" />
 <meta property="article:publisher" content="https://www.facebook.com/MdFrossardOdontologia/" />
 <meta property="og:image" content="" />
-<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"/","sameAs":["https://www.facebook.com/MdFrossardOdontologia/","https://www.instagram.com/md_frossard_odontologia/"],"@id":"/#organization","name":"MD Frossard Odontologia","logo":"https://www.mdfrossard.com.br/wp-content/uploads/2018/03/logo-MD.jpg"}</script>
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"/","sameAs":["https://www.facebook.com/MdFrossardOdontologia/","https://www.instagram.com/md_frossard_odontologia/"],"@id":"/#organization","name":"MD Frossard Odontologia","logo":"https://mdfrossard.com.br/images/logo-MD.jpg"}</script>
 
 <link rel='dns-prefetch' href='//www.google.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />

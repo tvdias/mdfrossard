@@ -1,5 +1,5 @@
 ---
-title: Enxerto ósseo na Odontologia - O que todo mundo deveria saber
+title: "Enxerto Ósseo na Odontologia: Guia Essencial"
 description: >-
  Veja tudo sobre o enxerto ósseo usado na odontologia. Existem diferentes tipos
  e eles são usados principalmente na área de implantes dentais.

@@ -1,5 +1,5 @@
 ---
-title: Como realizar a correta escovação dos dentes ? Tire Suas dúvidas.
+title: "Escovação dos Dentes: Guia Completo Passo a Passo"
 description: >-
  A escovação dos dentes é essencial para a sua saúde bucal . Veja agora como
  realizar a correta técnica e melhore a saúde dos seus dentes.

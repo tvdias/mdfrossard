@@ -1,5 +1,5 @@
 ---
-title: Dentes de Porcelana - A verdade sobre esse tipo de tratamento.
+title: "Dentes de Porcelana: A Verdade Sobre o Tratamento"
 description: >-
  Os dentes de porcelana podem melhorar o seu sorriso. Devolvendo o sua
  confiança e auto-estima. Veja quais tipo de tratamento podemos fazer.

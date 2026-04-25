@@ -1,5 +1,5 @@
 ---
-title: 'Pergunte ao seu Dentista ? Tire suas dúvidas sobre tratamentos dentários. '
+title: 'Pergunte ao seu Dentista: Dúvidas Sobre Tratamentos'
 description: >-
  Tem alguma dúvida sobre o tratamento dentário ? Deixe seu comentário em nosso
  post que iremos responder o quanto antes sua dúvida. 

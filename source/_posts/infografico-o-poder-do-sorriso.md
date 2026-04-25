@@ -1,5 +1,5 @@
 ---
-title: O Poder do Sorriso - Veja como ele pode mudar sua auto-estima.
+title: "O Poder do Sorriso: Como Ele Muda Sua Autoestima"
 description: >-
  Todos os tratamentos são importantes para a nossa correta mastigação e saúde
  bucal. Porém tem um fator que faz uma tremenda diferença para você, o sorriso.

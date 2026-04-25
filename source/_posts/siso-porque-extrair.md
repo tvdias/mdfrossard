@@ -1,5 +1,5 @@
 ---
-title: Por que extrair o siso ? Tire suas dúvidas sobre essa cirurgia.
+title: "Por Que Extrair o Siso? Dúvidas Sobre a Cirurgia"
 description: >-
  Por que devemos extrair o siso ? Quais são suas indicações ? causa muita dor ?
  Essa são alguns questionamentos que os pacientes tem. Veja o texto completo.

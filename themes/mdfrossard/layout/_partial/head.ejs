@@ -9,7 +9,21 @@
     %>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><%= pageTitle ? (pageTitle + " | " + config.title) : config.title %></title>
+    <%
+    // Suprime o sufixo " | MD Odontologia" quando o título da página já
+    // ultrapassaria 60 chars (Google trunca SERP em ~60). Mantém branding
+    // nas páginas curtas (Home, Blog, Equipe, Tratamentos, etc.).
+    var __suffix = " | " + config.title;
+    var __finalTitle;
+    if (!pageTitle) {
+        __finalTitle = config.title;
+    } else if ((pageTitle + __suffix).length <= 60) {
+        __finalTitle = pageTitle + __suffix;
+    } else {
+        __finalTitle = pageTitle;
+    }
+    %>
+    <title><%= __finalTitle %></title>
 
     <!-- Meta Tags -->
     <meta name="description" content="<%= pageDescription %>">

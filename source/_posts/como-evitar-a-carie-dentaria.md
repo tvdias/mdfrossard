@@ -1,5 +1,5 @@
 ---
-title: 'Cárie Dentária: 10 Dicas Práticas de Como Evitar Esse Problema'
+title: 'Cárie Dentária: 10 Dicas Práticas Para Evitar'
 description: "A cárie é a doença bucal mais comum do mundo, mas é fácil de prevenir. Veja 10 dicas práticas de como evitar a cárie e proteger seu sorriso."
 date: 2014-06-20T07:49:19.000Z
 featured_image: /images/a38f22b8-210d-4ced-9cb2-e04840d0b9b4_Cárie-dentária-1.webp

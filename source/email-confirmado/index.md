@@ -5,17 +5,19 @@ layout: false
 ---
 {% raw %}
 <!doctype html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<!--[if lt IE 7]>      <html lang="pt-BR" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="pt-BR" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="pt-BR" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt-BR" class="no-js"> <!--<![endif]-->
 <head>
 	<meta charset="UTF-8">
 	<title>Email Confirmado - MD Frossard</title>
+	<meta name="description" content="Sua assinatura foi confirmada. Veja os próximos passos para acompanhar o conteúdo da MD Frossard Odontologia.">
+	
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>  
-    <meta name="author" content="MD Frossard - https://www.mdfrossard.com.br" /> 
-    <meta name="Publisher" content="MD Frossard - https://www.mdfrossard.com.br" /> 
+    <meta name="author" content="MD Frossard - https://mdfrossard.com.br" /> 
+    <meta name="Publisher" content="MD Frossard - https://mdfrossard.com.br" /> 
     <meta name="keywords" content="implante, ortodontia, odontologia, dentista, saúde, boca, sorriso, dente, aparelho dentário, aparelho ortodôntico, aparelho, mau hálito, halitose, endodontia, tratamento, biossegurança, estética, prevenção e manutenção, escovar destes, escovação, tratamento dentário" />
     <meta name=Googlebot content=all />
     <meta name="robots" content="noindex,follow"/>
@@ -25,7 +27,7 @@ layout: false
     <meta property="og:url" content="/email-confirmado/" />
     <meta property="og:site_name" content="MD Frossard" />
     <meta property="article:publisher" content="https://www.facebook.com/MdFrossardOdontologia/" />
-<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"/","sameAs":["https://www.facebook.com/MdFrossardOdontologia/","https://www.instagram.com/md_frossard_odontologia/"],"@id":"/#organization","name":"MD Frossard Odontologia","logo":"https://www.mdfrossard.com.br/wp-content/uploads/2018/03/logo-MD.jpg"}</script>
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Organization","url":"/","sameAs":["https://www.facebook.com/MdFrossardOdontologia/","https://www.instagram.com/md_frossard_odontologia/"],"@id":"/#organization","name":"MD Frossard Odontologia","logo":"https://mdfrossard.com.br/images/logo-MD.jpg"}</script>
 
 <link rel='dns-prefetch' href='//www.google.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
