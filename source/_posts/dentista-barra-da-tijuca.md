@@ -1,7 +1,7 @@
 ---
 title: 'Dentista na Barra da Tijuca: Clínica MD Frossard'
 author: Davi Heringer Frossard
-description: "Buscando um dentista na Barra da Tijuca? Na MD Frossard Odontologia você encontra atendimento premium, tecnologia de ponta e especialistas dedicados."
+description: "Dentista na Barra da Tijuca há 38 anos. Implantes, facetas e reabilitação oral com 3 especialistas titulados, no Shopping Città América. Agende sua avaliação."
 date: 2014-05-12T11:02:32.000Z
 featured_image: /images/uploads/2024/dentista_barra_da_tijuca_md.webp
 ---
