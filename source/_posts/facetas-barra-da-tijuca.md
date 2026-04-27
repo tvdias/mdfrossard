@@ -32,7 +32,7 @@ Se você está pesquisando **facetas na Barra da Tijuca**, já deve ter percebid
 
 Não existe "a melhor faceta". Existe a faceta certa para o seu caso clínico. Resumindo as três opções mais comuns:
 
-**Faceta de porcelana** — o padrão-ouro para resultado duradouro. Espessura de 0,6 a 0,9 mm, exige desgaste mínimo, dura 10 a 15 anos sem mudar de cor. Indicada para correção de forma, cor e pequenos giros dentais.
+**Faceta de porcelana** — opção de maior durabilidade comprovada. Espessura de 0,6 a 0,9 mm, exige desgaste mínimo, dura 10 a 15 anos sem mudar de cor. Indicada para correção de forma, cor e pequenos giros dentais.
 
 **Lente de contato dental** — uma faceta de porcelana ultrafina (0,2 a 0,5 mm). Em muitos casos, dispensa desgaste. Indicada quando o dente já tem boa forma e cor próxima da desejada — quer-se "polir" o sorriso, não reconstruí-lo. É a opção mais elogiada por pacientes que tinham medo de "estragar o dente original".
 
@@ -90,7 +90,7 @@ Tudo isso é incluso no plano de tratamento apresentado na avaliação inicial: 
 
 Nossa equipe de estética é composta por:
 
-- **[Dr. Marcos Frossard](/equipe/marcos/)** — Especialista em Prótese e Estética (CRO 14445), referência em facetas e reabilitação oral há mais de 30 anos.
+- **[Dr. Marcos Frossard](/equipe/marcos/)** — Especialista em Prótese e Estética (CRO 14445), atuando em facetas e reabilitação oral há mais de 30 anos.
 - **[Dr. Davi Frossard](/equipe/davi/)** — Especialista em Implantodontia (CRO 36193), responsável por casos que combinam implante + faceta.
 - **[Dra. Luciana Peroni](/equipe/luciana/)** — Especialista em Prótese e Endodontia, com olhar atento à integração estética + saúde dental.
 
