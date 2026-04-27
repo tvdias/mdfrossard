@@ -1,16 +1,55 @@
 <script>
+// Gera UUID v4 — usado como event_id para deduplicar fbq client + CAPI server.
+// Fallback simples para browsers antigos sem crypto.randomUUID.
+function mdfUuid() {
+    if (typeof crypto !== 'undefined' && crypto.randomUUID) {
+        return crypto.randomUUID();
+    }
+    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+        var r = Math.random() * 16 | 0;
+        var v = c === 'x' ? r : (r & 0x3 | 0x8);
+        return v.toString(16);
+    });
+}
+
 $jq("#contactform").submit(function(e) {
     e.preventDefault();
     var $form = $jq(this);
     $form.find(":submit").attr("disabled", true);
     $form.find(".ajax-loader").addClass("is-active");
+
+    // Mesmo event_id no browser e no servidor permite à Meta deduplicar.
+    var eventId = mdfUuid();
+
     var data = {
         'name': $form.find("input[name=name]").val(),
         'email': $form.find("input[name=email]").val(),
+        'phone': $form.find("input[name=phone]").val() || $form.find("input[name=telefone]").val() || '',
         'subject': $form.find("input[name=subject]").val(),
         'message': $form.find("textarea[name=message]").val(),
-        'website': $form.find("input[name=website]").val()
+        'website': $form.find("input[name=website]").val(),
+        'event_id': eventId
     };
+
+    // Lead client-side (fbq) — só dispara de fato se o usuário aceitou o consent.
+    // Se ainda não aceitou, fica em fila (graças ao revoke em fb-pixel.ejs)
+    // e libera quando o banner emitir grant.
+    if (typeof fbq === 'function') {
+        fbq('track', 'Lead', {
+            content_name: data.subject ? String(data.subject).slice(0, 100) : 'Formulário Contato',
+            content_category: 'site_form'
+        }, { eventID: eventId });
+    }
+
+    // Espelha como GA4 também — útil para conversion tracking no Google Ads.
+    if (typeof gtag === 'function') {
+        gtag('event', 'generate_lead', {
+            event_category: 'Engagement',
+            event_label: data.subject || 'Contato',
+            lead_source: window.location.pathname
+        });
+    }
+
     return fetch('/api/contact', {
         body: JSON.stringify(data),
         headers: {

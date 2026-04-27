@@ -1,19 +1,37 @@
 <% if (config.fb_pixel){ %>
-<!-- Facebook Pixel Code -->
+<!-- ═══════════════════════════════════════════════════════════
+     Meta Pixel + Meta Consent Mode (LGPD-aware)
+     Carrega o pixel sempre, mas chama fbq('consent','revoke')
+     ANTES do init quando o usuário não consentiu. Eventos ficam
+     em fila e só disparam após consent-banner emitir 'grant'.
+     ═══════════════════════════════════════════════════════════ -->
 <script>
-    !function(f,b,e,v,n,t,s)
-    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+(function(){
+  // 1) Lê o mesmo flag usado pelo Google Consent Mode (consent-default.ejs)
+  var consent = null;
+  try { consent = localStorage.getItem('mdf_consent_v1'); } catch(e) {}
+
+  // 2) Snippet padrão da Meta (carrega fbevents.js de forma assíncrona)
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
     n.callMethod.apply(n,arguments):n.queue.push(arguments)};
     if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
     n.queue=[];t=b.createElement(e);t.async=!0;
     t.src=v;s=b.getElementsByTagName(e)[0];
     s.parentNode.insertBefore(t,s)}(window, document,'script',
-    'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '<%= config.fb_pixel %>');
-    fbq('track', 'PageView');
+  'https://connect.facebook.net/pt_BR/fbevents.js');
+
+  // 3) Se ainda não houve aceite, revoga ANTES do init: eventos são enfileirados,
+  //    nada é enviado para a Meta até consent-banner chamar fbq('consent','grant').
+  if (consent !== 'granted') {
+    fbq('consent', 'revoke');
+  }
+
+  fbq('init', '<%= config.fb_pixel %>');
+  fbq('track', 'PageView');
+})();
 </script>
-<noscript>
-    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=<%= config.fb_pixel %>&ev=PageView&noscript=1" alt=""/>
-</noscript>
-<!-- End Facebook Pixel Code -->
+<!-- noscript pixel intencionalmente omitido: não há como respeitar consent LGPD
+     sem JS, e o tráfego sem JS é desprezível (<0.2%). Se precisar reativar,
+     condicionar a um cookie server-side de consent. -->
 <% } %>

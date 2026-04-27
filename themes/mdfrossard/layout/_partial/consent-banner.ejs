@@ -1,6 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════
      LGPD Consent Banner — partial compartilhado
-     Usa Consent Mode v2 (update event). O default-denied já é
+     Aplica Google Consent Mode v2 (gtag) e Meta Consent Mode
+     (fbq) na mesma decisão do usuário. O default-denied já é
      disparado antes do gtag em consent-default.ejs.
      CSS escopado em .lgpd-* — não colide com estilos das LPs.
      ═══════════════════════════════════════════════════════════ -->
@@ -108,8 +109,9 @@ body.lgpd-visible .whatsapp-fab{
       setTimeout(showBanner, 1200);
     }
   }
-  window.mdfConsent = function(decision){
-    try { localStorage.setItem(KEY, decision); } catch(e) {}
+  // Aplica decisão do usuário ao Google Consent Mode (gtag) e Meta (fbq)
+  function applyConsent(decision){
+    // Google Consent Mode v2
     if (typeof gtag === 'function') {
       if (decision === 'granted') {
         gtag('consent','update',{
@@ -127,20 +129,22 @@ body.lgpd-visible .whatsapp-fab{
         });
       }
     }
+    // Meta Consent Mode (libera/segura a fila do Pixel)
+    if (typeof fbq === 'function') {
+      fbq('consent', decision === 'granted' ? 'grant' : 'revoke');
+    }
+  }
+
+  window.mdfConsent = function(decision){
+    try { localStorage.setItem(KEY, decision); } catch(e) {}
+    applyConsent(decision);
     banner.classList.remove('show');
     document.body.classList.remove('lgpd-visible');
   };
   // Permite revogar consent + reabrir banner a partir da página de privacidade
   window.mdfConsentReopen = function(){
     try { localStorage.removeItem(KEY); } catch(e) {}
-    if (typeof gtag === 'function') {
-      gtag('consent','update',{
-        'ad_storage':'denied',
-        'ad_user_data':'denied',
-        'ad_personalization':'denied',
-        'analytics_storage':'denied'
-      });
-    }
+    applyConsent('denied');
     banner.classList.add('show');
     document.body.classList.add('lgpd-visible');
   };
