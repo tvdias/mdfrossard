@@ -3,8 +3,9 @@
 //
 // Responsabilidades:
 //   1. Roteia /api/track-contact (POST/OPTIONS) → handlers/track-contact
-//   2. Roteia /api/contact       (POST/OPTIONS) → handlers/contact
-//   3. Qualquer outra rota é delegada a env.ASSETS (Static Assets binding),
+//      Único endpoint ativo: recebe beacon dos cliques em WhatsApp/telefone
+//      e dispara evento `Contact` server-side via Meta CAPI.
+//   2. Qualquer outra rota é delegada a env.ASSETS (Static Assets binding),
 //      que serve os arquivos gerados pelo Eleventy em ./public.
 //
 // Bindings esperados (definidos em wrangler.toml):
@@ -13,17 +14,16 @@
 //   env.META_PIXEL_ID       — id do pixel Meta
 //   env.META_CAPI_TOKEN     — access token CAPI
 //   env.META_TEST_EVENT_CODE — opcional, p/ aba "Test Events"
-//   env.SPARKPOST_SECRET    — token SparkPost (form de contato)
-//   env.CONTACT_EMAIL       — destinatário do form
-//   env.SITE_EMAIL_FROM     — opcional, remetente
+//
+// NOTA: O endpoint /api/contact (form de contato + SparkPost) foi removido
+// porque o form não está em uso. Se voltar, restaurar src/api/contact.js
+// do histórico do git e adicionar de volta no ROUTES.
 // ────────────────────────────────────────────────────────────────────────
 
 import * as trackContact from "./api/track-contact.js";
-import * as contact from "./api/contact.js";
 
 const ROUTES = {
   "/api/track-contact": trackContact,
-  "/api/contact": contact,
 };
 
 export default {
