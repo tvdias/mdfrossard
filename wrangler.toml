@@ -4,6 +4,3 @@ pages_build_output_dir = "public"
 
 [vars]
 SITE_URL = "https://mdfrossard.com.br"
-
-[assets]
-directory = "public"
