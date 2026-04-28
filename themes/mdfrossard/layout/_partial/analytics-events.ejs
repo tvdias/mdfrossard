@@ -1,4 +1,4 @@
-<!-- Universal GA4 Contact Tracking -->
+<!-- Universal GA4 Contact Tracking + Meta Pixel + CAPI beacon -->
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     // Função para disparar eventos com segurança
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         var href = anchor.href || '';
         var hasManualTracking = anchor.getAttribute('onclick') && anchor.getAttribute('onclick').includes('gtagSendEvent');
-        
+
         // Se o link já tem rastreamento manual, não interferimos
         if (hasManualTracking) return;
 
@@ -34,8 +34,8 @@ document.addEventListener('DOMContentLoaded', function() {
         if (href.indexOf('api.whatsapp.com') !== -1 || href.indexOf('wa.me') !== -1) {
             e.preventDefault();
             gtagSendEventWhatsapp(href);
-        } 
-        
+        }
+
         // Rastrear Cliques em Telefone automaticamente
         else if (href.indexOf('tel:') === 0) {
             e.preventDefault();
@@ -45,9 +45,52 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-<!-- Google tag (gtag.js) event - delayed navigation helpers -->
-<!-- Gerado pelo Google Ads para garantir envio do evento antes da navegação -->
+<!-- Google tag (gtag.js) event - delayed navigation helpers + Meta CAPI beacon -->
+<!-- Eventos client (fbq) e server (CAPI) compartilham o mesmo event_id para deduplicação. -->
 <script>
+  // UUID v4 (event_id para deduplicação browser ↔ server)
+  function mdfUuidV4() {
+    if (typeof crypto !== 'undefined' && crypto.randomUUID) return crypto.randomUUID();
+    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+      var r = Math.random() * 16 | 0;
+      var v = c === 'x' ? r : (r & 0x3 | 0x8);
+      return v.toString(16);
+    });
+  }
+
+  // Respeita LGPD: só envia para CAPI se o usuário aceitou o consent.
+  function mdfConsentGranted() {
+    try { return localStorage.getItem('mdf_consent_v1') === 'granted'; }
+    catch(e) { return false; }
+  }
+
+  // Envia beacon assíncrono para /api/track-contact.
+  // sendBeacon garante entrega mesmo após unload da página (a navegação WA/tel
+  // dispara em paralelo). Fallback para fetch keepalive se sendBeacon falhar.
+  function mdfBeaconContact(channel, eventId) {
+    if (!mdfConsentGranted()) return;
+    var data = JSON.stringify({
+      event_id: eventId,
+      channel: channel,
+      source_url: window.location.href
+    });
+    try {
+      if (navigator.sendBeacon) {
+        var blob = new Blob([data], { type: 'application/json' });
+        if (navigator.sendBeacon('/api/track-contact', blob)) return;
+      }
+    } catch(e) {}
+    try {
+      fetch('/api/track-contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: data,
+        keepalive: true,
+        credentials: 'same-origin'
+      });
+    } catch(e) {}
+  }
+
   // Helper Universal seguro. Dispara o callback mesmo que o GTM ainda não tenha processado
   function safeExecuteCallback(callback, timeoutMs) {
     var executed = false;
@@ -63,6 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // WhatsApp: aguarda confirmação do evento contato_whatsapp antes de navegar
   function gtagSendEventWhatsapp(url) {
+    var eventId = mdfUuidV4();
     var callback = function () {
       if (typeof url === 'string') {
         window.location = url;
@@ -79,13 +123,15 @@ document.addEventListener('DOMContentLoaded', function() {
       safeCb();
     }
     if (typeof fbq === 'function') {
-      fbq('track', 'Contact');
+      fbq('track', 'Contact', { content_category: 'whatsapp' }, { eventID: eventId });
     }
+    mdfBeaconContact('whatsapp', eventId);
     return false;
   }
 
   // Telefone (GA4): aguarda confirmação do evento contato_telefone antes de navegar
   function gtagSendEventTelefone(url) {
+    var eventId = mdfUuidV4();
     if (typeof gtag === 'function') {
       gtag('event', 'PHT Calls');
     }
@@ -105,12 +151,14 @@ document.addEventListener('DOMContentLoaded', function() {
       safeCb();
     }
     if (typeof fbq === 'function') {
-      fbq('track', 'Contact');
+      fbq('track', 'Contact', { content_category: 'phone' }, { eventID: eventId });
     }
+    mdfBeaconContact('phone', eventId);
     return false;
   }
   // PHT Calls (Google Ads): aguarda confirmação do evento antes de navegar
   function gtagSendEventPHTCalls(url) {
+    var eventId = mdfUuidV4();
     var callback = function () {
       if (typeof url === 'string') {
         window.location = url;
@@ -127,8 +175,9 @@ document.addEventListener('DOMContentLoaded', function() {
       safeCb();
     }
     if (typeof fbq === 'function') {
-      fbq('track', 'Contact');
+      fbq('track', 'Contact', { content_category: 'phone' }, { eventID: eventId });
     }
+    mdfBeaconContact('phone', eventId);
     return false;
   }
 </script>
