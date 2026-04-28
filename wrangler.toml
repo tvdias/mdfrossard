@@ -1,6 +1,27 @@
+# ──────────────────────────────────────────────────────────────────────────
+# Cloudflare Worker (modelo Static Assets, não Pages).
+#
+# • main          → entry point do Worker. Roteia /api/* p/ handlers JS
+#                   e delega o restante a env.ASSETS (estático em ./public).
+# • [assets]      → diretório dos arquivos estáticos gerados pelo Eleventy.
+#   • binding     → expõe env.ASSETS dentro do Worker (env.ASSETS.fetch).
+#   • not_found_handling → "404-page" serve /404.html para rotas inexistentes
+#                          mantendo SEO (resposta 404 real).
+#
+# IMPORTANTE: este projeto NÃO usa Cloudflare Pages. A pasta functions/ é
+# convenção exclusiva de Pages e foi removida — toda a lógica de backend
+# vive em src/worker.js + src/api/*.
+# ──────────────────────────────────────────────────────────────────────────
+
 name = "mdfrossard"
+main = "src/worker.js"
 compatibility_date = "2026-03-24"
-pages_build_output_dir = "public"
+compatibility_flags = ["nodejs_compat"]
 
 [vars]
 SITE_URL = "https://mdfrossard.com.br"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+not_found_handling = "404-page"

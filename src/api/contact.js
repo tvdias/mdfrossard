@@ -1,8 +1,10 @@
-// Cloudflare Pages Function: /api/contact
+// ────────────────────────────────────────────────────────────────────────
+// /api/contact — Worker handler (chamado por src/worker.js)
+//
 // Recebe envio do formulário, dispara email via SparkPost e
 // envia evento `Lead` server-side para a Meta Conversions API (CAPI).
 //
-// Variáveis de ambiente esperadas (Cloudflare Pages → Settings → Env vars):
+// Variáveis de ambiente esperadas (Cloudflare → Settings → Variables):
 //   SPARKPOST_SECRET     — token SparkPost (já existia)
 //   CONTACT_EMAIL        — destinatário do email (já existia)
 //   SITE_EMAIL_FROM      — opcional, remetente
@@ -12,6 +14,7 @@
 //
 // O token CAPI nunca aparece no client. Falha de CAPI não bloqueia
 // o submit — log + ok 200 para não quebrar UX.
+// ────────────────────────────────────────────────────────────────────────
 
 const SPARKPOST_API_URL = "https://api.sparkpost.com/api/v1/transmissions";
 const ALLOWED_ORIGIN = "https://mdfrossard.com.br";
@@ -179,13 +182,11 @@ async function sendMetaCapi({ env, payload, request, eventId }) {
 
 // ── Handlers ─────────────────────────────────────────────────────────────
 
-export async function onRequestOptions() {
+export async function handleOptions() {
   return json({ ok: true });
 }
 
-export async function onRequestPost(context) {
-  const { env, request } = context;
-
+export async function handlePost(request, env, ctx) {
   if (!env.SPARKPOST_SECRET || !env.CONTACT_EMAIL) {
     return json({ message: "Missing SPARKPOST_SECRET or CONTACT_EMAIL." }, 500);
   }
@@ -222,8 +223,8 @@ export async function onRequestPost(context) {
   // CAPI não bloqueia a resposta nem o sucesso do form.
   // waitUntil deixa rodar em background sem segurar a Response.
   const capiPromise = sendMetaCapi({ env, payload, request, eventId });
-  if (context.waitUntil) {
-    context.waitUntil(capiPromise);
+  if (ctx && ctx.waitUntil) {
+    ctx.waitUntil(capiPromise);
   }
 
   return json({ message: "Message sent successfully!", event_id: eventId });

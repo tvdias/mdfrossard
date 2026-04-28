@@ -1,4 +1,6 @@
-// Cloudflare Pages Function: /api/track-contact
+// ────────────────────────────────────────────────────────────────────────
+// /api/track-contact — Worker handler (chamado por src/worker.js)
+//
 // Recebe um beacon enviado pelo browser quando o usuário clica em
 // WhatsApp ou Telefone, e dispara o evento `Contact` server-side
 // para a Meta Conversions API (CAPI). Server-side complementa o
@@ -8,13 +10,14 @@
 // Sem PII: o click não captura email/telefone. Match quality vem
 // dos cookies _fbp/_fbc + IP + UA enviados pelo browser.
 //
-// Variáveis de ambiente esperadas:
+// Variáveis de ambiente esperadas (Cloudflare → Settings → Variables):
 //   META_PIXEL_ID         — ex.: 266409860211711
 //   META_CAPI_TOKEN       — Access Token CAPI (Events Manager)
 //   META_TEST_EVENT_CODE  — opcional, p/ "Eventos de Teste"
 //
 // Falha silenciosa: o beacon é fire-and-forget, qualquer erro
 // retorna 204 sem quebrar a navegação do usuário.
+// ────────────────────────────────────────────────────────────────────────
 
 const META_API_VERSION = "v18.0";
 const ALLOWED_ORIGIN = "https://mdfrossard.com.br";
@@ -37,13 +40,11 @@ function getCookie(cookieHeader, name) {
   return null;
 }
 
-export async function onRequestOptions() {
+export async function handleOptions() {
   return new Response(null, { status: 204, headers: corsHeaders() });
 }
 
-export async function onRequestPost(context) {
-  const { env, request } = context;
-
+export async function handlePost(request, env, ctx) {
   // Sem secrets configurados: silencia em vez de quebrar UX
   if (!env.META_PIXEL_ID || !env.META_CAPI_TOKEN) {
     return new Response(null, { status: 204, headers: corsHeaders() });
@@ -118,8 +119,8 @@ export async function onRequestPost(context) {
       console.log("[CAPI/track-contact] exception:", err && err.message);
     });
 
-  if (context.waitUntil) {
-    context.waitUntil(capiPromise);
+  if (ctx && ctx.waitUntil) {
+    ctx.waitUntil(capiPromise);
   }
 
   // 204 No Content — beacon não precisa de body
