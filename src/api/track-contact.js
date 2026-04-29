@@ -85,6 +85,16 @@ export async function handlePost(request, env, ctx) {
   const channel = ["whatsapp", "phone"].includes(payload.channel) ? payload.channel : "click";
   const sourceUrlClient = typeof payload.source_url === "string" ? payload.source_url.slice(0, 1024) : "";
 
+  // content_category: cluster signal da LP (definido no front-matter).
+  // Sanitização rígida: a-z 0-9 _- até 64 chars. Inválido = ignora.
+  let contentCategory = null;
+  if (typeof payload.content_category === "string") {
+    const candidate = payload.content_category.trim();
+    if (/^[a-z0-9_-]{1,64}$/.test(candidate)) {
+      contentCategory = candidate;
+    }
+  }
+
   // Value-based bidding: aceita value (número) e currency (string ISO 4217).
   // Sanitização rígida: número finito, > 0, ≤ 1.000.000 (sanity cap).
   // Currency aceita apenas 3 letras maiúsculas A-Z. Inválido = ignora.
@@ -134,10 +144,23 @@ export async function handlePost(request, env, ctx) {
     }
   }
 
-  const customData = {
-    content_category: channel,
-    lead_source: "click_cta",
-  };
+  // Semantic refactor: content_category agora carrega o cluster da LP
+  // ('tratamento-implante', 'geo-barra', 'remarketing'…) e content_name
+  // carrega o canal de contato ('whatsapp'/'phone'). Isso libera
+  // content_category pra ser sinal de cluster (alinhado com PageView e fbq
+  // do browser), enquanto preservamos a dimensão de canal em content_name.
+  // Se a LP não definir content_category, mantém comportamento antigo
+  // (channel em content_category) pra não perder o sinal de canal.
+  const customData = contentCategory
+    ? {
+        content_category: contentCategory,
+        content_name: channel,
+        lead_source: "click_cta",
+      }
+    : {
+        content_category: channel,
+        lead_source: "click_cta",
+      };
   // Inclui value/currency apenas se enviados pelo browser (LP definiu contact_value).
   // Páginas sem contact_value mantêm o comportamento anterior (Contact sem valor).
   if (contactValue != null) {

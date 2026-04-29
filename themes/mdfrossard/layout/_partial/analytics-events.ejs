@@ -5,6 +5,9 @@
 <% if (typeof page !== 'undefined' && page.contact_value) { %>
 <script>window.MDF_CONTACT_VALUE = <%= page.contact_value %>; window.MDF_CONTACT_CURRENCY = 'BRL';</script>
 <% } %>
+<% if (typeof page !== 'undefined' && page.content_category) { %>
+<script>window.MDF_CONTENT_CATEGORY = '<%= page.content_category %>';</script>
+<% } %>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -83,6 +86,18 @@ document.addEventListener('DOMContentLoaded', function() {
     };
   }
 
+  // Categoria de conteúdo definida pelo front-matter (MDF_CONTENT_CATEGORY).
+  // Funciona como cluster signal pra Meta + Google: agrupa LPs por intent
+  // ('tratamento-implante', 'geo-barra', 'remarketing', etc.) — algoritmos
+  // aprendem a otimizar por afinidade de cluster mesmo sob restrição de
+  // categoria "Saúde". Sanitização: aceita apenas a-z0-9-_, máx 64 chars.
+  function mdfContentCategory() {
+    var c = window.MDF_CONTENT_CATEGORY;
+    if (typeof c !== 'string' || !c) return null;
+    if (!/^[a-z0-9_-]{1,64}$/.test(c)) return null;
+    return c;
+  }
+
   // External ID estável por browser — Advanced Matching para CAPI.
   // Persistido em localStorage (mais durável que cookies sob iOS Safari ITP).
   // LGPD: gerado APENAS após consent='granted'. Hashed server-side antes
@@ -116,6 +131,8 @@ document.addEventListener('DOMContentLoaded', function() {
     if (v) { payload.value = v.value; payload.currency = v.currency; }
     var eid = mdfExternalId();
     if (eid) { payload.external_id = eid; }
+    var cat = mdfContentCategory();
+    if (cat) { payload.content_category = cat; }
     var data = JSON.stringify(payload);
     try {
       if (navigator.sendBeacon) {
@@ -151,6 +168,7 @@ document.addEventListener('DOMContentLoaded', function() {
   function gtagSendEventWhatsapp(url) {
     var eventId = mdfUuidV4();
     var v = mdfContactValue();
+    var cat = mdfContentCategory();
     var callback = function () {
       if (typeof url === 'string') {
         window.location = url;
@@ -164,12 +182,19 @@ document.addEventListener('DOMContentLoaded', function() {
         'event_timeout': 2000
       };
       if (v) { gtagParams.value = v.value; gtagParams.currency = v.currency; }
+      // content_category vai como custom dimension pro GA4 — útil pra
+      // segmentar conversões por LP cluster sem criar evento por categoria.
+      if (cat) { gtagParams.content_category = cat; }
       gtag('event', 'contato_whatsapp', gtagParams);
     } else {
       safeCb();
     }
     if (typeof fbq === 'function') {
-      var fbqParams = { content_category: 'whatsapp' };
+      // content_category = LP cluster (cluster signal pra Meta);
+      // content_name = canal de contato ('whatsapp'/'phone') — preserva
+      // a dimensão que antes era enviada como content_category.
+      var fbqParams = { content_name: 'whatsapp' };
+      if (cat) { fbqParams.content_category = cat; }
       if (v) { fbqParams.value = v.value; fbqParams.currency = v.currency; }
       fbq('track', 'Contact', fbqParams, { eventID: eventId });
     }
@@ -181,6 +206,7 @@ document.addEventListener('DOMContentLoaded', function() {
   function gtagSendEventTelefone(url) {
     var eventId = mdfUuidV4();
     var v = mdfContactValue();
+    var cat = mdfContentCategory();
     if (typeof gtag === 'function') {
       gtag('event', 'PHT Calls');
     }
@@ -197,12 +223,14 @@ document.addEventListener('DOMContentLoaded', function() {
         'event_timeout': 2000
       };
       if (v) { gtagParams.value = v.value; gtagParams.currency = v.currency; }
+      if (cat) { gtagParams.content_category = cat; }
       gtag('event', 'contato_telefone', gtagParams);
     } else {
       safeCb();
     }
     if (typeof fbq === 'function') {
-      var fbqParams = { content_category: 'phone' };
+      var fbqParams = { content_name: 'phone' };
+      if (cat) { fbqParams.content_category = cat; }
       if (v) { fbqParams.value = v.value; fbqParams.currency = v.currency; }
       fbq('track', 'Contact', fbqParams, { eventID: eventId });
     }

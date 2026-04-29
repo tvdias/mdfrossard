@@ -28,7 +28,15 @@
   }
 
   fbq('init', '<%= config.fb_pixel %>');
+<% if (typeof page !== 'undefined' && page.content_category) { %>
+  // content_category serve como sinal de cluster pra otimização Meta:
+  // o algoritmo aprende a perfilar visitantes por categoria de página
+  // (tratamento-implante, geo-barra, remarketing, etc.) e usa isso
+  // pra encontrar audiências similares mesmo sob restrição de "Saúde".
+  fbq('track', 'PageView', { content_category: '<%= page.content_category %>' });
+<% } else { %>
   fbq('track', 'PageView');
+<% } %>
 })();
 </script>
 <!-- noscript pixel intencionalmente omitido: não há como respeitar consent LGPD
