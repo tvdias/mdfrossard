@@ -10,6 +10,11 @@
 // Sem PII: o click não captura email/telefone. Match quality vem
 // dos cookies _fbp/_fbc + IP + UA enviados pelo browser.
 //
+// Value-based bidding: o beacon pode incluir { value, currency } quando
+// a LP define `contact_value` no front-matter. Sanitização rígida no
+// handler (cap 1MM, currency ISO-4217). Sem value, evento Contact é
+// enviado sem valor monetário (comportamento legado preservado).
+//
 // Variáveis de ambiente esperadas (Cloudflare → Settings → Variables):
 //   META_PIXEL_ID         — ex.: 266409860211711
 //   META_CAPI_TOKEN       — Access Token CAPI (Events Manager)
@@ -65,6 +70,18 @@ export async function handlePost(request, env, ctx) {
   const channel = ["whatsapp", "phone"].includes(payload.channel) ? payload.channel : "click";
   const sourceUrlClient = typeof payload.source_url === "string" ? payload.source_url.slice(0, 1024) : "";
 
+  // Value-based bidding: aceita value (número) e currency (string ISO 4217).
+  // Sanitização rígida: número finito, > 0, ≤ 1.000.000 (sanity cap).
+  // Currency aceita apenas 3 letras maiúsculas A-Z. Inválido = ignora.
+  let contactValue = null;
+  let contactCurrency = null;
+  const rawValue = Number(payload.value);
+  if (Number.isFinite(rawValue) && rawValue > 0 && rawValue <= 1_000_000) {
+    contactValue = rawValue;
+    const rawCurrency = typeof payload.currency === "string" ? payload.currency.toUpperCase() : "";
+    contactCurrency = /^[A-Z]{3}$/.test(rawCurrency) ? rawCurrency : "BRL";
+  }
+
   const cookieHeader = request.headers.get("cookie") || "";
   const fbp = getCookie(cookieHeader, "_fbp");
   const fbc = getCookie(cookieHeader, "_fbc");
@@ -82,6 +99,17 @@ export async function handlePost(request, env, ctx) {
   if (ipAddr) userData.client_ip_address = ipAddr;
   if (userAgent) userData.client_user_agent = userAgent;
 
+  const customData = {
+    content_category: channel,
+    lead_source: "click_cta",
+  };
+  // Inclui value/currency apenas se enviados pelo browser (LP definiu contact_value).
+  // Páginas sem contact_value mantêm o comportamento anterior (Contact sem valor).
+  if (contactValue != null) {
+    customData.value = contactValue;
+    customData.currency = contactCurrency;
+  }
+
   const body = {
     data: [
       {
@@ -91,10 +119,7 @@ export async function handlePost(request, env, ctx) {
         action_source: "website",
         event_source_url: referer,
         user_data: userData,
-        custom_data: {
-          content_category: channel,
-          lead_source: "click_cta",
-        },
+        custom_data: customData,
       },
     ],
   };

@@ -1,4 +1,11 @@
 <!-- Universal GA4 Contact Tracking + Meta Pixel + CAPI beacon -->
+<!-- Valor da conversão atribuído por LP via front-matter `contact_value`.
+     Páginas sem contact_value não enviam value/currency (Meta/Google contam
+     a conversão sem valor monetário, comportamento idêntico ao anterior). -->
+<% if (typeof page !== 'undefined' && page.contact_value) { %>
+<script>window.MDF_CONTACT_VALUE = <%= page.contact_value %>; window.MDF_CONTACT_CURRENCY = 'BRL';</script>
+<% } %>
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     // Função para disparar eventos com segurança
@@ -47,6 +54,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <!-- Google tag (gtag.js) event - delayed navigation helpers + Meta CAPI beacon -->
 <!-- Eventos client (fbq) e server (CAPI) compartilham o mesmo event_id para deduplicação. -->
+<!-- Value-based bidding: lê window.MDF_CONTACT_VALUE (definido por LP via front-matter)
+     e propaga para gtag (Google Ads/GA4), fbq (Meta Pixel) e beacon CAPI. -->
 <script>
   // UUID v4 (event_id para deduplicação browser ↔ server)
   function mdfUuidV4() {
@@ -64,16 +73,29 @@ document.addEventListener('DOMContentLoaded', function() {
     catch(e) { return false; }
   }
 
+  // Lê valor de conversão da página (definido em window.MDF_CONTACT_VALUE pelo
+  // front-matter da LP). Retorna { value, currency } ou null se não definido.
+  function mdfContactValue() {
+    if (typeof window.MDF_CONTACT_VALUE !== 'number' || !window.MDF_CONTACT_VALUE) return null;
+    return {
+      value: window.MDF_CONTACT_VALUE,
+      currency: window.MDF_CONTACT_CURRENCY || 'BRL'
+    };
+  }
+
   // Envia beacon assíncrono para /api/track-contact.
   // sendBeacon garante entrega mesmo após unload da página (a navegação WA/tel
   // dispara em paralelo). Fallback para fetch keepalive se sendBeacon falhar.
   function mdfBeaconContact(channel, eventId) {
     if (!mdfConsentGranted()) return;
-    var data = JSON.stringify({
+    var payload = {
       event_id: eventId,
       channel: channel,
       source_url: window.location.href
-    });
+    };
+    var v = mdfContactValue();
+    if (v) { payload.value = v.value; payload.currency = v.currency; }
+    var data = JSON.stringify(payload);
     try {
       if (navigator.sendBeacon) {
         var blob = new Blob([data], { type: 'application/json' });
@@ -107,6 +129,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // WhatsApp: aguarda confirmação do evento contato_whatsapp antes de navegar
   function gtagSendEventWhatsapp(url) {
     var eventId = mdfUuidV4();
+    var v = mdfContactValue();
     var callback = function () {
       if (typeof url === 'string') {
         window.location = url;
@@ -114,16 +137,20 @@ document.addEventListener('DOMContentLoaded', function() {
     };
     var safeCb = safeExecuteCallback(callback, 2000);
     if (typeof gtag === 'function') {
-      gtag('event', 'contato_whatsapp', {
+      var gtagParams = {
         'event_category': 'Engagement',
         'event_callback': safeCb,
         'event_timeout': 2000
-      });
+      };
+      if (v) { gtagParams.value = v.value; gtagParams.currency = v.currency; }
+      gtag('event', 'contato_whatsapp', gtagParams);
     } else {
       safeCb();
     }
     if (typeof fbq === 'function') {
-      fbq('track', 'Contact', { content_category: 'whatsapp' }, { eventID: eventId });
+      var fbqParams = { content_category: 'whatsapp' };
+      if (v) { fbqParams.value = v.value; fbqParams.currency = v.currency; }
+      fbq('track', 'Contact', fbqParams, { eventID: eventId });
     }
     mdfBeaconContact('whatsapp', eventId);
     return false;
@@ -132,6 +159,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Telefone (GA4): aguarda confirmação do evento contato_telefone antes de navegar
   function gtagSendEventTelefone(url) {
     var eventId = mdfUuidV4();
+    var v = mdfContactValue();
     if (typeof gtag === 'function') {
       gtag('event', 'PHT Calls');
     }
@@ -142,16 +170,20 @@ document.addEventListener('DOMContentLoaded', function() {
     };
     var safeCb = safeExecuteCallback(callback, 2000);
     if (typeof gtag === 'function') {
-      gtag('event', 'contato_telefone', {
+      var gtagParams = {
         'event_category': 'Engagement',
         'event_callback': safeCb,
         'event_timeout': 2000
-      });
+      };
+      if (v) { gtagParams.value = v.value; gtagParams.currency = v.currency; }
+      gtag('event', 'contato_telefone', gtagParams);
     } else {
       safeCb();
     }
     if (typeof fbq === 'function') {
-      fbq('track', 'Contact', { content_category: 'phone' }, { eventID: eventId });
+      var fbqParams = { content_category: 'phone' };
+      if (v) { fbqParams.value = v.value; fbqParams.currency = v.currency; }
+      fbq('track', 'Contact', fbqParams, { eventID: eventId });
     }
     mdfBeaconContact('phone', eventId);
     return false;
