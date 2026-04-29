@@ -20,10 +20,6 @@ compatibility_flags = ["nodejs_compat"]
 
 [vars]
 SITE_URL = "https://mdfrossard.com.br"
-# Diagnóstico CAPI — eventos enviados aparecem na aba "Eventos de Teste" do
-# Events Manager (Pixel 266409860211711) com este code. REMOVER após testar
-# para que eventos voltem ao fluxo de produção normal.
-META_TEST_EVENT_CODE = "TEST89756"
 
 [assets]
 directory = "./public"
