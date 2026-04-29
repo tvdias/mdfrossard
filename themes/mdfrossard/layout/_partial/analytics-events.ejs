@@ -83,6 +83,25 @@ document.addEventListener('DOMContentLoaded', function() {
     };
   }
 
+  // External ID estável por browser — Advanced Matching para CAPI.
+  // Persistido em localStorage (mais durável que cookies sob iOS Safari ITP).
+  // LGPD: gerado APENAS após consent='granted'. Hashed server-side antes
+  // de ir pra Meta CAPI; valor bruto nunca sai do browser.
+  function mdfExternalId() {
+    if (!mdfConsentGranted()) return null;
+    try {
+      var key = 'mdf_eid_v1';
+      var id = localStorage.getItem(key);
+      if (!id) {
+        id = (typeof crypto !== 'undefined' && crypto.randomUUID)
+          ? crypto.randomUUID()
+          : (Date.now() + '-' + Math.random().toString(36).slice(2, 12));
+        localStorage.setItem(key, id);
+      }
+      return id;
+    } catch(e) { return null; }
+  }
+
   // Envia beacon assíncrono para /api/track-contact.
   // sendBeacon garante entrega mesmo após unload da página (a navegação WA/tel
   // dispara em paralelo). Fallback para fetch keepalive se sendBeacon falhar.
@@ -95,6 +114,8 @@ document.addEventListener('DOMContentLoaded', function() {
     };
     var v = mdfContactValue();
     if (v) { payload.value = v.value; payload.currency = v.currency; }
+    var eid = mdfExternalId();
+    if (eid) { payload.external_id = eid; }
     var data = JSON.stringify(payload);
     try {
       if (navigator.sendBeacon) {

@@ -15,6 +15,12 @@
 // handler (cap 1MM, currency ISO-4217). Sem value, evento Contact é
 // enviado sem valor monetário (comportamento legado preservado).
 //
+// Advanced Matching: o beacon pode incluir { external_id } (UUID gerado
+// client-side, persistido em localStorage com consent). Worker hasheia
+// com SHA-256 antes de incluir em user_data — Meta CAPI exige hash
+// para qualquer PII identificadora. Melhora match quality em iOS Safari
+// (cookies expiram em 7d via ITP) e em browsers com adblocker.
+//
 // Variáveis de ambiente esperadas (Cloudflare → Settings → Variables):
 //   META_PIXEL_ID         — ex.: 266409860211711
 //   META_CAPI_TOKEN       — Access Token CAPI (Events Manager)
@@ -43,6 +49,15 @@ function getCookie(cookieHeader, name) {
     if (k === name) return decodeURIComponent(v.join("="));
   }
   return null;
+}
+
+// SHA-256 hex — Meta CAPI exige user_data hashed (exceto fbp/fbc/IP/UA).
+// Usa Web Crypto API nativa do Cloudflare Workers runtime.
+async function sha256Hex(input) {
+  const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(input));
+  return Array.from(new Uint8Array(buf))
+    .map((b) => b.toString(16).padStart(2, "0"))
+    .join("");
 }
 
 export async function handleOptions() {
@@ -82,6 +97,17 @@ export async function handlePost(request, env, ctx) {
     contactCurrency = /^[A-Z]{3}$/.test(rawCurrency) ? rawCurrency : "BRL";
   }
 
+  // Advanced Matching: External ID estável (UUID gerado client-side com consent).
+  // Sanitização: 8-128 caracteres, [A-Za-z0-9-_]. Inválido = ignora silenciosamente.
+  // Hashed server-side antes de enviar ao Meta CAPI (PII policy).
+  let externalIdRaw = null;
+  if (typeof payload.external_id === "string") {
+    const candidate = payload.external_id.trim();
+    if (/^[A-Za-z0-9_-]{8,128}$/.test(candidate)) {
+      externalIdRaw = candidate;
+    }
+  }
+
   const cookieHeader = request.headers.get("cookie") || "";
   const fbp = getCookie(cookieHeader, "_fbp");
   const fbc = getCookie(cookieHeader, "_fbc");
@@ -98,6 +124,15 @@ export async function handlePost(request, env, ctx) {
   if (fbc) userData.fbc = fbc;
   if (ipAddr) userData.client_ip_address = ipAddr;
   if (userAgent) userData.client_user_agent = userAgent;
+  // External ID: Meta CAPI requer SHA-256 hex em lowercase
+  if (externalIdRaw) {
+    try {
+      userData.external_id = await sha256Hex(externalIdRaw);
+    } catch (e) {
+      // Falha no hash não pode quebrar o evento; segue sem external_id
+      console.log("[CAPI/track-contact] sha256 failed:", e && e.message);
+    }
+  }
 
   const customData = {
     content_category: channel,
