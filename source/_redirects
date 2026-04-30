@@ -16,3 +16,7 @@
 /pos-operatorio-apos-uma-extracao-de-dente/ /extracao-de-dente/ 301
 /infografico-5-razoes-para-usar-faceta-de-porcelana/ /lente-de-contato-dental/ 301
 /biosseguranca/ /estrutura/ 302
+
+# Páginas removidas (deprecated, redirecionam pra home)
+/email-confirmado/ / 301
+/landing-page-mancha-no-dente/ / 301

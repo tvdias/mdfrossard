@@ -20,7 +20,7 @@ Ao longo do tempo, se você não limpar a língua, toda aquela "sujeira" vai acu
 
 ## Quais o problema de ter a língua branca?
 
-![Lingua Branca](/images/2a2f13bc-5f9c-40a3-b8f7-787b190180bb_cárie-dentária.webp)
+![Lingua Branca](/images/2a2f13bc-5f9c-40a3-b8f7-787b190180bb_carie-dentaria.webp)
 
 E qual o grande problema disso? Se você pensou no mau hálito, está correto. Esse acúmulo de bactérias pode causar um cheiro forte na nossa boca. Alias, muitos pacientes chegam na nossa clínica com o problema do mau hálito. Em muitos casos, basta realizar uma melhor higiene dos dentes e língua que esse problema melhora bastante. 
 
@@ -32,7 +32,7 @@ Com o raspador ou a escova, você deve fazer o movimento vindo da parte de trás
 
 ## Outras causas?
 
-![Lingua Branca outras causas](/images/9186d3d6-f83d-4f1a-a5ad-197ae4571ce9_escovação-dos-dentes.webp) 
+![Lingua Branca outras causas](/images/9186d3d6-f83d-4f1a-a5ad-197ae4571ce9_escovacao-dos-dentes.webp) 
 
 Porém, mesmo que a falta de higienização possa ser a principal causa da língua ficar branca, ela não é a única. Existem algumas outras condições ou doenças que podem causar isso. 
 

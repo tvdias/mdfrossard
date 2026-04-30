@@ -4,7 +4,7 @@ description: >-
  Será que a saúde bucal do brasileiro é boa? Usando a pesquisa e o texto
  publicado na revista veja, vamos ver qual a conclusão chegamos.
 date: 2015-01-05T13:53:29.000Z
-featured_image: /images/d7bb809c-09fe-48be-8f79-f419ee13e5d4_Saúde-bucal.webp
+featured_image: /images/d7bb809c-09fe-48be-8f79-f419ee13e5d4_Saude-bucal.webp
 ---
 
 Em recente reportagem da [revista Veja](https://veja.abril.com.br), podemos comprovar o que já vemos no dia a dia sobre a saúde bucal dos brasileiros. 
@@ -38,7 +38,7 @@ Digo isso pois indo ao dentista regularmente, podemos identificar problemas na f
 
 Além disso, o tratamento se torna mais barato e rápido. {% post_link check-up-digital-preventivo-dos-dentes "Confira aqui" %} . 
 
-[![Revista Veja saúde bucal](/images/d450f2d1-34ec-4647-8494-db9293844f5e_Revista-Veja-saúde-bucal.webp)]
+[![Revista Veja saúde bucal](/images/d450f2d1-34ec-4647-8494-db9293844f5e_Revista-Veja-saude-bucal.webp)]
 
 Outros dois pontos que devem ser analisados com cuidado são os 38% que não usam o fio dental e os 23% que não escovam os dentes antes de dormir. 
 

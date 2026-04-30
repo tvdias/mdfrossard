@@ -2,7 +2,7 @@
 title: 'Reabilitação Oral: O que É e Como Recuperar o Sorriso'
 description: "A reabilitação oral é o segredo para transformar dentes desgastados ou perdidos em um sorriso saudável e funcional. Entenda como funciona esse tratamento."
 date: 2016-01-18T16:47:43.000Z
-featured_image: /images/c2e56fd2-452b-4577-a282-1d3636097725_reabilitação-oral.webp
+featured_image: /images/c2e56fd2-452b-4577-a282-1d3636097725_reabilitacao-oral.webp
 ---
 
 Com o passar dos anos, é comum passarmos por diversos {% post_link tratamento-dentario "tratamentos dentários" %} isolados — uma restauração aqui, um canal ali, ou até a perda de um dente que nunca foi reposto. 
@@ -31,7 +31,7 @@ Diferente de um tratamento pontual, a **Reabilitação Oral** é um planejamento
 2.  **Estética:** Quando o foco é rejuvenescer o sorriso, corrigindo dentes pequenos, amarelados ou com a {% post_link gengiva-sangrando "saúde gengival" %} comprometida.
 
 ## Como funciona o processo na MD Frossard?
-![Planejamento de reabilitação dos dentes](/images/4600868e-5918-4fc5-af50-58508b12afea_reabilitação-dos-dentes.webp) 
+![Planejamento de reabilitação dos dentes](/images/4600868e-5918-4fc5-af50-58508b12afea_reabilitacao-dos-dentes.webp) 
 
 Por ser um procedimento complexo, a reabilitação exige um diagnóstico meticuloso. Não começamos nenhum tratamento sem antes "desenhar" o resultado final:
 
@@ -53,7 +53,7 @@ Para reconstruir um sorriso de forma definitiva, geralmente integramos:
 *   **Ortodontia:** Alinhar dentes para que a reabilitação seja estável a longo prazo.
 
 ## Quanto tempo demora o tratamento?
-![Resultado de reabilitação oral](/images/c2df1b99-aed9-4ecf-97b2-07bcced39cad_reablitação-dentária.webp) 
+![Resultado de reabilitação oral](/images/c2df1b99-aed9-4ecf-97b2-07bcced39cad_reablitacao-dentaria.webp) 
 
 Cada caso é único. A duração depende de três pilares: o tempo técnico de cada procedimento, a resposta biológica do seu corpo (cicatrização) e a sua frequência nas consultas. O importante é saber que **o resultado final é um investimento para a vida toda.**
 

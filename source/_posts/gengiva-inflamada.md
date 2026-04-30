@@ -17,7 +17,7 @@ A resposta pode te surpreender. É sobre isso que vamos discutir nesse texto. Le
 
 ## Causas da gengiva inflamada
 
-![Gengiva inflamada](/images/5114fb31-efc7-453b-9806-02a724f5af0c_inflamação-gengiva.webp) 
+![Gengiva inflamada](/images/5114fb31-efc7-453b-9806-02a724f5af0c_inflamacao-gengiva.webp) 
 
 Antes de conversar sobre o tratamento, precisamos falar sobre a causa. 
 
@@ -51,7 +51,7 @@ Um segundo nível se chama de **[periodontite](/tratamentos/periodontia/)**, qua
 
 ## Tratamento eficaz da gengiva inflamada
 
-![escovação gengiva inflamada](/images/4afc0ed6-f885-4e07-86ea-32eadcbf100e_gengiva-inflamada-escovação.webp) 
+![escovação gengiva inflamada](/images/4afc0ed6-f885-4e07-86ea-32eadcbf100e_gengiva-inflamada-escovacao.webp) 
 
 Qual o segredo para se ter a gengiva saudável? 
 

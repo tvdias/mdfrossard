@@ -41,7 +41,7 @@ Quando uma bactéria agressiva ataca esse nervo, ele responde imediatamente inch
 
 ## Remédios e Antibióticos Ajudam de Verdade?
 
-![Medicação extração de dente](/images/83ac7390-8198-4236-9442-73a7cee9ecd9_medicação-extração-de-dente.webp) 
+![Medicação extração de dente](/images/83ac7390-8198-4236-9442-73a7cee9ecd9_medicacao-extracao-de-dente.webp) 
 
 Muitas pessoas chegam à clínica dopadas dizendo que a dor piorou, pois acreditaram que apenas um forte analgésico da farmácia seria suficiente. Entenda isso rapidamente: o remédio oral nunca agirá lá dentro da polpa bloqueada!
 
@@ -88,7 +88,7 @@ Especialmente comum nas dezenas de jovens estudantes do Rio de Janeiro. Nascer o
 
 ## Você Precisa do Dentista Para Ontem?
 
-[![Radiografia avaliando raiz](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.webp)](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.webp) 
+[![Radiografia avaliando raiz](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliacao-dor-de-dente.webp)](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliacao-dor-de-dente.webp) 
 
 Além das três causas, não perca tempo buscando na internet para dores oriundas de:
 

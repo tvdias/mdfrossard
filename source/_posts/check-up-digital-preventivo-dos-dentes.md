@@ -24,7 +24,7 @@ Se não fosse a prevenção, quantas pessoas já teriam morrido de [câncer de m
 
 O cuidado anual ou semestral com a saúde é essencial para todos e deve ser uma obrigação, nós temos que parar com a preguiça e realizar o check up seguindo as orientações dos médicos. 
 
-[![avaliação dor de dente](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.webp)](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.webp) 
+[![avaliação dor de dente](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliacao-dor-de-dente.webp)](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliacao-dor-de-dente.webp) 
 
 Agora, voltando para o universo da odontologia, será que isso é feito pelos pacientes? 
 

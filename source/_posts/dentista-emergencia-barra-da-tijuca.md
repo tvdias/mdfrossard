@@ -3,7 +3,7 @@ title: "Dentista de Emergência na Barra da Tijuca: Guia Rápido"
 author: Davi Heringer Frossard
 description: "Dentista de emergência na Barra da Tijuca: o que fazer em caso de dor, trauma ou dente quebrado. Atendimento de urgência na MD Frossard, Shopping Città América."
 date: 2026-04-22T11:00:00.000Z
-featured_image: /images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.webp
+featured_image: /images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliacao-dor-de-dente.webp
 category: Urgência
 faqs:
   - question: O que é considerado uma emergência odontológica?
@@ -46,7 +46,7 @@ Mais comum em quedas, acidentes esportivos, brigas. **A janela de ouro são 30 m
 
 Pancada que quebrou parte do dente. **O que fazer:** se houve sangramento, lave a boca com água fria; se há um pedaço solto, guarde em leite. **No consultório:** avaliamos se a fratura atingiu o nervo (caso atinja, é necessário canal antes de restaurar) ou se podemos restaurar diretamente. Em fraturas estéticas (dentes da frente), priorizamos um provisório bonito no mesmo dia.
 
-![paciente avaliação dor de dente](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliação-dor-de-dente.webp)
+![paciente avaliação dor de dente](/images/2b4aec35-0f7f-431d-8858-3e361802b28f_avaliacao-dor-de-dente.webp)
 
 ### 4. Inchaço e abscesso
 

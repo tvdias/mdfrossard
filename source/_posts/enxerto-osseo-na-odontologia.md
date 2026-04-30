@@ -4,7 +4,7 @@ description: >-
  Veja tudo sobre o enxerto ósseo usado na odontologia. Existem diferentes tipos
  e eles são usados principalmente na área de implantes dentais.
 date: 2017-12-04T09:00:03.000Z
-featured_image: /images/b3a03403-589f-4312-90ad-9bce2d4a86a6_enxerto-ósseo.webp
+featured_image: /images/b3a03403-589f-4312-90ad-9bce2d4a86a6_enxerto-osseo.webp
 ---
 Um dos grandes questionamentos que recebo em nosso blog é sobre a {% post_link perda-ossea-dentaria "perda óssea" %} e o enxerto ósseo necessário para corrigi-la. 
 

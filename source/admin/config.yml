@@ -105,18 +105,6 @@ collections:
           - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
           - {label: "Body", name: "body", widget: "markdown"}
 
-      - label: "Landing page: Mancha no dente"
-        name: "landing-page-mancha-no-dente"
-        file: "source/landing-page-mancha-no-dente/index.md"
-        fields:
-          - {label: "ID", name: id, widget: string, required: false}
-          - {label: "Title", name: title, widget: string}
-          - {label: "Description", name: description, widget: string}
-          - {label: "Layout", name: "layout", widget: "hidden", required: false}
-          - {label: "Active Menu", name: "active_menu", widget: "select", default: "", options: ['', 'home', 'sobre', 'tratamentos', 'localizacao', 'contato'], required: false}
-          - {label: "Hide Title", name: "hide_title", widget: boolean, required: false}
-          - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
-          - {label: "Body", name: "body", widget: "markdown"}
       - label: "Localização"
         name: "localizacao"
         file: "source/localizacao/index.md"

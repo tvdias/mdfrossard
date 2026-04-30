@@ -28,7 +28,7 @@ Apesar da **Ortodontia** ser um assunto popular, muitas dúvidas ainda cercam o 
 
 ## 7 Dúvidas Frequentes sobre Aparelho Ortodôntico
 
-[![Sorriso com aparelho ortodôntico](/images/1b161a6c-726c-432e-8942-8c074a90535f_aparelho-dentário-sorriso.webp)](/images/1b161a6c-726c-432e-8942-8c074a90535f_aparelho-dentário-sorriso.webp)
+[![Sorriso com aparelho ortodôntico](/images/1b161a6c-726c-432e-8942-8c074a90535f_aparelho-dentario-sorriso.webp)](/images/1b161a6c-726c-432e-8942-8c074a90535f_aparelho-dentario-sorriso.webp)
 
 ### 1) Adultos podem usar Aparelho Ortodôntico?
 **Com certeza.** O mito de que aparelhos são apenas para adolescentes ficou no passado. O tratamento em adultos é uma das maiores demandas atuais, focando em saúde articular e estética para o ambiente profissional.

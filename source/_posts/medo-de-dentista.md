@@ -24,7 +24,7 @@ Para cada causa existe uma forma de abordagem diferente pelo cirurgião dentista
 
 ## Medo de dentista em crianças
 
-[![medo de dentista e as crianças](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-crianças.webp)](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-crianças.webp) 
+[![medo de dentista e as crianças](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-criancas.webp)](/images/834522cd-fce5-4f34-92bd-1fcefddc56ad_medo-de-dentista-e-as-criancas.webp) 
 
 Dentro deste quadro, sabemos que o ser humano muitas das vezes desenvolve o estado de medo para as situações que não conhece e por isso tem receio de seguir adiante. 
 

@@ -4,7 +4,7 @@ description: >-
  Saiba tudo e tire suas dúvidas sobre a instalação de implante dentário no Rio
  de Janeiro com segurança. O tratamento com implantes devolve a sua mastigação.
 date: 2016-01-20T15:56:33.000Z
-featured_image: /images/b340818e-20e6-4587-a475-becbd9e34f97_Implante-dentário-RJ-1.webp
+featured_image: /images/b340818e-20e6-4587-a475-becbd9e34f97_Implante-dentario-RJ-1.webp
 ---
 
 Infelizmente, perder o elemento dentário ainda pode acontecer, devido a traumas, {% post_link como-evitar-a-carie-dentaria "cárie" %}/ ou [doença periodontal](/tratamentos/periodontia/). 
@@ -25,7 +25,7 @@ Pois bem, o implante dentário pode e deve substituir o dente ausente por outro 
 
 ## Implante dentário como solução
 
-![implante dentário no rio de janeiro](/images/cbb4bfad-1621-4550-9056-921841c114df_implante-dentário-rio-de-janeiro.webp) 
+![implante dentário no rio de janeiro](/images/cbb4bfad-1621-4550-9056-921841c114df_implante-dentario-rio-de-janeiro.webp) 
 
 Estou me referindo a cidade do Rio de Janeiro, pois é onde nossas clínicas estão localizadas. Nesse caso, nosso atendimento é realizado na clínica localizada no bairro de Botafogo e também na Barra da Tijuca. 
 

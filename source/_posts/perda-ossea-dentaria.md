@@ -43,7 +43,7 @@ Dependendo do grau de perda de osso, dificilmente conseguiremos ter a formação
 
 ## **Dificuldades de pacientes com perda óssea**
 
-[![perda óssea dentária](/images/40df2365-6e1c-4a76-9249-7cc9b53e97e2_Perda-óssea-dentária.webp)](/images/40df2365-6e1c-4a76-9249-7cc9b53e97e2_Perda-óssea-dentária.webp)                                         
+[![perda óssea dentária](/images/40df2365-6e1c-4a76-9249-7cc9b53e97e2_Perda-ossea-dentaria.webp)](/images/40df2365-6e1c-4a76-9249-7cc9b53e97e2_Perda-ossea-dentaria.webp)                                         
 
 **Evolução da doença periodontal e a perda óssea                                      **
 
@@ -65,7 +65,7 @@ Já o mau hálito é um fator característico da periodontite.
 
 ## **Tratamento da perda óssea dentário**
 
-![perda óssea dentária - escovação](/images/6872f42c-033d-420c-9506-8956a66e75b5_Perda-óssea-nos-dentes.webp) 
+![perda óssea dentária - escovação](/images/6872f42c-033d-420c-9506-8956a66e75b5_Perda-ossea-nos-dentes.webp) 
 
 O melhor tratamento é a **prevenção**. Como o principal fator da perda óssea é a periodontite e sua ocorrência se deve a falta de higienização, a correta {% post_link escovacao-dos-dentes "escovação" %} e uso de fio dental é a melhor opção de tratamento. 
 
@@ -95,7 +95,7 @@ Além disso, ainda existe a periodontite agressiva. Nesse caso a perda de osso p
 
 ## **Relação da perda óssea dentária com a menopausa e a osteoporose**
 
-![Perda óssea dentária e a menopausa](/images/bd99957c-d2cb-4324-80bb-c82dd9e5ec6d_Perda-óssea-dentária-e-a-menopausa.webp) 
+![Perda óssea dentária e a menopausa](/images/bd99957c-d2cb-4324-80bb-c82dd9e5ec6d_Perda-ossea-dentaria-e-a-menopausa.webp) 
 
 A menopausa é um evento fisiológico que ocorre com a interrupção da menstruação, o que provoca a diminuição de estrogênio no organismo e tem início por volta de 50 anos de idade nas mulheres. 
 

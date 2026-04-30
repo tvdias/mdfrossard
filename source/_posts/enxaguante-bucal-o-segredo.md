@@ -83,7 +83,7 @@ O principal sempre deve ser a correta escovação e o uso do fio dental.
 
 ## **Posso substituir a escovação e o fio dental pelo uso somente do enxaguante bucal ?**
 
-![Enxaguante bucal e escovação](/images/1c5f025e-cb3d-4f10-a2ca-57d97acf4eee_enxaguante-bucal-e-escovação.webp) 
+![Enxaguante bucal e escovação](/images/1c5f025e-cb3d-4f10-a2ca-57d97acf4eee_enxaguante-bucal-e-escovacao.webp) 
 
 Enfim e não menos importante. 
 

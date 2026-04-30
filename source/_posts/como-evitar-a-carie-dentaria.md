@@ -2,7 +2,7 @@
 title: 'Cárie Dentária: 10 Dicas Práticas Para Evitar'
 description: "A cárie é a doença bucal mais comum do mundo, mas é fácil de prevenir. Veja 10 dicas práticas de como evitar a cárie e proteger seu sorriso."
 date: 2014-06-20T07:49:19.000Z
-featured_image: /images/a38f22b8-210d-4ced-9cb2-e04840d0b9b4_Cárie-dentária-1.webp
+featured_image: /images/a38f22b8-210d-4ced-9cb2-e04840d0b9b4_Carie-dentaria-1.webp
 ---
 
 A dolorosa [Doença Periodontal](/gengiva-sangrando/) e a assustadora **Cárie Dentária** ainda encabeçam a lista mundial de principais causadoras pela perda de dentes vitais. Como a cárie também é a principal responsável por aquelas terríveis [dores pontiagudas à noite](/dor-de-dente/), tratá-la preventivamente é uma paz pro seu bolso e nervos.
@@ -28,7 +28,7 @@ Neste guia direto, dissecamos todos os mistérios das cáries que ninguém nunca
 
 ## O Que é Realisticamente a Cárie Dentária?
 
-![A destruição química visível da cárie sob o esmalte](/images/2ee9fce2-78c8-444c-9b94-c14e7f1eeaa2_cárie-dentária-300x240.webp) 
+![A destruição química visível da cárie sob o esmalte](/images/2ee9fce2-78c8-444c-9b94-c14e7f1eeaa2_carie-dentaria-300x240.webp) 
 
 Longe de ser o "bichinho comedor de sujeira" das historinhas infantis, a **Cárie Dentária** pode ser definida de forma biológica como uma avassaladora **desmineralização química**. Ela é um processo ininterrupto de destruição localizada feita por ataques super ácidos.
 
@@ -47,7 +47,7 @@ No momento inicial do "derretimento" causado pelo ácido (desmineralização agr
 
 ## Quais Regiões Ficam Mais Riscadas no Osso?
 
-![Os principais estragos na estrutura coronária e radicular do sorriso](/images/ea56bf19-1116-43da-bc86-5d85bc5d2d40_como-saber-se-estou-com-cárie.webp) 
+![Os principais estragos na estrutura coronária e radicular do sorriso](/images/ea56bf19-1116-43da-bc86-5d85bc5d2d40_como-saber-se-estou-com-carie.webp) 
 
 1. **A Cárie Superficial Coronária (A Campeã Mundial):** Ocorre em milhões de brasileiros na própria coroa dos cumes da mastigação onde mastigamos maçãs livremente, também perfura violentamente se alojando no vácuo escuro exato do espaçamento de dois dentes onde as agulhas do palito não alcançam!
 2. **A Rápidissima Cárie Radicular:** As raízes deveriam viver ocultas na terra! Devido à força das escovas duras recuando velozmente nossa frágil gengiva para trás para raiz, os nacos puros dessa exposta perdem proteção. A bactéria cariogênica avança em extrema letalidade furando muito rápido os colos fracos não blindados em esmalte grosso.
@@ -68,7 +68,7 @@ Entretanto; os pacientes indisciplinados que sentaram no tempo sentindo abafados
 
 ## 10 Formas Táticas Práticas de Blindar Sua Prevenção em Casa
 
-![Táticas blindadas contra a formação orgânica de tártaro](/images/2a2f13bc-5f9c-40a3-b8f7-787b190180bb_cárie-dentária.webp) 
+![Táticas blindadas contra a formação orgânica de tártaro](/images/2a2f13bc-5f9c-40a3-b8f7-787b190180bb_carie-dentaria.webp) 
 
 Siga perfeitamente nossa checklist vitalíssima. E poupe sua conta bancária de inúteis futuras reconstruções que custam o triplo:
 

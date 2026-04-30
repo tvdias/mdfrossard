@@ -26,7 +26,7 @@ Nesse texto quero mostrar a você 3 dicas/ tratamentos fáceis para tornar seus 
 
 ## **1 - Dentes Brancos e a Escovação**
 
-![dentes brancos](/images/e9663d12-740f-4eab-aa21-21e778f4b66d_dentes-brancos-e-a-escovação.webp) 
+![dentes brancos](/images/e9663d12-740f-4eab-aa21-21e778f4b66d_dentes-brancos-e-a-escovacao.webp) 
 
 Em grande parte dos casos, possuir dentes brancos e saudáveis depende mais da sua higiene diária do que de algum tratamento dentário. 
 

@@ -2,7 +2,7 @@
 title: 'Mau Hálito: Entenda as 5 Causas Comuns e Como Eliminar'
 description: "Mau hálito atinge até 50% da população e 90% dos casos vêm da boca. Descubra as 5 causas mais comuns e como tratar o problema de forma definitiva."
 date: 2016-02-01T10:05:28.000Z
-featured_image: /images/900cced6-e71a-4957-8fd3-f24be2fb9934_causas-mau-hálito.webp
+featured_image: /images/900cced6-e71a-4957-8fd3-f24be2fb9934_causas-mau-halito.webp
 ---
 
 Você já passou pela situação desconfortável de conversar com alguém e perceber que a pessoa apresenta **mau hálito**? 
@@ -38,7 +38,7 @@ Por isso, o diagnóstico profissional e o uso de técnicas de higiene específic
 
 ## As 5 Causas Comuns do Mau Hálito
 
-![Infográfico sobre causas do mau hálito](/images/900cced6-e71a-4957-8fd3-f24be2fb9934_causas-mau-hálito.webp) 
+![Infográfico sobre causas do mau hálito](/images/900cced6-e71a-4957-8fd3-f24be2fb9934_causas-mau-halito.webp) 
 
 Existem dezenas de gatilhos para a halitose, mas estas cinco dominam a maioria dos casos clínicos:
 
@@ -61,7 +61,7 @@ Ficar muitas horas sem comer faz com que o corpo queime gorduras para gerar ener
 
 ## Como Prevenir e Manter o Hálito Fresco
 
-![Dicas de prevenção do mau hálito](/images/6f5542f0-084c-40a2-95a7-d7c7051351a1_mau-hálito.webp) 
+![Dicas de prevenção do mau hálito](/images/6f5542f0-084c-40a2-95a7-d7c7051351a1_mau-halito.webp) 
 
 1. **Escovação Estratégica:** Use o fio dental antes da escovação e nunca esqueça de usar um raspador de língua.
 2. **Hidratação Constante:** Beba água ao longo do dia para estimular a salivação.

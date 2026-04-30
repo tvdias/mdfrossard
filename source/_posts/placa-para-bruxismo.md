@@ -17,7 +17,7 @@ Porém, o mais comum e fácil de se realizar é a **placa para bruxismo**.
 
 ## Diagnóstico do bruxismo
 
-![placa para bruxismo](/images/3ab180cd-3558-409b-b6f3-979e2266abf1_placa-de-bruximo-diagnótico.webp) 
+![placa para bruxismo](/images/3ab180cd-3558-409b-b6f3-979e2266abf1_placa-de-bruximo-diagnotico.webp) 
 
 Em muitos casos o bruxismo ocorre devido ao nosso [estresse](https://pt.wikipedia.org/wiki/Estresse) diário. 
 

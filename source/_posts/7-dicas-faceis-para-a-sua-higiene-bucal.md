@@ -70,7 +70,7 @@ O sangramento se deve a dois principais fatores, o primeiro se deve a falta de u
 
 #### **4 ) Evitar a força excessiva**
 
-![Saber se estou com cárie](/images/30b86ced-1416-4108-9b6f-bfd5ee043abd_saber-se-estou-com-cárie.webp) 
+![Saber se estou com cárie](/images/30b86ced-1416-4108-9b6f-bfd5ee043abd_saber-se-estou-com-carie.webp) 
 
 Precisamos compreender que a força excessiva durante a escovação não irá melhorar a sua higiene bucal. 
 

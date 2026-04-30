@@ -43,7 +43,7 @@ Quando você consome algo frio, quente ou ácido, o fluido dentro desses canais 
 
 ## As 9 Principais Causas da Sensibilidade nos Dentes
 
-![Causas da sensibilidade dentária](/images/ebe1b333-f7ce-43fd-b413-84db3dc1a69e_sensibilidade-dentária.webp) 
+![Causas da sensibilidade dentária](/images/ebe1b333-f7ce-43fd-b413-84db3dc1a69e_sensibilidade-dentaria.webp) 
 
 ### 1) Escovação com Força Excessiva
 Muita gente acredita que "limpar bem" exige força. Na verdade, a escovação agressiva desgasta o esmalte e retrai a gengiva, expondo a raiz do dente.
@@ -76,7 +76,7 @@ O contato frequente com substâncias ácidas — como refrigerantes, limão em e
 
 ## As Pastas para Sensibilidade Funcionam?
 
-![Cremes dentais para dentes sensíveis](/images/8ac1c39d-b7b4-489f-b5b1-073ae14d232d_sensibilidade-dentinária.webp) 
+![Cremes dentais para dentes sensíveis](/images/8ac1c39d-b7b4-489f-b5b1-073ae14d232d_sensibilidade-dentinaria.webp) 
 
 Sim, elas são eficazes para **bloquear os sinais de dor**, mas nem sempre resolvem a **causa**. 
 

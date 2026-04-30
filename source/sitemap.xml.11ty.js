@@ -13,8 +13,6 @@ class SiteMap {
         // Excluir seções que não devem ser indexadas
         if (url.startsWith("/admin")) return false;
         if (url.startsWith("/l/")) return false;
-        if (url.startsWith("/email-confirmado")) return false;
-        if (url.startsWith("/landing-page-mancha-no-dente")) return false;
         if (url.startsWith("/images/")) return false;
         if (url.startsWith("/_drafts/")) return false;
         // Excluir páginas que tenham noindex explícito no frontmatter

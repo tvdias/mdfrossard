@@ -23,7 +23,7 @@ Caso o siso esteja em posição correta, sem causar transtorno, incômodo, dor e
 
 ## Indicações para extração do siso
 
-[![extração siso](/images/7bfbb242-7598-49e6-bde8-f7236e397efa_extração-siso.webp)](/images/7bfbb242-7598-49e6-bde8-f7236e397efa_extração-siso.webp) 
+[![extração siso](/images/7bfbb242-7598-49e6-bde8-f7236e397efa_extracao-siso.webp)](/images/7bfbb242-7598-49e6-bde8-f7236e397efa_extracao-siso.webp) 
 
 A seguir, listo as situações em que sua remoção é indicada: 
 

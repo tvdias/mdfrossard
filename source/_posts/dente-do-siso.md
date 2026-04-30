@@ -19,7 +19,7 @@ Para te entregar um controle psicológico e zero receios noturnos, quero levanta
 
 ## 1. Precisamos Falar a Verdade: É uma Cirurgia Sim!
 
-![Demonstração animada da cirurgia de siso](/images/b5ce4fb2-09f1-43a8-a62d-e162b12c9303_extração-dente-do-siso.webp) 
+![Demonstração animada da cirurgia de siso](/images/b5ce4fb2-09f1-43a8-a62d-e162b12c9303_extracao-dente-do-siso.webp) 
 
 Não existe rodeios falsos, nós teremos de abrir para encontrar. E é justamente ao ouvir a expressão "cirurgia de extração" que engatilha o principal fator de tensão na grande maioria: a quebra cirúrgica do osso maxilar se o dente tiver muito fundo grudado ao nervo (Isso é perfeitamente indolor sob nossa injeção moderna).
 
@@ -61,7 +61,7 @@ Toda anatomia esquelética difere! Nunca encare extrações alinhadas as promess
 
 ## 4. O Grande Segredo: Mas Precisamos Mesmo Remover Todos?
 
-![Dente do siso remoção](/images/7928d4b4-1803-4385-8485-c4ccbaebd34d_dente-do-siso-remoção.webp) 
+![Dente do siso remoção](/images/7928d4b4-1803-4385-8485-c4ccbaebd34d_dente-do-siso-remocao.webp) 
 
 Você leu maravilhosamente correto! Não, na MD Frossard a moda brutal mundial do abate irrestrito cirúrgico em linha diminuiu. Nós poupamos quem cumpre as exigências.
 Nem sempre existirá o terror real da remoção de qualquer que nasça!

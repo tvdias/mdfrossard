@@ -44,7 +44,7 @@ Cada peça tem sua atuação de ouro:
 
 ## 2. Como a Lente de Contato Dental é Confeccionada?
 
-![Lente de contato dental dúvidas](/images/c4447f8c-d8ef-47c7-8a98-9622b4fb33a7_lente-de-contato-dental-dúvidas.webp) 
+![Lente de contato dental dúvidas](/images/c4447f8c-d8ef-47c7-8a98-9622b4fb33a7_lente-de-contato-dental-duvidas.webp) 
 
 Para construções estéticas bilionárias não existe achismo ou "fazer no olho". O planejamento computadorizado determina absolutamente tudo. 
 

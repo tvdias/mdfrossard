@@ -78,7 +78,7 @@ A terceira, mais moderna e amplamente mais segura tecnologia! O tratamento do de
 
 ## Afinal, como o Implante Dentário Funciona?
 
-![Pilar do Implante Dentário](/images/3a7a275b-2f27-4391-8cc5-30b2afb641a9_implante-dentário.webp) 
+![Pilar do Implante Dentário](/images/3a7a275b-2f27-4391-8cc5-30b2afb641a9_implante-dentario.webp) 
 
 Ele é uma âncora finíssima semelhante a um discreto "parafuso" feito de puro titânio, um metal completamente inerte que seu sistema imunológico aceita de braços abertos. 
 
@@ -96,7 +96,7 @@ A arquitetura moderna prevê várias configurações, tudo depende do quão avar
 
 ### A. Implante Dentário Unitário
 
-![Implante dentário unitário](/images/4c7f2d87-c5c7-4e21-b384-22a5e54c96a1_Implante-dentário-unitário.webp) 
+![Implante dentário unitário](/images/4c7f2d87-c5c7-4e21-b384-22a5e54c96a1_Implante-dentario-unitario.webp) 
 
 A situação mais resolvida nos consultórios: substituir apenas "aquele" dente machucado preservando tudo em volta. Após uma simples tomada de tomografia digital na clínica para mapear seu osso maxilar milimétricamente, realizamos muitas vezes a técnica imediata.
 
@@ -104,7 +104,7 @@ Isso significa sedar a região, extrair o toco ruim, e imediatamente no mesmo mi
 
 ### B. Múltiplos Implantes e Pontes
 
-![Implante dentário múltiplo](/images/e380c2d3-d5c4-4b65-86d2-90390da2ee38_Implante-dentário-Múltiplo.webp) 
+![Implante dentário múltiplo](/images/e380c2d3-d5c4-4b65-86d2-90390da2ee38_Implante-dentario-Multiplo.webp) 
 
 O paciente sofreu acidentes ou perdeu historicamente mais de um dente ladeado. Em vez de entupir o osso e os nervos instalando implantes exaustivamente lado a lado encavalados, nós distribuímos com sabedoria!
 
@@ -112,7 +112,7 @@ Fixamos dois implantes sólidos de base nas extremidades, e sobre eles nós ergu
 
 ### C. Prótese Protocolo All-On-4 (Dentadura Fixa Completa)
 
-![Implante dentário protocolo](/images/a826c291-9628-4911-8a74-aa2b42a81f02_Implante-dentário-protocolo.webp) 
+![Implante dentário protocolo](/images/a826c291-9628-4911-8a74-aa2b42a81f02_Implante-dentario-protocolo.webp) 
 
 O fim do sofrimento crônico das dentaduras velhas. Para arcadas 100% lisas e tristes pela ausência dentária, traçamos simetricamente de 4 a 6 implantes potentes.
 

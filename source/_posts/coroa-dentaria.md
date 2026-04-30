@@ -2,7 +2,7 @@
 title: 'Coroa Dentária: Guia Completo sobre Próteses e Porcelanas'
 description: "A coroa dentária é a solução ideal para recuperar dentes quebrados ou fragilizados. Conheça os tipos de porcelana (Metal-Free) e veja como devolver a."
 date: 2015-07-21T10:14:17.000Z
-featured_image: /images/3e904c62-2a01-4d3b-86bc-ba9ac7dd2f0f_Coroa-dentária.webp
+featured_image: /images/3e904c62-2a01-4d3b-86bc-ba9ac7dd2f0f_Coroa-dentaria.webp
 ---
 
 Quando um dente sofre uma grande fratura, uma cárie profunda ou passa por um tratamento de canal, muitas vezes uma restauração simples não é suficiente para suportar a força da mastigação. É nesse momento que utilizamos a **Coroa Dentária**.
@@ -62,7 +62,7 @@ As coroas são versáteis e essenciais nas seguintes situações:
 ## **Infográfico: Tudo sobre Coroas Dentárias**
 Resumimos os principais pontos para você entender o procedimento de forma visual:
 
-![Infográfico Coroa Dentária](/images/4ba86c18-74aa-4e03-8e03-1bda82548be3_Coroa-Dentária-.webp)
+![Infográfico Coroa Dentária](/images/4ba86c18-74aa-4e03-8e03-1bda82548be3_Coroa-Dentaria-.webp)
 
 ---
 
