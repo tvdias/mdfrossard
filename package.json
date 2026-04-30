@@ -22,5 +22,10 @@
   },
   "devDependencies": {
     "wrangler": "^4.6.0"
+  },
+  "overrides": {
+    "liquidjs": "^10.25.3",
+    "braces": "^3.0.3",
+    "brace-expansion": "^1.1.12"
   }
 }
