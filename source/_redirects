@@ -2,6 +2,9 @@
 /tratamentos/implante-dental/       /tratamentos/implante-dentario  302
 /Implante-dentário-6.jpg            /tratamentos/implante-dentario  302
 
+# Redirecionar páginas AMP antigas para as versões normais
+/*/amp/ :1 301
+
 # Redirecionamentos de Slugs Antigos (Auditoria 404)
 /implante-de-dente/ /tratamentos/implante-dentario/ 301
 /higiene-dental-escovacao-dos-dentes/ /escovacao-dos-dentes/ 301
