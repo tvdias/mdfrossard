@@ -1,5 +1,6 @@
 ---
 title: Aula Curso de Especialização
+noindex: true
 description: >-
  O Dr. Davi Frossard, teve a oportunidade de ministrar uma aula sobre os
  implantes dentários no curso de especialização da Inco 25. 
