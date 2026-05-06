@@ -5,6 +5,12 @@
 # Redirecionar páginas AMP antigas para as versões normais
 /*/amp/ :1 301
 
+# Redirecionamentos de Tratamentos (URLs Antigas para Novas)
+/tratamentos/protese/ /tratamentos/protese-dentaria/ 301
+/tratamentos/check-up-digital-preventivo/ /check-up-digital-preventivo-dos-dentes/ 301
+/tratamentos/estetica-dos-dentes/ /tratamentos/estetica-dental/ 301
+/tratamentos/prevencao-e-manutencao/ /tratamentos/prevencao-manutencao/ 301
+
 # Redirecionamentos de Slugs Antigos (Auditoria 404)
 /implante-de-dente/ /tratamentos/implante-dentario/ 301
 /higiene-dental-escovacao-dos-dentes/ /escovacao-dos-dentes/ 301
