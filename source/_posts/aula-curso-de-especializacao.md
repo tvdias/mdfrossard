@@ -8,8 +8,7 @@ date: 2013-08-15 13:27:15
 featured_image:
 categories:
  - Sem categoria
-tags:
-noindex: true
+tags: []
 ---
 
 ![foto inco](/images/ef89d41a-8c7b-48ab-9899-c36eddc2506a_foto-inco-300x300.webp "foto inco")
