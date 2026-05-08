@@ -24,8 +24,6 @@
     <link rel="dns-prefetch" href="https://googleads.g.doubleclick.net">
     <link rel="dns-prefetch" href="https://www.google.com">
     <link rel="dns-prefetch" href="https://api.whatsapp.com">
-    <link rel="preconnect" href="https://bat.bing.net">
-    <link rel="dns-prefetch" href="https://bat.bing.net">
     <% if (typeof google_fonts !== 'undefined' && google_fonts) { %>
     <!-- Google Fonts: carregamento não-bloqueante para melhor LCP/FCP -->
     <link href="https://fonts.googleapis.com/css2?family=<%= google_fonts %>&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
@@ -53,7 +51,6 @@
 
     <%- include('_partial/fb-pixel') %>
     <%- include('_partial/phonetrack') %>
-    <%- include('_partial/microsoft-uet') %>
 
     <%- include('_partial/org-schema') %>
 </head>
