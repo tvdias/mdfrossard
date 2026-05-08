@@ -189,7 +189,7 @@ content_category: geo-barra
     /* ── HERO ── */
     .hero {
         background: linear-gradient(160deg, #f5f2eb 0%, #ffffff 70%);
-        padding: 52px 0 80px;
+        padding: 24px 0 60px;
         position: relative;
         overflow: hidden;
     }
@@ -302,26 +302,20 @@ content_category: geo-barra
 
     .hero-phone {
         font-family: 'Inter', sans-serif;
-        font-size: 1.15rem;
+        font-size: 1.05rem;
         font-weight: 700;
-        color: #0a0a0a;
+        background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+        color: #fff !important;
         text-decoration: none;
-        letter-spacing: .3px;
+        padding: 14px 24px;
+        border-radius: 50px;
         display: inline-flex;
         align-items: center;
         gap: 8px;
+        box-shadow: 0 8px 24px rgba(231,76,60,.25);
+        transition: transform .2s, box-shadow .2s;
     }
-
-    .hero-phone::before {
-        content: '';
-        display: inline-block;
-        width: 18px; height: 18px;
-        background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81 19.79 19.79 0 011.07 3.18 2 2 0 013.07 1h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L7.09 8.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z' stroke='%23c9870a' stroke-width='2' fill='none'/%3E%3C/svg%3E");
-        background-repeat: no-repeat;
-        background-size: contain;
-    }
-
-    .hero-phone:hover { color: var(--gold-dark); }
+    .hero-phone:hover { transform: translateY(-2px); box-shadow: 0 12px 32px rgba(231,76,60,.35); }
 
     .hero-img-wrap { flex: 1; width: 100%; max-width: 520px; }
 
@@ -1252,19 +1246,19 @@ content_category: geo-barra
                 <p class="tagline">Excelência em Saúde Bucal com 38 Anos de Tradição</p>
                 <p class="intro">Seja bem-vindo à MD Frossard, a sua clínica odontológica na Barra da Tijuca. Unimos tecnologia a um atendimento humano e personalizado para transformar o seu sorriso.</p>
 
-                <ul class="hero-checks">
-                    <li>Ambiente moderno e seguro</li>
-                    <li>Especialistas em Implantes e Estética</li>
-                    <li>Tecnologia Digital (Scanner iTero)</li>
-                    <li>Localização privilegiada no Città America</li>
-                </ul>
-
                 <div class="hero-cta">
                     <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20marcar%20uma%20consulta%20na%20Barra%20da%20Tijuca." onclick="return gtagSendEventWhatsapp(this.href)" class="btn btn-whatsapp-hero">
                         Agendar pelo WhatsApp
                     </a>
                     <a href="tel:21976637803" onclick="return gtagSendEventTelefone(this.href)" class="hero-phone">Ligar agora: (21) 97663-7803</a>
                 </div>
+
+                <ul class="hero-checks">
+                    <li>Ambiente moderno e seguro</li>
+                    <li>Especialistas em Implantes e Estética</li>
+                    <li>Tecnologia Digital (Scanner iTero)</li>
+                    <li>Localização privilegiada no Città America</li>
+                </ul>
             </div>
 
             <div class="hero-img-wrap reveal">
