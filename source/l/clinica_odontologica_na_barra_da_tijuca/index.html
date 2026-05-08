@@ -165,14 +165,26 @@ content_category: geo-barra
 
     .btn-gold:hover { transform: translateY(-3px) scale(1.02); box-shadow: 0 16px 40px rgba(201,135,10,.48); }
 
-    .btn-whatsapp-inline {
+    .btn-whatsapp-inline, .btn-whatsapp-hero {
         background: linear-gradient(135deg, #2ecc71 0%, #1aab57 100%);
         color: var(--white);
         gap: 10px;
         box-shadow: 0 8px 28px rgba(37,211,102,.35);
     }
 
-    .btn-whatsapp-inline:hover { transform: translateY(-3px) scale(1.02); box-shadow: 0 16px 40px rgba(37,211,102,.45); }
+    .btn-whatsapp-inline:hover, .btn-whatsapp-hero:hover { transform: translateY(-3px) scale(1.02); box-shadow: 0 16px 40px rgba(37,211,102,.45); }
+    
+    .btn-phone-red {
+        background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+        color: #fff !important;
+        border: none !important;
+        box-shadow: 0 8px 28px rgba(231,76,60,.35);
+    }
+    .btn-phone-red:hover {
+        transform: translateY(-3px) scale(1.02);
+        box-shadow: 0 16px 40px rgba(231,76,60,.45);
+        background: linear-gradient(135deg, #ff5e4d 0%, #d63031 100%);
+    }
 
     /* ── HERO ── */
     .hero {
@@ -1131,16 +1143,19 @@ content_category: geo-barra
         .hero-cta { align-items: center; width: 100%; display: flex; flex-direction: column; gap: 20px; }
         
         .hero-phone {
-            background: #f8f7f4;
-            border: 2px solid #c9870a;
-            color: #c9870a !important;
-            padding: 12px 28px;
+            background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+            color: #fff !important;
+            padding: 14px 32px;
             border-radius: 50px;
             transition: all 0.3s ease;
+            border: none;
+            box-shadow: 0 8px 28px rgba(231,76,60,.35);
+            font-size: 1.1rem;
         }
         .hero-phone:hover {
-            background: #c9870a;
-            color: #fff !important;
+            transform: translateY(-3px) scale(1.02);
+            box-shadow: 0 16px 40px rgba(231,76,60,.45);
+            background: linear-gradient(135deg, #ff5e4d 0%, #d63031 100%);
         }
 
         .testi-grid { grid-template-columns: repeat(3, 1fr); }
@@ -1245,10 +1260,10 @@ content_category: geo-barra
                 </ul>
 
                 <div class="hero-cta">
-                    <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20marcar%20uma%20consulta%20na%20Barra%20da%20Tijuca." onclick="return gtagSendEventWhatsapp(this.href)" class="btn btn-gold">
-                        Agendar Avaliação na Clínica
+                    <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20marcar%20uma%20consulta%20na%20Barra%20da%20Tijuca." onclick="return gtagSendEventWhatsapp(this.href)" class="btn btn-whatsapp-hero">
+                        Agendar pelo WhatsApp
                     </a>
-                    <a href="tel:21976637803" onclick="return gtagSendEventTelefone(this.href)" class="hero-phone">(21) 97663-7803</a>
+                    <a href="tel:21976637803" onclick="return gtagSendEventTelefone(this.href)" class="hero-phone">Ligar agora: (21) 97663-7803</a>
                 </div>
             </div>
 
