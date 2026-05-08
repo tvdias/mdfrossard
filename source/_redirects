@@ -3,7 +3,7 @@
 /Implante-dentário-6.jpg            /tratamentos/implante-dentario  302
 
 # Redirecionar páginas AMP antigas para as versões normais
-/*/amp/ :1 301
+/*/amp/ /:splat 301
 
 # Redirecionamentos de Tratamentos (URLs Antigas para Novas)
 /tratamentos/protese/ /tratamentos/protese-dentaria/ 301
