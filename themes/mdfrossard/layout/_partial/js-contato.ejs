@@ -58,7 +58,6 @@ $jq("#contactform").submit(function(e) {
         method: 'POST'
     })
     .then(response => {
-        console.log('API response', response);
         if (response.status >= 400) { showError($form); }
         else { showSuccess($form); }
     })
