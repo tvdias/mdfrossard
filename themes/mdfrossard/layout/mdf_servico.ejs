@@ -21,7 +21,7 @@ const safeData = (key, fallback = '') => typeof data !== 'undefined' && data[key
             <i data-lucide="chevron-right" class="icon-xs"></i>
             <span><%= title.split('|')[0].trim() %></span>
         </div>
-        <h1><%- title.replace('|', '<br>') %></h1>
+        <h1><%- title.replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m])).replace('|', '<br>') %></h1>
         <p><%= description %></p>
         <div style="display:flex; gap:16px; flex-wrap:wrap;">
             <a href="https://api.whatsapp.com/send?phone=5521976637803" onclick="return gtagSendEventWhatsapp(this.href)" class="btn btn-primary btn-lg">Agendar Consulta</a>

@@ -138,6 +138,10 @@ body.lgpd-visible .whatsapp-fab{
   window.mdfConsent = function(decision){
     try { localStorage.setItem(KEY, decision); } catch(e) {}
     applyConsent(decision);
+    // Notifica scripts dependentes de consent (ex: Microsoft UET)
+    if (decision === 'granted') {
+      window.dispatchEvent(new CustomEvent('mdf:consent:granted'));
+    }
     banner.classList.remove('show');
     document.body.classList.remove('lgpd-visible');
   };

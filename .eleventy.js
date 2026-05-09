@@ -304,7 +304,7 @@ module.exports = function(eleventyConfig) {
     // Lidar com aspas que podem ter sido convertidas em &quot; ou &#34;
     rendered = rendered.replace(/{%\s*post_link\s+([a-zA-Z0-9._-]+)(?:\s+(?:["']|&quot;|&#34;)(.*?)(?:["']|&quot;|&#34;))?\s*%}/g, (match, slug, text) => {
       const url = `/${slug}/`;
-      const label = text || slug.replace(/-/g, " ");
+      const label = escapeHtml(text || slug.replace(/-/g, " "));
       return `<a href="${url}">${label}</a>`;
     });
 

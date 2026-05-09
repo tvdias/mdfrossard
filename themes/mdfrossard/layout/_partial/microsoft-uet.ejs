@@ -1,20 +1,41 @@
-<!-- Microsoft Advertising UET Tag -->
+<!-- Microsoft Advertising UET Tag — LGPD-aware
+     Carrega o bat.js apenas após consent do usuário (mesmo flag
+     usado pelo Google Consent Mode e pelo Meta Pixel).
+     Se o consent ainda não foi dado, escuta o evento 'mdf:consent:granted'
+     disparado pelo consent-banner e inicializa o UET nesse momento. -->
 <script>
-(function(w, d, t, u, o) {
-    w[u] = w[u] || [], o.ts = (new Date).getTime();
-    var n = d.createElement(t);
-    n.src = "https://bat.bing.net/bat.js?ti=" + o.ti + ("uetq" != u ? "&q=" + u : ""),
-    n.async = 1, n.onload = n.onreadystatechange = function() {
+(function() {
+  function loadUET() {
+    if (window.__mdfUetLoaded) return;
+    window.__mdfUetLoaded = true;
+    window.uetq = window.uetq || [];
+    (function(w, d, t, u, o) {
+      w[u] = w[u] || [], o.ts = (new Date).getTime();
+      var n = d.createElement(t);
+      n.src = "https://bat.bing.net/bat.js?ti=" + o.ti + ("uetq" != u ? "&q=" + u : ""),
+      n.async = 1, n.onload = n.onreadystatechange = function() {
         var s = this.readyState;
         s && "loaded" !== s && "complete" !== s ||
         (o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad"),
         n.onload = n.onreadystatechange = null)
-    };
-    var i = d.getElementsByTagName(t)[0];
-    i.parentNode.insertBefore(n, i);
-})(window, document, "script", "uetq", {
-    ti: "163015443",
-    enableAutoSpaTracking: true
-});
+      };
+      var i = d.getElementsByTagName(t)[0];
+      i.parentNode.insertBefore(n, i);
+    })(window, document, "script", "uetq", {
+      ti: "163015443",
+      enableAutoSpaTracking: true
+    });
+  }
+
+  // Verifica consent já concedido em visita anterior
+  var consent = null;
+  try { consent = localStorage.getItem('mdf_consent_v1'); } catch(e) {}
+  if (consent === 'granted') {
+    loadUET();
+  } else {
+    // Aguarda o evento emitido pelo consent-banner ao aceitar
+    window.addEventListener('mdf:consent:granted', loadUET, { once: true });
+  }
+})();
 </script>
 <!-- End Microsoft Advertising UET Tag -->
