@@ -127,7 +127,10 @@ export async function handlePost(request, env, ctx) {
     request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
     "";
   const userAgent = request.headers.get("user-agent") || "";
-  const referer = request.headers.get("referer") || sourceUrlClient || "https://mdfrossard.com.br/";
+  // source_url do cliente é ignorado como fonte de referer — só o header
+  // referer do browser é confiável (evita que payloads adulterados registrem
+  // eventos como vindos de domínios externos).
+  const referer = request.headers.get("referer") || "https://mdfrossard.com.br/";
 
   const userData = {};
   if (fbp) userData.fbp = fbp;
@@ -185,11 +188,16 @@ export async function handlePost(request, env, ctx) {
     body.test_event_code = env.META_TEST_EVENT_CODE;
   }
 
-  const url = `https://graph.facebook.com/${META_API_VERSION}/${env.META_PIXEL_ID}/events?access_token=${encodeURIComponent(env.META_CAPI_TOKEN)}`;
+  // Token enviado no header Authorization (Bearer) em vez de query string,
+  // evitando exposição nos logs do Cloudflare e nos access logs da Meta.
+  const url = `https://graph.facebook.com/${META_API_VERSION}/${env.META_PIXEL_ID}/events`;
 
   const capiPromise = fetch(url, {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
+    headers: {
+      "Content-Type": "application/json",
+      "Authorization": `Bearer ${env.META_CAPI_TOKEN}`,
+    },
     body: JSON.stringify(body),
   })
     .then(async (res) => {
