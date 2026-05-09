@@ -311,6 +311,35 @@ module.exports = function(eleventyConfig) {
     return rendered;
   });
 
+  // Injeta bloco de CTA (WhatsApp) após o 4º parágrafo dos posts.
+  // Detecta a presença de <div class="content reveal"> para limitar ao post.ejs.
+  // Roda antes do htmlmin para que o CSS inline seja minificado junto.
+  eleventyConfig.addTransform("inject-post-cta", (content, outputPath) => {
+    if (!outputPath || !outputPath.endsWith(".html")) return content;
+    if (!content.includes('<div class="content reveal">')) return content;
+
+    const ctaHtml = `<div class="post-mid-cta"><p class="post-mid-cta__eyebrow">MD Frossard Odontologia</p><p class="post-mid-cta__headline">Tem dúvidas sobre esse tratamento?</p><p class="post-mid-cta__sub">Fale com nossos especialistas e agende sua avaliação sem compromisso — respondemos no mesmo dia.</p><a href="https://api.whatsapp.com/send?phone=5521976637803&amp;text=Ol%C3%A1%2C%20gostaria%20de%20tirar%20d%C3%BAvidas%20sobre%20um%20tratamento." onclick="return gtagSendEventWhatsapp(this.href)" class="post-mid-cta__btn">💬 Falar no WhatsApp</a></div>`;
+
+    // Localiza o bloco de conteúdo do post
+    const marker = '<div class="content reveal">';
+    const contentStart = content.indexOf(marker);
+    if (contentStart === -1) return content;
+
+    // Injeta após o 4º </p> dentro do bloco de conteúdo
+    let count = 0;
+    let pos = contentStart;
+    while (count < 4) {
+      const next = content.indexOf("</p>", pos + 1);
+      if (next === -1) break;
+      pos = next;
+      count++;
+    }
+    if (count < 4) return content; // Post muito curto, não injeta
+
+    const insertAt = pos + 4; // após o fechamento do 4º </p>
+    return content.slice(0, insertAt) + ctaHtml + content.slice(insertAt);
+  });
+
   eleventyConfig.addTransform("strip-hexo-raw", (content, outputPath) => {
     if (!outputPath || !outputPath.endsWith(".html")) {
       return content;

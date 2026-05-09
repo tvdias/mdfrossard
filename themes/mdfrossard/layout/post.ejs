@@ -124,6 +124,10 @@ var readingTime = Math.max(1, Math.round(wordCount / 200));
                 <span class="post-tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> <%= category %></span>
                 <% } %>
                 <span class="post-reading-time"><i data-lucide="clock" style="width:0.85rem; height:0.85rem;"></i> <%= readingTime %> min de leitura</span>
+                <% var updatedDate = (typeof updated !== 'undefined' && updated) ? updated : (p.date || null); %>
+                <% if (updatedDate) { %>
+                <span class="post-reading-time"><i data-lucide="calendar" style="width:0.85rem; height:0.85rem;"></i> Atualizado em <%= new Date(updatedDate).toLocaleDateString('pt-BR', {day:'2-digit', month:'long', year:'numeric'}) %></span>
+                <% } %>
             </div>
 
             <!-- Título -->
@@ -164,6 +168,12 @@ var readingTime = Math.max(1, Math.round(wordCount / 200));
                     <i data-lucide="message-circle" class="icon-sm"></i> Agende sua Consulta
                 </a>
             </div>
+
+            <!-- Botão flutuante WhatsApp — visível só mobile, some ao chegar no footer -->
+            <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Ol%C3%A1%2C%20gostaria%20de%20agendar%20uma%20consulta." onclick="return gtagSendEventWhatsapp(this.href)" class="post-float-wa" aria-label="Agendar consulta pelo WhatsApp">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="26" height="26"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.127.558 4.122 1.532 5.854L.057 23.882a.5.5 0 0 0 .611.611l6.086-1.458A11.945 11.945 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.891 0-3.659-.513-5.177-1.407l-.371-.217-3.85.922.937-3.785-.235-.386A9.954 9.954 0 0 1 2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
+                <span>Agendar Consulta</span>
+            </a>
 
             <!-- Local SEO: link contextual para money page -->
             <aside class="post-units-aside reveal" aria-label="Atendimento presencial">
@@ -374,6 +384,92 @@ var readingTime = Math.max(1, Math.round(wordCount / 200));
 }
 .post-units-aside__copy a:hover {
     color: #c9a84c;
+}
+
+/* ── CTA mid-post ── */
+.post-mid-cta {
+    background: linear-gradient(135deg, #0f1923 0%, #1a2a38 100%);
+    border-left: 4px solid #c9a84c;
+    border-radius: 12px;
+    padding: 2rem 2rem 2rem 1.75rem;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+}
+.post-mid-cta__eyebrow {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #c9a84c;
+    margin: 0;
+    font-family: var(--font-body);
+}
+.post-mid-cta__headline {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #fff;
+    margin: 0;
+    font-family: var(--font-heading);
+    line-height: 1.3;
+}
+.post-mid-cta__sub {
+    font-size: 0.9rem;
+    color: rgba(255,255,255,0.72);
+    margin: 0 0 0.5rem;
+    line-height: 1.55;
+    font-family: var(--font-body);
+}
+.post-mid-cta__btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: #25D366;
+    color: #fff !important;
+    font-weight: 700;
+    font-size: 0.95rem;
+    padding: 0.7rem 1.4rem;
+    border-radius: 8px;
+    text-decoration: none !important;
+    align-self: flex-start;
+    transition: background 0.2s, transform 0.15s;
+}
+.post-mid-cta__btn:hover {
+    background: #1da851;
+    transform: translateY(-1px);
+    color: #fff !important;
+}
+
+/* ── Botão flutuante WhatsApp (mobile only) ── */
+.post-float-wa {
+    display: none;
+}
+@media (max-width: 760px) {
+    .post-float-wa {
+        display: flex;
+        align-items: center;
+        gap: 0.6rem;
+        position: fixed;
+        bottom: 1.25rem;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 9000;
+        background: #25D366;
+        color: #fff !important;
+        text-decoration: none !important;
+        font-weight: 700;
+        font-size: 0.95rem;
+        padding: 0.75rem 1.5rem;
+        border-radius: 50px;
+        box-shadow: 0 4px 20px rgba(37, 211, 102, 0.45);
+        white-space: nowrap;
+        animation: float-wa-in 0.5s ease 1.5s both;
+    }
+    @keyframes float-wa-in {
+        from { opacity: 0; transform: translateX(-50%) translateY(20px); }
+        to   { opacity: 1; transform: translateX(-50%) translateY(0); }
+    }
 }
 
 /* ── Mobile (<= 760px): reduz espaçamentos exagerados e conserta underline H2 ── */
