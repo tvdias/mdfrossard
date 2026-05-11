@@ -382,33 +382,47 @@ a{text-decoration:none}
 /* ─────────────────────────────────────────────────────────── */
 /* ══ 06 DEPOIMENTOS ════════════════════════════════════════ */
 /* ─────────────────────────────────────────────────────────── */
-.depoimentos{padding:88px 20px;background:var(--cream)}
+.depoimentos{padding:100px 20px;background:var(--cream)}
+.testi-header{text-align:center;max-width:800px;margin:0 auto 64px}
+.testi-header h2{
+  font-size:clamp(2.2rem,5vw,3.2rem);font-weight:900;
+  color:var(--ink);line-height:1.1;letter-spacing:-1.5px;margin-bottom:16px;
+}
+.testi-header .stars-main{
+  display:block;font-size:2.5rem;margin:10px 0;color:#F59E0B;
+}
+.testi-header p{
+  font-family:'Inter',sans-serif;font-size:1.1rem;
+  color:var(--muted);max-width:600px;margin:0 auto;
+}
+
 .testi-grid{
   max-width:1100px;margin:0 auto;
-  display:grid;grid-template-columns:1fr;gap:20px;
+  display:grid;grid-template-columns:1fr;gap:24px;
 }
 .testi-card{
-  background:var(--white);padding:30px;
+  background:var(--white);padding:36px;
   border-radius:var(--r);box-shadow:var(--sh-sm);
-  border:1px solid rgba(0,0,0,.04);
-  display:flex;flex-direction:column;gap:14px;
-  transition:all .3s var(--ease);
+  border:1px solid rgba(0,0,0,.05);
+  display:flex;flex-direction:column;gap:20px;
+  transition:all .4s var(--ease);
+  height:100%;
 }
-.testi-card:hover{transform:translateY(-4px);box-shadow:var(--sh-md)}
-.testi-top{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
-.testi-stars{color:#F59E0B;font-size:.95rem;letter-spacing:1px}
+.testi-card:hover{transform:translateY(-6px);box-shadow:var(--sh-md)}
+.testi-top{display:flex;justify-content:space-between;align-items:center}
+.testi-stars{color:#F59E0B;font-size:1.1rem;letter-spacing:2px}
 .testi-google{
-  display:flex;align-items:center;gap:4px;
-  font-family:'Inter',sans-serif;font-size:.7rem;color:var(--muted);
-  text-transform:uppercase;letter-spacing:.8px;
+  font-family:'Inter',sans-serif;font-size:.7rem;color:#A0AEC0;
+  text-transform:uppercase;letter-spacing:1px;font-weight:700;
 }
 .testi-text{
-  font-family:'Inter',sans-serif;font-size:.95rem;
+  font-family:'Inter',sans-serif;font-size:1.02rem;
   color:#4A5568;line-height:1.8;font-style:italic;flex:1;
+  position:relative;
 }
 .testi-author{
-  font-weight:700;font-size:.95rem;color:var(--ink);
-  border-top:1px solid rgba(0,0,0,.06);padding-top:14px;
+  font-weight:800;font-size:1.05rem;color:var(--ink);
+  margin-top:8px;
 }
 
 /* ─────────────────────────────────────────────────────────── */
@@ -672,6 +686,7 @@ a{text-decoration:none}
   .doutores-inner{flex-direction:row}
   .doutor-card{flex:1}
   .doutor-foto{aspect-ratio:3/4}
+  .testi-grid{grid-template-columns:repeat(3,1fr)}
   .galeria-grid{grid-template-columns:1fr 1fr 1fr}
   .localizacao-grid{grid-template-columns:1fr 1fr}
   .footer-grid{grid-template-columns:repeat(3,1fr);align-items:start}
@@ -920,10 +935,9 @@ a{text-decoration:none}
 <!-- ═══════════════════════════════════════════════════════ -->
 <section class="depoimentos">
   <div class="c">
-    <div class="section-header rv">
-      <p class="section-eyebrow">O que dizem</p>
-      <h2 class="section-title">Mais de 100 avaliações<br>⭐⭐⭐⭐⭐ no Google</h2>
-      <p class="section-sub">Pacientes que voltam — e indicam para família e amigos.</p>
+    <div class="testi-header rv">
+      <h2>Mais de 100 avaliações<br><span class="stars-main">★★★★★</span> no Google</h2>
+      <p>Pacientes que voltam — e indicam para família e amigos.</p>
     </div>
 
     <div class="testi-grid">
