@@ -505,16 +505,42 @@ section{padding:64px 0}
 .rv.on{opacity:1;transform:none}
 .d1{transition-delay:.1s}.d2{transition-delay:.2s}.d3{transition-delay:.3s}
 
-/* ── Sticky WPP ── */
+/* ── Sticky WPP (somente desktop) ── */
 .sticky-wpp{
-  position:fixed;bottom:24px;right:20px;z-index:100;
-  width:54px;height:54px;border-radius:50%;
+  position:fixed;bottom:32px;right:28px;z-index:100;
+  width:60px;height:60px;border-radius:50%;
   background:#25d366;box-shadow:0 4px 18px rgba(37,211,102,.5);
-  display:flex;align-items:center;justify-content:center;
+  display:none;align-items:center;justify-content:center;
   color:#fff;transition:transform .2s,box-shadow .2s;
+  text-decoration:none;
 }
 .sticky-wpp:hover{transform:scale(1.1);box-shadow:0 6px 24px rgba(37,211,102,.65)}
-@media(min-width:760px){.sticky-wpp{width:60px;height:60px;bottom:32px;right:28px}}
+@media(min-width:760px){.sticky-wpp{display:flex}}
+
+/* ── Sticky Bar inferior (somente mobile) ── */
+.sticky-bar{
+  position:fixed;left:0;right:0;bottom:0;z-index:100;
+  display:grid;grid-template-columns:1fr 1fr;gap:8px;
+  padding:7px 12px calc(7px + env(safe-area-inset-bottom));
+  background:rgba(255,255,255,.94);
+  -webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);
+  border-top:.5px solid rgba(13,17,23,.08);
+}
+.sticky-bar a{
+  display:flex;align-items:center;justify-content:center;gap:6px;
+  font-family:'Outfit',sans-serif;font-size:.76rem;font-weight:500;
+  padding:8px 6px;border-radius:9px;text-decoration:none;
+  letter-spacing:.1px;line-height:1;min-height:34px;
+  transition:opacity .15s,transform .15s,background .15s;
+}
+.sticky-bar a:active{transform:scale(.97)}
+.sticky-bar .sb-wpp{background:#25d366;color:#fff}
+.sticky-bar .sb-wpp:hover{opacity:.92}
+.sticky-bar .sb-tel{background:#0d1117;color:#fff}
+.sticky-bar .sb-tel svg{color:#e8c44a}
+.sticky-bar .sb-tel:hover{background:#1a2230}
+@media(min-width:760px){.sticky-bar{display:none}}
+@media(max-width:759px){body{padding-bottom:58px}}
 </style>
 
 <!-- ══════════════════════════════════════════════════════════ -->
@@ -1116,7 +1142,23 @@ section{padding:64px 0}
   </div>
 </footer>
 
-<!-- Sticky WhatsApp -->
+<!-- Sticky Bar mobile (WhatsApp + Telefone) -->
+<div class="sticky-bar" role="region" aria-label="Atalhos de contato">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20marcar%20uma%20consulta%20no%20Rio%20de%20Janeiro."
+     onclick="return gtagSendEventWhatsapp(this.href)"
+     class="sb-wpp" aria-label="Agendar pelo WhatsApp">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>
+    WhatsApp
+  </a>
+  <a href="tel:2132170430"
+     onclick="return gtagSendEventTelefone(this.href)"
+     class="sb-tel" aria-label="Ligar para a clínica">
+    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+    Ligar
+  </a>
+</div>
+
+<!-- Sticky WhatsApp (desktop) -->
 <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20marcar%20uma%20consulta%20no%20Rio%20de%20Janeiro." onclick="return gtagSendEventWhatsapp(this.href)" aria-label="Agendar pelo WhatsApp" class="sticky-wpp">
   <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="white" viewBox="0 0 24 24" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>
 </a>
