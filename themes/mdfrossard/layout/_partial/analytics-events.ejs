@@ -2,11 +2,11 @@
 <!-- Valor da conversão atribuído por LP via front-matter `contact_value`.
      Páginas sem contact_value não enviam value/currency (Meta/Google contam
      a conversão sem valor monetário, comportamento idêntico ao anterior). -->
-<% if (typeof page !== 'undefined' && page.contact_value) { %>
-<script>window.MDF_CONTACT_VALUE = <%= isNaN(Number(page.contact_value)) ? 'null' : Number(page.contact_value) %>; window.MDF_CONTACT_CURRENCY = 'BRL';</script>
+<% if (typeof contact_value !== 'undefined' && contact_value) { %>
+<script>window.MDF_CONTACT_VALUE = <%= isNaN(Number(contact_value)) ? 'null' : Number(contact_value) %>; window.MDF_CONTACT_CURRENCY = 'BRL';</script>
 <% } %>
-<% if (typeof page !== 'undefined' && page.content_category) { %>
-<script>window.MDF_CONTENT_CATEGORY = <%= JSON.stringify(String(page.content_category)) %>;</script>
+<% if (typeof content_category !== 'undefined' && content_category) { %>
+<script>window.MDF_CONTENT_CATEGORY = <%= JSON.stringify(String(content_category)) %>;</script>
 <% } %>
 
 <script>
