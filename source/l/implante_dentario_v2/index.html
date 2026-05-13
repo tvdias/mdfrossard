@@ -648,6 +648,10 @@ section{padding:64px 0}
   .transf-list .transf-case:nth-child(3){display:none}
   .google-badge-inner{padding:12px 16px;gap:10px}
   .google-badge-score{font-size:1.6rem}
+  /* H1 menor em mobile — CTAs sobem para o fold */
+  .hero h1{font-size:clamp(1.5rem,6.5vw,1.85rem)}
+  /* Oculta número de telefone na nav — sticky bar já cobre */
+  .hero-nav-tel{display:none}
 }
 </style>
 
@@ -734,7 +738,10 @@ section{padding:64px 0}
     <!-- RIGHT -->
     <div class="hero-visual">
       <picture>
-        <source srcset="/images/hero-img.webp" type="image/webp">
+        <source
+          srcset="/images/hero-img-800w.webp 800w, /images/hero-img.webp 1600w"
+          sizes="(max-width:759px) 100vw, 50vw"
+          type="image/webp">
         <img src="/images/hero-img.webp"
              alt="Dr. Davi Frossard atendendo paciente na MD Frossard Odontologia — Rio de Janeiro"
              class="hero-img"
