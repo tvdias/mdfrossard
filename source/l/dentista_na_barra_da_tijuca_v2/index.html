@@ -720,6 +720,31 @@ a{text-decoration:none}
   .footer-bottom{flex-direction:row;justify-content:space-between}
   .footer-tels{align-items:flex-start}
 }
+
+/* ══════════════════════════════════════════
+   MOBILE COMPACTAÇÃO (max 759px)
+══════════════════════════════════════════ */
+@media(max-width:759px){
+  /* H1 menor — CTAs sobem para o fold */
+  .hero h1{font-size:clamp(1.65rem,7vw,2.1rem);letter-spacing:-1px}
+  /* Oculta número de telefone na nav — sticky bar já cobre */
+  .hero-nav-tel{display:none}
+  /* Reduz padding de todas as seções */
+  .hook{padding:44px 20px}
+  .servicos{padding:48px 20px}
+  .strip-cta{padding:44px 20px}
+  .depoimentos{padding:52px 20px}
+  .galeria{padding:48px 20px}
+  .doutores{padding:48px 20px}
+  .faq{padding:48px 20px}
+  .localizacao{padding:48px 20px}
+  .final-cta{padding:52px 20px}
+  /* Reduz margem interna dos cabeçalhos de seção */
+  .section-header{margin-bottom:32px}
+  .testi-header{margin-bottom:36px}
+  /* Tap target da sticky bar — mínimo recomendado pelo Google */
+  .sticky-bar a{min-height:44px;font-size:.82rem}
+}
 </style>
 
 
