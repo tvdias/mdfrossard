@@ -383,6 +383,9 @@ a{text-decoration:none}
 /* ══ 06 DEPOIMENTOS ════════════════════════════════════════ */
 /* ─────────────────────────────────────────────────────────── */
 .depoimentos{padding:100px 20px;background:var(--cream)}
+.section-label{font-family:'Inter',sans-serif;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:1.2px;color:var(--teal);margin-bottom:12px;}
+.depoimentos .section-title{text-align:center;margin-bottom:8px}
+.depoimentos .section-label{text-align:center;display:block}
 .testi-header{text-align:center;max-width:800px;margin:0 auto 64px}
 .testi-header h2{
   font-size:clamp(2.2rem,5vw,3.2rem);font-weight:900;
@@ -778,7 +781,6 @@ a{text-decoration:none}
   .final-cta{padding:52px 20px}
   /* Reduz margem interna dos cabeçalhos de seção */
   .section-header{margin-bottom:32px}
-  .testi-header{margin-bottom:36px}
   .dep-grid{margin-top:24px!important}
   /* Tap target da sticky bar — mínimo recomendado pelo Google */
   .sticky-bar a{min-height:44px;font-size:.82rem}
@@ -946,10 +948,8 @@ a{text-decoration:none}
 <!-- ═══════════════════════════════════════════════════════ -->
 <section class="depoimentos">
   <div class="c">
-    <div class="testi-header rv">
-      <h2>Mais de 100 avaliações<br><span class="stars-main">★★★★★</span> no Google</h2>
-      <p>Pacientes que voltam — e indicam para família e amigos.</p>
-    </div>
+    <p class="section-label rv">O que nossos pacientes dizem</p>
+    <h2 class="section-title rv">+100 avaliações 5 estrelas<br>no Google</h2>
 
     <!-- Google Reviews Badge -->
     <div class="google-badge rv">
