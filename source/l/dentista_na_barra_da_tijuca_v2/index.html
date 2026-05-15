@@ -762,8 +762,14 @@ a{text-decoration:none}
 @media(max-width:759px){
   /* H1 menor — CTAs sobem para o fold */
   .hero h1{font-size:clamp(1.65rem,7vw,2.1rem);letter-spacing:-1px}
+  /* Hero-sub menor — libera espaço para CTAs no fold */
+  .hero-sub{font-size:1rem}
   /* Oculta número de telefone na nav — sticky bar já cobre */
   .hero-nav-tel{display:none}
+  /* Oculta número no botão de ligação — texto mais limpo no mobile */
+  .tel-btn-number{display:none}
+  /* Trust bar: mostra apenas os 2 primeiros itens */
+  .trust-bar-item:nth-child(3),.trust-bar-item:nth-child(4){display:none}
   /* Reduz padding de todas as seções */
   .hook{padding:44px 20px}
   .servicos{padding:48px 20px}
@@ -821,6 +827,11 @@ a{text-decoration:none}
     <div class="hero-left">
       <div class="hero-left-inner">
 
+        <div class="hero-badge rv">
+          <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          BARRA DA TIJUCA &nbsp;·&nbsp; ★ 5,0 NO GOOGLE
+        </div>
+
         <h1>
           Dentista na<br>
           <span class="hl">Barra da Tijuca</span><br>
@@ -828,9 +839,9 @@ a{text-decoration:none}
         </h1>
 
         <p class="hero-sub">
-          Milhares de sorrisos reabilitados na Barra da Tijuca. Implantes,
-          Facetas e Reabilitação com planejamento digital e atendimento que
-          respeita o seu tempo.
+          Clínica referência na Barra da Tijuca há 38 anos. Implantes,
+          facetas e reabilitação com planejamento digital — e um time
+          que respeita o seu tempo e o seu orçamento.
         </p>
 
         <div class="hero-ctas">
@@ -838,7 +849,7 @@ a{text-decoration:none}
              onclick="return gtagSendEventTelefone(this.href)"
              class="btn btn-gold">
             <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-            Ligar agora - (21) 3217-0430
+            Ligar agora <span class="tel-btn-number">— (21) 3217-0430</span>
           </a>
           <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20marcar%20uma%20consulta%20na%20Barra%20da%20Tijuca."
              onclick="return gtagSendEventWhatsapp(this.href)"
@@ -862,12 +873,14 @@ a{text-decoration:none}
     <!-- RIGHT: foto do Dr. Davi -->
     <div class="hero-right">
       <picture>
-      <source srcset="/images/equipe_davi.webp" type="image/webp">
+      <source srcset="/images/equipe_davi-400w.webp 400w, /images/equipe_davi.webp 533w"
+              sizes="(max-width:759px) 100vw, 42vw"
+              type="image/webp">
       <img src="/images/equipe_davi.webp"
            alt="Dr. Davi Frossard — Dentista na Barra da Tijuca"
            class="hero-photo"
            loading="eager" decoding="sync" fetchpriority="high"
-           width="700" height="933">
+           width="533" height="800">
       </picture>
     </div>
 
