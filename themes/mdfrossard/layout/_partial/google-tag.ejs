@@ -1,5 +1,10 @@
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1003091018"></script>
+<!-- Preload: browser faz o download em segundo plano imediatamente, sem executar → zero TBT.
+     Quando o delay-engine disparar (primeira interação ou 3500ms), o script já estará
+     em cache — execução quase instantânea, sem esperar rede. -->
+<link rel="preload" as="script" href="https://www.googletagmanager.com/gtag/js?id=AW-1003091018">
+<!-- Config enfileirada no dataLayer via stub (consent-default.ejs já definiu
+     function gtag(){dataLayer.push(arguments)} — não gera requisição de rede). -->
 <script>
   window.dataLayer = window.dataLayer || [];
   if (typeof gtag !== 'function') { function gtag(){dataLayer.push(arguments);} }
@@ -7,3 +12,5 @@
   gtag('config', 'AW-1003091018');
   gtag('config', 'G-7S27172376');
 </script>
+<!-- Execução real adiada ao delay-engine. Script já em cache pelo preload acima. -->
+<script type="text/delayed-script" data-src="https://www.googletagmanager.com/gtag/js?id=AW-1003091018"></script>

@@ -1,23 +1,27 @@
-<!-- Microsoft Advertising UET Tag — LGPD-aware
-     Carrega o bat.js apenas após consent do usuário (mesmo flag
-     usado pelo Google Consent Mode e pelo Meta Pixel).
-     Se o consent ainda não foi dado, escuta o evento 'mdf:consent:granted'
-     disparado pelo consent-banner e inicializa o UET nesse momento. -->
+<!-- Microsoft Advertising UET Tag — LGPD-aware + Delay-engine-aware
+     Para visitantes recorrentes (consent já concedido): aguarda o delay-engine
+     (primeira interação ou 3500ms) antes de carregar bat.js — reduz TBT.
+     Para novos visitantes: aguarda o evento 'mdf:consent:granted' do consent-banner.
+     window.uetq é inicializado imediatamente como fila — eventos de conversão
+     disparados antes do carregamento do UET são enfileirados e processados depois. -->
 <script>
+window.uetq = window.uetq || [];
 (function() {
-  function loadUET() {
+  if (window.__mdfUetLoaded) return;
+
+  function doLoadUET() {
     if (window.__mdfUetLoaded) return;
     window.__mdfUetLoaded = true;
-    window.uetq = window.uetq || [];
     (function(w, d, t, u, o) {
       w[u] = w[u] || [], o.ts = (new Date).getTime();
       var n = d.createElement(t);
-      n.src = "https://bat.bing.net/bat.js?ti=" + o.ti + ("uetq" != u ? "&q=" + u : ""),
-      n.async = 1, n.onload = n.onreadystatechange = function() {
+      n.src = "https://bat.bing.net/bat.js?ti=" + o.ti + ("uetq" !== u ? "&q=" + u : "");
+      n.async = 1;
+      n.onload = n.onreadystatechange = function() {
         var s = this.readyState;
-        s && "loaded" !== s && "complete" !== s ||
-        (o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad"),
-        n.onload = n.onreadystatechange = null)
+        if (s && "loaded" !== s && "complete" !== s) return;
+        o.q = w[u]; w[u] = new UET(o); w[u].push("pageLoad");
+        n.onload = n.onreadystatechange = null;
       };
       var i = d.getElementsByTagName(t)[0];
       i.parentNode.insertBefore(n, i);
@@ -27,14 +31,28 @@
     });
   }
 
-  // Verifica consent já concedido em visita anterior
   var consent = null;
   try { consent = localStorage.getItem('mdf_consent_v1'); } catch(e) {}
+
   if (consent === 'granted') {
-    loadUET();
+    // Visitante recorrente: adia carregamento para o delay-engine
+    // (primeira interação do usuário ou fallback de 3500ms).
+    // bat.js fica em cache do preconnect/dns-prefetch — execução rápida ao disparar.
+    var _uetFired = false;
+    function _uetOnce() {
+      if (_uetFired) return;
+      _uetFired = true;
+      doLoadUET();
+    }
+    ['scroll', 'mousemove', 'touchstart', 'click'].forEach(function(evt) {
+      window.addEventListener(evt, _uetOnce, { once: true, passive: true });
+    });
+    setTimeout(_uetOnce, 3500);
   } else {
-    // Aguarda o evento emitido pelo consent-banner ao aceitar
-    window.addEventListener('mdf:consent:granted', loadUET, { once: true });
+    // Novo visitante: aguarda consent explícito.
+    // O clique no banner LGPD também dispara o delay-engine,
+    // então o bat.js não bloqueia o carregamento inicial em nenhum cenário.
+    window.addEventListener('mdf:consent:granted', doLoadUET, { once: true });
   }
 })();
 </script>
