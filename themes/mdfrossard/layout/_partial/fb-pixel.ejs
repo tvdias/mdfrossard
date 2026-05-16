@@ -33,7 +33,7 @@
   // o algoritmo aprende a perfilar visitantes por categoria de página
   // (tratamento-implante, geo-barra, remarketing, etc.) e usa isso
   // pra encontrar audiências similares mesmo sob restrição de "Saúde".
-  fbq('track', 'PageView', { content_category: <%= JSON.stringify(String(content_category)) %> });
+  fbq('track', 'PageView', { content_category: <%- JSON.stringify(String(content_category)) %> });
 <% } else { %>
   fbq('track', 'PageView');
 <% } %>

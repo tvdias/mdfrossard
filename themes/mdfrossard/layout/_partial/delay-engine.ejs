@@ -17,19 +17,23 @@
     var scripts = document.querySelectorAll('script[type="text/delayed-script"]');
     for (var i = 0; i < scripts.length; i++) {
       var s = scripts[i];
-      var newScript = document.createElement('script');
-      newScript.type = 'text/javascript';
-      
-      if (s.hasAttribute('data-src')) {
-          newScript.src = s.getAttribute('data-src');
-          newScript.async = true;
+      try {
+        var newScript = document.createElement('script');
+        newScript.type = 'text/javascript';
+
+        if (s.hasAttribute('data-src')) {
+            newScript.src = s.getAttribute('data-src');
+            newScript.async = true;
+        }
+        if (s.textContent) {
+            newScript.textContent = s.textContent;
+        }
+
+        document.body.appendChild(newScript);
+      } catch(e) {
+        if (typeof console !== 'undefined') console.warn('[delay-engine] script #' + i + ' error:', e);
       }
-      if (s.textContent) {
-          newScript.textContent = s.textContent;
-      }
-      
-      document.body.appendChild(newScript);
-      
+
       // Keep DOM clean (optional)
       s.parentNode.removeChild(s);
     }
