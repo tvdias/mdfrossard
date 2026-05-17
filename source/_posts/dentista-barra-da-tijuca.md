@@ -143,8 +143,8 @@ A MD Frossard Odontologia está pronta para oferecer o melhor cuidado ao seu sor
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": -23.0019,
-    "longitude": -43.3216
+    "latitude": -23.002267,
+    "longitude": -43.319996
   },
   "hasMap": "https://share.google/dByZdhTbp6XWBuVqh",
   "areaServed": [
@@ -191,7 +191,7 @@ A MD Frossard Odontologia está pronta para oferecer o melhor cuidado ao seu sor
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
-    "reviewCount": "120",
+    "reviewCount": "102",
     "bestRating": "5"
   }
 }

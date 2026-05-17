@@ -104,3 +104,83 @@ Atendemos de segunda a sexta, das 8h às 18h. O agendamento é feito pelo telefo
 O atendimento é sempre com hora marcada para garantir pontualidade e dedicação exclusiva ao seu caso. Entre em contato para agendar com antecedência.
 
 Att, MD Frossard Odontologia
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dentist",
+  "@id": "https://mdfrossard.com.br/dentista-em-botafogo/#dentist-botafogo",
+  "name": "MD Frossard Odontologia — Dentista em Botafogo",
+  "url": "https://mdfrossard.com.br/dentista-em-botafogo/",
+  "image": "https://mdfrossard.com.br/images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp",
+  "logo": "https://mdfrossard.com.br/images/logo-MD.jpg",
+  "description": "Clínica odontológica em Botafogo com 38 anos de experiência. Especialistas em implantes, facetas, ortodontia, endodontia, periodontia e reabilitação oral. Ao lado da Cobal do Humaitá.",
+  "telephone": "+552132170430",
+  "priceRange": "$$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rua Marques, 15",
+    "addressLocality": "Rio de Janeiro",
+    "addressRegion": "RJ",
+    "postalCode": "22260-240",
+    "addressCountry": "BR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -22.9542345,
+    "longitude": -43.1964878
+  },
+  "hasMap": "https://share.google/DeseB8CqFwaP0oJKy",
+  "parentOrganization": {
+    "@id": "https://mdfrossard.com.br/#organization"
+  },
+  "areaServed": [
+    { "@type": "Place", "name": "Botafogo" },
+    { "@type": "Place", "name": "Humaitá" },
+    { "@type": "Place", "name": "Flamengo" },
+    { "@type": "Place", "name": "Laranjeiras" },
+    { "@type": "Place", "name": "Urca" },
+    { "@type": "Place", "name": "Catete" },
+    { "@type": "Place", "name": "Glória" }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+      "opens": "08:00",
+      "closes": "18:00"
+    }
+  ],
+  "medicalSpecialty": [
+    "Dentistry",
+    "Prosthodontics",
+    "Endodontics",
+    "Periodontics",
+    "Orthodontics",
+    "CosmeticDentistry"
+  ],
+  "availableService": [
+    { "@type": "MedicalProcedure", "name": "Implante Dentário", "url": "https://mdfrossard.com.br/tratamentos/implante-dentario/" },
+    { "@type": "MedicalProcedure", "name": "Prótese Dentária", "url": "https://mdfrossard.com.br/tratamentos/protese-dentaria/" },
+    { "@type": "MedicalProcedure", "name": "Estética Dental (Facetas e Lentes de Contato)", "url": "https://mdfrossard.com.br/tratamentos/estetica-dental/" },
+    { "@type": "MedicalProcedure", "name": "Endodontia (Canal)", "url": "https://mdfrossard.com.br/tratamentos/endodontia/" },
+    { "@type": "MedicalProcedure", "name": "Periodontia (Gengiva)", "url": "https://mdfrossard.com.br/tratamentos/periodontia/" },
+    { "@type": "MedicalProcedure", "name": "Ortodontia", "url": "https://mdfrossard.com.br/tratamentos/ortodontia/" }
+  ],
+  "employee": [
+    { "@type": "Person", "name": "Dr. Marcos Frossard", "jobTitle": "Cirurgião-Dentista — Prótese e Reabilitação Oral", "url": "https://mdfrossard.com.br/equipe/marcos/" },
+    { "@type": "Person", "name": "Dr. Davi Frossard", "jobTitle": "Cirurgião-Dentista — Implantodontia", "url": "https://mdfrossard.com.br/equipe/davi/" },
+    { "@type": "Person", "name": "Dra. Luciana Peroni", "jobTitle": "Cirurgiã-Dentista — Prótese e Endodontia", "url": "https://mdfrossard.com.br/equipe/luciana/" }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/MdFrossardOdontologia/",
+    "https://www.instagram.com/md_frossard_odontologia/"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "102",
+    "bestRating": "5"
+  }
+}
+</script>
