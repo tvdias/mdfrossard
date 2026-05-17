@@ -118,6 +118,18 @@ export async function handlePost(request, env, ctx) {
     }
   }
 
+  // fbclid enviado pelo browser quando o cookie _fbc ainda não foi setado pelo pixel
+  // (race condition: consent → pixel carrega async → clique imediato no CTA).
+  // Sanitização: apenas caracteres URL-safe, máx 512 chars.
+  // Usado para construir _fbc = "fb.1.{timestamp}.{fbclid}" se cookie ausente.
+  let fbclidRaw = null;
+  if (typeof payload.fbclid === "string") {
+    const candidate = payload.fbclid.trim();
+    if (/^[A-Za-z0-9\-_.~%]+$/.test(candidate) && candidate.length <= 512) {
+      fbclidRaw = candidate;
+    }
+  }
+
   const cookieHeader = request.headers.get("cookie") || "";
   const fbp = getCookie(cookieHeader, "_fbp");
   const fbc = getCookie(cookieHeader, "_fbc");
@@ -134,7 +146,14 @@ export async function handlePost(request, env, ctx) {
 
   const userData = {};
   if (fbp) userData.fbp = fbp;
-  if (fbc) userData.fbc = fbc;
+  // _fbc do cookie tem prioridade. Se ausente (pixel ainda não inicializou) e o
+  // browser enviou fbclid, constrói _fbc no formato oficial Meta: fb.1.{ts}.{fbclid}.
+  // Nunca sobrescreve cookie existente — só preenche quando está vazio.
+  if (fbc) {
+    userData.fbc = fbc;
+  } else if (fbclidRaw) {
+    userData.fbc = `fb.1.${Math.floor(Date.now() / 1000)}.${fbclidRaw}`;
+  }
   if (ipAddr) userData.client_ip_address = ipAddr;
   if (userAgent) userData.client_user_agent = userAgent;
   // External ID: Meta CAPI requer SHA-256 hex em lowercase

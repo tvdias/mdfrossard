@@ -98,6 +98,43 @@ document.addEventListener('DOMContentLoaded', function() {
     return c;
   }
 
+  // Lê fbclid direto da URL no momento do clique — sem armazenamento em localStorage
+  // (evita obrigação de consent explícito para dado de tracking Meta sob LGPD).
+  // Funciona porque o usuário ainda está na página de destino quando clica no CTA.
+  // Usado pelo servidor para construir _fbc quando o cookie ainda não foi setado
+  // pelo pixel (race condition: consent → delay-engine carrega pixel async → clique imediato).
+  function mdfGetFbclid() {
+    try {
+      return new URLSearchParams(window.location.search).get('fbclid') || null;
+    } catch(e) { return null; }
+  }
+
+  // Captura e persiste gclid / wbraid / gbraid (iOS) — TTL 90 dias (padrão Google).
+  // Usado para Offline Conversion Import: associa leads WhatsApp/telefone ao clique original.
+  // Não afeta os eventos de conversão existentes — apenas adiciona o dado ao beacon.
+  function mdfGetGclid() {
+    var KEY = 'mdf_gclid_v1';
+    var TTL = 90 * 24 * 60 * 60 * 1000; // 90 dias em ms
+    try {
+      var params = new URLSearchParams(window.location.search);
+      // gclid = Google Ads; wbraid/gbraid = click IDs alternativos para iOS (privacy-safe)
+      var fresh = params.get('gclid') || params.get('wbraid') || params.get('gbraid');
+      if (fresh) {
+        localStorage.setItem(KEY, JSON.stringify({ value: fresh, ts: Date.now() }));
+        return fresh;
+      }
+    } catch(e) {}
+    try {
+      var raw = localStorage.getItem(KEY);
+      if (raw) {
+        var obj = JSON.parse(raw);
+        if (obj && obj.value && (Date.now() - obj.ts) < TTL) return obj.value;
+        localStorage.removeItem(KEY); // expirado
+      }
+    } catch(e) {}
+    return null;
+  }
+
   // External ID estável por browser — Advanced Matching para CAPI.
   // Persistido em localStorage (mais durável que cookies sob iOS Safari ITP).
   // LGPD: gerado APENAS após consent='granted'. Hashed server-side antes
@@ -133,6 +170,10 @@ document.addEventListener('DOMContentLoaded', function() {
     if (eid) { payload.external_id = eid; }
     var cat = mdfContentCategory();
     if (cat) { payload.content_category = cat; }
+    var gclid = mdfGetGclid();
+    if (gclid) { payload.gclid = gclid; }
+    var fbclid = mdfGetFbclid();
+    if (fbclid) { payload.fbclid = fbclid; }
     var data = JSON.stringify(payload);
     try {
       if (navigator.sendBeacon) {
