@@ -571,6 +571,7 @@ img {
     letter-spacing: -1px;
     margin-bottom: 24px;
     color: white;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.6);
 }
 
 .hero-text p {

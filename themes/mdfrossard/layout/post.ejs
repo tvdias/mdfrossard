@@ -156,7 +156,9 @@ var readingTime = Math.max(1, Math.round(wordCount / 200));
                 <% if (typeof category !== 'undefined' && category) { %>
                 <span class="post-tag"><i data-lucide="tag" style="width:0.7rem; height:0.7rem;"></i> <%= category %></span>
                 <% } %>
+                <% if (typeof is_location_page === 'undefined' || !is_location_page) { %>
                 <span class="post-reading-time"><i data-lucide="clock" style="width:0.85rem; height:0.85rem;"></i> <%= readingTime %> min de leitura</span>
+                <% } %>
                 <% var updatedDate = (typeof updated !== 'undefined' && updated) ? updated : (p.date || null); %>
                 <% if (updatedDate) { %>
                 <span class="post-reading-time"><i data-lucide="calendar" style="width:0.85rem; height:0.85rem;"></i> Atualizado em <%= new Date(updatedDate).toLocaleDateString('pt-BR', {day:'2-digit', month:'long', year:'numeric'}) %></span>
