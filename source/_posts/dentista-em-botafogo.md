@@ -1,109 +1,140 @@
 ---
-title: Dentista em Botafogo na cidade do Rio de Janeiro 
-description: >-
- Dentista em Botafogo na cidade do Rio de Janeiro. Faça seu tratamento em nossa clínica com conforto e segurança. Veja os depoimentos de diversos pacientes. 
+title: 'Dentista em Botafogo: Clínica MD Frossard'
+description: "Dentista em Botafogo há 38 anos. Implantes, facetas e reabilitação oral com especialistas titulados, na Rua Marques, 15, ao lado da Cobal. Agende sua avaliação."
 date: 2016-04-24T10:13:44.000Z
 featured_image: /images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp
 ---
-A Zona Sul do Rio de Janeiro é uma das regiões mais badaladas do [Rio de Janeiro.](https://pt.wikipedia.org/wiki/Rio_de_Janeiro) Se você procura um dentista em Botafogo, saiba que está em um dos bairros mais tradicionais da cidade. 
 
-Apresentando praias e pontos turísticos conhecidos no mundo todo, nessa região se encontra o [bairro de Botafogo](https://pt.wikipedia.org/wiki/Botafogo), que é um dos mais antigos do Rio de Janeiro. 
+## Dentista em Botafogo: Tradição e Especialização no Coração da Zona Sul
 
-Nossa clínica esta localizado neste mesmo Bairro há mais 35 anos. Estamos localizados ao lado da Cobal e perto do largo dos Leões.
+Se você procura um **dentista em Botafogo** que una experiência consolidada e odontologia de alta performance, a **MD Frossard Odontologia** está a poucos passos de você. Com mais de 38 anos de presença no bairro, nossa clínica atende pacientes de Botafogo, Humaitá, Flamengo, Laranjeiras e toda a Zona Sul do Rio de Janeiro.
 
-**Para marcar uma consulta em nossa clínica de Botafogo ligue para o telefone(21) 3217-0430 ou nos envie uma mensagem via [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).**
+Nossa unidade fica na **Rua Marques, 15**, ao lado da Cobal do Humaitá e próximo ao Largo dos Leões — um endereço fácil de acessar tanto de metrô quanto de carro.
 
-## **Dentista em Botafogo**
+Ligue para **(21) 3217-0430** ou envie uma **[mensagem via WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)** para falar com nossa equipe.
 
-![dentista em Botafogo](/images/ffa0ae7c-6c17-4a72-8cb4-34199f5f5f93_Dentista-em-botafogo.webp) 
+---
 
-A MD Frossard Odontologia é uma clínica odontológica antiga e familiar no Rio de Janeiro. Com 38 anos de atendimento no bairro de Botafogo sempre levamos o melhor para nosso paciente.
+## Por que escolher nossa clínica de Dentista em Botafogo?
 
-Nosso [equipe](/equipe/) possui diversos profissionais e são liderados pelos dentistas **Marcos e Davi Frossard.** 
+Escolher o dentista certo envolve confiança, qualidade técnica e respeito ao seu tempo. Nossa unidade de Botafogo se destaca por:
 
-Temos o conceito moderno da odontologia, visando a saúde completa do indivíduo e não somente os dentes. Por isso focamos nosso atendimento na alta perfomance, através de uma odontologia contemporânea focada em 3 pilares : **Relacionamento, confiança e pontualidade.** 
+- ✅ **Localização Central:** Rua Marques, 15 — ao lado da Cobal do Humaitá, a 10 minutos da estação de metrô Botafogo.
 
-Para isso, temos um amplo espaço para o atendimentode diversars especialidades, tais como:
+- ✅ **Equipe Estável:** Você é atendido pelos mesmos especialistas do início ao fim do tratamento. Sem rotatividade de profissionais.
 
-- Implante Dentário ;
-- Prótese Dentária ; 
-- Facetas ;
-- Tratamento de canal ; 
-- Tratamento de gengiva ; 
-- Entre outros. 
+- ✅ **Atendimento sem Atraso:** Trabalhamos com hora marcada e pontualidade é um valor inegociável da clínica.
 
-Caso precise de um **dentista em Botafogo** entre em contato conosco, basta clicar aqui e ver os nossos [contatos.](/contato/) 
+- ✅ **Odontologia Completa:** Implantes, estética, canal, gengiva, prótese e ortodontia — tudo em um único lugar.
 
-O nosso endereço fica na Rua Marques número 15. Para ver a nossa exata localização, [clique aqui.](/localizacao/)
+<br>
 
-## O que dizem sobre a nossa clínica odontológica em Botafogo
+<p style="text-align: center;">
+  <img src="/images/ffa0ae7c-6c17-4a72-8cb4-34199f5f5f93_Dentista-em-botafogo.webp" alt="Clínica MD Frossard Odontologia em Botafogo" style="max-width: 100%; height: auto; border-radius: 12px;" loading="lazy" decoding="async">
+</p>
 
-"Minha experiência foi maravilhosa, aumentou muito minha autoestima, antes eu não sorria nas fotos, meus dentes não apareciam, depois do trabalho executado por Dr.Marcos, Dr.Davi e equipe, vivo sorrindo, sou outra pessoa, muito feliz e agradecida por tudo que recebi dessas pessoas, profissionais competentes e abençoados. Obrigada "
+<br>
 
-**_"Célia Regina Paiva"_**
+---
 
-- - - 
+## Especialistas à sua disposição em Botafogo
 
-"Fiquei super satisfeito com o processo e resultado do tratamento estético-dentário que fiz na Md Frossard Odontologia. Nota 10 em todos os quesitos para a equipe comandada pelos Drs. Marcos e seu filho David. Além da expertise profissional, destaque para o clima de gentileza, pontualidade e responsabilidade. E o pessoal de suporte não fica atrás, demostrando uma competência que deve ser fruto de apurada seleção e treinamento."
+Nossa [equipe](/equipe/) é formada por especialistas titulados, cada um com foco em sua área de atuação:
 
-**_"Otávio Azevedo"_**
+- 👨‍⚕️ **[Dr. Marcos Frossard ➔](/equipe/marcos/):** Formado pela UEL, com mais de 30 anos de experiência em Reabilitação Oral, Prótese e Estética. Referência no tratamento de casos complexos.
 
-- - -
+- 👨‍⚕️ **[Dr. Davi Frossard ➔](/equipe/davi/):** Formado pela UERJ, especialista em Implantodontia pela São Leopoldo Mandic. Atua em cirurgias guiadas, implantes e reabilitação. Docente em cursos de pós-graduação.
 
-"Sou cliente do Dr. Marcos Frossard desde 2003. No decorrer desses dez anos tive a oportunidade de fazer diversos trabalhos, muitos dos quais complexos, com cujos resultados fiquei 100% satisfeita! Além de excelente profissional, o Dr. Marcos, de quem a minha mãe e o meu marido também são clientes, se tornou um dileto amigo da nossa família."
+- 👩‍⚕️ **[Dra. Luciana Vieira Peroni ➔](/equipe/luciana/):** Formada pela UERJ, com especialização em Prótese Dentária e Mestrado pela FO-UERJ. Atua em prótese e endodontia para adultos e crianças.
 
-**_"Andrea Bastianelli Maciel"_**
- 
-- - - 
+- 👩‍⚕️ **[Dra. Carolina Ganimi ➔](/equipe/carolina/):** Especialista em Endodontia e Implantodontia pela ABO. Referência em tratamento de canal e reabilitação com tecnologia de precisão.
 
-Veja mais [depoimentos](/depoimentos/) sobre o nosso atendimento na clínica de Botafogo. 
+- 👩‍⚕️ **[Dra. Magali Ribeiro ➔](/equipe/magali/):** Graduação PUC-RS, especialização UFRGS, Mestrado e Doutorado pela UERJ. Professora de Periodontia no IOPUC-RJ. Referência no tratamento de gengiva.
 
-## Precisa marcar um atendimento com um dentista em Botafogo?
+---
 
-Em nossa clínica, possuímos diversos tipos de tratamentos, como estética com facetas de porcelana, Implantes dentais, clareamento, Ortodontia entre outros. 
+## Sua primeira consulta: diagnóstico transparente
 
-Em nosso site possuímos uma área aonde explicamos cada tipo de tratamento e os benefícios, caso tenha interesse, [veja aqui](/tratamentos/).
+Em sua primeira visita ao nosso **dentista em Botafogo**, você recebe uma avaliação completa que inclui:
 
-Caso ainda tenha dúvidas, ligue para nós ou deixe seu comentário no post. 
+1. 🔎 Análise da **[saúde gengival e tecidos de suporte ➔](/tratamentos/periodontia/)**.
+2. 🦷 Verificação das restaurações e próteses existentes.
+3. ✨ Avaliação da **[estética do sorriso ➔](/tratamentos/estetica-dental/)** em relação à harmonia facial.
+4. 🗣️ Discussão honesta sobre expectativas e opções de tratamento.
 
-Nosso atendimento é individual e portanto com hora marcada e sem atraso. Caso necessite de um **dentista em Botafogo** ligue para(21) 3217-0430 para nós que estaremos a sua disposição para atendimento.
+Você sai da consulta com um plano claro em mãos — sem surpresas.
 
-Caso você precise de um [dentista na Barra da Tijuca](/dentista-barra-da-tijuca/), também possuimos uma unidade nesse bairro. Nela contamos com toda a infra-estrutura que você precisa. 
+<br>
 
-## Tratamentos Disponíveis na Clínica de Botafogo
+<p style="text-align: center;">
+  <img src="/images/uploads/2016/10/Dentista-em-botafogo.webp" alt="Atendimento odontológico na clínica de Botafogo" style="max-width: 100%; height: auto; border-radius: 12px;" loading="lazy" decoding="async">
+</p>
 
-Na nossa unidade de Botafogo, realizamos uma ampla gama de tratamentos odontológicos com a mesma qualidade que nos tornou referência no Rio de Janeiro há mais de 38 anos:
+<br>
 
-**Implante Dentário:** Recolocamos dentes perdidos de forma definitiva e com aparência natural, utilizando implantes de titânio de alta performance. Ideal para quem perdeu um ou mais dentes e quer recuperar a mastigação e o sorriso.
+---
 
-**Facetas de Porcelana e Lentes de Contato Dental:** Para quem quer transformar o sorriso com resultado natural e duradouro. Corrigimos cor, forma e tamanho dos dentes em poucas sessões.
+## O que nossos pacientes dizem
 
-**Ortodontia:** Alinhamento dos dentes com aparelhos fixos metálicos, estéticos ou alinhadores transparentes. Tratamos crianças, adolescentes e adultos.
+> "Minha experiência foi maravilhosa, aumentou muito minha autoestima. Antes eu não sorria nas fotos, meus dentes não apareciam. Depois do trabalho executado por Dr. Marcos, Dr. Davi e equipe, vivo sorrindo. Profissionais competentes e abençoados."
+> — **Célia Regina Paiva**
 
-**Periodontia:** Tratamento de gengiva inflamada, gengivite e doença periodontal. A saúde das gengivas é essencial para a longevidade dos dentes.
+> "Fiquei super satisfeito com o processo e resultado do tratamento estético que fiz na MD Frossard. Nota 10 em todos os quesitos. Além da expertise profissional, destaque para o clima de gentileza, pontualidade e responsabilidade."
+> — **Otávio Azevedo**
 
-**Tratamento de Canal (Endodontia):** Salve seu dente sem dor. Nossos procedimentos de canal são realizados com anestesia eficaz e tecnologia de precisão.
+> "Sou cliente do Dr. Marcos Frossard desde 2003. Tive a oportunidade de fazer diversos trabalhos, muitos dos quais complexos, com resultados que me deixaram 100% satisfeita. Além de excelente profissional, tornou-se um dileto amigo da família."
+> — **Andrea Bastianelli Maciel**
 
-## Como Chegar à Nossa Clínica em Botafogo
+Veja mais **[depoimentos de pacientes reais ➔](/depoimentos/)**.
 
-Nossa unidade de Botafogo fica na **Rua Marques, 15**, ao lado da Cobal do Humaitá, em frente ao Largo dos Leões. O endereço é de fácil acesso tanto de carro quanto de transporte público.
+---
 
-- **De metrô:** Estação Botafogo (Linha 1 — Orange), a aproximadamente 10 minutos a pé ou de táxi
-- **De ônibus:** Diversas linhas passam pela Rua Voluntários da Pátria e pela Rua Humaitá
-- **De carro:** Estacionamento disponível na Rua Marques e redondezas
+## Tratamentos disponíveis na unidade de Botafogo
 
-## Perguntas Frequentes sobre nossa Clínica em Botafogo
+- 🔸 **[Implante Dentário ➔](/tratamentos/implante-dentario/)** — Reposição de dentes perdidos com implantes de titânio de alta performance e resultado natural.
+- 🔸 **[Prótese Dentária ➔](/tratamentos/protese-dentaria/)** — Coroas, pontes e próteses sobre implante para restaurar função e estética.
+- 🔸 **[Facetas e Lentes de Contato Dental ➔](/tratamentos/estetica-dental/)** — Transformação do sorriso com resultado natural e duradouro.
+- 🔸 **[Tratamento de Canal (Endodontia) ➔](/tratamentos/endodontia/)** — Procedimentos realizados com anestesia eficaz e tecnologia de precisão.
+- 🔸 **[Tratamento de Gengiva (Periodontia) ➔](/tratamentos/periodontia/)** — Controle de gengivite e doença periodontal com a Dra. Magali, doutora pela UERJ.
+- 🔸 **[Ortodontia ➔](/tratamentos/ortodontia/)** — Aparelhos fixos metálicos, estéticos e alinhadores transparentes para todas as idades.
+
+Também atendemos em nossa **[unidade da Barra da Tijuca ➔](/dentista-barra-da-tijuca/)** com a mesma infraestrutura e equipe.
+
+---
+
+## Como chegar à nossa clínica em Botafogo
+
+Nossa clínica fica na **Rua Marques, 15**, ao lado da Cobal do Humaitá, próxima ao Largo dos Leões.
+
+- **De metrô:** Estação Botafogo (Linha 1 — laranja), aproximadamente 10 minutos a pé.
+- **De ônibus:** Diversas linhas circulam pela Rua Voluntários da Pátria e pela Rua Humaitá.
+- **De carro:** Estacionamento disponível na Rua Marques e redondezas.
+
+---
+
+## Perguntas frequentes
 
 **Vocês atendem por convênio em Botafogo?**
-Nosso atendimento é particular em ambas as unidades. Trabalhamos com pagamento parcelado e fornecemos documentação para reembolso junto ao seu plano odontológico, quando aplicável.
+Nosso atendimento é particular em ambas as unidades. Trabalhamos com parcelamento e fornecemos documentação para reembolso junto ao plano odontológico, quando aplicável.
 
 **Qual o horário de atendimento?**
-Atendemos de segunda a sexta, das 8h às 18h. O agendamento é feito pelo telefone (21) 3217-0430 ou pelo WhatsApp (21) 97663-7803.
+De segunda a sexta, das 8h às 18h. Agendamentos pelo telefone **(21) 3217-0430** ou pelo **[WhatsApp (21) 97663-7803 ➔](https://api.whatsapp.com/send?phone=5521976637803)**.
 
 **Preciso marcar consulta ou posso ir sem agendamento?**
-O atendimento é sempre com hora marcada para garantir pontualidade e dedicação exclusiva ao seu caso. Entre em contato para agendar com antecedência.
+O atendimento é sempre com hora marcada, garantindo pontualidade e dedicação exclusiva ao seu caso.
 
-Att, MD Frossard Odontologia
+**A clínica atende crianças?**
+Sim. A Dra. Luciana Vieira Peroni realiza atendimento infantil e adulto na unidade.
+
+---
+
+## Agende sua avaliação hoje mesmo
+
+Se você mora em Botafogo, Humaitá, Flamengo ou na Zona Sul e procura um **dentista em Botafogo** com experiência real e equipe estável, venha nos conhecer.
+
+- **📞 Telefone:** (21) 3217-0430
+- **💬 WhatsApp:** **[Falar agora ➔](https://api.whatsapp.com/send?phone=5521976637803)**
+- **📍 Endereço:** **[Rua Marques, 15 — Botafogo ➔](/localizacao/)**
 
 <script type="application/ld+json">
 {
