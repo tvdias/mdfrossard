@@ -1,10 +1,9 @@
 ---
 layout: layout.ejs
 id: home
-title: Dentista Na Barra da Tijuca e Botafogo
+title: Dentista na Barra da Tijuca e em Botafogo
 description: >-
-  Dentista na Barra da tijuca e em Botafogo. A Clínica odontológica MD Frossard pode mudar seu sorriso. Confira a nossa
-  filosofia de atendimento.
+  Dentista na Barra da Tijuca há 38 anos. Especialistas em implantes, facetas e reabilitação oral no Shopping Città América. Agende sua avaliação — atendemos também em Botafogo.
 active_menu: home
 hide_title: true
 contact_value: 3000
@@ -20,9 +19,8 @@ featured_image: /images/hero-img.webp
     </div>
     <div class="container hero-content">
         <div class="hero-text">
-            <h1>Dentista na Barra da Tijuca e Botafogo</h1>
-            <p class="hero-subtitle">Seu sorriso levado a sério, com tecnologia e conforto. Equipe qualificada para
-                devolver a sua autoestima — tratamentos completos em duas unidades no Rio.</p>
+            <h1>Dentista na Barra da Tijuca</h1>
+            <p class="hero-subtitle">Especialistas em implantes, facetas e reabilitação oral no Shopping Città América, há 38 anos. Atendemos também em Botafogo.</p>
             <div class="hero-buttons">
                 <a href="tel:21976637803" onclick="return gtagSendEventTelefone(this.href)"
                     class="btn btn-primary btn-lg">Marque sua Avaliação</a>
@@ -177,8 +175,10 @@ featured_image: /images/hero-img.webp
                     22260-240</p>
                 <p style="color: #555; margin-bottom: 20px;">Atende pacientes da Zona Sul com o mesmo padrão de
                     excelência. Fácil acesso e estacionamento nas proximidades.</p>
-                <a href="/localizacao/" style="color: #c9a227; font-weight: 600; text-decoration: none;">Ver localização
-                    →</a>
+                <a href="/dentista-em-botafogo/"
+                    style="color: #c9a227; font-weight: 600; text-decoration: none;">Conhecer a unidade de Botafogo →</a>
+                <span style="color: #aaa; margin: 0 8px;">·</span>
+                <a href="/localizacao/" style="color: #c9a227; font-weight: 600; text-decoration: none;">Ver localização</a>
             </div>
         </div>
     </div>
@@ -188,58 +188,46 @@ featured_image: /images/hero-img.webp
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "MedicalOrganization",
+  "@type": "Dentist",
+  "@id": "https://mdfrossard.com.br/#dentist",
   "name": "MD Frossard Odontologia",
   "url": "https://mdfrossard.com.br/",
   "logo": "https://mdfrossard.com.br/images/logo-MD.jpg",
   "image": "https://mdfrossard.com.br/images/estrutura_new.webp",
-  "description": "Clínica odontológica de alta performance no Rio de Janeiro, com unidades na Barra da Tijuca e Botafogo.",
-  "telephone": "+5521976637803",
-  "location": [
+  "description": "Dentista na Barra da Tijuca há 38 anos. Especialistas em implantes, facetas e reabilitação oral, no Shopping Città América.",
+  "telephone": "+552132170430",
+  "priceRange": "$$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Av. das Américas, 700 - Bloco 2 / Sala 143",
+    "addressLocality": "Rio de Janeiro",
+    "addressRegion": "RJ",
+    "postalCode": "22640-100",
+    "addressCountry": "BR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -23.002267,
+    "longitude": -43.319996
+  },
+  "hasMap": "https://share.google/dByZdhTbp6XWBuVqh",
+  "openingHoursSpecification": [
     {
-      "@type": "Dentist",
-      "name": "MD Frossard Odontologia - Barra da Tijuca",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Av. das Américas, 700 - Bloco 2, Sala 143",
-        "addressLocality": "Rio de Janeiro",
-        "addressRegion": "RJ",
-        "postalCode": "22640-100",
-        "addressCountry": "BR"
-      },
-      "telephone": "+552132170430",
-      "openingHours": "Mo-Fr 08:00-18:00",
-      "hasMap": "https://share.google/dByZdhTbp6XWBuVqh",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": -23.002267,
-        "longitude": -43.319996
-      }
-    },
-    {
-      "@type": "Dentist",
-      "name": "MD Frossard Odontologia - Botafogo",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Rua Marques, 15",
-        "addressLocality": "Rio de Janeiro",
-        "addressRegion": "RJ",
-        "postalCode": "22260-240",
-        "addressCountry": "BR"
-      },
-      "telephone": "+552132170430",
-      "openingHours": "Mo-Fr 08:00-18:00",
-      "hasMap": "https://share.google/DeseB8CqFwaP0oJKy",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": -22.9542345,
-        "longitude": -43.1964878
-      }
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+      "opens": "08:00",
+      "closes": "18:00"
     }
   ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "102",
+    "bestRating": "5"
+  },
   "sameAs": [
-    "https://www.facebook.com/mdfrossard",
-    "https://www.instagram.com/mdfrossard"
+    "https://www.facebook.com/MdFrossardOdontologia/",
+    "https://www.instagram.com/md_frossard_odontologia/"
   ]
 }
 </script>

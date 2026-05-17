@@ -90,9 +90,9 @@ Tudo isso é incluso no plano de tratamento apresentado na avaliação inicial: 
 
 Nossa equipe de estética é composta por:
 
-- **[Dr. Marcos Frossard](/equipe/marcos/)** — Especialista em Prótese e Estética (CRO 14445), atuando em facetas e reabilitação oral há mais de 30 anos.
-- **[Dr. Davi Frossard](/equipe/davi/)** — Especialista em Implantodontia (CRO 36193), responsável por casos que combinam implante + faceta.
-- **[Dra. Luciana Peroni](/equipe/luciana/)** — Especialista em Prótese e Endodontia, com olhar atento à integração estética + saúde dental.
+- **[Dr. Marcos Frossard](/equipe/marcos/)** — Especialista em Prótese e Estética (CRO-RJ 8058), atuando em facetas e reabilitação oral há mais de 30 anos.
+- **[Dr. Davi Frossard](/equipe/davi/)** — Especialista em Implantodontia (CRO-RJ 36193), responsável por casos que combinam implante + faceta.
+- **[Dra. Luciana Peroni](/equipe/luciana/)** — Especialista em Prótese e Endodontia (CRO-RJ 38219), com olhar atento à integração estética + saúde dental.
 
 A integração entre as três especialidades importa: muitos casos de faceta envolvem dentes com canal tratado, dentes que precisam de pequenos ajustes ortodônticos antes, ou áreas com perda óssea. Fazer tudo em uma só clínica reduz risco de "telefone sem fio" entre profissionais.
 

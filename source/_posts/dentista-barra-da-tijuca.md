@@ -56,13 +56,13 @@ Escolher um **dentista na Barra da Tijuca** envolve avaliar minuciosamente a fac
 
 Como o seu **dentista na Barra da Tijuca**, nossa clínica é liderada por uma equipe de especialistas apaixonados pela odontologia:
 
-- 👨‍⚕️ **[Dr. Marcos Frossard ➔](/equipe/marcos/):** Referência em Prótese e Reabilitação Oral.
+- 👨‍⚕️ **[Dr. Marcos Frossard ➔](/equipe/marcos/)** (CRO-RJ 8058): Referência em Prótese e Reabilitação Oral.
  
-- 👨‍⚕️ **[Dr. Davi Frossard ➔](/equipe/davi/):** Especialista em Implantodontia, focado em cirurgias guiadas e reabilitação complexa.
+- 👨‍⚕️ **[Dr. Davi Frossard ➔](/equipe/davi/)** (CRO-RJ 36193): Especialista em Implantodontia, focado em cirurgias guiadas e reabilitação complexa.
  
-- 👩‍⚕️ **[Dra. Luciana Peroni ➔](/equipe/luciana/):** Especialista em Prótese dentária e Endodontia, com vasta experiência em atendimento humanizado.
+- 👩‍⚕️ **[Dra. Luciana Peroni ➔](/equipe/luciana/)** (CRO-RJ 38219): Especialista em Prótese dentária e Endodontia, com vasta experiência em atendimento humanizado.
 
-A integração entre as diversas especialidades nos permite oferecer uma visão 360º do seu tratamento, garantindo que a saúde bucal e a estética caminhem sempre juntas.
+A integração entre as diversas especialidades nos permite oferecer uma visão 360º do seu tratamento, garantindo que a saúde bucal e a estética caminhem sempre juntas. **EPAO 3415 — Responsável Técnico: Dr. Davi Frossard (CRO-RJ 36193).**
 
 ---
 
@@ -133,6 +133,20 @@ Nossa clínica fica no **Shopping Città América — Av. das Américas, 700, Bl
 - 🚌 **BRT:** Estação Alvorada (corredor Transoeste), com conexão direta para a Av. das Américas.
 - 🚍 **Ônibus:** Diversas linhas circulam pela Av. das Américas com parada em frente ao Shopping Città América.
 - 🚗 **De carro:** Estacionamento amplo e coberto no próprio shopping, com entrada pela Av. das Américas.
+
+<br>
+
+<p style="text-align: center;">
+  <iframe
+    src="https://maps.google.com/maps?q=Shopping+Citt%C3%A0+Am%C3%A9rica+Av+das+Am%C3%A9ricas+700+Barra+da+Tijuca+Rio+de+Janeiro&t=m&z=15&output=embed&iwloc=near"
+    width="100%"
+    height="300"
+    style="border:0; border-radius: 12px; max-width: 100%;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</p>
 
 ---
 
