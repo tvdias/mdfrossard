@@ -3,14 +3,28 @@ title: 'Dentista na Barra da Tijuca: Clínica MD Frossard'
 author: Davi Heringer Frossard
 description: "Dentista na Barra da Tijuca há 38 anos. Implantes, facetas e reabilitação oral com 3 especialistas titulados, no Shopping Città América. Agende sua avaliação."
 date: 2014-05-12T11:02:32.000Z
+updated: 2026-05-17T00:00:00.000Z
 featured_image: /images/uploads/2024/dentista_barra_da_tijuca_md.webp
+faqs:
+  - question: Onde fica a clínica de dentista na Barra da Tijuca?
+    answer: "Nossa clínica fica no Shopping Città América — Av. das Américas, 700, Bloco 2, Sala 143, Barra da Tijuca, Rio de Janeiro. Acesso fácil pelo Metrô Jardim Oceânico (Linha 4 — amarela), pelo BRT Alvorada e estacionamento próprio no shopping."
+  - question: Qual o horário de atendimento na Barra da Tijuca?
+    answer: "Atendemos de segunda a sexta, das 8h às 18h. O agendamento é feito pelo telefone (21) 3217-0430 ou pelo WhatsApp (21) 97663-7803."
+  - question: Vocês atendem por convênio na Barra da Tijuca?
+    answer: "Nosso atendimento é particular. Trabalhamos com parcelamento e fornecemos documentação para reembolso junto ao seu plano odontológico, quando aplicável."
+  - question: Como agendar consulta com o dentista na Barra da Tijuca?
+    answer: "Pelo telefone (21) 3217-0430 ou pelo WhatsApp (21) 97663-7803. O atendimento é sempre com hora marcada para garantir pontualidade e dedicação exclusiva ao seu caso."
+  - question: Vocês fazem implante dentário na Barra da Tijuca?
+    answer: "Sim. O Dr. Davi Frossard é especialista em Implantodontia pela São Leopoldo Mandic e realiza desde implantes unitários até reabilitações completas com carga imediata, com planejamento digital e guia cirúrgico."
+  - question: Atendem pacientes do Recreio, Jacarepaguá e São Conrado?
+    answer: "Sim. Atendemos pacientes de toda a região Oeste do Rio: Barra da Tijuca, Recreio dos Bandeirantes, Jacarepaguá, São Conrado, Itanhangá e Joá. Nossa localização no Shopping Città América (Av. das Américas, 700) facilita o acesso por todas essas regiões."
 ---
 
 ## Dentista na Barra da Tijuca: Excelência e Cuidado Especializado
 
 Se você procura um excelente **dentista na Barra da Tijuca** que combine tradição familiar com o que há de mais moderno na odontologia, a **MD Frossard Odontologia** é o seu destino ideal. Com mais de 38 anos de atuação no Rio de Janeiro, nossa unidade na Barra foi planejada para oferecer um padrão de atendimento diferenciado, focado em resultados estéticos e funcionais de alta performance.
 
-Localizada no conceituado **Shopping Città America** (Bloco 2 / Sala 143), nossa clínica oferece conveniência, segurança e uma infraestrutura tecnológica completa para cuidar do seu sorriso.
+Localizada no conceituado **Shopping Città America** (Bloco 2 / Sala 143), nossa clínica oferece conveniência, segurança e uma infraestrutura tecnológica completa para cuidar do seu sorriso. Atendemos pacientes da Barra da Tijuca, Recreio dos Bandeirantes, Jacarepaguá, São Conrado, Itanhangá e Joá.
 
 Ligue para **(21) 3217-0430** ou envie uma **[mensagem via WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)** para falar diretamente com nossa equipe.
 
@@ -108,6 +122,39 @@ Atendemos todas as necessidades odontológicas em nossa clínica com o seu **den
 </p>
 
 <br>
+
+---
+
+## Como chegar ao nosso consultório na Barra da Tijuca
+
+Nossa clínica fica no **Shopping Città América — Av. das Américas, 700, Bloco 2, Sala 143**, com fácil acesso por diferentes meios de transporte:
+
+- 🚇 **Metrô:** Estação Jardim Oceânico (Linha 4 — amarela), a poucos metros do shopping.
+- 🚌 **BRT:** Estação Alvorada (corredor Transoeste), com conexão direta para a Av. das Américas.
+- 🚍 **Ônibus:** Diversas linhas circulam pela Av. das Américas com parada em frente ao Shopping Città América.
+- 🚗 **De carro:** Estacionamento amplo e coberto no próprio shopping, com entrada pela Av. das Américas.
+
+---
+
+## Perguntas Frequentes
+
+**Onde fica a clínica de dentista na Barra da Tijuca?**
+Nossa clínica fica no Shopping Città América — Av. das Américas, 700, Bloco 2, Sala 143, Barra da Tijuca, Rio de Janeiro. Acesso fácil pelo Metrô Jardim Oceânico (Linha 4 — amarela), pelo BRT Alvorada e estacionamento próprio no shopping.
+
+**Qual o horário de atendimento na Barra da Tijuca?**
+Atendemos de segunda a sexta, das 8h às 18h. O agendamento é feito pelo telefone (21) 3217-0430 ou pelo WhatsApp (21) 97663-7803.
+
+**Vocês atendem por convênio na Barra da Tijuca?**
+Nosso atendimento é particular. Trabalhamos com parcelamento e fornecemos documentação para reembolso junto ao seu plano odontológico, quando aplicável.
+
+**Como agendar consulta com o dentista na Barra da Tijuca?**
+Pelo telefone (21) 3217-0430 ou pelo WhatsApp (21) 97663-7803. O atendimento é sempre com hora marcada para garantir pontualidade e dedicação exclusiva ao seu caso.
+
+**Vocês fazem implante dentário na Barra da Tijuca?**
+Sim. O Dr. Davi Frossard é especialista em Implantodontia pela São Leopoldo Mandic e realiza desde implantes unitários até reabilitações completas com carga imediata, com planejamento digital e guia cirúrgico.
+
+**Atendem pacientes do Recreio, Jacarepaguá e São Conrado?**
+Sim. Atendemos pacientes de toda a região Oeste do Rio: Barra da Tijuca, Recreio dos Bandeirantes, Jacarepaguá, São Conrado, Itanhangá e Joá. Nossa localização no Shopping Città América (Av. das Américas, 700) facilita o acesso por todas essas regiões.
 
 ---
 
