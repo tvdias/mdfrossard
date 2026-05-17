@@ -3,6 +3,7 @@ title: 'Dentista em Botafogo: Clínica MD Frossard'
 description: "Dentista em Botafogo há 38 anos. Implantes, facetas e reabilitação oral com especialistas titulados, na Rua Marques, 15, ao lado da Cobal. Agende sua avaliação."
 date: 2016-04-24T10:13:44.000Z
 featured_image: /images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp
+is_location_page: true
 ---
 
 ## Dentista em Botafogo: Tradição e Especialização no Coração da Zona Sul

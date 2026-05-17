@@ -5,6 +5,7 @@ description: "Dentista na Barra da Tijuca há 38 anos. Implantes, facetas e reab
 date: 2014-05-12T11:02:32.000Z
 updated: 2026-05-17T00:00:00.000Z
 featured_image: /images/uploads/2024/dentista_barra_da_tijuca_md.webp
+is_location_page: true
 faqs:
   - question: Onde fica a clínica de dentista na Barra da Tijuca?
     answer: "Nossa clínica fica no Shopping Città América — Av. das Américas, 700, Bloco 2, Sala 143, Barra da Tijuca, Rio de Janeiro. Acesso fácil pelo Metrô Jardim Oceânico (Linha 4 — amarela), pelo BRT Alvorada e estacionamento próprio no shopping."
