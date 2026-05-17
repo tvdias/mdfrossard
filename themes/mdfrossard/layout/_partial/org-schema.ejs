@@ -1,6 +1,11 @@
-<!-- Structured Data: Dentist (organização) — fallback global para páginas que não têm schema próprio.
-     Posts (post.ejs) e LPs (landing_page.ejs) já têm schemas específicos (BlogPosting / LocalBusiness)
-     e este partial não conflita: o Google aceita múltiplos blocos JSON-LD por página. -->
+<!-- Structured Data: Dentist — 3 blocos JSON-LD independentes (aceito pelo Google).
+     Bloco 1: organização-mãe (identidade, redes, contato).
+     Bloco 2: unidade Barra da Tijuca (geo + hasMap para ranking no Maps).
+     Bloco 3: unidade Botafogo (geo + hasMap para ranking no Maps).
+     Posts (post.ejs) e LPs (landing_page.ejs) têm schemas próprios — sem conflito.
+     aggregateRating: atualizar manualmente quando mudar o nº de avaliações no Google. -->
+
+<!-- Bloco 1: Organização-mãe -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -10,26 +15,47 @@
   "url": "https://mdfrossard.com.br/",
   "logo": "https://mdfrossard.com.br/images/logo-MD.jpg",
   "image": "https://mdfrossard.com.br/images/lps/equipe-md-frossard-odontologia.webp",
+  "email": "contato@mdfrossard.com.br",
+  "priceRange": "$$$",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+5521976637803",
+    "contactType": "customer service",
+    "availableLanguage": "pt-BR",
+    "areaServed": "BR"
+  },
+  "sameAs": [
+    "https://www.facebook.com/MdFrossardOdontologia/",
+    "https://www.instagram.com/md_frossard_odontologia/"
+  ]
+}
+</script>
+
+<!-- Bloco 2: Unidade Barra da Tijuca -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dentist",
+  "@id": "https://mdfrossard.com.br/#barra",
+  "name": "MD Frossard Odontologia - Barra da Tijuca",
+  "url": "https://mdfrossard.com.br/dentista-barra-da-tijuca/",
+  "parentOrganization": { "@id": "https://mdfrossard.com.br/#organization" },
   "telephone": "+552132170430",
   "priceRange": "$$$",
-  "address": [
-    {
-      "@type": "PostalAddress",
-      "streetAddress": "Av. das Américas, 700 — Bloco 2 / Sala 143",
-      "addressLocality": "Rio de Janeiro",
-      "addressRegion": "RJ",
-      "postalCode": "22640-100",
-      "addressCountry": "BR"
-    },
-    {
-      "@type": "PostalAddress",
-      "streetAddress": "Rua Voluntários da Pátria, 89, Botafogo",
-      "addressLocality": "Rio de Janeiro",
-      "addressRegion": "RJ",
-      "postalCode": "22270-010",
-      "addressCountry": "BR"
-    }
-  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Av. das Américas, 700 - Bloco 2, Sala 143",
+    "addressLocality": "Rio de Janeiro",
+    "addressRegion": "RJ",
+    "postalCode": "22640-100",
+    "addressCountry": "BR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -23.002267,
+    "longitude": -43.319996
+  },
+  "hasMap": "https://share.google/dByZdhTbp6XWBuVqh",
   "openingHoursSpecification": {
     "@type": "OpeningHoursSpecification",
     "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
@@ -39,11 +65,46 @@
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5",
-    "reviewCount": "120"
+    "reviewCount": "102"
+  }
+}
+</script>
+
+<!-- Bloco 3: Unidade Botafogo -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dentist",
+  "@id": "https://mdfrossard.com.br/#botafogo",
+  "name": "MD Frossard Odontologia - Botafogo",
+  "url": "https://mdfrossard.com.br/dentista-em-botafogo/",
+  "parentOrganization": { "@id": "https://mdfrossard.com.br/#organization" },
+  "telephone": "+552132170430",
+  "priceRange": "$$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rua Marques, 15",
+    "addressLocality": "Rio de Janeiro",
+    "addressRegion": "RJ",
+    "postalCode": "22260-240",
+    "addressCountry": "BR"
   },
-  "sameAs": [
-    "https://www.facebook.com/MdFrossardOdontologia/",
-    "https://www.instagram.com/md_frossard_odontologia/"
-  ]
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -22.9542345,
+    "longitude": -43.1964878
+  },
+  "hasMap": "https://share.google/DeseB8CqFwaP0oJKy",
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "opens": "08:00",
+    "closes": "18:00"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "102"
+  }
 }
 </script>
