@@ -6,7 +6,7 @@
 <script>window.MDF_CONTACT_VALUE = <%= isNaN(Number(contact_value)) ? 'null' : Number(contact_value) %>; window.MDF_CONTACT_CURRENCY = 'BRL';</script>
 <% } %>
 <% if (typeof content_category !== 'undefined' && content_category) { %>
-<script>window.MDF_CONTENT_CATEGORY = <%= JSON.stringify(String(content_category)) %>;</script>
+<script>window.MDF_CONTENT_CATEGORY = <%- JSON.stringify(String(content_category)) %>;</script>
 <% } %>
 
 <script>
