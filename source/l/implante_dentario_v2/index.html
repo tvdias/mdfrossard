@@ -1482,7 +1482,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const handle = slider.querySelector('.ba-handle');
     const labBefore = slider.querySelector('.ba-label-before');
     if (!before || !handle) return;
-    let dragging = false;
+    let dragging = false, cachedRect = null;
     const setX = p => {
       p = Math.max(0, Math.min(100, p));
       before.style.clipPath = 'inset(0 ' + (100 - p) + '% 0 0)';
@@ -1490,13 +1490,13 @@ document.addEventListener('DOMContentLoaded', () => {
       if (labBefore) labBefore.style.opacity = p < 8 ? '0' : '1';
     };
     const pct = ev => {
-      const rect = slider.getBoundingClientRect();
+      const rect = cachedRect;
       const x = (ev.touches ? ev.touches[0].clientX : ev.clientX) - rect.left;
       return (x / rect.width) * 100;
     };
-    const down = ev => { dragging = true; setX(pct(ev)); ev.preventDefault(); };
+    const down = ev => { cachedRect = slider.getBoundingClientRect(); dragging = true; setX(pct(ev)); ev.preventDefault(); };
     const move = ev => { if (!dragging) return; setX(pct(ev)); };
-    const up = () => { dragging = false; };
+    const up = () => { dragging = false; cachedRect = null; };
     slider.addEventListener('mousedown', down);
     slider.addEventListener('touchstart', down, { passive: false });
     window.addEventListener('mousemove', move);

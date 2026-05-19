@@ -1326,22 +1326,23 @@ document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.ba-slider').forEach(slider => {
     const before = slider.querySelector('.ba-before');
     const handle = slider.querySelector('.ba-handle');
-    let dragging = false;
+    let dragging = false, cachedRect = null;
 
     function setPos(x) {
-      const rect = slider.getBoundingClientRect();
+      const rect = cachedRect;
       let pct = Math.min(Math.max((x - rect.left) / rect.width, 0), 1) * 100;
       before.style.clipPath = `inset(0 ${100 - pct}% 0 0)`;
       handle.style.left = pct + '%';
     }
 
     slider.addEventListener('pointerdown', e => {
+      cachedRect = slider.getBoundingClientRect();
       dragging = true; slider.setPointerCapture(e.pointerId);
       setPos(e.clientX);
     });
     slider.addEventListener('pointermove', e => { if (dragging) setPos(e.clientX); });
-    slider.addEventListener('pointerup',   () => { dragging = false; });
-    slider.addEventListener('pointercancel', () => { dragging = false; });
+    slider.addEventListener('pointerup',   () => { dragging = false; cachedRect = null; });
+    slider.addEventListener('pointercancel', () => { dragging = false; cachedRect = null; });
 
     // Teaser animation on first intersect
     const io = new IntersectionObserver(([entry]) => {
