@@ -739,6 +739,7 @@ a{text-decoration:none}
     margin:0;
   }
   .hero-right{ min-height:unset; }
+  .hero-right{min-height:200px!important}
   .hero-right::before{ width:120px; }
 }
 
@@ -792,6 +793,8 @@ a{text-decoration:none}
   .sticky-bar a{min-height:44px;font-size:.82rem}
   /* Oculta 3ª imagem da galeria em mobile */
   .galeria-card:nth-child(3){display:none}
+  /* Oculta cards de serviço menos procurados no mobile (Lentes + Reabilitação) */
+  .servico-card:nth-child(5),.servico-card:nth-child(6){display:none}
   /* Google badge compacto em mobile */
   .google-badge-inner{padding:12px 16px;gap:10px}
   .google-badge-score{font-size:1.6rem}
