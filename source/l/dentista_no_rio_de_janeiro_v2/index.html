@@ -339,23 +339,42 @@ section{padding:64px 0}
    05 · TRANSFORMAÇÕES
 ══════════════════════════════════════════ */
 .transformacoes{background:#fff}
-.transf-grid{
-  display:grid;grid-template-columns:1fr;gap:20px;align-items:stretch;
-}
-.transf-card{border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-sm);border:1px solid rgba(0,0,0,.06);background:#fff;height:100%}
-.transf-card picture{display:block;width:100%}
-/* aspect-ratio 6/5 (=1.2) matches the natural ratio of the antes/depois stacks (~1.19)
-   so the yellow divider stays centered in every image, no cropping. */
-.transf-img{width:100%;height:auto;aspect-ratio:6/5;object-fit:cover;object-position:center;display:block;background:#f3f4f6}
-.transf-cap{padding:16px 20px;background:#fff}
+.transf-list{display:flex;flex-direction:column;gap:28px;max-width:540px;margin:36px auto 0}
+.transf-case{background:#fff;border-radius:var(--r);overflow:hidden;
+  box-shadow:var(--sh-md);border:1px solid rgba(0,0,0,.07)}
+.transf-cap{padding:14px 18px}
 .transf-tag{
-  display:inline-block;align-self:flex-start;font-size:.68rem;font-weight:700;text-transform:uppercase;
+  display:inline-block;font-size:.68rem;font-weight:700;text-transform:uppercase;
   letter-spacing:.8px;color:var(--teal);background:var(--teal-light);
-  padding:3px 10px;border-radius:50px;margin-bottom:8px;
+  padding:3px 10px;border-radius:50px;margin-bottom:6px;
 }
 .transf-cap h3{font-size:.95rem;font-weight:700;color:var(--ink);line-height:1.35}
-@media(min-width:640px){.transf-grid{grid-template-columns:1fr 1fr}}
-@media(min-width:960px){.transf-grid{grid-template-columns:1fr 1fr 1fr}}
+/* ── Before / After Slider ── */
+.ba-slider{position:relative;width:100%;aspect-ratio:16/10;overflow:hidden;
+  cursor:ew-resize;background:#0d1117;user-select:none;touch-action:none}
+.ba-slider picture{position:absolute;inset:0;display:block;pointer-events:none}
+.ba-slider picture img{width:100%;height:100%;object-fit:cover;display:block}
+.ba-before{clip-path:inset(0 50% 0 0);will-change:clip-path}
+.ba-label{position:absolute;bottom:10px;z-index:6;
+  font-family:'Inter',sans-serif;font-size:.65rem;font-weight:700;
+  text-transform:uppercase;letter-spacing:.8px;padding:3px 9px;border-radius:50px}
+.ba-label-before{left:14px;background:rgba(13,17,23,.7);color:#fff}
+.ba-label-after{right:14px;background:rgba(232,196,74,.95);color:#0d1117}
+.ba-handle{position:absolute;top:0;bottom:0;left:50%;width:2px;
+  background:#fff;transform:translateX(-50%);z-index:5;
+  pointer-events:none;will-change:left}
+.ba-knob{position:absolute;top:50%;left:50%;
+  transform:translate(-50%,-50%);
+  width:42px;height:42px;border-radius:50%;
+  background:#fff;box-shadow:0 2px 12px rgba(0,0,0,.35);
+  display:flex;align-items:center;justify-content:center;gap:3px}
+.ba-knob span{display:block;width:0;height:0}
+.ba-knob span:first-child{
+  border-top:6px solid transparent;border-bottom:6px solid transparent;
+  border-right:8px solid #555}
+.ba-knob span:last-child{
+  border-top:6px solid transparent;border-bottom:6px solid transparent;
+  border-left:8px solid #555}
 
 /* ══════════════════════════════════════════
    06 · DIFERENCIAIS / POR QUÊ NÓS
@@ -386,18 +405,19 @@ section{padding:64px 0}
 /* ══════════════════════════════════════════
    07 · DEPOIMENTOS
 ══════════════════════════════════════════ */
-.depoimentos{background:var(--cream)}
+.depoimentos{background:var(--ink);padding:72px 0}
+.depoimentos .section-label{color:var(--gold)}
+.depoimentos .section-title{color:#fff}
 .dep-grid{display:grid;grid-template-columns:1fr;gap:20px}
 .dep-card{
-  background:#fff;border-radius:var(--r);
-  padding:28px;border:1px solid rgba(0,0,0,.07);
-  box-shadow:var(--sh-sm);
+  background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);
+  border-radius:var(--r);padding:28px;
   display:flex;flex-direction:column;gap:16px;
 }
 .dep-stars{color:var(--gold);font-size:.85rem;letter-spacing:2px}
 .dep-text{
   font-family:'Inter',sans-serif;font-size:.93rem;
-  color:#374151;line-height:1.75;
+  color:rgba(255,255,255,.82);line-height:1.75;
   font-style:italic;
 }
 .dep-text::before{content:'\201C'}
@@ -409,10 +429,28 @@ section{padding:64px 0}
   display:flex;align-items:center;justify-content:center;
   font-weight:800;font-size:.85rem;color:#fff;flex-shrink:0;
 }
-.dep-name{font-weight:700;font-size:.88rem;color:var(--ink)}
-.dep-source{font-family:'Inter',sans-serif;font-size:.75rem;color:var(--muted)}
+.dep-name{font-weight:700;font-size:.88rem;color:#fff}
+.dep-source{font-family:'Inter',sans-serif;font-size:.75rem;color:rgba(255,255,255,.5);display:flex;align-items:center;gap:4px}
 @media(min-width:640px){.dep-grid{grid-template-columns:1fr 1fr}}
 @media(min-width:960px){.dep-grid{grid-template-columns:1fr 1fr 1fr}}
+/* Google Badge */
+.google-badge{display:flex;justify-content:center;margin-top:36px}
+.google-badge-inner{
+  display:inline-flex;align-items:center;gap:16px;
+  background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.15);
+  border-radius:14px;padding:14px 22px;
+}
+.google-badge-logo svg{display:block}
+.google-badge-divider{width:1px;height:36px;background:rgba(255,255,255,.15)}
+.google-badge-score{font-size:2rem;font-weight:900;color:#fff;line-height:1}
+.google-badge-stars{color:var(--gold);font-size:.9rem;letter-spacing:2px;margin-top:2px}
+.google-badge-count{font-family:'Inter',sans-serif;font-size:.72rem;color:rgba(255,255,255,.5);margin-top:2px}
+.google-badge-link{
+  font-family:'Inter',sans-serif;font-size:.75rem;font-weight:600;
+  color:var(--gold-glow);text-decoration:underline;text-underline-offset:2px;
+  transition:color .2s;
+}
+.google-badge-link:hover{color:#fff}
 
 /* ══════════════════════════════════════════
    08 · UNIDADES
@@ -545,6 +583,21 @@ section{padding:64px 0}
   .hero-ctas .btn{width:100%;padding:14px 20px;font-size:.92rem;min-width:unset}
 }
 @media(max-width:759px){body{padding-bottom:58px}}
+@media(max-width:759px){
+  /* Ocultar tel do nav */
+  .hero-nav-tel{display:none}
+  /* Logo: centralizar */
+  .hero-nav{justify-content:center;padding:10px 24px}
+  .hero-logo{height:62px}
+  /* Ocultar número no botão Ligar */
+  .tel-btn-number{display:none}
+  /* Foto da equipe: limitar altura */
+  .hero-visual{aspect-ratio:3/2;min-height:unset!important}
+  /* Esconder cards 5 e 6 */
+  .servico-card:nth-child(5),.servico-card:nth-child(6){display:none}
+  /* Empilhar botões CTA verticalmente */
+  .cta-btns .btn{flex:1 1 100%}
+}
 </style>
 
 <!-- ══════════════════════════════════════════════════════════ -->
@@ -590,9 +643,7 @@ section{padding:64px 0}
         </h1>
 
         <p class="hero-sub">
-          38 anos transformando sorrisos cariocas. Implantes, Facetas de Cerâmica
-          e Reabilitação completa — com tecnologia de ponta e um atendimento
-          que respeita você do começo ao fim.
+          Mais de 5.000 sorrisos transformados no Rio de Janeiro. Duas unidades, uma equipe de especialistas dedicada a cada caso — e uma avaliação inicial para você saber exatamente o que precisa, sem surpresas.
         </p>
 
         <div class="hero-ctas">
@@ -600,7 +651,7 @@ section{padding:64px 0}
              onclick="return gtagSendEventTelefone(this.href)"
              class="btn btn-gold">
             <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-            Ligar agora - (21) 3217-0430
+            Ligar agora <span class="tel-btn-number">— (21) 3217-0430</span>
           </a>
           <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20marcar%20uma%20consulta%20no%20Rio%20de%20Janeiro."
              onclick="return gtagSendEventWhatsapp(this.href)"
@@ -668,6 +719,90 @@ section{padding:64px 0}
 </div>
 
 <!-- ══════════════════════════════════════════════════════════ -->
+<!--  07 · DEPOIMENTOS                                         -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<section class="depoimentos">
+  <div class="container">
+    <p class="section-label rv">O que nossos pacientes dizem</p>
+    <h2 class="section-title rv">+100 avaliações 5 estrelas<br>no Google</h2>
+
+    <div class="dep-grid" style="margin-top:40px">
+
+      <div class="dep-card rv">
+        <div class="dep-stars">★★★★★</div>
+        <p class="dep-text">Sempre tive pânico de dentista — algo que me impediu de ir por 15 anos. Quando encontrei a MD Frossard estava apavorada mas decidida. Eles foram essenciais para que eu finalmente me cuidasse. O trabalho feito me mudou esteticamente e funcionalmente.</p>
+        <div class="dep-author">
+          <div class="dep-avatar">LR</div>
+          <div>
+            <div class="dep-name">Larissa Rodrigues</div>
+            <div class="dep-source">
+              <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              Google · Rio de Janeiro
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="dep-card rv d1">
+        <div class="dep-stars">★★★★★</div>
+        <p class="dep-text">Nunca fui tão bem atendida e tão acolhida. Voltei a confiar em dentista após ser tratada pelo Dr. Marcos e pelo Dr. Davi. A segurança e a delicadeza com que falam com seus pacientes faz toda a diferença. Indico de olhos fechados.</p>
+        <div class="dep-author">
+          <div class="dep-avatar">ED</div>
+          <div>
+            <div class="dep-name">Elisa d'Arêde</div>
+            <div class="dep-source">
+              <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              Google · Rio de Janeiro
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="dep-card rv d2">
+        <div class="dep-stars">★★★★★</div>
+        <p class="dep-text">Fiquei super satisfeito com o processo e resultado do tratamento estético-dentário. Nota 10 em todos os quesitos para a equipe comandada pelos Drs. Marcos e Davi. Destaque para o clima de gentileza, pontualidade e responsabilidade.</p>
+        <div class="dep-author">
+          <div class="dep-avatar">OA</div>
+          <div>
+            <div class="dep-name">Otávio Azevedo</div>
+            <div class="dep-source">
+              <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              Google · Rio de Janeiro
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Google Badge -->
+    <div class="google-badge rv">
+      <div class="google-badge-inner">
+        <div class="google-badge-logo">
+          <svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+            <path fill="#4285F4" d="M43.61 20.08H42V20H24v8h11.3C33.65 32.56 29.27 36 24 36c-6.63 0-12-5.37-12-12s5.37-12 12-12c3.06 0 5.84 1.16 7.95 3.05l5.66-5.66C34.04 6.48 29.26 4 24 4 12.95 4 4 12.95 4 24s8.95 20 20 20 20-8.95 20-20c0-1.34-.14-2.65-.39-3.92z"/>
+            <path fill="#34A853" d="M6.31 14.69l6.57 4.82C14.65 16.1 19.05 13 24 13c3.06 0 5.84 1.16 7.95 3.05l5.66-5.66C34.04 6.48 29.26 4 24 4c-7.3 0-13.65 3.92-17.69 9.69z"/>
+            <path fill="#FBBC05" d="M24 44c5.17 0 9.88-1.97 13.44-5.19l-6.21-5.25A11.91 11.91 0 0 1 24 36c-5.26 0-9.63-3.42-11.29-8.15l-6.52 5.02C9.99 40.22 16.44 44 24 44z"/>
+            <path fill="#EA4335" d="M43.61 20.08H42V20H24v8h11.3a12.04 12.04 0 0 1-4.07 5.56l6.21 5.25C37.28 39.16 44 34 44 24c0-1.34-.14-2.65-.39-3.92z"/>
+          </svg>
+        </div>
+        <div class="google-badge-divider"></div>
+        <div>
+          <div class="google-badge-score">5,0</div>
+          <div class="google-badge-stars">★★★★★</div>
+          <div class="google-badge-count">102 avaliações</div>
+        </div>
+        <div class="google-badge-divider"></div>
+        <a href="https://share.google/dByZdhTbp6XWBuVqh"
+           target="_blank" rel="noopener"
+           class="google-badge-link">Ver no<br>Google</a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════════════════════════ -->
 <!--  03 · NÚMEROS                                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 <section class="numbers">
@@ -682,8 +817,8 @@ section{padding:64px 0}
         <div class="number-label">pacientes<br>atendidos</div>
       </div>
       <div class="number-card rv d2">
-        <div class="number-val">5,0</div>
-        <div class="number-label">estrelas<br>no Google</div>
+        <div class="number-val">102</div>
+        <div class="number-label">comentários<br>no Google</div>
       </div>
       <div class="number-card rv d3">
         <div class="number-val">2</div>
@@ -775,46 +910,90 @@ section{padding:64px 0}
   <div class="container">
     <p class="section-label rv">Resultados reais</p>
     <h2 class="section-title rv">Sorrisos que mudaram<br>vidas no Rio de Janeiro</h2>
-    <p class="section-sub rv">Casos reais de pacientes da MD Frossard. Cada transformação começa com uma conversa — sem pressão, sem julgamento.</p>
+    <p class="section-sub rv">Casos reais de pacientes da MD Frossard. Arraste para ver a transformação. Cada sorriso começa com uma conversa.</p>
 
-    <div class="transf-grid">
+    <div class="transf-list">
 
-      <div class="transf-card rv">
-        <picture>
-          <source srcset="/images/lps/transformacao-com-facetas-de-ceramica.webp" type="image/webp">
-          <img src="/images/lps/transformacao-com-facetas-de-ceramica.webp"
-               alt="Transformação com Facetas de Cerâmica"
-               class="transf-img" loading="lazy" decoding="async" width="520" height="390">
-        </picture>
+      <!-- Caso 1 -->
+      <div class="transf-case rv">
+        <div class="ba-slider" role="region" aria-label="Comparativo início e final — facetas de cerâmica">
+          <!-- AFTER (base, full width) -->
+          <picture>
+            <source srcset="/images/lps/transformacoes/caso1_depois.webp" type="image/webp">
+            <img src="/images/lps/transformacoes/caso1_depois.webp"
+                 alt="Depois — Facetas de cerâmica"
+                 loading="lazy" decoding="async" width="540" height="338">
+          </picture>
+          <!-- BEFORE (clipped) -->
+          <picture class="ba-before">
+            <source srcset="/images/lps/transformacoes/caso1_antes.webp" type="image/webp">
+            <img src="/images/lps/transformacoes/caso1_antes.webp"
+                 alt="Antes — Facetas de cerâmica"
+                 loading="lazy" decoding="async" width="540" height="338">
+          </picture>
+          <span class="ba-label ba-label-before">Antes</span>
+          <span class="ba-label ba-label-after">Depois</span>
+          <div class="ba-handle" aria-hidden="true">
+            <div class="ba-knob"><span></span><span></span></div>
+          </div>
+        </div>
         <div class="transf-cap">
           <span class="transf-tag">Facetas</span>
           <h3>Transformação com facetas de cerâmica</h3>
         </div>
       </div>
 
-      <div class="transf-card rv d1">
-        <picture>
-          <source srcset="/images/lps/transformacao-dental-sorriso-renovado.webp" type="image/webp">
-          <img src="/images/lps/transformacao-dental-sorriso-renovado.webp"
-               alt="Transformação com Implante Dentário"
-               class="transf-img" loading="lazy" decoding="async" width="520" height="390">
-        </picture>
+      <!-- Caso 2 -->
+      <div class="transf-case rv d1">
+        <div class="ba-slider" role="region" aria-label="Comparativo início e final — implante dentário">
+          <picture>
+            <source srcset="/images/lps/transformacoes/caso2_depois.webp" type="image/webp">
+            <img src="/images/lps/transformacoes/caso2_depois.webp"
+                 alt="Depois — Implante dentário"
+                 loading="lazy" decoding="async" width="540" height="338">
+          </picture>
+          <picture class="ba-before">
+            <source srcset="/images/lps/transformacoes/caso2_antes.webp" type="image/webp">
+            <img src="/images/lps/transformacoes/caso2_antes.webp"
+                 alt="Antes — Implante dentário"
+                 loading="lazy" decoding="async" width="540" height="338">
+          </picture>
+          <span class="ba-label ba-label-before">Antes</span>
+          <span class="ba-label ba-label-after">Depois</span>
+          <div class="ba-handle" aria-hidden="true">
+            <div class="ba-knob"><span></span><span></span></div>
+          </div>
+        </div>
         <div class="transf-cap">
           <span class="transf-tag">Implante</span>
-          <h3>Dente fixo sem removível</h3>
+          <h3>Dente fixo, sem removível</h3>
         </div>
       </div>
 
-      <div class="transf-card rv d2">
-        <picture>
-          <source srcset="/images/lps/transformacao-de-sorriso-lentes-de-contato.webp" type="image/webp">
-          <img src="/images/lps/transformacao-de-sorriso-lentes-de-contato.webp"
-               alt="Transformação com Lentes de Contato Dental"
-               class="transf-img" loading="lazy" decoding="async" width="520" height="390">
-        </picture>
+      <!-- Caso 3 -->
+      <div class="transf-case rv d2">
+        <div class="ba-slider" role="region" aria-label="Comparativo início e final — reabilitação oral">
+          <picture>
+            <source srcset="/images/lps/transformacoes/caso3_depois.webp" type="image/webp">
+            <img src="/images/lps/transformacoes/caso3_depois.webp"
+                 alt="Depois — Reabilitação oral"
+                 loading="lazy" decoding="async" width="540" height="338">
+          </picture>
+          <picture class="ba-before">
+            <source srcset="/images/lps/transformacoes/caso3_antes.webp" type="image/webp">
+            <img src="/images/lps/transformacoes/caso3_antes.webp"
+                 alt="Antes — Reabilitação oral"
+                 loading="lazy" decoding="async" width="540" height="338">
+          </picture>
+          <span class="ba-label ba-label-before">Antes</span>
+          <span class="ba-label ba-label-after">Depois</span>
+          <div class="ba-handle" aria-hidden="true">
+            <div class="ba-knob"><span></span><span></span></div>
+          </div>
+        </div>
         <div class="transf-cap">
-          <span class="transf-tag">Lentes de Contato</span>
-          <h3>Transformação com lentes de contato dental</h3>
+          <span class="transf-tag">Reabilitação</span>
+          <h3>Reabilitação oral completa</h3>
         </div>
       </div>
 
@@ -890,56 +1069,6 @@ section{padding:64px 0}
         <div>
           <h3>Tratamento com planejamento claro</h3>
           <p>Planejamento detalhado antes de começar qualquer tratamento. Você sabe exatamente o que vai acontecer, passo a passo.</p>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</section>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  07 · DEPOIMENTOS                                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<section class="depoimentos">
-  <div class="container">
-    <p class="section-label rv">O que nossos pacientes dizem</p>
-    <h2 class="section-title rv">+100 avaliações 5 estrelas<br>no Google</h2>
-
-    <div class="dep-grid" style="margin-top:40px">
-
-      <div class="dep-card rv">
-        <div class="dep-stars">★★★★★</div>
-        <p class="dep-text">Sempre tive pânico de dentista — algo que me impediu de ir por 15 anos. Quando encontrei a MD Frossard estava apavorada mas decidida. Eles foram essenciais para que eu finalmente me cuidasse. O trabalho feito me mudou esteticamente e funcionalmente.</p>
-        <div class="dep-author">
-          <div class="dep-avatar">LR</div>
-          <div>
-            <div class="dep-name">Larissa Rodrigues</div>
-            <div class="dep-source">★ Google · Rio de Janeiro</div>
-          </div>
-        </div>
-      </div>
-
-      <div class="dep-card rv d1">
-        <div class="dep-stars">★★★★★</div>
-        <p class="dep-text">Nunca fui tão bem atendida e tão acolhida. Voltei a confiar em dentista após ser tratada pelo Dr. Marcos e pelo Dr. Davi. A segurança e a delicadeza com que falam com seus pacientes faz toda a diferença. Indico de olhos fechados.</p>
-        <div class="dep-author">
-          <div class="dep-avatar">ED</div>
-          <div>
-            <div class="dep-name">Elisa d'Arêde</div>
-            <div class="dep-source">★ Google · Rio de Janeiro</div>
-          </div>
-        </div>
-      </div>
-
-      <div class="dep-card rv d2">
-        <div class="dep-stars">★★★★★</div>
-        <p class="dep-text">Fiquei super satisfeito com o processo e resultado do tratamento estético-dentário. Nota 10 em todos os quesitos para a equipe comandada pelos Drs. Marcos e Davi. Destaque para o clima de gentileza, pontualidade e responsabilidade.</p>
-        <div class="dep-author">
-          <div class="dep-avatar">OA</div>
-          <div>
-            <div class="dep-name">Otávio Azevedo</div>
-            <div class="dep-source">★ Google · Rio de Janeiro</div>
-          </div>
         </div>
       </div>
 
@@ -1192,6 +1321,45 @@ document.addEventListener('DOMContentLoaded', () => {
   }, { threshold: 0.08, rootMargin: '0px 0px -32px 0px' });
 
   document.querySelectorAll('.rv').forEach(el => obs.observe(el));
+
+  // ── Before/After Sliders ──
+  document.querySelectorAll('.ba-slider').forEach(slider => {
+    const before = slider.querySelector('.ba-before');
+    const handle = slider.querySelector('.ba-handle');
+    let dragging = false;
+
+    function setPos(x) {
+      const rect = slider.getBoundingClientRect();
+      let pct = Math.min(Math.max((x - rect.left) / rect.width, 0), 1) * 100;
+      before.style.clipPath = `inset(0 ${100 - pct}% 0 0)`;
+      handle.style.left = pct + '%';
+    }
+
+    slider.addEventListener('pointerdown', e => {
+      dragging = true; slider.setPointerCapture(e.pointerId);
+      setPos(e.clientX);
+    });
+    slider.addEventListener('pointermove', e => { if (dragging) setPos(e.clientX); });
+    slider.addEventListener('pointerup',   () => { dragging = false; });
+    slider.addEventListener('pointercancel', () => { dragging = false; });
+
+    // Teaser animation on first intersect
+    const io = new IntersectionObserver(([entry]) => {
+      if (!entry.isIntersecting) return;
+      io.disconnect();
+      let p = 50, dir = -1, frame = 0;
+      const tick = () => {
+        p += dir * 0.8;
+        if (p <= 28) dir = 1;
+        if (p >= 50) { setPos(slider.getBoundingClientRect().left + slider.offsetWidth * 0.5); return; }
+        before.style.clipPath = `inset(0 ${100 - p}% 0 0)`;
+        handle.style.left = p + '%';
+        frame = requestAnimationFrame(tick);
+      };
+      setTimeout(() => requestAnimationFrame(tick), 600);
+    }, { threshold: 0.5 });
+    io.observe(slider);
+  });
 
 });
 </script>
