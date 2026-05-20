@@ -410,6 +410,42 @@ section{padding:64px 0}
   /* Empilhar botões CTA verticalmente */
   .cta-btns .btn{flex:1 1 100%}
 }
+
+/* ─────────────────────────────────────────────────────────── */
+/* ══ ESPECIALISTA ══════════════════════════════════════════ */
+.especialista{padding:88px 20px;background:var(--cream)}
+.especialista-card{
+  display:grid;max-width:860px;margin:0 auto;
+  background:var(--white);border-radius:var(--r);
+  overflow:hidden;box-shadow:var(--sh-sm);
+  border:1px solid rgba(0,0,0,.05);
+}
+.especialista-foto{
+  width:100%;aspect-ratio:4/5;object-fit:cover;object-position:center top;
+}
+.especialista-info{padding:36px 32px}
+.especialista-nome{font-size:1.45rem;font-weight:800;color:var(--ink);margin-bottom:4px}
+.especialista-titulo{
+  font-family:'Inter',sans-serif;font-size:.78rem;font-weight:700;
+  color:var(--teal);text-transform:uppercase;letter-spacing:.5px;margin-bottom:16px;
+}
+.especialista-bio{
+  font-family:'Inter',sans-serif;font-size:.93rem;
+  color:var(--muted);line-height:1.75;margin-bottom:0;
+}
+.especialista-tags{
+  display:flex;flex-wrap:wrap;gap:8px;margin-top:20px;
+}
+.esp-tag{
+  font-family:'Inter',sans-serif;font-size:.78rem;font-weight:600;
+  color:var(--teal);background:rgba(6,78,75,.07);
+  padding:5px 14px;border-radius:50px;
+  border:1px solid rgba(6,78,75,.12);
+}
+@media(min-width:640px){
+  .especialista-card{grid-template-columns:260px 1fr}
+  .especialista-foto{aspect-ratio:auto;height:100%;min-height:300px}
+}
 </style>
 
 <!-- ══════════════════════════════════════════════════════════ -->
@@ -861,6 +897,47 @@ section{padding:64px 0}
     </div>
   </div>
 </section>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  ESPECIALISTA — Quem te atende                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<section class="especialista">
+  <div class="c">
+    <div class="section-header rv">
+      <p class="section-eyebrow">Quem vai te atender</p>
+      <h2 class="section-title">Um especialista dedicado<br>ao seu caso.</h2>
+      <p class="section-sub">Cada paciente de Botafogo recebe acompanhamento direto do Dr. Davi — sem terceirização, sem surpresas.</p>
+    </div>
+    <div class="especialista-card rv">
+      <picture>
+        <source srcset="/images/equipe_davi.webp" type="image/webp">
+        <img src="/images/equipe_davi.webp"
+             alt="Dr. Davi Frossard — Especialista em Implantes em Botafogo"
+             class="especialista-foto"
+             loading="lazy" decoding="async" width="400" height="533">
+      </picture>
+      <div class="especialista-info">
+        <div class="especialista-nome">Dr. Davi Frossard</div>
+        <div class="especialista-titulo">CRO-RJ 36193 · Implantodontia & Estética · Botafogo</div>
+        <p class="especialista-bio">
+          Especialista em implantes e reabilitação oral com foco em precisão digital.
+          Utiliza Scanner iTero para planejamento 3D — resultado previsível,
+          mínimo tempo de recuperação e zero surpresas no meio do caminho.
+          Filho do Dr. Marcos Frossard, cresceu dentro da clínica e herdou
+          mais de três décadas de experiência acumulada da família.
+        </p>
+        <div class="especialista-tags">
+          <span class="esp-tag">Implantes</span>
+          <span class="esp-tag">Facetas & Lentes</span>
+          <span class="esp-tag">Scanner iTero</span>
+          <span class="esp-tag">Planejamento Digital 3D</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--  07 · DIFERENCIAIS                                        -->

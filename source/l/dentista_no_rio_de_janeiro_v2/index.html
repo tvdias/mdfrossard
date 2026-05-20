@@ -598,6 +598,40 @@ section{padding:64px 0}
   /* Empilhar botões CTA verticalmente */
   .cta-btns .btn{flex:1 1 100%}
 }
+
+/* ─────────────────────────────────────────────────────────── */
+/* ══ DOUTORES ═══════════════════════════════════════════════ */
+.doutores{padding:88px 20px;background:var(--cream)}
+.doutores-inner{
+  max-width:1100px;margin:0 auto;
+  display:flex;flex-direction:column;gap:28px;
+}
+.doutor-card{
+  display:flex;flex-direction:column;
+  background:var(--white);border-radius:var(--r);
+  overflow:hidden;box-shadow:var(--sh-sm);
+  border:1px solid rgba(0,0,0,.05);
+  transition:all .3s var(--ease);
+}
+.doutor-card:hover{transform:translateY(-4px);box-shadow:var(--sh-md)}
+.doutor-foto{
+  width:100%;aspect-ratio:4/5;object-fit:cover;object-position:center top;
+}
+.doutor-info{padding:28px}
+.doutor-nome{font-size:1.3rem;font-weight:800;color:var(--ink);margin-bottom:4px}
+.doutor-titulo{
+  font-family:'Inter',sans-serif;font-size:.78rem;font-weight:700;
+  color:var(--teal);text-transform:uppercase;letter-spacing:.5px;margin-bottom:14px;
+}
+.doutor-bio{
+  font-family:'Inter',sans-serif;font-size:.93rem;
+  color:var(--muted);line-height:1.75;
+}
+@media(min-width:900px){
+  .doutores-inner{flex-direction:row}
+  .doutor-card{flex:1}
+  .doutor-foto{aspect-ratio:3/4}
+}
 </style>
 
 <!-- ══════════════════════════════════════════════════════════ -->
@@ -1000,6 +1034,54 @@ section{padding:64px 0}
     </div>
   </div>
 </section>
+
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  DOUTORES — Quem te atende                            -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<section class="doutores">
+  <div class="c">
+    <div class="section-header rv">
+      <p class="section-eyebrow">Quem te atende</p>
+      <h2 class="section-title">Pai e filho.<br>38 anos juntos.</h2>
+      <p class="section-sub">Duas unidades no Rio de Janeiro. Uma única equipe de especialistas dedicada ao seu caso.</p>
+    </div>
+
+    <div class="doutores-inner">
+      <div class="doutor-card rv">
+        <picture>
+          <source srcset="/images/equipe_marcos.webp" type="image/webp">
+          <img src="/images/equipe_marcos.webp"
+               alt="Dr. Marcos Frossard — Dentista no Rio de Janeiro"
+               class="doutor-foto"
+               loading="lazy" decoding="async" width="400" height="533">
+        </picture>
+        <div class="doutor-info">
+          <div class="doutor-nome">Dr. Marcos Frossard</div>
+          <div class="doutor-titulo">CRO-RJ 8058 · Prótese & Estética Dental · 38 anos de carreira</div>
+          <p class="doutor-bio">Fundador da clínica e referência em odontologia restauradora no Rio de Janeiro. Especialista em reabilitação completa de sorrisos com mais de três décadas de experiência acumulada.</p>
+        </div>
+      </div>
+
+      <div class="doutor-card rv d1">
+        <picture>
+          <source srcset="/images/equipe_davi.webp" type="image/webp">
+          <img src="/images/equipe_davi.webp"
+               alt="Dr. Davi Frossard — Dentista no Rio de Janeiro"
+               class="doutor-foto"
+               loading="lazy" decoding="async" width="400" height="533">
+        </picture>
+        <div class="doutor-info">
+          <div class="doutor-nome">Dr. Davi Frossard</div>
+          <div class="doutor-titulo">CRO-RJ 36193 · Implantodontia & Reabilitação</div>
+          <p class="doutor-bio">Especialista em implantes e reabilitação oral com foco em precisão digital. Utiliza Scanner iTero para planejamento 3D — mais conforto, resultado previsível e mínimo tempo de recuperação.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--  06 · DIFERENCIAIS                                        -->
