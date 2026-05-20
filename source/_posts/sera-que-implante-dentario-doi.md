@@ -75,6 +75,3 @@ Assim, a dor poderá não ser um incomodo.
 A comunicação entre dentista e paciente é a melhor solução, tanto no pré operatório quanto no pós para evitar problemas. 
 
 Caso ainda tenha alguma dúvida, deixe seu comentário abaixo.
-
-Att, 
-Davi Frossard

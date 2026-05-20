@@ -40,4 +40,3 @@ Para isso você pode ligar no telefone **(21) 97663-7803** ou mande uma [msg via
 
 Ligue para nós para tirar suas dúvidas e marcar sua consulta. 
 
-Att, MD Frossard Odontologia

@@ -147,7 +147,7 @@ Se você mora em Botafogo, Humaitá, Flamengo ou na Zona Sul e procura um **dent
   "image": "https://mdfrossard.com.br/images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp",
   "logo": "https://mdfrossard.com.br/images/logo-MD.jpg",
   "description": "Clínica odontológica em Botafogo com 38 anos de experiência. Especialistas em implantes, facetas, ortodontia, endodontia, periodontia e reabilitação oral. Ao lado da Cobal do Humaitá.",
-  "telephone": "+552132170430",
+  "telephone": "+5521976637803",
   "priceRange": "$$$",
   "address": {
     "@type": "PostalAddress",

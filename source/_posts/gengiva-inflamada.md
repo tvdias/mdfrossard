@@ -82,6 +82,3 @@ Caso você não trate a inflamação da gengiva, pode-se ter inúmeros problemas
 *  Perda do dente
 
 Enfim, procure atendimento o quanto antes para o tratamento da gengiva inflamada. Suas consequências podem ser muito ruins para você.
-
-Att,
-Davi Frossard

@@ -76,6 +76,3 @@ O pós operatório é simples e nossa equipe orienta cada paciente individualmen
 Porém vale ressaltar que, para que haja o sucesso da cirurgia e diminuição dos incômodos pós operatórios, além da habilidade e conhecimentos do profissional, há a necessidade da colaboração do paciente. 
 
 Este texto serviu para te encorajar um pouco? Deixe o medo de lado e se cuide! 
-
-Att, 
-Davi Frossard

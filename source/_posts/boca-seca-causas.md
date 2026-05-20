@@ -87,6 +87,3 @@ A higienização deve ser feita de forma correta, a ingestão de água deve ser 
 Se a medicação ministrada pelo paciente causar a xerostomia, o médico deve ser contactado para saber se o remédio pode ser modificado. Nos casos mais graves, um acompanhamento médico deve ser feito. 
 
 O importante é sempre manter-se hidratado. Pode-se ainda usar saliva artificial ou usar goma de mascar para estimular a salivação.   
-
-Att, 
-Davi Frossard

@@ -50,6 +50,3 @@ Em grande parte dos casos um desgaste no dente é necessário, por isso sua indi
 Essas são apenas 3 opções de como ter os dentes mais brancos. Existem outras, porém essas são as mais usadas. 
 
 Se você ainda tiver dúvidas, deixe sua pergunta logo abaixo.
-
-Att,
-Davi Frossard

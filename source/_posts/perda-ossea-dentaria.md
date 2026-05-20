@@ -113,6 +113,3 @@ Para mais informações sobre esta associação [leia este artigo](https://www.s
 
 Continue lendo nosso [Blog](/blog/) para saber mais. Caso tenha alguma dúvida, deixe seu comentário abaixo.
 
-Att,
-
-**Davi Frossard  - MD Frossard Odontologia**

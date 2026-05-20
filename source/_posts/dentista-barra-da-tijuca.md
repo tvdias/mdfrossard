@@ -193,7 +193,7 @@ A MD Frossard Odontologia está pronta para oferecer o melhor cuidado ao seu sor
   "image": "https://mdfrossard.com.br/images/uploads/2024/dentista_barra_da_tijuca_md.webp",
   "logo": "https://mdfrossard.com.br/images/logo-MD.jpg",
   "description": "Clínica odontológica na Barra da Tijuca com 38 anos de experiência. Especialistas em implantes, facetas, ortodontia, endodontia, periodontia e reabilitação oral.",
-  "telephone": "+552132170430",
+  "telephone": "+5521976637803",
   "priceRange": "$$$",
   "address": {
     "@type": "PostalAddress",

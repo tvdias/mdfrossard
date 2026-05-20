@@ -48,6 +48,3 @@ A tabela abaixo demonstra algumas diferenças entre estes os procedimentos, no c
 Diante do que foi mostrado, vale ressaltar que anamnese e exame clínico corretos são necessários para definir a melhor forma de tratamento. 
 
 No nosso planejamento, as expectativas e dúvidas do paciente são averiguadas para que ele possa escolher, junto ao dentista, como seu caso será solucionado.
-
-Att, 
-Davi Frossard

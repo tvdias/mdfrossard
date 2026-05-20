@@ -44,6 +44,3 @@ Digo isto pois as imagens nos trazem informações valiosas para o nosso planeja
 ## Importância das imagens no planejamento
 
  Portanto as fotos e imagens têm sido aliados importantes no tratamento odontológico. Sem dúvida são essenciais para o bom tratamento de reabilitação dentária para todo dentista.
-
-Att, 
-Davi Frossard

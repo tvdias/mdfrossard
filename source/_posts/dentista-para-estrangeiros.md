@@ -32,9 +32,6 @@ Caso tenha se identificado com as situações acima expostas, entre em contato c
 
 De curiosidade coloquei [essa reportagem](https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2014/07/09/gringos-que-vieram-pra-copa-aproveitam-para-tratar-os-dentes-no-brasil.htm) de como os estrangeiros aproveitaram a copa para também tratar dos dentes 
 
-Att.: 
-
-MD Frossard Odontologia
 
 ### Como esse texto também se destina para estrangeiros, ele foi traduzido para o inglês
 
@@ -61,9 +58,3 @@ Assim, no damage to your trip occur. If you are identified with the situations d
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Schedule via WhatsApp</a>
 </div>
 
-Att,
-
-**MD Frossard Odontologia**
-att,
-
-MD Frossard Odontologia

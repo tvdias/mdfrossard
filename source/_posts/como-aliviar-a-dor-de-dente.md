@@ -54,6 +54,3 @@ E em **terceiro lugar**, a medicação vai apenas mascarar o sintoma doloroso, n
 Portanto, o uso da medicação para aliviar a dor de dente é somente um paliativo para se ter um conforto temporário. 
 
 Após isso, deve-se procurar por atendimento especializado para tratar o problema.
-
-Att, 
-Davi Frossard

@@ -90,5 +90,3 @@ Como explicado durante todo o texto, temos diversas vantagens, principalmente o 
 
 A grande desvantagem é não realizar as consultas de prevenção, que no futuro provavelmente o problema com os dentes será bem maior.
 
-Att,
-MD Frossard Odontologia  

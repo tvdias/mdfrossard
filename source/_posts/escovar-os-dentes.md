@@ -61,6 +61,3 @@ Porém, vou resumir aqui a correta técnica para escovar os dentes.
 *"Esteja você usando uma escova de dentes normal ou uma escova de dentes elétrica, você deve escovar cada seção de sua boca no mínimo 30 segundos (superior direita e esquerda, inferior direita e esquerda). Além disso, é importante o uso da pasta dental. Para a parte da frente e a parte de trás dos dentes , manter a escova com angulo de 45 graus realizando movimentos suaves e curtos, de cima para baixo. Não se esqueça de escovar a língua, o que ajudará a ter um hálito fresco."* 
 
 Continue navegando em nosso site e veja outras informações interessantes sobre os nossos dentes.
-
-Att, 
-Davi Frossard

@@ -79,7 +79,3 @@ Por terem consistência mais dura, são benéficas pois ajudam a eliminar a plac
 Esse alimento tem o mesmo principio da maçã, ou seja, ajuda a eliminar a placa. Porém, ele têm como vantagem a presença do magnésio, substância que ajuda a fortificar os dentes.
 
 Ainda tem dúvidas ? Deixe seu comentários abaixo !
-
-Att, 
-
-Davi Frossard

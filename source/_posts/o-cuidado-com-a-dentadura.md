@@ -110,6 +110,3 @@ Mas, se você procura por um trabalho com mais segurança, sem dúvida, os impla
 ## Dúvidas sobre o cuidado da dentadura
 
 Ainda tem dúvidas sobre o cuidado com a dentadura? Deixe seu comentário ou pergunta logo abaixo.
-
-Att, 
-Davi Frossard

@@ -21,5 +21,3 @@ Certamente que sim, ao invés de somente ir ao dentista nos momentos de dor, por
 
 Portanto o check up digital preventivo é importante e devemos sempre realizar-lo. 
 
-Att, 
-MD Frossard Odontologia.

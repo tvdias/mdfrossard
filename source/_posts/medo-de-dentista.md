@@ -88,5 +88,4 @@ Viu só como conversar com seu dentista é importante? Quem disse que paciente s
 
 {% youtube bEW82uVOVCo %}
 
-Att,
-Luciana Vieira Peroni
+

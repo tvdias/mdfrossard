@@ -52,6 +52,3 @@ Ele é o mais capacitado para {% post_link tratamento-dentario "analisar" %} a p
 lém disso, a ida ao dentista constantemente possibilita detectar problemas iniciais que sozinho não teríamos capacidades de notar. 
 
 Se você ainda tiver alguma dúvida sobre esse tema, deixe sua pergunta abaixo!
-
-Att,
-Davi Frossard

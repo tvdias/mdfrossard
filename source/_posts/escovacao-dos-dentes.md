@@ -40,6 +40,3 @@ Nessa consulta fazemos o {% post_link check-up-digital-preventivo-dos-dentes "Ch
 Portanto com esses pequenos cuidados podemos evitar dores de dente em momentos inoportunos, como em finais de semana ou em viagens com a família. 
 
 Sempre é melhor prevenir do que tratar. Para mais informações sobre tratamentos, [clique aqui.](/tratamentos/)
-
-Att, 
-Davi Frossard

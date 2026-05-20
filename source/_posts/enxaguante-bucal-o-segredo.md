@@ -104,7 +104,3 @@ Caso você ainda queira usar o enxaguante, não há problema.
 Desde que você não o use todos os dias e guarde na sua mente que o uso desse líquido é somente um complemento da correta limpeza dos dentes e da gengiva.
 
 Deixe seu comentário abaixo,
-
-Att, 
-
-Davi Frossard

@@ -47,4 +47,3 @@ Feito isto, **procure imediatamente seu dentista** para que ele possa tomar prov
 
 Tenha sempre o telefone de seu dentista ao alcance!
 
-Att.: Davi Frossard

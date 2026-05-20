@@ -96,5 +96,4 @@ Logo, algumas **precauções** podem ser tomadas e desenvolvidas desde os 6 mese
 
 **8-** Nunca incentive o medo! Cada um tem as suas próprias experiências e estes medos não devem ser transferido para as crianças. Isto atrapalha o tratamento e cria nelas expectativas negativas que poderão contribuir para um trauma futuro.
 
-Att,
-Luciana Vieira Peroni
+

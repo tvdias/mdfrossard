@@ -74,7 +74,3 @@ Se você precisa de uma avaliação sobre enxerto ósseo ou implantes, entre em 
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Agendar Consulta via WhatsApp</a>
 </div>
 
-Att,
-
-**Davi Frossard**
-MD Frossard Odontologia

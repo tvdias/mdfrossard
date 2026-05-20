@@ -96,6 +96,3 @@ Para agendar uma consulta com um dentista no Rio de Janeiro, entre em contato pe
 - 📍 Barra da Tijuca: Shopping Città America — Av. das Américas, 700, Sala 143
 - 📍 Botafogo: Rua Marques, 15 — ao lado da Cobal do Humaitá
 
-Att,
-
-MD Frossard Odontologia

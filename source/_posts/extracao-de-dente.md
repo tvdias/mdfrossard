@@ -102,9 +102,7 @@ Algo que sempre indicamos aos nosso pacientes é o uso do bochecho com clorexid
 
 Isso ajuda a manter a região limpa e saudável. Entretanto não devemos usar essa substância por tempo prolongado. 
 
-Importante: dependendo da área operada é normal que o paciente tenha dificuldade para higienizar. Por isso é de extrema importância que ele retorne ao dentista para avaliar o pós operatório da região.   \[rev_slider marque_avaliacao]  
-
-## **Outros cuidados no pós operatório da cirurgia dental **
+Importante: dependendo da área operada é normal que o paciente tenha dificuldade para higienizar. Por isso é de extrema importância que ele retorne ao dentista para avaliar o pós operatório da região. ## **Outros cuidados no pós operatório da cirurgia dental **
 
 ![medicação extração de dente](/images/83ac7390-8198-4236-9442-73a7cee9ecd9_medicacao-extracao-de-dente.webp) 
 

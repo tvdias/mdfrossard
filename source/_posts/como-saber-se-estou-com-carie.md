@@ -69,6 +69,3 @@ Se existe dor associada, você deve relatar isto ao dentista. Nestes casos, ela 
 Tem cárie ? Precisa de tratamento ? Ligue para nós. 
 
 Caso tenha outras dúvidas, deixe seu comentário. 
-
-Att,
-Davi Frossard

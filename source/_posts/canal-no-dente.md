@@ -50,6 +50,3 @@ Entretanto, existem indicações que não temos como prever, como o trauma denta
 No caso da cárie, a causa mais comum, é muito fácil evitar o canal. Somente é preciso saber a {% post_link escovar-os-dentes "correta higienização" %} dos dentes juntamente com a prevenção e manutenção no dentista. Com isso, diminuímos muito a chance de realizar o canal no dente.
 
 Ainda tem dúvidas? Deixe seu comentáio abaixo.
-
-Att, 
-Davi Frossard

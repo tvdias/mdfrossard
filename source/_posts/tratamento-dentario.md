@@ -72,6 +72,3 @@ Existe uma página em nosso site que explica cada tipo de tratamento que pode se
 Outros diagnósticos temos que realmente realizar uma reabilitação bucal, onde teremos que tratar praticamente todos os dentes, e o paciente irá ser atendido pelas diversas especialidades odontológicas. 
 
 **Você já marcou seu tratamento dentário?**   
-
-Att, 
-Davi Frossard

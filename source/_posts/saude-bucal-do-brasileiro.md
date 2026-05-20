@@ -92,6 +92,3 @@ Só por essa citação devemos ficar atentos com a influência da saúde bucal n
 as ainda temos outros exemplo como a diabetes, em que as substâncias inflamatórias que a doença periodontal produz aumentam a resistência a insulina. 
 
 Concluindo, a saúde bucal é importante e devemos diminuir hábito deletérios, como a não escovação dos dentes e do fio dental, para assim termos saúde não somente da boca, mas do corpo inteiro.
-
-Att,
-Davi Frossard

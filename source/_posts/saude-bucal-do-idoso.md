@@ -94,5 +94,3 @@ A odontologia possibilita uma enorme quantidade diferente de tratamentos que via
 
 Se esse for o seu caso, procure aumentar sua qualidade de vida, com um trabalho dentário de qualidade. 
 
-Att, 
-MD Frossard Odontologia

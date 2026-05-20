@@ -64,7 +64,3 @@ De nada adianta ter lindos dentes de porcelana e não ter um boa higiene bucal.
 A escovação e o fio dental são essenciais para ter uma longevidade do trabalho instalado e um sorriso saudável.
 
 Ainda tem dúvidas ? Deixe seu comentário abaixo.
-
-Att, 
-
-Davi Frossard

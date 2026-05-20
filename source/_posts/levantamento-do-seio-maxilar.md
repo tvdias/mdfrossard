@@ -81,4 +81,3 @@ Em menor escala, podemos ter ainda uma infecção ( que irá ser controlada atra
 
 Deixe seu comentário ou dúvida logo abaixo. 
 
-Att, **Davi Frossard**

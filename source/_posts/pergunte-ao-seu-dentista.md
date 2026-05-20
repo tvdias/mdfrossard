@@ -18,7 +18,3 @@ Tentaremos responder de forma rápida e objetiva.
 Se necessário poderemos realizar um post com mais informações sobre o assunto. 
 
 As perguntas devem ser colocadas nos próprios comentários. 
-
-Att, 
-
-Davi Frossard

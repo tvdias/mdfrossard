@@ -78,7 +78,3 @@ Somente o dentista pode verificar se os seus dentes estão saudáveis. Ele pode 
 **Portanto, marque uma consulta no dentista. **
 
 Gostou das nossas 5 dicas de saúde bucal ? Se tiver mais alguma dúvidas, deixe um comentário abaixo.
-
-Att, 
-
-Davi Frossard

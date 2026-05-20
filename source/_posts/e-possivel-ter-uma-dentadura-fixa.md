@@ -76,4 +76,3 @@ Com o correto planejamento e os devidos cuidados, podemos transformar dentaduras
 
 Esse tipo de tratamento tem sido feito cada vez mais nos consultórios dentários. 
 
-Att, Davi Frossard
