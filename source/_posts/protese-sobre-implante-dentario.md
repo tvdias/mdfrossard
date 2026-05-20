@@ -1,9 +1,9 @@
 ---
-title: Prótese sobre implante dentário - Você sabe o que é ?
+title: 'Prótese sobre implante dentário: tipos, estética e durabilidade'
 description: >-
- A prótese sobre implante é a melhor alternativa para quando se perde um dente.
- Sua estética e durabilidade são ótimas desde que bem cuidadas.
+ Prótese sobre implante: entenda a diferença entre prótese e implante, os 3 tipos disponíveis (coroa unitária, ponte e protocolo) e como é a estética e durabilidade do tratamento.
 date: 2018-08-13T10:00:58.000Z
+updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/e30cecc1-4499-41a1-af93-697dd0934221_Protese-sobre-implante.webp
 ---
 
@@ -62,6 +62,10 @@ Para isso, cada trabalho é único, ou seja, para cada pessoa é feito um dente 
 
 ---
 
+## Planejamento digital: veja o resultado antes de começar
+
+Hoje utilizamos **planejamento digital com scanner intraoral** para mostrar ao paciente uma prévia do resultado final antes de qualquer procedimento. Isso nos permite ajustar formato, tamanho e cor das próteses de acordo com as características de cada sorriso, garantindo naturalidade e previsibilidade no resultado.
+
 ## A prótese sobre implante dura muito tempo ?
 
 Assim como no dente, a durabilidade desse tratamento irá depender de uma boa higienização da região e a ida as consultas de revisão no dentista. 
@@ -70,7 +74,4 @@ Além disso, a prótese sobre implante apresenta uma ótima resistência na mord
 
 Seguindo esses critérios o tratamento tem tudo para durar um longo tempo, preservando sua harmonia com a gengiva e mastigação.
 
-Ainda tem dúvidas ? Deixe seu comentário abaixo.
-
-Att,
-Davi Frossard
+Se ainda tiver dúvidas sobre qual o tipo de prótese mais indicado para o seu caso, o caminho mais rápido é uma avaliação clínica. Entre em contato pelo WhatsApp e agende a sua consulta.

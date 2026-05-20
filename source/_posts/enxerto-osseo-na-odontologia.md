@@ -4,11 +4,10 @@ description: >-
  Veja tudo sobre o enxerto ósseo usado na odontologia. Existem diferentes tipos
  e eles são usados principalmente na área de implantes dentais.
 date: 2017-12-04T09:00:03.000Z
+updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/b3a03403-589f-4312-90ad-9bce2d4a86a6_enxerto-osseo.webp
 ---
-Um dos grandes questionamentos que recebo em nosso blog é sobre a {% post_link perda-ossea-dentaria "perda óssea" %} e o enxerto ósseo necessário para corrigi-la. 
-
-Dentre essas dúvidas, uma pergunta frequente é sobre o **enxerto ósseo** e sobre quando usar. 
+Uma das perguntas mais frequentes que recebo de pacientes que precisam de implantes é sobre o **enxerto ósseo**: quando é necessário, como funciona e se é doloroso. Vou explicar de forma clara neste texto. 
 
 O uso do enxerto esta muito atrelado ao {% post_link implante-dentario "implante dental" %}. Quase a totalidade de indicações são para formar uma estrutura óssea adequada para a posterior instalação de implantes. 
 
@@ -58,6 +57,10 @@ Caso você tenha a periodontite o tratamento periodontal junto com o especialist
 
 Além disso, o acompanhamento recorrente é essencial para evitar que o problema retorne. Feito isso, a perda óssea e por consequência a perda do dente pode ser evitada.
 
+## Enxerto ósseo e planejamento digital
+
+Com o uso de **tomografia 3D**, hoje conseguimos medir com precisão o volume ósseo disponível antes de qualquer cirurgia. Isso nos permite planejar o tipo de enxerto necessário, prever o resultado e — em muitos casos — realizar o enxerto e a instalação do implante na mesma cirurgia, reduzindo o tempo total de tratamento.
+
 ---
 
 ### **Fale conosco para marcar uma consulta**
@@ -65,7 +68,7 @@ Além disso, o acompanhamento recorrente é essencial para evitar que o problema
 Se você precisa de uma avaliação sobre enxerto ósseo ou implantes, entre em contato:
 
 *  **WhatsApp:** [Clique aqui para enviar uma mensagem](https://api.whatsapp.com/send?phone=5521976637803)
-*  **Telefone:**(21) 3217-0430
+*  **Telefone:** (21) 97663-7803
 
 <div style="margin-top: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Agendar Consulta via WhatsApp</a>

@@ -1,14 +1,14 @@
 ---
-title: Faceta de Porcelana - 5 Razões para mudar seu sorriso
+title: 'Faceta de Porcelana: 5 razões para transformar o seu sorriso'
 description: >-
- A Faceta de Porcelana pode mudar completamente o seu sorriso e auto-estima.
- Veja as principais indicações para você e mude também.
+ Faceta de porcelana: conheça as 5 principais indicações, a diferença para lentes de contato dental e o que esperar do planejamento estético. Veja se esse tratamento é para você.
 date: 2015-09-08T15:15:27.000Z
+updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/adfe83ee-64a4-4200-88b2-1fb15ca650ef_faceta-porcelana.webp
 ---
 A procura por tratamentos estéticos está cada vez maior em nossa população. 
 
-Segundo [reportagem recente](https://g1.globo.com/bemestar/noticia/2014/07/brasil-se-torna-pela-primeira-vez-lider-em-cirurgias-plasticas-diz-organizacao.html), o Brasil se tornou o líder em cirurgias plásticas, passando a frente dos EUA. Esse fenômeno também está presente nos consultórios odontológicos. 
+O Brasil é um dos maiores mercados mundiais de procedimentos estéticos, e esse movimento chegou com força também aos consultórios odontológicos. 
 
 Antigamente, grande parte dos pacientes procuravam atendimento devido a dor, atualmente a maior procura é para tratamentos estéticos. 
 
@@ -96,6 +96,10 @@ O dente com a cor muito branca irá facilmente deixar a estética artificial, po
 
 {% youtube Y7PhCPfVUY0 %}
 
+## Faceta de porcelana ou lente de contato dental?
+
+Uma dúvida muito comum hoje é a diferença entre a **faceta de porcelana** e a **lente de contato dental**. A lente é uma versão mais fina da faceta — requer desgaste mínimo ou nenhum desgaste do dente, e é indicada principalmente para casos de cor e pequenas irregularidades de formato. Já a faceta clássica em porcelana tem mais versatilidade e é indicada nos casos com maior desgaste estrutural ou mudanças mais significativas. A escolha entre uma e outra depende do diagnóstico clínico — e faz parte do planejamento que realizamos em consulta.
+
 ## **E o preço da faceta em porcelana ?**
 
 Sim, eu sei, sua principal dúvida é qual valor será pago em um tratamento como esse. 
@@ -124,5 +128,3 @@ O suporte do profissional para o paciente é reflexo da confiança e investiment
 ## Infográfico sobre Faceta de porcelana 
 
 ![Faceta de Porcelana](/images/f99633c8-153b-4db5-9979-846e265f5cd0_Faceta-de-porcelana.-1.webp)   
-
-Att, Davi Frossard
