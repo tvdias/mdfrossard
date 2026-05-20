@@ -1,7 +1,7 @@
 ---
 title: 'Faceta de Porcelana: 5 razões para transformar o seu sorriso'
 description: >-
- Faceta de porcelana: conheça as 5 principais indicações, a diferença para lentes de contato dental e o que esperar do planejamento estético. Veja se esse tratamento é para você.
+ Faceta de porcelana: 5 indicações, diferença para lentes de contato dental e o que esperar do planejamento estético. Veja se este tratamento é para você.
 date: 2015-09-08T15:15:27.000Z
 updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/adfe83ee-64a4-4200-88b2-1fb15ca650ef_faceta-porcelana.webp

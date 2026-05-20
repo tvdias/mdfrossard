@@ -1,7 +1,7 @@
 ---
 title: 'Clareamento Dental no Consultório: como funciona e resultados'
 description: >-
- Clareamento dental no consultório: entenda como funciona o gel de alta concentração, por que o termo 'laser' caiu em desuso e quais resultados esperar no tratamento.
+ Clareamento dental no consultório: como funciona o gel, por que o termo 'laser' caiu em desuso e quais resultados esperar.
 date: 2018-07-30T10:00:47.000Z
 updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/cf941929-82da-4d54-8712-f62ee4a09810_clareamento-a-laser.webp

@@ -1,7 +1,7 @@
 ---
 title: 'Carga Imediata em Implantes Dentários: quando é possível?'
 description: >-
- Carga imediata em implantes: saia da cirurgia com o dente fixo no mesmo dia. Entenda quando é possível, quais os critérios e como a técnica guiada 3D amplia os casos elegíveis.
+ Carga imediata em implantes: saia com o dente fixo no mesmo dia. Entenda quando é possível e como a técnica guiada 3D amplia os casos elegíveis.
 date: 2014-12-04T14:06:39.000Z
 updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/uploads/2014/03/Clareamento-dental.webp

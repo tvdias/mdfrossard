@@ -1,7 +1,7 @@
 ---
 title: 'Prótese sobre implante dentário: tipos, estética e durabilidade'
 description: >-
- Prótese sobre implante: entenda a diferença entre prótese e implante, os 3 tipos disponíveis (coroa unitária, ponte e protocolo) e como é a estética e durabilidade do tratamento.
+ Prótese sobre implante: diferença entre prótese e implante, os 3 tipos (coroa unitária, ponte e protocolo) e como é a estética e durabilidade.
 date: 2018-08-13T10:00:58.000Z
 updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/e30cecc1-4499-41a1-af93-697dd0934221_Protese-sobre-implante.webp

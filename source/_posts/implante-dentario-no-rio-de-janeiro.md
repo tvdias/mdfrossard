@@ -1,7 +1,7 @@
 ---
 title: Implante Dentário no Rio de Janeiro
 description: >-
- Saiba tudo sobre implante dentário no Rio de Janeiro: técnica guiada 3D, carga imediata e 38 anos de experiência clínica. Tire suas dúvidas e agende sua avaliação.
+ Implante dentário no Rio de Janeiro: técnica guiada 3D, carga imediata e 38 anos de experiência. Tire suas dúvidas e agende sua avaliação.
 date: 2016-01-20T15:56:33.000Z
 updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/b340818e-20e6-4587-a475-becbd9e34f97_Implante-dentario-RJ-1.webp

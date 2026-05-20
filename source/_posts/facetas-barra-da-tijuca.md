@@ -1,7 +1,7 @@
 ---
 title: "Facetas na Barra da Tijuca: Guia Completo de Quem Vai Fazer"
 author: Marcos Frossard
-description: "Facetas dentárias na Barra da Tijuca: tipos (porcelana, lente, resina), quanto duram, como funciona o tratamento e o que avaliar antes. Equipe MD Frossard, 38 anos."
+description: "Facetas dentárias na Barra da Tijuca: tipos, durabilidade e como funciona o tratamento. Equipe MD Frossard, 38 anos de experiência."
 date: 2026-04-22T10:00:00.000Z
 featured_image: /images/94bdc549-478d-43ec-8cce-11026b353ccf_facetas-dentais-1.webp
 category: Estética
