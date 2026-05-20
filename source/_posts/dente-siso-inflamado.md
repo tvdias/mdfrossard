@@ -17,7 +17,7 @@ Na **MD Frossard**, somos especialistas em remover o desconforto causado pelo si
 Não sofra com a dor. Fale agora com nossa equipe de atendimento:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **[Agende Imediato via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** [(21) 3217-0430](tel:2132170430)
+* <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** [(21) 97663-7803](tel:2197663-7803)
 
 ---
 
@@ -83,7 +83,7 @@ Não deixe uma pequena inflamação virar uma emergência dolorosa. Nossa equipe
 **Escolha a unidade mais próxima de você no Rio de Janeiro:**
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **Fale pelo WhatsApp:** **[Abrir Atendimento Agora](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Telefone:** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Telefone:** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Resolver Meu Problema de Siso</a>

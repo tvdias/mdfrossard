@@ -2,6 +2,7 @@
 title: 'Coroa Dentária: Guia Completo sobre Próteses e Porcelanas'
 description: "A coroa dentária é a solução ideal para recuperar dentes quebrados ou fragilizados. Conheça os tipos de porcelana (Metal-Free) e veja como devolver a."
 date: 2015-07-21T10:14:17.000Z
+updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/3e904c62-2a01-4d3b-86bc-ba9ac7dd2f0f_Coroa-dentaria.webp
 ---
 
@@ -17,7 +18,7 @@ Na **MD Frossard**, utilizamos o que há de mais moderno em cerâmicas e zircôn
 Se você tem um dente quebrado ou precisa trocar uma prótese antiga, fale conosco:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **[Agende sua Avaliação via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Unidades Barra e Botafogo:** [(21) 3217-0430](tel:2132170430)
+* <i data-lucide="phone" class="icon-sm"></i> **Unidades Barra e Botafogo:** [(21) 97663-7803](tel:2197663-7803)
 
 ---
 
@@ -74,7 +75,7 @@ Trocar uma prótese antiga ou colocar uma nova coroa de porcelana pura pode muda
 Estamos prontos para devolver a função e a estética ao seu sorriso no Rio de Janeiro:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **Envie um WhatsApp:** **[Abrir Atendimento Agora](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Telefone:** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Telefone:** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Recuperar Meu Dente com Segurança</a>

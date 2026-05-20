@@ -1,9 +1,9 @@
 ---
-title: Clareamento a laser - Será que funciona mesmo ?
+title: 'Clareamento Dental no Consultório: como funciona e resultados'
 description: >-
- O clareamento a laser é muito utilizado nos consultórios dentários. Mas será
- que ele funciona mesmo? Veja o texto e descubra tudo sobre esse tratamento.
+ Clareamento dental no consultório: entenda como funciona o gel de alta concentração, por que o termo 'laser' caiu em desuso e quais resultados esperar no tratamento.
 date: 2018-07-30T10:00:47.000Z
+updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/cf941929-82da-4d54-8712-f62ee4a09810_clareamento-a-laser.webp
 ---
 

@@ -22,7 +22,7 @@ Portanto, se o seu principal desejo estético do momento é remover aquela sombr
 **Evite esperar em agendas abertas e contate nossas especialistas imediatamente:** 
 
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Nosso WhatsApp no RJ (Apenas um Clique)](https://api.whatsapp.com/send?phone=5521976637803)** 
-* <i data-lucide="phone" class="icon-xs"></i> **Central (Fixo):** [(21) 3217-0430](tel:2132170430)
+* <i data-lucide="phone" class="icon-xs"></i> **Central (Fixo):** [(21) 97663-7803](tel:2197663-7803)
 
 ---
 
@@ -103,7 +103,7 @@ A única aplicação sem surpresas traumáticas deve sempre morar sobre nossas o
 Faça já o alinhamento com nossas especializadas assistentes:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **Contato via Mensagem Clínica:** **[Agendamento de Consultas Online (WhatsApp)](https://api.whatsapp.com/send?phone=5521976637803)** 
-* <i data-lucide="phone" class="icon-sm"></i> **Chamada de Instalação Frossard (Telefone):** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Chamada de Instalação Frossard (Telefone):** (21) 97663-7803
 
 Nossa arquitetura odontológica pronta a te transformar aguarda pela surpresa do seu autoencontro no espelho. A **estética clareadora dental** ilumina até sua vontade de voltar aos lugares em frente das pessoas novas! 
 

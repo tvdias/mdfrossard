@@ -27,7 +27,7 @@ Neste guia, explicamos tudo o que você precisa saber para lidar com essas lesõ
 **Tem uma ferida na boca que não cicatriza há mais de 15 dias? Fale com a gente:**
 
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Agendar Avaliação via WhatsApp (Clique Aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
+* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 97663-7803](tel:2197663-7803)
 
 ---
 
@@ -83,7 +83,7 @@ Na maioria absoluta dos casos, a **afta** cicatriza sozinha. O tratamento foca e
 Não deixe uma pequena ferida estragar o prazer da sua alimentação. Na MD Frossard, avaliamos a saúde da sua mucosa para garantir que seu sorriso esteja sempre livre de dores.
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **Marcar consulta no WhatsApp:** **[Clique Aqui Para Iniciar o Atendimento](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Falar na Recepção (Fixo):** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Falar na Recepção (Fixo):** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Avaliar a Saúde da Minha Boca</a>

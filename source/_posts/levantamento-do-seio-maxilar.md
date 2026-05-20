@@ -5,6 +5,7 @@ description: >-
  pacientes. Leia o texto agora e saiba se é possível realizar esse
  procedimento.
 date: 2014-07-28T10:47:00.000Z
+updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/ed795d4d-a173-46df-97c4-ef8153e707aa_Levantamento-seio-maxilar.webp
 ---
 Muitos pacientes que perderam os dentes posteriores superiores a bastante tempo e precisam colocar [implantes dentários](/tratamentos/implante-dentario/ "Implantodontia"), na maioria das vezes precisam realizar uma cirurgia prévia, chamada **levantamento do seio maxilar.** 
@@ -24,7 +25,7 @@ Em poucas palavras, no **levantamento do seio maxilar** realizamos um enxerto de
 Caso queira falar conosco para **marcar uma consulta ou apenas tirar uma dúvida**, você pode: 
 
 * Enviar um [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) (é só clicar) ; 
-* Ligar para [3217-0430](tel:2132170430).
+* Ligar para [(21) 97663-7803](tel:2197663-7803).
 
 ## Como ela é feita ?
 

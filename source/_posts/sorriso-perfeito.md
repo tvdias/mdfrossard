@@ -17,7 +17,7 @@ Neste artigo, você vai descobrir que o "perfeito" é aquele sorriso que harmoni
 Converse com nossos especialistas e descubra qual o melhor caminho para você:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **[Agende sua Avaliação via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Botafogo ou Barra:** [(21) 3217-0430](tel:2132170430)
+* <i data-lucide="phone" class="icon-sm"></i> **Botafogo ou Barra:** [(21) 97663-7803](tel:2197663-7803)
 
 ---
 
@@ -82,7 +82,7 @@ Na **MD Frossard**, não apenas consertamos dentes; nós construímos histórias
 Nossas consultoras estão prontas para te ajudar a dar o primeiro passo:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **Envie um WhatsApp:** **[Abrir Atendimento Imediato](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Ter o Meu Sorriso Perfeito</a>

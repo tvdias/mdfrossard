@@ -62,7 +62,7 @@ Unidade Barra da Tijuca: Shopping Città America - Av. das Américas, 700, Bloco
 
 Unidade Botafogo: Rua Marques, 15, Humaitá, Rio de Janeiro.
 
-Contato:(21) 3217-0430
+Contato:(21) 97663-7803
 
 Mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)
 
@@ -94,6 +94,6 @@ De acordo com os depoimentos recebidos, os tratamentos que mais geram avaliaçõ
 
 Quer ter a mesma experiência dos nossos pacientes mais satisfeitos? O primeiro passo é agendar uma avaliação. Na consulta inicial, apresentamos um diagnóstico detalhado e um plano de tratamento personalizado — sem pressão e sem compromisso.
 
-- 📞 **(21) 3217-0430**
+- 📞 **(21) 97663-7803**
 - 💬 **[WhatsApp (21) 97663-7803](https://api.whatsapp.com/send?phone=5521976637803)**
 - 📍 Shopping Città America — Av. das Américas, 700, Bloco 2, Sala 143, Barra da Tijuca

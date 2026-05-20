@@ -2,6 +2,7 @@
 title: 'Bruxismo: Causas, Sintomas e o Tratamento Definitivo'
 description: "Acordando com tensão no rosto e dor de cabeça? O Bruxismo destrói o sono e os dentes de forma silenciosa. Entenda as suas causas ocultas e veja como se."
 date: 2014-08-25T10:00:54.000Z
+updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/2c39dacc-f461-497e-be10-8171ede1c0a4_bruxismo.webp
 h1: Como Tratar o Bruxismo
 ---
@@ -23,7 +24,7 @@ Nesse artigo rápido, você entenderá se os seus sintomas diários realmente co
 **Manda no dente e acorda com o maxilar dolorido e cansado? Fale com a clínica urgente:**
 
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Agende sua Avaliação com nossos Especialistas (WhatsApp)](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
+* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 97663-7803](tel:2197663-7803)
 
 ---
 
@@ -98,7 +99,7 @@ Reavalie a cada ciclo as ranhuras profundas e furadas geradas e marcadas nessas 
 É assustador acordar sabendo das pressões e observar todos estalos no ouvido? Recupere imediatamente sua integridade óssea marcando nosso acolhedor atendimento consultivo urgente e instalando o alívio que acalma dores articulares crônicas diárias. Interceda enquanto tem dentes grandes para sorrir em fotos:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **Acionar a Secretária das Placas Rápidas (Agendamento Fácil Rio/WhatsApp):** **[Quero Falar Pelo WhatsApp da MD Odontologia Agora Aqui](https://api.whatsapp.com/send?phone=5521976637803)** 
-* <i data-lucide="phone" class="icon-sm"></i> **Ou Ligue no Ramal do Fixo Local:** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Ou Ligue no Ramal do Fixo Local:** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Interromper o Desgaste do Bruxismo E Blindar</a>

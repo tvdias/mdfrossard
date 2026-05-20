@@ -4,6 +4,7 @@ description: >-
  Muitos querem colocar implante, mas ficam com dúvida se Implante Dentário Dói.
  Nesse texto explicamos sobre implantes e o controle da dor.
 date: 2016-05-09T10:00:19.000Z
+updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/7ac3ac17-b384-4f27-b841-65870cb1938a_implante-dentario-doi.webp
 ---
 
@@ -49,7 +50,7 @@ O {% post_link medo-de-dentista "medo" %} e o nervosismo apesar de comuns em um 
 
 Em segundo lugar, conversar com o dentista a respeito de suas dúvidas e sobre o pós operatório irá te ajudar a compreender sobre o que você irá passar, melhorando a dor e o desconforto. 
 
-Em nosso [blog](/blog/), temos diversos temas relacionados a {% post_link implante-dentario "implantes dentários" %} que podem te fazer entender melhor sobre esse tema, basta clicar aqui ou aqui. 
+Em nosso blog temos diversos temas relacionados a {% post_link implante-dentario "implantes dentários" %}: sobre {% post_link carga-imediata-em-implantes-dentarios "carga imediata" %}, {% post_link perder-um-implante-dentario "como não perder o implante" %} e {% post_link protese-sobre-implante-dentario "tipos de prótese sobre implante" %}. 
 
 Em último lugar, devemos seguir a correta orientação do dentista a respeito do pós operatório. Usando os medicamentos de forma adequada e evitando exercícios. 
 

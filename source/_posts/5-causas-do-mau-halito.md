@@ -24,7 +24,7 @@ Neste artigo, vamos revelar as 5 causas mais frequentes e como você pode recupe
 **Inseguro com o seu hálito? Agende uma avaliação detalhada:**
 
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Agendar pelo WhatsApp (Clique Aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
+* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 97663-7803](tel:2197663-7803)
 
 ---
 
@@ -91,7 +91,7 @@ O **mau hálito** não é uma doença, mas um sinal de que algo na sua saúde ou
 Não conviva com a dúvida. Agende uma limpeza hoje e sinta a diferença de uma boca verdadeiramente saudável.
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **Chame no WhatsApp agora:** **[Clique Aqui Para Marcar sua Consulta](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Telefone da Clínica:** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Telefone da Clínica:** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Avaliar o Meu Hálito e Me Sentir Seguro</a>

@@ -69,7 +69,7 @@ A vida e a ciência eliminaram a concepção infantil para dentes direitos! Milh
 Faça parte hoje dos sorrisos mais modernos sem se submeter aos fios afiados antiquados. Comece imediatamente a cuidar da sua saúde entrando em nossa recepção humana online especializada:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **Envie Mensagem No WhatsApp Imediato:** **[Clicar Aqui Para Iniciar](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Telefone Central (Fixo):** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Telefone Central (Fixo):** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Planejar Meu Aparelho Invisível Hoje</a>

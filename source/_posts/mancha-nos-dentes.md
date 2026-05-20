@@ -17,7 +17,7 @@ Neste guia, você vai entender as causas reais por trás dessas marcas e as tecn
 Não espere o quadro se agravar. Agende uma avaliação detalhada em nossas unidades:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **[Clique para agendar via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Botafogo ou Barra:** [(21) 3217-0430](tel:2132170430)
+* <i data-lucide="phone" class="icon-sm"></i> **Botafogo ou Barra:** [(21) 97663-7803](tel:2197663-7803)
 
 ---
 
@@ -83,7 +83,7 @@ Seja através de uma limpeza técnica, clareamento a laser ou a estética avanç
 Converse agora com nossa equipe e agende sua avaliação no Rio de Janeiro:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **Envie um WhatsApp:** **[Atendimento Imediato](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Eliminar as Manchas do Meu Sorriso</a>

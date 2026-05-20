@@ -12,7 +12,7 @@ Se você procura um **dentista em Botafogo** que una experiência consolidada e 
 
 Nossa unidade fica na **Rua Marques, 15**, ao lado da Cobal do Humaitá e próximo ao Largo dos Leões — um endereço fácil de acessar tanto de metrô quanto de carro.
 
-Ligue para **(21) 3217-0430** ou envie uma **[mensagem via WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)** para falar com nossa equipe.
+Ligue para **(21) 97663-7803** ou envie uma **[mensagem via WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)** para falar com nossa equipe.
 
 ---
 
@@ -119,7 +119,7 @@ Nossa clínica fica na **Rua Marques, 15**, ao lado da Cobal do Humaitá, próxi
 Nosso atendimento é particular em ambas as unidades. Trabalhamos com parcelamento e fornecemos documentação para reembolso junto ao plano odontológico, quando aplicável.
 
 **Qual o horário de atendimento?**
-De segunda a sexta, das 8h às 18h. Agendamentos pelo telefone **(21) 3217-0430** ou pelo **[WhatsApp (21) 97663-7803 ➔](https://api.whatsapp.com/send?phone=5521976637803)**.
+De segunda a sexta, das 8h às 18h. Agendamentos pelo telefone **(21) 97663-7803** ou pelo **[WhatsApp (21) 97663-7803 ➔](https://api.whatsapp.com/send?phone=5521976637803)**.
 
 **Preciso marcar consulta ou posso ir sem agendamento?**
 O atendimento é sempre com hora marcada, garantindo pontualidade e dedicação exclusiva ao seu caso.
@@ -133,7 +133,7 @@ Sim. A Dra. Luciana Vieira Peroni realiza atendimento infantil e adulto na unida
 
 Se você mora em Botafogo, Humaitá, Flamengo ou na Zona Sul e procura um **dentista em Botafogo** com experiência real e equipe estável, venha nos conhecer.
 
-- **📞 Telefone:** (21) 3217-0430
+- **📞 Telefone:** (21) 97663-7803
 - **💬 WhatsApp:** **[Falar agora ➔](https://api.whatsapp.com/send?phone=5521976637803)**
 - **📍 Endereço:** **[Rua Marques, 15 — Botafogo ➔](/localizacao/)**
 

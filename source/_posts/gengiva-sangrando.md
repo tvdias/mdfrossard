@@ -23,7 +23,7 @@ Neste guia prático listamos os porquês você acorda com a sua **gengiva sangra
 **Sangrou de forma prolongada, espontânea com cor escurecida? Não ignore inflamados cardíacos! Chame e agende:**
 
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Agendar Limpeza Endovenosa pelo WhatsApp das Atendentes](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
+* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 97663-7803](tel:2197663-7803)
 
 ---
 
@@ -100,7 +100,7 @@ Se ao triturar castanhas um intenso fluxo mancha vermelho apareceu na boca e já
 Fale e marque urgência pelo acesso restrito de pacientes para nossos experientes doutores estancarem o tártaro destrutivo:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **Envie Mensagem Para o Plantão Resgate de Manchas Hoje (WhatsApp Base Rio de Janeiro):** **[Marcar Nosso Atendimento Limpador Online](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Chame a Secretária (Central Fixa):** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Chame a Secretária (Central Fixa):** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Avaliar a Minha Gengiva Inflamada Urgente</a>

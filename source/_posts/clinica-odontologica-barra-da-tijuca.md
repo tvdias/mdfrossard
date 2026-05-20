@@ -55,7 +55,7 @@ Todas as especialidades odontológicas são executadas no mesmo endereço — vo
 
 Marque uma visita sem compromisso para conhecer a estrutura antes de iniciar tratamento longo. Para falar com nossa equipe:
 
-- **(21) 3217-0430**
+- **(21) 97663-7803**
 - [**WhatsApp (21) 97663-7803**](https://api.whatsapp.com/send?phone=5521976637803)
 - **Endereço:** Av. das Américas, 700 — Bloco 2 / Sala 143, Barra da Tijuca, Rio de Janeiro
 

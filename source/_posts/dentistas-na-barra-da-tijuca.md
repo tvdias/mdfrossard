@@ -46,4 +46,4 @@ Tratamentos longos (implantes, ortodontia) exigem 6 a 12 meses de retornos. Esco
 
 Se depois de avaliar esses critérios você quiser conhecer nossa proposta, [conheça nossa clínica de dentista na Barra da Tijuca](/dentista-barra-da-tijuca/) ou agende uma avaliação direto pelo WhatsApp:
 
-[Agendar avaliação no WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) | Tel: (21) 3217-0430
+[Agendar avaliação no WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) | Tel: (21) 97663-7803

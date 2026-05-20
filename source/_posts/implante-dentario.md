@@ -4,6 +4,7 @@ description: >-
  Saiba tudo sobre o tratamento com Implante Dentário. Ele substitui seu dente
  perdido, devolvendo 100% da sua mastigação, estética e harmonia no sorriso.
 date: 2014-10-13T09:00:10.000Z
+updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/1bd6a3a8-074a-49b9-8138-27a77a78d08b_implante-dental-1.webp
 ---
 
@@ -27,7 +28,7 @@ Este guia foi desenhado justamente para você que **precisa do tratamento, mas b
 Caso queira pular a leitura e falar diretamente conosco para **avaliação presencial**, você pode: 
 
 * <i data-lucide="message-circle" class="icon-xs"></i> **[WhatsApp: Falar com Consultora (clique aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-xs"></i> **Ligue para nós:** [(21) 3217-0430](tel:2132170430)
+* <i data-lucide="phone" class="icon-xs"></i> **Ligue para nós:** [(21) 97663-7803](tel:2197663-7803)
 
 ---
 
@@ -153,7 +154,7 @@ Por se tratar de reconstrução cirúrgica microscópica com arquitetura protét
 A sua virada de mesa está te esperando na Clínica MD Frossard para lhe oferecer uma cirurgia limpa, indolor, protocolada sob exigências americanas de isolamento, e com acolhimento psicológico absoluto aos seus medos dentais, guiada por nosso time impecável.  
 
 *  <i data-lucide="message-circle" class="icon-sm"></i> **Tire suas Dúvidas via WhatsApp:** **[Basta Clicar Para Enviar Mensagem](https://api.whatsapp.com/send?phone=5521976637803)**
-*  <i data-lucide="phone" class="icon-sm"></i> **Central Telefônica MD Frossard:** (21) 3217-0430
+*  <i data-lucide="phone" class="icon-sm"></i> **Central Telefônica MD Frossard:** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Avaliar Meus Implantes pelo WhatsApp</a>

@@ -20,7 +20,7 @@ Se você está pensando **"minha coroa caiu, e agora?"**, este guia foi feito pa
 Se sua coroa caiu e você precisa de um dentista no Rio de Janeiro (Botafogo ou Barra), fale conosco agora:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **[WhatsApp Urgência: (21) 97663-7803](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** [(21) 3217-0430](tel:2132170430)
+* <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** [(21) 97663-7803](tel:2197663-7803)
 
 ---
 
@@ -73,7 +73,7 @@ Um dente sem coroa está desprotegido contra bactérias. Quanto mais rápido voc
 
 ### **Fale com nossos especialistas agora mesmo:**
 * <i data-lucide="message-circle" class="icon-sm"></i> **Envie um WhatsApp:** **[Atendimento de Emergência](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Botafogo ou Barra:** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Botafogo ou Barra:** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Resolver Meu Problema Agora</a>

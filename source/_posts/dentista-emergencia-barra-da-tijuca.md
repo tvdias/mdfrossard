@@ -28,7 +28,7 @@ Dor de dente forte, dente que caiu por trauma, faceta quebrada antes do casament
 
 A [MD Frossard Odontologia](/dentista-barra-da-tijuca/) atua há 38 anos no Rio. Nossa unidade na Barra fica no Shopping Città América (Av. das Américas, 700), com acesso fácil pelo BRT, Linha 4 do Metrô e estacionamento amplo no próprio shopping. Para emergências, mantemos um canal direto via WhatsApp e adaptamos a agenda para encaixar pacientes em urgência.
 
-> **Se a dor é insuportável agora:** ligue **(21) 3217-0430** ou mande **[mensagem no WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)**. Em casos com sangramento abundante, fratura óssea facial ou perda de consciência, vá direto ao pronto-socorro hospitalar — atendimento odontológico vem depois da estabilização clínica.
+> **Se a dor é insuportável agora:** ligue **(21) 97663-7803** ou mande **[mensagem no WhatsApp](https://api.whatsapp.com/send?phone=5521976637803)**. Em casos com sangramento abundante, fratura óssea facial ou perda de consciência, vá direto ao pronto-socorro hospitalar — atendimento odontológico vem depois da estabilização clínica.
 
 ## As 6 emergências odontológicas mais comuns
 
@@ -89,7 +89,7 @@ Três caminhos:
 
 **WhatsApp (mais rápido)** — mande sua queixa por mensagem. Em alguns minutos, retornamos com orientação imediata e horário de atendimento. **[Falar agora pelo WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)**
 
-**Telefone** — **(21) 3217-0430**, segunda a sexta, 8h às 18h. Em horários fora desses, o WhatsApp é o canal certo.
+**Telefone** — **(21) 97663-7803**, segunda a sexta, 8h às 18h. Em horários fora desses, o WhatsApp é o canal certo.
 
 **Presencial** — se você está perto da Barra e o caso parece grave, pode aparecer direto no Shopping Città América (Av. das Américas, 700, Bloco 2, Sala 143) — mas avise-nos no caminho para prepararmos o atendimento.
 

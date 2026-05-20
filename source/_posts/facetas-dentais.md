@@ -104,7 +104,7 @@ E somente as investigações diretas de alinhamentos e desnível marginal podem 
 Inicie esse mergulho no autoconhecimento hoje de maneira rápida via mensagens diretas aos consultores abertos do conforto digital online:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **Envie Mensagem No WhatsApp Clínico:** **[Abrir Atendimento WhatsApp Imediato](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Ramal Tradicional da Clínica (Fixo):** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Ramal Tradicional da Clínica (Fixo):** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Planejar Minha Faceta Dental</a>

@@ -25,7 +25,7 @@ Neste guia completo, vamos explicar o que é a hipersensibilidade, suas causas e
 **Sente dor ao beber algo gelado agora? Fale com nossa equipe:**
 
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Agendar Avaliação via WhatsApp (Clique Aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
+* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 97663-7803](tel:2197663-7803)
 
 ---
 
@@ -116,7 +116,7 @@ Com as correções certas na rotina e o apoio profissional adequado, você pode 
 Não espere a dor se tornar insuportável. Agende uma consulta na MD Frossard e descubra a causa exata da sua sensibilidade para tratá-la na raiz.
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **Falar com a Recepção no WhatsApp:** **[Clique Aqui Para Agendar sua Avaliação](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Chame Agora no Telefone:** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Chame Agora no Telefone:** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Acabar com a Sensibilidade nos Meus Dentes</a>

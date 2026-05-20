@@ -123,7 +123,7 @@ Resposta curta: na maioria dos casos, sim — mas com adaptações.
 
 Se você quer ver como ficaria seu sorriso com facetas — sem compromisso e sem pressão pra fechar tratamento — agende uma avaliação na nossa clínica de **facetas na Barra da Tijuca**:
 
-- **📞 (21) 3217-0430**
+- **📞 (21) 97663-7803**
 - **💬 [WhatsApp (21) 97663-7803](https://api.whatsapp.com/send?phone=5521976637803)**
 - **📍 Shopping Città América — Av. das Américas, 700, Bloco 2 / Sala 143, Barra da Tijuca**
 

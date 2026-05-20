@@ -21,7 +21,7 @@ Se você não quer mais sofrer em casa, neste guia rápido irei abordar de forma
 **Para dores urgentes, não perca tempo lendo. Fale conosco imediatamente:**
 
 * <i data-lucide="message-circle" class="icon-xs"></i> **[Nosso Plantão Emergencial via WhatsApp (Clique Aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 3217-0430](tel:2132170430)
+* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto (Fixo):** [(21) 97663-7803](tel:2197663-7803)
 
 ---
 
@@ -105,7 +105,7 @@ Quando tais sintomas inusitados explodem na face da sua família, suspenda as pe
 Não durma sofrendo à toa. A medicina evoluiu e os alívios anestésicos locais da MD Frossard operam milagres no seu controle de dor imediata na mesma hora! Entre em contato imediatamente com as nossas Consultoras de Atendimento do RJ e agende o apoio urgente em nossa cadeira:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **Envie Mensagem No WhatsApp Urgente:** **[Acione Nosso Resgate (WhatsApp Aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Contato Telefônico Imediato (Fixo):** (21) 3217-0430
+* <i data-lucide="phone" class="icon-sm"></i> **Contato Telefônico Imediato (Fixo):** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Acabar Com a Dor no Meu Dente Agora</a>

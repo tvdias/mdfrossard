@@ -4,6 +4,7 @@ description: >-
  Os dentes de porcelana podem melhorar o seu sorriso. Devolvendo o sua
  confiança e auto-estima. Veja quais tipo de tratamento podemos fazer.
 date: 2017-10-09T08:00:53.000Z
+updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/9f7a46a2-9006-4366-aa0f-335bc15c76e8_dentes-de-porcelana.webp
 ---
 **Estética**, essa é uma palavra muito usada por todos nós. 
@@ -51,8 +52,7 @@ Quando ainda existe muita estrutura dental, podemos usar um bloco de porcelana, 
 
 Quando a perda de estrutra for muito maior, optamos por coroas, que podem ter diversos tipos de infra estrutura, como o metal ou a zirconia. 
 
-Além disso, em caso que demandam muita estética, podemos usar as lentes de contato em cerâmica.   \[rev_slider marque_avaliacao]  
-
+Além disso, em caso que demandam muita estética, podemos usar as lentes de contato em cerâmica.   \
 ## **Entretanto, cuidado.**
 
 ![Dentes de porcelana estetica](/images/0e386db3-b00a-43ce-861a-5c52561818c1_dentes-de-porcelana-estetica.webp)   

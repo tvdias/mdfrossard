@@ -10,11 +10,11 @@ faqs:
   - question: Onde fica a clínica de dentista na Barra da Tijuca?
     answer: "Nossa clínica fica no Shopping Città América — Av. das Américas, 700, Bloco 2, Sala 143, Barra da Tijuca, Rio de Janeiro. Acesso fácil pelo Metrô Jardim Oceânico (Linha 4 — amarela), pelo BRT Alvorada e estacionamento próprio no shopping."
   - question: Qual o horário de atendimento na Barra da Tijuca?
-    answer: "Atendemos de segunda a sexta, das 8h às 18h. O agendamento é feito pelo telefone (21) 3217-0430 ou pelo WhatsApp (21) 97663-7803."
+    answer: "Atendemos de segunda a sexta, das 8h às 18h. O agendamento é feito pelo telefone (21) 97663-7803 ou pelo WhatsApp (21) 97663-7803."
   - question: Vocês atendem por convênio na Barra da Tijuca?
     answer: "Nosso atendimento é particular. Trabalhamos com parcelamento e fornecemos documentação para reembolso junto ao seu plano odontológico, quando aplicável."
   - question: Como agendar consulta com o dentista na Barra da Tijuca?
-    answer: "Pelo telefone (21) 3217-0430 ou pelo WhatsApp (21) 97663-7803. O atendimento é sempre com hora marcada para garantir pontualidade e dedicação exclusiva ao seu caso."
+    answer: "Pelo telefone (21) 97663-7803 ou pelo WhatsApp (21) 97663-7803. O atendimento é sempre com hora marcada para garantir pontualidade e dedicação exclusiva ao seu caso."
   - question: Vocês fazem implante dentário na Barra da Tijuca?
     answer: "Sim. O Dr. Davi Frossard é especialista em Implantodontia pela São Leopoldo Mandic e realiza desde implantes unitários até reabilitações completas com carga imediata, com planejamento digital e guia cirúrgico."
   - question: Atendem pacientes do Recreio, Jacarepaguá e São Conrado?
@@ -27,7 +27,7 @@ Se você procura um excelente **dentista na Barra da Tijuca** que combine tradi�
 
 Localizada no conceituado **Shopping Città America** (Bloco 2 / Sala 143), nossa clínica oferece conveniência, segurança e uma infraestrutura tecnológica completa para cuidar do seu sorriso. Atendemos pacientes da Barra da Tijuca, Recreio dos Bandeirantes, Jacarepaguá, São Conrado, Itanhangá e Joá.
 
-Ligue para **(21) 3217-0430** ou envie uma **[mensagem via WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)** para falar diretamente com nossa equipe.
+Ligue para **(21) 97663-7803** ou envie uma **[mensagem via WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)** para falar diretamente com nossa equipe.
 
 ---
 
@@ -157,13 +157,13 @@ Nossa clínica fica no **Shopping Città América — Av. das Américas, 700, Bl
 Nossa clínica fica no Shopping Città América — Av. das Américas, 700, Bloco 2, Sala 143, Barra da Tijuca, Rio de Janeiro. Acesso fácil pelo Metrô Jardim Oceânico (Linha 4 — amarela), pelo BRT Alvorada e estacionamento próprio no shopping.
 
 **Qual o horário de atendimento na Barra da Tijuca?**
-Atendemos de segunda a sexta, das 8h às 18h. O agendamento é feito pelo telefone (21) 3217-0430 ou pelo WhatsApp (21) 97663-7803.
+Atendemos de segunda a sexta, das 8h às 18h. O agendamento é feito pelo telefone (21) 97663-7803 ou pelo WhatsApp (21) 97663-7803.
 
 **Vocês atendem por convênio na Barra da Tijuca?**
 Nosso atendimento é particular. Trabalhamos com parcelamento e fornecemos documentação para reembolso junto ao seu plano odontológico, quando aplicável.
 
 **Como agendar consulta com o dentista na Barra da Tijuca?**
-Pelo telefone (21) 3217-0430 ou pelo WhatsApp (21) 97663-7803. O atendimento é sempre com hora marcada para garantir pontualidade e dedicação exclusiva ao seu caso.
+Pelo telefone (21) 97663-7803 ou pelo WhatsApp (21) 97663-7803. O atendimento é sempre com hora marcada para garantir pontualidade e dedicação exclusiva ao seu caso.
 
 **Vocês fazem implante dentário na Barra da Tijuca?**
 Sim. O Dr. Davi Frossard é especialista em Implantodontia pela São Leopoldo Mandic e realiza desde implantes unitários até reabilitações completas com carga imediata, com planejamento digital e guia cirúrgico.
@@ -177,7 +177,7 @@ Sim. Atendemos pacientes de toda a região Oeste do Rio: Barra da Tijuca, Recrei
 
 Se você valoriza pontualidade, tecnologia de ponta e um atendimento que entende de verdade as suas necessidades, venha conhecer o melhor **dentista na Barra da Tijuca**. 
 
-- **📞 Telefone:**(21) 3217-0430
+- **📞 Telefone:**(21) 97663-7803
 - **💬 WhatsApp:** **[Falar agora pelo WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)**
 - **📍 Endereço:** **[Shopping Città America – Bloco 2 / Sala 143 – Barra da Tijuca ➔](/localizacao/)**
 
