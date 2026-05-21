@@ -56,7 +56,42 @@ export default {
       });
     }
 
-    // 3) Delega tudo o mais para Static Assets (Eleventy → ./public)
+    // 3) Redirects de limpeza — parâmetros legados e URLs antigas
+    //    que o _redirects não consegue tratar (query params).
+
+    // 3a) ?nonamp=1 — resquício das AMP pages antigas.
+    //     Retornavam 5xx porque o Assets binding não sabe lidar com esse param.
+    if (url.searchParams.has("nonamp")) {
+      const clean = new URL(request.url);
+      clean.searchParams.delete("nonamp");
+      // Remove trailing slash acidental que ficava no valor (ex: ?nonamp=1/)
+      const dest = clean.toString().replace(/\/\s*$/, "/");
+      return Response.redirect(clean.toString(), 301);
+    }
+
+    // 3b) URLs antigas do WordPress (/slug/index.html)
+    if (url.pathname.endsWith("/index.html") && url.pathname !== "/index.html") {
+      const clean = url.pathname.replace(/\/index\.html$/, "/");
+      return Response.redirect(new URL(clean, request.url).toString(), 301);
+    }
+
+    // 3c) Slugs antigos pontuais sem redirect no _redirects
+    const legacyRedirects = {
+      "/dentistas-na-barra-tijuca/": "/dentista-barra-da-tijuca/",
+      "/odontologia-personalizada/": "/tratamentos/",
+      "/tratamentos/check-up-digital-preventivo": "/check-up-digital-preventivo-dos-dentes/",
+      "/tratamentos/periodontia": "/tratamentos/periodontia/",
+      "/sensibilidade-nos-dentes": "/sensibilidade-nos-dentes/",
+      "/localizacao": "/localizacao/",
+      "/equipe": "/equipe/",
+      "/clareamento-dental/": "/clareamento-a-laser/",
+    };
+    const legacyDest = legacyRedirects[url.pathname];
+    if (legacyDest) {
+      return Response.redirect(new URL(legacyDest, request.url).toString(), 301);
+    }
+
+    // 4) Delega tudo o mais para Static Assets (Eleventy → ./public)
     return env.ASSETS.fetch(request);
   },
 };
