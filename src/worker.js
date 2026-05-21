@@ -77,14 +77,14 @@ export default {
 
     // 3c) Slugs antigos pontuais sem redirect no _redirects
     const legacyRedirects = {
-      "/dentistas-na-barra-tijuca/": "/dentista-barra-da-tijuca/",
-      "/odontologia-personalizada/": "/tratamentos/",
+      // URLs antigas sem correspondência direta no site atual
+      "/dentistas-na-barra-tijuca/": "/dentista-barra-da-tijuca/",  // sem "da" → com "da"
       "/tratamentos/check-up-digital-preventivo": "/check-up-digital-preventivo-dos-dentes/",
+      // Trailing slash (Assets binding não normaliza automaticamente em todos os casos)
       "/tratamentos/periodontia": "/tratamentos/periodontia/",
       "/sensibilidade-nos-dentes": "/sensibilidade-nos-dentes/",
       "/localizacao": "/localizacao/",
       "/equipe": "/equipe/",
-      "/clareamento-dental/": "/clareamento-a-laser/",
     };
     const legacyDest = legacyRedirects[url.pathname];
     if (legacyDest) {
