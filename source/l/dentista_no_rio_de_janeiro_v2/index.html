@@ -250,8 +250,9 @@ section{padding:64px 0}
      fades the photo itself — no visible edge between text panel and photo. */
   .hero-visual::before{display:none}
   .hero-img{
-    -webkit-mask-image:linear-gradient(to right,transparent 0%,rgba(0,0,0,.15) 8%,rgba(0,0,0,.55) 22%,rgba(0,0,0,.88) 40%,#000 55%);
-    mask-image:linear-gradient(to right,transparent 0%,rgba(0,0,0,.15) 8%,rgba(0,0,0,.55) 22%,rgba(0,0,0,.88) 40%,#000 55%);
+    -webkit-mask-image:linear-gradient(to right,transparent 0%,#000 12%);
+    mask-image:linear-gradient(to right,transparent 0%,#000 12%);
+    object-position:60% center;
   }
 }
 
@@ -717,12 +718,12 @@ section{padding:64px 0}
     <!-- RIGHT -->
     <div class="hero-visual">
       <picture>
-        <source srcset="/images/lps/equipe-md-frossard-odontologia.webp" type="image/webp">
-        <img src="/images/lps/equipe-md-frossard-odontologia.webp"
-             alt="Equipe MD Frossard — Dentistas no Rio de Janeiro"
+        <source srcset="/images/hero-img.webp" type="image/webp">
+        <img src="/images/hero-img.webp"
+             alt="Dr. Davi Frossard atendendo paciente — Dentista no Rio de Janeiro"
              class="hero-img"
              loading="eager" decoding="sync" fetchpriority="high"
-             width="1040" height="693">
+             width="1600" height="1066">
       </picture>
     </div>
 
