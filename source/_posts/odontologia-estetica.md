@@ -23,7 +23,7 @@ Dentro da odontologia estética, o clareamento dental é provavelmente o tratame
 
 Existem duas modalidades principais:
 
-* **Clareamento de consultório:** realizado na cadeira, com gel de alta concentração e luz de fotopolimerização para proteger a gengiva. O resultado é imediato e pode ser obtido em poucas sessões. Muitos ainda chamam de “clareamento a laser”, mas o laser em si caiu em desuso — o que se usa hoje é a luz de ativação. Saiba mais em [clareamento dental no consultório](/clareamento-a-laser/).
+* **Clareamento de consultório:** realizado na cadeira, com gel de alta concentração e luz de fotopolimerização para proteger a gengiva. O resultado é imediato e pode ser obtido em poucas sessões. Muitos ainda chamam de "clareamento a laser", mas o laser em si caiu em desuso — o que se usa hoje é a luz de ativação. Saiba mais em [clareamento dental no consultório](/clareamento-a-laser/).
 * **Clareamento caseiro supervisionado:** o paciente usa moldeiras personalizadas com gel de menor concentração em casa, durante algumas semanas. O resultado é mais gradual, com menos sensibilidade.
 
 Os dois métodos podem ser combinados para potencializar o resultado. Leia o [guia completo do clareamento dental](/clareamento-dental/) para entender todos os detalhes.
@@ -56,7 +56,7 @@ Quando o dente já não tem mais salvação — casos de destruição muito exte
 
 A cirurgia gengival (gengivoplastia ou gengivectomia) é realizada quando a relação entre dente e gengiva está desarmônica. Os casos mais comuns são:
 
-* Gengiva “alta” demais, deixando os dentes aparentemente pequenos — o chamado “sorriso gengival”.
+* Gengiva "alta" demais, deixando os dentes aparentemente pequenos — o chamado "sorriso gengival".
 * Assimetria no contorno gengival entre os dentes.
 * Excesso de tecido gengival cobrindo parte do esmalte.
 
@@ -78,11 +78,11 @@ Se você quer melhorar o sorriso mas não sabe qual procedimento é o indicado p
 
 Atendemos na **Barra da Tijuca** (Shopping Città América) e em **Botafogo** (Rua Marques, 15):
 
-* <i data-lucide=”message-circle” class=”icon-sm”></i> **[WhatsApp — Agendar Avaliação](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide=”phone” class=”icon-sm”></i> **Telefone:** [(21) 97663-7803](tel:2197663-7803)
+* <i data-lucide="message-circle" class="icon-sm"></i> **[WhatsApp — Agendar Avaliação](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Telefone:** [(21) 97663-7803](tel:2197663-7803)
 
-<div style=”margin-top: 3rem; margin-bottom: 2rem; text-align: center;”>
-  <a href=”https://api.whatsapp.com/send?phone=5521976637803” class=”btn btn-primary btn-lg”>Quero Saber Qual Tratamento É o Meu</a>
+<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Saber Qual Tratamento É o Meu</a>
 </div>
 
 ---
