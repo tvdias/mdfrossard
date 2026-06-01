@@ -15,6 +15,10 @@ class SiteMap {
         if (url.startsWith("/l/")) return false;
         if (url.startsWith("/images/")) return false;
         if (url.startsWith("/_drafts/")) return false;
+        // Excluir arquivos de infraestrutura (não são páginas de conteúdo)
+        if (url === "/sitemap.xml") return false;
+        if (url === "/atom.xml") return false;
+        if (url === "/robots.txt") return false;
         // Excluir páginas que tenham noindex explícito no frontmatter
         if (item.data && item.data.noindex === true) return false;
         return true;

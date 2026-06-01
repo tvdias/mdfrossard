@@ -1,6 +1,25 @@
 User-agent: *
+
+# Páginas administrativas e de tracking interno
 Disallow: /admin/
 Disallow: /l/
+Disallow: /pf/
+
+# Páginas AMP legadas — redirecionam para canônico; não precisa rastrear
+Disallow: /*/amp/
+Disallow: /*/amp$
+
+# Parâmetros de URL que geram páginas duplicadas sem valor
+Disallow: /*?utm_
+Disallow: /*?pht=
+Disallow: /*?nonamp=
+Disallow: /*?replytocom=
+Disallow: /*?mr-testimonials=
+Disallow: /*?q=
+
+# Arquivos HTML explícitos do Hexo antigo (Worker já redireciona para canônico)
+Disallow: /*/index.html$
+
 Allow: /
 
 Sitemap: https://mdfrossard.com.br/sitemap.xml
