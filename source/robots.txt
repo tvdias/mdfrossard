@@ -16,6 +16,7 @@ Disallow: /*?nonamp=
 Disallow: /*?replytocom=
 Disallow: /*?mr-testimonials=
 Disallow: /*?q=
+Disallow: /*?platform=
 
 # Arquivos HTML explícitos do Hexo antigo (Worker já redireciona para canônico)
 Disallow: /*/index.html$

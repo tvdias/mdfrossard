@@ -11,8 +11,10 @@
     
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>
     
-    <!-- Landing Pages: bloquear indexação orgânica -->
+    <!-- Landing Pages: bloquear indexação orgânica (exceto páginas com noindex: false no frontmatter) -->
+    <% if (typeof noindex === 'undefined' || noindex !== false) { %>
     <meta name="robots" content="noindex, nofollow">
+    <% } %>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
