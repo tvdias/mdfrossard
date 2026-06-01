@@ -5,6 +5,7 @@ description: >-
  Assim, a comunicação com o dentista fica mais fácil. 
 date: 2013-11-29T16:09:19.000Z
 featured_image: /images/7909c495-bde1-4dae-8c86-8e171bc5ea41_lips_by_illthrillagorilla.webp
+noindex: true
 ---
 
 Olá a todos, Dando continuidade sobre o último post, gostaria de compartilhar com vocês a respeito do porque realizar o check up digital preventivo. 

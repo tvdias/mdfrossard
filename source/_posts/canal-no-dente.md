@@ -5,6 +5,7 @@ description: >-
  Ele consiste na remoção da polpa e no tratamento do conduto radicular.
 date: 2018-01-29T08:00:56.000Z
 featured_image: /images/c78bde38-d8ff-49b7-bc3f-37e374c9358d_canal-no-dente-como-evitar.webp
+noindex: true
 ---
 
 O canal no dente ou [tratamento endodôntico](/tratamentos/endodontia/) ainda é um dos procedimentos mais realizados no consultório dentário. 

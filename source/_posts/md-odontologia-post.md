@@ -7,6 +7,7 @@ category: Clínica
 author: "Davi Heringer Frossard"
 intro_text: |
  A MD Odontologia é referência em odontologia de alto padrão no Rio de Janeiro, com unidades estrategicamente localizadas na **Barra da Tijuca** (Shopping Città América, Av. das Américas, 700, Bloco 2, Sala 143) e em **Botafogo** (Rua Marques, 15, Humaitá).
+noindex: true
 ---
 
 Com mais de **38 anos de história**, nossa clínica se destaca pelo atendimento personalizado e pela busca constante por excelência nos resultados, garantindo aos nossos pacientes um sorriso bonito e saudável.

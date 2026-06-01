@@ -28,6 +28,9 @@
     <!-- Meta Tags -->
     <meta name="description" content="<%= pageDescription %>">
     <meta name="theme-color" content="#0a0a0a">
+    <% if (typeof noindex !== 'undefined' && noindex === true) { %>
+    <meta name="robots" content="noindex, nofollow">
+    <% } %>
 
     <% if (pageFeaturedImage) { %>
     <link rel="preload" as="image" href="<%= pageFeaturedImage %>" fetchpriority="high">

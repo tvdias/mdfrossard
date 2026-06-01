@@ -5,6 +5,7 @@ description: >-
  odontologia. Veja como e porque as imagens tem ajudado os dentistas.
 date: 2015-01-19T10:00:47.000Z
 featured_image: /images/ab18a2d9-c3a3-416d-960d-dd4491e4493f_camera-fotografica.webp
+noindex: true
 ---
 
 As fotos e imagens de maneira geral evoluíram muito, seja em questão dos tipos de câmeras, mas principalmente em relação a qualidade das imagens obtidas. 

@@ -5,6 +5,7 @@ description: >-
  dentários. Existem 3 tratamentos que possibilitam isso. 
 date: 2018-04-02T08:00:01.000Z
 featured_image: /images/dc782d13-2156-49da-a708-51b1bf1e3ad5_dentes-brancos-e-o-clareamento.webp
+noindex: true
 ---
 
 O questionamento de **como ter os dentes mais brancos** é muito comum nos consultórios dentários. Sendo uma das principais dúvidas atualmente. 

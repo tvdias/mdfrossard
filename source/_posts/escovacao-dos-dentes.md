@@ -5,6 +5,7 @@ description: >-
  realizar a correta técnica e melhore a saúde dos seus dentes.
 date: 2015-02-16T10:00:49.000Z
 featured_image: /images/06ab8179-2005-4355-83a7-273d229af1ef_escovacao-pasta.webp
+noindex: true
 ---
 
 Todos sabem qual é o melhor caminho pra prevenir doenças bucais de ocorrerem, a boa e velha **escovação dos dentes.** 

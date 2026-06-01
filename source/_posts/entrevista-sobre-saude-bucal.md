@@ -5,12 +5,14 @@ description: >-
  abordando prevenção, clareamento e as inovações nos implantes dentários.
 date: 2014-08-12T15:53:25.000Z
 featured_image: /images/4d20162f-bb9b-45b7-95bf-fa22daa28629_Programa-tv.webp
+noindex: true
 ---
 
 A comunicação direta com o paciente e a disseminação de informações de qualidade são pilares da MD Frossard Odontologia. Para nós, é um privilégio servir como fonte de informação para a comunidade.
 
 Hoje, compartilhamos a entrevista que o **Dr. Davi Frossard** concedeu ao canal Boas Novas, onde abordou temas cruciais para quem busca qualidade de vida através de um sorriso saudável.
 
+noindex: true
 ---
 
 ### **Destaques da Entrevista**
@@ -20,6 +22,7 @@ Neste bate-papo, dividimos o conteúdo em 4 partes para facilitar seu acesso a c
 2.  **Estética e Clareamento:** O que realmente traz resultados sem agredir o esmalte.
 3.  **A Cultura da Prevenção:** Por que o acompanhamento regular economiza tempo e evita dor.
 
+noindex: true
 ---
 
 ## Assista agora à entrevista completa:
@@ -36,6 +39,7 @@ Neste bate-papo, dividimos o conteúdo em 4 partes para facilitar seu acesso a c
 #### Parte 04: Conclusão e Dicas de Saúde Oral
 {% youtube jAhvObatd0U %}
 
+noindex: true
 ---
 
 > [!TIP]

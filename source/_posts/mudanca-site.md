@@ -5,6 +5,7 @@ description: >-
  site. Você agora irá encontrar muita informação de qualidade. 
 date: 2014-04-10T12:31:06.000Z
 featured_image: /images/dbc110b0-2652-4e8a-ad7b-95fa0fd3856d_Mudanca-site.webp
+noindex: true
 ---
 
 Olá a todos ! Nosso site passou por algumas mudanças, como vocês podem ver adicionamos algumas novas partes ao site ! 

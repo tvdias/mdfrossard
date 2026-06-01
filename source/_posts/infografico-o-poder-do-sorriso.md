@@ -5,6 +5,7 @@ description: >-
  bucal. Porém tem um fator que faz uma tremenda diferença para você, o sorriso.
 date: 2015-08-03T08:00:35.000Z
 featured_image: /images/c0ccdb7e-cee3-4d12-8c7e-7b2446856fa3_sorriso.webp
+noindex: true
 ---
 
 Já escrevi diversos textos sobre estética, {% post_link facetas-dentais "facetas" %}, {% post_link implante-dentario "implantes dentário" %} entre outros. 

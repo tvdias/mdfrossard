@@ -5,12 +5,14 @@ description: >-
  relacionamento e a confiança são a base dos nossos 38 anos de história.
 date: 2015-09-09T09:31:23.000Z
 featured_image: /images/5580b165-1099-485a-98b1-d467021fa61e_logo-MD.webp
+noindex: true
 ---
 
 Na MD Frossard Odontologia, acreditamos que um tratamento de excelência começa muito antes de sentar na cadeira do dentista. Ele começa com o aperto de mão, com o ouvir atento e com a construção de uma relação genuína de confiança.
 
 Operando há **38 anos no Rio de Janeiro**, com unidades em **Botafogo** e na **Barra da Tijuca**, nossa missão é aliar a tecnologia de ponta (como o Scanner iTero e o planejamento digital) a um atendimento humanizado e atencioso.
 
+noindex: true
 ---
 
 ## Onde a Tradição Encontra a Inovação
@@ -19,6 +21,7 @@ Gostaríamos de compartilhar com você o nosso vídeo institucional. Ele resume 
 
 {% youtube Yh-6jaONlqI %}
 
+noindex: true
 ---
 
 ### **O que você encontrará na nossa clínica?**
