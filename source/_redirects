@@ -14,7 +14,7 @@
 
 # Redirecionamentos de Slugs Antigos (Auditoria 404)
 /implante-de-dente/ /tratamentos/implante-dentario/ 301
-/higiene-dental-escovacao-dos-dentes/ /escovacao-dos-dentes/ 301
+/higiene-dental-escovacao-dos-dentes/ /escovar-os-dentes/ 301
 /voce-pode-ter-problemas-nos-dentes-e-nao-saber/ /problemas-nos-dentes/ 301
 /dor-de-dente-3-principais-causas-e-tratamentos/ /dor-de-dente/ 301
 /por-que-extrair-o-siso-tire-suas-duvidas-sobre-essa-cirurgia/ /siso-porque-extrair/ 301
@@ -30,3 +30,12 @@
 # Páginas removidas (deprecated, redirecionam pra home)
 /email-confirmado/ / 301
 /landing-page-mancha-no-dente/ / 301
+
+# Limpeza SEO — Grupo 1: post obsoleto supersedido por conteúdo melhor
+/check-up-digital-dos-dentes/ /check-up-digital-preventivo-dos-dentes/ 301
+
+# Limpeza SEO — Grupo 2: canibalização (redirect para versão mais completa)
+/escovacao-dos-dentes/ /escovar-os-dentes/ 301
+/canal-no-dente/ /tratamento-de-canal/ 301
+/como-ter-os-dentes-mais-brancos/ /clareamento-dental/ 301
+/5-dicas-para-clarear-os-dentes/ /clareamento-dental/ 301

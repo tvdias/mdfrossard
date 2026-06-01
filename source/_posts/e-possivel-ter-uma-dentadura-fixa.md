@@ -1,78 +1,126 @@
 ---
-title: Dentadura Fixa- É possível ter os dentes fixos ?
-description: >-
- Quer ter uma dentadura fixa ? Esse trabalho é possível e apresenta muitas
- vantagens. Para saber mais, leia o texto completo.
+title: "Dentadura Fixa: O Que É o Protocolo Dentário e Como Funciona"
+description: "Quer saber se é possível ter uma dentadura fixa? Entenda o que é o protocolo dentário (All-on-4 e All-on-6), quem pode fazer e como é o processo completo."
 date: 2015-03-30T10:00:07.000Z
+updated: 2026-06-01T00:00:00.000Z
 featured_image: /images/5a0384f7-7d3c-4db2-92d3-e4414496ec23_Dentadura-e-implantes.webp
 ---
-Nesse blog já foi discutido sobre o cuidado que devemos ter com as {% post_link o-cuidado-com-a-dentadura "dentaduras" %} assim como suas vantagens e desvantagens. 
 
-Apesar das próteses removíveis serem boas e conseguirem devolver de forma satisfatória a mastigação e a estética, elas ainda não são fixas, causando insegurança ao falar e ao mastigar. 
+Nesse blog já falamos sobre os [cuidados com as dentaduras](/o-cuidado-com-a-dentadura/) e suas limitações no dia a dia. Apesar das próteses removíveis conseguirem devolver a mastigação de forma satisfatória, elas ainda geram insegurança — ao falar, ao mastigar alimentos mais duros, ao sorrir em público.
 
-Assim, muitos pacientes nos perguntam: **não seria possível ter uma Dentadura fixa ?** 
+Por isso, muitos pacientes chegam até nós com a mesma pergunta: **é possível ter uma dentadura fixa?**
 
-A resposta é sim ! 
+A resposta é sim. E esse tratamento tem transformado a vida de pacientes que passaram anos convivendo com as limitações de uma prótese removível.
 
-Esse tipo de trabalho é feito cada vez mais em consultórios dentários e é chamado pelos dentistas de “Prótese fixa sobre implantes” ou ainda “Protocolo".
+---
 
-## **O que é uma prótese do tipo protocolo ou dentadura fixa ?**
+## O Que É a Dentadura Fixa (Protocolo Dentário)?
 
-[![Dentadura fixa](/images/uploads/2015/03/Dentadura-fixa-1024x680.webp)](/images/48e3f4ee-b444-4a9e-844b-6e2534a9dbf0_Dentadura-fixa.webp) 
+[![Dentadura fixa](/images/uploads/2015/03/Dentadura-fixa-1024x680.webp)](/images/48e3f4ee-b444-4a9e-844b-6e2534a9dbf0_Dentadura-fixa.webp)
 
-A dentadura fixa ou mais conhecido como protocolo dentário, é um tipo de prótese fixa instalada sobre 6 a 8 implantes, seja na maxila ou mandíbula, em pacientes que perderam todos os dentes. 
+A dentadura fixa — também chamada de **protocolo dentário** ou **prótese total fixa sobre implantes** — é uma prótese completa instalada de forma permanente sobre implantes dentários. Ela não é removida no dia a dia: fica fixada como se fossem dentes naturais.
 
-Portanto, uma cirurgia é realizada previamente para a instalação de {% post_link implante-dentario-no-rio-de-janeiro "implantes dentários" %} e estes vão servir de base ou apoio para manter a prótese fixa. 
+O tratamento é indicado principalmente para pacientes que perderam todos os dentes de uma arcada (superior ou inferior) e querem uma solução definitiva e fixa.
 
-Uma vez que este trabalho esteja instalado, não é preciso mais usar a prótese removível. Assim, você pode ter muito mais segurança ao falar e ao mastigar. 
+O diferencial em relação à dentadura convencional é justamente a estabilidade: como a prótese é parafusada sobre implantes de titânio inseridos no osso, ela não se move, não afunda na gengiva e oferece uma mastigação muito mais próxima da natural.
 
-Portanto, devido a essas vantagens, a procura pela "dentadura fixa" é cada vez maior nos consultórios dentários.
+---
 
-## **Será que posso realizar um protocolo dentário ?**
+## All-on-4 e All-on-6: O Que São?
 
-[![dentadura e implantes](/images/uploads/2015/03/dentadura-e-implantes-1024x773.webp)](/images/99fed34d-2af9-4a6e-a5fc-71194380289f_dentadura-e-implantes.webp) 
+[![dentadura e implantes](/images/uploads/2015/03/dentadura-e-implantes-1024x773.webp)](/images/99fed34d-2af9-4a6e-a5fc-71194380289f_dentadura-e-implantes.webp)
 
-Basicamente existem **duas indicações** principais : 
+Ao pesquisar sobre dentadura fixa, você provavelmente encontrou esses termos. Eles se referem ao número de implantes usados para sustentar a prótese completa de uma arcada:
 
-1 ) Quando o paciente já usa uma dentadura e quer transformar essa prótese em um trabalho fixo. 
+**All-on-4:** a prótese é fixada em **4 implantes** estrategicamente posicionados na arcada. Dois implantes são instalados na posição vertical e dois em ângulo inclinado, o que permite aproveitar melhor o osso disponível — inclusive em regiões onde o volume ósseo é menor.
 
-2 ) No momento em que o paciente está em via de perder todos os dentes, seja superior ou inferior. 
+**All-on-6:** utiliza **6 implantes** para sustentar a mesma prótese completa. A distribuição maior de pontos de apoio pode oferecer mais estabilidade em determinados casos e é frequentemente indicada para a arcada superior, onde o osso tende a ser menos denso.
 
-Porém, antes de tudo, um planejamento prévio deve ser feito com atenção. Como será realizada uma cirurgia, com a instalação de implantes dentais, devem ser pedidos exames de sangue e tomográficos. 
+A escolha entre 4 ou 6 implantes depende do planejamento individualizado: avaliamos a qualidade e a quantidade óssea de cada paciente por tomografia para definir qual protocolo oferece mais segurança e resultado a longo prazo.
 
-Assim, devemos realizar um estudo do caso para sabermos se o cliente apresenta as condições de saúde e quantidade óssea suficiente para a realização dos implantes dentais com segurança.
+---
 
-## **Vantagens e desvantagens da dentadura fixa**
+## Quem Pode Fazer o Protocolo Dentário?
 
-A principal vantagem é a possibilidade de ter os dentes fixos, o que gera maior conforto e segurança na hora de falar e mastigar. 
+O tratamento tem basicamente duas indicações principais:
 
-Além disso, também apresenta uma ótima estética, possibilitando um sorriso harmônico. 
+**1.** O paciente já usa uma dentadura removível e quer transformá-la em um trabalho fixo.
 
-Apesar de todas as vantagens, a dentadura fixa ainda não é igual aos dentes, ou seja, precisa de manutenção constante. 
+**2.** O paciente está prestes a perder todos os dentes de uma arcada — seja por doença periodontal avançada, cáries extensas ou outros fatores — e quer planejar a reabilitação completa.
 
-Com o passar do tempo, é preciso voltar ao dentista para uma {% post_link check-up-digital-preventivo-dos-dentes "revisão" %} onde prótese será removida e uma limpeza realizada com maior detalhe.
+Antes de qualquer procedimento, realizamos um **planejamento detalhado**: pedimos exames de sangue e tomografia para avaliar as condições de saúde geral e a quantidade óssea disponível. Esse planejamento é o que garante segurança e previsibilidade no resultado.
 
-## **Como cuidar da prótese tipo protocolo**
+Pacientes com doenças sistêmicas não controladas ou com volume ósseo insuficiente podem precisar de etapas preparatórias antes da cirurgia. Em muitos casos, um [enxerto ósseo](/enxerto-osseo-na-odontologia/) pode ser realizado previamente para criar a estrutura necessária.
 
-[![boca seca](/images/4f2fafcc-c3c1-4310-80fa-ab137d75b22c_falta-de-saliva.webp)](/images/4f2fafcc-c3c1-4310-80fa-ab137d75b22c_falta-de-saliva.webp) 
+---
 
-Assim, como qualquer tratamento dentário, a manutenção é importante. 
+## Como É o Procedimento e Quanto Tempo Leva?
 
-Por isso, uma consulta de revisão a cada 6 meses ( em média ) deve ser feita para verificar se o trabalho fixo está em ordem e bem higienizado. 
+O processo completo envolve algumas etapas:
 
-A limpeza incorreta do trabalho, pode levar a inflamação gengival e em casos mais graves até a perda do implante. 
+### Consulta de Avaliação e Planejamento
 
-Portanto, além da consulta de revisão, o cuidado em casa deve ser feito através de escovação, uso de passa fio, escova interdental ou até o [waterpic](https://www.waterpik.com.br).
+Examinamos a boca, pedimos os exames necessários e definimos o protocolo mais adequado. É nessa fase que planejamos virtualmente a posição de cada implante e o formato da prótese final.
 
-## Vídeo sobre dentadura fixa 
+### Cirurgia
+
+A instalação dos implantes é feita com **anestesia local**, em consultório. A cirurgia dura em média 2 a 3 horas, dependendo da complexidade do caso. Na maioria das vezes, o paciente já sai com uma **prótese provisória fixada** no mesmo dia — podendo mastigar e sorrir imediatamente após o procedimento.
+
+### Osseointegração
+
+Nos meses seguintes à cirurgia, o osso se une progressivamente ao titânio dos implantes — processo chamado de osseointegração. Esse período dura entre 4 e 6 meses e é essencial para garantir a estabilidade do resultado definitivo. Durante esse tempo, a prótese provisória é usada normalmente.
+
+### Prótese Definitiva
+
+Após a confirmação da osseointegração, confeccionamos a **prótese definitiva** no laboratório — com forma, cor e tamanho definidos junto com o paciente para garantir naturalidade e harmonia com o rosto.
+
+O tempo total do tratamento, da avaliação à prótese definitiva, varia em média de **4 a 8 meses**, podendo ser maior em casos que envolvem enxertos.
+
+---
+
+## Vantagens e Pontos de Atenção
+
+**Principais vantagens:**
+* Mastigação firme e segura — sem o movimento da prótese removível.
+* Fala e sorriso sem insegurança.
+* Estética natural, planejada individualmente.
+* Fixo: não precisa ser removido para dormir ou comer.
+
+**Pontos que merecem atenção:**
+* A prótese definitiva exige **manutenção periódica** — diferente do dente natural, ela precisa ser revisada e eventualmente substituída ao longo dos anos.
+* A higiene precisa ser cuidadosa e constante. A inflamação ao redor dos implantes (periimplantite) é a principal causa de complicações e pode ser prevenida com escovação correta e visitas regulares.
+
+---
+
+## Como Cuidar da Dentadura Fixa
+
+O cuidado em casa é essencial para o sucesso a longo prazo:
+
+* **Escovação cuidadosa** após as refeições, incluindo a área entre a prótese e a gengiva.
+* **Escova interdental ou fio dental específico** para limpar ao redor dos implantes — o fio dental convencional pode não ser suficiente em todos os casos.
+* **Consulta de revisão a cada 6 meses** para verificar a integridade dos implantes, a adaptação da prótese e a saúde da gengiva.
+
+Seguindo esses cuidados, o conjunto implante + prótese tem tudo para durar muitos anos com qualidade e função.
+
+---
+
+## Vídeo: Protocolo Dentário na Prática
 
 {% youtube kQMqmfx57lQ %}
 
 ---
 
-## **Conclusão**
+## Dê o Primeiro Passo: Avaliação Sem Compromisso
 
-Com o correto planejamento e os devidos cuidados, podemos transformar dentaduras removíveis em dentaduras fixas com o uso de {% post_link implante-dentario "implantes dentais" %} servindo de apoio. 
+Com o correto planejamento e os devidos cuidados, é possível transformar uma dentadura removível em uma solução fixa, estável e com ótima estética. A consulta de avaliação é onde entendemos o seu caso e explicamos o que é possível fazer especificamente para você.
 
-Esse tipo de tratamento tem sido feito cada vez mais nos consultórios dentários. 
+Atendemos na **Barra da Tijuca** (Shopping Città América) e em **Botafogo** (Rua Marques, 15).
 
+* <i data-lucide="message-circle" class="icon-sm"></i> **[WhatsApp — Agendar Avaliação](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Telefone:** [(21) 97663-7803](tel:2197663-7803)
+
+<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Saber Se Posso Fazer</a>
+</div>
+
+---
