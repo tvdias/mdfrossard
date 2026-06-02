@@ -1,47 +1,11 @@
-<!-- Microsoft Clarity — LGPD-aware + Delay-engine-aware
-     Usa window.clarity como fila (c[a]=c[a]||function(){...}) — eventos
-     disparados antes do carregamento são enfileirados e processados depois.
-     Para visitantes recorrentes (consent já concedido): aguarda o delay-engine
-     (primeira interação ou 3500ms) antes de carregar o SDK.
-     Para novos visitantes: aguarda o evento 'mdf:consent:granted'. -->
+<!-- Microsoft Clarity — carrega para todos os visitantes -->
 <link rel="preconnect" href="https://www.clarity.ms">
 <link rel="dns-prefetch" href="https://www.clarity.ms">
-<script>
-(function(c,l,a,r,i){
-  // Inicializa fila imediatamente — eventos são enfileirados antes do SDK carregar
-  c[a] = c[a] || function(){ (c[a].q = c[a].q || []).push(arguments); };
-
-  if (window.__mdfClarityLoaded) return;
-
-  function doLoadClarity() {
-    if (window.__mdfClarityLoaded) return;
-    window.__mdfClarityLoaded = true;
-    var t = l.createElement(r);
-    t.async = 1;
-    t.src = "https://www.clarity.ms/tag/" + i;
-    var y = l.getElementsByTagName(r)[0];
-    y.parentNode.insertBefore(t, y);
-  }
-
-  var consent = null;
-  try { consent = localStorage.getItem('mdf_consent_v1'); } catch(e) {}
-
-  if (consent === 'granted') {
-    // Visitante recorrente: adia carregamento para o delay-engine
-    var _clarityFired = false;
-    function _clarityOnce() {
-      if (_clarityFired) return;
-      _clarityFired = true;
-      doLoadClarity();
-    }
-    ['scroll', 'mousemove', 'touchstart', 'click'].forEach(function(evt) {
-      window.addEventListener(evt, _clarityOnce, { once: true, passive: true });
-    });
-    setTimeout(_clarityOnce, 3500);
-  } else {
-    // Novo visitante: aguarda consent explícito
-    window.addEventListener('mdf:consent:granted', doLoadClarity, { once: true });
-  }
+<script type="text/javascript">
+(function(c,l,a,r,i,t,y){
+  c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+  t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+  y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
 })(window, document, "clarity", "script", "wnw9rbx4u4");
 </script>
 <!-- End Microsoft Clarity -->
