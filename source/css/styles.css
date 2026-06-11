@@ -1448,3 +1448,106 @@ img {
         padding-top: 100px;
     }
 }
+
+/* ══ Sticky Contact (portado das LPs v2) ═══════════════════ */
+
+/* FAB WhatsApp — somente desktop */
+.sticky-wpp {
+    position: fixed;
+    bottom: 32px;
+    right: 28px;
+    z-index: 1001;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #25d366;
+    box-shadow: 0 4px 18px rgba(37, 211, 102, 0.5);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-decoration: none;
+    transition: transform .2s, box-shadow .2s;
+}
+
+.sticky-wpp:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 24px rgba(37, 211, 102, 0.65);
+}
+
+@media (min-width: 760px) {
+    .sticky-wpp {
+        display: flex;
+    }
+}
+
+/* Barra inferior — somente mobile */
+.sticky-bar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1001;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    padding: 7px 12px calc(7px + env(safe-area-inset-bottom));
+    background: rgba(255, 255, 255, 0.94);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    border-top: .5px solid rgba(13, 17, 23, 0.08);
+}
+
+.sticky-bar a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    font-size: .76rem;
+    font-weight: 600;
+    padding: 8px 6px;
+    border-radius: 9px;
+    text-decoration: none;
+    letter-spacing: .1px;
+    line-height: 1;
+    min-height: 34px;
+    transition: opacity .15s, transform .15s, background .15s;
+}
+
+.sticky-bar a:active {
+    transform: scale(.97);
+}
+
+.sticky-bar .sb-wpp {
+    background: #25d366;
+    color: #fff;
+}
+
+.sticky-bar .sb-wpp:hover {
+    opacity: .92;
+}
+
+.sticky-bar .sb-tel {
+    background: #0d1117;
+    color: #fff;
+}
+
+.sticky-bar .sb-tel svg {
+    color: var(--brand-accent, #e8c44a);
+}
+
+.sticky-bar .sb-tel:hover {
+    background: #1a2230;
+}
+
+@media (min-width: 760px) {
+    .sticky-bar {
+        display: none;
+    }
+}
+
+@media (max-width: 759px) {
+    body {
+        padding-bottom: 58px;
+    }
+}
