@@ -40,7 +40,7 @@ Pergunte: existe canal direto para urgências fora do horário comercial? O dent
 
 ## 7. Localização e acessibilidade
 
-Tratamentos longos (implantes, ortodontia) exigem 6 a 12 meses de retornos. Escolha clínica com fácil acesso a transporte público + estacionamento. Nossa unidade fica no Shopping Città América, na Av. das Américas, 700 — pertinho do Downtown e com acesso facilitado.
+Tratamentos longos (implantes, [ortodontia](/tratamentos/ortodontia/)) exigem 6 a 12 meses de retornos. Escolha clínica com fácil acesso a transporte público + estacionamento. Nossa unidade fica no Shopping Città América, na Av. das Américas, 700 — pertinho do Downtown e com acesso facilitado.
 
 ## E qual dentista escolher na Barra da Tijuca?
 

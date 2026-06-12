@@ -3,15 +3,24 @@ title: Implante Dentário no Rio de Janeiro
 description: >-
  Implante dentário no Rio de Janeiro: técnica guiada 3D, carga imediata e 38 anos de experiência. Tire suas dúvidas e agende sua avaliação.
 date: 2016-01-20T15:56:33.000Z
-updated: 2026-05-20T00:00:00.000Z
+updated: 2026-06-12T00:00:00.000Z
 featured_image: /images/b340818e-20e6-4587-a475-becbd9e34f97_Implante-dentario-RJ-1.webp
+faqs:
+  - question: "Onde fazer implante dentário no Rio de Janeiro?"
+    answer: "A MD Frossard Odontologia atende em duas unidades: Barra da Tijuca (Shopping Città América, Av. das Américas, 700) e Botafogo (Rua Marques, 15, ao lado da Cobal do Humaitá). O Dr. Davi Frossard é especialista em Implantodontia pela São Leopoldo Mandic."
+  - question: "Quanto tempo leva o tratamento completo com implante?"
+    answer: "Em média, de 3 a 6 meses entre a cirurgia e a prótese definitiva — é o período de osseointegração, em que o osso se une ao titânio. Em casos selecionados, a carga imediata permite sair com dente provisório fixo no mesmo dia."
+  - question: "Posso sair com o dente fixo no mesmo dia da cirurgia?"
+    answer: "Em muitos casos, sim. A carga imediata depende do travamento do implante no osso e da região da boca, critérios avaliados durante o planejamento digital com tomografia 3D e confirmados no momento da cirurgia."
+  - question: "Vocês atendem por convênio?"
+    answer: "Nosso atendimento é particular. Fornecemos toda a documentação necessária para você solicitar reembolso junto ao seu plano odontológico, quando o contrato prevê essa modalidade."
 ---
 
 Infelizmente, perder um dente ainda acontece — por {% post_link como-evitar-a-carie-dentaria "cárie profunda" %}, [doença periodontal](/tratamentos/periodontia/) ou trauma. E quando acontece, ficar sem o dente não é uma opção.
 
-A boa notícia é que o **implante dentário no Rio de Janeiro** evoluiu muito nos últimos anos. O que antes envolvia cirurgias longas e resultado imprevisível, hoje é um procedimento planejado digitalmente, com alta previsibilidade e excelente taxa de sucesso.
+A boa notícia é que o **[implante dentário](/tratamentos/implante-dentario/) no Rio de Janeiro** evoluiu muito nos últimos anos. O que antes envolvia cirurgias longas e resultado imprevisível, hoje é um procedimento planejado digitalmente, com alta previsibilidade e excelente taxa de sucesso.
 
-Nossas clínicas estão localizadas na Barra da Tijuca e em Botafogo — e atendemos pacientes de toda a cidade do Rio de Janeiro. Neste texto, explico como funciona o tratamento, o que mudou com a tecnologia atual e o que esperar em cada etapa.
+Nossas clínicas estão localizadas na [Barra da Tijuca](/dentista-barra-da-tijuca/) e em [Botafogo](/dentista-em-botafogo/) — e atendemos pacientes de toda a cidade do Rio de Janeiro. Neste texto, explico como funciona o tratamento, o que mudou com a tecnologia atual e o que esperar em cada etapa.
 
 ---
 

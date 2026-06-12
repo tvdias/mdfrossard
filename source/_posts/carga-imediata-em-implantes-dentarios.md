@@ -3,8 +3,15 @@ title: 'Carga Imediata em Implantes Dentários: quando é possível?'
 description: >-
  Carga imediata em implantes: saia com o dente fixo no mesmo dia. Entenda quando é possível e como a técnica guiada 3D amplia os casos elegíveis.
 date: 2014-12-04T14:06:39.000Z
-updated: 2026-05-20T00:00:00.000Z
+updated: 2026-06-12T00:00:00.000Z
 featured_image: /images/uploads/2014/03/Clareamento-dental.webp
+faqs:
+  - question: "O que é carga imediata em implantes?"
+    answer: "É a instalação de um dente provisório fixo sobre o implante logo após a cirurgia — o paciente sai do consultório com o dente, sem esperar os meses de osseointegração para ter estética e função."
+  - question: "Todo implante pode receber carga imediata?"
+    answer: "Não. A técnica exige travamento mínimo do implante no osso (torque adequado) e é indicada preferencialmente em regiões de menor força mastigatória, como os dentes anteriores. A avaliação com tomografia 3D indica se o seu caso é elegível."
+  - question: "Posso mastigar normalmente com o dente provisório?"
+    answer: "Com cautela. O provisório é ajustado para receber menos carga e deve-se evitar alimentos duros na região até a osseointegração completa, protegendo o implante nesse período inicial."
 ---
 Os {% post_link implante-dentario "implantes dentários" %} já estão na odontologia há bastante tempo sendo usados em larga escala e com altas taxas de sucesso. Uma das técnicas mais modernas é a carga imediata em implantes.
 
@@ -95,3 +102,7 @@ Com o uso de **tomografia computadorizada 3D e cirurgia guiada**, hoje conseguim
 Temos que ter em mente que a carga imediata em implantes é uma realidade consolidada e que utilizamos com frequência em nossa rotina clínica. 
 
 Porém, temos que analisar cada caso em particular seguindo alguns critérios pré-estabelecidos para o sucesso a longo prazo do {% post_link implante-dentario "implante" %}. Se você tem dúvidas sobre se é candidato à carga imediata, o melhor caminho é uma avaliação clínica com tomografia — entre em contato pelo WhatsApp e agende a sua.
+
+<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20marcar%20uma%20avalia%C3%A7%C3%A3o." class="btn btn-primary btn-lg">Agendar Avaliação pelo WhatsApp</a>
+</div>

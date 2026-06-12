@@ -3,8 +3,15 @@ title: 'Como Aliviar a Dor de Dente: O Que Funciona (e O Que Piora)'
 description: >-
   Aprenda como aliviar a dor de dente em casa com segurança: gelo, analgésico, bochecho com sal e mais. Saiba o que funciona, o que é mito e quando ir ao dentista com urgência.
 date: 2017-01-30T09:23:19.000Z
-updated: 2026-06-01T00:00:00.000Z
+updated: 2026-06-12T00:00:00.000Z
 featured_image: /images/9c134bd5-95a4-42f9-93bf-cea61ad74079_como-aliviar-a-dor-de-dente.webp
+faqs:
+  - question: "O que fazer para aliviar a dor de dente até a consulta?"
+    answer: "Higienize bem a região, use fio dental para remover resíduos, evite alimentos muito quentes, frios ou doces e, se necessário, use analgésico que você já esteja habituado a tomar, conforme bula. Isso alivia, mas não trata a causa — procure atendimento."
+  - question: "Quando a dor de dente é uma emergência?"
+    answer: "Quando há inchaço no rosto, febre, dor intensa que não cede com analgésico ou trauma com fratura dentária. Nesses casos, procure atendimento odontológico no mesmo dia."
+  - question: "Posso tomar antibiótico por conta própria para dor de dente?"
+    answer: "Não. Antibiótico sem prescrição pode mascarar a infecção, selecionar bactérias resistentes e atrasar o tratamento correto. O uso deve ser sempre indicado pelo cirurgião-dentista após avaliação."
 ---
 
 Uma [dor de dente](/dor-de-dente/) que começa de madrugada, no meio de uma viagem ou no fim de semana tem uma característica em comum: sempre aparece na pior hora possível.
@@ -134,7 +141,7 @@ A boa notícia é que a odontologia atual oferece controle total da dor desde o 
 
 ## Agende Sua Consulta Agora
 
-Nossa equipe atende nas unidades da **Barra da Tijuca** e **Botafogo**, com disponibilidade para casos urgentes. Entre em contato e marque sua avaliação:
+Nossa equipe atende nas unidades da **[Barra da Tijuca](/dentista-barra-da-tijuca/)** e **[Botafogo](/dentista-em-botafogo/)**, com disponibilidade para casos urgentes. Entre em contato e marque sua avaliação:
 
 - <i data-lucide="message-circle" class="icon-xs"></i> **[WhatsApp — Fale Conosco](https://api.whatsapp.com/send?phone=5521976637803)**
 - <i data-lucide="phone" class="icon-xs"></i> **Ligue:** [(21) 97663-7803](tel:2197663-7803)

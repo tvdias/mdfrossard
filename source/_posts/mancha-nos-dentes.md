@@ -30,7 +30,7 @@ As manchas mais frequentes são as superficiais, acumuladas na camada externa do
 * **Tabagismo:** A nicotina e o alcatrão criam uma **mancha no dente** amarelada e persistente que penetra nos micro-poros do esmalte.
 
 **O Tratamento Ideal:**
-O primeiro passo é uma profilaxia profissional (limpeza) para remover o grosso do pigmento. Em seguida, nosso protocolo de {% post_link clareamento-dental "Clareamento Dental" %} é imbatível para devolver a luminosidade original.
+O primeiro passo é uma profilaxia profissional (limpeza) para remover o grosso do pigmento. Em seguida, nosso protocolo de {% post_link clareamento-dental "[Clareamento Dental](/tratamentos/estetica-dental/)" %} é imbatível para devolver a luminosidade original.
 
 ## 2. Escurecimento por Trauma: O dente que "morreu" por dentro
 Se você tem apenas uma **mancha no dente** isolada (um dente mais escuro que todos os vizinhos), a causa pode ser um impacto sofrido há anos.

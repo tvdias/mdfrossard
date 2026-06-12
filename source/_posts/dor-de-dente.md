@@ -144,7 +144,7 @@ Nesses casos, não espere. Entre em contato imediatamente.
 
 A boa notícia é que a odontologia moderna permite controle total da dor desde o primeiro minuto de atendimento. A anestesia local de hoje é precisa, rápida e confortável — você não precisa sofrer no consultório para resolver o problema.
 
-Nossa equipe atende nas unidades da **Barra da Tijuca** e de **Botafogo**, com disponibilidade para casos urgentes. Entre em contato e agende sua avaliação:
+Nossa equipe atende nas unidades da **[Barra da Tijuca](/dentista-barra-da-tijuca/)** e de **[Botafogo](/dentista-em-botafogo/)**, com disponibilidade para casos urgentes. Entre em contato e agende sua avaliação:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **[WhatsApp — Fale Conosco Agora](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-sm"></i> **Telefone:** [(21) 97663-7803](tel:2197663-7803)

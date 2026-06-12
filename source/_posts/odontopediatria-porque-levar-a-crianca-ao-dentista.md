@@ -54,7 +54,7 @@ O indivíduo que desde cedo tem o contato com o dentista, desde cedo se familiar
 
 Além disso, com este hábito, evita-se que a criança chegue ao consultório em situações extremas como quando ocorre dor de dente por lesão e de imediato necessita-se tratar o canal ou realizar a extração de um dente muito injuriado.
 
- P.s.: Também se realiza tratamento de canal em dentes de leite, para preservá-lo o tempo necessário na boca. Mas este é assunto para outro post. 
+ P.s.: Também se realiza [tratamento de canal](/tratamentos/endodontia/) em dentes de leite, para preservá-lo o tempo necessário na boca. Mas este é assunto para outro post. 
  
  **Além disso, é mito achar que não se trata dente de leite!** 
  
@@ -92,7 +92,7 @@ Logo, algumas **precauções** podem ser tomadas e desenvolvidas desde os 6 mese
 
 **6-** O uso de escova e fio dental deve ser freqüente. As crianças começam a aprender por imitação. Logo, é importante que os responsáveis ensinem e incentivem o uso da correta escovação. Vale lembrar que em algumas fases a criança não conseguirá cumprir esta tarefa sozinha e o adulto terá que ajudá-la realizando este procedimento por ela. Porém, conforme a criança vai crescendo, é importante que isto se torne uma responsabilidade dela e que a cumpra sozinha e de forma correta, porém, a supervisão de um adulto é importante pelo menos na escovação que é feita antes de dormir.   
 
-**7-** Criança também tem gengivite e mau hálito e ambos podem estar relacionados com a dificuldade de higienização ou com algum problema instalado nos dentes. Assim, ao perceber estes problemas, busque atendimento odontológico para solucionar o problema da melhor forma.   
+**7-** Criança também tem [gengivite](/tratamentos/periodontia/) e mau hálito e ambos podem estar relacionados com a dificuldade de higienização ou com algum problema instalado nos dentes. Assim, ao perceber estes problemas, busque atendimento odontológico para solucionar o problema da melhor forma.   
 
 **8-** Nunca incentive o medo! Cada um tem as suas próprias experiências e estes medos não devem ser transferido para as crianças. Isto atrapalha o tratamento e cria nelas expectativas negativas que poderão contribuir para um trauma futuro.
 

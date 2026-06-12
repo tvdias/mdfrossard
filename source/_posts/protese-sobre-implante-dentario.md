@@ -7,7 +7,7 @@ updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/e30cecc1-4499-41a1-af93-697dd0934221_Protese-sobre-implante.webp
 ---
 
-Infelizmente existem situações que podem levar a perda de um dente. A solução mais moderna é a prótese sobre implante dentário, um tratamento que oferece excelentes resultados.
+Infelizmente existem situações que podem levar a perda de um dente. A solução mais moderna é a prótese sobre [implante dentário](/tratamentos/implante-dentario/), um tratamento que oferece excelentes resultados.
 
 Nesse caso é preciso realizar sua reposição para evitar problemas de mastigação e estética. 
 

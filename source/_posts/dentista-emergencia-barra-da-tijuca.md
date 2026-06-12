@@ -66,7 +66,7 @@ Não dói, mas atrapalha. Especialmente desconfortável quando acontece dias ant
 
 **Adaptação de agenda real.** Para pacientes em dor aguda, abrimos encaixes no mesmo dia ou no dia seguinte cedo. Não é "primeira vaga em 3 semanas".
 
-**Estrutura completa no mesmo endereço.** Raio-X digital, radiologia 3D parceira, equipamento de endodontia com torque controlado, sala de cirurgia. Tudo o que uma emergência exige, sem te mandar para outra clínica.
+**Estrutura completa no mesmo endereço.** Raio-X digital, radiologia 3D parceira, equipamento de [endodontia](/tratamentos/endodontia/) com torque controlado, sala de cirurgia. Tudo o que uma emergência exige, sem te mandar para outra clínica.
 
 **Canal direto via WhatsApp.** Antes mesmo de chegar, conseguimos avaliar o caso por mensagem (foto + relato) e te orientar — incluindo se é caso de pronto-socorro ou consultório.
 
@@ -110,7 +110,7 @@ Para o mapa completo, [veja nossa página de localização](/localizacao/).
 Resolver a urgência é o primeiro passo. O segundo é entender por que aconteceu — e prevenir que aconteça de novo. Após o atendimento de emergência, conversamos sobre:
 
 - Tratamento definitivo (canal, restauração, prótese, implante conforme o caso)
-- Causa raiz (cárie não tratada, bruxismo, escovação inadequada, gengivite)
+- Causa raiz (cárie não tratada, bruxismo, escovação inadequada, [gengivite](/tratamentos/periodontia/))
 - Plano de manutenção: revisões a cada 6 meses, profilaxia, ajustes
 - Avaliação geral da saúde bucal — porque emergência geralmente é sintoma, não doença em si
 

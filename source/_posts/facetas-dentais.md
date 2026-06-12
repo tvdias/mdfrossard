@@ -3,9 +3,17 @@ title: 'Facetas Dentais: Tudo que Você Precisa Saber'
 description: "Entenda como a Faceta Dental constrói o sorriso dos seus sonhos. Leia sobre as 6 principais indicações para Facetas Dentais, suas enormes vantagens."
 date: 2014-07-04T10:08:43.000Z
 featured_image: /images/fe51bc3e-20a0-49c2-81d5-0dc6b1b17c3b_Faceta-dental-estetica.webp
+updated: 2026-06-12T00:00:00.000Z
+faqs:
+  - question: "Facetas de porcelana mancham com café ou vinho?"
+    answer: "A porcelana é resistente a pigmentação — não mancha como o dente natural ou a resina. A higiene diária e as limpezas periódicas mantêm o brilho original do material."
+  - question: "É preciso desgastar o dente para colocar faceta?"
+    answer: "Depende do caso. Lentes de contato ultrafinas frequentemente dispensam desgaste; facetas convencionais exigem preparo conservador. O planejamento digital define a opção mais preservadora para o seu sorriso."
+  - question: "Faceta de porcelana ou de resina: qual a diferença?"
+    answer: "A porcelana oferece maior durabilidade, estabilidade de cor e naturalidade; a resina tem custo menor, porém mancha e desgasta com o tempo, exigindo manutenções mais frequentes. A escolha ideal é definida na avaliação clínica."
 ---
 
-A demanda pela **faceta dental** (ou facetas de porcelana) explodiu nos últimos tempos nas clínicas estéticas modernas. 
+A demanda pela **faceta dental** (ou [facetas de porcelana](/tratamentos/estetica-dental/)) explodiu nos últimos tempos nas clínicas estéticas modernas. 
 
 Isso se deve ao fato maravilhoso de que esses tratamentos artísticos melhoram absurdamente a aparência e a assimetria do nosso sorriso com extrema rapidez! 
 

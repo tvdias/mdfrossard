@@ -8,7 +8,7 @@ featured_image: /images/c0ccdb7e-cee3-4d12-8c7e-7b2446856fa3_sorriso.webp
 noindex: true
 ---
 
-Já escrevi diversos textos sobre estética, {% post_link facetas-dentais "facetas" %}, {% post_link implante-dentario "implantes dentário" %} entre outros. 
+Já escrevi diversos textos sobre estética, {% post_link facetas-dentais "facetas" %}, {% post_link implante-dentario "[implantes dentário](/tratamentos/implante-dentario/)" %} entre outros. 
 
 Todos esses tratamentos são eficazes e importantes para a nossa correta mastigação e saúde bucal. 
 

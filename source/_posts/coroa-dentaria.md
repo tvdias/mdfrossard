@@ -6,7 +6,7 @@ updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/3e904c62-2a01-4d3b-86bc-ba9ac7dd2f0f_Coroa-dentaria.webp
 ---
 
-Quando um dente sofre uma grande fratura, uma cárie profunda ou passa por um tratamento de canal, muitas vezes uma restauração simples não é suficiente para suportar a força da mastigação. É nesse momento que utilizamos a **Coroa Dentária**.
+Quando um dente sofre uma grande fratura, uma cárie profunda ou passa por um [tratamento de canal](/tratamentos/endodontia/), muitas vezes uma restauração simples não é suficiente para suportar a força da mastigação. É nesse momento que utilizamos a **Coroa Dentária**.
 
 Também conhecida popularmente como "pivô", a coroa é uma prótese fixa que recobre toda a parte visível do dente, devolvendo sua forma, cor e, principalmente, sua resistência original.
 
@@ -53,7 +53,7 @@ As coroas são versáteis e essenciais nas seguintes situações:
 
 *   **Dentes fragilizados por canal:** Após o tratamento endodôntico, o dente fica mais "seco" e propenso a quebrar.
 *   **Substituição de grandes restaurações:** Quando a resina começa a infiltrar ou quebrar com frequência.
-*   **Implantes Dentários:** A coroa é a parte que parafusamos sobre o implante para você poder mastigar.
+*   **[Implantes Dentários](/tratamentos/implante-dentario/):** A coroa é a parte que parafusamos sobre o implante para você poder mastigar.
 
 ### **Vídeo: Veja como uma Coroa é confeccionada:**
 {% youtube EcEafFl0xSo %}

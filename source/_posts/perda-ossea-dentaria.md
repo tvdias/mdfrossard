@@ -31,7 +31,7 @@ Várias são as situações que contribuem para que ocorra a perda de osso de su
 
 Existem algumas causas menos comuns, mas que podem gerar grande perda óssea, como a mordida (oclusão) não favorável, trauma dentário e até diabetes. 
 
-Porém, sem dúvida, a **periodontite** é a causa mais comum para perda óssea dentária. 
+Porém, sem dúvida, a **[periodontite](/tratamentos/periodontia/)** é a causa mais comum para perda óssea dentária. 
 
 O processo da {% post_link gengiva-sangrando "doença periodontal" %} se inicia com o acúmulo de alimento em regiões onde o paciente não conseguiu higienizar da forma correta o dente. 
 

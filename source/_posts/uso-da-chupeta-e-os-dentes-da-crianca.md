@@ -41,7 +41,7 @@ Mamar no peito é importante para que criança desenvolva de forma apropriada os
 
 ## Como minimizar isso
 
-O ideal é que, caso os pais queiram utilizar chupetas em seus filhos, utilizem a chupeta {% post_link ortodontia-7-duvidas-comuns "ortodôntica" %} e feita de silicone, que é mais anatômica para a boquinha do bebê. 
+O ideal é que, caso os pais queiram utilizar chupetas em seus filhos, utilizem a chupeta {% post_link [ortodontia](/tratamentos/ortodontia/)-7-duvidas-comuns "ortodôntica" %} e feita de silicone, que é mais anatômica para a boquinha do bebê. 
 
 É importante também que haja um bom senso no seu uso e que o aleitamento materno não seja substituído pelo uso de bicos artificiais. 
 

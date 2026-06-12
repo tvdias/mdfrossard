@@ -90,6 +90,6 @@ Não deixe uma pequena inflamação virar uma emergência dolorosa. Nossa equipe
 </div>
 
 **Dr. Davi Frossard - MD Frossard Odontologia**
-*Referência em Cirurgia e Saúde Bucal na Barra da Tijuca e Botafogo.*
+*Referência em Cirurgia e Saúde Bucal na [Barra da Tijuca](/dentista-barra-da-tijuca/) e [Botafogo](/dentista-em-botafogo/).*
 
 **Davi Frossard - MD Frossard Odontologia**

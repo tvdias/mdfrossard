@@ -54,7 +54,7 @@ Com o passar da idade, podemos ter a retração da gengiva, expondo regiões da 
 
 Quando se chega a idade avançada, é muito provável que você tenha passados por diversos procedimentos dentários. 
 
-Alguns tem {% post_link coroa-dentaria "coroas" %}, outros implantes e muitos usam {% post_link o-cuidado-com-a-dentadura "prótese total" %}. O problema é que em muitos casos a prótese está desadaptada, o que compromete a mastigação efetiva. 
+Alguns tem {% post_link coroa-dentaria "coroas" %}, outros implantes e muitos usam {% post_link o-cuidado-com-a-[dentadura](/tratamentos/protese-dentaria/) "prótese total" %}. O problema é que em muitos casos a prótese está desadaptada, o que compromete a mastigação efetiva. 
 
 **4) Doença periodontal** 
 
@@ -78,7 +78,7 @@ Os médicos orientam o idoso manter uma dieta balanceada, consumir muitas fibras
 
 Porém, antes de tudo a correta prevenção deve ser feita. Com o diagnóstico antecipado, podemos impedir uma série de desconforto que podem prejudicar a saúde da pessoa. 
 
-Posteriormente todos os principais procedimentos, como uso de prótese, endodontia, periodontia ou implantes, podem e devem ser realizados visando uma melhor qualidade de vida pra você.
+Posteriormente todos os principais procedimentos, como uso de prótese, [endodontia](/tratamentos/endodontia/), [periodontia](/tratamentos/periodontia/) ou implantes, podem e devem ser realizados visando uma melhor qualidade de vida pra você.
 
 ## Odontologia para cada idade
 

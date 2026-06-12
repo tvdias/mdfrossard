@@ -11,7 +11,7 @@ category: Implante
 
 Perder um dente é algo que ainda acontece — por cárie profunda, doença periodontal ou trauma — e o impacto vai além da mastigação. Afeta a autoestima, a forma de falar e até a saúde dos dentes vizinhos, que começam a se mover para preencher o espaço vazio.
 
-O **implante dentário na Barra da Tijuca** é o tratamento que oferece a substituição mais próxima de um dente natural: fixo, estável e com estética que se integra perfeitamente ao restante do sorriso.
+O **[implante dentário](/tratamentos/implante-dentario/) na Barra da Tijuca** é o tratamento que oferece a substituição mais próxima de um dente natural: fixo, estável e com estética que se integra perfeitamente ao restante do sorriso.
 
 Neste guia, vamos responder as dúvidas mais comuns: quem pode fazer, como é o processo, quanto tempo leva e quais cuidados são necessários.
 
@@ -111,7 +111,7 @@ Para entender melhor os riscos de perder um implante e como evitá-los, leia nos
 
 ## Faça Sua Avaliação na Barra da Tijuca
 
-Nossa clínica está localizada no **Shopping Città América — Av. das Américas, 700, Bloco 2, Sala 143**, de fácil acesso na Barra da Tijuca. Também atendemos em **Botafogo**, na Rua Marques, 15.
+Nossa clínica está localizada no **Shopping Città América — Av. das Américas, 700, Bloco 2, Sala 143**, de fácil acesso na Barra da Tijuca. Também atendemos em **[Botafogo](/dentista-em-botafogo/)**, na Rua Marques, 15.
 
 A avaliação inicial é o passo mais importante — é nela que entendemos seu caso específico e definimos o melhor protocolo para você.
 

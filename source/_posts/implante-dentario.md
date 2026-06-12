@@ -4,11 +4,20 @@ description: >-
  Saiba tudo sobre o tratamento com Implante Dentário. Ele substitui seu dente
  perdido, devolvendo 100% da sua mastigação, estética e harmonia no sorriso.
 date: 2014-10-13T09:00:10.000Z
-updated: 2026-05-20T00:00:00.000Z
+updated: 2026-06-12T00:00:00.000Z
 featured_image: /images/1bd6a3a8-074a-49b9-8138-27a77a78d08b_implante-dental-1.webp
+faqs:
+  - question: "Implante dentário dói?"
+    answer: "Não durante o procedimento — a cirurgia é feita com anestesia local. No pós-operatório, é comum um desconforto leve por 2 a 3 dias, controlado com a medicação prescrita. Com a cirurgia guiada por planejamento digital, o trauma cirúrgico é menor e a recuperação tende a ser mais tranquila."
+  - question: "Quanto tempo dura um implante dentário?"
+    answer: "O implante de titânio integra-se ao osso e pode durar décadas. A durabilidade depende principalmente da higiene diária, das consultas de manutenção periódicas e de hábitos como não fumar. A coroa de porcelana sobre o implante também tem longa durabilidade e pode ser substituída sem trocar o implante."
+  - question: "Existe rejeição do implante dentário?"
+    answer: "Rejeição imunológica ao titânio não ocorre — é um material biocompatível. As raras perdas de implante estão associadas a infecção, tabagismo, higiene inadequada ou sobrecarga mastigatória precoce, fatores que o acompanhamento profissional ajuda a controlar."
+  - question: "Quanto custa um implante dentário?"
+    answer: "O valor depende do número de implantes, da necessidade de enxerto ósseo e do tipo de prótese — por isso só pode ser definido após avaliação clínica com tomografia. Fornecemos documentação para pedido de reembolso junto ao seu plano odontológico, quando aplicável."
 ---
 
-O **implante dentário** é uma das inovações mais seguras e transformadoras da odontologia moderna, permitindo a reposição de dentes perdidos com estabilidade absoluta.
+O **[implante dentário](/tratamentos/implante-dentario/)** é uma das inovações mais seguras e transformadoras da odontologia moderna, permitindo a reposição de dentes perdidos com estabilidade absoluta.
 
 Mesmo que envolva um pequeno procedimento cirúrgico, os benefícios de instalar um **implante dentário** para **devolver a mastigação completa e a harmonia do seu sorriso** são vitalícios para a sua autoestima e saúde digestiva.
 
@@ -115,7 +124,7 @@ Fixamos dois implantes sólidos de base nas extremidades, e sobre eles nós ergu
 
 ![Implante dentário protocolo](/images/a826c291-9628-4911-8a74-aa2b42a81f02_Implante-dentario-protocolo.webp) 
 
-O fim do sofrimento crônico das dentaduras velhas. Para arcadas 100% lisas e tristes pela ausência dentária, traçamos simetricamente de 4 a 6 implantes potentes.
+O fim do sofrimento crônico das [dentaduras](/tratamentos/protese-dentaria/) velhas. Para arcadas 100% lisas e tristes pela ausência dentária, traçamos simetricamente de 4 a 6 implantes potentes.
 
 Pense neles como gigantescos botões cravados sem dor no seu arco ósseo, que seguram uma fileira inteira de porcelana rígida deslumbrante (a chamada prótese protocolo) totalmente fixada na rosca! Ela não solta jamais com espirros e garante a você retornar àquela adorada churrascaria sem medo nenhum.
 
@@ -162,6 +171,6 @@ A sua virada de mesa está te esperando na Clínica MD Frossard para lhe oferece
 
 Um grande abraço de boas-vindas,
 
-**Equipe MD Frossard Odontologia - Unidades RJ (Barra e Botafogo)**
+**Equipe MD Frossard Odontologia - Unidades RJ (Barra e [Botafogo](/dentista-em-botafogo/))**
 
 ---

@@ -18,7 +18,7 @@ Ninguém está livre dessa situação. Além disso, sabemos o quanto uma dor de 
 
 Para momentos assim, nós da MD Frossard **oferecemos tratamento individualizado e bilíngue. **
 
-Dessa forma, caso haja necessidade de atendimento para estrangeiros, contamos com profissionais habilitados para atendê-los nos bairros de **{% post_link dentista-em-botafogo "Botafogo" %}** e **{% post_link dentista-barra-da-tijuca "Barra da Tijuca" %}**.
+Dessa forma, caso haja necessidade de atendimento para estrangeiros, contamos com profissionais habilitados para atendê-los nos bairros de **{% post_link dentista-em-[botafogo](/dentista-em-botafogo/) "Botafogo" %}** e **{% post_link dentista-barra-da-tijuca "[Barra da Tijuca](/dentista-barra-da-tijuca/)" %}**.
 
 ## Serviços especializados para estrangeiros
 

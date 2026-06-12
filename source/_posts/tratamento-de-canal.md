@@ -7,7 +7,7 @@ featured_image: /images/5da5cc7d-9d5c-4cfb-a768-a74665fac085_tratamento-de-canal
 
 Você já perdeu noites de sono sentindo aquelas fortes agulhadas no rosto profundo, sem saber o que fazer para parar? 
 
-Se a resposta for positiva, você já experimentou de uma das piores e mais incômodas sensações de alarme do corpo humano. Isso também é o indicativo médico universal de que você precisará urgente realizar um moderno **tratamento de canal**. 
+Se a resposta for positiva, você já experimentou de uma das piores e mais incômodas sensações de alarme do corpo humano. Isso também é o indicativo médico universal de que você precisará urgente realizar um moderno **[tratamento de canal](/tratamentos/endodontia/)**. 
 
 Tudo começa sempre com uma singela [Cárie Dental Silenciosa](/como-evitar-a-carie-dentaria/), que se não for removida e tapada rapidamente transpassa o esmalte. Quando o estrago chega perto do centro vital (a polpa dentária vermelha, onde fica o nervo principal e os vasos de sangue), o dente dá os seus primeiros gritos agudos de irritação ao tocarmos alimentos gelados. 
 
@@ -52,7 +52,7 @@ Apesar do desespero dos sinais apitantes fortíssimos ser um claro caminho e rot
 * Trauma ou fratura antiga onde você sentiu e caiu; mas "esqueceu"
 * Frequência recorrente surgindo daquela misteriosa Bolota de Pus e Sangue debaixo do dente sobre a gengiva da bochecha (uma chamada pífia "Fístula Quente")
 * Altíssimas reações dolorosas prolongadas demoradas aos copos gelados por vários amargos e intermináveis minutos
-* Aparelhos dentários de Ortodontia empurraram pesados causando uma forte opacidade cinzenta mortal no seu canino sem vida
+* Aparelhos dentários de [Ortodontia](/tratamentos/ortodontia/) empurraram pesados causando uma forte opacidade cinzenta mortal no seu canino sem vida
 * E claro: Um gigantesco buraco escuro profundo, asilo das sobras diárias do pior prato cheio, apontado como [Cáries Profundas Letais](/como-evitar-a-carie-dentaria/).
 
 As complicações no osso periapical descem direto correndo pelo torax na garganta gerando anginas sérias caso menospreze-as se entupindo só com calmantes farmaceuticas. Portanto pare!

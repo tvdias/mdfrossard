@@ -7,7 +7,7 @@ date: 2017-02-15T09:55:01.000Z
 featured_image: /images/611839b1-e153-4d42-b2bb-97d0c04e53ef_protese-dentaria-fixa.webp
 ---
 
-Na odontologia procuramos sempre atender o paciente da melhor forma, onde a principal meta é tratar e cuidar da cavidade bucal com soluções como uma prótese dentária fixa quando necessário. 
+Na odontologia procuramos sempre atender o paciente da melhor forma, onde a principal meta é tratar e cuidar da cavidade bucal com soluções como uma [prótese dentária](/tratamentos/protese-dentaria/) fixa quando necessário. 
 
 Entretanto, caso você não realize as [consulta de prevenção](/tratamentos/prevencao-manutencao/) com a freqüência necessária, os dentes podem apresentar problemas. 
 
@@ -62,7 +62,7 @@ Porém, nesse caso, existe uma perda de um elemento dentário. Portanto, para su
 
 #### D) Prótese fixa sobre implante -
 
-Igual a coroa ou ponte fixa, porém, a prótese é feita sobre um implante dentário e não sobre um dente. 
+Igual a coroa ou ponte fixa, porém, a prótese é feita sobre um [implante dentário](/tratamentos/implante-dentario/) e não sobre um dente. 
 
 Continue navegando em nosso site e [blog](/blog/), possuímos diversos textos que podem responder a sua dúvida.   
 

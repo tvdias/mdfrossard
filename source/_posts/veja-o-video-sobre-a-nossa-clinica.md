@@ -10,7 +10,7 @@ noindex: true
 
 Na MD Frossard Odontologia, acreditamos que um tratamento de excelência começa muito antes de sentar na cadeira do dentista. Ele começa com o aperto de mão, com o ouvir atento e com a construção de uma relação genuína de confiança.
 
-Operando há **38 anos no Rio de Janeiro**, com unidades em **Botafogo** e na **Barra da Tijuca**, nossa missão é aliar a tecnologia de ponta (como o Scanner iTero e o planejamento digital) a um atendimento humanizado e atencioso.
+Operando há **38 anos no Rio de Janeiro**, com unidades em **[Botafogo](/dentista-em-botafogo/)** e na **[Barra da Tijuca](/dentista-barra-da-tijuca/)**, nossa missão é aliar a tecnologia de ponta (como o Scanner iTero e o planejamento digital) a um atendimento humanizado e atencioso.
 
 noindex: true
 ---

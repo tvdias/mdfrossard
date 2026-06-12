@@ -4,8 +4,15 @@ description: >-
  Muitos querem colocar implante, mas ficam com dúvida se Implante Dentário Dói.
  Nesse texto explicamos sobre implantes e o controle da dor.
 date: 2016-05-09T10:00:19.000Z
-updated: 2026-05-20T00:00:00.000Z
+updated: 2026-06-12T00:00:00.000Z
 featured_image: /images/7ac3ac17-b384-4f27-b841-65870cb1938a_implante-dentario-doi.webp
+faqs:
+  - question: "A cirurgia de implante dentário dói?"
+    answer: "Não — é realizada com anestesia local e você não sente dor durante o procedimento. Muitos pacientes relatam que a experiência foi mais tranquila do que imaginavam."
+  - question: "Como é o pós-operatório do implante?"
+    answer: "Desconforto leve, inchaço discreto e sensibilidade por 2 a 3 dias, controlados com a medicação prescrita. Recomenda-se alimentação fria e pastosa nas primeiras 48 horas e repouso relativo."
+  - question: "Tenho muito medo de dentista. Consigo fazer implante?"
+    answer: "Sim. Nosso atendimento é humanizado e respeita o seu tempo — explicamos cada etapa antes de realizá-la. Boa parte dos nossos pacientes chegou com receio e concluiu o tratamento com tranquilidade; você pode ler os depoimentos no nosso site."
 ---
 
 **Dor**. Essas 3 letras me causam dor de cabeça só de imaginar. 
@@ -16,7 +23,7 @@ Com toda certeza eu posso afirmar que você também odeia essa palavra.
 
 Porém, pensando de outra maneira, apesar de ser contraditório, a [dor](https://www.sbed.org.br/materias.php?cd_secao=74) pode nos avisar que algo esta errado e precisamos procurar orientação. 
 
-Porém, nesse texto, eu não quero abordar esse tipo de dor e sim o desconforto específico do implante dentário, o que pode acontecer após uma cirurgia dentária de instalação de um implante. 
+Porém, nesse texto, eu não quero abordar esse tipo de dor e sim o desconforto específico do [implante dentário](/tratamentos/implante-dentario/), o que pode acontecer após uma cirurgia dentária de instalação de um implante. 
 
 Escutamos muito em nossa rotina clínica a seguinte pergunta, **"instalar implante dentário dói? "**. 
 
@@ -75,3 +82,7 @@ Assim, a dor poderá não ser um incomodo.
 A comunicação entre dentista e paciente é a melhor solução, tanto no pré operatório quanto no pós para evitar problemas. 
 
 Caso ainda tenha alguma dúvida, deixe seu comentário abaixo.
+
+<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20marcar%20uma%20avalia%C3%A7%C3%A3o." class="btn btn-primary btn-lg">Agendar Avaliação pelo WhatsApp</a>
+</div>

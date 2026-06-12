@@ -124,6 +124,6 @@ Não espere a dor se tornar insuportável. Agende uma consulta na MD Frossard e 
 
 Um abraço, 
 
-**Equipe MD Frossard Odontologia (Barra e Botafogo)**
+**Equipe MD Frossard Odontologia (Barra e [Botafogo](/dentista-em-botafogo/))**
 
 ---

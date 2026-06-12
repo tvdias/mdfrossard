@@ -5,7 +5,7 @@ date: 2015-02-22T18:49:48.000Z
 featured_image: /images/7669bdff-4faa-45aa-b565-c3de3aa64ddf_Ortodontia.webp
 ---
 
-A busca por um sorriso perfeitamente alinhado tem despertado o interesse de pessoas em todas as fases da vida. Mais do que estética, a **Ortodontia** é a especialidade responsável por devolver a função correta à sua mastigação e prevenir problemas graves de saúde.
+A busca por um sorriso perfeitamente alinhado tem despertado o interesse de pessoas em todas as fases da vida. Mais do que estética, a **[Ortodontia](/tratamentos/ortodontia/)** é a especialidade responsável por devolver a função correta à sua mastigação e prevenir problemas graves de saúde.
 
 Dentes tortos ou que não se encaixam direito dificultam a higienização, aumentando o risco de [Gengiva Sangrando](/gengiva-sangrando/) e perda óssea precoce. Além disso, uma mordida errada causa estresse nos músculos da face, o que gera dores de cabeça crônicas e tensões no pescoço.
 

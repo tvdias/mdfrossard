@@ -7,7 +7,7 @@ updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/cf941929-82da-4d54-8712-f62ee4a09810_clareamento-a-laser.webp
 ---
 
-O clareamento dental é um dos procedimentos estéticos mais realizados nos consultórios dentários — e com razão. É rápido, seguro e entrega resultado visível em poucas sessões, sem nenhum desgaste do dente.
+O [clareamento dental](/tratamentos/estetica-dental/) é um dos procedimentos estéticos mais realizados nos consultórios dentários — e com razão. É rápido, seguro e entrega resultado visível em poucas sessões, sem nenhum desgaste do dente.
 
 Mas existe uma confusão muito comum: quando as pessoas buscam "clareamento a laser", nem sempre sabem o que estão pedindo. E é importante entender o que esse termo realmente significa hoje.
 
@@ -92,7 +92,7 @@ Para prolongar o efeito, recomendamos: evitar alimentos e bebidas com pigmentaç
 
 Se você quer saber mais detalhes sobre o clareamento dental e todas as suas modalidades, leia o nosso [guia completo do clareamento dental](/clareamento-dental/).
 
-Para agendar sua avaliação nas nossas unidades da **Barra da Tijuca** ou **Botafogo**:
+Para agendar sua avaliação nas nossas unidades da **[Barra da Tijuca](/dentista-barra-da-tijuca/)** ou **[Botafogo](/dentista-em-botafogo/)**:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **[WhatsApp — Agendar Consulta](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-sm"></i> **Telefone:** [(21) 97663-7803](tel:2197663-7803)

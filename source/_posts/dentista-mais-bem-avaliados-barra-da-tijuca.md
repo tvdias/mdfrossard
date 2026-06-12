@@ -12,11 +12,11 @@ category: Clínica
 
 Avaliações em redes sociais e Google ficam dispersas e somem com o tempo. Esta página é nosso arquivo público de depoimentos detalhados de pacientes que realizaram tratamentos na nossa unidade da Barra da Tijuca — para que quem está pesquisando possa ler com calma e contextualizar.
 
-A MD Frossard atende há 38 anos no Rio, com unidades na Barra e em Botafogo, e é referência em implantes, facetas e reabilitação oral.
+A MD Frossard atende há 38 anos no Rio, com unidades na Barra e em [Botafogo](/dentista-em-botafogo/), e é referência em implantes, facetas e reabilitação oral.
 
 ## Por que a MD Frossard Odontologia é tão bem avaliada?
 
-Primeiro, vamos ao que interessa: qualidade. Aqui, não estamos falando só de dentes alinhados ou um clareamento dental brilhante (apesar de fazermos isso muito bem, diga-se de passagem). 
+Primeiro, vamos ao que interessa: qualidade. Aqui, não estamos falando só de dentes alinhados ou um [clareamento dental](/tratamentos/estetica-dental/) brilhante (apesar de fazermos isso muito bem, diga-se de passagem). 
 
 Estamos falando de um atendimento completo, que começa com o sorriso na recepção e termina com o seu sorriso mais confiante no espelho.
 
@@ -38,7 +38,7 @@ Nossa equipe é composta por profissionais que são referência em suas especial
 
 **Dr. Davi Frossard:** Especialista em Implantes e Prótese, conhecido pelo cuidado e atenção com cada paciente.
 
-**Dra. Luciana Peroni:** Especialista em Prótese dentária e endodontia, com um olhar atento tanto para a saúde quanto para a estética dental.
+**Dra. Luciana Peroni:** Especialista em Prótese dentária e [endodontia](/tratamentos/endodontia/), com um olhar atento tanto para a saúde quanto para a estética dental.
 
 E o melhor? Todos são também experts em estética dental. Afinal, saúde e beleza podem (e devem) andar juntas!
 

@@ -29,7 +29,7 @@ Portanto, quero conversar com você sobre os **Cuidados Pós Cirúrgicos. **
 
 Além disso, não devemos somente pensar **extração do dente. **Existem outras cirurgias comuns nos consultórios dentários :
 
-* Implante Dentário
+* [Implante Dentário](/tratamentos/implante-dentario/)
 * Enxerto ósseo;
 * Cirurgias na Gengiva;
 * Extração do Siso

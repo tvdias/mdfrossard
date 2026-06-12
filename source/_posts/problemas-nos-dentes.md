@@ -39,7 +39,7 @@ Cada dente tem um posicionamento correto para a mastigação eficaz.
 
 Quando a harmonia dos contatos dos dentes (oclusão) não ocorre de forma equilibrada temos um problema nos dentes. Nesse caso, podemos ter dores na articulação, {% post_link perda-ossea-dentaria "perda óssea" %} nos elementos dentários e uma mastigação ruim. 
 
-O tratamento pode ser feito de diversas formas, podemos realizar o {% post_link invisalign-saiba-tudo-sobre-esse-tipo-de-aparelho-dentario "tratamento ortodôntico" %} ou um tratamento com prótese. 
+O tratamento pode ser feito de diversas formas, podemos realizar o {% post_link [invisalign](/tratamentos/ortodontia/)-saiba-tudo-sobre-esse-tipo-de-aparelho-dentario "tratamento ortodôntico" %} ou um tratamento com prótese. 
 
 * **Pericoronarite** 
 

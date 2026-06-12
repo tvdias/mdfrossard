@@ -4,6 +4,14 @@ description: >-
  Precisa de dentista no Rio de Janeiro? Possuímos duas clinica de alto padrão nessa cidade. Realize seu tratamento com conforto e segurança em nossa clínica.
 date: 2015-08-28T09:20:36.000Z
 featured_image: /images/d5bbe970-79ea-4846-8f8d-8fbdccb08046_dentista-rio-de-janeiro.webp
+updated: 2026-06-12T00:00:00.000Z
+faqs:
+  - question: "Onde a MD Frossard atende no Rio de Janeiro?"
+    answer: "Em duas unidades: Barra da Tijuca, no Shopping Città América (Av. das Américas, 700, Bloco 2, Sala 143), e Botafogo/Humaitá (Rua Marques, 15, ao lado da Cobal). Atendemos de segunda a sexta, das 8h às 18h."
+  - question: "Como agendar uma consulta?"
+    answer: "Pelo WhatsApp (21) 97663-7803 ou pelo telefone (21) 3217-0430. O atendimento é com hora marcada, sem atrasos, para garantir dedicação exclusiva ao seu caso."
+  - question: "Vocês atendem por convênio odontológico?"
+    answer: "Nosso atendimento é particular. Fornecemos a documentação completa para você solicitar reembolso ao seu plano, quando o contrato prevê essa possibilidade."
 ---
 Precisa de dentista no Rio de Janeiro ?
 
@@ -59,11 +67,11 @@ Nossa clinica possui diversos tipos de [tratamentos](/tratamentos/implante-denta
 
 Como tratamentos possuímos tratamentos: 
 
-- Estéticos ( Faceta dentária ou Lente de contato dental ); 
+- Estéticos ( Faceta dentária ou [Lente de contato dental](/tratamentos/estetica-dental/) ); 
 - Implantes dentários;
 - Coroas dentárias;
 - Clareamento dental; 
-- Tratamento de canal; 
+- [Tratamento de canal](/tratamentos/endodontia/); 
 - Entre outros.   
 
 ## Por que a MD Frossard é referência em odontologia no Rio de Janeiro
@@ -78,7 +86,7 @@ Tanto a unidade da **Barra da Tijuca** quanto a de **Botafogo** oferecem atendim
 
 - **Implantodontia** — reposição de dentes perdidos com implantes de titânio de alta qualidade
 - **Estética dental** — facetas de porcelana, lentes de contato dental e clareamento
-- **Prótese dentária** — coroas fixas, próteses sobre implantes e próteses removíveis
+- **[Prótese dentária](/tratamentos/protese-dentaria/)** — coroas fixas, próteses sobre implantes e próteses removíveis
 - **Ortodontia** — aparelhos fixos, estéticos e alinhadores transparentes
 - **Periodontia** — tratamento de gengiva e prevenção de perda óssea
 - **Endodontia** — tratamento de canal com tecnologia de precisão

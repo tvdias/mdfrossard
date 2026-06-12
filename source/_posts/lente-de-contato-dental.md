@@ -2,15 +2,22 @@
 title: 'Lente de Contato Dental: 4 Pontos que Você Deve Saber'
 description: "A lente de contato dental é o tratamento estético em alta. Transforme seu sorriso em dias. Veja benefícios, indicações e como funciona o procedimento."
 date: 2017-05-15T13:45:45.000Z
-updated: 2026-05-20T00:00:00.000Z
+updated: 2026-06-12T00:00:00.000Z
 featured_image: /images/fefcb1b9-1ef1-40eb-8661-b0c087e83f05_lente-de-contato-dental.webp
+faqs:
+  - question: "Lente de contato dental desgasta o dente?"
+    answer: "Em geral, o desgaste é mínimo ou inexistente, justamente por a lâmina ser ultrafina. Cada caso é avaliado individualmente para preservar ao máximo a estrutura natural do dente."
+  - question: "Quem pode usar lentes de contato dental?"
+    answer: "Pacientes que desejam corrigir cor, pequenos espaçamentos, formato ou desgastes dos dentes. A indicação é confirmada em avaliação clínica — casos com apinhamento severo ou bruxismo não controlado podem exigir outras abordagens antes."
+  - question: "Quanto tempo dura uma lente de contato dental?"
+    answer: "Com higiene adequada e manutenção periódica, a durabilidade média é de 10 anos ou mais. O acompanhamento profissional regular é essencial para a longevidade do trabalho."
 ---
 
 Estética, beleza e a confiança de um lindo sorriso aberto: quem não quer ter? 
 
 A odontologia moderna, aliada à tecnologia digital, adquiriu o incrível poder de harmonizar quase que instantaneamente o rosto de uma pessoa. O especialista atua esculpindo um dos pontos de maior impacto inicial na sua simpatia: a moldura do seu sorriso.
 
-Atualmente, a estrela máxima dos consultórios de luxo é, sem dúvidas, a **lente de contato dental.** 
+Atualmente, a estrela máxima dos consultórios de luxo é, sem dúvidas, a **[lente de contato dental](/tratamentos/estetica-dental/).** 
 
 Mas o que esse recurso tem de tão revolucionário em relação aos tratamentos do passado? E quais vantagens reais (sem falsas promessas) ele traz para a sua mastigação e beleza? 
 

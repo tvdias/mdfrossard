@@ -14,7 +14,7 @@ Antigamente, grande parte dos pacientes procuravam atendimento devido a dor, atu
 
 Seja para melhorar a cor, o posicionamento e o formato do dente, a demanda pela estética tem aumentando. 
 
-Nesse quadro um tratamento se destaca é o uso da **Faceta de Porcelana. **
+Nesse quadro um tratamento se destaca é o uso da **[Faceta de Porcelana](/tratamentos/estetica-dental/). **
 
 Devido a maior divulgação desse trabalho ou pela rapidez na mudança do sorriso, muitos pacientes chegam ao consultório com a intenção de usar facetas de porcelana. 
 

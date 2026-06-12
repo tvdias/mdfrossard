@@ -7,7 +7,7 @@ date: 2017-08-21T08:00:23.000Z
 featured_image: /images/1a521bae-9c1c-4a38-b339-202ba85ed77f_como-clarear-os-dentes-caseiro.webp
 ---
 
-Ter um sorriso branco, radiante e saudável é o desejo de quase todos os nossos pacientes. Com o avanço da odontologia estética, alcançar esse objetivo tornou-se muito mais simples e acessível através das **lentes de contato dental**, **facetas de porcelana** e, claro, do **clareamento dental**.
+Ter um sorriso branco, radiante e saudável é o desejo de quase todos os nossos pacientes. Com o avanço da odontologia estética, alcançar esse objetivo tornou-se muito mais simples e acessível através das **lentes de contato dental**, **[facetas de porcelana](/tratamentos/estetica-dental/)** e, claro, do **clareamento dental**.
 
 Entretanto, a busca por resultados rápidos tem levado muitas pessoas a arriscarem a saúde dos seus dentes com métodos duvidosos.
 

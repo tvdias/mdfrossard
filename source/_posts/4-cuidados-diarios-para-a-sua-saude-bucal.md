@@ -20,7 +20,7 @@ Confira o conteúdo para saber um pouco mais sobre os principais cuidados que n�
 
 Beber bastante água não é recomendado apenas por médicos, mas também pelos outros profissionais da saúde, como os dentistas. Isso porque o consumo de água faz a diferença em relação à saúde bucal.
 
-Sabe a saliva que você tem na boca? Ela é essencial para cuidar dos dentes e da gengiva, além de ajudar a prevenir diferentes doenças bucais, como {% post_link como-evitar-a-carie-dentaria "cáries" %} e gengivite, causadas por bactérias que existem em nossa boca.
+Sabe a saliva que você tem na boca? Ela é essencial para cuidar dos dentes e da gengiva, além de ajudar a prevenir diferentes doenças bucais, como {% post_link como-evitar-a-carie-dentaria "cáries" %} e [gengivite](/tratamentos/periodontia/), causadas por bactérias que existem em nossa boca.
 
 Por isso, beber aqueles dois litros de água recomendado pelo seu médico pode fazer diferença também para os seus dentes. 
 

@@ -22,7 +22,7 @@ Por isso a correta higienização e limpeza da boca é o principio básico que d
 
 A escovação correta e o uso do fio dental eliminam a placa dental. Essa placa se acumula ao redor do dente e tem, em grande parte dos casos, a coloração amarela. 
 
-Isso, deixa o dente com um aspecto ruim e principalmente facilita o aparecimento de outros problemas, como a {% post_link gengiva-sangrando "gengivite" %} e a {% post_link como-saber-se-estou-com-carie "cárie" %}. 
+Isso, deixa o dente com um aspecto ruim e principalmente facilita o aparecimento de outros problemas, como a {% post_link gengiva-sangrando "[gengivite](/tratamentos/periodontia/)" %} e a {% post_link como-saber-se-estou-com-carie "cárie" %}. 
 
 Para saber como escovar os dente e usar o fio dental corretamente, clique {% post_link escovacao-dos-dentes "aqui" %} e {% post_link como-passar-o-fio-dental "aqui" %}.
 

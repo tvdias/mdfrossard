@@ -17,7 +17,7 @@ Se você está pensando **"minha coroa caiu, e agora?"**, este guia foi feito pa
 ---
 
 ### **🚨 Precisa de Atendimento Urgente?**
-Se sua coroa caiu e você precisa de um dentista no Rio de Janeiro (Botafogo ou Barra), fale conosco agora:
+Se sua coroa caiu e você precisa de um dentista no Rio de Janeiro ([Botafogo](/dentista-em-botafogo/) ou Barra), fale conosco agora:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **[WhatsApp Urgência: (21) 97663-7803](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-sm"></i> **Ligue para nós:** [(21) 97663-7803](tel:2197663-7803)
@@ -69,7 +69,7 @@ Na nossa clínica, tratamos casos de queda de prótese com prioridade. Nossa abo
 
 ## **Não espere a dor aparecer**
 
-Um dente sem coroa está desprotegido contra bactérias. Quanto mais rápido você buscar ajuda, menores são as chances de precisar de um tratamento de canal ou de perder o dente permanentemente — caso em que um {% post_link implante-dentario "implante dentário" %} pode ser a melhor solução.
+Um dente sem coroa está desprotegido contra bactérias. Quanto mais rápido você buscar ajuda, menores são as chances de precisar de um [tratamento de canal](/tratamentos/endodontia/) ou de perder o dente permanentemente — caso em que um {% post_link implante-dentario "[implante dentário](/tratamentos/implante-dentario/)" %} pode ser a melhor solução.
 
 ### **Fale com nossos especialistas agora mesmo:**
 * <i data-lucide="message-circle" class="icon-sm"></i> **Envie um WhatsApp:** **[Atendimento de Emergência](https://api.whatsapp.com/send?phone=5521976637803)**

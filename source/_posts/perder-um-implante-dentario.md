@@ -6,7 +6,7 @@ updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/41a96660-0c56-48cf-ad77-e371be4aedd9_podemos-perder-um-implante-dentario1.webp
 ---
 
-O **implante dentário** é, sem dúvida, uma das maiores revoluções da odontologia moderna, devolvendo a mastigação e o sorriso para milhões de pessoas. No entanto, por envolver uma pequena cirurgia, ele ainda desperta muitas dúvidas e um medo comum: **“Posso perder um implante dentário?”**
+O **[implante dentário](/tratamentos/implante-dentario/)** é, sem dúvida, uma das maiores revoluções da odontologia moderna, devolvendo a mastigação e o sorriso para milhões de pessoas. No entanto, por envolver uma pequena cirurgia, ele ainda desperta muitas dúvidas e um medo comum: **“Posso perder um implante dentário?”**
 
 Se você já realizou ou está planejando esse tratamento, é essencial entender que, embora a taxa de sucesso seja superior a 95%, o implante exige cuidados específicos para durar a vida toda.
 
@@ -37,7 +37,7 @@ Portanto, a "rejeição" imunológica não existe na implantodontia. O que ocorr
 Se o material é seguro, por que alguns implantes se perdem? Os principais vilões são:
 
 ### 1. Higienização Deficiente (Peri-implantite)
-Da mesma forma que as bactérias causam a periodontite nos dentes naturais, elas podem atacar os tecidos ao redor do implante. 
+Da mesma forma que as bactérias causam a [periodontite](/tratamentos/periodontia/) nos dentes naturais, elas podem atacar os tecidos ao redor do implante. 
 
 *   **O problema:** Como o implante não tem o ligamento periodontal (uma barreira natural do dente), a infecção pode avançar mais rápido pelo osso. 
 *   **Solução:** Fio dental e escovação rigorosa são indispensáveis.

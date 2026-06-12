@@ -6,7 +6,7 @@ description: >-
 date: 2013-08-21T14:42:04.000Z
 featured_image: /images/f8b62cec-e888-448e-87a1-82fe3f17cdba_Captura-de-tela-2013-07-28-as-11.41.20.webp
 ---
-Em um post anterior, observamos como a ausência de um ou mais dentes pode provocar problemas no posicionamento de dentes vizinhos e antagonistas, gerando problemas estéticos e mastigatórios para o paciente. Um implante dentário é uma excelente solução para este problema.
+Em um post anterior, observamos como a ausência de um ou mais dentes pode provocar problemas no posicionamento de dentes vizinhos e antagonistas, gerando problemas estéticos e mastigatórios para o paciente. Um [implante dentário](/tratamentos/implante-dentario/) é uma excelente solução para este problema.
 
 Assim, hoje mostraremos como podemos reabilitar uma região onde houve perda de apenas 1 (um) dente. 
 

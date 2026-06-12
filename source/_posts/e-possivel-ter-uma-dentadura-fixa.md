@@ -8,7 +8,7 @@ featured_image: /images/5a0384f7-7d3c-4db2-92d3-e4414496ec23_Dentadura-e-implant
 
 Nesse blog já falamos sobre os [cuidados com as dentaduras](/o-cuidado-com-a-dentadura/) e suas limitações no dia a dia. Apesar das próteses removíveis conseguirem devolver a mastigação de forma satisfatória, elas ainda geram insegurança — ao falar, ao mastigar alimentos mais duros, ao sorrir em público.
 
-Por isso, muitos pacientes chegam até nós com a mesma pergunta: **é possível ter uma dentadura fixa?**
+Por isso, muitos pacientes chegam até nós com a mesma pergunta: **é possível ter uma [dentadura](/tratamentos/protese-dentaria/) fixa?**
 
 A resposta é sim. E esse tratamento tem transformado a vida de pacientes que passaram anos convivendo com as limitações de uma prótese removível.
 
@@ -18,7 +18,7 @@ A resposta é sim. E esse tratamento tem transformado a vida de pacientes que pa
 
 [![Dentadura fixa](/images/uploads/2015/03/Dentadura-fixa-1024x680.webp)](/images/48e3f4ee-b444-4a9e-844b-6e2534a9dbf0_Dentadura-fixa.webp)
 
-A dentadura fixa — também chamada de **protocolo dentário** ou **prótese total fixa sobre implantes** — é uma prótese completa instalada de forma permanente sobre implantes dentários. Ela não é removida no dia a dia: fica fixada como se fossem dentes naturais.
+A dentadura fixa — também chamada de **protocolo dentário** ou **prótese total fixa sobre implantes** — é uma prótese completa instalada de forma permanente sobre [implantes dentários](/tratamentos/implante-dentario/). Ela não é removida no dia a dia: fica fixada como se fossem dentes naturais.
 
 O tratamento é indicado principalmente para pacientes que perderam todos os dentes de uma arcada (superior ou inferior) e querem uma solução definitiva e fixa.
 
@@ -114,7 +114,7 @@ Seguindo esses cuidados, o conjunto implante + prótese tem tudo para durar muit
 
 Com o correto planejamento e os devidos cuidados, é possível transformar uma dentadura removível em uma solução fixa, estável e com ótima estética. A consulta de avaliação é onde entendemos o seu caso e explicamos o que é possível fazer especificamente para você.
 
-Atendemos na **Barra da Tijuca** (Shopping Città América) e em **Botafogo** (Rua Marques, 15).
+Atendemos na **[Barra da Tijuca](/dentista-barra-da-tijuca/)** (Shopping Città América) e em **Botafogo** (Rua Marques, 15).
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **[WhatsApp — Agendar Avaliação](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-sm"></i> **Telefone:** [(21) 97663-7803](tel:2197663-7803)

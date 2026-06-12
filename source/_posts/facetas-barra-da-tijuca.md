@@ -54,7 +54,7 @@ A Barra concentra parte importante da odontologia estética do Rio — não por 
 
 **3. Laboratório de prótese parceiro.** A faceta é feita em laboratório por um técnico — e a qualidade depende dele tanto quanto do dentista. Pergunte qual laboratório a clínica usa, há quanto tempo. Trocar laboratório a cada caso é red flag.
 
-**4. Avaliação periodontal antes.** Faceta vai cobrir parte do dente perto da gengiva — se a gengiva está inflamada, sangrando ou retraída, a faceta vai ficar com aquela linha escura no rebordo em pouco tempo. Periodontia primeiro, faceta depois.
+**4. Avaliação periodontal antes.** Faceta vai cobrir parte do dente perto da gengiva — se a gengiva está inflamada, sangrando ou retraída, a faceta vai ficar com aquela linha escura no rebordo em pouco tempo. [Periodontia](/tratamentos/periodontia/) primeiro, faceta depois.
 
 **5. Política de retorno e manutenção.** Em 5 anos, alguma faceta pode lascar, descolar ou precisar polimento. A clínica inclui retornos no plano de tratamento? Tem garantia de execução? Pergunte por escrito.
 

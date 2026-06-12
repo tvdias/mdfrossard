@@ -7,7 +7,7 @@ featured_image: /images/34725af2-9c4b-4383-93f6-5466869d78f0_Invisalign.webp
 
 Você já imaginou se pudesse alinhar e corrigir a posição dos seus dentes usando um método completamente estético e incrivelmente rápido? 
 
-A união do avanço da engenharia americana com a inteligência artificial tornou isso possível com o sistema original e pioneiro chamado **Invisalign®**. Ele age usando um material praticamente invisível, que não atrapalha a sua escovação diária e acaba de vez com os ferros que machucam agressivamente os lábios.
+A união do avanço da engenharia americana com a inteligência artificial tornou isso possível com o sistema original e pioneiro chamado **[Invisalign](/tratamentos/ortodontia/)®**. Ele age usando um material praticamente invisível, que não atrapalha a sua escovação diária e acaba de vez com os ferros que machucam agressivamente os lábios.
 
 Criamos este prático guia explicativo sobre como o fabuloso **Invisalign** atua e respondemos as principais dúvidas contidianas aqui na clínica MD Frossard Odontologia do Rio de Janeiro.
 

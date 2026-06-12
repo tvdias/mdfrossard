@@ -85,7 +85,7 @@ Os principais problemas que podemos ter são:
 
 A principal ligação entre essas doenças é a relação com as bactérias presentes na doença periodontal, pois algumas também estão presentes nos problemas citados acima. 
 
-Vamos exemplificar com os problemas cardíacos. No exemplo dado pela própria revista veja, _"quem é suscetível a distúrbios do coração e sofre também de periodontite tem 25% mais probabilidade de desenvolver a endocardite bacteriana, inflamação grave da película que envolve o coração."_ 
+Vamos exemplificar com os problemas cardíacos. No exemplo dado pela própria revista veja, _"quem é suscetível a distúrbios do coração e sofre também de [periodontite](/tratamentos/periodontia/) tem 25% mais probabilidade de desenvolver a endocardite bacteriana, inflamação grave da película que envolve o coração."_ 
 
 Só por essa citação devemos ficar atentos com a influência da saúde bucal no organismo. M
 

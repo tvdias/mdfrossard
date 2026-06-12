@@ -53,7 +53,7 @@ São finas lâminas de porcelana aplicadas sobre os dentes. Elas corrigem cor, f
 Indicadas para casos onde os dentes possuem grandes restaurações, manchas profundas ou precisam de uma mudança estrutural maior. Oferecem uma durabilidade e estética inigualáveis. {% post_link facetas-dentais "Conheça os detalhes" %}.
 
 ### **3. Invisalign (Aparelho Invisível)**
-Não há sorriso perfeito sem alinhamento. O {% post_link invisalign-saiba-tudo-sobre-esse-tipo-de-aparelho-dentario "Invisalign" %} permite alinhar seus dentes usando placas transparentes, sem o desconforto e a aparência dos brackets metálicos tradicionais.
+Não há sorriso perfeito sem alinhamento. O {% post_link [invisalign](/tratamentos/ortodontia/)-saiba-tudo-sobre-esse-tipo-de-aparelho-dentario "Invisalign" %} permite alinhar seus dentes usando placas transparentes, sem o desconforto e a aparência dos brackets metálicos tradicionais.
 
 ### **4. Clareamento Dental Profissional**
 Muitas vezes, um dente bem posicionado precisa apenas de luminosidade. Nosso clareamento de consultório remove anos de {% post_link mancha-nos-dentes "manchas" %} de café e vinho em poucas sessões. {% post_link clareamento-dental "Veja os tipos" %}.

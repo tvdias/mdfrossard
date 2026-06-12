@@ -4,8 +4,15 @@ description: >-
  Os dentes de porcelana podem melhorar o seu sorriso. Devolvendo o sua
  confiança e auto-estima. Veja quais tipo de tratamento podemos fazer.
 date: 2017-10-09T08:00:53.000Z
-updated: 2026-05-20T00:00:00.000Z
+updated: 2026-06-12T00:00:00.000Z
 featured_image: /images/9f7a46a2-9006-4366-aa0f-335bc15c76e8_dentes-de-porcelana.webp
+faqs:
+  - question: "Qual a diferença entre faceta e lente de contato dental?"
+    answer: "Ambas são lâminas de porcelana fixadas na frente do dente. A lente de contato é ultrafina (0,2 a 0,4 mm) e geralmente exige desgaste mínimo ou nenhum; a faceta convencional é um pouco mais espessa e indicada quando há mais correções a fazer."
+  - question: "Dentes de porcelana ficam com aparência natural?"
+    answer: "Sim. A porcelana reproduz a translucidez e a textura do esmalte natural, e cor, formato e tamanho são planejados individualmente para harmonizar com o rosto e o sorriso de cada paciente."
+  - question: "Quanto tempo duram os dentes de porcelana?"
+    answer: "Com boa higiene e acompanhamento periódico, facetas e coroas de porcelana costumam durar de 10 a 20 anos. Evitar roer unhas e morder objetos duros ajuda a preservar as peças."
 ---
 
 **Estética** — essa é uma palavra cada vez mais presente nos consultórios dentários. E quando o assunto é transformar o sorriso, os **dentes de porcelana** são a solução mais versátil que a odontologia oferece hoje.
@@ -67,7 +74,7 @@ Com esses cuidados, as peças cerâmicas têm tudo para durar muitos anos com qu
 
 Se você quer melhorar o sorriso mas não sabe qual tratamento é o mais indicado para o seu caso, a avaliação clínica é o caminho. É nela que analisamos a situação atual dos seus dentes e explicamos as opções disponíveis.
 
-Atendemos na **Barra da Tijuca** e em **Botafogo**:
+Atendemos na **[Barra da Tijuca](/dentista-barra-da-tijuca/)** e em **[Botafogo](/dentista-em-botafogo/)**:
 
 * <i data-lucide="message-circle" class="icon-sm"></i> **[WhatsApp — Agendar Consulta](https://api.whatsapp.com/send?phone=5521976637803)**
 * <i data-lucide="phone" class="icon-sm"></i> **Telefone:** [(21) 97663-7803](tel:2197663-7803)

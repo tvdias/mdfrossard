@@ -11,7 +11,7 @@ Uma das perguntas mais frequentes que recebo de pacientes que precisam de implan
 
 O uso do enxerto esta muito atrelado ao {% post_link implante-dentario "implante dental" %}. Quase a totalidade de indicações são para formar uma estrutura óssea adequada para a posterior instalação de implantes. 
 
-Quando ocorre a perda do dente, a melhor opção para sua substituição é a instalação de implantes dentários. 
+Quando ocorre a perda do dente, a melhor opção para sua substituição é a instalação de [implantes dentários](/tratamentos/implante-dentario/). 
 
 Entretanto, existem casos onde não existe largura nem altura óssea para realizar esse procedimento. 
 
@@ -47,7 +47,7 @@ Eles podem ser usados em cirurgia como o {% post_link levantamento-do-seio-maxil
 
 Antes de tudo, nosso blog {% post_link perda-ossea-dentaria "possui um texto" %} bem detalhado explicando esse problema.
 
-Entretanto, o principal fator relacionado a perda de osso nos dentes é devido a {% post_link gengiva-sangrando "periodontite" %}. 
+Entretanto, o principal fator relacionado a perda de osso nos dentes é devido a {% post_link gengiva-sangrando "[periodontite](/tratamentos/periodontia/)" %}. 
 
 Esse doença acontece pela inflamação da gengiva, devido ao acúmulo de alimentos e a falta da correta higienização. 
 

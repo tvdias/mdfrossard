@@ -38,7 +38,7 @@ Por ser um procedimento complexo, a reabilitação exige um diagnóstico meticul
 
 *   **Exames Digitais:** Utilizamos tomografias, raios-x e escaneamentos intraorais.
 *   **Análise Sistêmica:** Verificamos sua saúde geral para garantir que o organismo responda bem aos implantes ou próteses.
-*   **Equipe Multidisciplinar:** O Dr. Davi Frossard coordena diferentes especialistas (periodontia, implantodontia, prótese) para que cada etapa seja perfeita.
+*   **Equipe Multidisciplinar:** O Dr. Davi Frossard coordena diferentes especialistas ([periodontia](/tratamentos/periodontia/), implantodontia, prótese) para que cada etapa seja perfeita.
 
 ### **Assista ao vídeo e entenda os segredos da Reabilitação:**
 {% youtube eVJrVZTowJI %}
@@ -51,7 +51,7 @@ Para reconstruir um sorriso de forma definitiva, geralmente integramos:
 *   **Periodontia:** Garantir que a "base" (gengiva e osso) esteja saudável.
 *   **Implantodontia:** Repor raízes perdidas com implantes de alta tecnologia.
 *   **Prótese e Estética:** Finalizar com coroas, facetas ou lentes de contato que imitam a perfeição dos dentes naturais.
-*   **Ortodontia:** Alinhar dentes para que a reabilitação seja estável a longo prazo.
+*   **[Ortodontia](/tratamentos/ortodontia/):** Alinhar dentes para que a reabilitação seja estável a longo prazo.
 
 ## Quanto tempo demora o tratamento?
 ![Resultado de reabilitação oral](/images/c2df1b99-aed9-4ecf-97b2-07bcced39cad_reablitacao-dentaria.webp) 

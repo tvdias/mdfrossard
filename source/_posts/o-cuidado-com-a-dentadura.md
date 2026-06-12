@@ -7,7 +7,7 @@ date: 2015-03-09T10:00:28.000Z
 featured_image: /images/aea180d5-f36e-44d3-942c-01a820f4c0b7_como-cuidar-de-sua-dentadura.webp
 ---
 
-O uso de dentaduras em nossa população ainda é grande. Mesmo com a melhora na conscientização da higienização, muitos chegam a velhice usando uma prótese removível. 
+O uso de [dentaduras](/tratamentos/protese-dentaria/) em nossa população ainda é grande. Mesmo com a melhora na conscientização da higienização, muitos chegam a velhice usando uma prótese removível. 
 
 Hoje gostaria de falar sobre a **o cuidado com a Dentadura.** 
 

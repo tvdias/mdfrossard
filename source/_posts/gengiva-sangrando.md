@@ -43,7 +43,7 @@ O tratamento imediato de choque não é interrompê-lo; é **forçá-lo com extr
 
 ![Inflamações generalizadas com as raízes abertas](/images/2b5486c3-c6f8-43da-8847-6366423169b9_sangramento-da-gengiva.webp) 
 
-O diagnóstico médico universal desse problema tem os mesmos nomeis cruciais mundiais: a Gengivite Básica (inicial do tecido raso e mole) ou a perigosa Periodontite Profunda. 
+O diagnóstico médico universal desse problema tem os mesmos nomeis cruciais mundiais: a [Gengivite](/tratamentos/periodontia/) Básica (inicial do tecido raso e mole) ou a perigosa Periodontite Profunda. 
 
 Ambas essas doenças atacam sem doer, apenas inflando o pescoço das gingivas com inchaços lisinhos rubros. 
 
