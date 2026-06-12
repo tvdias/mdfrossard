@@ -12,17 +12,23 @@ This file is the Claude entry point. All project context, rules, and workflows a
 **Never run `wrangler deploy` or publish directly to Cloudflare.**
 Commit to git → Cloudflare automatically deploys. That's the only deployment path.
 
+### Divisão de responsabilidades (regra do Davi) ⚠️
+**Claude NUNCA faz `git commit`, `git push` nem deploy.**
+Claude: edita os arquivos → roda `npm run build` → verifica que está tudo certo → avisa o Davi.
+Davi: revisa, faz o commit, o push e promove a versão na Cloudflare manualmente.
+
 ### After Every Change
 ```bash
 npm run build        # Must succeed
 npm start            # Verify at http://localhost:4000
 ```
 
-### Git Workflow
+### Git Workflow (executado pelo Davi, não pelo Claude)
 ```bash
 git checkout -b feature/your-feature-name
-# make changes, then verify:
+# Claude faz as mudanças e verifica com:
 npm run build
+# Davi commita e envia:
 git add .
 git commit -m "Clear description of changes"
 git push origin feature/your-feature-name

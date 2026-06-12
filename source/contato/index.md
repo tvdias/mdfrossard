@@ -26,7 +26,7 @@ description: Veja como entrar em contato com a nossa clínica. É possível liga
                         <div class="method-icon"><i data-lucide="phone"></i></div>
                         <div>
                             <h4>Telefones</h4>
-                            <p>(21) 3217-0430<br>(21) 2266-5955</p>
+                            <p>(21) 3217-0430</p>
                         </div>
                     </div>
                     <div class="contact-method-item">
