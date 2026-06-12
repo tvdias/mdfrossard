@@ -207,12 +207,6 @@ Se você mora em Botafogo, Humaitá, Flamengo ou na Zona Sul e procura um **dent
   "sameAs": [
     "https://www.facebook.com/MdFrossardOdontologia/",
     "https://www.instagram.com/md_frossard_odontologia/"
-  ],
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "reviewCount": "102",
-    "bestRating": "5"
-  }
+  ]
 }
 </script>

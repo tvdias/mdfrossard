@@ -249,12 +249,6 @@ A MD Frossard Odontologia está pronta para oferecer o melhor cuidado ao seu sor
   "sameAs": [
     "https://www.facebook.com/MdFrossardOdontologia/",
     "https://www.instagram.com/md_frossard_odontologia/"
-  ],
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "reviewCount": "102",
-    "bestRating": "5"
-  }
+  ]
 }
 </script>

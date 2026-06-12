@@ -3,7 +3,7 @@
      Bloco 2: unidade Barra da Tijuca (geo + hasMap para ranking no Maps).
      Bloco 3: unidade Botafogo (geo + hasMap para ranking no Maps).
      Posts (post.ejs) e LPs (landing_page.ejs) têm schemas próprios — sem conflito.
-     aggregateRating: atualizar manualmente quando mudar o nº de avaliações no Google. -->
+     aggregateRating removido: Google ignora notas autodeclaradas (self-serving reviews). -->
 
 <!-- Bloco 1: Organização-mãe -->
 <script type="application/ld+json">
@@ -61,11 +61,6 @@
     "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     "opens": "08:00",
     "closes": "18:00"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5",
-    "reviewCount": "102"
   }
 }
 </script>
@@ -100,11 +95,6 @@
     "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     "opens": "08:00",
     "closes": "18:00"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5",
-    "reviewCount": "102"
   }
 }
 </script>
