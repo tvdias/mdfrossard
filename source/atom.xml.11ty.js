@@ -15,7 +15,20 @@ class AtomFeed {
       const title = post.data?.title || "Sem titulo";
       const description = post.data?.description || "";
 
-      return `<entry>\n  <title><![CDATA[${title}]]></title>\n  <link href="${absoluteUrl}"/>\n  <id>${absoluteUrl}</id>\n  <updated>${new Date(post.date || new Date()).toISOString()}</updated>\n  <summary><![CDATA[${description}]]></summary>\n</entry>`;
+      // Author: usa o author do post ou fallback para o author principal da clínica
+      const authors = data?.site?.data?.authors || [];
+      const postAuthorName = post.data?.author || data?.config?.author || "Davi Heringer Frossard";
+      const authorData = authors.find(a => a.name === postAuthorName) || authors.find(a => a.main);
+      const authorName = authorData?.name || postAuthorName;
+      const authorUrl = authorData?.name === "Davi Heringer Frossard"
+        ? "https://mdfrossard.com.br/equipe/davi/"
+        : authorData?.name === "Marcos Frossard"
+        ? "https://mdfrossard.com.br/equipe/marcos/"
+        : "https://mdfrossard.com.br/equipe/";
+
+      const authorTag = `  <author>\n    <name>${authorName}</name>\n    <uri>${authorUrl}</uri>\n  </author>`;
+
+      return `<entry>\n  <title><![CDATA[${title}]]></title>\n  <link href="${absoluteUrl}"/>\n  <id>${absoluteUrl}</id>\n  <updated>${new Date(post.date || new Date()).toISOString()}</updated>\n  <summary><![CDATA[${description}]]></summary>\n${authorTag}\n</entry>`;
     }).filter(Boolean).join("\n");
 
     const siteUrl = data?.config?.url || "";
