@@ -35,6 +35,26 @@ const safeData = (key, fallback = '') => typeof data !== 'undefined' && data[key
 <%- content %>
 
 <% if (typeof faqs !== 'undefined' && faqs.length > 0) { %>
+<!-- Structured Data: FAQPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    <% faqs.forEach(function(faq, i) { %>
+    {
+      "@type": "Question",
+      "name": "<%= faq.question.replace(/"/g, '\\"') %>",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "<%= faq.answer.replace(/"/g, '\\"').replace(/<[^>]*>/g, '') %>"
+      }
+    }<%= i < faqs.length - 1 ? ',' : '' %>
+    <% }); %>
+  ]
+}
+</script>
+
 <!-- FAQ Section -->
 <section class="faq-section section" id="faq">
     <div class="container">
