@@ -2,6 +2,30 @@
 layout: layout.ejs
 ---
 
+<!-- Structured Data: Physician -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Physician",
+  "name": "<%= title %>",
+  "image": "https://mdfrossard.com.br<%= avatar %>",
+  "url": "<%= typeof member_url !== 'undefined' ? member_url : (config.url + page.url) %>",
+  "description": "<%= typeof description !== 'undefined' ? description : '' %>",
+  "medicalSpecialty": "<%= specialty %>",
+  <% if (typeof cro !== 'undefined' && cro) { %>
+  "identifier": "CRO-RJ <%= cro %>",
+  <% } %>
+  "worksFor": {
+    "@id": "https://mdfrossard.com.br/#organization"
+  },
+  "memberOf": {
+    "@type": "Organization",
+    "name": "MD Frossard Odontologia",
+    "url": "https://mdfrossard.com.br"
+  }
+}
+</script>
+
 <!-- Page Mini Hero -->
 <section class="page-hero">
     <div class="page-hero-bg"></div>

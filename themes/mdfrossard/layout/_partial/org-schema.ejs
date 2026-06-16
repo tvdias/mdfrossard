@@ -107,3 +107,27 @@
   }
 }
 </script>
+
+<!-- Bloco 4: WebSite — declara o domínio como entidade oficial da clínica -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://mdfrossard.com.br/#website",
+  "name": "MD Frossard Odontologia",
+  "url": "https://mdfrossard.com.br/",
+  "description": "Clínica odontológica no Rio de Janeiro há 38 anos. Especialistas em implantes, facetas e reabilitação oral. Unidades na Barra da Tijuca e em Botafogo.",
+  "publisher": {
+    "@id": "https://mdfrossard.com.br/#organization"
+  },
+  "inLanguage": "pt-BR",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://mdfrossard.com.br/blog/?s={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
