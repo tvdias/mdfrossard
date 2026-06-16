@@ -1,5 +1,6 @@
 ---
 title: "Dentadura Fixa: O Que É o Protocolo Dentário e Como Funciona"
+author: Davi Heringer Frossard
 description: "Quer saber se é possível ter uma dentadura fixa? Entenda o que é o protocolo dentário (All-on-4 e All-on-6), quem pode fazer e como é o processo completo."
 date: 2015-03-30T10:00:07.000Z
 updated: 2026-06-01T00:00:00.000Z

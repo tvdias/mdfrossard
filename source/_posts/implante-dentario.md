@@ -1,5 +1,6 @@
 ---
 title: 'Implante Dentário: O Guia Absolutamente Completo'
+author: Davi Heringer Frossard
 description: >-
  Saiba tudo sobre o tratamento com Implante Dentário. Ele substitui seu dente
  perdido, devolvendo 100% da sua mastigação, estética e harmonia no sorriso.

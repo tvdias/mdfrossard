@@ -1,5 +1,6 @@
 ---
 title: Implante Dentário no Rio de Janeiro
+author: Davi Heringer Frossard
 description: >-
  Implante dentário no Rio de Janeiro: técnica guiada 3D, carga imediata e 38 anos de experiência. Tire suas dúvidas e agende sua avaliação.
 date: 2016-01-20T15:56:33.000Z

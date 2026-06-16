@@ -1,5 +1,6 @@
 ---
 title: 'Prótese sobre implante dentário: tipos, estética e durabilidade'
+author: Davi Heringer Frossard
 description: >-
  Prótese sobre implante: diferença entre prótese e implante, os 3 tipos (coroa unitária, ponte e protocolo) e como é a estética e durabilidade.
 date: 2018-08-13T10:00:58.000Z

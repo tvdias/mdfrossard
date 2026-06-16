@@ -1,5 +1,6 @@
 ---
 title: "Dentes de Porcelana: A Verdade Sobre o Tratamento"
+author: Davi Heringer Frossard
 description: >-
  Os dentes de porcelana podem melhorar o seu sorriso. Devolvendo o sua
  confiança e auto-estima. Veja quais tipo de tratamento podemos fazer.

@@ -1,5 +1,6 @@
 ---
 title: 'Dor de Dente: Causas, O Que Fazer e Quando Ir ao Dentista'
+author: Davi Heringer Frossard
 description: "Com dor de dente agora? Saiba por que ela é tão intensa, as causas mais comuns, o que fazer em casa para aliviar e quando procurar o dentista de urgência."
 date: 2014-11-17T10:00:22.000Z
 updated: 2026-06-01T00:00:00.000Z

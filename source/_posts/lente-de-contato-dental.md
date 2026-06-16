@@ -1,5 +1,6 @@
 ---
 title: 'Lente de Contato Dental: 4 Pontos que Você Deve Saber'
+author: Davi Heringer Frossard
 description: "A lente de contato dental é o tratamento estético em alta. Transforme seu sorriso em dias. Veja benefícios, indicações e como funciona o procedimento."
 date: 2017-05-15T13:45:45.000Z
 updated: 2026-06-12T00:00:00.000Z

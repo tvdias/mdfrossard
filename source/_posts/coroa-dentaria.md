@@ -1,5 +1,6 @@
 ---
 title: 'Coroa Dentária: Guia Completo sobre Próteses e Porcelanas'
+author: Davi Heringer Frossard
 description: "A coroa dentária é a solução ideal para recuperar dentes quebrados ou fragilizados. Conheça os tipos de porcelana (Metal-Free) e veja como devolver a."
 date: 2015-07-21T10:14:17.000Z
 updated: 2026-05-20T00:00:00.000Z

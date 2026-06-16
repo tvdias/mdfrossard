@@ -1,5 +1,6 @@
 ---
 title: Levantamento do Seio Maxilar - Esse Tratamento é seguro ?!
+author: Davi Heringer Frossard
 description: >-
  A Cirurgia de Levantamento do seio maxilar causa várias dúvidas entre os
  pacientes. Leia o texto agora e saiba se é possível realizar esse

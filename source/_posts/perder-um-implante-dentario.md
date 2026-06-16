@@ -1,5 +1,6 @@
 ---
 title: 'Perder Implante Dentário: Verdades, Mitos e Cuidados'
+author: Davi Heringer Frossard
 description: "Afinal, o corpo pode rejeitar um implante? Entenda por que o titânio é seguro, os riscos reais de perda e como garantir a longevidade do tratamento."
 date: 2016-03-01T10:00:04.000Z
 updated: 2026-05-20T00:00:00.000Z

@@ -1,5 +1,6 @@
 ---
 title: 'Clareamento Dental no Consultório: como funciona e resultados'
+author: Davi Heringer Frossard
 description: >-
  Clareamento dental no consultório: como funciona o gel, por que o termo 'laser' caiu em desuso e quais resultados esperar.
 date: 2018-07-30T10:00:47.000Z

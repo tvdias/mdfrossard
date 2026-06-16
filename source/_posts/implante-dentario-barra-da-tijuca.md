@@ -1,5 +1,6 @@
 ---
 title: "Implante Dentário na Barra da Tijuca: Etapas, Indicação e Cuidados"
+author: Davi Heringer Frossard
 description: "Saiba tudo sobre implante dentário na Barra da Tijuca: quando é indicado, como é o processo passo a passo, quem pode fazer e como é o pós-operatório."
 date: 2024-06-18T10:00:03.000Z
 updated: 2026-06-01T00:00:00.000Z

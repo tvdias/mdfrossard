@@ -1,5 +1,6 @@
 ---
 title: 'Carga Imediata em Implantes Dentários: quando é possível?'
+author: Davi Heringer Frossard
 description: >-
  Carga imediata em implantes: saia com o dente fixo no mesmo dia. Entenda quando é possível e como a técnica guiada 3D amplia os casos elegíveis.
 date: 2014-12-04T14:06:39.000Z

@@ -1,5 +1,6 @@
 ---
 title: 'Reabilitação Oral: O que É e Como Recuperar o Sorriso'
+author: Davi Heringer Frossard
 description: "A reabilitação oral é o segredo para transformar dentes desgastados ou perdidos em um sorriso saudável e funcional. Entenda como funciona esse tratamento."
 date: 2016-01-18T16:47:43.000Z
 updated: 2026-05-20T00:00:00.000Z
