@@ -1,9 +1,22 @@
 ---
 title: 'Dentista em Botafogo: Clínica MD Frossard'
+author: Davi Heringer Frossard
 description: "Dentista em Botafogo há 38 anos. Implantes, facetas e reabilitação oral com especialistas titulados, na Rua Marques, 15, ao lado da Cobal. Agende sua avaliação."
 date: 2016-04-24T10:13:44.000Z
+updated: 2026-06-16T00:00:00.000Z
 featured_image: /images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp
 is_location_page: true
+faqs:
+  - question: Onde fica o dentista em Botafogo da MD Frossard?
+    answer: "Nossa clínica fica na Rua Marques, 15, ao lado da Cobal do Humaitá, próximo ao Largo dos Leões — CEP 22260-240. Fácil acesso de metrô (Estação Botafogo, Linha 1/2) e de carro, com estacionamento nas proximidades."
+  - question: Quais tratamentos são realizados na unidade de Botafogo?
+    answer: "A unidade de Botafogo oferece o mesmo portfólio completo da MD Frossard: implante dentário, prótese, facetas e estética dental, ortodontia, periodontia, endodontia e prevenção. A mesma equipe e o mesmo padrão de atendimento das duas unidades."
+  - question: Como agendar uma consulta em Botafogo?
+    answer: "O agendamento é feito pelo WhatsApp (21) 97663-7803 ou pelo telefone (21) 3217-0430. Nossa equipe responde em horário comercial e orienta sobre o melhor horário disponível na unidade de Botafogo."
+  - question: A MD Frossard atende plano de saúde em Botafogo?
+    answer: "Trabalhamos com atendimento particular. Para pacientes interessados em parcelamento, oferecemos condições facilitadas — consulte nossa equipe pelo WhatsApp para saber as opções disponíveis."
+  - question: Qual o horário de atendimento em Botafogo?
+    answer: "Atendemos de segunda a sexta-feira, das 8h às 18h. Para urgências fora desse horário, mantemos canal de atendimento pelo WhatsApp (21) 97663-7803."
 ---
 
 ## Dentista em Botafogo: Tradição e Especialização no Coração da Zona Sul
