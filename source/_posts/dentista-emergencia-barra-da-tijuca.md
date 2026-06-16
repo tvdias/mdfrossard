@@ -96,7 +96,7 @@ Três caminhos:
 ## Endereço e como chegar
 
 **MD Frossard Odontologia — Unidade Barra da Tijuca**
-Av. das Américas, 700 — Bloco 2 / Sala 143
+Av. das Américas, 700 — Bloco 2, Sala 143
 Shopping Città América · CEP 22640-100
 
 - **De carro:** estacionamento amplo no próprio shopping

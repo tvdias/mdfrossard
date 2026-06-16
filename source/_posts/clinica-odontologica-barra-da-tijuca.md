@@ -10,7 +10,7 @@ category: Clínica
 
 ## Onde fica a clínica na Barra da Tijuca
 
-Nossa unidade da Barra está no **Shopping Città América**, na Av. das Américas, 700 — Bloco 2 / Sala 143. Pertinho do Downtown, com fácil acesso por carro (estacionamento no próprio shopping) e a poucos metros do BRT. Para o endereço exato e mapa, [veja nossa página de localização](/localizacao/).
+Nossa unidade da Barra está no **Shopping Città América**, na Av. das Américas, 700 — Bloco 2, Sala 143. Pertinho do Downtown, com fácil acesso por carro (estacionamento no próprio shopping) e a poucos metros do BRT. Para o endereço exato e mapa, [veja nossa página de localização](/localizacao/).
 
 ![consultório clínica odontológica barra da tijuca](/images/uploads/2013/07/4consulorio-1-1024x683.webp)
 
@@ -57,6 +57,6 @@ Marque uma visita sem compromisso para conhecer a estrutura antes de iniciar tra
 
 - **(21) 97663-7803**
 - [**WhatsApp (21) 97663-7803**](https://api.whatsapp.com/send?phone=5521976637803)
-- **Endereço:** Av. das Américas, 700 — Bloco 2 / Sala 143, Barra da Tijuca, Rio de Janeiro
+- **Endereço:** Av. das Américas, 700 — Bloco 2, Sala 143, Barra da Tijuca, Rio de Janeiro
 
 Para conhecer nossos profissionais, [conheça nossa clínica de dentista na Barra da Tijuca](/dentista-barra-da-tijuca/) e a [equipe](/equipe/).

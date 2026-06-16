@@ -58,7 +58,7 @@ Veja mais [depoimentos](/depoimentos/) sobre o nosso tratalho
 
 Agora que você já sabe que a MD Frossard Odontologia é uma das clínicas com dentistas mais bem avaliados na Barra da Tijuca, que tal marcar sua consulta?
 
-Unidade Barra da Tijuca: Shopping Città America - Av. das Américas, 700, Bloco 2 / Sala 143.
+Unidade Barra da Tijuca: Shopping Città America - Av. das Américas, 700, Bloco 2, Sala 143.
 
 Unidade Botafogo: Rua Marques, 15, Humaitá, Rio de Janeiro.
 

@@ -44,7 +44,7 @@ Não existe "a melhor faceta". Existe a faceta certa para o seu caso clínico. R
 
 A Barra concentra parte importante da odontologia estética do Rio — não por acaso. Estamos próximos da Zona Oeste e da Zona Sul, com acesso por BRT e Linha 4 do Metrô, e a região tem ecossistema técnico maduro: laboratórios de prótese de qualidade, radiologia 3D especializada e clínicas com tecnologia digital.
 
-**Nossa unidade** fica no Shopping Città América (Av. das Américas, 700 — Bloco 2/Sala 143), o que facilita pra quem precisa fazer várias sessões: estacionamento amplo, almoço resolvido, e a sessão dura 1h15 em média. Detalhes que parecem pequenos mas pesam quando o tratamento se estende por 4 a 8 semanas.
+**Nossa unidade** fica no Shopping Città América (Av. das Américas, 700 — Bloco 2, Sala 143), o que facilita pra quem precisa fazer várias sessões: estacionamento amplo, almoço resolvido, e a sessão dura 1h15 em média. Detalhes que parecem pequenos mas pesam quando o tratamento se estende por 4 a 8 semanas.
 
 ## Os 5 critérios para escolher quem vai fazer suas facetas
 
@@ -125,6 +125,6 @@ Se você quer ver como ficaria seu sorriso com facetas — sem compromisso e sem
 
 - **📞 (21) 97663-7803**
 - **💬 [WhatsApp (21) 97663-7803](https://api.whatsapp.com/send?phone=5521976637803)**
-- **📍 Shopping Città América — Av. das Américas, 700, Bloco 2 / Sala 143, Barra da Tijuca**
+- **📍 Shopping Città América — Av. das Américas, 700, Bloco 2, Sala 143, Barra da Tijuca**
 
 Para conhecer nossa proposta completa, [conheça nossa clínica de dentista na Barra da Tijuca](/dentista-barra-da-tijuca/) ou veja a página dedicada de [estética dental](/tratamentos/estetica-dental/).
