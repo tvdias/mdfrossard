@@ -1,0 +1,819 @@
+---
+layout: landing_page
+title: "Dentista Emergência Barra da Tijuca | Atendimento Rápido"
+description: "Dor de dente na Barra da Tijuca? Atendimento de urgência rápido e sem fila. Dentistas com 38 anos de experiência. Ligue agora: (21) 97663-7803."
+google_fonts: "Outfit:wght@400;600;700;800;900&family=Inter:wght@400;500;600&family=Barlow+Condensed:wght@700;800;900"
+canonical: "https://mdfrossard.com.br/l/dentista_emergencia_barra_da_tijuca_v2/"
+hero_preload: "/images/lps/marcos-atendimento-emergencia.webp"
+og_image: "https://mdfrossard.com.br/images/lps/marcos-atendimento-emergencia.webp"
+contact_value: 2000
+content_category: emergencia-barra
+---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dentist",
+  "name": "MD Frossard Odontologia",
+  "image": "https://mdfrossard.com.br/images/lps/marcos-atendimento-emergencia.webp",
+  "@id": "https://mdfrossard.com.br/l/dentista_emergencia_barra_da_tijuca_v2/",
+  "url": "https://mdfrossard.com.br/l/dentista_emergencia_barra_da_tijuca_v2/",
+  "telephone": "+5521976637803",
+  "priceRange": "$$",
+  "taxID": "07.800.608/0001-09",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Av. das Américas, 700 - Bloco 2, Sala 143",
+    "addressLocality": "Rio de Janeiro",
+    "addressRegion": "RJ",
+    "postalCode": "22640-100",
+    "addressCountry": "BR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -23.0019,
+    "longitude": -43.3216
+  },
+  "hasMap": "https://share.google/dByZdhTbp6XWBuVqh",
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Wednesday","Friday"],
+    "opens": "08:00",
+    "closes": "18:00"
+  },
+  "description": "Emergência odontológica na Barra da Tijuca — MD Frossard Odontologia, 38 anos de tradição. Atendimento rápido para dor de dente, dente quebrado e outros casos urgentes. Shopping Città América, Av. das Américas, 700.",
+  "sameAs": [
+    "https://www.facebook.com/MdFrossardOdontologia/",
+    "https://www.instagram.com/md_frossard_odontologia/",
+    "https://share.google/dByZdhTbp6XWBuVqh"
+  ],
+  "medicalSpecialty": ["Dentistry","OralSurgery"],
+  "availableService": [
+    { "@type": "MedicalProcedure", "name": "Atendimento de Urgência Odontológica" },
+    { "@type": "MedicalProcedure", "name": "Extração Dentária" },
+    { "@type": "MedicalProcedure", "name": "Tratamento de Canal" },
+    { "@type": "MedicalProcedure", "name": "Dor de Dente" },
+    { "@type": "MedicalProcedure", "name": "Dente Quebrado" },
+    { "@type": "MedicalProcedure", "name": "Abscesso Dentário" }
+  ],
+  "parentOrganization": { "@id": "https://mdfrossard.com.br/#organization" },
+  "areaServed": ["Barra da Tijuca","Recreio dos Bandeirantes","Jacarepaguá","Rio de Janeiro"]
+}
+</script>
+
+<style>
+:root{
+  --ink:#0B1120;--ink-mid:#1C2B45;--ink-soft:#374151;--muted:#6B7A99;
+  --gold:#C9A227;--gold-glow:#F0C84A;
+  --white:#FFFFFF;--off-white:#F7F9FC;
+  --teal:#0E7E80;--teal-lt:#E2F3F3;
+  --red:#DC2626;--red-dk:#B91C1C;--red-lt:#FEF2F2;
+  --green:#25D366;
+  --r:12px;--rsm:8px;
+  --sh-sm:0 2px 12px rgba(0,0,0,.06);
+  --sh-md:0 8px 32px rgba(0,0,0,.10);
+  --sh-lg:0 24px 64px rgba(0,0,0,.14);
+  --ease:cubic-bezier(.16,1,.3,1);
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Outfit',sans-serif;color:var(--ink);background:var(--white);line-height:1.7;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+img{display:block;max-width:100%}
+a{text-decoration:none;color:inherit}
+.c{width:100%;max-width:1120px;margin:0 auto;padding:0 24px}
+.rv{opacity:0;transform:translateY(20px);transition:opacity .6s var(--ease),transform .6s var(--ease)}
+.rv.on{opacity:1;transform:none}
+.d1{transition-delay:.08s}.d2{transition-delay:.16s}.d3{transition-delay:.24s}
+
+/* ── STICKY DESKTOP TOP BAR ── */
+.sticky-top-bar{
+  display:none;position:fixed;top:0;left:0;right:0;z-index:900;
+  background:var(--ink);padding:9px 24px;
+  align-items:center;justify-content:space-between;gap:12px;
+  border-bottom:2px solid var(--gold);
+  transform:translateY(-100%);transition:transform .35s var(--ease);
+}
+.sticky-top-bar.visible{transform:translateY(0)}
+.stb-left{display:flex;align-items:center;gap:10px;font-family:'Inter',sans-serif;font-size:.8rem;color:rgba(255,255,255,.6)}
+.stb-dot{width:7px;height:7px;border-radius:50%;background:var(--red);animation:blink 1.2s ease-in-out infinite;flex-shrink:0}
+.stb-right{display:flex;gap:8px;align-items:center}
+.stb-tel{display:inline-flex;align-items:center;gap:7px;background:var(--red);color:#fff;font-weight:700;font-size:.82rem;padding:7px 16px;border-radius:50px;transition:background .2s}
+.stb-tel:hover{background:var(--red-dk)}
+.stb-wpp{display:inline-flex;align-items:center;gap:6px;color:var(--green);border:1.5px solid var(--green);font-weight:600;font-size:.78rem;padding:6px 14px;border-radius:50px;transition:.2s}
+.stb-wpp:hover{background:var(--green);color:#fff}
+
+/* ── URGENCY TICKER ── */
+.urgency-ticker{
+  background:var(--red);padding:8px 20px;text-align:center;
+  display:flex;align-items:center;justify-content:center;gap:10px;
+  font-family:'Inter',sans-serif;font-size:.78rem;font-weight:700;color:#fff;letter-spacing:.3px;flex-wrap:wrap;
+}
+.urgency-ticker .dot{width:7px;height:7px;border-radius:50%;background:#fff;animation:blink 1.2s ease-in-out infinite;flex-shrink:0}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+.urgency-ticker a{color:#fff;font-weight:800;text-decoration:underline}
+
+/* ── HERO ── */
+.hero{background:var(--white);min-height:100svh;display:flex;flex-direction:column;position:relative;overflow:hidden}
+.hero::before{
+  content:'';position:absolute;inset:0;
+  background-image:linear-gradient(rgba(11,17,32,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(11,17,32,.04) 1px,transparent 1px);
+  background-size:40px 40px;pointer-events:none;z-index:0;
+}
+.hero-nav{display:flex;justify-content:space-between;align-items:center;padding:20px 28px;position:relative;z-index:10;border-bottom:1px solid rgba(11,17,32,.07)}
+.hero-logo{height:56px;width:auto;filter:brightness(0)}
+.hero-nav-tel{display:inline-flex;align-items:center;gap:7px;color:var(--ink);font-weight:700;font-size:.85rem;background:var(--red-lt);border:1.5px solid rgba(220,38,38,.25);padding:9px 16px;border-radius:50px;transition:.25s var(--ease)}
+.hero-nav-tel:hover{background:var(--red);color:#fff}
+.hero-split{flex:1;display:grid;grid-template-columns:1fr;position:relative;z-index:1}
+.hero-left{display:flex;align-items:center;padding:40px 32px 56px 36px}
+.hero-left-inner{max-width:560px}
+.hero-badge{display:inline-flex;align-items:center;gap:8px;background:var(--red-lt);border:1.5px solid rgba(220,38,38,.3);color:var(--red-dk);border-radius:50px;padding:7px 14px;font-size:.76rem;font-weight:800;letter-spacing:.5px;text-transform:uppercase;margin-bottom:18px}
+.hero-badge .live{width:8px;height:8px;border-radius:50%;background:var(--red);animation:blink 1s ease-in-out infinite;flex-shrink:0}
+.hero h1{
+  font-family:'Barlow Condensed','Outfit',sans-serif;
+  font-size:clamp(3.4rem,6.5vw,6rem);font-weight:900;
+  line-height:.95;letter-spacing:-.5px;
+  color:var(--ink);margin-bottom:16px;text-transform:uppercase;
+}
+.hero h1 .red{color:var(--red)}
+.hero-stars{display:flex;align-items:center;gap:8px;font-family:'Inter',sans-serif;font-size:.82rem;color:var(--muted);margin-bottom:18px}
+.hero-stars .s{color:#F59E0B;font-size:1rem;letter-spacing:1px}
+.hero-stars strong{color:var(--ink)}
+.hero-avail{display:inline-flex;align-items:center;gap:9px;background:#F0FDF4;border:1.5px solid #86EFAC;color:#166534;border-radius:var(--rsm);padding:9px 14px;font-family:'Inter',sans-serif;font-size:.84rem;font-weight:600;margin-bottom:26px}
+.hero-avail svg{flex-shrink:0;color:#16a34a}
+.hero-cta-primary{
+  display:flex;align-items:center;justify-content:center;gap:10px;
+  width:100%;padding:18px 28px;border-radius:50px;
+  background:linear-gradient(135deg,var(--red),var(--red-dk));
+  color:#fff;font-family:'Outfit',sans-serif;font-weight:800;font-size:1.1rem;
+  border:none;cursor:pointer;box-shadow:0 8px 28px rgba(220,38,38,.35);
+  transition:all .25s var(--ease);text-decoration:none;margin-bottom:12px;
+  animation:pulse-cta 2.5s ease-in-out infinite;
+}
+@keyframes pulse-cta{0%,100%{box-shadow:0 8px 28px rgba(220,38,38,.35)}50%{box-shadow:0 8px 36px rgba(220,38,38,.6),0 0 0 8px rgba(220,38,38,.08)}}
+.hero-cta-primary:hover{transform:translateY(-3px);animation:none;box-shadow:0 14px 40px rgba(220,38,38,.5)}
+.hero-callback{background:var(--off-white);border:1px solid rgba(11,17,32,.1);border-radius:var(--r);padding:16px 18px;margin-bottom:16px}
+.hero-callback-label{font-family:'Inter',sans-serif;font-size:.76rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;margin-bottom:10px;display:flex;align-items:center;gap:6px}
+.hero-callback-fields{display:flex;gap:8px;flex-wrap:wrap}
+.hero-callback input{flex:1;min-width:120px;font-family:'Inter',sans-serif;font-size:.88rem;padding:10px 13px;border-radius:var(--rsm);border:1.5px solid rgba(11,17,32,.15);background:var(--white);color:var(--ink);transition:border .2s;outline:none}
+.hero-callback input:focus{border-color:var(--teal)}
+.hero-callback input::placeholder{color:var(--muted)}
+.hero-callback button{padding:10px 18px;border-radius:var(--rsm);background:var(--ink);color:#fff;font-family:'Outfit',sans-serif;font-weight:700;font-size:.88rem;border:none;cursor:pointer;white-space:nowrap;transition:background .2s}
+.hero-callback button:hover{background:var(--ink-mid)}
+.hero-callback-note{font-family:'Inter',sans-serif;font-size:.68rem;color:var(--muted);margin-top:7px}
+.hero-wpp-link{display:inline-flex;align-items:center;gap:7px;font-family:'Inter',sans-serif;font-size:.84rem;color:#1a7a40;font-weight:600;text-decoration:none;transition:opacity .2s}
+.hero-wpp-link:hover{opacity:.75}
+.hero-right{position:relative;overflow:hidden;min-height:340px}
+.hero-right::before{content:'';position:absolute;top:0;left:0;width:60px;height:100%;background:linear-gradient(90deg,var(--white),transparent);z-index:2;pointer-events:none}
+.hero-right::after{content:'';position:absolute;bottom:0;left:0;right:0;height:4px;background:var(--red);z-index:3}
+.hero-photo{width:100%;height:100%;object-fit:cover;object-position:center center;display:block}
+
+/* ── TRUST BAR ── */
+.trust-bar{background:var(--gold);padding:13px 20px}
+.trust-bar-inner{max-width:1120px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:8px 28px}
+.trust-bar-item{display:flex;align-items:center;gap:7px;font-weight:700;font-size:.84rem;color:var(--ink);white-space:nowrap}
+
+/* ── SHARED ── */
+.section-header{text-align:center;max-width:620px;margin:0 auto 48px}
+.section-eyebrow{display:inline-flex;align-items:center;gap:8px;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;color:var(--teal);margin-bottom:10px}
+.section-eyebrow::before,.section-eyebrow::after{content:'';display:block;width:22px;height:2px;background:var(--teal);border-radius:2px}
+.section-title{font-size:clamp(1.8rem,3.6vw,2.7rem);font-weight:800;color:var(--ink);line-height:1.18;letter-spacing:-.7px;margin-bottom:10px}
+.section-sub{font-family:'Inter',sans-serif;font-size:.98rem;color:var(--muted);line-height:1.72}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:14px 28px;border-radius:50px;font-family:'Outfit',sans-serif;font-weight:700;font-size:.98rem;border:none;cursor:pointer;transition:all .28s var(--ease);white-space:nowrap;text-decoration:none;line-height:1}
+.btn-red{background:linear-gradient(135deg,var(--red),var(--red-dk));color:#fff;box-shadow:0 8px 24px rgba(220,38,38,.3)}
+.btn-red:hover{transform:translateY(-2px);box-shadow:0 14px 36px rgba(220,38,38,.45)}
+.btn-wpp{background:linear-gradient(135deg,#2ECC71,#1aab57);color:#fff;box-shadow:0 8px 24px rgba(37,211,102,.28)}
+.btn-wpp:hover{transform:translateY(-2px)}
+.btn-gold{background:linear-gradient(135deg,var(--gold-glow),var(--gold));color:var(--ink)}
+.btn-gold:hover{transform:translateY(-2px)}
+.btn-outline-teal{background:transparent;color:var(--teal);border:2px solid var(--teal)}
+.btn-outline-teal:hover{background:var(--teal);color:#fff}
+.btn-lg{padding:18px 40px;font-size:1.02rem}
+.btn-sm{padding:10px 20px;font-size:.86rem}
+
+/* ── HOOK ── */
+.hook{padding:88px 20px;background:var(--off-white)}
+.hook-inner{max-width:1120px;margin:0 auto;display:grid;grid-template-columns:1fr;gap:48px;align-items:center}
+.hook-eyebrow{display:inline-block;padding:5px 13px;background:var(--teal-lt);color:var(--teal);border-radius:50px;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:1px;margin-bottom:14px}
+.hook h2{font-size:clamp(1.9rem,3.8vw,2.9rem);font-weight:800;line-height:1.14;letter-spacing:-1px;color:var(--ink);margin-bottom:18px}
+.hook h2 span{color:var(--teal)}
+.hook p{font-family:'Inter',sans-serif;font-size:.98rem;color:var(--muted);line-height:1.82;margin-bottom:14px}
+.hook-img-wrap{border-radius:var(--r);overflow:hidden;aspect-ratio:4/3;box-shadow:var(--sh-lg)}
+.hook-img{width:100%;height:100%;object-fit:cover}
+
+/* ── SERVIÇOS ── */
+.servicos{padding:88px 20px;background:var(--white)}
+.servicos-grid{max-width:1120px;margin:0 auto;display:grid;grid-template-columns:1fr;gap:16px}
+.servico-card{background:var(--off-white);border-radius:var(--r);padding:26px;border:1px solid rgba(0,0,0,.05);transition:all .3s var(--ease);position:relative;overflow:hidden}
+.servico-card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--teal),var(--gold));transform:scaleX(0);transform-origin:left;transition:transform .3s var(--ease)}
+.servico-card:hover{transform:translateY(-4px);box-shadow:var(--sh-md)}
+.servico-card:hover::before{transform:scaleX(1)}
+.servico-icon{width:48px;height:48px;border-radius:12px;background:var(--teal-lt);display:flex;align-items:center;justify-content:center;margin-bottom:14px}
+.servico-icon.red{background:var(--red-lt)}
+.servico-card h3{font-size:1.02rem;font-weight:700;color:var(--ink);margin-bottom:8px}
+.servico-card p{font-family:'Inter',sans-serif;font-size:.88rem;color:var(--muted);line-height:1.7}
+
+/* ── STRIP CTA ── */
+.strip-cta{background:linear-gradient(135deg,var(--ink) 0%,#162035 100%);padding:70px 20px;text-align:center;position:relative;overflow:hidden}
+.strip-cta::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 70% 80% at 50% 110%,rgba(220,38,38,.12),transparent);pointer-events:none}
+.strip-cta-inner{position:relative;z-index:2;max-width:640px;margin:0 auto}
+.strip-cta .tag{font-size:.76rem;font-weight:700;letter-spacing:1.8px;text-transform:uppercase;color:var(--gold);margin-bottom:16px}
+.strip-cta h2{font-size:clamp(1.9rem,4vw,3rem);font-weight:800;color:#fff;line-height:1.12;letter-spacing:-1px;margin-bottom:12px}
+.strip-cta h2 em{font-style:normal;color:#FCA5A5}
+.strip-cta p.sub{font-family:'Inter',sans-serif;color:rgba(255,255,255,.55);font-size:.96rem;margin-bottom:32px}
+.strip-cta-btns{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
+
+/* ── PROCESSO ── */
+.processo{padding:88px 20px;background:var(--off-white)}
+.processo-steps{max-width:960px;margin:0 auto;display:grid;grid-template-columns:1fr;gap:16px}
+.processo-step{display:flex;align-items:flex-start;gap:18px;background:var(--white);border-radius:var(--r);padding:26px;border:1px solid rgba(0,0,0,.05);transition:all .3s var(--ease);position:relative;overflow:hidden}
+.processo-step::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--red),var(--gold));transform:scaleX(0);transform-origin:left;transition:transform .3s var(--ease)}
+.processo-step:hover{transform:translateY(-3px);box-shadow:var(--sh-md)}
+.processo-step:hover::before{transform:scaleX(1)}
+.step-num{flex-shrink:0;width:44px;height:44px;border-radius:50%;background:var(--red);color:#fff;font-weight:800;font-size:1.05rem;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 14px rgba(220,38,38,.3)}
+.step-body h3{font-size:1.02rem;font-weight:700;color:var(--ink);margin-bottom:6px}
+.step-time{font-family:'Inter',sans-serif;font-size:.72rem;font-weight:700;color:var(--teal);text-transform:uppercase;letter-spacing:.5px;margin-bottom:6px}
+.step-body p{font-family:'Inter',sans-serif;font-size:.88rem;color:var(--muted);line-height:1.75}
+
+/* ── DEPOIMENTOS ── */
+.depoimentos{padding:88px 20px;background:var(--white)}
+.testi-grid{max-width:1120px;margin:0 auto;display:grid;grid-template-columns:1fr;gap:16px}
+.testi-card{background:var(--off-white);padding:26px;border-radius:var(--r);border:1px solid rgba(0,0,0,.05);display:flex;flex-direction:column;gap:12px;transition:all .25s var(--ease)}
+.testi-card:hover{transform:translateY(-3px);box-shadow:var(--sh-md)}
+.testi-top{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
+.testi-stars{color:#F59E0B;font-size:.92rem;letter-spacing:1px}
+.testi-google{font-family:'Inter',sans-serif;font-size:.67rem;color:var(--muted);text-transform:uppercase;letter-spacing:.8px}
+.testi-text{font-family:'Inter',sans-serif;font-size:.91rem;color:#4A5568;line-height:1.82;font-style:italic;flex:1}
+.testi-author{font-weight:700;font-size:.9rem;color:var(--ink);border-top:1px solid rgba(0,0,0,.07);padding-top:10px}
+
+/* ── EQUIPE ── */
+.equipe{padding:88px 20px;background:var(--ink)}
+.equipe-foto-wrap{border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-lg);aspect-ratio:16/9;margin-top:44px}
+.equipe-foto{width:100%;height:100%;object-fit:cover;object-position:center top}
+
+/* ── DOUTORES ── */
+.doutores{padding:88px 20px;background:var(--white)}
+.doutores-inner{max-width:1120px;margin:0 auto;display:flex;flex-direction:column;gap:22px}
+.doutor-card{display:flex;flex-direction:column;background:var(--off-white);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-sm);border:1px solid rgba(0,0,0,.04);transition:all .28s var(--ease)}
+.doutor-card:hover{transform:translateY(-4px);box-shadow:var(--sh-md)}
+.doutor-foto{width:100%;aspect-ratio:3/4;object-fit:cover;object-position:center 10%}
+.doutor-info{padding:24px}
+.doutor-nome{font-size:1.2rem;font-weight:800;color:var(--ink);margin-bottom:3px}
+.doutor-titulo{font-family:'Inter',sans-serif;font-size:.73rem;font-weight:700;color:var(--teal);text-transform:uppercase;letter-spacing:.5px;margin-bottom:10px}
+.doutor-bio{font-family:'Inter',sans-serif;font-size:.88rem;color:var(--muted);line-height:1.78}
+
+/* ── FAQ ── */
+.faq{padding:88px 20px;background:var(--off-white)}
+.faq-list{max-width:740px;margin:0 auto;display:flex;flex-direction:column;gap:7px}
+.faq-item{background:var(--white);border-radius:var(--rsm);border:1px solid rgba(0,0,0,.07);overflow:hidden}
+.faq-q{display:flex;justify-content:space-between;align-items:center;padding:17px 20px;cursor:pointer;gap:12px;font-weight:600;font-size:.93rem;color:var(--ink);transition:background .15s;user-select:none}
+.faq-q:hover,.faq-q.open{background:var(--teal-lt)}
+.faq-chevron{flex-shrink:0;width:17px;height:17px;color:var(--teal);transition:transform .3s var(--ease)}
+.faq-q.open .faq-chevron{transform:rotate(180deg)}
+.faq-a{display:grid;grid-template-rows:0fr;transition:grid-template-rows .32s ease}
+.faq-a.open{grid-template-rows:1fr}
+.faq-a-inner{min-height:0;overflow:hidden;padding:0 20px;font-family:'Inter',sans-serif;font-size:.91rem;color:var(--muted);line-height:1.8}
+.faq-a.open .faq-a-inner{padding:0 20px 16px}
+
+/* ── LOCALIZAÇÃO ── */
+.localizacao{padding:88px 20px;background:var(--white)}
+.loc-grid{max-width:1120px;margin:0 auto;display:grid;grid-template-columns:1fr;gap:36px;align-items:start}
+.loc-h{font-size:clamp(1.8rem,3.5vw,2.5rem);font-weight:800;color:var(--ink);line-height:1.18;letter-spacing:-.7px;margin-bottom:14px}
+.loc-h span{color:var(--teal)}
+.loc-p{font-family:'Inter',sans-serif;font-size:.96rem;color:var(--muted);line-height:1.8;margin-bottom:12px}
+.loc-items{display:flex;flex-direction:column;gap:10px;margin:20px 0}
+.loc-item{display:flex;align-items:flex-start;gap:12px;background:var(--off-white);border-radius:var(--rsm);padding:12px 14px;box-shadow:var(--sh-sm);border:1px solid rgba(0,0,0,.04)}
+.loc-icon{flex-shrink:0;width:34px;height:34px;border-radius:9px;background:var(--teal-lt);display:flex;align-items:center;justify-content:center;color:var(--teal)}
+.loc-text{font-family:'Inter',sans-serif;font-size:.86rem;color:var(--ink-soft);line-height:1.6}
+.loc-text strong{display:block;color:var(--ink);font-size:.79rem;text-transform:uppercase;letter-spacing:.5px;margin-bottom:1px}
+.map-wrap{border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-md);aspect-ratio:4/3}
+.map-wrap iframe{width:100%;height:100%;border:0}
+.loc-clinica-foto{border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-md);aspect-ratio:16/9;margin-bottom:14px}
+.loc-clinica-foto img{width:100%;height:100%;object-fit:cover}
+
+/* ── FINAL CTA ── */
+.final-cta{padding:96px 20px;background:linear-gradient(160deg,var(--ink) 0%,#162035 100%);text-align:center;position:relative;overflow:hidden}
+.final-cta::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 80% 60% at 50% 100%,rgba(220,38,38,.12),transparent);pointer-events:none}
+.final-cta-inner{position:relative;z-index:2;max-width:680px;margin:0 auto}
+.final-cta h2{font-size:clamp(2rem,5vw,3.4rem);font-weight:900;color:#fff;line-height:1.1;letter-spacing:-1.5px;margin-bottom:14px}
+.final-cta h2 em{font-style:normal;color:#FCA5A5}
+.final-cta p{font-family:'Inter',sans-serif;color:rgba(255,255,255,.55);font-size:.98rem;margin-bottom:36px}
+.final-cta-btns{display:flex;flex-wrap:wrap;gap:12px;justify-content:center}
+
+/* ── FOOTER ── */
+.lp-footer{background:#070C17;border-top:3px solid var(--red);padding:48px 20px 0}
+.footer-top{max-width:1120px;margin:0 auto 30px;display:flex;flex-direction:column;align-items:center;gap:12px;text-align:center}
+.footer-logo{height:40px;width:auto}
+.footer-tagline{font-family:'Inter',sans-serif;font-size:.78rem;color:rgba(255,255,255,.3)}
+.footer-wpp{display:inline-flex;align-items:center;gap:7px;padding:8px 18px;background:rgba(37,211,102,.08);border:1.5px solid #25D366;border-radius:50px;color:#25D366;font-weight:600;font-size:.84rem;transition:.25s}
+.footer-wpp:hover{background:#25D366;color:#fff}
+.footer-bottom{max-width:1120px;margin:0 auto;border-top:1px solid rgba(255,255,255,.07);padding:14px 0;display:flex;flex-direction:column;align-items:center;gap:7px;text-align:center}
+.footer-epao{font-family:'Inter',sans-serif;font-size:.68rem;color:rgba(255,255,255,.18)}
+.footer-links{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;font-family:'Inter',sans-serif;font-size:.68rem;color:rgba(255,255,255,.18)}
+.footer-links a{color:inherit;text-decoration:underline}
+
+/* ── STICKY MOBILE BAR ── */
+.sticky-bar{position:fixed;left:0;right:0;bottom:0;z-index:800;display:grid;grid-template-columns:1fr 1fr;gap:7px;padding:7px 12px calc(7px + env(safe-area-inset-bottom));background:rgba(255,255,255,.96);backdrop-filter:blur(12px);border-top:1px solid rgba(11,17,32,.08)}
+.sticky-bar a{display:flex;align-items:center;justify-content:center;gap:5px;font-family:'Outfit',sans-serif;font-size:.73rem;font-weight:600;padding:8px 5px;border-radius:8px;text-decoration:none;line-height:1;min-height:34px;transition:opacity .15s}
+.sticky-bar a:active{opacity:.8}
+.sticky-bar .sb-wpp{background:#25d366;color:#fff}
+.sticky-bar .sb-tel{background:var(--red);color:#fff}
+.sticky-wpp{position:fixed;bottom:32px;right:28px;z-index:800;width:56px;height:56px;border-radius:50%;background:#25d366;box-shadow:0 4px 18px rgba(37,211,102,.5);display:none;align-items:center;justify-content:center;color:#fff;transition:transform .2s,box-shadow .2s;text-decoration:none}
+.sticky-wpp:hover{transform:scale(1.1);box-shadow:0 6px 24px rgba(37,211,102,.65)}
+
+/* ── RESPONSIVE ── */
+@media(min-width:640px){.servicos-grid{grid-template-columns:1fr 1fr}.testi-grid{grid-template-columns:1fr 1fr}}
+@media(min-width:760px){
+  .hero-split{grid-template-columns:1.2fr 1fr;min-height:calc(100svh - 81px)}
+  .hero-right{min-height:unset}
+  .hero-cta-primary{width:auto;animation:none}
+  .hero-cta-primary:hover{animation:none}
+  .sticky-top-bar{display:flex}
+  .sticky-wpp{display:flex}
+  .sticky-bar{display:none}
+}
+@media(min-width:900px){
+  .hook-inner{grid-template-columns:1fr 1fr}
+  .doutores-inner{flex-direction:row}
+  .doutor-card{flex:1}
+  .loc-grid{grid-template-columns:1fr 1fr}
+  .processo-steps{grid-template-columns:repeat(3,1fr)}
+  .processo-step{flex-direction:column}
+  .servicos-grid{grid-template-columns:repeat(3,1fr)}
+  .testi-grid{grid-template-columns:repeat(3,1fr)}
+  .footer-bottom{flex-direction:row;justify-content:space-between}
+}
+@media(max-width:759px){body{padding-bottom:56px}}
+</style>
+
+<!-- STICKY DESKTOP TOP BAR -->
+<div class="sticky-top-bar" id="stickyTopBar">
+  <div class="stb-left">
+    <span class="stb-dot"></span>
+    Emergência dentária · MD Frossard · Barra da Tijuca
+  </div>
+  <div class="stb-right">
+    <a href="tel:21976637803" class="stb-tel" onclick="return gtagSendEventTelefone(this.href)">
+      <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+      (21) 97663-7803
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5521976637803" class="stb-wpp" onclick="return gtagSendEventWhatsapp(this.href)">
+      <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>
+      WhatsApp
+    </a>
+  </div>
+</div>
+
+<!-- URGENCY TICKER -->
+<div class="urgency-ticker">
+  <span class="dot"></span>
+  Emergência dentária?
+  <a href="tel:21976637803" onclick="return gtagSendEventTelefone(this.href)">(21) 97663-7803</a>
+  &nbsp;·&nbsp; Barra da Tijuca · Ligue e confirme o horário
+  <span class="dot"></span>
+</div>
+
+<!-- HERO -->
+<section class="hero">
+  <nav class="hero-nav">
+    <a href="/">
+      <img src="/images/logo_branco.webp" alt="MD Frossard Odontologia" class="hero-logo" width="224" height="56" loading="eager">
+    </a>
+    <a href="tel:2132170430" class="hero-nav-tel" onclick="return gtagSendEventTelefone(this.href)">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+      (21) 3217-0430
+    </a>
+  </nav>
+
+  <div class="hero-split">
+    <div class="hero-left">
+      <div class="hero-left-inner">
+        <div class="hero-badge">
+          <span class="live"></span>
+          Emergência Dental · Barra da Tijuca
+        </div>
+        <h1>
+          Dor de dente<br>
+          <span class="red">na Barra?</span><br>
+          Atendimento rápido.
+        </h1>
+        <div class="hero-stars">
+          <span class="s">★★★★★</span>
+          <strong>4.9</strong>
+          <span>· +100 avaliações no Google</span>
+        </div>
+        <div class="hero-avail">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
+          Atendimento disponível — ligue e confirme o horário
+        </div>
+        <a href="tel:21976637803" class="hero-cta-primary" onclick="return gtagSendEventTelefone(this.href)">
+          <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+          Ligar agora — (21) 97663-7803
+        </a>
+        <div class="hero-callback">
+          <div class="hero-callback-label">
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            Prefere que a gente te ligue?
+          </div>
+          <div class="hero-callback-fields">
+            <input type="text" placeholder="Seu nome" autocomplete="given-name">
+            <input type="tel" placeholder="Telefone / WhatsApp" autocomplete="tel">
+            <button type="button">Me ligue →</button>
+          </div>
+          <p class="hero-callback-note">Vamos abrir o WhatsApp com sua mensagem pré-preenchida.</p>
+        </div>
+        <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C+estou+com+uma+urg%C3%AAncia+dent%C3%A1ria."
+           class="hero-wpp-link" onclick="return gtagSendEventWhatsapp(this.href)">
+          <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>
+          Também atendemos pelo WhatsApp
+        </a>
+      </div>
+    </div>
+    <div class="hero-right">
+      <img src="/images/lps/marcos-atendimento-emergencia.webp"
+           alt="Dr. Marcos Frossard atendendo paciente — Dentista emergência Barra da Tijuca"
+           class="hero-photo" loading="eager" width="1200" height="1016">
+    </div>
+  </div>
+</section>
+
+<!-- TRUST BAR -->
+<div class="trust-bar">
+  <div class="trust-bar-inner">
+    <div class="trust-bar-item">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
+      Atendimento rápido
+    </div>
+    <div class="trust-bar-item">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
+      Anestesia indolor
+    </div>
+    <div class="trust-bar-item">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
+      38 anos de experiência
+    </div>
+    <div class="trust-bar-item">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
+      Diagnóstico no mesmo dia
+    </div>
+  </div>
+</div>
+
+<!-- HOOK -->
+<section class="hook">
+  <div class="hook-inner c">
+    <div class="rv">
+      <span class="hook-eyebrow">Emergência dentária</span>
+      <h2>Não espere a dor<br><span>virar algo pior</span></h2>
+      <p>Uma dor ignorada pode se transformar em infecção, perda óssea ou um tratamento muito mais complexo. Na MD Frossard, você é atendido com agilidade — diagnóstico preciso e alívio imediato.</p>
+      <p>São 38 anos cuidando de emergências na Barra da Tijuca. Pai e filho, sempre prontos para te atender com segurança.</p>
+      <div style="margin-top:24px;display:flex;flex-wrap:wrap;gap:10px">
+        <a href="tel:21976637803" class="btn btn-red" onclick="return gtagSendEventTelefone(this.href)">Ligar agora: (21) 97663-7803</a>
+      </div>
+    </div>
+    <div class="hook-img-wrap rv d2">
+      <img src="/images/atendimento_davi_novo.webp" alt="Atendimento odontológico MD Frossard" class="hook-img" loading="lazy" width="600" height="450">
+    </div>
+  </div>
+</section>
+
+<!-- SERVIÇOS -->
+<section class="servicos">
+  <div class="c">
+    <div class="section-header rv">
+      <p class="section-eyebrow">Quando procurar</p>
+      <h2 class="section-title">Emergências que atendemos</h2>
+      <p class="section-sub">Se você está com algum desses sintomas, entre em contato agora. Quanto antes, melhor o resultado.</p>
+    </div>
+    <div class="servicos-grid">
+      <div class="servico-card rv">
+        <div class="servico-icon red"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" stroke="#DC2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg></div>
+        <h3>Dor de Dente Aguda</h3>
+        <p>Dor intensa ou latejante que não cede com analgésico. Pode indicar infecção, cárie profunda ou problema no nervo.</p>
+      </div>
+      <div class="servico-card rv d1">
+        <div class="servico-icon red"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" stroke="#DC2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg></div>
+        <h3>Dente Quebrado ou Trincado</h3>
+        <p>Fratura por trauma ou mordida. Quanto mais rápido o atendimento, maiores as chances de salvar o dente.</p>
+      </div>
+      <div class="servico-card rv d2">
+        <div class="servico-icon"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" stroke="var(--teal)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg></div>
+        <h3>Restauração Solta ou Perdida</h3>
+        <p>Obturação, coroa ou prótese que caiu. Recolocamos ou substituímos para proteger o dente exposto.</p>
+      </div>
+      <div class="servico-card rv">
+        <div class="servico-icon red"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" stroke="#DC2626" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M14 14.76V3.5a2.5 2.5 0 0 0-5 0v11.26a4.5 4.5 0 1 0 5 0z"/></svg></div>
+        <h3>Inchaço ou Abscesso</h3>
+        <p>Inchaço no rosto ou gengiva com pus. Infecção que precisa de drenagem e tratamento urgente.</p>
+      </div>
+      <div class="servico-card rv d1">
+        <div class="servico-icon"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" stroke="var(--teal)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"/></svg></div>
+        <h3>Sangramento Gengival Intenso</h3>
+        <p>Sangramento que não para após escovação ou trauma. Pode indicar doença periodontal avançada.</p>
+      </div>
+      <div class="servico-card rv d2">
+        <div class="servico-icon"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" stroke="var(--teal)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg></div>
+        <h3>Sensibilidade Extrema</h3>
+        <p>Dor aguda ao quente, frio ou doce que não cede. Sinal de exposição da raiz ou cárie profunda.</p>
+      </div>
+    </div>
+    <div style="text-align:center;margin-top:36px" class="rv">
+      <a href="tel:21976637803" class="btn btn-red btn-lg" onclick="return gtagSendEventTelefone(this.href)">Estou com um desses sintomas — Ligar agora</a>
+    </div>
+  </div>
+</section>
+
+<!-- STRIP CTA -->
+<section class="strip-cta">
+  <div class="strip-cta-inner rv">
+    <p class="tag">⏱ Cada minuto conta</p>
+    <h2>Dor não espera.<br><em>Ligue agora.</em></h2>
+    <p class="sub">Atendimento de emergência. Barra da Tijuca.</p>
+    <div class="strip-cta-btns">
+      <a href="tel:21976637803" class="btn btn-red btn-lg" onclick="return gtagSendEventTelefone(this.href)">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+        (21) 97663-7803
+      </a>
+      <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-wpp btn-lg" onclick="return gtagSendEventWhatsapp(this.href)">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>
+        WhatsApp urgente
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- PROCESSO -->
+<section class="processo">
+  <div class="c">
+    <div class="section-header rv">
+      <p class="section-eyebrow">Como funciona</p>
+      <h2 class="section-title">Da ligação ao alívio:<br>3 passos simples</h2>
+      <p class="section-sub">Processo direto — sem burocracia, sem espera desnecessária.</p>
+    </div>
+    <div class="processo-steps">
+      <div class="processo-step rv">
+        <div class="step-num">1</div>
+        <div class="step-body">
+          <div class="step-time">⚡ Agora</div>
+          <h3>Ligue ou mande mensagem</h3>
+          <p>Entre em contato pelo telefone ou WhatsApp e descreva o que está sentindo. Resposta imediata — sem formulários.</p>
+        </div>
+      </div>
+      <div class="processo-step rv d1">
+        <div class="step-num">2</div>
+        <div class="step-body">
+          <div class="step-time">📅 No mesmo dia</div>
+          <h3>Confirme o horário</h3>
+          <p>Agendamos para o próximo horário disponível. Confirmamos por telefone ou WhatsApp — sem burocracia.</p>
+        </div>
+      </div>
+      <div class="processo-step rv d2">
+        <div class="step-num">3</div>
+        <div class="step-body">
+          <div class="step-time">✅ Na consulta</div>
+          <h3>Diagnóstico + alívio na hora</h3>
+          <p>Identificamos a causa, iniciamos o tratamento e você sai com alívio real e um plano claro para a solução definitiva.</p>
+        </div>
+      </div>
+    </div>
+    <div style="text-align:center;margin-top:36px" class="rv">
+      <a href="tel:21976637803" class="btn btn-red btn-lg" onclick="return gtagSendEventTelefone(this.href)">Ligar agora: (21) 97663-7803</a>
+    </div>
+  </div>
+</section>
+
+<!-- DEPOIMENTOS -->
+<section class="depoimentos">
+  <div class="c">
+    <div class="section-header rv">
+      <p class="section-eyebrow">O que dizem</p>
+      <h2 class="section-title">+100 avaliações ⭐⭐⭐⭐⭐ no Google</h2>
+      <p class="section-sub">Pacientes que voltam — e indicam para família e amigos.</p>
+    </div>
+    <div class="testi-grid">
+      <div class="testi-card rv">
+        <div class="testi-top"><span class="testi-stars">★★★★★</span><span class="testi-google">Google</span></div>
+        <p class="testi-text">"Cheguei à Clínica MD Frossard através de uma pesquisa na internet. Nunca fui tão bem atendida e tão acolhida. Voltei a confiar em dentista após ser tratada pelo Dr Marcos e pelo Dr David, a segurança e a delicadeza com que falam com seus pacientes faz toda a diferença. Indico de olhos fechados!"</p>
+        <div class="testi-author">Elisa d'Arêde</div>
+      </div>
+      <div class="testi-card rv d1">
+        <div class="testi-top"><span class="testi-stars">★★★★★</span><span class="testi-google">Google</span></div>
+        <p class="testi-text">"Fiquei super satisfeito com o processo e resultado do tratamento na Md Frossard Odontologia. Nota 10 em todos os quesitos para a equipe comandada pelos Drs. Marcos e seu filho David. Destaque para o clima de gentileza, pontualidade e responsabilidade."</p>
+        <div class="testi-author">Otávio Azevedo</div>
+      </div>
+      <div class="testi-card rv d2">
+        <div class="testi-top"><span class="testi-stars">★★★★★</span><span class="testi-google">Google</span></div>
+        <p class="testi-text">"Sempre tive pânico de dentista, algo que me impediu de ir por 15 anos. Quando encontrei a MD Frossard estava apavorada mas eles foram essenciais para que eu finalmente me cuidasse. Dr Davi, Dr Marcos, a querida Lili e todo o time, vocês são demais!"</p>
+        <div class="testi-author">Larissa Rodrigues</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- EQUIPE -->
+<section class="equipe">
+  <div class="c">
+    <div class="section-header rv" style="max-width:640px">
+      <p class="section-eyebrow" style="color:var(--gold)">
+        <span style="background:var(--gold);display:block;width:22px;height:2px;border-radius:2px"></span>
+        Nossa equipe
+        <span style="background:var(--gold);display:block;width:22px;height:2px;border-radius:2px"></span>
+      </p>
+      <h2 class="section-title" style="color:#fff">Pai e filho.<br>E uma equipe que faz a diferença.</h2>
+      <p class="section-sub" style="color:rgba(255,255,255,.55)">38 anos de odontologia de excelência na Barra da Tijuca.</p>
+    </div>
+    <div class="equipe-foto-wrap rv">
+      <img src="/images/lps/equipe-md-frossard-odontologia.webp" alt="Equipe MD Frossard Odontologia" class="equipe-foto" loading="lazy" width="1400" height="788">
+    </div>
+  </div>
+</section>
+
+<!-- DOUTORES -->
+<section class="doutores">
+  <div class="c">
+    <div class="section-header rv">
+      <p class="section-eyebrow">Quem te atende</p>
+      <h2 class="section-title">Dois especialistas.<br>Uma visão compartilhada.</h2>
+    </div>
+    <div class="doutores-inner">
+      <div class="doutor-card rv">
+        <img src="/images/equipe_marcos.webp" alt="Dr. Marcos Frossard — Dentista Emergência Barra da Tijuca" class="doutor-foto" loading="lazy" width="400" height="533">
+        <div class="doutor-info">
+          <div class="doutor-nome">Dr. Marcos Frossard</div>
+          <div class="doutor-titulo">CRO-RJ 8058 · Prótese &amp; Estética · 38 anos</div>
+          <p class="doutor-bio">Fundador da clínica e referência em odontologia restauradora no Rio de Janeiro. Especialista em reabilitação completa de sorrisos com mais de três décadas de experiência.</p>
+        </div>
+      </div>
+      <div class="doutor-card rv d1">
+        <img src="/images/equipe_davi.webp" alt="Dr. Davi Frossard — Implantodontia Barra da Tijuca" class="doutor-foto" loading="lazy" width="400" height="533">
+        <div class="doutor-info">
+          <div class="doutor-nome">Dr. Davi Frossard</div>
+          <div class="doutor-titulo">CRO-RJ 36193 · Implantodontia &amp; Reabilitação</div>
+          <p class="doutor-bio">Especialista em implantes e reabilitação oral com foco em precisão digital. Scanner iTero para planejamento 3D — mais conforto e resultado previsível.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="faq">
+  <div class="c">
+    <div class="section-header rv">
+      <p class="section-eyebrow">Dúvidas</p>
+      <h2 class="section-title">Perguntas frequentes</h2>
+    </div>
+    <div class="faq-list">
+      <div class="faq-item rv"><div class="faq-q">Vocês atendem emergência com rapidez?<svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></div><div class="faq-a"><div class="faq-a-inner">Sim. Atendemos emergências com agilidade. Basta ligar ou enviar mensagem pelo WhatsApp para (21) 97663-7803 e confirmaremos o próximo horário disponível.</div></div></div>
+      <div class="faq-item rv d1"><div class="faq-q">O que fazer com dor de dente forte?<svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></div><div class="faq-a"><div class="faq-a-inner">Entre em contato imediatamente. Evite automedicação prolongada. A dor forte pode indicar infecção, fratura ou comprometimento do nervo — quanto antes o tratamento, melhor o resultado.</div></div></div>
+      <div class="faq-item rv d2"><div class="faq-q">Quebrei um dente — o que faço?<svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></div><div class="faq-a"><div class="faq-a-inner">Guarde o fragmento se possível, enxágue a boca com água morna e entre em contato conosco imediatamente. Quanto mais rápido o atendimento, maiores as chances de restauração.</div></div></div>
+      <div class="faq-item rv"><div class="faq-q">Quanto custa uma consulta de emergência?<svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></div><div class="faq-a"><div class="faq-a-inner">O valor depende do procedimento necessário. Na consulta, fazemos o diagnóstico e apresentamos as opções com orçamento transparente antes de qualquer procedimento.</div></div></div>
+      <div class="faq-item rv d1"><div class="faq-q">Vocês atendem por plano de saúde?<svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></div><div class="faq-a"><div class="faq-a-inner">A clínica trabalha com atendimento particular. Isso nos permite oferecer o melhor material, tecnologia e tempo dedicado a cada paciente.</div></div></div>
+      <div class="faq-item rv d2"><div class="faq-q">Onde fica a clínica na Barra da Tijuca?<svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></div><div class="faq-a"><div class="faq-a-inner">Estamos no Shopping Città America, Av. das Américas, 700 — Bloco 2, Sala 143. Fácil acesso e estacionamento disponível.</div></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- LOCALIZAÇÃO -->
+<section class="localizacao">
+  <div class="c">
+    <div class="loc-grid">
+      <div class="rv">
+        <h2 class="loc-h">Fácil de chegar<br>na <span>Barra da Tijuca</span></h2>
+        <p class="loc-p">No Shopping Città America, com acesso direto pela Av. das Américas e estacionamento disponível.</p>
+        <div class="loc-items">
+          <div class="loc-item">
+            <div class="loc-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></div>
+            <div class="loc-text"><strong>Endereço</strong>Av. das Américas, 700 — Bloco 2, Sala 143<br>Shopping Città America · CEP 22640-100</div>
+          </div>
+          <div class="loc-item">
+            <div class="loc-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></div>
+            <div class="loc-text"><strong>Horário</strong>Seg, Qua e Sex, das 8h às 18h</div>
+          </div>
+          <div class="loc-item">
+            <div class="loc-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg></div>
+            <div class="loc-text"><strong>Contato</strong><a href="tel:2132170430" style="color:var(--teal);font-weight:600" onclick="return gtagSendEventTelefone(this.href)">(21) 3217-0430</a> &nbsp;·&nbsp; <a href="tel:21976637803" style="color:var(--teal);font-weight:600" onclick="return gtagSendEventTelefone(this.href)">(21) 97663-7803</a></div>
+          </div>
+        </div>
+        <div style="display:flex;flex-wrap:wrap;gap:10px">
+          <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-wpp btn-sm" onclick="return gtagSendEventWhatsapp(this.href)">WhatsApp</a>
+          <a href="https://share.google/dByZdhTbp6XWBuVqh" target="_blank" rel="noopener" class="btn btn-sm btn-outline-teal">Ver no Maps</a>
+        </div>
+      </div>
+      <div class="rv d1">
+        <div class="loc-clinica-foto">
+          <img src="/images/blog_clinica_barra.webp" alt="Clínica MD Frossard — Barra da Tijuca" loading="lazy" width="800" height="450">
+        </div>
+        <div class="map-wrap">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.8!2d-43.3241!3d-23.0019!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bdec44e3e9c1f%3A0x8e9b8b8b8b8b8b8b!2sAv.%20das%20Am%C3%A9ricas%2C%20700%20-%20Barra%20da%20Tijuca!5e0!3m2!1spt-BR!2sbr!4v1617000000000"
+                  title="MD Frossard Odontologia" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FINAL CTA -->
+<section class="final-cta">
+  <div class="final-cta-inner rv">
+    <h2>Dor não espera.<br><em>Ligue agora.</em></h2>
+    <p>Emergência dentária na Barra da Tijuca. Ligue e confirme o horário.</p>
+    <div class="final-cta-btns">
+      <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-wpp btn-lg" onclick="return gtagSendEventWhatsapp(this.href)">Agendar pelo WhatsApp</a>
+      <a href="tel:2132170430" class="btn btn-gold" onclick="return gtagSendEventTelefone(this.href)">(21) 3217-0430</a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="lp-footer">
+  <div class="footer-top">
+    <img src="/images/logo_branco.webp" alt="MD Frossard Odontologia" class="footer-logo" width="150" height="40" loading="lazy">
+    <p class="footer-tagline">Odontologia de Emergência · Barra da Tijuca · 38 anos de experiência</p>
+    <a href="https://api.whatsapp.com/send?phone=5521976637803" class="footer-wpp" onclick="return gtagSendEventWhatsapp(this.href)">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>
+      Falar pelo WhatsApp
+    </a>
+  </div>
+  <div class="footer-bottom">
+    <p class="footer-epao">EPAO 3415 · Dr. Marcos Frossard — CRO-RJ 8058 · RT: Dr. Davi H. Frossard — CRO-RJ 36193</p>
+    <div class="footer-links">
+      <span>© 2025 MD Frossard. Todos os direitos reservados.</span>
+      <a href="/privacidade/" target="_blank" rel="noopener">Política de Privacidade</a>
+    </div>
+  </div>
+</footer>
+
+<!-- Sticky bar mobile -->
+<div class="sticky-bar">
+  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="sb-wpp" onclick="return gtagSendEventWhatsapp(this.href)">
+    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>
+    WhatsApp
+  </a>
+  <a href="tel:21976637803" class="sb-tel" onclick="return gtagSendEventTelefone(this.href)">
+    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+    Ligar
+  </a>
+</div>
+
+<!-- Sticky WPP desktop -->
+<a href="https://api.whatsapp.com/send?phone=5521976637803" class="sticky-wpp" aria-label="WhatsApp" onclick="return gtagSendEventWhatsapp(this.href)">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>
+</a>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  // FAQ accordion
+  document.querySelectorAll('.faq-q').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const item = btn.closest('.faq-item');
+      const ans = item.querySelector('.faq-a');
+      const isOpen = btn.classList.contains('open');
+      document.querySelectorAll('.faq-q').forEach(b => {
+        b.classList.remove('open');
+        b.closest('.faq-item').querySelector('.faq-a').classList.remove('open');
+      });
+      if (!isOpen) { btn.classList.add('open'); ans.classList.add('open'); }
+    });
+  });
+
+  // Scroll reveal
+  const obs = new IntersectionObserver(entries => {
+    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('on'); obs.unobserve(e.target); }});
+  }, { threshold: 0.08, rootMargin: '0px 0px -32px 0px' });
+  document.querySelectorAll('.rv').forEach(el => obs.observe(el));
+
+  // Sticky top bar — aparece após 60% do hero
+  const stickyBar = document.getElementById('stickyTopBar');
+  if (stickyBar) {
+    const heroEl = document.querySelector('.hero');
+    const showAfter = heroEl ? heroEl.offsetHeight * 0.6 : 400;
+    window.addEventListener('scroll', () => {
+      stickyBar.classList.toggle('visible', window.scrollY > showAfter);
+    }, { passive: true });
+  }
+
+  // Callback form → WhatsApp redirect
+  const callbackBtn = document.querySelector('.hero-callback button');
+  if (callbackBtn) {
+    callbackBtn.addEventListener('click', () => {
+      const nameEl = document.querySelector('.hero-callback input[type=text]');
+      const telEl  = document.querySelector('.hero-callback input[type=tel]');
+      const name = nameEl.value.trim();
+      const tel  = telEl.value.trim();
+      if (!name || !tel) {
+        [nameEl, telEl].forEach(el => {
+          if (!el.value.trim()) el.style.borderColor = 'var(--red)';
+        });
+        return;
+      }
+      const msg = encodeURIComponent(
+        'Olá! Meu nome é ' + name + ' e meu telefone é ' + tel + '. ' +
+        'Gostaria que vocês me ligassem para agendar um atendimento de emergência.'
+      );
+      window.open('https://api.whatsapp.com/send?phone=5521976637803&text=' + msg, '_blank');
+      callbackBtn.textContent = '✓ WhatsApp aberto!';
+      callbackBtn.style.background = '#16a34a';
+      callbackBtn.disabled = true;
+    });
+  }
+});
+</script>
