@@ -69,6 +69,27 @@ noindex: true
 </script>
 
 <style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --ivory:#F8F6F1;
+  --ivory-dark:#EDE8DC;
+  --navy:#0C1E3C;
+  --navy-soft:#162D50;
+  --gold:#C4943A;
+  --gold-glow:#DEB55A;
+  --gold-light:#F5ECDA;
+  --gold-dark:#9A6E1E;
+  --ink:#111827;
+  --muted:#6B7480;
+  --white:#fff;
+  --ease:cubic-bezier(.25,.46,.45,.94);
+  --sh-sm:0 2px 8px rgba(0,0,0,.07);
+  --sh-md:0 8px 28px rgba(0,0,0,.11);
+  --sh-lg:0 20px 60px rgba(0,0,0,.16);
+  --r:12px;
+}
+html{scroll-behavior:smooth}
+
 body{font-family:'Inter',sans-serif;color:var(--ink);background:var(--white);-webkit-font-smoothing:antialiased;padding-top:92px}
 img{display:block;max-width:100%}
 a{text-decoration:none;color:inherit}
