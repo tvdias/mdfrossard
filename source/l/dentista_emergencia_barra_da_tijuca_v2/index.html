@@ -113,11 +113,7 @@ a{text-decoration:none;color:inherit}
 
 /* ── HERO ── */
 .hero{background:var(--white);min-height:100svh;display:flex;flex-direction:column;position:relative;overflow:hidden}
-.hero::before{
-  content:'';position:absolute;inset:0;
-  background-image:linear-gradient(rgba(11,17,32,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(11,17,32,.04) 1px,transparent 1px);
-  background-size:40px 40px;pointer-events:none;z-index:0;
-}
+
 .hero-nav{display:flex;justify-content:space-between;align-items:center;padding:20px 28px;position:relative;z-index:10;border-bottom:1px solid rgba(11,17,32,.07)}
 .hero-logo{height:56px;width:auto;filter:brightness(0)}
 .hero-nav-tel{display:inline-flex;align-items:center;gap:7px;color:var(--ink);font-weight:700;font-size:.85rem;background:var(--red-lt);border:1.5px solid rgba(220,38,38,.25);padding:9px 16px;border-radius:50px;transition:.25s var(--ease)}
@@ -129,7 +125,7 @@ a{text-decoration:none;color:inherit}
 .hero-badge .live{width:8px;height:8px;border-radius:50%;background:var(--red);animation:blink 1s ease-in-out infinite;flex-shrink:0}
 .hero h1{
   font-family:'Barlow Condensed','Outfit',sans-serif;
-  font-size:clamp(3.4rem,6.5vw,6rem);font-weight:900;
+  font-size:clamp(2.4rem,4.5vw,4rem);font-weight:900;
   line-height:.95;letter-spacing:-.5px;
   color:var(--ink);margin-bottom:16px;text-transform:uppercase;
 }
@@ -150,15 +146,15 @@ a{text-decoration:none;color:inherit}
 }
 @keyframes pulse-cta{0%,100%{box-shadow:0 8px 28px rgba(220,38,38,.35)}50%{box-shadow:0 8px 36px rgba(220,38,38,.6),0 0 0 8px rgba(220,38,38,.08)}}
 .hero-cta-primary:hover{transform:translateY(-3px);animation:none;box-shadow:0 14px 40px rgba(220,38,38,.5)}
-.hero-callback{background:var(--off-white);border:1px solid rgba(11,17,32,.1);border-radius:var(--r);padding:16px 18px;margin-bottom:16px}
-.hero-callback-label{font-family:'Inter',sans-serif;font-size:.76rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;margin-bottom:10px;display:flex;align-items:center;gap:6px}
-.hero-callback-fields{display:flex;gap:8px;flex-wrap:wrap}
-.hero-callback input{flex:1;min-width:120px;font-family:'Inter',sans-serif;font-size:.88rem;padding:10px 13px;border-radius:var(--rsm);border:1.5px solid rgba(11,17,32,.15);background:var(--white);color:var(--ink);transition:border .2s;outline:none}
-.hero-callback input:focus{border-color:var(--teal)}
-.hero-callback input::placeholder{color:var(--muted)}
-.hero-callback button{padding:10px 18px;border-radius:var(--rsm);background:var(--ink);color:#fff;font-family:'Outfit',sans-serif;font-weight:700;font-size:.88rem;border:none;cursor:pointer;white-space:nowrap;transition:background .2s}
-.hero-callback button:hover{background:var(--ink-mid)}
-.hero-callback-note{font-family:'Inter',sans-serif;font-size:.68rem;color:var(--muted);margin-top:7px}
+
+
+
+
+
+
+
+
+
 .hero-wpp-link{display:inline-flex;align-items:center;gap:7px;font-family:'Inter',sans-serif;font-size:.84rem;color:#1a7a40;font-weight:600;text-decoration:none;transition:opacity .2s}
 .hero-wpp-link:hover{opacity:.75}
 .hero-right{position:relative;overflow:hidden;min-height:340px;clip-path:polygon(9% 0%,100% 0%,100% 100%,0% 100%)}
@@ -406,18 +402,6 @@ a{text-decoration:none;color:inherit}
           <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
           Ligar agora — (21) 97663-7803
         </a>
-        <div class="hero-callback">
-          <div class="hero-callback-label">
-            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-            Prefere que a gente te ligue?
-          </div>
-          <div class="hero-callback-fields">
-            <input type="text" placeholder="Seu nome" autocomplete="given-name">
-            <input type="tel" placeholder="Telefone / WhatsApp" autocomplete="tel">
-            <button type="button">Me ligue →</button>
-          </div>
-          <p class="hero-callback-note">Vamos abrir o WhatsApp com sua mensagem pré-preenchida.</p>
-        </div>
         <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C+estou+com+uma+urg%C3%AAncia+dent%C3%A1ria."
            class="hero-wpp-link" onclick="return gtagSendEventWhatsapp(this.href)">
           <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>
