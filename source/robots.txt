@@ -26,4 +26,4 @@ Allow: /
 Sitemap: https://mdfrossard.com.br/sitemap.xml
 
 # Referência para modelos de linguagem e crawlers de IA
-LLMs: https://mdfrossard.com.br/llms.txt
+# LLMs.txt: https://mdfrossard.com.br/llms.txt
