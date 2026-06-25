@@ -1,5 +1,5 @@
 ---
-title: 'Dentista na Barra da Tijuca: Clínica MD Frossard'
+title: 'Clínica MD Frossard na Barra da Tijuca (Città América)'
 author: Davi Heringer Frossard
 description: "Dentista na Barra da Tijuca há 38 anos. Implantes, facetas e reabilitação oral com 3 especialistas titulados, no Shopping Città América. Agende sua avaliação."
 date: 2014-05-12T11:02:32.000Z
@@ -21,7 +21,9 @@ faqs:
     answer: "Sim. Atendemos pacientes de toda a região Oeste do Rio: Barra da Tijuca, Recreio dos Bandeirantes, Jacarepaguá, São Conrado, Itanhangá e Joá. Nossa localização no Shopping Città América (Av. das Américas, 700) facilita o acesso por todas essas regiões."
 ---
 
-## Dentista na Barra da Tijuca: Excelência e Cuidado Especializado
+> Procurando um **[dentista na Barra da Tijuca](/)**? Esta página apresenta a nossa unidade no Shopping Città América. Conheça a estrutura e a equipe abaixo, ou fale agora pelo **[WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)**.
+
+## Sobre a nossa unidade na Barra da Tijuca
 
 Se você procura um excelente **dentista na Barra da Tijuca** que combine tradição familiar com o que há de mais moderno na odontologia, a **MD Frossard Odontologia** é o seu destino ideal. Com mais de 38 anos de atuação no Rio de Janeiro, nossa unidade na Barra foi planejada para oferecer um padrão de atendimento diferenciado, focado em resultados estéticos e funcionais de alta performance.
 
