@@ -111,3 +111,4 @@ Retorne o seu cuidado pessoal Frossard rotineiro sem dores escondidas da agenda 
 Um abraço cordial protetor.
 
 ---
+Atendemos casos de sangramento gengival na nossa clínica de [dentista na Barra da Tijuca](/dentista-barra-da-tijuca/), com avaliação periodontal completa.

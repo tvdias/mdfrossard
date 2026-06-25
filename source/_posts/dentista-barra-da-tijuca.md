@@ -173,6 +173,14 @@ Sim. Atendemos pacientes de toda a região Oeste do Rio: Barra da Tijuca, Recrei
 
 ---
 
+## Conheça mais sobre a nossa clínica na Barra
+
+- [Como escolher um dentista na Barra da Tijuca: 7 critérios](/dentistas-na-barra-da-tijuca/) — o que avaliar antes de marcar a primeira consulta.
+- [Estrutura da clínica odontológica na Barra](/clinica-odontologica-barra-da-tijuca/) — salas, equipamentos e biossegurança.
+- [Avaliações reais dos nossos pacientes](/dentista-mais-bem-avaliados-barra-da-tijuca/) — nota 5,0 no Google.
+
+---
+
 ## Agende sua visita hoje mesmo
 
 Se você valoriza pontualidade, tecnologia de ponta e um atendimento que entende de verdade as suas necessidades, venha conhecer o melhor **dentista na Barra da Tijuca**. 

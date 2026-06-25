@@ -82,3 +82,4 @@ Caso você não trate a inflamação da gengiva, pode-se ter inúmeros problemas
 *  Perda do dente
 
 Enfim, procure atendimento o quanto antes para o tratamento da gengiva inflamada. Suas consequências podem ser muito ruins para você.
+Não conviva com o desconforto: agende uma avaliação com um [dentista na Barra da Tijuca](/dentista-barra-da-tijuca/) e cuide da sua [saúde gengival](/tratamentos/periodontia/) com quem é especialista.

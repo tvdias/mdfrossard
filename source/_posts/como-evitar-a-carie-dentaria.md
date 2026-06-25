@@ -101,3 +101,4 @@ Traga o seu cuidado pessoal imediato nas unidades Frossard de luxo.
 Um abraço cuidadoso!
 
 ---
+Prevenção começa com acompanhamento regular: conte com um [dentista na Barra da Tijuca](/dentista-barra-da-tijuca/) para check-ups e orientação preventiva.
