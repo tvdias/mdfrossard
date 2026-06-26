@@ -89,6 +89,8 @@ Não deixe uma pequena ferida estragar o prazer da sua alimentação. Na MD Fros
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Avaliar a Saúde da Minha Boca</a>
 </div>
 
+Aftas que não cicatrizam em até duas semanas merecem avaliação. Se precisar, marque com um [dentista no Rio de Janeiro](/) de confiança.
+
 Um abraço, 
 
 **Dra. Luciana Vieira Peroni e Equipe**

@@ -97,6 +97,8 @@ Não conviva com a dúvida. Agende uma limpeza hoje e sinta a diferença de uma 
   <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Avaliar o Meu Hálito e Me Sentir Seguro</a>
 </div>
 
+O mau hálito persistente quase sempre tem causa tratável. Agende uma avaliação com a [MD Frossard Odontologia](/) e descubra a origem.
+
 Um abraço, 
 
 **Dr. Davi Frossard e Equipe**

@@ -62,4 +62,6 @@ Outra opção é o **irrigador oral** (ou flosser de água), que usa um jato de 
 
 A mensagem é simples: **a escova limpa as superfícies, o fio limpa os espaços**. Um sem o outro deixa metade do trabalho por fazer.
 
+Manter a gengiva saudável é prevenção de verdade — e o fio dental é peça-chave. Conheça nossos cuidados em [saúde gengival e periodontia](/tratamentos/periodontia/).
+
 Até a Próxima.
