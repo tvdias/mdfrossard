@@ -1,0 +1,199 @@
+---
+layout: landing_page
+title: "Conheça a Clínica MD Frossard | Barra e Botafogo"
+description: "Conheça a estrutura da MD Frossard: scanner iTero, planejamento digital 3D e biossegurança rigorosa. Duas unidades no Rio — Barra da Tijuca e Botafogo. Agende sua visita."
+google_fonts: "Outfit:wght@500;600;700;800&family=Inter:wght@400;500;600;700"
+canonical: "https://mdfrossard.com.br/l/conheca-a-clinica/"
+hero_preload: "/images/hero-img.webp"
+og_image: "https://mdfrossard.com.br/images/hero-img.webp"
+contact_value: 2000
+content_category: institucional-clinica
+---
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{--ink:#0d1117;--teal:#0f6e56;--teal2:#1d9e75;--gold:#c9a227;--gold-d:#9a7d12;--cream:#fdf8ec;--muted:#5f6b66;--line:rgba(13,17,23,.08)}
+body{font-family:'Inter',sans-serif;color:var(--ink);background:#fff;line-height:1.6}
+img{max-width:100%;display:block}
+.wrap{max-width:1140px;margin:0 auto;padding:0 20px}
+h1,h2,h3{font-family:'Outfit',sans-serif;line-height:1.1}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;font-weight:600;font-size:1rem;padding:15px 26px;border-radius:50px;text-decoration:none;transition:.2s}
+.btn svg{width:20px;height:20px;flex-shrink:0}
+.btn-wpp{background:var(--teal2);color:#fff;box-shadow:0 6px 18px rgba(29,158,117,.28)}
+.btn-wpp:hover{background:#178a64}
+.btn-gold{background:var(--gold);color:#fff}
+.btn-gold:hover{background:var(--gold-d)}
+.btn-out{background:transparent;border:1.5px solid rgba(13,17,23,.18);color:var(--ink)}
+.btn-out:hover{border-color:var(--teal);color:var(--teal)}
+section{padding:62px 0}
+.eyebrow{font-family:'Outfit',sans-serif;font-size:.75rem;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;color:var(--gold-d);background:#faf0d2;display:inline-block;padding:5px 14px;border-radius:50px;margin-bottom:16px}
+.s-title{font-size:clamp(1.6rem,3.4vw,2.4rem);font-weight:700;margin-bottom:14px}
+.s-sub{color:var(--muted);max-width:620px;margin-bottom:36px;font-size:1.05rem}
+/* hero */
+.hero{background:radial-gradient(ellipse 70% 60% at 15% 10%,rgba(201,162,39,.16),transparent 60%),linear-gradient(180deg,#fdf8ec,#fafaf8 60%,#f4e9c7)}
+.hero-nav{display:flex;justify-content:space-between;align-items:center;padding:16px 0}
+.hero-nav img{height:46px;width:auto}
+.hero-tel{display:inline-flex;align-items:center;gap:7px;font-weight:600;font-size:.9rem;color:var(--ink);border:1px solid rgba(13,17,23,.14);background:rgba(255,255,255,.6);padding:8px 15px;border-radius:50px;text-decoration:none}
+.hero-tel svg{width:16px;height:16px;color:var(--teal)}
+.hero-body{display:grid;grid-template-columns:1fr;gap:28px;align-items:center;padding:24px 0 56px}
+.hero h1{font-size:clamp(2rem,4.6vw,3rem);font-weight:800;letter-spacing:-1px;margin-bottom:18px}
+.hero h1 .hl{color:var(--gold-d)}
+.hero p.sub{font-size:1.12rem;color:#3d4652;margin-bottom:26px;max-width:520px}
+.hero-cta{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:26px}
+.proof{display:flex;flex-wrap:wrap;gap:9px 20px}
+.proof span{display:inline-flex;align-items:center;gap:7px;font-size:.86rem;font-weight:600;color:var(--ink)}
+.proof svg{width:15px;height:15px;color:var(--gold-d)}
+.hero-img{border-radius:18px;overflow:hidden;box-shadow:0 24px 60px rgba(13,17,23,.18);aspect-ratio:4/3}
+.hero-img img{width:100%;height:100%;object-fit:cover}
+@media(min-width:860px){.hero-body{grid-template-columns:1.1fr .9fr;gap:50px;padding:36px 0 64px}}
+/* trust */
+.trust{background:var(--gold);padding:14px 0}
+.trust .wrap{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 26px}
+.trust span{color:#3a2e00;font-weight:600;font-size:.9rem;display:inline-flex;align-items:center;gap:7px}
+.trust svg{width:15px;height:15px}
+/* grid cards */
+.grid{display:grid;grid-template-columns:1fr;gap:18px}
+@media(min-width:640px){.grid{grid-template-columns:1fr 1fr}}
+@media(min-width:960px){.grid{grid-template-columns:1fr 1fr 1fr}}
+.card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:24px}
+.card h3{font-size:1.12rem;font-weight:600;margin-bottom:8px}
+.card p{color:var(--muted);font-size:.95rem}
+.card .ic{width:42px;height:42px;border-radius:11px;background:#e1f5ee;color:var(--teal);display:flex;align-items:center;justify-content:center;margin-bottom:14px}
+.card .ic svg{width:22px;height:22px}
+.sec-cream{background:var(--cream)}
+/* unidades */
+.units{display:grid;grid-template-columns:1fr;gap:24px}
+@media(min-width:820px){.units{grid-template-columns:1fr 1fr}}
+.unit{background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 10px 30px rgba(13,17,23,.06)}
+.unit .map iframe{width:100%;height:220px;border:0;display:block}
+.unit .body{padding:22px}
+.unit h3{font-size:1.25rem;font-weight:700;margin-bottom:6px}
+.unit .addr{color:var(--muted);font-size:.95rem;margin-bottom:14px}
+.unit ul{list-style:none;margin:0 0 18px;font-size:.92rem;color:#3d4652}
+.unit li{display:flex;gap:8px;margin:6px 0}
+.unit li svg{width:16px;height:16px;color:var(--teal);flex-shrink:0;margin-top:3px}
+/* cta */
+.cta{background:linear-gradient(135deg,var(--teal),#064e4b);color:#fff;text-align:center}
+.cta h2{font-size:clamp(1.7rem,3.6vw,2.4rem);font-weight:700;margin-bottom:12px}
+.cta p{color:rgba(255,255,255,.8);max-width:540px;margin:0 auto 28px}
+.cta .btn-out{border-color:rgba(255,255,255,.4);color:#fff}
+.cta .btn-out:hover{background:rgba(255,255,255,.12);color:#fff}
+footer{background:var(--ink);color:rgba(255,255,255,.66);padding:36px 0;font-size:.86rem}
+footer a{color:rgba(255,255,255,.85)}
+.sticky-wpp{position:fixed;right:18px;bottom:18px;width:56px;height:56px;border-radius:50%;background:var(--teal2);display:flex;align-items:center;justify-content:center;box-shadow:0 8px 22px rgba(0,0,0,.3);z-index:50}
+.sticky-wpp svg{width:30px;height:30px;fill:#fff}
+</style>
+
+<% var WPP='https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20conhecer%20a%20cl%C3%ADnica%20e%20agendar%20uma%20visita.'; %>
+
+<section class="hero">
+  <div class="wrap">
+    <nav class="hero-nav">
+      <img src="/images/logo-MD.jpg" alt="MD Frossard Odontologia">
+      <a href="tel:2132170430" class="hero-tel" onclick="return gtagSendEventTelefone(this.href)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>(21) 3217-0430</a>
+    </nav>
+    <div class="hero-body">
+      <div>
+        <span class="eyebrow">A clínica · Barra e Botafogo</span>
+        <h1>Conheça a clínica <span class="hl">MD Frossard</span></h1>
+        <p class="sub">38 anos de tradição, tecnologia de ponta e um atendimento humanizado, sem atrasos. Venha conhecer nossa estrutura na Barra da Tijuca ou em Botafogo.</p>
+        <div class="hero-cta">
+          <a href="<%= WPP %>" class="btn btn-wpp" onclick="return gtagSendEventWhatsapp(this.href)"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51l-.57-.01c-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487 2.981 1.287 2.981.858 3.518.803.537-.054 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z"/></svg>Agendar pelo WhatsApp</a>
+          <a href="tel:2132170430" class="btn btn-out" onclick="return gtagSendEventTelefone(this.href)">Ligar agora</a>
+        </div>
+        <div class="proof">
+          <span><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>5,0 no Google · +100 avaliações</span>
+          <span><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>38 anos de tradição</span>
+          <span><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>+5.000 pacientes atendidos</span>
+        </div>
+      </div>
+      <div class="hero-img"><img src="/images/hero-img.webp" alt="Clínica MD Frossard" width="800" height="600" fetchpriority="high"></div>
+    </div>
+  </div>
+</section>
+
+<div class="trust"><div class="wrap">
+  <span>✓ Scanner intraoral iTero</span><span>✓ Cirurgia guiada 3D</span><span>✓ Biossegurança rigorosa</span><span>✓ Atendimento sem atraso</span>
+</div></div>
+
+<section>
+  <div class="wrap" style="text-align:center">
+    <span class="eyebrow">Por que a MD Frossard</span>
+    <h2 class="s-title">Excelência que vem de 38 anos</h2>
+    <p class="s-sub" style="margin:0 auto 36px">Uma clínica conduzida por pai e filho, que une tradição familiar à odontologia mais moderna.</p>
+  </div>
+  <div class="wrap"><div class="grid">
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l3 7h7l-5.5 4 2 7L12 16l-6.5 4 2-7L2 9h7z"/></svg></div><h3>38 anos de tradição</h3><p>Quase quatro décadas cuidando de gerações de pacientes no Rio de Janeiro.</p></div>
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="7" r="4"/><path d="M3 21v-2a4 4 0 0 1 4-4h4M16 11l2 2 4-4"/></svg></div><h3>Dr. Marcos e Dr. Davi</h3><p>Pai e filho à frente de cada caso, com especialização em prótese, estética e implantodontia.</p></div>
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78L12 21.23l8.84-8.84a5.5 5.5 0 0 0 0-7.78z"/></svg></div><h3>Atendimento humanizado</h3><p>Acolhimento de verdade, no seu tempo, com cada etapa explicada com calma.</p></div>
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg></div><h3>Tecnologia 3D</h3><p>Scanner iTero e planejamento digital: você vê o resultado antes de começar, sem moldagens desconfortáveis.</p></div>
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 12l2 2 4-4"/><path d="M21 12c0 4.97-4.03 9-9 9s-9-4.03-9-9 4.03-9 9-9c1.66 0 3.21.45 4.54 1.24"/></svg></div><h3>Particular com reembolso</h3><p>Atendimento particular e fornecemos a documentação para reembolso junto ao seu plano.</p></div>
+    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div><h3>Pontualidade</h3><p>Atendimento sempre com hora marcada e respeito ao seu tempo.</p></div>
+  </div></div>
+</section>
+
+<section class="sec-cream">
+  <div class="wrap" style="text-align:center">
+    <span class="eyebrow">Estrutura e tecnologia</span>
+    <h2 class="s-title">Tudo pensado para o seu conforto e segurança</h2>
+    <p class="s-sub" style="margin:0 auto 36px">Salas independentes e equipamentos modernos, com protocolo de biossegurança que não abre mão de nada.</p>
+  </div>
+  <div class="wrap"><div class="grid">
+    <div class="card"><h3>Scanner iTero®</h3><p>Registro digital da sua boca em minutos, com mais conforto e precisão — sem aquela massinha de moldagem.</p></div>
+    <div class="card"><h3>Planejamento digital 3D</h3><p>Tomografia e simulação do tratamento para cirurgias guiadas e resultados previsíveis.</p></div>
+    <div class="card"><h3>Raio-X digital</h3><p>Imagens de alta resolução integradas ao planejamento, com menor exposição.</p></div>
+    <div class="card"><h3>Esterilização classe B</h3><p>Sala dedicada, autoclave classe B e instrumental embalado individualmente a cada paciente.</p></div>
+    <div class="card"><h3>Salas independentes</h3><p>Ambientes separados para cada especialidade, do diagnóstico à cirurgia.</p></div>
+    <div class="card"><h3>Recepção acolhedora</h3><p>Ambiente climatizado e tranquilo, pensado para reduzir a ansiedade de quem tem receio do dentista.</p></div>
+  </div></div>
+</section>
+
+<section>
+  <div class="wrap" style="text-align:center">
+    <span class="eyebrow">Onde estamos</span>
+    <h2 class="s-title">Duas unidades no Rio de Janeiro</h2>
+    <p class="s-sub" style="margin:0 auto 36px">Escolha a unidade mais perto de você e agende sua visita.</p>
+  </div>
+  <div class="wrap"><div class="units">
+    <div class="unit">
+      <div class="map"><iframe loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q=Shopping+Citt%C3%A0+Am%C3%A9rica+Av+das+Am%C3%A9ricas+700+Barra+da+Tijuca+Rio+de+Janeiro&t=m&z=15&output=embed&iwloc=near"></iframe></div>
+      <div class="body">
+        <h3>Barra da Tijuca</h3>
+        <p class="addr">Av. das Américas, 700 — Bloco 2, Sala 143 · Shopping Città América</p>
+        <ul>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>Metrô Jardim Oceânico e BRT Alvorada a poucos metros</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>Estacionamento no próprio shopping</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>Seg a Sex, 8h às 18h</li>
+        </ul>
+        <a href="<%= WPP %>" class="btn btn-wpp" onclick="return gtagSendEventWhatsapp(this.href)" style="width:100%">Agendar visita na Barra</a>
+      </div>
+    </div>
+    <div class="unit">
+      <div class="map"><iframe loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q=Rua+Marques+15+Humait%C3%A1+Rio+de+Janeiro&t=m&z=15&output=embed&iwloc=near"></iframe></div>
+      <div class="body">
+        <h3>Botafogo / Humaitá</h3>
+        <p class="addr">Rua Marques, 15 — ao lado da Cobal do Humaitá</p>
+        <ul>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>Em uma casa, ambiente acolhedor e reservado</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>Fácil acesso pela Zona Sul</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>Seg a Sex, 8h às 18h</li>
+        </ul>
+        <a href="<%= WPP %>" class="btn btn-wpp" onclick="return gtagSendEventWhatsapp(this.href)" style="width:100%">Agendar visita em Botafogo</a>
+      </div>
+    </div>
+  </div></div>
+</section>
+
+<section class="cta">
+  <div class="wrap">
+    <h2>Venha conhecer a MD Frossard</h2>
+    <p>Agende uma avaliação e conheça de perto a estrutura, a equipe e o cuidado que fazem a diferença há 38 anos.</p>
+    <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center">
+      <a href="<%= WPP %>" class="btn btn-wpp" onclick="return gtagSendEventWhatsapp(this.href)">Agendar pelo WhatsApp</a>
+      <a href="tel:2132170430" class="btn btn-out" onclick="return gtagSendEventTelefone(this.href)">Ligar (21) 3217-0430</a>
+    </div>
+  </div>
+</section>
+
+<footer><div class="wrap">MD Frossard Odontologia · Barra da Tijuca e Botafogo · (21) 97663-7803 · <a href="/">mdfrossard.com.br</a></div></footer>
+
+<a href="<%= WPP %>" class="sticky-wpp" aria-label="WhatsApp" onclick="return gtagSendEventWhatsapp(this.href)"><svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51l-.57-.01c-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487 2.981 1.287 2.981.858 3.518.803.537-.054 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg></a>
