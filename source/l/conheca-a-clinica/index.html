@@ -87,6 +87,9 @@ footer{background:var(--ink);color:rgba(255,255,255,.66);padding:36px 0;font-siz
 footer a{color:rgba(255,255,255,.85)}
 .sticky-wpp{position:fixed;right:18px;bottom:18px;width:56px;height:56px;border-radius:50%;background:var(--teal2);display:flex;align-items:center;justify-content:center;box-shadow:0 8px 22px rgba(0,0,0,.3);z-index:50}
 .sticky-wpp svg{width:30px;height:30px;fill:#fff}
+.gallery-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media(min-width:760px){.gallery-grid{grid-template-columns:1fr 1fr 1fr}}
+.gallery-grid img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:14px;display:block;border:1px solid var(--line)}
 </style>
 
 <% var WPP='https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20conhecer%20a%20cl%C3%ADnica%20e%20agendar%20uma%20visita.'; %>
@@ -151,6 +154,22 @@ footer a{color:rgba(255,255,255,.85)}
     <div class="card"><h3>Esterilização classe B</h3><p>Sala dedicada, autoclave classe B e instrumental embalado individualmente a cada paciente.</p></div>
     <div class="card"><h3>Salas independentes</h3><p>Ambientes separados para cada especialidade, do diagnóstico à cirurgia.</p></div>
     <div class="card"><h3>Recepção acolhedora</h3><p>Ambiente climatizado e tranquilo, pensado para reduzir a ansiedade de quem tem receio do dentista.</p></div>
+  </div></div>
+</section>
+
+<section>
+  <div class="wrap" style="text-align:center">
+    <span class="eyebrow">Por dentro</span>
+    <h2 class="s-title">Conheça nossos ambientes</h2>
+    <p class="s-sub" style="margin:0 auto 36px">Recepção acolhedora, salas modernas e equipamentos de ponta — um ambiente pensado para o seu conforto.</p>
+  </div>
+  <div class="wrap"><div class="gallery-grid">
+    <img src="/images/clinica/clinica-01.webp" alt="Recepção da MD Frossard — Barra da Tijuca e Botafogo" loading="lazy" decoding="async" width="1200" height="900">
+    <img src="/images/clinica/clinica-06.webp" alt="Sala de espera acolhedora — Barra da Tijuca e Botafogo" loading="lazy" decoding="async" width="1200" height="900">
+    <img src="/images/clinica/clinica-02.webp" alt="Ambiente de espera da clínica — Barra da Tijuca e Botafogo" loading="lazy" decoding="async" width="1200" height="900">
+    <img src="/images/clinica/clinica-11.webp" alt="Consultório equipado — Barra da Tijuca e Botafogo" loading="lazy" decoding="async" width="1200" height="900">
+    <img src="/images/clinica/clinica-08.webp" alt="Consultório odontológico — Barra da Tijuca e Botafogo" loading="lazy" decoding="async" width="1200" height="900">
+    <img src="/images/clinica/clinica-05.webp" alt="Sala clínica com tecnologia — Barra da Tijuca e Botafogo" loading="lazy" decoding="async" width="1200" height="900">
   </div></div>
 </section>
 
