@@ -82,7 +82,7 @@ Atendemos na **[Barra da Tijuca](/dentista-barra-da-tijuca/)** (Shopping Città 
 * <i data-lucide="phone" class="icon-sm"></i> **Telefone:** [(21) 97663-7803](tel:2197663-7803)
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
-  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Saber Qual Tratamento É o Meu</a>
+  <a onclick="return gtagSendEventWhatsapp(this.href)" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Saber Qual Tratamento É o Meu</a>
 </div>
 
 ---

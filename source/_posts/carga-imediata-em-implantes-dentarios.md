@@ -105,5 +105,5 @@ Temos que ter em mente que a carga imediata em implantes é uma realidade consol
 Porém, temos que analisar cada caso em particular seguindo alguns critérios pré-estabelecidos para o sucesso a longo prazo do {% post_link implante-dentario "implante" %}. Se você tem dúvidas sobre se é candidato à carga imediata, o melhor caminho é uma avaliação clínica com tomografia — entre em contato pelo WhatsApp e agende a sua.
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
-  <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20marcar%20uma%20avalia%C3%A7%C3%A3o." class="btn btn-primary btn-lg">Agendar Avaliação pelo WhatsApp</a>
+  <a onclick="return gtagSendEventWhatsapp(this.href)" href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20marcar%20uma%20avalia%C3%A7%C3%A3o." class="btn btn-primary btn-lg">Agendar Avaliação pelo WhatsApp</a>
 </div>

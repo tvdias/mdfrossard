@@ -78,7 +78,7 @@ O segredo está na **Prevenção**. Consultas semestrais de manutenção garante
 Na MD Frossard, utilizamos tecnologia de ponta e planejamento digital para garantir que cada implante seja instalado na posição ideal, minimizando riscos e maximizando a longevidade do seu novo sorriso.
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
-  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Agendar Minha Revisão de Implantes</a>
+  <a onclick="return gtagSendEventWhatsapp(this.href)" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Agendar Minha Revisão de Implantes</a>
 </div>
 
 **Equipe MD Frossard Odontologia**

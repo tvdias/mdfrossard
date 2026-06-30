@@ -93,7 +93,7 @@ Pare de imaginar buracos na hora em que doem, agende nossa lupa maxilofacial mic
 * <i data-lucide="phone" class="icon-sm"></i> **Chame Agora via Call Center (Fixo Rio):** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
-  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Prevenir Minha Clínica com Proteção Completa</a>
+  <a onclick="return gtagSendEventWhatsapp(this.href)" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Prevenir Minha Clínica com Proteção Completa</a>
 </div>
 
 Traga o seu cuidado pessoal imediato nas unidades Frossard de luxo.

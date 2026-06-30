@@ -110,7 +110,7 @@ Ligue para as secretárias online, converse os detalhes abertamente sobre nosso 
 * <i data-lucide="phone" class="icon-sm"></i> **Plantão (Fixo Frossard):** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
-  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Salvar Meu Dente da Dor Aguda</a>
+  <a onclick="return gtagSendEventWhatsapp(this.href)" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Salvar Meu Dente da Dor Aguda</a>
 </div>
 
 Tranque logo essa via e volte a sonhar, um grande abraço Frossard!

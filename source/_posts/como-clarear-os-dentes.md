@@ -89,7 +89,7 @@ O clareamento dental é um dos tratamentos mais compensadores da odontologia, tr
 **Pronto para iluminar seu sorriso?**
 
 <div style="margin-top: 2rem; margin-bottom: 2rem; text-align: center;">
-  <a href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Avaliar Meu Caso no WhatsApp</a>
+  <a onclick="return gtagSendEventWhatsapp(this.href)" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Avaliar Meu Caso no WhatsApp</a>
 </div>
 
 **Dr. Davi Frossard**
