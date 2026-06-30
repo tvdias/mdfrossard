@@ -16,10 +16,16 @@ body{font-family:'Inter',sans-serif;color:var(--ink);background:#fff;line-height
 img{max-width:100%;display:block}
 .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
 h1,h2,h3{font-family:'Outfit',sans-serif;line-height:1.1}
-.btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;font-weight:600;font-size:1rem;padding:15px 26px;border-radius:50px;text-decoration:none;transition:.2s}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;font-weight:700;font-size:1.08rem;padding:17px 34px;border-radius:50px;text-decoration:none;transition:transform .15s,box-shadow .2s,filter .2s}
+.btn:hover{transform:translateY(-2px)}
+.btn svg{width:22px;height:22px}
 .btn svg{width:20px;height:20px;flex-shrink:0}
-.btn-wpp{background:var(--teal2);color:#fff;box-shadow:0 6px 18px rgba(29,158,117,.28)}
+.btn-wpp{background:var(--teal2);color:#fff;box-shadow:0 8px 22px rgba(29,158,117,.42)}
+@media(prefers-reduced-motion:no-preference){.btn-wpp{animation:mdpulse 2.4s ease-in-out infinite}}
+@keyframes mdpulse{0%,100%{box-shadow:0 8px 22px rgba(29,158,117,.40)}50%{box-shadow:0 10px 30px rgba(29,158,117,.62)}}
 .btn-wpp:hover{background:#178a64}
+.btn-gold{background:linear-gradient(135deg,var(--gold),var(--gold-d));color:#fff;box-shadow:0 8px 22px rgba(201,162,39,.40)}
+.btn-gold:hover{filter:brightness(1.05)}
 .btn-out{background:transparent;border:1.5px solid rgba(13,17,23,.18);color:var(--ink)}
 .btn-out:hover{border-color:var(--teal);color:var(--teal)}
 section{padding:60px 0}
@@ -28,7 +34,7 @@ section{padding:60px 0}
 .s-sub{color:var(--muted);max-width:640px;margin-bottom:36px;font-size:1.05rem}
 .hero{background:radial-gradient(ellipse 70% 60% at 12% 12%,rgba(201,162,39,.16),transparent 60%),linear-gradient(180deg,#fdf8ec,#fafaf8 60%,#f4e9c7);overflow:hidden}
 .hero-nav{display:flex;justify-content:space-between;align-items:center;padding:16px 0}
-.hero-logo{height:50px;width:auto}
+.hero-logo{height:66px;width:auto}
 .hero-tel{display:inline-flex;align-items:center;gap:7px;font-weight:600;font-size:.9rem;color:var(--ink);border:1px solid rgba(13,17,23,.14);background:rgba(255,255,255,.6);padding:8px 15px;border-radius:50px;text-decoration:none}
 .hero-tel svg{width:16px;height:16px;color:var(--teal)}
 .hero-2-body{display:grid;grid-template-columns:1fr}
@@ -111,7 +117,7 @@ footer a{color:rgba(255,255,255,.85)}
       <p class="sub">A MD Frossard fica no Shopping Città América, na Av. das Américas, 700 — fácil de chegar e com atendimento sem atraso. 38 anos cuidando de sorrisos da região.</p>
       <div class="hero-cta">
         <a href="<%= WPP %>" class="btn btn-wpp" onclick="return gtagSendEventWhatsapp(this.href)"><%- WPP_SVG %>Agendar pelo WhatsApp</a>
-        <a href="tel:2132170430" class="btn btn-out" onclick="return gtagSendEventTelefone(this.href)">Ligar agora</a>
+        <a href="tel:2132170430" class="btn btn-gold" onclick="return gtagSendEventTelefone(this.href)">Ligar agora</a>
       </div>
       <div class="proof">
         <span><%- STAR %>5,0 no Google · 101 avaliações</span>
@@ -199,7 +205,7 @@ footer a{color:rgba(255,255,255,.85)}
     <p>Fale agora com a nossa equipe e marque um horário na unidade da Barra da Tijuca.</p>
     <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center">
       <a href="<%= WPP %>" class="btn btn-wpp" onclick="return gtagSendEventWhatsapp(this.href)">Agendar pelo WhatsApp</a>
-      <a href="tel:2132170430" class="btn btn-out" onclick="return gtagSendEventTelefone(this.href)">Ligar (21) 3217-0430</a>
+      <a href="tel:2132170430" class="btn btn-gold" onclick="return gtagSendEventTelefone(this.href)">Ligar (21) 3217-0430</a>
     </div>
   </div>
 </section>
