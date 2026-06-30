@@ -77,6 +77,21 @@ footer{background:var(--ink);color:rgba(255,255,255,.66);padding:36px 0;font-siz
 footer a{color:rgba(255,255,255,.85)}
 .sticky-wpp{position:fixed;right:18px;bottom:18px;width:56px;height:56px;border-radius:50%;background:var(--teal2);display:flex;align-items:center;justify-content:center;box-shadow:0 8px 22px rgba(0,0,0,.3);z-index:50}
 .sticky-wpp svg{width:30px;height:30px;fill:#fff}
+
+.dou-grid{display:grid;grid-template-columns:1fr;gap:20px;max-width:760px;margin:0 auto}
+@media(min-width:640px){.dou-grid{grid-template-columns:1fr 1fr}}
+.dou{background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden;text-align:center;box-shadow:0 8px 24px rgba(13,17,23,.05)}
+.dou img{width:100%;height:300px;object-fit:cover;object-position:top center;display:block}
+.dou .b{padding:20px}
+.dou h3{font-size:1.18rem;margin-bottom:2px}
+.dou .cro{font-size:.8rem;color:var(--gold-d);font-weight:700;margin-bottom:10px}
+.dou p{font-size:.92rem;color:var(--muted)}
+.tgrid{display:grid;grid-template-columns:1fr;gap:18px}
+@media(min-width:880px){.tgrid{grid-template-columns:1fr 1fr 1fr}}
+.tcard{background:#fff;border:1px solid var(--line);border-radius:14px;padding:22px;display:flex;flex-direction:column}
+.tcard .qs{color:var(--gold);letter-spacing:1px;margin-bottom:10px}
+.tcard p{color:#3d4652;font-size:.95rem;font-style:italic;margin-bottom:12px}
+.tcard .who{margin-top:auto;font-weight:600;font-size:.9rem;color:var(--ink)}
 </style>
 
 <% var WPP='https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20procuro%20um%20dentista%20perto%20de%20mim%20na%20Barra%20e%20gostaria%20de%20agendar.'; %>
@@ -125,6 +140,37 @@ footer a{color:rgba(255,255,255,.85)}
     <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg></div><h3>Tecnologia de ponta</h3><p>Scanner iTero e planejamento digital 3D — sem moldagens desconfortáveis.</p></div>
     <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78L12 21.23l8.84-8.84a5.5 5.5 0 0 0 0-7.78z"/></svg></div><h3>Atendimento humanizado</h3><p>Acolhimento de verdade, ideal também para quem tem receio de dentista.</p></div>
     <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 12l2 2 4-4"/><circle cx="12" cy="12" r="9"/></svg></div><h3>Particular com reembolso</h3><p>Atendimento particular; fornecemos a documentação para reembolso junto ao seu plano.</p></div>
+  </div></div>
+</section>
+
+<section class="sec-cream">
+  <div class="wrap" style="text-align:center">
+    <span class="eyebrow">Quem atende você</span>
+    <h2 class="s-title">Quem vai cuidar do seu sorriso</h2>
+    <p class="s-sub" style="margin:0 auto 36px">Uma clínica de pai e filho: tradição de quem cuida da Barra há quase 40 anos, com a tecnologia de hoje.</p>
+  </div>
+  <div class="wrap"><div class="dou-grid">
+    <div class="dou">
+      <img src="/images/equipe_marcos.webp" alt="Dr. Marcos Frossard — dentista na Barra da Tijuca" loading="lazy" decoding="async" width="400" height="500">
+      <div class="b"><h3>Dr. Marcos Frossard</h3><div class="cro">CRO-RJ 8058 · Fundador</div><p>Especialista em Prótese e Estética. Quase 40 anos devolvendo sorrisos no Rio de Janeiro.</p></div>
+    </div>
+    <div class="dou">
+      <img src="/images/equipe_davi.webp" alt="Dr. Davi Frossard — dentista na Barra da Tijuca" loading="lazy" decoding="async" width="400" height="500">
+      <div class="b"><h3>Dr. Davi Frossard</h3><div class="cro">CRO-RJ 36193 · Implantodontia</div><p>Especialista em Implantodontia pela São Leopoldo Mandic. Implantes e reabilitação com planejamento digital 3D.</p></div>
+    </div>
+  </div></div>
+</section>
+
+<section>
+  <div class="wrap" style="text-align:center">
+    <span class="eyebrow">Depoimentos</span>
+    <h2 class="s-title">O que dizem nossos pacientes</h2>
+    <p class="s-sub" style="margin:0 auto 36px">Nota 5,0 no Google, com mais de 100 avaliações de pacientes da Barra e da região.</p>
+  </div>
+  <div class="wrap"><div class="tgrid">
+    <div class="tcard"><div class="qs">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>"Fiquei super satisfeito com o resultado do tratamento. Nota 10 em todos os quesitos: expertise, gentileza, pontualidade e responsabilidade."</p><div class="who">Otávio Azevedo</div></div>
+    <div class="tcard"><div class="qs">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>"Sempre tive pânico de dentista e fiquei anos sem ir. A equipe foi essencial para eu superar. Mudou meu sorriso por dentro e por fora."</p><div class="who">Larissa Rodrigues</div></div>
+    <div class="tcard"><div class="qs">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>"Profissional competente, ético e atencioso. Explica cada procedimento com clareza e transmite muita segurança. Indico sem hesitar."</p><div class="who">Débora Vieira</div></div>
   </div></div>
 </section>
 
