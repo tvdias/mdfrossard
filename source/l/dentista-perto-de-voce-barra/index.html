@@ -87,17 +87,20 @@ footer a{color:rgba(255,255,255,.85)}
 .dou-grid{display:grid;grid-template-columns:1fr;gap:20px;max-width:760px;margin:0 auto}
 @media(min-width:640px){.dou-grid{grid-template-columns:1fr 1fr}}
 .dou{background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden;text-align:center;box-shadow:0 8px 24px rgba(13,17,23,.05)}
-.dou img{width:100%;height:300px;object-fit:cover;object-position:top center;display:block}
+.dou img{width:100%;aspect-ratio:4/5;object-fit:cover;object-position:center 20%;display:block}
 .dou .b{padding:20px}
 .dou h3{font-size:1.18rem;margin-bottom:2px}
 .dou .cro{font-size:.8rem;color:var(--gold-d);font-weight:700;margin-bottom:10px}
 .dou p{font-size:.92rem;color:var(--muted)}
 .tgrid{display:grid;grid-template-columns:1fr;gap:18px}
 @media(min-width:880px){.tgrid{grid-template-columns:1fr 1fr 1fr}}
-.tcard{background:#fff;border:1px solid var(--line);border-radius:14px;padding:22px;display:flex;flex-direction:column}
-.tcard .qs{color:var(--gold);letter-spacing:1px;margin-bottom:10px}
-.tcard p{color:#3d4652;font-size:.95rem;font-style:italic;margin-bottom:12px}
-.tcard .who{margin-top:auto;font-weight:600;font-size:.9rem;color:var(--ink)}
+.tcard{background:#fff;border:1px solid var(--line);border-radius:16px;padding:28px;display:flex;flex-direction:column;box-shadow:0 8px 24px rgba(13,17,23,.05)}
+.tcard .qs{color:var(--gold);letter-spacing:2px;font-size:1.25rem;margin-bottom:14px}
+.tcard p{color:#2b333d;font-size:1.1rem;line-height:1.62;font-style:italic;margin-bottom:16px}
+.tcard .who{margin-top:auto;font-weight:700;font-size:1rem;color:var(--ink)}
+.rev-link{display:inline-flex;align-items:center;gap:10px;margin-top:32px;padding:14px 26px;background:#fff;border:1px solid var(--line);border-radius:999px;color:var(--ink);text-decoration:none;font-weight:600;font-size:1rem;box-shadow:0 6px 18px rgba(13,17,23,.06);transition:.2s}
+.rev-link:hover{transform:translateY(-2px);box-shadow:0 10px 26px rgba(13,17,23,.1)}
+.rev-link .gstars{color:var(--gold);letter-spacing:1px}
 </style>
 
 <% var WPP='https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20procuro%20um%20dentista%20perto%20de%20mim%20na%20Barra%20e%20gostaria%20de%20agendar.'; %>
@@ -178,6 +181,9 @@ footer a{color:rgba(255,255,255,.85)}
     <div class="tcard"><div class="qs">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>"Sempre tive pânico de dentista e fiquei anos sem ir. A equipe foi essencial para eu superar. Mudou meu sorriso por dentro e por fora."</p><div class="who">Larissa Rodrigues</div></div>
     <div class="tcard"><div class="qs">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>"Profissional competente, ético e atencioso. Explica cada procedimento com clareza e transmite muita segurança. Indico sem hesitar."</p><div class="who">Débora Vieira</div></div>
   </div></div>
+  <div class="wrap" style="text-align:center">
+    <a class="rev-link" href="https://share.google/dByZdhTbp6XWBuVqh" target="_blank" rel="noopener"><span class="gstars">&#9733;&#9733;&#9733;&#9733;&#9733;</span> Ver todas as avaliações no Google</a>
+  </div>
 </section>
 
 <section class="sec-cream">
