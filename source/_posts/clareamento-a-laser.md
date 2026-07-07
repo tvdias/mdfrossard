@@ -103,3 +103,7 @@ Para agendar sua avaliação nas nossas unidades da **[Barra da Tijuca](/dentist
 </div>
 
 ---
+
+---
+
+**Conheça o tratamento na MD Frossard:** veja a página completa de [clareamento dental](/tratamentos/clareamento-dental/) com indicações, etapas e perguntas frequentes, nas unidades Barra da Tijuca e Botafogo.

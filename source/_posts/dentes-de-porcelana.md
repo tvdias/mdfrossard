@@ -85,3 +85,7 @@ Atendemos na **[Barra da Tijuca](/dentista-barra-da-tijuca/)** e em **[Botafogo]
 </div>
 
 ---
+
+---
+
+**Conheça o tratamento na MD Frossard:** veja a página completa de [facetas de porcelana](/tratamentos/facetas-de-porcelana/) com indicações, etapas e perguntas frequentes, nas unidades Barra da Tijuca e Botafogo.

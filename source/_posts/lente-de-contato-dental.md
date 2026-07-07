@@ -105,3 +105,7 @@ Não fique eternamente chateado com o design assimétrico e pequenos afastamento
 **Bons risos! Dr. Davi Frossard.**
 
 ---
+
+---
+
+**Conheça o tratamento na MD Frossard:** veja a página completa de [lentes de contato dental](/tratamentos/lentes-de-contato-dental/) com indicações, etapas e perguntas frequentes, nas unidades Barra da Tijuca e Botafogo.

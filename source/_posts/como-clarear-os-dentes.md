@@ -95,4 +95,8 @@ O clareamento dental é um dos tratamentos mais compensadores da odontologia, tr
 **Dr. Davi Frossard**
 *MD Frossard Odontologia – Transformando sorrisos com ciência e arte.*
 
-Deixe seu comentário abaixo e continue navegando pelo nosso site. 
+Deixe seu comentário abaixo e continue navegando pelo nosso site.
+
+---
+
+**Conheça o tratamento na MD Frossard:** veja a página completa de [clareamento dental](/tratamentos/clareamento-dental/) com indicações, etapas e perguntas frequentes, nas unidades Barra da Tijuca e Botafogo.

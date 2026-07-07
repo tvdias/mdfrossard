@@ -127,4 +127,8 @@ O suporte do profissional para o paciente é reflexo da confiança e investiment
 
 ## Infográfico sobre Faceta de porcelana 
 
-![Faceta de Porcelana](/images/f99633c8-153b-4db5-9979-846e265f5cd0_Faceta-de-porcelana.-1.webp)   
+![Faceta de Porcelana](/images/f99633c8-153b-4db5-9979-846e265f5cd0_Faceta-de-porcelana.-1.webp)
+
+---
+
+**Conheça o tratamento na MD Frossard:** veja a página completa de [facetas de porcelana](/tratamentos/facetas-de-porcelana/) com indicações, etapas e perguntas frequentes, nas unidades Barra da Tijuca e Botafogo.

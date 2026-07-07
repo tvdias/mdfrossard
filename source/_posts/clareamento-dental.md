@@ -119,3 +119,7 @@ Nossa arquitetura odontológica pronta a te transformar aguarda pela surpresa do
 Um grande abraço cordial, MD Odontologia VIP (Barra e [Botafogo](/dentista-em-botafogo/)).
 
 ---
+
+---
+
+**Conheça o tratamento na MD Frossard:** veja a página completa de [clareamento dental](/tratamentos/clareamento-dental/) com indicações, etapas e perguntas frequentes, nas unidades Barra da Tijuca e Botafogo.

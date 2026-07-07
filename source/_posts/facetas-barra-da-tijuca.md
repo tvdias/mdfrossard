@@ -128,3 +128,7 @@ Se você quer ver como ficaria seu sorriso com facetas — sem compromisso e sem
 - **📍 Shopping Città América — Av. das Américas, 700, Bloco 2, Sala 143, Barra da Tijuca**
 
 Para conhecer nossa proposta completa, [conheça nossa clínica de dentista na Barra da Tijuca](/dentista-barra-da-tijuca/) ou veja a página dedicada de [estética dental](/tratamentos/estetica-dental/).
+
+---
+
+**Conheça o tratamento na MD Frossard:** veja a página completa de [facetas de porcelana na Barra da Tijuca e Botafogo](/tratamentos/facetas-de-porcelana/) com indicações, etapas e perguntas frequentes, nas unidades Barra da Tijuca e Botafogo.
