@@ -1,6 +1,4 @@
 ---
-permalink: false
-eleventyExcludeFromCollections: true
 title: '5 dicas para clarear os dentes - Mude seu Sorriso. '
 description: >-
  Veja as 5 principais dicas para clarear os dentes. Veja como você pode ter o

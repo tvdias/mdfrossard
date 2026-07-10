@@ -220,6 +220,9 @@ module.exports = function(eleventyConfig) {
 
   // Ignora pastas internas (rascunhos, etc.) — nunca devem ser renderizadas como páginas públicas
   eleventyConfig.ignores.add("source/_drafts/**");
+      eleventyConfig.ignores.add("source/_posts/como-clarear-os-dentes.md");
+      eleventyConfig.ignores.add("source/_posts/5-dicas-para-clarear-os-dentes.md");
+      eleventyConfig.ignores.add("source/_posts/como-ter-os-dentes-mais-brancos.md");
 
   eleventyConfig.setLibrary("md", markdown);
   eleventyConfig.addExtension("ejs", {
