@@ -47,3 +47,8 @@
 # Consolidacao de Facetas (duplicatas -> canonicas)
 /5-razoes-para-usar-faceta-de-porcelana/ /facetas-dentais/ 301
 /facetas-barra-da-tijuca/ /tratamentos/facetas-de-porcelana/ 301
+
+# Consolidacao de Implante (duplicatas -> canonicas)
+/implante-dentario-mitos-e-verdades/ /implante-dentario/ 301
+/implante-dentario-barra-da-tijuca/ /tratamentos/implante-dentario/ 301
+/vantagens-do-uso-do-implante-dentario/ /implante-dentario/ 301
