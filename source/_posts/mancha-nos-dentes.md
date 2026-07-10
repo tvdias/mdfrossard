@@ -30,7 +30,7 @@ As manchas mais frequentes são as superficiais, acumuladas na camada externa do
 * **Tabagismo:** A nicotina e o alcatrão criam uma **mancha no dente** amarelada e persistente que penetra nos micro-poros do esmalte.
 
 **O Tratamento Ideal:**
-O primeiro passo é uma profilaxia profissional (limpeza) para remover o grosso do pigmento. Em seguida, nosso protocolo de {% post_link clareamento-dental "[Clareamento Dental](/tratamentos/estetica-dental/)" %} é imbatível para devolver a luminosidade original.
+O primeiro passo é uma profilaxia profissional (limpeza) para remover o grosso do pigmento. Em seguida, nosso protocolo de [Clareamento Dental](/tratamentos/clareamento-dental/) é imbatível para devolver a luminosidade original.
 
 ## 2. Escurecimento por Trauma: O dente que "morreu" por dentro
 Se você tem apenas uma **mancha no dente** isolada (um dente mais escuro que todos os vizinhos), a causa pode ser um impacto sofrido há anos.
@@ -50,13 +50,13 @@ Substituímos o metal antigo por **resinas biomiméticas** ou cerâmicas de últ
 Manchas esbranquiçadas ou acastanhadas em forma de estrias surgem quando há ingestão excessiva de flúor durante a formação dos dentes (infância). A fluorose cria falhas na cristalização do esmalte.
 
 **Como Resolvemos:**
-Em casos leves, a microabrasão resolve. Para casos moderados a severos, as **Lentes de Contato Dentais** são a solução definitiva para criar uma nova face estética perfeita sobre a **mancha no dente**.
+Em casos leves, a microabrasão resolve. Para casos moderados a severos, as **[Lentes de Contato Dentais](/tratamentos/lentes-de-contato-dental/)** são a solução definitiva para criar uma nova face estética perfeita sobre a **mancha no dente**.
 
 ## 5. Manchas por Antibióticos (Tetraciclina)
 O uso de certos antibióticos (como a tetraciclina) durante o desenvolvimento dos dentes pode causar faixas horizontais cinzas ou amareladas muito profundas. Esse é o tipo mais desafiador de **mancha no dente**.
 
 **Como Resolvemos:**
-Como o clareamento químico dificilmente atinge essa profundidade, as {% post_link facetas-dentais "Facetas de Porcelana" %} são "padrão ouro". Elas blindam o sorriso, entregando a cor desejada com durabilidade de décadas.
+Como o clareamento químico dificilmente atinge essa profundidade, as [Facetas de Porcelana](/tratamentos/facetas-de-porcelana/) são "padrão ouro". Elas blindam o sorriso, entregando a cor desejada com durabilidade de décadas.
 
 ---
 
