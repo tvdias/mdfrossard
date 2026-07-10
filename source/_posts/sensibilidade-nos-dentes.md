@@ -58,7 +58,7 @@ O hábito de apertar ou ranger os dentes ([Bruxismo](/bruxismo-tratamento/)) cau
 Com o tempo, a gengiva pode subir (ou descer), expondo a raiz, que não tem a proteção do esmalte e é naturalmente sensível.
 
 ### 5) Clareamento Dental Recente
-O gel clareador pode causar sensibilidade temporária durante o tratamento. É fundamental tratar a sensibilidade prévia antes de iniciar o [Clareamento Dental](/clareamento-dental/).
+O gel clareador pode causar sensibilidade temporária durante o tratamento. É fundamental tratar a sensibilidade prévia antes de iniciar o [Clareamento Dental](/tratamentos/clareamento-dental/).
 
 ### 6) Pastas de Dente Abrasivas ("Whitening")
 Muitos cremes dentais que prometem clarear agem por abrasão. Eles "lixam" as manchas, mas também podem desgastar o esmalte se usados sem orientação.

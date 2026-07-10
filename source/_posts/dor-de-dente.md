@@ -81,7 +81,7 @@ Campeã absoluta das emergências odontológicas. A erosão começa como um pequ
 
 Quando o nervo é atingido, qualquer estímulo — frio, quente, pressão — gera uma pontada aguda. E sem estímulo, a dor pode ser constante e latejante.
 
-**O tratamento:** se detectado cedo, removemos a cárie e restauramos o dente. Quando a bactéria chegou ao nervo, realizamos o [tratamento de canal](/tratamento-de-canal/) — um procedimento que elimina a infecção e salva o dente.
+**O tratamento:** se detectado cedo, removemos a cárie e restauramos o dente. Quando a bactéria chegou ao nervo, realizamos o [tratamento de canal](/tratamentos/endodontia/) — um procedimento que elimina a infecção e salva o dente.
 
 ---
 
@@ -107,7 +107,7 @@ O [dente do siso](/dente-do-siso/) que nasce em posição inclinada, empurrando 
 
 Uma queda, um impacto ou morder algo muito duro pode fraturar o dente — às vezes sem que a fratura seja visível a olho nu. A dor geralmente aparece ao morder em determinado ângulo ou ao ingerir coisas geladas ou quentes.
 
-**O tratamento:** depende da extensão da fratura. Pode variar de uma restauração simples a uma coroa dentária ou, em casos mais graves, extração e reabilitação com [implante dentário](/implante-dentario/).
+**O tratamento:** depende da extensão da fratura. Pode variar de uma restauração simples a uma coroa dentária ou, em casos mais graves, extração e reabilitação com [implante dentário](/tratamentos/implante-dentario/).
 
 ---
 
