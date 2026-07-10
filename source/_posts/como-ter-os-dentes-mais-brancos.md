@@ -1,4 +1,6 @@
 ---
+permalink: false
+eleventyExcludeFromCollections: true
 title: Como ter os dentes mais brancos ?
 description: >-
  Como ter os dentes mais brancos ? Essa pergunta é comum nos consultórios

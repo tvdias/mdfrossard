@@ -32,7 +32,7 @@ Em grande parte dos casos, possuir dentes brancos e saudáveis depende mais da s
 
 A {% post_link 7-dicas-faceis-para-a-sua-higiene-bucal "correta higienização" %} juntamente com o correto uso do fio dental, são fatores básicos para ter os dentes perfeitos. 
 
-Mesmo se for realizar faceta ou [clareamento dental](/tratamentos/estetica-dental/) é preciso manter a limpeza constante da cavidade bucal . 
+Mesmo se for realizar faceta ou [clareamento dental](/tratamentos/clareamento-dental/) é preciso manter a limpeza constante da cavidade bucal . 
 
 A escovação eficiente além de manter os dentes com saúde elimina a [placa bacteriana](https://pt.wikipedia.org/wiki/Placa_bacteriana). Isso impede que o dente fique amarelo e que a gengiva fique inflamada e sangrante. 
 

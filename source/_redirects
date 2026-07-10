@@ -42,3 +42,8 @@
 
 # URL antiga indexada (404) -> home (Caminho A)
 /dentista-barra-da-tijuca-3 / 301
+
+# Consolidacao de Clareamento (duplicatas -> canonicas)
+/como-clarear-os-dentes/ /clareamento-dental/ 301
+/5-dicas-para-clarear-os-dentes/ /clareamento-dental/ 301
+/como-ter-os-dentes-mais-brancos/ /como-ter-os-dentes-brancos/ 301
