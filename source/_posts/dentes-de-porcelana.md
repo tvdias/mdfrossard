@@ -37,7 +37,7 @@ Dependendo da situação clínica de cada paciente, os dentes de porcelana podem
 * **Bloco de porcelana (inlay/onlay):** quando ainda existe boa quantidade de estrutura dental. O bloco cerâmico recompõe a parte destruída sem cobrir o dente inteiro.
 * **Coroa de porcelana sobre zircônia:** quando o dente está muito comprometido por cárie ou fratura. Cobre o dente por completo, reconstruindo forma e estética. Saiba mais no nosso guia de [coroa dentária](/coroa-dentaria/).
 * **Faceta de porcelana:** lâminas finíssimas de cerâmica coladas na face frontal dos dentes, para corrigir cor, forma ou alinhamento. Indicadas principalmente para os dentes da frente. Leia tudo sobre [facetas dentais](/facetas-dentais/).
-* **Lente de contato dental:** versão ainda mais fina da faceta, com desgaste mínimo ou nulo do dente natural. Indicada para casos com dentes estruturalmente saudáveis que precisam apenas de transformação estética. Veja detalhes em [lente de contato dental](/lente-de-contato-dental/).
+* **Lente de contato dental:** versão ainda mais fina da faceta, com desgaste mínimo ou nulo do dente natural. Indicada para casos com dentes estruturalmente saudáveis que precisam apenas de transformação estética. Veja detalhes em [lente de contato dental](/tratamentos/lentes-de-contato-dental/).
 
 ---
 

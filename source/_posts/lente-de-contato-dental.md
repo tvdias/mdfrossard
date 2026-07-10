@@ -18,7 +18,7 @@ Estética, beleza e a confiança de um lindo sorriso aberto: quem não quer ter?
 
 A odontologia moderna, aliada à tecnologia digital, adquiriu o incrível poder de harmonizar quase que instantaneamente o rosto de uma pessoa. O especialista atua esculpindo um dos pontos de maior impacto inicial na sua simpatia: a moldura do seu sorriso.
 
-Atualmente, a estrela máxima dos consultórios de luxo é, sem dúvidas, a **[lente de contato dental](/tratamentos/estetica-dental/).** 
+Atualmente, a estrela máxima dos consultórios de luxo é, sem dúvidas, a **[lente de contato dental](/tratamentos/lentes-de-contato-dental/).** 
 
 Mas o que esse recurso tem de tão revolucionário em relação aos tratamentos do passado? E quais vantagens reais (sem falsas promessas) ele traz para a sua mastigação e beleza? 
 
