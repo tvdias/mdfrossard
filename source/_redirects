@@ -44,3 +44,6 @@
 # URL antiga indexada (404) -> home (Caminho A)
 /dentista-barra-da-tijuca-3 / 301
 
+# Consolidacao de Facetas (duplicatas -> canonicas)
+/5-razoes-para-usar-faceta-de-porcelana/ /facetas-dentais/ 301
+/facetas-barra-da-tijuca/ /tratamentos/facetas-de-porcelana/ 301

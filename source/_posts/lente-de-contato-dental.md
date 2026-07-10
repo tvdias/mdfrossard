@@ -35,7 +35,7 @@ Continue conosco neste artigo e descubra:
 
 ![Pessoa sorrindo demonstrando as lentes de contato](/images/286efc3d-7fae-44d4-8bdd-35892863a73c_lente-de-contato-dente.webp) 
 
-Antigamente todos conheciam e sonhavam com as requintadas [Facetas de Porcelana](/5-razoes-para-usar-faceta-de-porcelana/), super queridinhas da TV. Embora elas continuem sendo fantásticas, a tecnologia evoluiu, e hoje um degrau ainda mais fino foi alcançado pela **lente de contato dental**.
+Antigamente todos conheciam e sonhavam com as requintadas [Facetas de Porcelana](/facetas-dentais/), super queridinhas da TV. Embora elas continuem sendo fantásticas, a tecnologia evoluiu, e hoje um degrau ainda mais fino foi alcançado pela **lente de contato dental**.
 
 Qual a grande diferença estrutural entre as duas? 
 

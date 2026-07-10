@@ -63,7 +63,7 @@ Muitas vezes o esmalte mal posicionado cobra um lento percurso usando o discreto
 Esse "buraco central" nos da frente deixa os pacientes estigmatizados. E ainda que para nós especialistas muitas assimetrias sejam naturais ao nascer; resolver pela leve largura excedente que as facetas entregam bloqueia magicamente a sombra criando um impacto linear perfeito de revistas famosas.
 
 #### **4) Fraturou ou Ruiu Parcialmente**
-Escorregar e rachar parte incisal é clássico! Enquanto massinhas básicas resolvem rascunhos rasos, reconstruções incisivas usando a inteira **[Faceta em Porcelana](/5-razoes-para-usar-faceta-de-porcelana/)** formam laços coláveis quase irrompíveis protegendo contra futuras falhas fáceis em sorrisos vitais frontais.
+Escorregar e rachar parte incisal é clássico! Enquanto massinhas básicas resolvem rascunhos rasos, reconstruções incisivas usando a inteira **[Faceta em Porcelana](/tratamentos/facetas-de-porcelana/)** formam laços coláveis quase irrompíveis protegendo contra futuras falhas fáceis em sorrisos vitais frontais.
 
 #### **5) Restaurações Deficientes**
 Os antigos procedimentos deixavam remendos feios compostos. As resinas porosas pigmentam café fortemente escurecendo nos anos. Quando isolamos de uma ponta à base inteira por facetas dentais unificamos completamente o disfarce opaco da superfície, resgatando a cor de criança viva que brilha muito!

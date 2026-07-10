@@ -223,6 +223,8 @@ module.exports = function(eleventyConfig) {
       eleventyConfig.ignores.add("source/_posts/como-clarear-os-dentes.md");
       eleventyConfig.ignores.add("source/_posts/5-dicas-para-clarear-os-dentes.md");
       eleventyConfig.ignores.add("source/_posts/como-ter-os-dentes-mais-brancos.md");
+      eleventyConfig.ignores.add("source/_posts/5-razoes-para-usar-faceta-de-porcelana.md");
+      eleventyConfig.ignores.add("source/_posts/facetas-barra-da-tijuca.md");
 
   eleventyConfig.setLibrary("md", markdown);
   eleventyConfig.addExtension("ejs", {
