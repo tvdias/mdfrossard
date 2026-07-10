@@ -33,7 +33,7 @@ Ele ainda pode realizar a profilaxia, que remove "sujeiras" aderidas no dente, 
 
 ## **3- Evite bebidas com corantes**
 
-Todos nos sabemos que o clareamento não é eterno. 
+Todos nos sabemos que o [clareamento](/tratamentos/clareamento-dental/) não é eterno. 
 
 Ao longo do tempo o dente tende a voltar para a cor original. 
 

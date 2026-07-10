@@ -18,7 +18,7 @@ A demanda pela **faceta dental** (ou [facetas de porcelana](/tratamentos/estetic
 
 Isso se deve ao fato maravilhoso de que esses tratamentos artísticos melhoram absurdamente a aparência e a assimetria do nosso sorriso com extrema rapidez! 
 
-Com o uso impecável das **facetas dentais**, focamos em um tratamento cada vez menos invasivo. Ao contrário das coroas totais, a fina faceta dental demandará pouquíssimo ou quase nenhum desgaste no esmalte original do seu dente.
+Com o uso impecável das **[facetas dentais](/tratamentos/facetas-de-porcelana/)**, focamos em um tratamento cada vez menos invasivo. Ao contrário das coroas totais, a fina faceta dental demandará pouquíssimo ou quase nenhum desgaste no esmalte original do seu dente.
 
 Essa solução fantástica pode corrigir a aparência de apenas um dente que sofreu acidente, ou a anatomia por inteira do sorriso completo. Entretanto, precisamos entender que nem todos os cenários bucais permitem criar a **faceta dental**, pois exigem critérios importantes. 
 

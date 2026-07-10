@@ -39,7 +39,7 @@ Antigamente todos conheciam e sonhavam com as requintadas [Facetas de Porcelana]
 
 Qual a grande diferença estrutural entre as duas? 
 
-Ambas são confeccionadas artesanalmente com o mesmo material cerâmico duríssimo. O grande e monumental ganho é cirúrgico: a **lente de contato dental** possui uma espessura física e microscópica drasticamente mais fina que uma faceta padrão.
+Ambas são confeccionadas artesanalmente com o mesmo material cerâmico duríssimo. O grande e monumental ganho é cirúrgico: a **lente de contato dental** possui uma espessura física e microscópica drasticamente mais fina que uma [faceta](/tratamentos/facetas-de-porcelana/) padrão.
 
 * **O Resultado:** Pela lente ser translúcida e agir exatamente como uma "lente humana ungueal", nós conseguimos colar a chapa de porcelana realizando desgastes microscópicos, às vezes próximos a zero, protegendo integralmente a vida do seu dente natural por baixo!
 

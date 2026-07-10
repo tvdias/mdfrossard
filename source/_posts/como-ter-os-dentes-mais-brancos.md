@@ -40,7 +40,7 @@ Podemos realizar o clareamento de consultório, o caseiro ou aliar os dois tipos
 
 ![Dentes mais brancos com facetas](/images/bd793809-cae3-4bf2-9220-f6ce1f569cd1_dentes-mais-brancos-com-facetas.webp) 
 
-A terceira opção de como ter os dentes mais brancos são as facetas dentais. 
+A terceira opção de como ter os dentes mais brancos são as [facetas dentais](/tratamentos/facetas-de-porcelana/). 
 
 Esse tipo de tratamento é de maior complexidade estética, porém seus resultados são ótimos mudando o sorriso da pessoa. 
 

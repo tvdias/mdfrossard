@@ -74,7 +74,7 @@ As facetas de porcelana também podem fazer parte de um {% post_link tratamento-
 
 Nesse caso, mudamos completamente o sorriso do paciente, já que temos que mexer em diversos dentes.
 
-Em um mesmo caso, podemos usar coroas, implantes e facetas. Tudo proporcionando buscar a melhor estética para o nosso paciente.
+Em um mesmo caso, podemos usar coroas, [implantes](/tratamentos/implante-dentario/) e facetas. Tudo proporcionando buscar a melhor estética para o nosso paciente.
 
 ## O sorriso com a faceta de porcelana fica artificial ?
 

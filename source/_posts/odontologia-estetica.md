@@ -36,7 +36,7 @@ As [facetas dentais](/facetas-dentais/) são lâminas finíssimas de cerâmica c
 
 A [lente de contato dental](/lente-de-contato-dental/) é a versão ainda mais fina da faceta: espessura microscópica, desgaste mínimo ou nulo no dente natural. É indicada quando os dentes estão estruturalmente saudáveis e o objetivo é puramente estético.
 
-A diferença entre faceta e lente de contato está essencialmente na espessura e, consequentemente, no quanto o dente precisa ser preparado antes da cimentação. O planejamento define qual das duas se aplica ao seu caso.
+A diferença entre [faceta](/tratamentos/facetas-de-porcelana/) e [lente de contato](/tratamentos/lentes-de-contato-dental/) está essencialmente na espessura e, consequentemente, no quanto o dente precisa ser preparado antes da cimentação. O planejamento define qual das duas se aplica ao seu caso.
 
 Ambas exigem um processo criterioso: análise digital, *mockup* para aprovação prévia do resultado e laboratório especializado.
 
@@ -68,7 +68,7 @@ Com um procedimento minimamente invasivo, realinhamos o contorno da gengiva e ex
 
 A [reabilitação oral](/reabilitacao-oral/) é a integração de múltiplos tratamentos estéticos e funcionais em um único planejamento. Quando o problema vai além de um ou dois dentes e envolve toda a boca — dentes desgastados, perdidos, amarelados e gengiva comprometida — o caminho é a reabilitação oral.
 
-É o trabalho mais complexo da odontologia estética, mas também o de maior transformação. Combinamos clareamento, facetas, coroas, implantes e tratamento periodontal para devolver saúde, função e beleza ao sorriso de forma harmônica.
+É o trabalho mais complexo da odontologia estética, mas também o de maior transformação. Combinamos clareamento, facetas, coroas, [implantes](/tratamentos/implante-dentario/) e tratamento periodontal para devolver saúde, função e beleza ao sorriso de forma harmônica.
 
 ---
 

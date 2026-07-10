@@ -23,9 +23,9 @@ Para mudar o sorriso da pessoas, dispomos de uma série de tratamentos estético
 
 Entre eles temos: 
 
-* Facetas; 
-* Clareamento; 
-* Implantes;
+* [Facetas](/tratamentos/facetas-de-porcelana/); 
+* [Clareamento](/tratamentos/clareamento-dental/); 
+* [Implantes](/tratamentos/implante-dentario/);
 * Coroas entre outros. 
 
 Para exemplificar isso, fizemos um infográfico onde colocamos os 6 principais tratamentos dentários estéticos. 
