@@ -3,7 +3,7 @@
         <div class="container top-bar-inner">
             <div class="contact-info">
                 <a href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)"><i data-lucide="phone" class="icon-sm"></i> (21) 3217-0430</a>
-                <a href="https://api.whatsapp.com/send?phone=5521976637803" target="_blank" rel="noopener"><i data-lucide="smartphone" class="icon-sm"></i> (21) 97663-7803</a>
+                <a href="https://api.whatsapp.com/send?phone=5521976637803" onclick="return gtagSendEventWhatsapp(this.href)"><i data-lucide="smartphone" class="icon-sm"></i> (21) 97663-7803</a>
             </div>
         </div>
     </div>

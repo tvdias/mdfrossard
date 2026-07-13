@@ -40,14 +40,13 @@ document.addEventListener('DOMContentLoaded', function() {
         // Se o link já tem rastreamento manual, não interferimos
         if (hasManualTracking) return;
 
-        // Rastrear Cliques em WhatsApp automaticamente
-        if (href.indexOf('api.whatsapp.com') !== -1 || href.indexOf('wa.me') !== -1) {
-            e.preventDefault();
-            gtagSendEventWhatsapp(href);
-        }
+        // WhatsApp: NAO interceptamos o clique aqui. O link abre nativamente
+        // em nova aba (target=_blank) e o rastreamento fica a cargo do GTM
+        // (trigger "WhatsApp - Clique" -> evento contato_whatsapp). Isso evita
+        // forcar navegacao na mesma aba e elimina a corrida de navegacao.
 
         // Rastrear Cliques em Telefone automaticamente
-        else if (href.indexOf('tel:') === 0) {
+        if (href.indexOf('tel:') === 0) {
             e.preventDefault();
             gtagSendEventTelefone(href);
         }
