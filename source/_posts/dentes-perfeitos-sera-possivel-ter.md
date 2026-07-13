@@ -23,7 +23,8 @@ Para mudar o sorriso da pessoas, dispomos de uma série de tratamentos estético
 
 Entre eles temos: 
 
-* [Facetas](/tratamentos/facetas-de-porcelana/); 
+* [Facetas](/tratamentos/facetas-de-porcelana/);
+* [Lentes de contato](/tratamentos/lentes-de-contato-dental/); 
 * [Clareamento](/tratamentos/clareamento-dental/); 
 * [Implantes](/tratamentos/implante-dentario/);
 * Coroas entre outros. 

@@ -74,7 +74,7 @@ Ficar muitas horas sem comer faz com que o corpo queime gorduras para gerar ener
 
 ![Tratamento da halitose em consultório](/images/df5c58e0-3cbf-455a-9e1c-a423cf854273_halitose.webp) 
 
-O primeiro passo é realizar uma **limpeza profissional (profilaxia)**. Na MD Frossard, removemos o tártaro e os focos de infecção que a escova comum não alcança. 
+O primeiro passo é realizar uma **[limpeza profissional (profilaxia)](/tratamentos/prevencao-manutencao/)**. Na MD Frossard, removemos o tártaro e os focos de infecção que a escova comum não alcança. 
 
 Se a causa for sistêmica (como diabetes ou problemas renais), faremos o encaminhamento para o médico especialista, mas lembre-se: **9 de cada 10 casos são resolvidos aqui na cadeira do dentista.**
 
