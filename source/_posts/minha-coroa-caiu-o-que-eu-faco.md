@@ -76,7 +76,7 @@ Um dente sem coroa está desprotegido contra bactérias. Quanto mais rápido voc
 * <i data-lucide="phone" class="icon-sm"></i> **Botafogo ou Barra:** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
-  <a onclick="return gtagSendEventWhatsapp(this.href)" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Resolver Meu Problema Agora</a>
+  <a target="_blank" rel="noopener" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Resolver Meu Problema Agora</a>
 </div>
 
 **Equipe MD Frossard Odontologia**

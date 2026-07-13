@@ -67,7 +67,7 @@ Na MD Frossard, combinamos planejamento digital e aparelhos estéticos para que 
 * <i data-lucide="phone" class="icon-sm"></i> **Falar na Central (Fixo):** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
-  <a onclick="return gtagSendEventWhatsapp(this.href)" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Avaliar o Uso de Aparelho Ortodôntico</a>
+  <a target="_blank" rel="noopener" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Avaliar o Uso de Aparelho Ortodôntico</a>
 </div>
 
 Um abraço, 

@@ -94,7 +94,7 @@ Não conviva com a dúvida. Agende uma limpeza hoje e sinta a diferença de uma 
 * <i data-lucide="phone" class="icon-sm"></i> **Telefone da Clínica:** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
-  <a onclick="return gtagSendEventWhatsapp(this.href)" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Avaliar o Meu Hálito e Me Sentir Seguro</a>
+  <a target="_blank" rel="noopener" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Avaliar o Meu Hálito e Me Sentir Seguro</a>
 </div>
 
 O mau hálito persistente quase sempre tem causa tratável. Agende uma avaliação com a [MD Frossard Odontologia](/) e descubra a origem.
