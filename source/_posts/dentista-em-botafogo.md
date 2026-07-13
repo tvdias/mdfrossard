@@ -124,6 +124,20 @@ Nossa clínica fica na **Rua Marques, 15**, ao lado da Cobal do Humaitá, próxi
 - **De ônibus:** Diversas linhas circulam pela Rua Voluntários da Pátria e pela Rua Humaitá.
 - **De carro:** Estacionamento disponível na Rua Marques e redondezas.
 
+<br>
+
+<p style="text-align: center;">
+  <iframe
+    src="https://maps.google.com/maps?q=-22.9542345,-43.1964878&t=m&z=16&output=embed&iwloc=near"
+    width="100%"
+    height="300"
+    style="border:0; border-radius: 12px; max-width: 100%;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</p>
+
 ---
 
 ## Perguntas frequentes
