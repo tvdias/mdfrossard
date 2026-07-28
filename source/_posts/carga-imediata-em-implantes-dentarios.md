@@ -42,28 +42,26 @@ Muitos pacientes chegam ao nosso consultório com [dúvidas](/tratamentos/implan
 <span class="eb-tag">Guia gratuito em PDF</span>
 <h3>Vai fazer implante? Baixe o guia antes de decidir.</h3>
 <div class="eb-sub">Um guia completo e honesto: o que é, se é indicado pra você, o passo a passo e como escolher onde fazer — escrito por quem cuida de sorrisos há 38 anos.</div>
-<form action="https://script.google.com/macros/s/AKfycbwUQkMUnE9pKEpiSpAJxQfquovGJlTmGpPHNHBaqRiFghRdd-7605SLiId0WYhcddc9OQ/exec" method="POST" target="mdf_eb_if" onsubmit="return mdfEbookGo(this)">
+<form onsubmit="return mdfEbookGo(this)">
 <input name="nome" type="text" placeholder="Seu nome" required>
 <input name="whatsapp" type="tel" placeholder="Seu WhatsApp (com DDD)" required>
-<input type="hidden" name="guia" value="implante">
-<input type="hidden" name="origem" value="">
 <label class="eb-consent"><input type="checkbox" name="consent" required> Autorizo o contato da MD Frossard e concordo com a <a href="/privacidade/" target="_blank" rel="noopener">Política de Privacidade</a>.</label>
 <button type="submit">Quero o guia gratuito</button>
 <div class="eb-ok" hidden>✓ Pronto! Seu download começou. Ficou com dúvida? Fale com a gente no WhatsApp (21) 97663-7803.</div>
 </form>
-<iframe name="mdf_eb_if" title="envio" style="display:none;width:0;height:0;border:0"></iframe>
 </div>
 <script>
 window.mdfEbookGo=function(f){
 if(!f.nome.value.trim()||!f.whatsapp.value.trim()||!f.consent.checked)return false;
-f.origem.value=location.pathname;
+var U="https://script.google.com/macros/s/AKfycbwUQkMUnE9pKEpiSpAJxQfquovGJlTmGpPHNHBaqRiFghRdd-7605SLiId0WYhcddc9OQ/exec";
+try{var fd=new URLSearchParams({nome:f.nome.value.trim(),whatsapp:f.whatsapp.value.trim(),guia:"implante",origem:location.pathname});fetch(U,{method:"POST",body:fd,mode:"no-cors",keepalive:true});}catch(e){}
 try{window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"ebook_lead",guia:"implante"});}catch(e){}
 try{if(typeof gtag==="function")gtag("event","generate_lead",{lead_source:"ebook_implante"});}catch(e){}
 try{if(typeof fbq==="function")fbq("track","Lead",{content_name:"ebook_implante"});}catch(e){}
 var a=document.createElement("a");a.href="/images/guia-implante-dentario.pdf";a.download="Guia-Implante-MD-Frossard.pdf";document.body.appendChild(a);a.click();a.remove();
 var ok=f.querySelector(".eb-ok");if(ok)ok.hidden=false;
 f.nome.readOnly=true;f.whatsapp.readOnly=true;f.querySelector("button").disabled=true;
-return true;
+return false;
 };
 </script>
 </div>
