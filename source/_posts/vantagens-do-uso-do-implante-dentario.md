@@ -48,7 +48,6 @@ if(!f.nome.value.trim()||!f.whatsapp.value.trim()||!f.consent.checked)return fal
 var U="https://script.google.com/macros/s/AKfycbwUQkMUnE9pKEpiSpAJxQfquovGJlTmGpPHNHBaqRiFghRdd-7605SLiId0WYhcddc9OQ/exec";
 try{var fd=new URLSearchParams({nome:f.nome.value.trim(),whatsapp:f.whatsapp.value.trim(),guia:"implante",origem:location.pathname});fetch(U,{method:"POST",body:fd,mode:"no-cors",keepalive:true});}catch(e){}
 try{window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"ebook_lead",guia:"implante"});}catch(e){}
-try{if(typeof gtag==="function")gtag("event","generate_lead",{lead_source:"ebook_implante"});}catch(e){}
 try{if(typeof fbq==="function")fbq("track","Lead",{content_name:"ebook_implante"});}catch(e){}
 var a=document.createElement("a");a.href="/images/guia-implante-dentario.pdf";a.download="Guia-Implante-MD-Frossard.pdf";document.body.appendChild(a);a.click();a.remove();
 var ok=f.querySelector(".eb-ok");if(ok)ok.hidden=false;
