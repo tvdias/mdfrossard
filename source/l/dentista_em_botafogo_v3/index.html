@@ -577,6 +577,57 @@ section{padding:72px 0}
   </div>
 </section>
 
+<!-- ══ 10B FORMULÁRIO — captação final ══ -->
+<style>
+.lp-form{background:var(--white);padding:72px 0;text-align:center}
+.lp-form-card{max-width:440px;margin:0 auto;background:var(--ivory);border:1px solid rgba(196,148,58,.28);border-radius:14px;padding:24px 22px;text-align:left;box-shadow:var(--sh-sm)}
+.lp-form-card input[type=text],.lp-form-card input[type=tel],.lp-form-card select{width:100%;padding:13px 14px;border-radius:10px;border:1px solid #e4ddcd;background:var(--white);font-size:1rem;font-family:'Inter',sans-serif;color:var(--ink);margin-bottom:11px}
+.lp-form-card select{color:#555}
+.lp-form-card .lf-consent{display:flex;gap:8px;align-items:flex-start;font-size:.72rem;color:var(--muted);line-height:1.5;margin-top:6px}
+.lp-form-card .lf-consent input{width:auto;margin:0;flex-shrink:0;margin-top:2px}
+.lp-form-card .lf-consent a{color:var(--gold-dark);text-decoration:underline}
+.lp-form-btn{width:100%;justify-content:center;margin-top:2px}
+.lp-form-alt{margin-top:20px;font-family:'Outfit',sans-serif;font-size:.85rem;color:var(--muted)}
+.lp-form-alt a{color:#1f8a4c;font-weight:700;display:inline-flex;align-items:center;gap:6px}
+.lf-ok{display:none;max-width:440px;margin:0 auto;background:var(--gold-light);border:1px solid rgba(196,148,58,.4);color:var(--gold-dark);border-radius:14px;padding:22px;font-size:.95rem;line-height:1.6;font-family:'Outfit',sans-serif}
+</style>
+<section class="lp-form">
+  <div class="container">
+    <p class="section-eyebrow rv">Último passo</p>
+    <h2 class="section-title rv">Prefere que a gente<br>entre em contato?</h2>
+    <p class="section-sub rv" style="margin:0 auto 30px">Deixe seu nome e WhatsApp. Nossa equipe de Botafogo retorna para agendar sua avaliação — no seu tempo.</p>
+    <form class="lp-form-card rv" onsubmit="return mdfFormGo(this)">
+      <input name="nome" type="text" placeholder="Seu nome" required>
+      <input name="whatsapp" type="tel" placeholder="Seu WhatsApp (com DDD)" required>
+      <select name="tratamento">
+        <option value="">Tratamento de interesse (opcional)</option>
+        <option>Implante dentário</option>
+        <option>Facetas / Lentes de contato</option>
+        <option>Reabilitação oral</option>
+        <option>Avaliação geral</option>
+      </select>
+      <button type="submit" class="btn btn-gold lp-form-btn">Quero que entrem em contato</button>
+      <label class="lf-consent"><input type="checkbox" name="consent" required> Autorizo o contato da MD Frossard e concordo com a <a href="/privacidade/" target="_blank" rel="noopener">Política de Privacidade</a>.</label>
+    </form>
+    <div class="lf-ok" id="lf-ok">✓ Pronto! Recebemos seu contato — nossa equipe de Botafogo vai te chamar no WhatsApp em breve.</div>
+    <p class="lp-form-alt rv">Prefere falar agora? <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20marcar%20uma%20consulta%20em%20Botafogo." target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg> Chamar no WhatsApp</a></p>
+  </div>
+</section>
+<script>
+window.mdfFormGo=function(f){
+  if(!f.nome.value.trim()||!f.whatsapp.value.trim()||!f.consent.checked)return false;
+  var U="https://script.google.com/macros/s/AKfycbwUQkMUnE9pKEpiSpAJxQfquovGJlTmGpPHNHBaqRiFghRdd-7605SLiId0WYhcddc9OQ/exec";
+  var trat=f.tratamento.value?(" · "+f.tratamento.value):"";
+  try{var fd=new URLSearchParams({nome:f.nome.value.trim(),whatsapp:f.whatsapp.value.trim(),guia:"formulario-botafogo",origem:location.pathname+trat});fetch(U,{method:"POST",body:fd,mode:"no-cors",keepalive:true});}catch(e){}
+  try{window.dataLayer=window.dataLayer||[];window.dataLayer.push({event:"lead_formulario",guia:"formulario-botafogo"});}catch(e){}
+  try{if(typeof fbq==="function")fbq("track","Lead",{content_name:"formulario_lp_botafogo"});}catch(e){}
+  f.style.display="none";
+  var ok=document.getElementById("lf-ok");if(ok)ok.style.display="block";
+  return false;
+};
+</script>
+
+
 <!-- ══ 11 FOOTER ══ -->
 <footer class="lp-footer">
   <div class="container">
