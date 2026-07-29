@@ -388,28 +388,36 @@ section{padding:72px 0}
   </div>
 </section>
 
+<style>
+.equipe-foto{max-width:900px;margin:0 auto;border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-md);aspect-ratio:16/10;background:var(--ivory-dark)}
+.equipe-foto img{width:100%;height:100%;object-fit:cover;object-position:center 22%}
+.equipe-membros{display:grid;grid-template-columns:1fr;gap:14px;max-width:900px;margin:22px auto 0}
+.membro{background:var(--ivory);border:1px solid rgba(0,0,0,.05);border-radius:var(--r);padding:20px 22px;text-align:center}
+.membro-nome{font-family:'Cormorant Garant',serif;font-size:1.32rem;font-weight:700;font-style:italic;color:var(--navy);margin-bottom:5px}
+.membro-titulo{font-family:'Outfit',sans-serif;font-size:.7rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.5px;line-height:1.6}
+@media(min-width:640px){.equipe-membros{grid-template-columns:repeat(3,1fr)}}
+</style>
 <!-- ══ 05 DOUTORES ══ -->
 <section class="doutores">
   <div class="container">
     <p class="section-eyebrow rv" style="text-align:center">Quem te atende</p>
     <h2 class="section-title rv" style="text-align:center;margin-bottom:8px">Pai e filho.<br>38 anos juntos.</h2>
-    <p class="section-sub rv" style="margin:0 auto 40px;text-align:center">Dois especialistas — uma clínica que virou referência em Botafogo.</p>
-    <div class="doutores-grid">
-      <div class="doutor-card rv">
-        <img src="/images/equipe_marcos.webp" alt="Dr. Marcos Frossard — Dentista em Botafogo" class="doutor-foto" loading="lazy" decoding="async" width="400" height="500">
-        <div class="doutor-info">
-          <div class="doutor-nome">Dr. Marcos Frossard</div>
-          <div class="doutor-titulo">CRO-RJ 8058 · Prótese &amp; Estética · 38 anos de carreira</div>
-          <p class="doutor-bio">Fundador da clínica, referência em odontologia restauradora no Rio. Especialista em reabilitações completas com mais de três décadas de experiência — e pacientes que retornam há gerações.</p>
-        </div>
+    <p class="section-sub rv" style="margin:0 auto 36px;text-align:center">Do fundador à nova geração — e uma equipe inteira que faz a clínica ser referência em Botafogo.</p>
+    <div class="equipe-foto rv">
+      <img src="/images/equipe_md_completa.webp" alt="Equipe MD Frossard — Dr. Marcos, Dr. Davi, Dra. Luciana e time — Dentista em Botafogo" loading="lazy" decoding="async" width="1600" height="1066">
+    </div>
+    <div class="equipe-membros">
+      <div class="membro rv">
+        <div class="membro-nome">Dr. Marcos Frossard</div>
+        <div class="membro-titulo">CRO-RJ 8058 · Fundador<br>Prótese &amp; Estética</div>
       </div>
-      <div class="doutor-card rv d1">
-        <img src="/images/equipe_davi.webp" alt="Dr. Davi Frossard — Dentista em Botafogo" class="doutor-foto" loading="lazy" decoding="async" width="400" height="500">
-        <div class="doutor-info">
-          <div class="doutor-nome">Dr. Davi Frossard</div>
-          <div class="doutor-titulo">CRO-RJ 36193 · Implantodontia &amp; Reabilitação</div>
-          <p class="doutor-bio">Especialista em implantes e reabilitação oral com foco em precisão digital. Planejamento 3D, resultado previsível e mínimo tempo de recuperação — cuidando de Botafogo ao lado do Dr. Marcos.</p>
-        </div>
+      <div class="membro rv d1">
+        <div class="membro-nome">Dr. Davi Frossard</div>
+        <div class="membro-titulo">CRO-RJ 36193<br>Implantodontia &amp; Reabilitação</div>
+      </div>
+      <div class="membro rv d2">
+        <div class="membro-nome">Dra. Luciana Peroni</div>
+        <div class="membro-titulo">CRO-RJ 38219<br>Prótese &amp; Endodontia</div>
       </div>
     </div>
   </div>
