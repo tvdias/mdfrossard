@@ -1,30 +1,45 @@
-<!-- ═══ LGPD / Google Consent Mode v2 — DEFAULT DENIED ═══
-     DEVE rodar ANTES de qualquer gtag/gtm. Se o usuário já
-     consentiu em visita anterior, lê o localStorage e libera. -->
+<!-- ═══ LGPD / Google Consent Mode v2 — REGIÃO-SCOPED ═══
+     DEVE rodar ANTES de qualquer gtag/gtm.
+     • EEA / Reino Unido / Suíça: NEGADO por padrão (exigência do Google).
+     • Brasil / resto do mundo: CONCEDIDO por padrão (o Google não exige
+       consentimento fora do EEA; o banner continua permitindo recusar
+       e revogar a qualquer momento).
+     • Decisão salva do usuário (localStorage) tem prioridade sobre tudo. -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   (function(){
+    // EEA + Reino Unido (GB) + Suíça (CH) — onde o consentimento é exigido.
+    var EEA = ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU',
+               'IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES',
+               'SE','IS','LI','NO','GB','CH'];
     var stored = null;
     try { stored = localStorage.getItem('mdf_consent_v1'); } catch(e) {}
+
     if (stored === 'granted') {
+      // Usuário já aceitou numa visita anterior — libera tudo.
       gtag('consent','default',{
-        'ad_storage':'granted',
-        'ad_user_data':'granted',
-        'ad_personalization':'granted',
-        'analytics_storage':'granted',
-        'functionality_storage':'granted',
-        'security_storage':'granted'
+        'ad_storage':'granted','ad_user_data':'granted','ad_personalization':'granted',
+        'analytics_storage':'granted','functionality_storage':'granted','security_storage':'granted'
+      });
+    } else if (stored === 'denied') {
+      // Usuário recusou explicitamente — respeita a recusa em qualquer região.
+      gtag('consent','default',{
+        'ad_storage':'denied','ad_user_data':'denied','ad_personalization':'denied',
+        'analytics_storage':'denied','functionality_storage':'granted','security_storage':'granted'
       });
     } else {
+      // Sem decisão salva: NEGA no EEA/UK/Suíça (region-specific tem prioridade)…
       gtag('consent','default',{
-        'ad_storage':'denied',
-        'ad_user_data':'denied',
-        'ad_personalization':'denied',
-        'analytics_storage':'granted',
-        'functionality_storage':'granted',
-        'security_storage':'granted',
+        'ad_storage':'denied','ad_user_data':'denied','ad_personalization':'denied',
+        'analytics_storage':'denied','functionality_storage':'granted','security_storage':'granted',
+        'region': EEA,
         'wait_for_update': 500
+      });
+      // …e CONCEDE no Brasil / resto do mundo (default sem região).
+      gtag('consent','default',{
+        'ad_storage':'granted','ad_user_data':'granted','ad_personalization':'granted',
+        'analytics_storage':'granted','functionality_storage':'granted','security_storage':'granted'
       });
     }
   })();
