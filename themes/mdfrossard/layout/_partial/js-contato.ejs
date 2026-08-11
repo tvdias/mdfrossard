@@ -41,6 +41,11 @@ $jq("#contactform").submit(function(e) {
         }, { eventID: eventId });
     }
 
+    // OpenAI / ChatGPT Ads — conversão de contato (mesmo nome 'contact' dos demais)
+    if (typeof oaiq === 'function') {
+        oaiq('measure', 'appointment_scheduled', { type: 'customer_action', currency: 'BRL', amount: (typeof window.MDF_CONTACT_VALUE === 'number' ? window.MDF_CONTACT_VALUE : 0) });
+    }
+
     // Espelha como GA4 também — útil para conversion tracking no Google Ads.
     if (typeof gtag === 'function') {
         gtag('event', 'generate_lead', {

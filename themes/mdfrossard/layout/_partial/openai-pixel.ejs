@@ -1,0 +1,9 @@
+<!-- ═══ OpenAI / ChatGPT Ads Pixel (oaiq) ═══════════════════════════
+     SDK carregado via delay-engine (não bloqueia render). A fila oaiq
+     fica disponível ao ativar. Os eventos de conversão (contato) disparam
+     em analytics-events.ejs, junto com Google / Meta / Microsoft UET.
+     OBS: debug:true é para a fase de testes — troque para false ao escalar. -->
+<script type="text/delayed-script">
+!function(w,d,s,u){if(w.oaiq)return;var q=function(){q.q.push(arguments)};q.q=[];w.oaiq=q;var j=d.createElement(s);j.async=1;j.src=u;var f=d.getElementsByTagName(s)[0];f.parentNode.insertBefore(j,f)}(window,document,"script","https://bzrcdn.openai.com/sdk/oaiq.min.js");
+oaiq("init",{pixelId:"5UJeAJC6so4yohQWAuied2",debug:true});
+</script>

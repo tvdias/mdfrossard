@@ -238,6 +238,9 @@ document.addEventListener('DOMContentLoaded', function() {
       if (v) { fbqParams.value = v.value; fbqParams.currency = v.currency; }
       fbq('track', 'Contact', fbqParams, { eventID: eventId });
     }
+        if (typeof oaiq === 'function') {
+      oaiq('measure', 'appointment_scheduled', { type: 'customer_action', currency: (v ? v.currency : 'BRL'), amount: (v ? v.value : 0) });
+    }
     mdfBeaconContact('whatsapp', eventId);
     // Microsoft Ads UET
     window.uetq = window.uetq || [];
@@ -276,6 +279,9 @@ document.addEventListener('DOMContentLoaded', function() {
       if (cat) { fbqParams.content_category = cat; }
       if (v) { fbqParams.value = v.value; fbqParams.currency = v.currency; }
       fbq('track', 'Contact', fbqParams, { eventID: eventId });
+    }
+        if (typeof oaiq === 'function') {
+      oaiq('measure', 'appointment_scheduled', { type: 'customer_action', currency: (v ? v.currency : 'BRL'), amount: (v ? v.value : 0) });
     }
     mdfBeaconContact('phone', eventId);
     // Microsoft Ads UET
