@@ -59,9 +59,9 @@ Fundador da clínica, **CRO-RJ 8058**. Formado pela Universidade Estadual de Lon
 
 Graduação pela PUC-RS, especialização pela UFRGS, **mestrado e doutorado pela UERJ**. Professora de Periodontia no IOPUC-RJ, dedicada ao tratamento de gengiva e suporte dos dentes. [Ver perfil completo](/equipe/magali/).
 
-### Dra. Carolina Ganimi — Endodontia e Implantodontia
+### Dra. Carolina Ganimi — Ortodontia
 
-Formada pela Universidade Estácio de Sá (UNESA), especialista em endodontia e implantodontia pela Associação Brasileira de Odontologia (ABO). [Ver perfil completo](/equipe/carolina/).
+Formada pela Universidade Estácio de Sá (UNESA). Ortodontista da MD Frossard Odontologia, conduz tratamentos de alinhamento dentário com aparelhos fixos, estéticos e alinhadores transparentes. [Ver perfil completo](/equipe/carolina/).
 
 ## As principais características da clínica
 
@@ -79,10 +79,11 @@ Além do corpo clínico, alguns pontos ajudam a entender por que a MD Frossard �
 
 Um dos benefícios de uma clínica multiespecialista é encaminhar cada caso ao profissional certo. Para orientar sua escolha:
 
-- **Vai colocar implante ou repor dentes perdidos?** O caminho é a implantodontia — área do Dr. Davi Frossard e da Dra. Carolina Ganimi.
+- **Vai colocar implante ou repor dentes perdidos?** O caminho é a implantodontia — área do Dr. Davi Frossard.
 - **Quer melhorar a estética do sorriso (facetas, lentes, harmonização dental)?** Reabilitação e estética são o foco do Dr. Marcos Frossard.
 - **Sangramento na gengiva, mobilidade dental ou tratamento periodontal?** A periodontia é conduzida pela Dra. Magali Ribeiro.
-- **Dor de dente, tratamento de canal ou prótese?** Endodontia e prótese ficam com a Dra. Luciana Peroni e a Dra. Carolina Ganimi.
+- **Dor de dente, tratamento de canal ou prótese?** Endodontia e prótese ficam com a Dra. Luciana Peroni.
+- **Quer alinhar os dentes com aparelho ou alinhador transparente?** A ortodontia é conduzida pela Dra. Carolina Ganimi.
 
 Na prática, muitos tratamentos combinam mais de uma especialidade — e é por isso que a integração entre os profissionais faz diferença no resultado final.
 
@@ -109,7 +110,7 @@ Para agendar, fale com a equipe pelo **WhatsApp (21) 97663-7803** ou pelo telefo
     "postalCode": "22640-100",
     "addressCountry": "BR"
   },
-  "medicalSpecialty": ["Implantodontia", "Prótese Dentária", "Periodontia", "Endodontia", "Estética Dental"],
+  "medicalSpecialty": ["Implantodontia", "Prótese Dentária", "Periodontia", "Endodontia", "Estética Dental", "Ortodontia"],
   "member": [
     {
       "@type": "Person",
@@ -141,7 +142,7 @@ Para agendar, fale com a equipe pelo **WhatsApp (21) 97663-7803** ou pelo telefo
     {
       "@type": "Person",
       "name": "Dra. Carolina Ganimi",
-      "jobTitle": "Endodontia e Implantodontia",
+      "jobTitle": "Ortodontia",
       "alumniOf": "Universidade Estácio de Sá (UNESA)"
     }
   ]

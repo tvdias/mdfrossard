@@ -36,8 +36,9 @@
 	{
 		"name": "Carolina Ganimi",
 		"email": "carolina@mdfrossard.com",
-		"bio": "Formada pela UNESA, especialista em endodontia  e implantodontia pela associação Brasileira de Odontologia.",
+		"bio": "Formada pela UNESA. Atua como ortodontista na MD Frossard Odontologia.",
 		"avatar": "/images/authors/carolina.webp",
-		"main": false
+		"main": false,
+		"specialty": "Ortodontia"
 	}
 ]

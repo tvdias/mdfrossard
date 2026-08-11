@@ -61,7 +61,7 @@ Nossa [equipe](/equipe/) é formada por especialistas titulados, cada um com foc
 
 - 👩‍⚕️ **[Dra. Luciana Vieira Peroni ➔](/equipe/luciana/):** Formada pela UERJ, com especialização em Prótese Dentária e Mestrado pela FO-UERJ. Atua em prótese e endodontia para adultos e crianças.
 
-- 👩‍⚕️ **[Dra. Carolina Ganimi ➔](/equipe/carolina/):** Especialista em Endodontia e Implantodontia pela ABO. Referência em tratamento de canal e reabilitação com tecnologia de precisão.
+- 👩‍⚕️ **[Dra. Carolina Ganimi ➔](/equipe/carolina/):** Formada pela UNESA, ortodontista da clínica. Conduz tratamentos de alinhamento dentário com aparelhos fixos, estéticos e alinhadores transparentes.
 
 - 👩‍⚕️ **[Dra. Magali Ribeiro ➔](/equipe/magali/):** Graduação PUC-RS, especialização UFRGS, Mestrado e Doutorado pela UERJ. Professora de Periodontia no IOPUC-RJ. Referência no tratamento de gengiva.
 
