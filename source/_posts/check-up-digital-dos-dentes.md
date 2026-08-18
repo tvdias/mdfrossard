@@ -5,6 +5,8 @@ description: >-
  Assim, a comunicação com o dentista fica mais fácil. 
 date: 2013-11-29T16:09:19.000Z
 featured_image: /images/7909c495-bde1-4dae-8c86-8e171bc5ea41_lips_by_illthrillagorilla.webp
+hero_srcset: "/images/7909c495-bde1-4dae-8c86-8e171bc5ea41_lips_by_illthrillagorilla-800.webp 800w, /images/7909c495-bde1-4dae-8c86-8e171bc5ea41_lips_by_illthrillagorilla.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 noindex: true
 ---
 

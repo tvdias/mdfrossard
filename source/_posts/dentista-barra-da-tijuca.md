@@ -5,6 +5,8 @@ description: "Clínica odontológica na Barra da Tijuca há 38 anos, no Shopping
 date: 2014-05-12T11:02:32.000Z
 updated: 2026-05-17T00:00:00.000Z
 featured_image: /images/uploads/2024/dentista_barra_da_tijuca_md.webp
+hero_srcset: "/images/uploads/2024/dentista_barra_da_tijuca_md-800.webp 800w, /images/uploads/2024/dentista_barra_da_tijuca_md.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 is_location_page: true
 faqs:
   - question: Onde fica a clínica de dentista na Barra da Tijuca?

@@ -4,6 +4,8 @@ author: Davi Heringer Frossard
 description: "Como escolher o melhor dentista na Barra da Tijuca: critérios de formação, especialização e estrutura. Conheça a equipe e o currículo dos dentistas da MD Frossard, 38 anos na Barra."
 date: 2026-08-11T10:00:00.000Z
 featured_image: /images/blog_clinica_barra.webp
+hero_srcset: "/images/blog_clinica_barra-800.webp 800w, /images/blog_clinica_barra.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 category: Clínica
 faqs:
   - question: Como saber se um dentista na Barra da Tijuca é realmente qualificado?

@@ -5,6 +5,8 @@ description: >-
  ele na higiene bucal diária ? Leia o texto agora e descubra !
 date: 2017-09-04T08:00:57.000Z
 featured_image: /images/cbfdb8a3-bd79-4121-a6ca-27322b9ac607_enxaguante-bucal-1.webp
+hero_srcset: "/images/cbfdb8a3-bd79-4121-a6ca-27322b9ac607_enxaguante-bucal-1-800.webp 800w, /images/cbfdb8a3-bd79-4121-a6ca-27322b9ac607_enxaguante-bucal-1.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 ---
 Escovar os dentes 3 vezes ao dia ou após as refeições, usar o fio dental constantemente e, para muitos, usar um enxaguante bucal são passos para manter uma boa saúde bucal. 
 

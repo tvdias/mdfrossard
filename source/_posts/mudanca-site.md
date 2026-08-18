@@ -5,6 +5,8 @@ description: >-
  site. Você agora irá encontrar muita informação de qualidade. 
 date: 2014-04-10T12:31:06.000Z
 featured_image: /images/dbc110b0-2652-4e8a-ad7b-95fa0fd3856d_Mudanca-site.webp
+hero_srcset: "/images/dbc110b0-2652-4e8a-ad7b-95fa0fd3856d_Mudanca-site-800.webp 800w, /images/dbc110b0-2652-4e8a-ad7b-95fa0fd3856d_Mudanca-site.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 noindex: true
 ---
 

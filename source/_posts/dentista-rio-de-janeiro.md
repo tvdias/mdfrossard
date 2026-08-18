@@ -5,6 +5,8 @@ description: >-
  Precisa de dentista no Rio de Janeiro? Possuímos duas clinica de alto padrão nessa cidade. Realize seu tratamento com conforto e segurança em nossa clínica.
 date: 2015-08-28T09:20:36.000Z
 featured_image: /images/d5bbe970-79ea-4846-8f8d-8fbdccb08046_dentista-rio-de-janeiro.webp
+hero_srcset: "/images/d5bbe970-79ea-4846-8f8d-8fbdccb08046_dentista-rio-de-janeiro-800.webp 800w, /images/d5bbe970-79ea-4846-8f8d-8fbdccb08046_dentista-rio-de-janeiro.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 updated: 2026-06-12T00:00:00.000Z
 faqs:
   - question: "Onde a MD Frossard atende no Rio de Janeiro?"

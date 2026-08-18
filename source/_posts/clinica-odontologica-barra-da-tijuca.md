@@ -3,6 +3,8 @@ title: "Estrutura da Clínica Odontológica na Barra da Tijuca"
 description: "Tour pela estrutura da clínica odontológica MD Frossard na Barra da Tijuca: salas, equipamentos, biossegurança e localização no Shopping Città América."
 date: 2024-06-04T10:00:00.000Z
 featured_image: /images/blog_clinica_barra.webp
+hero_srcset: "/images/blog_clinica_barra-800.webp 800w, /images/blog_clinica_barra.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 category: Clínica
 ---
 

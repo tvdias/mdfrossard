@@ -3,6 +3,8 @@ title: 'Aparelho Ortodôntico: 7 Dúvidas Comuns sobre Ortodontia'
 description: "A Ortodontia promove o correto posicionamento dos dentes e ossos maxilares. Conheça os benefícios e tire as 7 principais dúvidas sobre o uso de aparelho."
 date: 2015-02-22T18:49:48.000Z
 featured_image: /images/7669bdff-4faa-45aa-b565-c3de3aa64ddf_Ortodontia.webp
+hero_srcset: "/images/7669bdff-4faa-45aa-b565-c3de3aa64ddf_Ortodontia-800.webp 800w, /images/7669bdff-4faa-45aa-b565-c3de3aa64ddf_Ortodontia.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 ---
 
 A busca por um sorriso perfeitamente alinhado tem despertado o interesse de pessoas em todas as fases da vida. Mais do que estética, a **[Ortodontia](/tratamentos/ortodontia/)** é a especialidade responsável por devolver a função correta à sua mastigação e prevenir problemas graves de saúde.

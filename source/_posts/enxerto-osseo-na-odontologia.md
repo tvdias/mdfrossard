@@ -7,6 +7,8 @@ description: >-
 date: 2017-12-04T09:00:03.000Z
 updated: 2026-05-20T00:00:00.000Z
 featured_image: /images/b3a03403-589f-4312-90ad-9bce2d4a86a6_enxerto-osseo.webp
+hero_srcset: "/images/b3a03403-589f-4312-90ad-9bce2d4a86a6_enxerto-osseo-800.webp 800w, /images/b3a03403-589f-4312-90ad-9bce2d4a86a6_enxerto-osseo.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 ---
 Uma das perguntas mais frequentes que recebo de pacientes que precisam de implantes é sobre o **enxerto ósseo**: quando é necessário, como funciona e se é doloroso. Vou explicar de forma clara neste texto. 
 

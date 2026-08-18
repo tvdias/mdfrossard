@@ -3,6 +3,8 @@ title: "Como Escolher Dentista na Barra da Tijuca: 7 Critérios"
 description: "Como escolher dentista na Barra da Tijuca? 7 critérios objetivos para avaliar formação, biossegurança, tecnologia, atendimento e o histórico da clínica."
 date: 2024-06-21T10:00:10.000Z
 featured_image: /images/blog_clinica_barra.webp
+hero_srcset: "/images/blog_clinica_barra-800.webp 800w, /images/blog_clinica_barra.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 category: Clínica
 ---
 

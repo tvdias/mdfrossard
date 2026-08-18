@@ -5,6 +5,8 @@ description: >-
  dentários. Existem 3 tratamentos que possibilitam isso. 
 date: 2018-04-02T08:00:01.000Z
 featured_image: /images/dc782d13-2156-49da-a708-51b1bf1e3ad5_dentes-brancos-e-o-clareamento.webp
+hero_srcset: "/images/dc782d13-2156-49da-a708-51b1bf1e3ad5_dentes-brancos-e-o-clareamento-800.webp 800w, /images/dc782d13-2156-49da-a708-51b1bf1e3ad5_dentes-brancos-e-o-clareamento.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 noindex: true
 ---
 

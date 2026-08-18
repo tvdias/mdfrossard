@@ -5,6 +5,8 @@ description: >-
  explicamos o que seria esse tipo de trabalho e quais as suas classificações.
 date: 2017-02-15T09:55:01.000Z
 featured_image: /images/611839b1-e153-4d42-b2bb-97d0c04e53ef_protese-dentaria-fixa.webp
+hero_srcset: "/images/611839b1-e153-4d42-b2bb-97d0c04e53ef_protese-dentaria-fixa-800.webp 800w, /images/611839b1-e153-4d42-b2bb-97d0c04e53ef_protese-dentaria-fixa.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 ---
 
 Na odontologia procuramos sempre atender o paciente da melhor forma, onde a principal meta é tratar e cuidar da cavidade bucal com soluções como uma [prótese dentária](/tratamentos/protese-dentaria/) fixa quando necessário. 

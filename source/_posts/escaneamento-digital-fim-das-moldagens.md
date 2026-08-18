@@ -4,6 +4,8 @@ author: Davi Heringer Frossard
 description: "Ainda tem receio da massinha de moldagem e da sensação de ânsia? Conheça o escaneamento digital intraoral: mais conforto, precisão e rapidez na sua consulta."
 date: 2026-07-23T12:00:00.000Z
 featured_image: /images/marcos_consultorio.webp
+hero_srcset: "/images/marcos_consultorio-800.webp 800w, /images/marcos_consultorio.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 ---
 
 Se você já fez uma coroa, uma prótese ou um aparelho, provavelmente conhece a parte mais temida da consulta: aquela moldeira cheia de massa levada até o fundo da boca, o gosto estranho e a sensação de ânsia enquanto o material endurece. Para muita gente, é o pior momento do tratamento — e o motivo de adiar procedimentos importantes.

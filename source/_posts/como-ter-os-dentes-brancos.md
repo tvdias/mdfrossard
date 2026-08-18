@@ -5,6 +5,8 @@ description: >-
  de muitos. Leia o texto e descubra 3 tratamentos para realizar isso.
 date: 2017-11-06T09:00:35.000Z
 featured_image: /images/fc561e01-38ad-4697-8ee4-db276bc4d753_dentes-brancos.webp
+hero_srcset: "/images/fc561e01-38ad-4697-8ee4-db276bc4d753_dentes-brancos-800.webp 800w, /images/fc561e01-38ad-4697-8ee4-db276bc4d753_dentes-brancos.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 ---
 Ter os **dentes brancos** e saudáveis é o sonho de muitos e provavelmente o seu também. 
 

@@ -5,6 +5,8 @@ description: >-
  agilizar o tratamento estando fora do seu estado ou país. 
 date: 2014-09-18T10:00:41.000Z
 featured_image: /images/50f06e1f-1e17-4df6-9273-e779a1d7c442_image.webp
+hero_srcset: "/images/50f06e1f-1e17-4df6-9273-e779a1d7c442_image-800.webp 800w, /images/50f06e1f-1e17-4df6-9273-e779a1d7c442_image.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 ---
 Esse texto é voltado para pessoas **procurando dentista para estrangeiros** na cidade do Rio de Janeiro. 
 

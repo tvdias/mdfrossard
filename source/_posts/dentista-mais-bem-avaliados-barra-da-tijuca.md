@@ -3,6 +3,8 @@ title: "Avaliações dos Pacientes — MD Frossard na Barra da Tijuca"
 description: "Depoimentos reais de pacientes da MD Frossard na Barra da Tijuca: implantes, facetas e reabilitação oral. Veja por que somos referência em atendimento."
 date: 2024-06-25T10:00:15.000Z
 featured_image: /images/blog_clinica_barra.webp
+hero_srcset: "/images/blog_clinica_barra-800.webp 800w, /images/blog_clinica_barra.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 category: Clínica
 ---
 

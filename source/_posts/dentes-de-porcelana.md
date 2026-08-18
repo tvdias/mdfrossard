@@ -7,6 +7,8 @@ description: >-
 date: 2017-10-09T08:00:53.000Z
 updated: 2026-06-12T00:00:00.000Z
 featured_image: /images/9f7a46a2-9006-4366-aa0f-335bc15c76e8_dentes-de-porcelana.webp
+hero_srcset: "/images/9f7a46a2-9006-4366-aa0f-335bc15c76e8_dentes-de-porcelana-800.webp 800w, /images/9f7a46a2-9006-4366-aa0f-335bc15c76e8_dentes-de-porcelana.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 faqs:
   - question: "Qual a diferença entre faceta e lente de contato dental?"
     answer: "Ambas são lâminas de porcelana fixadas na frente do dente. A lente de contato é ultrafina (0,2 a 0,4 mm) e geralmente exige desgaste mínimo ou nenhum; a faceta convencional é um pouco mais espessa e indicada quando há mais correções a fazer."

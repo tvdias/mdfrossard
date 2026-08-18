@@ -6,6 +6,8 @@ description: >-
 date: 2014-12-04T14:06:39.000Z
 updated: 2026-06-12T00:00:00.000Z
 featured_image: /images/uploads/2014/03/Clareamento-dental.webp
+hero_srcset: "/images/uploads/2014/03/Clareamento-dental-800.webp 800w, /images/uploads/2014/03/Clareamento-dental.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 faqs:
   - question: "O que é carga imediata em implantes?"
     answer: "É a instalação de um dente provisório fixo sobre o implante logo após a cirurgia — o paciente sai do consultório com o dente, sem esperar os meses de osseointegração para ter estética e função."

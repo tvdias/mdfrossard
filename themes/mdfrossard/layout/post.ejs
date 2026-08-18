@@ -176,7 +176,11 @@ var readingTime = Math.max(1, Math.round(wordCount / 200));
                 </div>
             <% } %>
 
+            <% if (typeof hero_srcset !== 'undefined' && hero_srcset) { %>
+            <img src="<%= p.featured_image || '/images/uploads/2024/md_odontologia_barra.webp' %>" srcset="<%= hero_srcset %>" sizes="<%= (typeof hero_sizes !== 'undefined' && hero_sizes) ? hero_sizes : '(min-width: 780px) 780px, 100vw' %>" loading="eager" fetchpriority="high" decoding="async" width="1200" height="675" alt="<%= p.title %>" class="article-img reveal">
+            <% } else { %>
             <img src="<%= p.featured_image || '/images/uploads/2024/md_odontologia_barra.webp' %>" loading="eager" fetchpriority="high" decoding="async" width="1200" height="675" alt="<%= p.title %>" class="article-img reveal">
+            <% } %>
 
             <div class="content reveal">
                 <%- content %>

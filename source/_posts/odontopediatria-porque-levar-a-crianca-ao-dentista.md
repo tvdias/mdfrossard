@@ -6,6 +6,8 @@ description: >-
  dicas importantes no cuidado dos dentes de seu filho.
 date: 2014-07-15T08:12:22.000Z
 featured_image: /images/1f74c7e4-db1e-4dee-9144-ee6e2e1dafc0_Crianca-odontologia.webp
+hero_srcset: "/images/1f74c7e4-db1e-4dee-9144-ee6e2e1dafc0_Crianca-odontologia-800.webp 800w, /images/1f74c7e4-db1e-4dee-9144-ee6e2e1dafc0_Crianca-odontologia.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 ---
 
 Hoje o tema do nosso post é sobre **odontopediatria**, ou seja, a área voltada para o atendimento de crianças. Nossa clínica conta com profissional especializado no atendimento infantil.

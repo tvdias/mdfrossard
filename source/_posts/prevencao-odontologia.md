@@ -5,6 +5,8 @@ description: >-
  uma doença nos seus dentes. Já que conseguimos detectar o problema antes. 
 date: 2013-10-24T09:24:14.000Z
 featured_image: /images/a016a30f-26c9-4a99-86f9-fd2a0662223a_Foto-1.webp
+hero_srcset: "/images/a016a30f-26c9-4a99-86f9-fd2a0662223a_Foto-1-800.webp 800w, /images/a016a30f-26c9-4a99-86f9-fd2a0662223a_Foto-1.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 noindex: true
 ---
 

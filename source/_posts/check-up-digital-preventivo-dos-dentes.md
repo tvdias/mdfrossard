@@ -8,6 +8,8 @@ tags:
  - prevenção
 url: 382.html
 featured_image: '/images/6f943b01-fda8-4519-bf6d-1e2fad45ba41_14.webp'
+hero_srcset: "/images/6f943b01-fda8-4519-bf6d-1e2fad45ba41_14-800.webp 800w, /images/6f943b01-fda8-4519-bf6d-1e2fad45ba41_14.webp 1600w"
+hero_sizes: "(min-width: 780px) 780px, 100vw"
 id: 382
 categories:
  - Sem categoria
