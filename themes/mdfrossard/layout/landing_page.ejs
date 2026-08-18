@@ -16,8 +16,27 @@
     <meta name="robots" content="noindex, nofollow">
     <% } %>
 
+    <%
+    // Todas as combinações de google_fonts usadas nas LPs hoje (levantamento em 2026-08-18)
+    // já têm arquivo local correspondente — servimos via @font-face e pulamos o Google Fonts.
+    // Combos novos que não estiverem nesta lista continuam caindo no Google Fonts normalmente.
+    const SELF_HOSTED_COMBOS = new Set([
+      "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600",
+      "Outfit:wght@300;400;500;600;700;800;900&family=Inter:wght@300;400;500;600",
+      "Outfit:wght@500;600;700;800&family=Inter:wght@400;500;600",
+      "Outfit:wght@500;600;700;800&family=Inter:wght@400;500;600;700",
+      "Outfit:wght@600..900&family=Inter:wght@400..700",
+      "Outfit:wght@600;700;800;900&family=Inter:wght@400;600",
+      "Outfit:wght@400;600;700;800;900&family=Inter:wght@400;500;600&family=Barlow+Condensed:wght@700;800;900",
+      "Inter:wght@400;700",
+      "Cormorant+Garant:ital,wght@0,600;0,700;1,600;1,700;1,800&family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700"
+    ]);
+    const useSelfHostedFonts = (typeof google_fonts !== 'undefined' && SELF_HOSTED_COMBOS.has(google_fonts));
+    %>
+    <% if (!useSelfHostedFonts) { %>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <% } %>
     <!-- Preconnect: Google Tag Manager, GA4, Ads -->
     <link rel="preconnect" href="https://www.googletagmanager.com">
     <link rel="preconnect" href="https://www.google-analytics.com">
@@ -28,7 +47,34 @@
     <link rel="dns-prefetch" href="https://api.whatsapp.com">
     <link rel="preconnect" href="https://bat.bing.net">
     <link rel="dns-prefetch" href="https://bat.bing.net">
-    <% if (typeof google_fonts !== 'undefined' && google_fonts) { %>
+    <% if (useSelfHostedFonts) { %>
+    <!-- Fontes self-hosted via @font-face (sem round-trip pro Google Fonts).
+         'Cormorant Garant' é o nome usado no CSS existente das LPs (erro de digitação
+         de 'Cormorant Garamond' já presente no conteúdo) — mantido aqui de propósito
+         pra apontar pro arquivo certo sem precisar editar o CSS de cada LP. -->
+    <style>
+    @font-face{font-family:'Outfit';font-style:normal;font-weight:300;font-display:swap;src:url('/fonts/outfit-300.woff2') format('woff2')}
+    @font-face{font-family:'Outfit';font-style:normal;font-weight:400;font-display:swap;src:url('/fonts/outfit-400.woff2') format('woff2')}
+    @font-face{font-family:'Outfit';font-style:normal;font-weight:500;font-display:swap;src:url('/fonts/outfit-500.woff2') format('woff2')}
+    @font-face{font-family:'Outfit';font-style:normal;font-weight:600;font-display:swap;src:url('/fonts/outfit-600.woff2') format('woff2')}
+    @font-face{font-family:'Outfit';font-style:normal;font-weight:700;font-display:swap;src:url('/fonts/outfit-700.woff2') format('woff2')}
+    @font-face{font-family:'Outfit';font-style:normal;font-weight:800;font-display:swap;src:url('/fonts/outfit-800.woff2') format('woff2')}
+    @font-face{font-family:'Outfit';font-style:normal;font-weight:900;font-display:swap;src:url('/fonts/outfit-900.woff2') format('woff2')}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:300;font-display:swap;src:url('/fonts/inter-300.woff2') format('woff2')}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url('/fonts/inter-400.woff2') format('woff2')}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:500;font-display:swap;src:url('/fonts/inter-500.woff2') format('woff2')}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:600;font-display:swap;src:url('/fonts/inter-600.woff2') format('woff2')}
+    @font-face{font-family:'Inter';font-style:normal;font-weight:700;font-display:swap;src:url('/fonts/inter-700.woff2') format('woff2')}
+    @font-face{font-family:'Cormorant Garant';font-style:normal;font-weight:600;font-display:swap;src:url('/fonts/cormorant-garamond-600.woff2') format('woff2')}
+    @font-face{font-family:'Cormorant Garant';font-style:normal;font-weight:700;font-display:swap;src:url('/fonts/cormorant-garamond-700.woff2') format('woff2')}
+    @font-face{font-family:'Cormorant Garant';font-style:italic;font-weight:600;font-display:swap;src:url('/fonts/cormorant-garamond-600italic.woff2') format('woff2')}
+    @font-face{font-family:'Cormorant Garant';font-style:italic;font-weight:700;font-display:swap;src:url('/fonts/cormorant-garamond-700italic.woff2') format('woff2')}
+    @font-face{font-family:'Cormorant Garant';font-style:italic;font-weight:800;font-display:swap;src:url('/fonts/cormorant-garamond-700italic.woff2') format('woff2')}
+    @font-face{font-family:'Barlow Condensed';font-style:normal;font-weight:700;font-display:swap;src:url('/fonts/barlow-condensed-700.woff2') format('woff2')}
+    @font-face{font-family:'Barlow Condensed';font-style:normal;font-weight:800;font-display:swap;src:url('/fonts/barlow-condensed-800.woff2') format('woff2')}
+    @font-face{font-family:'Barlow Condensed';font-style:normal;font-weight:900;font-display:swap;src:url('/fonts/barlow-condensed-900.woff2') format('woff2')}
+    </style>
+    <% } else if (typeof google_fonts !== 'undefined' && google_fonts) { %>
     <!-- Google Fonts: carregamento não-bloqueante para melhor LCP/FCP -->
     <link href="https://fonts.googleapis.com/css2?family=<%= google_fonts %>&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
     <noscript><link href="https://fonts.googleapis.com/css2?family=<%= google_fonts %>&display=swap" rel="stylesheet"></noscript>

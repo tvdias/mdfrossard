@@ -247,6 +247,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "source/admin": "admin" });
   eleventyConfig.addPassthroughCopy({ "source/robots.txt": "robots.txt" });
   eleventyConfig.addPassthroughCopy({ "source/llms.txt": "llms.txt" });
+  eleventyConfig.addPassthroughCopy({ "source/fonts": "fonts" });
   eleventyConfig.addPassthroughCopy({ "source/_redirects": "_redirects" });
   eleventyConfig.addPassthroughCopy({ "source/_headers": "_headers" });
   for (const assetGlob of contentAssetGlobs) {
@@ -279,6 +280,29 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addGlobalData("format_date_xml", () => dateXml);
   eleventyConfig.addGlobalData("build_post", () => buildPost);
   eleventyConfig.addGlobalData("open_graph", () => renderOpenGraph);
+
+  // Retorna {width, height} de uma imagem em /source a partir do caminho público (ex: "/images/foo.webp").
+  // Usado em templates EJS para evitar Cumulative Layout Shift (CLS) sem hardcodar dimensões.
+  eleventyConfig.addGlobalData("image_size", () => (src) => {
+    if (!src || typeof src !== "string" || src.startsWith("http") || src.startsWith("//")) {
+      return { width: "", height: "" };
+    }
+    try {
+      let imagePath = decodeURIComponent(src.split("?")[0].split("#")[0]);
+      let fullPath = path.join(__dirname, "source", imagePath);
+      if (!fs.existsSync(fullPath)) {
+        const nfdPath = path.join(__dirname, "source", imagePath.normalize("NFD"));
+        if (fs.existsSync(nfdPath)) fullPath = nfdPath;
+      }
+      if (fs.existsSync(fullPath)) {
+        const dimensions = sizeOf(fullPath);
+        return { width: dimensions.width, height: dimensions.height };
+      }
+    } catch (e) {
+      console.log("[image_size] erro para", src, e.message);
+    }
+    return { width: "", height: "" };
+  });
 
   eleventyConfig.addTransform("render-hexo-tags", (content, outputPath) => {
     if (!outputPath || !outputPath.endsWith(".html")) {
