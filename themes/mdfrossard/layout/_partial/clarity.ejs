@@ -1,5 +1,7 @@
-<!-- Microsoft Clarity — adiado via delay-engine (1ª interação ou 3500ms) p/ reduzir TBT/INP -->
-<link rel="preconnect" href="https://www.clarity.ms">
+<!-- Microsoft Clarity — adiado via delay-engine (1ª interação ou 3500ms) p/ reduzir TBT/INP.
+     Sem preconnect: como o script só carrega depois do delay, reservar a conexão no
+     <head> só competia com recursos críticos (fontes/imagem do LCP) sem ganho real —
+     ficou só o dns-prefetch, que resolve o DNS sem abrir handshake TCP/TLS. -->
 <link rel="dns-prefetch" href="https://www.clarity.ms">
 <script type="text/delayed-script">
 (function(c,l,a,r,i,t,y){
