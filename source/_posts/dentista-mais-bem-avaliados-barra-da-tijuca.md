@@ -94,7 +94,7 @@ De acordo com os depoimentos recebidos, os tratamentos que mais geram avaliaçõ
 
 ## Agende sua Avaliação na Barra da Tijuca
 
-Quer ter a mesma experiência dos nossos pacientes mais satisfeitos? O primeiro passo é agendar uma avaliação. Na consulta inicial, apresentamos um diagnóstico detalhado e um plano de tratamento personalizado — sem pressão e sem compromisso.
+Quer ter a mesma experiência dos nossos pacientes mais satisfeitos? O primeiro passo é agendar uma avaliação. Na consulta inicial, apresentamos um diagnóstico detalhado e um plano de tratamento personalizado.
 
 - 📞 **(21) 97663-7803**
 - 💬 **[WhatsApp (21) 97663-7803](https://api.whatsapp.com/send?phone=5521976637803)**

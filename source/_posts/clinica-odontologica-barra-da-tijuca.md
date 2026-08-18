@@ -55,7 +55,7 @@ Todas as especialidades odontológicas são executadas no mesmo endereço — vo
 
 ## Conheça a clínica pessoalmente
 
-Marque uma visita sem compromisso para conhecer a estrutura antes de iniciar tratamento longo. Para falar com nossa equipe:
+Marque uma visita para conhecer a estrutura antes de iniciar tratamento longo. Para falar com nossa equipe:
 
 - **(21) 97663-7803**
 - [**WhatsApp (21) 97663-7803**](https://api.whatsapp.com/send?phone=5521976637803)

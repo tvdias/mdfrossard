@@ -220,14 +220,16 @@ module.exports = function(eleventyConfig) {
 
   // Ignora pastas internas (rascunhos, etc.) — nunca devem ser renderizadas como páginas públicas
   eleventyConfig.ignores.add("source/_drafts/**");
-      eleventyConfig.ignores.add("source/_posts/como-clarear-os-dentes.md");
-      eleventyConfig.ignores.add("source/_posts/5-dicas-para-clarear-os-dentes.md");
-      eleventyConfig.ignores.add("source/_posts/como-ter-os-dentes-mais-brancos.md");
-      eleventyConfig.ignores.add("source/_posts/5-razoes-para-usar-faceta-de-porcelana.md");
-      eleventyConfig.ignores.add("source/_posts/facetas-barra-da-tijuca.md");
-      eleventyConfig.ignores.add("source/_posts/implante-dentario-mitos-e-verdades.md");
-      eleventyConfig.ignores.add("source/_posts/implante-dentario-barra-da-tijuca.md");
-      eleventyConfig.ignores.add("source/_posts/vantagens-do-uso-do-implante-dentario.md");
+  // Consolidação de SEO (jul/2026): estes posts foram substituídos por páginas canônicas
+  // e têm redirect 301 em source/_redirects. NÃO reativar sem remover o redirect correspondente.
+  eleventyConfig.ignores.add("source/_posts/como-clarear-os-dentes.md");
+  eleventyConfig.ignores.add("source/_posts/5-dicas-para-clarear-os-dentes.md");
+  eleventyConfig.ignores.add("source/_posts/como-ter-os-dentes-mais-brancos.md");
+  eleventyConfig.ignores.add("source/_posts/5-razoes-para-usar-faceta-de-porcelana.md");
+  eleventyConfig.ignores.add("source/_posts/facetas-barra-da-tijuca.md");
+  eleventyConfig.ignores.add("source/_posts/implante-dentario-mitos-e-verdades.md");
+  eleventyConfig.ignores.add("source/_posts/implante-dentario-barra-da-tijuca.md");
+  eleventyConfig.ignores.add("source/_posts/vantagens-do-uso-do-implante-dentario.md");
 
   eleventyConfig.setLibrary("md", markdown);
   eleventyConfig.addExtension("ejs", {
@@ -351,7 +353,7 @@ module.exports = function(eleventyConfig) {
     if (!outputPath || !outputPath.endsWith(".html")) return content;
     if (!content.includes('<div class="content reveal">')) return content;
 
-    const ctaHtml = `<div class="post-mid-cta"><p class="post-mid-cta__eyebrow">MD Frossard Odontologia</p><p class="post-mid-cta__headline">Tem dúvidas sobre esse tratamento?</p><p class="post-mid-cta__sub">Fale com nossos especialistas e agende sua avaliação sem compromisso — respondemos no mesmo dia.</p><a href="https://api.whatsapp.com/send?phone=5521976637803&amp;text=Ol%C3%A1%2C%20gostaria%20de%20tirar%20d%C3%BAvidas%20sobre%20um%20tratamento." onclick="return gtagSendEventWhatsapp(this.href)" class="post-mid-cta__btn">💬 Falar no WhatsApp</a></div>`;
+    const ctaHtml = `<div class="post-mid-cta"><p class="post-mid-cta__eyebrow">MD Frossard Odontologia</p><p class="post-mid-cta__headline">Tem dúvidas sobre esse tratamento?</p><p class="post-mid-cta__sub">Fale com nossos especialistas e agende sua avaliação — respondemos no mesmo dia.</p><a href="https://api.whatsapp.com/send?phone=5521976637803&amp;text=Ol%C3%A1%2C%20gostaria%20de%20tirar%20d%C3%BAvidas%20sobre%20um%20tratamento." onclick="return gtagSendEventWhatsapp(this.href)" class="post-mid-cta__btn">💬 Falar no WhatsApp</a></div>`;
 
     // Localiza o bloco de conteúdo do post
     const marker = '<div class="content reveal">';

@@ -166,7 +166,7 @@ Resposta curta: na maioria dos casos, sim — mas com adaptações.
 
 ## Pronto pra começar?
 
-Se você quer ver como ficaria seu sorriso com facetas — sem compromisso e sem pressão pra fechar tratamento — agende uma avaliação na nossa clínica de **facetas na Barra da Tijuca**:
+Se você quer ver como ficaria seu sorriso com facetas, agende uma avaliação na nossa clínica de **facetas na Barra da Tijuca**:
 
 - **📞 (21) 97663-7803**
 - **💬 [WhatsApp (21) 97663-7803](https://api.whatsapp.com/send?phone=5521976637803)**
