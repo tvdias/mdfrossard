@@ -1,6 +1,8 @@
 <!-- Microsoft Advertising UET Tag — LGPD-aware + Delay-engine-aware
-     Para visitantes recorrentes (consent já concedido): aguarda o delay-engine
-     (primeira interação ou 3500ms) antes de carregar bat.js — reduz TBT.
+     Para visitantes recorrentes (consent já concedido): aguarda o mesmo
+     padrão do delay-engine (requestIdleCallback com teto de 3500ms) antes
+     de carregar bat.js — reduz TBT sem amarrar o carregamento à primeira
+     interação real do usuário (isso inflava o INP).
      Para novos visitantes: aguarda o evento 'mdf:consent:granted' do consent-banner.
      window.uetq é inicializado imediatamente como fila — eventos de conversão
      disparados antes do carregamento do UET são enfileirados e processados depois. -->
@@ -35,19 +37,14 @@ window.uetq = window.uetq || [];
   try { consent = localStorage.getItem('mdf_consent_v1'); } catch(e) {}
 
   if (consent === 'granted') {
-    // Visitante recorrente: adia carregamento para o delay-engine
-    // (primeira interação do usuário ou fallback de 3500ms).
+    // Visitante recorrente: adia carregamento pro primeiro momento ocioso
+    // do navegador, com teto de 3500ms — nunca preso à interação do usuário.
     // bat.js fica em cache do preconnect/dns-prefetch — execução rápida ao disparar.
-    var _uetFired = false;
-    function _uetOnce() {
-      if (_uetFired) return;
-      _uetFired = true;
-      doLoadUET();
+    if ('requestIdleCallback' in window) {
+      requestIdleCallback(doLoadUET, {timeout: 3500});
+    } else {
+      setTimeout(doLoadUET, 3500);
     }
-    ['scroll', 'mousemove', 'touchstart', 'click'].forEach(function(evt) {
-      window.addEventListener(evt, _uetOnce, { once: true, passive: true });
-    });
-    setTimeout(_uetOnce, 3500);
   } else {
     // Novo visitante: aguarda consent explícito.
     // O clique no banner LGPD também dispara o delay-engine,

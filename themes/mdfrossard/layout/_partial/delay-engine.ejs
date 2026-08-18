@@ -1,17 +1,16 @@
-<!-- Delay Engine For Scripts (GTM & FB) -->
+<!-- Delay Engine For Scripts (GTM & FB)
+     Carrega no primeiro momento ocioso do navegador (requestIdleCallback),
+     com teto de 3500ms. NÃO fica mais amarrado à primeira interação do
+     usuário (scroll/click/touchstart/mousemove): rodar vários scripts de
+     terceiros dentro do mesmo evento que o INP mede era o que estava
+     inflando a métrica de Interactivity no CrUX. -->
 <script>
 (function() {
   var delayedFired = false;
-  var delayTimer;
 
   function fireDelayedScripts() {
     if (delayedFired) return;
     delayedFired = true;
-
-    // Cancela o fallback de 3500ms se disparado por interação do usuário
-    if (delayTimer) clearTimeout(delayTimer);
-    // Os listeners foram registrados com once:true — o browser já os removeu
-    // automaticamente no primeiro disparo. Não é necessário removeEventListener manual.
 
     // Find all delayed scripts and execute them
     var scripts = document.querySelectorAll('script[type="text/delayed-script"]');
@@ -39,13 +38,11 @@
     }
   }
 
-  // Bind interactions
-  window.addEventListener('scroll', fireDelayedScripts, {passive: true, once: true});
-  window.addEventListener('mousemove', fireDelayedScripts, {passive: true, once: true});
-  window.addEventListener('touchstart', fireDelayedScripts, {passive: true, once: true});
-  document.addEventListener('click', fireDelayedScripts, {passive: true, once: true});
-  
-  // Hard fallback at 3500ms
-  delayTimer = setTimeout(fireDelayedScripts, 3500);
+  if ('requestIdleCallback' in window) {
+    requestIdleCallback(fireDelayedScripts, {timeout: 3500});
+  } else {
+    // Safari antigo / navegadores sem requestIdleCallback
+    setTimeout(fireDelayedScripts, 3500);
+  }
 })();
 </script>
