@@ -32,7 +32,9 @@
     <meta name="robots" content="noindex, nofollow">
     <% } %>
 
-    <% if (pageFeaturedImage) { %>
+    <% if (typeof hero_srcset !== 'undefined' && hero_srcset) { %>
+    <link rel="preload" as="image" imagesrcset="<%= hero_srcset %>" imagesizes="<%= (typeof hero_sizes !== 'undefined' && hero_sizes) ? hero_sizes : '100vw' %>" fetchpriority="high">
+    <% } else if (pageFeaturedImage) { %>
     <link rel="preload" as="image" href="<%= pageFeaturedImage %>" fetchpriority="high">
     <% } %>
 
