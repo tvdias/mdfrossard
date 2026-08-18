@@ -977,6 +977,8 @@ img {
 
 .footer-logo {
     height: 75px;
+    width: auto;
+    object-fit: contain;
     margin-bottom: 24px;
     /* Remover bloco branco, o fundo escuro do próprio rodapé é a base */
 }
