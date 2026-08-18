@@ -6,6 +6,8 @@ google_fonts: "Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500
 canonical: "https://mdfrossard.com.br/l/transformacoes-do-sorriso-v2/"
 og_image: "/images/lps/transformacoes/t2_caso1_depois.webp"
 hero_preload: "/images/equipe/doutores-rindo.webp"
+hero_srcset: "/images/equipe/doutores-rindo-800.webp 800w, /images/equipe/doutores-rindo.webp 1200w"
+hero_sizes: "(max-width: 768px) 100vw, 1200px"
 contact_value: 5000
 content_category: tratamento-reabilitacao
 ---
@@ -349,8 +351,8 @@ body{font-family:'Outfit',sans-serif;color:var(--ink);background:var(--white);-w
     </div>
     <div class="hero-visual">
       <picture>
-        <source srcset="/images/equipe/doutores-rindo.webp" type="image/webp">
-        <img src="/images/equipe/doutores-rindo.webp" alt="Dr. Marcos e Dr. Davi Frossard — 38 anos transformando sorrisos no Rio de Janeiro" class="hero-img" loading="eager" decoding="sync" fetchpriority="high" width="1200" height="1799">
+        <source srcset="/images/equipe/doutores-rindo-800.webp 800w, /images/equipe/doutores-rindo.webp 1200w" sizes="(max-width: 768px) 100vw, 1200px" type="image/webp">
+        <img src="/images/equipe/doutores-rindo.webp" srcset="/images/equipe/doutores-rindo-800.webp 800w, /images/equipe/doutores-rindo.webp 1200w" sizes="(max-width: 768px) 100vw, 1200px" alt="Dr. Marcos e Dr. Davi Frossard — 38 anos transformando sorrisos no Rio de Janeiro" class="hero-img" loading="eager" decoding="sync" fetchpriority="high" width="1200" height="1799">
       </picture>
       <div class="hero-visual-overlay"></div>
     </div>
