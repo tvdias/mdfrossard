@@ -7,6 +7,18 @@
 #   • binding     → expõe env.ASSETS dentro do Worker (env.ASSETS.fetch).
 #   • not_found_handling → "404-page" serve /404.html para rotas inexistentes
 #                          mantendo SEO (resposta 404 real).
+#   • run_worker_first → SEM ISSO, o Cloudflare intercepta a requisição ANTES
+#                        do Worker: se não achar um arquivo estático com esse
+#                        caminho exato, serve o 404-page direto e o worker.js
+#                        nunca roda. Resultado real observado: as URLs antigas
+#                        redirecionadas em `legacyRedirects` (worker.js) e o
+#                        tratamento de `?nonamp=1` / `/index.html` (seção 3)
+#                        estavam retornando 404 puro em vez do 301 esperado.
+#                        `run_worker_first = true` força o Worker a rodar
+#                        SEMPRE primeiro, restaurando o comportamento descrito
+#                        no comentário de worker.js ("Roteia /api/*... delega
+#                        o restante a env.ASSETS"). Custo é desprezível: CPU
+#                        time medido no dashboard é ~0,4-0,5ms por invocação.
 #
 # IMPORTANTE: este projeto NÃO usa Cloudflare Pages. A pasta functions/ é
 # convenção exclusiva de Pages e foi removida — toda a lógica de backend
@@ -25,3 +37,4 @@ SITE_URL = "https://mdfrossard.com.br"
 directory = "./public"
 binding = "ASSETS"
 not_found_handling = "404-page"
+run_worker_first = true
