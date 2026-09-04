@@ -190,23 +190,14 @@ footer .disc{max-width:44em;margin:12px auto 0;font-size:.72rem;color:#6d7d8f;fo
 .sticky-bar .btn{flex:1;min-height:50px;padding:13px;border-radius:2px}
 
 /* motion — orchestrated load */
-.ld{opacity:0;transform:translateY(16px)}
-.loaded .ld{animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
-.loaded .ld.d1{animation-delay:.05s}.loaded .ld.d2{animation-delay:.16s}
-.loaded .ld.d3{animation-delay:.27s}.loaded .ld.d4{animation-delay:.38s}
-.loaded .ld.d5{animation-delay:.5s}
-.hero-media{opacity:0;transform:translateY(22px) scale(.985)}
-.loaded .hero-media{animation:riseImg .9s .2s cubic-bezier(.2,.7,.2,1) forwards}
-.hero .num38{opacity:0}
-.loaded .hero .num38{animation:fadeNum 1.4s .3s ease forwards}
-@keyframes rise{to{opacity:1;transform:none}}
-@keyframes riseImg{to{opacity:1;transform:none}}
-@keyframes fadeNum{to{opacity:1}}
+/* entrada LCP-safe: transform puro, CSS puro (sem opacity, sem depender de JS) */
+.ld{animation:riseUp .6s cubic-bezier(.2,.7,.2,1) both}
+.ld.d2{animation-delay:.06s}.ld.d3{animation-delay:.12s}.ld.d4{animation-delay:.18s}.ld.d5{animation-delay:.24s}
+.hero-media{animation:riseUp .7s .1s cubic-bezier(.2,.7,.2,1) both}
+@keyframes riseUp{from{transform:translateY(14px)}to{transform:none}}
 .rv{opacity:0;transform:translateY(20px)}
 .rv.in{opacity:1;transform:none;transition:opacity .6s ease,transform .6s ease}
-@media (prefers-reduced-motion:reduce){
-  .ld,.hero-media,.hero .num38,.rv{opacity:1!important;transform:none!important;animation:none!important;transition:none!important}
-}
+@media (prefers-reduced-motion:reduce){.ld,.hero-media,.rv{opacity:1!important;transform:none!important;animation:none!important;transition:none!important}}
 
 /* =========================================================
    ≥ 640px — TABLET: começa a ganhar colunas
@@ -445,8 +436,6 @@ footer .disc{max-width:44em;margin:12px auto 0;font-size:.72rem;color:#6d7d8f;fo
 
 <script>
 (function(){
-  var r=document.body;
-  requestAnimationFrame(function(){requestAnimationFrame(function(){r.classList.add('loaded')})});
   if(!('IntersectionObserver'in window)){document.querySelectorAll('.rv').forEach(function(el){el.classList.add('in')});return;}
   var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
   document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
