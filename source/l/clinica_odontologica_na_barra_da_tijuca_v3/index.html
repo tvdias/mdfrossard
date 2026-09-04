@@ -1,0 +1,464 @@
+---
+layout: landing_page
+title: "Clínica Odontológica na Barra da Tijuca | MD Frossard"
+description: "Clínica odontológica na Barra da Tijuca há 38 anos, no Shopping Città América. Implantes, facetas e reabilitação oral com equipe de especialistas. Nota 5,0 no Google. Atendimento particular, com hora marcada. Agende pelo WhatsApp."
+canonical: "https://mdfrossard.com.br/l/clinica_odontologica_na_barra_da_tijuca_v3/"
+hero_preload: "/images/hero-img.webp"
+hero_srcset: "/images/hero-img-800.webp 800w, /images/hero-img-1200.webp 1200w, /images/hero-img.webp 1600w"
+hero_sizes: "(max-width: 768px) 100vw, 800px"
+og_image: "https://mdfrossard.com.br/images/hero-img.webp"
+contact_value: 2000
+content_category: geo-barra
+---
+<style>
+/* =========================================================
+   MOBILE-FIRST — a base é o celular.
+   Os blocos @media (min-width) ADICIONAM colunas e refino
+   conforme a tela cresce (tablet ≥640, desktop ≥960).
+   ========================================================= */
+:root{
+  --petrol:#0B1C2E; --petrol-2:#071523; --ink:#141C24; --muted:#5A6472;
+  --porcelain:#F3EEE4; --paper:#FBF8F1; --cream:#EFE7D6;
+  --brass:#A87F35; --brass-2:#CDA75E; --brass-lite:#E7D3A0;
+  --teal:#12594F; --wa:#25D366; --wa-d:#1eb85a; --star:#E0A92E;
+  --line:rgba(20,28,36,.12); --line-2:rgba(20,28,36,.08);
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  --wrap:1140px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:var(--sans);color:var(--ink);background:var(--porcelain);line-height:1.65;-webkit-font-smoothing:antialiased;font-size:16px;overflow-x:hidden}
+img{max-width:100%;display:block}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:var(--wrap);margin:0 auto;padding:0 18px}
+.eyebrow{font-size:.68rem;letter-spacing:.24em;text-transform:uppercase;font-weight:700;color:var(--brass)}
+h1,h2,h3,.serif{font-family:var(--serif);font-weight:600;letter-spacing:-.012em}
+h1{font-size:clamp(2.15rem,8.5vw,3.9rem);line-height:1.04}
+h2{font-size:clamp(1.6rem,6vw,2.7rem);line-height:1.08}
+h3{font-size:1.12rem;line-height:1.2}
+
+/* buttons — alvos de toque grandes por padrão (mobile) */
+.btn{position:relative;display:inline-flex;align-items:center;justify-content:center;gap:9px;font-family:var(--sans);font-weight:600;font-size:1rem;padding:15px 22px;min-height:52px;border-radius:2px;border:1.5px solid transparent;cursor:pointer;transition:transform .16s ease,background .2s ease,box-shadow .22s ease,color .2s ease;white-space:nowrap;letter-spacing:.01em}
+.btn:active{transform:translateY(1px)}
+.btn svg{width:19px;height:19px;flex:none}
+.btn-wa{background:var(--wa);color:#05331a;box-shadow:0 8px 22px rgba(37,211,102,.30)}
+.btn-wa:hover{background:var(--wa-d);box-shadow:0 10px 26px rgba(37,211,102,.38)}
+.btn-call{background:var(--brass-2);color:#0B1C2E;border-color:var(--brass-2);font-weight:700;box-shadow:0 8px 22px rgba(205,167,94,.32)}
+.btn-call:hover{background:var(--brass-lite);border-color:var(--brass-lite);box-shadow:0 10px 26px rgba(205,167,94,.42)}
+.btn-outline{background:transparent;color:var(--petrol);border-color:var(--brass)}
+.btn-outline:hover{background:rgba(168,127,53,.08)}
+
+/* header */
+header{position:sticky;top:0;z-index:60;background:rgba(11,28,46,.92);backdrop-filter:saturate(150%) blur(10px);border-bottom:1px solid rgba(231,211,160,.16)}
+.hdr{display:flex;align-items:center;justify-content:space-between;height:60px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff}
+.seal{width:36px;height:36px;border-radius:50%;border:1.5px solid var(--brass-2);display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-size:.8rem;color:var(--brass-2);letter-spacing:.02em;flex:none}
+.brand .nm{font-family:var(--serif);font-size:1.08rem;line-height:1;letter-spacing:.01em}
+.brand .nm small{display:block;font-family:var(--sans);font-size:.54rem;letter-spacing:.2em;text-transform:uppercase;color:var(--brass-lite);margin-top:3px}
+.hdr-cta{display:flex;align-items:center;gap:10px}
+.hdr-tel{display:none;color:#eaf0f6;font-weight:600;font-size:.95rem;align-items:center;gap:7px}
+.hdr-tel svg{width:16px;height:16px;color:var(--brass-2)}
+/* no header, o botão vira só ícone no mobile p/ caber */
+.hdr .btn{padding:11px;min-height:44px;font-size:.9rem;border-radius:2px}
+.hdr .btn span{display:none}
+
+/* hero — MOBILE: coluna única, texto e CTA primeiro, imagem depois */
+.hero{position:relative;background:radial-gradient(130% 120% at 82% 6%,#12314b 0%,var(--petrol) 48%,var(--petrol-2) 100%);color:#fff;overflow:hidden}
+.hero .num38{position:absolute;right:-8%;top:-3%;font-family:var(--serif);font-weight:600;font-size:11rem;line-height:.8;color:transparent;-webkit-text-stroke:1.2px rgba(231,211,160,.14);letter-spacing:-.04em;pointer-events:none;user-select:none;z-index:0}
+.hero:after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;background:linear-gradient(90deg,transparent,var(--brass-2),transparent);z-index:2}
+.vlabel{display:none}
+.hero-grid{position:relative;z-index:2;display:flex;flex-direction:column;gap:30px;padding:34px 0 46px}
+.hero h1{margin:14px 0 16px}
+.hero h1 .it{font-style:italic;font-weight:500;color:var(--brass-lite)}
+.hero h1 .rule{display:block;width:56px;height:3px;background:var(--brass-2);margin-top:18px;border-radius:2px}
+.lead{font-size:1.05rem;color:#cfd8e2}
+.honest{display:inline-flex;align-items:center;gap:8px;margin-top:16px;font-size:.82rem;color:#aeb9c6;border:1px solid rgba(255,255,255,.14);padding:7px 12px;border-radius:2px;line-height:1.4}
+.honest b{color:#e7edf3;font-weight:600}
+.trust{display:flex;flex-wrap:wrap;gap:9px 16px;margin:22px 0 24px;align-items:center}
+.trust span{display:inline-flex;align-items:center;gap:7px;font-size:.88rem;color:#e6ecf3;font-weight:500}
+.stars{color:var(--star);letter-spacing:1px}
+.trust .dot{width:4px;height:4px;border-radius:50%;background:var(--brass-2);opacity:.7}
+/* CTA mobile: botões em bloco, largura total, fáceis de tocar */
+.hero-cta{display:flex;flex-direction:column;gap:11px}
+.hero-cta .btn{width:100%}
+.seal-note{margin-top:16px;font-size:.8rem;color:#9fb0c0;display:flex;align-items:flex-start;gap:8px;line-height:1.45}
+.seal-note svg{width:15px;height:15px;color:var(--wa);flex:none;margin-top:2px}
+
+/* hero media */
+.hero-media{position:relative}
+.hero-media .frame{position:relative;border-radius:3px;overflow:hidden;box-shadow:0 24px 54px rgba(0,0,0,.42);border:1px solid rgba(231,211,160,.22)}
+.hero-media img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover}
+.hero-media .frame:before{content:"";position:absolute;inset:0;box-shadow:inset 0 0 0 6px rgba(251,248,241,.06);z-index:2;pointer-events:none}
+.gcard{position:absolute;left:12px;right:12px;bottom:-20px;background:var(--paper);color:var(--ink);border-radius:4px;padding:13px 16px;box-shadow:0 16px 40px rgba(0,0,0,.3);display:flex;align-items:center;gap:13px;border:1px solid rgba(168,127,53,.22)}
+.gcard .g{width:32px;height:32px;flex:none}
+.gcard .rnum{font-family:var(--serif);font-size:1.6rem;line-height:1;color:var(--petrol);display:flex;align-items:baseline;gap:6px}
+.gcard .rnum .st{font-family:var(--sans);font-size:.88rem;color:var(--star);letter-spacing:1px}
+.gcard small{display:block;color:var(--muted);font-size:.74rem;margin-top:3px}
+
+/* section base (mobile) */
+section{padding:48px 0;position:relative}
+.sec-head{max-width:42em;margin-bottom:28px}
+.sec-head h2{margin:11px 0 9px}
+.sec-head p{color:var(--muted);font-size:1rem}
+
+/* diferenciais — MOBILE: 1 coluna empilhada */
+.feats{display:grid;grid-template-columns:1fr;border-top:1px solid var(--line);border-left:1px solid var(--line)}
+.feat{padding:24px 22px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--paper);transition:background .25s}
+.feat:hover{background:var(--cream)}
+.feat .ic{width:40px;height:40px;border-radius:2px;background:rgba(18,89,79,.1);color:var(--teal);display:flex;align-items:center;justify-content:center;margin-bottom:14px}
+.feat .ic svg{width:21px;height:21px}
+.feat h3{margin-bottom:6px}
+.feat p{font-size:.92rem;color:var(--muted);line-height:1.55}
+
+/* passos — MOBILE: empilhado */
+.steps-sec{background:var(--petrol);color:#fff}
+.steps-sec .eyebrow{color:var(--brass-2)}
+.steps-sec .sec-head p{color:#b9c3d0}
+.steps{display:grid;grid-template-columns:1fr;gap:16px;counter-reset:s}
+.step{position:relative;padding:26px 22px 24px;border:1px solid rgba(231,211,160,.18);border-radius:3px;background:rgba(255,255,255,.03)}
+.step:before{counter-increment:s;content:"0" counter(s);position:absolute;top:16px;right:20px;font-family:var(--serif);font-size:2.4rem;color:rgba(231,211,160,.2);line-height:1}
+.step .k{font-family:var(--serif);font-size:1.28rem;margin:2px 0 8px;color:#fff}
+.step p{font-size:.92rem;color:#c3ccd8}
+
+/* servicos — MOBILE: 1 coluna */
+.svc-sec{background:var(--paper)}
+.svcs{display:grid;grid-template-columns:1fr;border-top:1px solid var(--line);border-left:1px solid var(--line)}
+.svc{display:flex;align-items:flex-start;gap:13px;padding:20px 22px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--porcelain);transition:background .2s}
+.svc:hover{background:var(--cream)}
+.svc .b{width:9px;height:9px;border-radius:50%;background:var(--brass);flex:none;margin-top:7px}
+.svc .t{font-weight:700;font-size:1rem}
+.svc small{display:block;font-weight:400;color:var(--muted);font-size:.82rem;margin-top:2px}
+
+/* avaliacoes — MOBILE: empilhado */
+.revs{display:grid;grid-template-columns:1fr;gap:16px}
+.rev{background:var(--paper);border:1px solid var(--line);border-radius:4px;padding:24px 22px;position:relative}
+.rev .qt{font-family:var(--serif);font-size:3rem;color:var(--brass-lite);line-height:.6;height:20px;display:block}
+.rev .stars{font-size:.95rem;margin:8px 0 2px;display:block}
+.rev p{font-size:.95rem;margin:8px 0 16px;color:#2a3440;line-height:1.6}
+.rev .who{display:flex;align-items:center;gap:12px;border-top:1px solid var(--line-2);padding-top:14px}
+.rev .av{width:40px;height:40px;border-radius:50%;background:var(--petrol);color:var(--brass-2);display:flex;align-items:center;justify-content:center;font-family:var(--serif);font-size:1.1rem;flex:none}
+.rev .who b{font-size:.9rem}
+.rev .who small{display:flex;align-items:center;gap:5px;color:var(--muted);font-size:.76rem}
+.rev .who small svg{width:12px;height:12px}
+.rev-foot{margin-top:22px;display:flex;align-items:center;gap:10px;color:var(--muted);font-size:.86rem;justify-content:center;text-align:center;flex-wrap:wrap}
+.rev-foot .g{width:20px;height:20px}
+.rev-foot b{color:var(--ink)}
+
+/* equipe — MOBILE: empilhado */
+.team-sec{background:var(--petrol-2);color:#fff}
+.team-sec .eyebrow{color:var(--brass-2)}
+.team-sec .sec-head p{color:#b9c3d0}
+.team{display:grid;grid-template-columns:1fr;gap:16px}
+.mbr{background:rgba(255,255,255,.035);border:1px solid rgba(231,211,160,.16);border-radius:3px;padding:24px 22px}
+.mbr .mono{width:44px;height:44px;border-radius:50%;border:1px solid var(--brass-2);display:flex;align-items:center;justify-content:center;font-family:var(--serif);color:var(--brass-2);font-size:1rem;margin-bottom:14px}
+.mbr b{font-family:var(--serif);font-size:1.16rem;display:block;font-weight:600}
+.mbr .cro{color:var(--brass-2);font-size:.78rem;font-weight:700;letter-spacing:.04em;margin:5px 0 10px}
+.mbr p{font-size:.88rem;color:#c3ccd8;line-height:1.55}
+
+/* local + faq — MOBILE: empilhado */
+.local{display:grid;grid-template-columns:1fr;gap:30px;align-items:start}
+.units{display:flex;gap:9px;margin:15px 0 20px;flex-wrap:wrap}
+.unit{font-size:.74rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--brass);border:1px solid var(--brass);border-radius:2px;padding:5px 11px}
+.unit.alt{color:var(--muted);border-color:var(--line)}
+.info-row{display:flex;gap:13px;padding:14px 0;border-bottom:1px solid var(--line)}
+.info-row svg{width:20px;height:20px;color:var(--brass);flex:none;margin-top:3px}
+.info-row b{display:block;font-size:.96rem}
+.info-row span{color:var(--muted);font-size:.89rem}
+.faq details{border-bottom:1px solid var(--line);padding:16px 0}
+.faq summary{font-weight:600;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:12px;font-size:.98rem}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary .pl{color:var(--brass);font-size:1.4rem;transition:transform .22s;line-height:1;flex:none}
+.faq details[open] summary .pl{transform:rotate(45deg)}
+.faq p{color:var(--muted);margin-top:10px;font-size:.91rem}
+
+/* final — MOBILE */
+.final{background:radial-gradient(130% 120% at 20% 0%,#12314b 0%,var(--petrol) 52%,var(--petrol-2) 100%);color:#fff;text-align:center;position:relative;overflow:hidden}
+.final:before{content:"";position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,transparent,var(--brass-2),transparent)}
+.final .num38{position:absolute;left:-10%;bottom:-14%;font-family:var(--serif);font-size:13rem;line-height:.8;color:transparent;-webkit-text-stroke:1.2px rgba(231,211,160,.1);z-index:0}
+.final .inner{position:relative;z-index:2}
+.final h2{margin-bottom:11px}
+.final p{color:#c5cfda;margin:0 auto 24px}
+.final .hero-cta{justify-content:center}
+
+footer{background:var(--petrol-2);color:#8fa0b2;font-size:.8rem;padding:30px 0 96px;text-align:center;line-height:1.9;border-top:1px solid rgba(231,211,160,.1)}
+footer a{color:var(--brass-2)}
+footer .disc{max-width:44em;margin:12px auto 0;font-size:.72rem;color:#6d7d8f;font-style:italic}
+
+/* sticky mobile bar — VISÍVEL por padrão (mobile-first) */
+.sticky-bar{position:fixed;left:0;right:0;bottom:0;z-index:70;display:flex;gap:10px;padding:10px 14px;background:rgba(11,28,46,.97);backdrop-filter:blur(10px);border-top:1px solid rgba(231,211,160,.18)}
+.sticky-bar .btn{flex:1;min-height:50px;padding:13px;border-radius:2px}
+
+/* motion — orchestrated load */
+.ld{opacity:0;transform:translateY(16px)}
+.loaded .ld{animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
+.loaded .ld.d1{animation-delay:.05s}.loaded .ld.d2{animation-delay:.16s}
+.loaded .ld.d3{animation-delay:.27s}.loaded .ld.d4{animation-delay:.38s}
+.loaded .ld.d5{animation-delay:.5s}
+.hero-media{opacity:0;transform:translateY(22px) scale(.985)}
+.loaded .hero-media{animation:riseImg .9s .2s cubic-bezier(.2,.7,.2,1) forwards}
+.hero .num38{opacity:0}
+.loaded .hero .num38{animation:fadeNum 1.4s .3s ease forwards}
+@keyframes rise{to{opacity:1;transform:none}}
+@keyframes riseImg{to{opacity:1;transform:none}}
+@keyframes fadeNum{to{opacity:1}}
+.rv{opacity:0;transform:translateY(20px)}
+.rv.in{opacity:1;transform:none;transition:opacity .6s ease,transform .6s ease}
+@media (prefers-reduced-motion:reduce){
+  .ld,.hero-media,.hero .num38,.rv{opacity:1!important;transform:none!important;animation:none!important;transition:none!important}
+}
+
+/* =========================================================
+   ≥ 640px — TABLET: começa a ganhar colunas
+   ========================================================= */
+@media(min-width:640px){
+  body{font-size:16.5px}
+  .wrap{padding:0 24px}
+  .hdr{height:64px}
+  .hdr-cta{gap:16px}
+  .hdr-tel{display:flex}
+  .hdr .btn{padding:10px 18px}
+  .hdr .btn span{display:inline}
+  .hero-cta{flex-direction:row;flex-wrap:wrap}
+  .hero-cta .btn{width:auto;flex:1;min-width:200px}
+  .feats{grid-template-columns:1fr 1fr}
+  .svcs{grid-template-columns:1fr 1fr}
+  .steps{grid-template-columns:1fr 1fr 1fr;gap:18px}
+  .revs{grid-template-columns:1fr 1fr 1fr;gap:18px}
+  .team{grid-template-columns:1fr 1fr 1fr;gap:18px}
+  .hero .num38{font-size:20rem;right:-4%}
+  section{padding:60px 0}
+  .final .num38{font-size:22rem}
+}
+
+/* =========================================================
+   ≥ 960px — DESKTOP: hero em 2 colunas, grid completo,
+   some a barra fixa, aparece o telefone e a etiqueta vertical
+   ========================================================= */
+@media(min-width:960px){
+  body{font-size:16.5px;line-height:1.68}
+  .hero-grid{display:grid;grid-template-columns:1.08fr .92fr;gap:52px;align-items:center;flex-direction:row;padding:66px 0 74px}
+  .hero .num38{font-size:clamp(24rem,42vw,44rem);top:-4%;right:-3%}
+  .vlabel{display:block;position:absolute;left:14px;top:50%;transform:translateY(-50%) rotate(180deg);writing-mode:vertical-rl;font-size:.64rem;letter-spacing:.4em;text-transform:uppercase;color:rgba(231,211,160,.6);font-weight:700;z-index:3}
+  .lead{font-size:1.12rem;max-width:31em}
+  .gcard{left:-16px;right:auto;bottom:-22px;padding:15px 18px}
+  section{padding:74px 0}
+  .sec-head{margin-bottom:38px}
+  .feats{grid-template-columns:repeat(4,1fr)}
+  .svcs{grid-template-columns:repeat(3,1fr)}
+  .local{grid-template-columns:1fr 1fr;gap:46px}
+  .final .num38{font-size:clamp(16rem,34vw,34rem);left:-4%;bottom:-18%}
+  footer{padding-bottom:34px}
+  .sticky-bar{display:none}
+}
+
+/* v3 — fotos reais, selo status, foto recepção */
+.mbr-ph{width:100%;aspect-ratio:4/5;overflow:hidden;border-radius:6px;margin-bottom:16px;border:1px solid rgba(231,211,160,.18);background:#0d2135}.mbr-ph img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block}
+.loc-photo{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:4px;margin:2px 0 20px;border:1px solid var(--line)}
+.badge{display:inline-flex;align-items:center;gap:8px;font-size:.78rem;font-weight:600;color:#dfe8f0;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);padding:6px 12px;border-radius:999px;margin-bottom:14px}
+.badge .d{width:8px;height:8px;border-radius:50%;background:#8b98a6;flex:none}
+.badge.open{color:#eafff2}
+.badge.open .d{background:#31c96a;box-shadow:0 0 0 3px rgba(49,201,106,.2)}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"A clínica atende por convênio ou SUS?","acceptedAnswer":{"@type":"Answer","text":"O atendimento é exclusivamente particular. Fornecemos a documentação para você solicitar reembolso junto ao seu plano, quando aplicável."}},{"@type":"Question","name":"Como funcionam os valores?","acceptedAnswer":{"@type":"Answer","text":"Cada caso é avaliado individualmente. Os valores são definidos após a avaliação clínica, com um plano de tratamento claro antes de qualquer procedimento."}},{"@type":"Question","name":"Qual o horário de atendimento?","acceptedAnswer":{"@type":"Answer","text":"De segunda a sexta, das 8h às 18h, sempre com hora marcada."}},{"@type":"Question","name":"Como faço para agendar?","acceptedAnswer":{"@type":"Answer","text":"Pelo WhatsApp (21) 97663-7803 ou pelo telefone (21) 3217-0430. Respondemos no mesmo dia, em horário comercial."}}]}</script>
+<header>
+  <div class="wrap hdr">
+    <a class="brand" href="#topo" aria-label="MD Frossard Odontologia">
+      <span class="seal">MDF</span>
+      <span class="nm">MD Frossard<small>Odontologia · desde 1988</small></span>
+    </a>
+    <div class="hdr-cta">
+      <a class="hdr-tel" href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6.6 10.8a15.5 15.5 0 006.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1A17 17 0 013 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1l-2.3 2.2z"/></svg>(21) 3217-0430</a>
+      <a class="btn btn-wa" href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o%20na%20cl%C3%ADnica%20da%20Barra%20da%20Tijuca." target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.7-.9-2-1-.3-.1-.5-.1-.6.1l-.9 1.1c-.2.2-.3.2-.6.1-1.1-.5-2.5-1.6-3.2-3-.3-.5 0-.5.3-1 .1-.1.2-.3.3-.5.1-.2 0-.4 0-.5s-.6-1.6-.9-2.2c-.2-.5-.4-.5-.6-.5h-.5c-.2 0-.5.1-.7.3-.9.9-.9 2.1-.9 2.2 0 1.4 1 2.8 1.2 3 .1.2 2 3.1 5 4.4.7.3 1.2.5 1.7.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.1-.3-.2-.6-.3z"/><path d="M12 2A10 10 0 002 12a10 10 0 001.4 5.1L2 22l5-1.3A10 10 0 1012 2zm0 18a8 8 0 01-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1112 20z"/></svg><span>Agendar</span></a>
+    </div>
+  </div>
+</header>
+
+<section class="hero" id="topo">
+  <div class="num38" aria-hidden="true">38</div>
+  <span class="vlabel">Barra da Tijuca · desde 1988</span>
+  <div class="wrap hero-grid">
+    <div>
+      <div class="badge ld d1" id="statusBadge"><span class="d"></span><span id="statusTxt">Seg–sex, 8h–18h</span></div>
+      <span class="eyebrow ld d1">Barra da Tijuca · Shopping Città América</span>
+      <h1 class="ld d2">Clínica Odontológica na <span class="it">Barra da Tijuca</span><span class="rule"></span></h1>
+      <p class="lead ld d3">São 38 anos cuidando de sorrisos com implantes, facetas e reabilitação oral — equipe de especialistas, hora marcada e o cuidado de uma clínica de família.</p>
+      <div class="ld d3"><span class="honest">Atendimento <b>particular</b> · não trabalhamos com convênios ou SUS</span></div>
+      <div class="trust ld d4">
+        <span><span class="stars">★★★★★</span> 5,0 no Google</span>
+        <span class="dot"></span>
+        <span>114 avaliações</span>
+        <span class="dot"></span>
+        <span>2 unidades no Rio</span>
+      </div>
+      <div class="hero-cta ld d5">
+        <a class="btn btn-wa" href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o%20na%20cl%C3%ADnica%20da%20Barra%20da%20Tijuca." target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.7-.9-2-1-.3-.1-.5-.1-.6.1l-.9 1.1c-.2.2-.3.2-.6.1-1.1-.5-2.5-1.6-3.2-3-.3-.5 0-.5.3-1 .1-.1.2-.3.3-.5.1-.2 0-.4 0-.5s-.6-1.6-.9-2.2c-.2-.5-.4-.5-.6-.5h-.5c-.2 0-.5.1-.7.3-.9.9-.9 2.1-.9 2.2 0 1.4 1 2.8 1.2 3 .1.2 2 3.1 5 4.4.7.3 1.2.5 1.7.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.1-.3-.2-.6-.3z"/><path d="M12 2A10 10 0 002 12a10 10 0 001.4 5.1L2 22l5-1.3A10 10 0 1012 2zm0 18a8 8 0 01-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1112 20z"/></svg>Agendar pelo WhatsApp</a>
+        <a class="btn btn-call" href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6.6 10.8a15.5 15.5 0 006.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1A17 17 0 013 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1l-2.3 2.2z"/></svg>Ligar (21) 3217-0430</a>
+      </div>
+      <div class="seal-note ld d5"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M20 6L9 17l-5-5"/></svg>Respondemos no mesmo dia, em horário comercial (seg–sex, 8h–18h).</div>
+    </div>
+    <div class="hero-media">
+      <div class="frame">
+        <img src="/images/hero-img.webp" srcset="/images/hero-img-800.webp 800w, /images/hero-img-1200.webp 1200w, /images/hero-img.webp 1600w" sizes="(max-width: 768px) 100vw, 800px" width="800" height="533" alt="Clínica odontológica MD Frossard na Barra da Tijuca" fetchpriority="high" decoding="async">
+      </div>
+      <div class="gcard">
+        <svg class="g" viewBox="0 0 24 24"><path fill="#4285F4" d="M23 12.3c0-.8-.1-1.6-.2-2.3H12v4.5h6.2a5.3 5.3 0 01-2.3 3.5v2.9h3.7c2.2-2 3.4-5 3.4-8.6z"/><path fill="#34A853" d="M12 24c3.1 0 5.7-1 7.6-2.8l-3.7-2.9c-1 .7-2.3 1.1-3.9 1.1-3 0-5.5-2-6.4-4.7H1.8v3C3.7 21.4 7.6 24 12 24z"/><path fill="#FBBC05" d="M5.6 14.7a7.2 7.2 0 010-4.6v-3H1.8a12 12 0 000 10.6l3.8-3z"/><path fill="#EA4335" d="M12 4.8c1.7 0 3.2.6 4.4 1.7l3.3-3.3C17.7 1.2 15.1 0 12 0 7.6 0 3.7 2.6 1.8 6.4l3.8 3C6.5 6.7 9 4.8 12 4.8z"/></svg>
+        <div>
+          <div class="rnum">5,0 <span class="st">★★★★★</span></div>
+          <small>Avaliações reais no Google</small>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="eyebrow">Por que a MD Frossard</span>
+      <h2>Uma referência na Barra, há quase quatro décadas</h2>
+      <p>Odontologia particular com tecnologia atual e uma equipe fixa que acompanha cada caso do começo ao fim.</p>
+    </div>
+    <div class="feats rv">
+      <div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.5 6.5L21 9l-5 4.5L17.5 21 12 17l-5.5 4L8 13.5 3 9l6.5-.5z"/></svg></div><h3>38 anos de tradição</h3><p>Gerações de pacientes atendidas na mesma clínica — histórico, vínculo e confiança.</p></div>
+      <div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 00-4-4H6a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 00-3-3.9"/></svg></div><h3>Equipe de especialistas</h3><p>Implante, reabilitação, prótese, endodontia e periodontia sob o mesmo teto.</p></div>
+      <div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="14" rx="2"/><path d="M8 21h8M12 18v3"/></svg></div><h3>Scanner iTero®</h3><p>Escaneamento digital, sem as moldagens desconfortáveis de antigamente.</p></div>
+      <div class="feat"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div><h3>Hora marcada</h3><p>Atendimento pontual, sem atrasos — respeitando o seu tempo.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="steps-sec">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="eyebrow">Simples do começo ao fim</span>
+      <h2>Como funciona</h2>
+      <p>Três passos, sem burocracia. Do primeiro contato ao seu plano de tratamento.</p>
+    </div>
+    <div class="steps rv">
+      <div class="step"><div class="k">Você fala com a gente</div><p>Pelo WhatsApp ou telefone, você conta o que precisa e a equipe encontra o melhor horário para você.</p></div>
+      <div class="step"><div class="k">Avaliação clínica</div><p>Na clínica, os especialistas examinam o seu caso com o scanner iTero® e tiram todas as suas dúvidas.</p></div>
+      <div class="step"><div class="k">Seu plano de tratamento</div><p>Você recebe um plano claro, com etapas e valores definidos após a avaliação. Sem surpresas.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="svc-sec">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="eyebrow">Tratamentos</span>
+      <h2>O que cuidamos na clínica</h2>
+    </div>
+    <div class="svcs rv">
+      <div class="svc"><span class="b"></span><div><div class="t">Implantes dentários</div><small>Reposição de dentes perdidos</small></div></div>
+      <div class="svc"><span class="b"></span><div><div class="t">Facetas e lentes de contato</div><small>Estética em porcelana</small></div></div>
+      <div class="svc"><span class="b"></span><div><div class="t">Reabilitação oral</div><small>Casos complexos, do início ao fim</small></div></div>
+      <div class="svc"><span class="b"></span><div><div class="t">Clareamento e estética</div><small>Sorriso mais harmônico</small></div></div>
+      <div class="svc"><span class="b"></span><div><div class="t">Endodontia</div><small>Tratamento de canal</small></div></div>
+      <div class="svc"><span class="b"></span><div><div class="t">Periodontia</div><small>Saúde da gengiva</small></div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="eyebrow">Quem já é paciente</span>
+      <h2>Histórias reais, nota 5,0 no Google</h2>
+    </div>
+    <div class="revs rv">
+      <div class="rev"><span class="qt">“</span><span class="stars">★★★★★</span><p>Profissionais além de competentes, respeitáveis e sempre preocupados com o atendimento ao paciente. Ambiente familiar e excelente infraestrutura.</p><div class="who"><div class="av">D</div><div><b>Déo Pessoa</b><small><svg viewBox="0 0 24 24"><path fill="#4285F4" d="M23 12.3c0-.8-.1-1.6-.2-2.3H12v4.5h6.2a5.3 5.3 0 01-2.3 3.5v2.9h3.7c2.2-2 3.4-5 3.4-8.6z"/><path fill="#34A853" d="M12 24c3.1 0 5.7-1 7.6-2.8l-3.7-2.9c-1 .7-2.3 1.1-3.9 1.1-3 0-5.5-2-6.4-4.7H1.8v3C3.7 21.4 7.6 24 12 24z"/><path fill="#FBBC05" d="M5.6 14.7a7.2 7.2 0 010-4.6v-3H1.8a12 12 0 000 10.6l3.8-3z"/><path fill="#EA4335" d="M12 4.8c1.7 0 3.2.6 4.4 1.7l3.3-3.3C17.7 1.2 15.1 0 12 0 7.6 0 3.7 2.6 1.8 6.4l3.8 3C6.5 6.7 9 4.8 12 4.8z"/></svg>Avaliação no Google</small></div></div></div>
+      <div class="rev"><span class="qt">“</span><span class="stars">★★★★★</span><p>Estou muito feliz e realizada com o resultado. Recomendo a MD de olhos fechados — cuidam de toda a minha família com competência e atenção.</p><div class="who"><div class="av">B</div><div><b>Bianca Sadkowski</b><small><svg viewBox="0 0 24 24"><path fill="#4285F4" d="M23 12.3c0-.8-.1-1.6-.2-2.3H12v4.5h6.2a5.3 5.3 0 01-2.3 3.5v2.9h3.7c2.2-2 3.4-5 3.4-8.6z"/><path fill="#34A853" d="M12 24c3.1 0 5.7-1 7.6-2.8l-3.7-2.9c-1 .7-2.3 1.1-3.9 1.1-3 0-5.5-2-6.4-4.7H1.8v3C3.7 21.4 7.6 24 12 24z"/><path fill="#FBBC05" d="M5.6 14.7a7.2 7.2 0 010-4.6v-3H1.8a12 12 0 000 10.6l3.8-3z"/><path fill="#EA4335" d="M12 4.8c1.7 0 3.2.6 4.4 1.7l3.3-3.3C17.7 1.2 15.1 0 12 0 7.6 0 3.7 2.6 1.8 6.4l3.8 3C6.5 6.7 9 4.8 12 4.8z"/></svg>Avaliação no Google</small></div></div></div>
+      <div class="rev"><span class="qt">“</span><span class="stars">★★★★★</span><p>Minha experiência foi maravilhosa, aumentou muito minha autoestima. Muito feliz e agradecida por tudo que recebi dessa equipe.</p><div class="who"><div class="av">C</div><div><b>Célia Regina</b><small><svg viewBox="0 0 24 24"><path fill="#4285F4" d="M23 12.3c0-.8-.1-1.6-.2-2.3H12v4.5h6.2a5.3 5.3 0 01-2.3 3.5v2.9h3.7c2.2-2 3.4-5 3.4-8.6z"/><path fill="#34A853" d="M12 24c3.1 0 5.7-1 7.6-2.8l-3.7-2.9c-1 .7-2.3 1.1-3.9 1.1-3 0-5.5-2-6.4-4.7H1.8v3C3.7 21.4 7.6 24 12 24z"/><path fill="#FBBC05" d="M5.6 14.7a7.2 7.2 0 010-4.6v-3H1.8a12 12 0 000 10.6l3.8-3z"/><path fill="#EA4335" d="M12 4.8c1.7 0 3.2.6 4.4 1.7l3.3-3.3C17.7 1.2 15.1 0 12 0 7.6 0 3.7 2.6 1.8 6.4l3.8 3C6.5 6.7 9 4.8 12 4.8z"/></svg>Avaliação no Google</small></div></div></div>
+    </div>
+    <a class="rev-foot rv" href="https://www.google.com/maps/search/?api=1&query=MD+Frossard+Odontologia+Barra+da+Tijuca" target="_blank" rel="noopener"><svg class="g" viewBox="0 0 24 24"><path fill="#4285F4" d="M23 12.3c0-.8-.1-1.6-.2-2.3H12v4.5h6.2a5.3 5.3 0 01-2.3 3.5v2.9h3.7c2.2-2 3.4-5 3.4-8.6z"/><path fill="#34A853" d="M12 24c3.1 0 5.7-1 7.6-2.8l-3.7-2.9c-1 .7-2.3 1.1-3.9 1.1-3 0-5.5-2-6.4-4.7H1.8v3C3.7 21.4 7.6 24 12 24z"/><path fill="#FBBC05" d="M5.6 14.7a7.2 7.2 0 010-4.6v-3H1.8a12 12 0 000 10.6l3.8-3z"/><path fill="#EA4335" d="M12 4.8c1.7 0 3.2.6 4.4 1.7l3.3-3.3C17.7 1.2 15.1 0 12 0 7.6 0 3.7 2.6 1.8 6.4l3.8 3C6.5 6.7 9 4.8 12 4.8z"/></svg><span>Nota <b>5,0</b> no Google · 114 avaliações reais &nbsp;›</span></a>
+  </div>
+</section>
+
+<section class="team-sec">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="eyebrow">Corpo clínico</span>
+      <h2>Quem vai cuidar de você</h2>
+      <p>Formação, especialização e registro no CRO — informações públicas e verificáveis.</p>
+    </div>
+    <div class="team rv">
+      <div class="mbr"><div class="mbr-ph"><img src="/images/equipe_marcos.webp" width="400" height="500" alt="Dr. Marcos Frossard" loading="lazy" decoding="async"></div><b>Dr. Marcos Frossard</b><div class="cro">CRO-RJ 8058</div><p>Reabilitação Oral, Prótese e Estética. Fundador da clínica, com mais de 30 anos de experiência.</p></div>
+      <div class="mbr"><div class="mbr-ph"><img src="/images/equipe_davi.webp" width="400" height="500" alt="Dr. Davi Frossard" loading="lazy" decoding="async"></div><b>Dr. Davi Frossard</b><div class="cro">CRO-RJ 36193</div><p>Implantodontia e Cirurgia. Formação pela UERJ e São Leopoldo Mandic; atua em pós-graduação.</p></div>
+      <div class="mbr"><div class="mbr-ph"><img src="/images/equipe_luciana_nova_cropped.webp" width="400" height="500" alt="Dra. Luciana Peroni" loading="lazy" decoding="async"></div><b>Dra. Luciana Peroni</b><div class="cro">CRO-RJ 38219</div><p>Prótese Dentária e Endodontia. Graduação e Mestrado pela UERJ.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap local">
+    <div class="rv">
+      <span class="eyebrow">Onde estamos</span>
+      <h2 style="margin:12px 0 6px">Fácil de chegar, no Città América</h2>
+      <img class="loc-photo" src="/images/recepcao-barra-800.webp" srcset="/images/recepcao-barra-800.webp 800w, /images/recepcao-barra-1200.webp 1200w" sizes="(max-width:960px) 100vw, 520px" width="720" height="540" alt="Recepção da clínica MD Frossard na Barra da Tijuca" loading="lazy" decoding="async">
+      <div class="units">
+        <span class="unit">Barra da Tijuca</span>
+        <span class="unit alt">Botafogo / Humaitá</span>
+      </div>
+      <div class="info-row"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 6-9 12-9 12s-9-6-9-12a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg><div><b>Av. das Américas, 700 — Bloco 2, Sala 143</b><span>Shopping Città América · Barra da Tijuca · CEP 22640-100</span></div></div>
+      <div class="info-row"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a8 8 0 0116 0M4 11v6h4v-6M20 11v6h-4v-6"/></svg><div><b>Acesso fácil</b><span>Metrô Jardim Oceânico (Linha 4), BRT Alvorada e estacionamento no shopping.</span></div></div>
+      <div class="info-row"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><div><b>Segunda a sexta, 8h às 18h</b><span>Sempre com hora marcada.</span></div></div>
+      <a class="btn btn-outline" style="margin-top:24px" href="https://maps.google.com/?q=MD+Frossard+Odontologia+Barra+da+Tijuca" target="_blank" rel="noopener">Ver no mapa</a>
+    </div>
+    <div class="faq rv">
+      <span class="eyebrow">Perguntas frequentes</span>
+      <h2 style="margin:12px 0 8px">Antes de agendar</h2>
+      <details><summary>A clínica atende por convênio ou SUS? <span class="pl">+</span></summary><p>O atendimento é exclusivamente particular. Fornecemos a documentação para você solicitar reembolso junto ao seu plano, quando aplicável.</p></details>
+      <details><summary>Como funcionam os valores? <span class="pl">+</span></summary><p>Cada caso é avaliado individualmente. Os valores são definidos após a avaliação clínica, com um plano de tratamento claro antes de qualquer procedimento.</p></details>
+      <details><summary>Qual o horário de atendimento? <span class="pl">+</span></summary><p>De segunda a sexta, das 8h às 18h, sempre com hora marcada.</p></details>
+      <details><summary>Como faço para agendar? <span class="pl">+</span></summary><p>Pelo WhatsApp (21) 97663-7803 ou pelo telefone (21) 3217-0430. Respondemos no mesmo dia, em horário comercial.</p></details>
+    </div>
+  </div>
+</section>
+
+<section class="final">
+  <div class="num38" aria-hidden="true">38</div>
+  <div class="wrap inner">
+    <span class="eyebrow" style="color:var(--brass-2)">Agende agora</span>
+    <h2 style="margin-top:12px">Marque sua avaliação na Barra da Tijuca</h2>
+    <p>Fale com a nossa equipe e escolha o melhor horário. Atendimento particular, com hora marcada — respondemos no mesmo dia.</p>
+    <div class="hero-cta">
+      <a class="btn btn-wa" href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o%20na%20cl%C3%ADnica%20da%20Barra%20da%20Tijuca." target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.7-.9-2-1-.3-.1-.5-.1-.6.1l-.9 1.1c-.2.2-.3.2-.6.1-1.1-.5-2.5-1.6-3.2-3-.3-.5 0-.5.3-1 .1-.1.2-.3.3-.5.1-.2 0-.4 0-.5s-.6-1.6-.9-2.2c-.2-.5-.4-.5-.6-.5h-.5c-.2 0-.5.1-.7.3-.9.9-.9 2.1-.9 2.2 0 1.4 1 2.8 1.2 3 .1.2 2 3.1 5 4.4.7.3 1.2.5 1.7.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.1-.3-.2-.6-.3z"/><path d="M12 2A10 10 0 002 12a10 10 0 001.4 5.1L2 22l5-1.3A10 10 0 1012 2zm0 18a8 8 0 01-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1112 20z"/></svg>Agendar pelo WhatsApp</a>
+      <a class="btn btn-call" href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6.6 10.8a15.5 15.5 0 006.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1A17 17 0 013 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1l-2.3 2.2z"/></svg>Ligar (21) 3217-0430</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <strong style="color:#c8d1dc;font-family:var(--serif);font-size:1.05rem">MD Frossard Odontologia</strong><br>
+    Av. das Américas, 700 — Bloco 2, Sala 143 · Shopping Città América · Barra da Tijuca — RJ<br>
+    EPAO 3415 · Responsável Técnico: Dr. Davi H. Frossard — CRO-RJ 36193 · <a href="#">Política de Privacidade</a>
+    <p class="disc">As avaliações são de pacientes reais publicadas no Google. Resultados de tratamentos odontológicos variam conforme cada caso e dependem de avaliação clínica individual.</p>
+  </div>
+</footer>
+
+<div class="sticky-bar">
+  <a class="btn btn-wa" href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o%20na%20cl%C3%ADnica%20da%20Barra%20da%20Tijuca." target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.7-.9-2-1-.3-.1-.5-.1-.6.1l-.9 1.1c-.2.2-.3.2-.6.1-1.1-.5-2.5-1.6-3.2-3-.3-.5 0-.5.3-1 .1-.1.2-.3.3-.5.1-.2 0-.4 0-.5s-.6-1.6-.9-2.2c-.2-.5-.4-.5-.6-.5h-.5c-.2 0-.5.1-.7.3-.9.9-.9 2.1-.9 2.2 0 1.4 1 2.8 1.2 3 .1.2 2 3.1 5 4.4.7.3 1.2.5 1.7.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.1-.3-.2-.6-.3z"/><path d="M12 2A10 10 0 002 12a10 10 0 001.4 5.1L2 22l5-1.3A10 10 0 1012 2zm0 18a8 8 0 01-4.1-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8 8 0 1112 20z"/></svg>WhatsApp</a>
+  <a class="btn btn-call" href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6.6 10.8a15.5 15.5 0 006.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1A17 17 0 013 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1l-2.3 2.2z"/></svg>Ligar</a>
+</div>
+
+<script>
+(function(){
+  var r=document.body;
+  requestAnimationFrame(function(){requestAnimationFrame(function(){r.classList.add('loaded')})});
+  if(!('IntersectionObserver'in window)){document.querySelectorAll('.rv').forEach(function(el){el.classList.add('in')});return;}
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+  document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
+})();
+</script>
+<script>
+(function(){try{
+ var p=new Intl.DateTimeFormat('en-US',{timeZone:'America/Sao_Paulo',weekday:'short',hour:'2-digit',hour12:false}).formatToParts(new Date());
+ var wd,h;p.forEach(function(x){if(x.type==='weekday')wd=x.value;if(x.type==='hour')h=parseInt(x.value,10);});
+ var days={Mon:1,Tue:2,Wed:3,Thu:4,Fri:5,Sat:6,Sun:0},d=days[wd];
+ var open=(d>=1&&d<=5&&h>=8&&h<18);
+ var b=document.getElementById('statusBadge'),t=document.getElementById('statusTxt');
+ if(b&&t){if(open){b.classList.add('open');t.textContent='Aberto agora · respondemos na hora';}else{t.textContent='Seg–sex, 8h–18h · deixe sua mensagem';}}
+}catch(e){}})();
+</script>
