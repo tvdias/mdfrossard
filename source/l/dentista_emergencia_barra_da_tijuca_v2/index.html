@@ -8,6 +8,7 @@ hero_preload: "/images/hero-img.webp"
 og_image: "https://mdfrossard.com.br/images/lps/marcos-atendimento-emergencia.webp"
 contact_value: 2000
 content_category: emergencia-barra
+noindex: true
 ---
 <script type="application/ld+json">
 {
@@ -56,7 +57,54 @@ content_category: emergencia-barra
     { "@type": "MedicalProcedure", "name": "Abscesso Dentário" }
   ],
   "parentOrganization": { "@id": "https://mdfrossard.com.br/#organization" },
-  "areaServed": ["Barra da Tijuca","Recreio dos Bandeirantes","Jacarepaguá","Rio de Janeiro"]
+  "areaServed": ["Barra da Tijuca","Recreio dos Bandeirantes","Jacarepaguá","Rio de Janeiro"],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "100",
+    "bestRating": "5"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Vocês atendem emergência odontológica no mesmo dia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sim. Priorizamos casos de urgência como dor de dente, dente quebrado e abscesso, com encaixe no mesmo dia sempre que possível. Ligue para (21) 97663-7803 ou chame no WhatsApp para verificarmos o horário mais próximo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual o horário de atendimento?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Atendemos de segunda a sexta, das 8h às 18h, na Barra da Tijuca (Shopping Città América, Av. das Américas, 700)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "O que fazer em caso de dor de dente forte?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evite alimentos muito quentes ou gelados, mantenha a higiene da região e procure atendimento profissional o quanto antes. Entre em contato conosco para uma avaliação de urgência."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "A MD Frossard atende convênios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "O atendimento é particular. Fornecemos toda a documentação necessária para solicitação de reembolso junto ao seu convênio."
+      }
+    }
+  ]
 }
 </script>
 
@@ -452,7 +500,7 @@ a{text-decoration:none;color:inherit}
       </div>
     </div>
     <div class="hook-img-wrap rv d2">
-      <img src="/images/hero-img.webp" alt="Atendimento odontológico MD Frossard" class="hook-img" loading="lazy" width="1600" height="1066">
+      <img src="/images/hero-img.webp" srcset="/images/hero-img-800.webp 800w, /images/hero-img-1200.webp 1200w, /images/hero-img.webp 1600w" sizes="(max-width: 768px) 100vw, 800px" alt="Atendimento odontológico MD Frossard" class="hook-img" loading="lazy" width="1600" height="1066">
     </div>
   </div>
 </section>
