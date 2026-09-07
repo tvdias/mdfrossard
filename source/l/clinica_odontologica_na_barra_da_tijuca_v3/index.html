@@ -31,7 +31,7 @@ html{scroll-behavior:smooth}
 body{font-family:var(--sans);color:var(--ink);background:var(--porcelain);line-height:1.65;-webkit-font-smoothing:antialiased;font-size:16px;overflow-x:hidden}
 img{max-width:100%;display:block}
 a{color:inherit;text-decoration:none}
-.wrap{max-width:var(--wrap);margin:0 auto;padding:0 18px}
+.wrap{max-width:var(--wrap);margin:0 auto;padding:0 22px}
 .eyebrow{display:block;font-size:.68rem;letter-spacing:.24em;text-transform:uppercase;font-weight:700;color:var(--brass)}
 h1,h2,h3,.serif{font-family:var(--serif);font-weight:600;letter-spacing:-.012em}
 h1{font-size:clamp(2.15rem,8.5vw,3.9rem);line-height:1.04}
@@ -68,7 +68,7 @@ header{position:sticky;top:0;z-index:60;background:rgba(11,28,46,.92);backdrop-f
 .hero .num38{position:absolute;right:-8%;top:-3%;font-family:var(--serif);font-weight:600;font-size:11rem;line-height:.8;color:transparent;-webkit-text-stroke:1.2px rgba(231,211,160,.14);letter-spacing:-.04em;pointer-events:none;user-select:none;z-index:0}
 .hero:after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;background:linear-gradient(90deg,transparent,var(--brass-2),transparent);z-index:2}
 .vlabel{display:none}
-.hero-grid{position:relative;z-index:2;display:flex;flex-direction:column;gap:30px;padding:34px 0 46px}
+.hero-grid{position:relative;z-index:2;display:flex;flex-direction:column;gap:30px;padding-top:34px;padding-bottom:46px}
 .hero h1{margin:14px 0 16px}
 .hero h1 .it{font-style:italic;font-weight:500;color:var(--brass-lite)}
 .hero h1 .rule{display:block;width:56px;height:3px;background:var(--brass-2);margin-top:18px;border-radius:2px}
@@ -228,7 +228,7 @@ footer .disc{max-width:44em;margin:12px auto 0;font-size:.72rem;color:#6d7d8f;fo
    ========================================================= */
 @media(min-width:960px){
   body{font-size:16.5px;line-height:1.68}
-  .hero-grid{display:grid;grid-template-columns:1.08fr .92fr;gap:52px;align-items:center;flex-direction:row;padding:66px 0 74px}
+  .hero-grid{display:grid;grid-template-columns:1.08fr .92fr;gap:52px;align-items:center;flex-direction:row;padding-top:66px;padding-bottom:74px}
   .hero .num38{font-size:clamp(24rem,42vw,44rem);top:-4%;right:-3%}
   .vlabel{display:block;position:absolute;left:14px;top:50%;transform:translateY(-50%) rotate(180deg);writing-mode:vertical-rl;font-size:.64rem;letter-spacing:.4em;text-transform:uppercase;color:rgba(231,211,160,.6);font-weight:700;z-index:3}
   .lead{font-size:1.12rem;max-width:31em}
@@ -253,7 +253,7 @@ footer .disc{max-width:44em;margin:12px auto 0;font-size:.72rem;color:#6d7d8f;fo
 .badge.open .d{background:#31c96a;box-shadow:0 0 0 3px rgba(49,201,106,.2)}
 body.lgpd-visible .sticky-bar{display:none}
 @media(max-width:600px){body.lgpd-visible footer{padding-bottom:170px}}
-</style>
+@media(max-width:600px){.hero-grid{padding-top:18px;padding-bottom:28px;gap:20px}.hero h1{font-size:1.9rem;line-height:1.1;margin:8px 0 10px}.hero h1 .rule{margin-top:10px;width:48px}.lead{font-size:.98rem;line-height:1.5}.badge{margin-bottom:10px}.honest{margin-top:10px;font-size:.78rem}.trust{margin:14px 0 16px;gap:6px 14px}.hero-cta{gap:9px}.hero-cta .btn{min-height:48px;padding:12px 18px}.seal-note{margin-top:10px}}</style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"A clínica atende por convênio ou SUS?","acceptedAnswer":{"@type":"Answer","text":"O atendimento é exclusivamente particular. Fornecemos a documentação para você solicitar reembolso junto ao seu plano, quando aplicável."}},{"@type":"Question","name":"Como funcionam os valores?","acceptedAnswer":{"@type":"Answer","text":"Cada caso é avaliado individualmente. Os valores são definidos após a avaliação clínica, com um plano de tratamento claro antes de qualquer procedimento."}},{"@type":"Question","name":"Qual o horário de atendimento?","acceptedAnswer":{"@type":"Answer","text":"De segunda a sexta, das 8h às 18h, sempre com hora marcada."}},{"@type":"Question","name":"Como faço para agendar?","acceptedAnswer":{"@type":"Answer","text":"Pelo WhatsApp (21) 97663-7803 ou pelo telefone (21) 3217-0430. Respondemos no mesmo dia, em horário comercial."}}]}</script>
 <header>
   <div class="wrap hdr">
