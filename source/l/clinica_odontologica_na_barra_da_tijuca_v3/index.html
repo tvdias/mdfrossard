@@ -32,7 +32,7 @@ body{font-family:var(--sans);color:var(--ink);background:var(--porcelain);line-h
 img{max-width:100%;display:block}
 a{color:inherit;text-decoration:none}
 .wrap{max-width:var(--wrap);margin:0 auto;padding:0 18px}
-.eyebrow{font-size:.68rem;letter-spacing:.24em;text-transform:uppercase;font-weight:700;color:var(--brass)}
+.eyebrow{display:block;font-size:.68rem;letter-spacing:.24em;text-transform:uppercase;font-weight:700;color:var(--brass)}
 h1,h2,h3,.serif{font-family:var(--serif);font-weight:600;letter-spacing:-.012em}
 h1{font-size:clamp(2.15rem,8.5vw,3.9rem);line-height:1.04}
 h2{font-size:clamp(1.6rem,6vw,2.7rem);line-height:1.08}
@@ -181,7 +181,7 @@ section{padding:48px 0;position:relative}
 .final p{color:#c5cfda;margin:0 auto 24px}
 .final .hero-cta{justify-content:center}
 
-footer{background:var(--petrol-2);color:#8fa0b2;font-size:.8rem;padding:30px 0 96px;text-align:center;line-height:1.9;border-top:1px solid rgba(231,211,160,.1)}
+footer{background:var(--petrol-2);color:#8fa0b2;font-size:.8rem;padding:30px 0 140px;text-align:center;line-height:1.9;border-top:1px solid rgba(231,211,160,.1)}
 footer a{color:var(--brass-2)}
 footer .disc{max-width:44em;margin:12px auto 0;font-size:.72rem;color:#6d7d8f;font-style:italic}
 
@@ -246,10 +246,13 @@ footer .disc{max-width:44em;margin:12px auto 0;font-size:.72rem;color:#6d7d8f;fo
 /* v3 — fotos reais, selo status, foto recepção */
 .mbr-ph{width:100%;aspect-ratio:4/5;overflow:hidden;border-radius:6px;margin-bottom:16px;border:1px solid rgba(231,211,160,.18);background:#0d2135}.mbr-ph img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block}
 .loc-photo{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:4px;margin:2px 0 20px;border:1px solid var(--line)}
-.badge{display:inline-flex;align-items:center;gap:8px;font-size:.78rem;font-weight:600;color:#dfe8f0;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);padding:6px 12px;border-radius:999px;margin-bottom:14px}
+.badge{display:inline-flex;align-items:center;gap:8px;font-size:.78rem;font-weight:600;color:#dfe8f0;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);padding:6px 12px;border-radius:999px;margin-bottom:16px;clear:both}
+.badge-row{display:block;margin-bottom:2px}
 .badge .d{width:8px;height:8px;border-radius:50%;background:#8b98a6;flex:none}
 .badge.open{color:#eafff2}
 .badge.open .d{background:#31c96a;box-shadow:0 0 0 3px rgba(49,201,106,.2)}
+body.lgpd-visible .sticky-bar{display:none}
+@media(max-width:600px){body.lgpd-visible footer{padding-bottom:170px}}
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"A clínica atende por convênio ou SUS?","acceptedAnswer":{"@type":"Answer","text":"O atendimento é exclusivamente particular. Fornecemos a documentação para você solicitar reembolso junto ao seu plano, quando aplicável."}},{"@type":"Question","name":"Como funcionam os valores?","acceptedAnswer":{"@type":"Answer","text":"Cada caso é avaliado individualmente. Os valores são definidos após a avaliação clínica, com um plano de tratamento claro antes de qualquer procedimento."}},{"@type":"Question","name":"Qual o horário de atendimento?","acceptedAnswer":{"@type":"Answer","text":"De segunda a sexta, das 8h às 18h, sempre com hora marcada."}},{"@type":"Question","name":"Como faço para agendar?","acceptedAnswer":{"@type":"Answer","text":"Pelo WhatsApp (21) 97663-7803 ou pelo telefone (21) 3217-0430. Respondemos no mesmo dia, em horário comercial."}}]}</script>
 <header>
