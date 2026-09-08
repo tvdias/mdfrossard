@@ -123,7 +123,7 @@ noindex: true
   --ease:cubic-bezier(.16,1,.3,1);
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-html{scroll-behavior:smooth}
+html{scroll-behavior:smooth;overflow-x:hidden}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--white);line-height:1.7;-webkit-font-smoothing:antialiased;overflow-x:hidden}
 img{display:block;max-width:100%}
 a{text-decoration:none;color:inherit}
@@ -383,7 +383,7 @@ a{text-decoration:none;color:inherit}
   .testi-grid{grid-template-columns:repeat(3,1fr)}
   .footer-bottom{flex-direction:row;justify-content:space-between}
 }
-@media(max-width:759px){body{padding-bottom:56px}}
+@media(max-width:759px){.btn-lg{white-space:normal;max-width:100%;padding:16px 22px}body{padding-bottom:56px}}
 </style>
 
 <!-- STICKY DESKTOP TOP BAR -->
@@ -444,7 +444,7 @@ a{text-decoration:none;color:inherit}
         </div>
         <div class="hero-avail">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>
-          Atendimento disponível — ligue e confirme o horário
+          Atendemos de segunda a sexta, das 8h às 18h — ligue e confirme o encaixe
         </div>
         <div class="hero-particular" style="display:inline-flex;align-items:center;gap:7px;margin-top:2px;margin-bottom:2px;font-size:.82rem;color:var(--muted);font-weight:600;line-height:1.35"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" style="flex-shrink:0"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg><span>Atendimento <strong style="color:var(--ink-soft)">particular</strong> — não atendemos convênios</span></div>
         <a href="tel:21976637803" class="hero-cta-primary" onclick="return gtagSendEventTelefone(this.href)">
