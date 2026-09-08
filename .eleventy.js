@@ -256,13 +256,13 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy(assetGlob);
   }
   
-  eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/css": "css" });
-  eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/fancybox": "fancybox" });
+  // [removido - legado orfao; nada referencia] eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/css": "css" });
+  // [removido - legado orfao] eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/fancybox": "fancybox" });
   eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/files": "files" });
   eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/fonts": "fonts" });
   eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/images": "images" });
-  eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/js": "js" });
-  eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/revslider": "revslider" });
+  // [removido - legado orfao; nada referencia] eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/js": "js" });
+  // [removido - legado orfao] eleventyConfig.addPassthroughCopy({ "themes/mdfrossard/source/revslider": "revslider" });
   eleventyConfig.addWatchTarget("themes/mdfrossard/layout");
   eleventyConfig.addWatchTarget("source/css");
   eleventyConfig.addWatchTarget("source/js");
