@@ -1,271 +1,530 @@
 ---
 layout: landing_page
 title: "Conheça a Clínica MD Frossard | 38 Anos de Odontologia no Rio"
-description: "Conheça a MD Frossard: 38 anos de tradição conduzidos por pai e filho, equipe de especialistas, scanner iTero e ambientes pensados para o seu conforto. Barra da Tijuca e Botafogo. Agende sua visita."
+description: "Conheça a MD Frossard: 38 anos de tradição conduzidos por pai e filho, equipe de especialistas, scanner iTero e ambientes pensados para o seu conforto. Barra da Tijuca e Botafogo."
 canonical: "https://mdfrossard.com.br/l/conheca-a-clinica/"
 noindex: true
-hero_preload: "/images/equipe_md_completa-800.webp"
+hero_preload: "/images/equipe_md_completa.webp"
 hero_srcset: "/images/equipe_md_completa-800.webp 800w, /images/equipe_md_completa.webp 1600w"
-hero_sizes: "(max-width: 768px) 100vw, 800px"
+hero_sizes: "(max-width: 768px) 100vw, 651px"
 og_image: "https://mdfrossard.com.br/images/equipe_md_completa.webp"
 contact_value: 2000
 content_category: institucional-clinica
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dentist",
+  "name": "MD Frossard Odontologia",
+  "image": "https://mdfrossard.com.br/images/equipe_md_completa.webp",
+  "@id": "https://mdfrossard.com.br/l/conheca-a-clinica/",
+  "url": "https://mdfrossard.com.br/l/conheca-a-clinica/",
+  "telephone": "+5521976637803",
+  "priceRange": "$$",
+  "address": {"@type": "PostalAddress","streetAddress": "Av. das Américas, 700 — Bloco 2, Sala 143 (Shopping Città America)","addressLocality": "Rio de Janeiro","addressRegion": "RJ","postalCode": "22640-100","addressCountry": "BR"},
+  "areaServed": ["Barra da Tijuca","Botafogo","Humaitá","Rio de Janeiro"],
+  "openingHoursSpecification": {"@type": "OpeningHoursSpecification","dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens": "08:00","closes": "18:00"},
+  "description": "Clínica odontológica com 38 anos de tradição no Rio de Janeiro, conduzida pelo Dr. Marcos Frossard e pelo Dr. Davi Frossard. Duas unidades: Barra da Tijuca e Botafogo. Implantes, facetas, reabilitação oral e estética dental.",
+  "sameAs": ["https://www.facebook.com/MdFrossardOdontologia/","https://www.instagram.com/md_frossard_odontologia/"],
+  "medicalSpecialty": ["Dentistry","Prosthodontics","OralSurgery","Endodontics"],
+  "aggregateRating": {"@type": "AggregateRating","ratingValue": "5.0","reviewCount": "114","bestRating": "5"}
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question","name": "Onde ficam as unidades da MD Frossard?","acceptedAnswer": {"@type": "Answer","text": "A clínica tem duas unidades no Rio de Janeiro: na Barra da Tijuca (Av. das Américas, 700, Shopping Città America) e em Botafogo/Humaitá (Rua Marques, 15, ao lado da Cobal do Humaitá)."}},
+    {"@type": "Question","name": "Quem são os dentistas da MD Frossard?","acceptedAnswer": {"@type": "Answer","text": "A clínica foi fundada pelo Dr. Marcos Frossard (CRO-RJ 8058), especialista em reabilitação, prótese e estética, e é conduzida junto ao filho Dr. Davi Frossard (CRO-RJ 36193), especialista em implantodontia, com a Dra. Luciana Peroni (CRO-RJ 38219) em prótese e endodontia."}},
+    {"@type": "Question","name": "A MD Frossard atende convênio?","acceptedAnswer": {"@type": "Answer","text": "A clínica trabalha no modelo particular — o que garante tempo dedicado, materiais premium e tecnologia de ponta. Fornecemos documentação para reembolso nas operadoras que cobrem o tratamento."}},
+    {"@type": "Question","name": "Como agendar uma visita à clínica?","acceptedAnswer": {"@type": "Answer","text": "O jeito mais rápido é pelo WhatsApp (21) 97663-7803. Você também pode ligar (21) 3217-0430, de segunda a sexta, das 8h às 18h."}}
+  ]
+}
+</script>
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-:root{--ink:#0d1117;--teal:#0f6e56;--teal2:#1d9e75;--gold:#c9a227;--gold-d:#9a7d12;--cream:#fdf8ec;--muted:#5f6b66;--line:rgba(13,17,23,.08)}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:#fff;line-height:1.6}
-img{max-width:100%;display:block}
-.wrap{max-width:1100px;margin:0 auto;padding:0 20px}
-h1,h2,h3{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;line-height:1.1}
-.btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;font-weight:600;font-size:1rem;padding:15px 26px;border-radius:50px;text-decoration:none;transition:.2s}
-.btn svg{width:20px;height:20px;flex-shrink:0}
-.btn-wpp{background:var(--teal2);color:#fff;box-shadow:0 6px 18px rgba(29,158,117,.28)}
-.btn-wpp:hover{background:#178a64}
-.btn-out{background:transparent;border:1.5px solid rgba(13,17,23,.18);color:var(--ink)}
-.btn-out:hover{border-color:var(--teal);color:var(--teal)}
-.btn-map{background:var(--teal);color:#fff}
-.btn-map:hover{background:#0b5a46}
-section{padding:62px 0}
-.eyebrow{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.75rem;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;color:var(--gold-d);background:#faf0d2;display:inline-block;padding:5px 14px;border-radius:50px;margin-bottom:16px}
-.s-title{font-size:clamp(1.6rem,3.4vw,2.4rem);font-weight:700;margin-bottom:14px}
-.s-sub{color:var(--muted);max-width:640px;margin-bottom:36px;font-size:1.05rem}
-/* hero */
-.hero{background:radial-gradient(ellipse 70% 60% at 12% 12%,rgba(201,162,39,.16),transparent 60%),linear-gradient(180deg,#fdf8ec,#fafaf8 60%,#f4e9c7);overflow:hidden}
-.hero-nav{display:flex;justify-content:space-between;align-items:center;padding:16px 0}
-.hero-logo{height:50px;width:auto}
-.hero-tel{display:inline-flex;align-items:center;gap:7px;font-weight:600;font-size:.9rem;color:var(--ink);border:1px solid rgba(13,17,23,.14);background:rgba(255,255,255,.6);padding:8px 15px;border-radius:50px;text-decoration:none}
-.hero-tel svg{width:16px;height:16px;color:var(--teal)}
-.hero-2-body{display:grid;grid-template-columns:1fr}
-.hero-2-content{padding:26px 20px 50px;display:flex;align-items:center}
-.hero-2-inner{max-width:560px;margin:0 auto;width:100%}
-.hero-2-inner h1{font-size:clamp(2rem,4.6vw,3rem);font-weight:800;letter-spacing:-1px;margin-bottom:18px}
-.hero-2-inner h1 .hl{color:var(--gold-d)}
-.hero-2-inner .sub{font-size:1.12rem;color:#3d4652;margin-bottom:26px;max-width:520px}
-.hero-cta{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:26px}
-.proof{display:flex;flex-wrap:wrap;gap:9px 20px}
-.proof span{display:inline-flex;align-items:center;gap:7px;font-size:.86rem;font-weight:600;color:var(--ink)}
-.proof svg{width:15px;height:15px;color:var(--gold-d)}
-.hero-2-visual{position:relative;overflow:hidden;min-height:300px;background:#efe4c4;clip-path:polygon(0 8%,100% 0%,100% 100%,0% 100%)}
-.hero-2-img{width:100%;height:100%;object-fit:cover;object-position:center;display:block}
-@media(min-width:880px){
- .hero-2-body{grid-template-columns:1.05fr .95fr;align-items:stretch}
- .hero-2-content{padding:46px 44px 60px;padding-left:max(20px,calc((100vw - 1100px)/2));align-self:center}
- .hero-2-inner{margin:0}
- .hero-2-visual{min-height:520px;clip-path:polygon(9% 0%,100% 0%,100% 100%,0% 100%)}
+:root{
+  --ivory:#F8F6F1;
+  --ivory-dark:#EDE8DC;
+  --navy:#0C1E3C;
+  --navy-soft:#162D50;
+  --gold:#C4943A;
+  --gold-glow:#DEB55A;
+  --gold-light:#F5ECDA;
+  --gold-dark:#9A6E1E;
+  --ink:#111827;
+  --muted:#6B7480;
+  --white:#fff;
+  --ease:cubic-bezier(.25,.46,.45,.94);
+  --sh-sm:0 2px 8px rgba(0,0,0,.07);
+  --sh-md:0 8px 28px rgba(0,0,0,.11);
+  --sh-lg:0 20px 60px rgba(0,0,0,.16);
+  --r:12px;
 }
-/* trust */
-.trust{background:var(--gold);padding:14px 0}
-.trust .wrap{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 26px}
-.trust span{color:#3a2e00;font-weight:600;font-size:.9rem}
-/* história */
-.sec-cream{background:var(--cream)}
-.story{display:grid;grid-template-columns:1fr;gap:34px;align-items:center}
-@media(min-width:900px){.story{grid-template-columns:1.05fr .95fr}}
-.story-media img{width:100%;height:100%;max-height:440px;object-fit:cover;border-radius:16px;box-shadow:0 14px 40px rgba(13,17,23,.1)}
-.story h2{font-size:clamp(1.7rem,3.4vw,2.4rem);font-weight:700;margin-bottom:18px}
-.story p{color:#3d4652;margin-bottom:16px;font-size:1.04rem}
-.story p strong{color:var(--ink)}
-.story .signature{margin-top:22px;font-weight:700;color:var(--teal);font-size:.98rem}
-/* equipe */
-.team{display:grid;grid-template-columns:1fr 1fr;gap:20px}
-@media(min-width:720px){.team{grid-template-columns:repeat(3,1fr)}}
-@media(min-width:960px){.team{grid-template-columns:repeat(5,1fr)}}
-.member{text-align:center}
-.member .ph{width:100%;aspect-ratio:3/4;border-radius:14px;object-fit:cover;object-position:top center;border:1px solid var(--line);box-shadow:0 8px 22px rgba(13,17,23,.08);margin-bottom:12px;background:#eee}
-.member h3{font-size:1.02rem;font-weight:700;margin-bottom:2px}
-.member .role{font-size:.82rem;color:var(--gold-d);font-weight:600;text-transform:uppercase;letter-spacing:.4px;margin-bottom:4px}
-.member .cro{font-size:.8rem;color:var(--muted)}
-/* grid cards */
-.grid{display:grid;grid-template-columns:1fr;gap:18px}
-@media(min-width:640px){.grid{grid-template-columns:1fr 1fr}}
-@media(min-width:960px){.grid{grid-template-columns:1fr 1fr 1fr}}
-.card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:24px}
-.card h3{font-size:1.12rem;font-weight:600;margin-bottom:8px}
-.card p{color:var(--muted);font-size:.95rem}
-.card .ic{width:42px;height:42px;border-radius:11px;background:#e1f5ee;color:var(--teal);display:flex;align-items:center;justify-content:center;margin-bottom:14px}
-.card .ic svg{width:22px;height:22px}
+html{scroll-behavior:smooth}
+
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--white);-webkit-font-smoothing:antialiased}
+img{display:block;max-width:100%}
+a{text-decoration:none;color:inherit}
+
+/* ── Buttons ── */
+.btn{display:inline-flex;align-items:center;gap:9px;padding:14px 26px;border-radius:50px;font-weight:700;font-size:1rem;cursor:pointer;transition:transform .2s var(--ease),box-shadow .2s var(--ease),background .2s;border:none;white-space:nowrap;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+.btn:hover{transform:translateY(-2px)}
+.btn-wpp{background:#25D366;color:#fff;box-shadow:0 4px 18px rgba(37,211,102,.32)}
+.btn-wpp:hover{background:#1fba59;box-shadow:0 8px 28px rgba(37,211,102,.48)}
+.btn-navy{background:var(--navy);color:#fff;box-shadow:0 4px 16px rgba(12,30,60,.28)}
+.btn-navy:hover{background:var(--navy-soft);box-shadow:0 8px 24px rgba(12,30,60,.38)}
+.btn-gold{background:var(--gold);color:#fff;box-shadow:0 4px 18px rgba(196,148,58,.35)}
+.btn-gold:hover{background:var(--gold-dark);box-shadow:0 8px 24px rgba(196,148,58,.5)}
+.btn-ghost{background:rgba(255,255,255,.1);color:#fff;border:2px solid rgba(255,255,255,.4)}
+.btn-ghost:hover{background:rgba(255,255,255,.2)}
+.btn-lg{padding:16px 34px;font-size:1.08rem}
+
+/* ── Layout ── */
+.container{width:100%;max-width:1100px;margin:0 auto;padding:0 20px}
+section{padding:72px 0}
+
+/* ── Typography ── */
+.section-eyebrow{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.72rem;font-weight:600;text-transform:uppercase;letter-spacing:1.4px;color:var(--gold);margin-bottom:12px}
+.section-title{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-size:clamp(1.9rem,3.8vw,2.8rem);font-weight:700;font-style:italic;line-height:1.15;letter-spacing:-.2px;color:var(--ink);margin-bottom:16px}
+.section-sub{color:var(--muted);font-size:.97rem;line-height:1.8;max-width:560px;margin-bottom:48px}
+
+/* ── Scroll Reveal ── */
+.rv{opacity:0;transform:translateY(22px);transition:opacity .6s var(--ease),transform .6s var(--ease)}
+.rv.on{opacity:1;transform:none}
+.d1{transition-delay:.1s}.d2{transition-delay:.2s}.d3{transition-delay:.3s}
+
+/* Nav — shared */
+.hero-nav{display:flex;justify-content:space-between;align-items:center;padding:18px 32px;position:relative;z-index:10;flex-shrink:0}
+.hero-logo{height:72px;width:auto}
+.hero-nav-tel{display:inline-flex;align-items:center;gap:8px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-weight:600;font-size:.85rem;padding:9px 18px;border-radius:50px;border:1.5px solid rgba(12,30,60,.18);transition:background .2s,border-color .2s;color:var(--navy)}
+.hero-nav-tel:hover{background:rgba(12,30,60,.06);border-color:rgba(12,30,60,.3)}
+.hero-location{display:inline-flex;align-items:center;gap:7px;background:var(--gold-light);border:1px solid rgba(196,148,58,.3);color:var(--gold-dark);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.72rem;font-weight:700;letter-spacing:.7px;text-transform:uppercase;padding:6px 14px;border-radius:50px;margin-bottom:24px}
+.hero-h1{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-size:clamp(1.8rem,3.2vw,2.9rem);font-weight:700;font-style:italic;line-height:1.06;letter-spacing:-.5px;color:var(--ink);margin-bottom:22px}
+.hero-h1 .hl{color:var(--gold)}
+.hero-h1 em{color:var(--ink)}
+.hero-sub{font-size:1.05rem;color:var(--muted);line-height:1.8;margin-bottom:34px;max-width:480px}
+.hero-ctas{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:32px}
+.hero-ctas .btn{flex:1;min-width:190px;justify-content:center}
+.hero-proof{display:flex;flex-wrap:wrap;gap:8px 20px}
+.proof-pill{display:inline-flex;align-items:center;gap:6px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.75rem;font-weight:600;color:var(--muted)}
+.proof-pill svg{color:var(--gold);flex-shrink:0}
+
+/* ════ HERO 2 — Diagonal clip ════ */
+.hero-2{background:var(--ivory);padding:0}
+.hero-2-body{flex:1;display:grid;grid-template-columns:1fr 1fr;position:relative}
+.hero-2-content{display:flex;align-items:center;padding:40px 48px 72px 48px;position:relative;z-index:5}
+.hero-2-visual{overflow:hidden;position:relative;
+  clip-path:polygon(9% 0%, 100% 0%, 100% 100%, 0% 100%)}
+.hero-2-img{width:100%;height:100%;object-fit:cover;object-position:20% center;display:block}
+.hero-2-badge-wrap{position:absolute;bottom:28px;right:24px;z-index:4}
+
+@media(max-width:759px){
+  .hero-2-body{grid-template-columns:1fr;grid-template-rows:auto auto}
+  .hero-2-visual{clip-path:polygon(0 8%,100% 0%,100% 100%,0% 100%)}
+  .hero-2-content{padding:24px 20px 56px;order:1}
+  .hero-2-visual{order:2;height:280px}
+  .hero-ctas{flex-direction:column}
+  .hero-ctas .btn{width:100%}
+}
+@media(min-width:760px) and (max-width:959px){
+  .hero-2-content{padding:32px 32px 60px}
+}
+
+/* ══ REST OF PAGE SHARED STYLES ══ */
+.trust-bar{background:var(--gold);padding:13px 0}
+.trust-bar-inner{display:flex;flex-wrap:wrap;justify-content:center;gap:6px 28px;padding:0 20px}
+.trust-item{display:flex;align-items:center;gap:7px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.8rem;font-weight:700;color:var(--navy)}
+.trust-item svg{flex-shrink:0;color:var(--navy);opacity:.7}
+.numbers{background:var(--navy);padding:60px 0}
+.numbers-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.07);border-radius:var(--r);overflow:hidden}
+.number-card{padding:36px 28px;text-align:center;background:var(--navy-soft)}
+.number-val{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-size:3.2rem;font-weight:700;font-style:italic;line-height:1;color:var(--gold-glow)}
+.number-label{font-size:.82rem;color:rgba(255,255,255,.55);margin-top:8px;line-height:1.45;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-weight:600}
+@media(min-width:640px){.numbers-grid{grid-template-columns:repeat(4,1fr)}}
+.servicos{background:var(--ivory);padding:80px 0}
+.servicos-grid{display:grid;grid-template-columns:1fr;gap:14px}
+.servico-card{background:var(--white);border-radius:var(--r);padding:24px;border:1px solid rgba(0,0,0,.06);box-shadow:var(--sh-sm);display:flex;gap:18px;align-items:flex-start;transition:transform .25s var(--ease),box-shadow .25s var(--ease)}
+.servico-card:hover{transform:translateY(-4px);box-shadow:var(--sh-md)}
+.servico-icon{width:44px;height:44px;flex-shrink:0;background:var(--gold-light);border-radius:10px;display:flex;align-items:center;justify-content:center;color:var(--gold-dark)}
+.servico-card h3{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:1rem;font-weight:700;margin-bottom:5px;color:var(--ink)}
+.servico-card p{font-size:.86rem;color:var(--muted);line-height:1.65}
+@media(min-width:640px){.servicos-grid{grid-template-columns:1fr 1fr}}
+@media(min-width:960px){.servicos-grid{grid-template-columns:1fr 1fr 1fr}}
+.doutores{background:var(--white);padding:80px 0}
+.doutores-grid{display:grid;grid-template-columns:1fr;gap:28px;max-width:860px;margin:0 auto}
+.doutor-card{display:flex;flex-direction:column;background:var(--ivory);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-sm);border:1px solid rgba(0,0,0,.05);transition:transform .3s var(--ease),box-shadow .3s var(--ease)}
+.doutor-card:hover{transform:translateY(-4px);box-shadow:var(--sh-md)}
+.doutor-foto{width:100%;aspect-ratio:4/5;object-fit:cover;object-position:center top}
+.doutor-info{padding:26px 24px}
+.doutor-nome{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-size:1.5rem;font-weight:700;font-style:italic;color:var(--navy);margin-bottom:4px}
+.doutor-titulo{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.72rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.6px;margin-bottom:14px}
+.doutor-bio{font-size:.9rem;color:var(--muted);line-height:1.75}
+@media(min-width:640px){.doutores-grid{grid-template-columns:1fr 1fr}.doutor-foto{aspect-ratio:3/4}}
+.equipe-foto{max-width:900px;margin:0 auto;border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-md);aspect-ratio:16/10;background:var(--ivory-dark)}
+.equipe-foto img{width:100%;height:100%;object-fit:cover;object-position:center 22%}
+.equipe-membros{display:grid;grid-template-columns:1fr;gap:14px;max-width:900px;margin:22px auto 0}
+.membro{background:var(--ivory);border:1px solid rgba(0,0,0,.05);border-radius:var(--r);padding:20px 22px;text-align:center}
+.membro-nome{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-size:1.32rem;font-weight:700;font-style:italic;color:var(--navy);margin-bottom:5px}
+.membro-titulo{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.7rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.5px;line-height:1.6}
+@media(min-width:640px){.equipe-membros{grid-template-columns:repeat(3,1fr)}}
+.transformacoes{background:var(--ivory);padding:72px 0}
+.transf-list{display:flex;flex-direction:column;gap:28px;max-width:560px;margin:36px auto 0}
+.transf-case{background:var(--white);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-sm);border:.5px solid rgba(0,0,0,.06)}
+.ba-slider{position:relative;width:100%;aspect-ratio:16/10;overflow:hidden;cursor:ew-resize;background:#0d1117;user-select:none;touch-action:none}
+.ba-slider picture{position:absolute;inset:0;display:block;pointer-events:none}
+.ba-slider picture img{width:100%;height:100%;object-fit:cover;display:block}
+.ba-before{clip-path:inset(0 50% 0 0);will-change:clip-path}
+.ba-label{position:absolute;top:14px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.65rem;font-weight:700;letter-spacing:.6px;text-transform:uppercase;padding:4px 11px;border-radius:50px;z-index:3;pointer-events:none}
+.ba-label-before{left:14px;background:rgba(12,30,60,.75);color:#fff;backdrop-filter:blur(6px)}
+.ba-label-after{right:14px;background:var(--gold);color:#fff}
+.ba-handle{position:absolute;top:0;bottom:0;left:50%;width:2px;background:#fff;transform:translateX(-50%);z-index:5;pointer-events:none;will-change:left}
+.ba-knob{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:42px;height:42px;border-radius:50%;background:#fff;box-shadow:0 4px 16px rgba(0,0,0,.28);display:flex;align-items:center;justify-content:center;gap:2px;color:#111}
+.transf-info{padding:18px 22px 22px}
+.transf-tag{display:inline-block;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.66rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;color:var(--gold-dark);background:var(--gold-light);padding:3px 10px;border-radius:50px;margin-bottom:8px}
+.transf-info h3{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:1rem;font-weight:700;color:var(--ink);margin-bottom:6px;line-height:1.3}
+.transf-info p{font-size:.84rem;color:var(--muted);line-height:1.65;margin-bottom:12px}
+.transf-meta{display:flex;flex-wrap:wrap;gap:5px 14px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.74rem;color:var(--muted)}
+.transf-meta span{display:inline-flex;align-items:center;gap:5px}
+.transf-meta svg{color:var(--gold-dark);flex-shrink:0}
+.transf-disclaimer{max-width:560px;margin:24px auto 0;font-size:.7rem;color:var(--muted);text-align:center;line-height:1.55;opacity:.85;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+.depoimentos{background:var(--navy);padding:72px 0}
+.depoimentos .section-eyebrow{color:var(--gold-glow)}
+.depoimentos .section-title{color:#fff}
+.dep-grid{display:grid;grid-template-columns:1fr;gap:20px}
+.dep-card{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:var(--r);padding:28px;display:flex;flex-direction:column;gap:16px}
+.dep-stars{color:var(--gold-glow);font-size:.9rem;letter-spacing:2px}
+.dep-text{font-size:.93rem;color:rgba(255,255,255,.82);line-height:1.8;font-style:italic}
+.dep-text::before{content:'\201C'}.dep-text::after{content:'\201D'}
+.dep-author{display:flex;align-items:center;gap:10px;margin-top:auto}
+.dep-avatar{width:38px;height:38px;border-radius:50%;background:linear-gradient(135deg,var(--gold-glow),var(--gold));display:flex;align-items:center;justify-content:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-weight:700;font-size:.85rem;color:#fff;flex-shrink:0}
+.dep-name{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-weight:700;font-size:.88rem;color:#fff}
+.dep-source{font-size:.72rem;color:rgba(255,255,255,.5);display:flex;align-items:center;gap:4px;margin-top:2px}
+.google-badge{text-align:center;margin:24px 0 8px}
+.google-badge-inner{display:inline-flex;align-items:center;gap:14px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.14);border-radius:12px;padding:14px 22px;flex-wrap:wrap;justify-content:center}
+.google-badge-score{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-size:2.2rem;font-weight:700;font-style:italic;color:#fff;line-height:1}
+.google-badge-stars{color:#F59E0B;font-size:1rem;letter-spacing:2px;line-height:1}
+.google-badge-count{font-size:.72rem;color:rgba(255,255,255,.5);margin-top:2px}
+.google-badge-divider{width:1px;height:34px;background:rgba(255,255,255,.15)}
+.google-badge-link{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.78rem;font-weight:700;color:var(--gold-glow);padding:7px 15px;border:1.5px solid var(--gold-glow);border-radius:50px;transition:background .2s,color .2s;display:inline-flex;align-items:center;gap:5px}
+.google-badge-link:hover{background:var(--gold-glow);color:var(--navy)}
+@media(min-width:640px){.dep-grid{grid-template-columns:1fr 1fr}}
+@media(min-width:960px){.dep-grid{grid-template-columns:1fr 1fr 1fr}}
+.bairro{background:var(--white);padding:72px 0}
+.bairro-grid{display:grid;grid-template-columns:1fr;gap:28px;align-items:center}
+.bairro-copy p{font-size:.96rem;color:var(--muted);line-height:1.8;margin-bottom:16px}
+.bairro-facts{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:20px}
+.bairro-fact{background:var(--ivory);border:1px solid rgba(196,148,58,.18);border-radius:10px;padding:14px 16px}
+.bairro-fact strong{display:block;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;color:var(--gold-dark);margin-bottom:4px}
+.bairro-fact span{font-size:.9rem;color:var(--ink);line-height:1.5}
+.bairro-visual{border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-md);aspect-ratio:4/3;background:var(--ivory-dark)}
+.bairro-visual img{width:100%;height:100%;object-fit:cover}
+@media(min-width:840px){.bairro-grid{grid-template-columns:1.1fr 1fr}}
+.cta-final{background:linear-gradient(135deg,var(--navy) 0%,var(--navy-soft) 100%);padding:80px 0;text-align:center;position:relative;overflow:hidden}
+.cta-final::before{content:'';position:absolute;width:500px;height:500px;border-radius:50%;background:radial-gradient(circle,rgba(196,148,58,.18) 0%,transparent 70%);top:-100px;right:-100px;pointer-events:none}
+.cta-final .section-title{color:#fff;margin-bottom:14px}
+.cta-final p{color:rgba(255,255,255,.75);max-width:480px;margin:0 auto 38px;font-size:.97rem;line-height:1.8}
+.cta-btns{display:flex;flex-wrap:wrap;justify-content:center;gap:14px}
+@media(max-width:759px){.cta-btns .btn{flex:1 1 100%}}
+.faq{background:var(--ivory);padding:72px 0}
+.faq-list{max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:8px}
+.faq-item{background:var(--white);border-radius:var(--r);border:1px solid rgba(0,0,0,.07);overflow:hidden}
+.faq-q{width:100%;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:18px 22px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.95rem;font-weight:700;color:var(--ink);background:transparent;border:none;cursor:pointer;text-align:left;transition:background .2s}
+.faq-q:hover,.faq-q.open{background:var(--gold-light);color:var(--gold-dark)}
+.faq-chevron{flex-shrink:0;transition:transform .35s var(--ease);color:var(--muted)}
+.faq-q.open .faq-chevron{transform:rotate(180deg);color:var(--gold-dark)}
+.faq-a{display:grid;grid-template-rows:0fr;transition:grid-template-rows .35s var(--ease)}
+.faq-a.open{grid-template-rows:1fr}
+.faq-a-inner{min-height:0;overflow:hidden;padding:0 22px;transition:padding .35s var(--ease);font-size:.92rem;color:var(--muted);line-height:1.8}
+.faq-a.open .faq-a-inner{padding:0 22px 20px}
+.lp-footer{background:var(--navy);padding:48px 0 28px}
+.lp-footer-top{display:flex;flex-direction:column;gap:28px;margin-bottom:36px}
+.lp-footer-brand img{height:44px;width:auto}
+.lp-footer-brand p{font-size:.8rem;color:rgba(255,255,255,.4);margin-top:10px;max-width:320px;line-height:1.65}
+.lp-footer-links{display:flex;flex-wrap:wrap;gap:8px 24px}
+.lp-footer-links a{font-size:.8rem;color:rgba(255,255,255,.5);transition:color .2s}
+.lp-footer-links a:hover{color:rgba(255,255,255,.85)}
+.lp-footer-bottom{border-top:1px solid rgba(255,255,255,.08);padding-top:20px;font-size:.74rem;color:rgba(255,255,255,.3);text-align:center}
+@media(min-width:760px){.lp-footer-top{flex-direction:row;justify-content:space-between;align-items:flex-start}}
+.sticky-wpp{position:fixed;bottom:32px;right:28px;z-index:100;width:60px;height:60px;border-radius:50%;background:#25D366;box-shadow:0 4px 18px rgba(37,211,102,.5);display:none;align-items:center;justify-content:center;color:#fff;transition:transform .2s,box-shadow .2s;text-decoration:none}
+.sticky-wpp:hover{transform:scale(1.1);box-shadow:0 6px 24px rgba(37,211,102,.65)}
+@media(min-width:760px){.sticky-wpp{display:flex}}
+.sticky-bar{position:fixed;left:0;right:0;bottom:0;z-index:100;display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:7px 12px calc(7px + env(safe-area-inset-bottom));background:rgba(255,255,255,.96);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:.5px solid rgba(0,0,0,.08)}
+.sticky-bar a{display:flex;align-items:center;justify-content:center;gap:6px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.76rem;font-weight:700;padding:9px 6px;border-radius:9px;text-decoration:none;letter-spacing:.1px;line-height:1;min-height:36px;transition:opacity .15s,transform .15s}
+.sticky-bar a:active{transform:scale(.97)}
+.sticky-bar .sb-wpp{background:#25D366;color:#fff}
+.sticky-bar .sb-tel{background:var(--navy);color:#fff}
+@media(min-width:760px){.sticky-bar{display:none}}
+@media(max-width:759px){body{padding-bottom:58px}}
+
+/* história reutiliza .bairro-grid */
+.hist-visual{border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-md);aspect-ratio:4/3;background:var(--ivory-dark)}
+.hist-visual img{width:100%;height:100%;object-fit:cover}
+.hist-copy p{font-size:.98rem;color:var(--muted);line-height:1.85;margin-bottom:16px}
+.hist-copy p strong{color:var(--ink)}
+.hist-sign{margin-top:22px;font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-style:italic;font-weight:700;color:var(--navy);font-size:1.05rem}
+/* doutores 3 colunas */
+@media(min-width:760px){.doutores-3{grid-template-columns:repeat(3,1fr)!important;max-width:980px!important}}
+.doutor-bio{font-size:.86rem}
 /* galeria ambientes */
 .amb-grid{display:grid;grid-template-columns:1fr;gap:14px}
 @media(min-width:560px){.amb-grid{grid-template-columns:1fr 1fr}}
 @media(min-width:900px){.amb-grid{grid-template-columns:repeat(3,1fr)}}
-.amb-grid figure{margin:0;border-radius:14px;overflow:hidden;border:1px solid var(--line);position:relative}
-.amb-grid img{width:100%;height:240px;object-fit:cover;object-position:center;display:block;transition:transform .4s}
-.amb-grid figure:hover img{transform:scale(1.04)}
-.amb-grid figcaption{position:absolute;left:0;right:0;bottom:0;padding:22px 14px 10px;font-size:.85rem;font-weight:600;color:#fff;background:linear-gradient(transparent,rgba(0,0,0,.6))}
-.amb-grid figure.tall img{height:300px}
-/* localização mini */
-.locs{display:grid;grid-template-columns:1fr;gap:16px;margin-bottom:28px}
-@media(min-width:640px){.locs{grid-template-columns:1fr 1fr}}
-.loc-card{display:flex;gap:14px;align-items:flex-start;background:#fff;border:1px solid var(--line);border-radius:14px;padding:20px}
-.loc-card svg{width:22px;height:22px;color:var(--teal);flex-shrink:0;margin-top:2px}
-.loc-card h3{font-size:1.08rem;font-weight:700;margin-bottom:3px}
-.loc-card p{color:var(--muted);font-size:.92rem}
-/* cta */
-.cta{background:linear-gradient(135deg,var(--teal),#064e4b);color:#fff;text-align:center}
-.cta h2{font-size:clamp(1.7rem,3.6vw,2.4rem);font-weight:700;margin-bottom:12px}
-.cta p{color:rgba(255,255,255,.8);max-width:540px;margin:0 auto 28px}
-.cta .btn-out{border-color:rgba(255,255,255,.4);color:#fff}
-.cta .btn-out:hover{background:rgba(255,255,255,.12);color:#fff}
-footer{background:var(--ink);color:rgba(255,255,255,.66);padding:36px 0;font-size:.86rem}
-footer a{color:rgba(255,255,255,.85)}
-.sticky-wpp{position:fixed;right:18px;bottom:18px;width:56px;height:56px;border-radius:50%;background:var(--teal2);display:flex;align-items:center;justify-content:center;box-shadow:0 8px 22px rgba(0,0,0,.3);z-index:50}
-.sticky-wpp svg{width:30px;height:30px;fill:#fff}
+.amb-grid figure{margin:0;position:relative;border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-sm);border:1px solid rgba(0,0,0,.06)}
+.amb-grid img{width:100%;height:230px;object-fit:cover;display:block;transition:transform .45s var(--ease)}
+.amb-grid figure:hover img{transform:scale(1.05)}
+.amb-grid figcaption{position:absolute;left:0;right:0;bottom:0;padding:26px 14px 11px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.8rem;font-weight:700;color:#fff;background:linear-gradient(transparent,rgba(12,30,60,.75))}
+/* onde estamos mini */
+.uni-grid{display:grid;grid-template-columns:1fr;gap:16px;margin:36px auto 28px;max-width:820px}
+@media(min-width:640px){.uni-grid{grid-template-columns:1fr 1fr}}
+.uni-card{display:flex;gap:14px;align-items:flex-start;background:var(--ivory);border:1px solid rgba(196,148,58,.18);border-radius:var(--r);padding:22px}
+.uni-card svg{color:var(--gold-dark);flex-shrink:0;margin-top:2px}
+.uni-card h3{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:1.02rem;font-weight:700;color:var(--ink);margin-bottom:4px}
+.uni-card p{font-size:.86rem;color:var(--muted);line-height:1.6}
 </style>
-
 <% var WPP='https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20conhecer%20a%20cl%C3%ADnica%20e%20agendar%20uma%20visita.'; %>
-<% var WPP_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51l-.57-.01c-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487 2.981 1.287 2.981.858 3.518.803.537-.054 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z"/></svg>'; %>
-<% var STAR='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>'; %>
-<% var PIN='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>'; %>
+<% var ICO_WPP='<svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>'; %>
+<% var ICO_TEL='<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>'; %>
+<% var ICO_PIN='<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>'; %>
+<% var ICO_STAR='<svg viewBox="0 0 24 24" width="13" height="13" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>'; %>
+<% var ICO_CK='<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>'; %>
 
-<section class="hero">
-  <div class="wrap"><nav class="hero-nav">
-    <img src="/images/logo-transparente.webp" alt="MD Frossard Odontologia" class="hero-logo" width="180" height="52" loading="eager" decoding="async">
-    <a href="tel:2132170430" class="hero-tel" onclick="return gtagSendEventTelefone(this.href)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>(21) 3217-0430</a>
-  </nav></div>
+<!-- ══ HERO ══ -->
+<section class="hero-2" aria-label="Hero">
+  <nav class="hero-nav">
+    <a href="/" aria-label="MD Frossard Odontologia"><img src="/images/logo-transparente.webp" alt="MD Frossard Odontologia" class="hero-logo" width="180" height="52" loading="eager" decoding="async"></a>
+    <a href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)" class="hero-nav-tel"><%- ICO_TEL %>(21) 3217-0430</a>
+  </nav>
   <div class="hero-2-body">
-    <div class="hero-2-content"><div class="hero-2-inner">
-      <span class="eyebrow">A clínica · Barra e Botafogo</span>
-      <h1>38 anos cuidando do sorriso <span class="hl">de gerações cariocas</span></h1>
-      <p class="sub">A MD Frossard nasceu das mãos do Dr. Marcos Frossard e hoje é conduzida por pai e filho — unindo tradição, tecnologia de ponta e um atendimento humanizado, sem atrasos.</p>
-      <div class="hero-cta">
-        <a href="<%= WPP %>" class="btn btn-wpp" target="_blank" rel="noopener"><%- WPP_SVG %>Agendar uma visita</a>
-        <a href="tel:2132170430" class="btn btn-out" onclick="return gtagSendEventTelefone(this.href)">Ligar agora</a>
+    <div class="hero-2-content"><div>
+      <div class="hero-location"><%- ICO_PIN %> Barra da Tijuca &amp; Botafogo &middot; Rio de Janeiro</div>
+      <h1 class="hero-h1"><span class="hl">Conheça a MD Frossard</span><br>38 anos de odontologia<br><em>de família no Rio.</em></h1>
+      <p class="hero-sub">Fundada pelo Dr. Marcos Frossard e hoje conduzida por pai e filho. Tradição, tecnologia de ponta e um atendimento humanizado, sem atrasos — em duas unidades.</p>
+      <div class="hero-ctas">
+        <a href="<%= WPP %>" target="_blank" rel="noopener" class="btn btn-wpp"><%- ICO_WPP %>Agendar uma visita</a>
+        <a href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)" class="btn btn-navy"><%- ICO_TEL %>Ligar agora</a>
       </div>
-      <div class="proof">
-        <span><%- STAR %>5,0 no Google · 114 avaliações</span>
-        <span><%- STAR %>2 unidades no Rio</span>
+      <div class="hero-proof">
+        <span class="proof-pill"><%- ICO_STAR %>5,0 no Google · 114 avaliações</span>
+        <span class="proof-pill"><%- ICO_PIN %>2 unidades no Rio</span>
+        <span class="proof-pill"><%- ICO_CK %>Atendimento particular</span>
       </div>
     </div></div>
-    <div class="hero-2-visual"><img src="/images/equipe_md_completa.webp" srcset="/images/equipe_md_completa-800.webp 800w, /images/equipe_md_completa.webp 1600w" sizes="(max-width: 768px) 100vw, 800px" class="hero-2-img" alt="Equipe da clínica MD Frossard Odontologia" width="1600" height="1066" fetchpriority="high" decoding="async"></div>
+    <div class="hero-2-visual">
+      <img src="/images/equipe_md_completa.webp" srcset="/images/equipe_md_completa-800.webp 800w, /images/equipe_md_completa.webp 1600w" sizes="(max-width: 768px) 100vw, 651px" class="hero-2-img" alt="Equipe da clínica MD Frossard Odontologia" loading="eager" decoding="sync" fetchpriority="high" width="1600" height="1066">
+    </div>
   </div>
 </section>
 
-<div class="trust"><div class="wrap">
-  <span>✓ 38 anos de tradição</span><span>✓ Conduzida por pai e filho</span><span>✓ Scanner iTero e planejamento 3D</span><span>✓ Atendimento sem atraso</span>
+<!-- ══ TRUST ══ -->
+<div class="trust-bar"><div class="trust-bar-inner">
+  <div class="trust-item"><%- ICO_CK %>Conduzida por pai e filho</div>
+  <div class="trust-item"><%- ICO_CK %>★ 5,0 no Google · 114 avaliações</div>
+  <div class="trust-item"><%- ICO_CK %>Duas unidades no Rio</div>
 </div></div>
 
-<!-- HISTÓRIA -->
-<section>
-  <div class="wrap"><div class="story">
-    <div class="story-content">
-      <span class="eyebrow">Nossa história</span>
-      <h2>Uma clínica de família, construída ao longo de 38 anos</h2>
-      <p>A história da MD Frossard começou há quase quatro décadas, quando o <strong>Dr. Marcos Frossard</strong> abriu as portas de um consultório dedicado à reabilitação oral, prótese e estética dental. Ao longo de quase quatro décadas, atendeu gerações inteiras de famílias no Rio de Janeiro — sempre com a mesma marca registrada: cuidado no detalhe e respeito pelo tempo de cada paciente.</p>
-      <p>Anos depois, seu filho, o <strong>Dr. Davi Heringer Frossard</strong>, juntou-se à clínica trazendo a implantodontia e a odontologia digital. Dessa união de tradição e tecnologia nasceu a MD Frossard como você conhece hoje: <strong>duas unidades</strong>, na Barra da Tijuca e em Botafogo, e uma equipe de especialistas em torno de um único propósito — devolver a cada paciente a saúde e a confiança do seu sorriso.</p>
-      <p class="signature">— Dr. Marcos e Dr. Davi Frossard</p>
+<!-- ══ NÚMEROS ══ -->
+<section class="numbers"><div class="container"><div class="numbers-grid">
+  <div class="number-card rv"><div class="number-val">38</div><div class="number-label">anos de<br>tradição</div></div>
+  <div class="number-card rv d1"><div class="number-val">+5K</div><div class="number-label">pacientes<br>atendidos</div></div>
+  <div class="number-card rv d2"><div class="number-val">5,0</div><div class="number-label">estrelas<br>no Google</div></div>
+  <div class="number-card rv d3"><div class="number-val">114</div><div class="number-label">avaliações<br>verificadas</div></div>
+</div></div></section>
+
+<!-- ══ HISTÓRIA ══ -->
+<section class="bairro"><div class="container"><div class="bairro-grid">
+  <div class="hist-copy bairro-copy">
+    <p class="section-eyebrow rv">Nossa história</p>
+    <h2 class="section-title rv">Uma clínica de família,<br>construída em 38 anos.</h2>
+    <p class="rv d1">A história da MD Frossard começou há quase quatro décadas, quando o <strong>Dr. Marcos Frossard</strong> abriu as portas de um consultório dedicado à reabilitação oral, prótese e estética. Ao longo dos anos, atendeu gerações inteiras de famílias no Rio — sempre com a mesma marca: cuidado no detalhe e respeito pelo tempo de cada paciente.</p>
+    <p class="rv d2">Anos depois, seu filho, o <strong>Dr. Davi Frossard</strong>, juntou-se à clínica trazendo a implantodontia e a odontologia digital. Dessa união de tradição e tecnologia nasceu a MD Frossard como você conhece hoje: <strong>duas unidades</strong>, na Barra da Tijuca e em Botafogo, e uma equipe de especialistas em torno de um só propósito.</p>
+    <p class="hist-sign rv d3">— Dr. Marcos e Dr. Davi Frossard</p>
+  </div>
+  <div class="hist-visual rv d1">
+    <img src="/images/hero-img.webp" alt="Atendimento humanizado na MD Frossard" width="1600" height="1066" loading="lazy" decoding="async">
+  </div>
+</div></div></section>
+
+<!-- ══ DOUTORES (só Marcos, Davi, Luciana) ══ -->
+<section class="doutores"><div class="container">
+  <p class="section-eyebrow rv" style="text-align:center">Quem cuida de você</p>
+  <h2 class="section-title rv" style="text-align:center;margin-bottom:8px">Especialistas à frente<br>de cada tratamento.</h2>
+  <p class="section-sub rv" style="margin:0 auto 40px;text-align:center">Do fundador à nova geração — cada caso conduzido por quem é referência na sua área.</p>
+  <div class="doutores-grid doutores-3">
+    <div class="doutor-card rv">
+      <img class="doutor-foto" src="/images/equipe_marcos.webp" alt="Dr. Marcos Frossard" width="533" height="800" loading="lazy" decoding="async">
+      <div class="doutor-info"><div class="doutor-nome">Dr. Marcos Frossard</div><div class="doutor-titulo">Fundador · CRO-RJ 8058</div><p class="doutor-bio">Há quase quatro décadas dedicado à reabilitação oral, prótese e estética. É a base da tradição que construiu a MD Frossard.</p></div>
     </div>
-    <div class="story-media">
-      <img src="/images/equipe_md_completa.webp" alt="Dr. Marcos e Dr. Davi Frossard com a equipe da clínica" width="1600" height="1066" loading="lazy" decoding="async">
+    <div class="doutor-card rv d1">
+      <img class="doutor-foto" src="/images/equipe_davi.webp" alt="Dr. Davi Frossard" width="533" height="800" loading="lazy" decoding="async">
+      <div class="doutor-info"><div class="doutor-nome">Dr. Davi Frossard</div><div class="doutor-titulo">Implantodontia · CRO-RJ 36193</div><p class="doutor-bio">Filho do Dr. Marcos, trouxe a implantodontia e a odontologia digital — cirurgia guiada 3D, scanner iTero e carga imediata.</p></div>
     </div>
+    <div class="doutor-card rv d2">
+      <img class="doutor-foto" src="/images/equipe_luciana_nova_cropped.webp" alt="Dra. Luciana Peroni" width="600" height="900" loading="lazy" decoding="async">
+      <div class="doutor-info"><div class="doutor-nome">Dra. Luciana Peroni</div><div class="doutor-titulo">Prótese &amp; Endodontia · CRO-RJ 38219</div><p class="doutor-bio">Especialista em prótese e endodontia, cuida da função e da longevidade de cada tratamento realizado na clínica.</p></div>
+    </div>
+  </div>
+</div></section>
+
+<!-- ══ AMBIENTES ══ -->
+<section class="servicos" style="background:var(--white)"><div class="container">
+  <p class="section-eyebrow rv">Por dentro da clínica</p>
+  <h2 class="section-title rv">Ambientes pensados<br>para o seu conforto.</h2>
+  <p class="section-sub rv">Recepção acolhedora, salas independentes por especialidade e consultórios com equipamentos de última geração — dentro de um protocolo de biossegurança rigoroso.</p>
+  <div class="amb-grid">
+    <figure class="rv"><img src="/images/clinica/clinica-02.webp" alt="Recepção da clínica MD Frossard" width="1200" height="800" loading="lazy" decoding="async"><figcaption>Recepção</figcaption></figure>
+    <figure class="rv d1"><img src="/images/clinica/clinica-05.webp" alt="Sala de espera da MD Frossard" width="1200" height="800" loading="lazy" decoding="async"><figcaption>Sala de espera</figcaption></figure>
+    <figure class="rv d2"><img src="/images/clinica/clinica-04.webp" alt="Ambiente interno acolhedor" width="1200" height="800" loading="lazy" decoding="async"><figcaption>Ambiente acolhedor</figcaption></figure>
+    <figure class="rv"><img src="/images/clinica/clinica-07.webp" alt="Consultório com scanner iTero e planejamento digital" width="1200" height="800" loading="lazy" decoding="async"><figcaption>Consultório digital</figcaption></figure>
+    <figure class="rv d1"><img src="/images/clinica/clinica-10.webp" alt="Consultório odontológico moderno" width="1200" height="800" loading="lazy" decoding="async"><figcaption>Consultório</figcaption></figure>
+    <figure class="rv d2"><img src="/images/clinica/clinica-11.webp" alt="Equipamentos de última geração" width="1200" height="800" loading="lazy" decoding="async"><figcaption>Tecnologia de ponta</figcaption></figure>
+  </div>
+</div></section>
+
+<!-- ══ TECNOLOGIA ══ -->
+<section class="servicos"><div class="container">
+  <p class="section-eyebrow rv">Estrutura e tecnologia</p>
+  <h2 class="section-title rv">Odontologia moderna,<br>do diagnóstico à cirurgia.</h2>
+  <p class="section-sub rv">Equipamentos que trazem mais conforto, precisão e previsibilidade para cada etapa do tratamento.</p>
+  <div class="servicos-grid">
+    <div class="servico-card rv"><div class="servico-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg></div><div><h3>Scanner iTero®</h3><p>Registro digital da sua boca em minutos, com mais conforto e precisão — sem massinha de moldagem.</p></div></div>
+    <div class="servico-card rv d1"><div class="servico-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 3v18M3 12h18"/></svg></div><div><h3>Planejamento 3D</h3><p>Tomografia e simulação do tratamento para cirurgias guiadas e resultados previsíveis.</p></div></div>
+    <div class="servico-card rv d2"><div class="servico-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 12l2 2 4-4"/><path d="M21 12c0 4.97-4.03 9-9 9s-9-4.03-9-9 4.03-9 9-9c1.66 0 3.21.45 4.54 1.24"/></svg></div><div><h3>Biossegurança rigorosa</h3><p>Sala de esterilização dedicada, autoclave classe B e instrumental embalado individualmente a cada paciente.</p></div></div>
+    <div class="servico-card rv"><div class="servico-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg></div><div><h3>Salas independentes</h3><p>Ambientes separados por especialidade, do diagnóstico à cirurgia, com total privacidade.</p></div></div>
+    <div class="servico-card rv d1"><div class="servico-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78L12 21.23l8.84-8.84a5.5 5.5 0 0 0 0-7.78z"/></svg></div><div><h3>Atendimento humanizado</h3><p>Acolhimento de verdade, no seu tempo. Ideal para quem tem receio de dentista.</p></div></div>
+    <div class="servico-card rv d2"><div class="servico-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div><div><h3>Pontualidade</h3><p>Atendimento sempre com hora marcada e respeito ao seu tempo — sem esperas na recepção.</p></div></div>
+  </div>
+</div></section>
+
+<!-- ══ DEPOIMENTOS ══ -->
+<section class="depoimentos"><div class="container">
+  <p class="section-eyebrow rv">O que os pacientes dizem</p>
+  <h2 class="section-title rv" style="color:#fff">114 avaliações<br>5 estrelas no Google</h2>
+  <div class="google-badge rv"><div class="google-badge-inner">
+    <svg width="26" height="26" viewBox="0 0 24 24" aria-hidden="true"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l3.66-2.84z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg>
+    <div class="google-badge-score">5,0</div>
+    <div><div class="google-badge-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><div class="google-badge-count">114 avaliações verificadas</div></div>
+    <div class="google-badge-divider"></div>
+    <a href="https://share.google/dByZdhTbp6XWBuVqh" target="_blank" rel="noopener" class="google-badge-link">Ver no Google <svg viewBox="0 0 16 16" width="10" height="10" fill="currentColor"><path d="M6 3a1 1 0 0 0 0 2h3.586L3.293 11.293a1 1 0 1 0 1.414 1.414L11 6.414V10a1 1 0 1 0 2 0V4a1 1 0 0 0-1-1H6z"/></svg></a>
   </div></div>
-</section>
-
-<!-- EQUIPE -->
-<section class="sec-cream">
-  <div class="wrap" style="text-align:center">
-    <span class="eyebrow">Quem cuida de você</span>
-    <h2 class="s-title">Uma equipe de especialistas</h2>
-    <p class="s-sub" style="margin:0 auto 40px">Cada tratamento conduzido por quem é referência na sua área — do diagnóstico à finalização.</p>
+  <div class="dep-grid" style="margin-top:36px">
+    <div class="dep-card rv"><div class="dep-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p class="dep-text">Cheguei à Clínica MD Frossard através de uma pesquisa na internet. Nunca fui tão bem atendida e tão acolhida. Voltei a confiar em dentista após ser tratada pelo Dr. Marcos e pelo Dr. Davi. A segurança e a delicadeza com que falam com seus pacientes faz toda a diferença!</p><div class="dep-author"><div class="dep-avatar">ED</div><div><div class="dep-name">Elisa d'Arêde</div><div class="dep-source">Google · MD Frossard</div></div></div></div>
+    <div class="dep-card rv d1"><div class="dep-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p class="dep-text">Conheci há 11 anos a clínica MD Frossard e foi uma salvação pra mim. Sou uma pessoa que tem muito medo de dentista, mas fui muito bem recebida e acolhida por todos! Dr. Marcos e Dr. Davi são profissionais incríveis, competentes e acolhedores.</p><div class="dep-author"><div class="dep-avatar">VM</div><div><div class="dep-name">Veronica Magalhães</div><div class="dep-source">Google · MD Frossard</div></div></div></div>
+    <div class="dep-card rv d2"><div class="dep-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p class="dep-text">Sempre tive pânico de dentista, algo que me impediu de ir por 15 anos. Quando encontrei a MD Frossard estava apavorada mas decidida e eles foram essenciais para que eu finalmente me cuidasse. Dr. Davi, Dr. Marcos e todo o time, vocês são demais!</p><div class="dep-author"><div class="dep-avatar">LR</div><div><div class="dep-name">Larissa Rodrigues</div><div class="dep-source">Google · MD Frossard</div></div></div></div>
   </div>
-  <div class="wrap"><div class="team">
-    <div class="member">
-      <img class="ph" src="/images/equipe_marcos.webp" alt="Dr. Marcos Frossard" width="533" height="800" loading="lazy" decoding="async">
-      <h3>Dr. Marcos Frossard</h3>
-      <div class="role">Reabilitação e Prótese</div>
-      <div class="cro">Fundador · CRO-RJ 8058</div>
-    </div>
-    <div class="member">
-      <img class="ph" src="/images/equipe_davi.webp" alt="Dr. Davi Heringer Frossard" width="533" height="800" loading="lazy" decoding="async">
-      <h3>Dr. Davi Frossard</h3>
-      <div class="role">Implantodontia</div>
-      <div class="cro">CRO-RJ 36193</div>
-    </div>
-    <div class="member">
-      <img class="ph" src="/images/equipe_luciana_nova_cropped.webp" alt="Dra. Luciana Vieira Peroni" width="600" height="900" loading="lazy" decoding="async">
-      <h3>Dra. Luciana Peroni</h3>
-      <div class="role">Prótese e Endodontia</div>
-      <div class="cro">CRO-RJ 38219</div>
-    </div>
-    <div class="member">
-      <img class="ph" src="/images/uploads/2014/05/Magali-Ribeiro-763x1024.webp" alt="Dra. Magali Ribeiro" width="763" height="1024" loading="lazy" decoding="async">
-      <h3>Dra. Magali Ribeiro</h3>
-      <div class="role">Periodontia</div>
-      <div class="cro">Gengiva e implantes</div>
-    </div>
-    <div class="member">
-      <img class="ph" src="/images/equipe_carolina.webp" alt="Dra. Carolina Ganimi" width="844" height="755" loading="lazy" decoding="async">
-      <h3>Dra. Carolina Ganimi</h3>
-      <div class="role">Ortodontia</div>
-      <div class="cro">Alinhamento e mordida</div>
-    </div>
-  </div></div>
-</section>
+</div></section>
 
-<!-- AMBIENTES INTERNOS -->
-<section>
-  <div class="wrap" style="text-align:center">
-    <span class="eyebrow">Por dentro da clínica</span>
-    <h2 class="s-title">Ambientes pensados para o seu conforto</h2>
-    <p class="s-sub" style="margin:0 auto 40px">Recepção acolhedora, salas independentes por especialidade e consultórios com equipamentos de última geração — tudo dentro de um protocolo de biossegurança rigoroso.</p>
+<!-- ══ ONDE ESTAMOS (aponta p/ LP de localização) ══ -->
+<section class="bairro" style="background:var(--white)"><div class="container">
+  <p class="section-eyebrow rv" style="text-align:center">Onde estamos</p>
+  <h2 class="section-title rv" style="text-align:center;margin-bottom:8px">Duas unidades<br>no Rio de Janeiro.</h2>
+  <p class="section-sub rv" style="margin:0 auto;text-align:center">Escolha a mais perto de você — veja o mapa e como chegar na página de localização.</p>
+  <div class="uni-grid">
+    <div class="uni-card rv"><%- ICO_PIN %><div><h3>Barra da Tijuca</h3><p>Av. das Américas, 700 — Bloco 2, Sala 143 · Shopping Città América</p></div></div>
+    <div class="uni-card rv d1"><%- ICO_PIN %><div><h3>Botafogo / Humaitá</h3><p>Rua Marques, 15 — ao lado da Cobal do Humaitá</p></div></div>
   </div>
-  <div class="wrap"><div class="amb-grid">
-    <figure><img src="/images/clinica/clinica-02.webp" alt="Recepção da clínica MD Frossard" width="1200" height="800" loading="lazy" decoding="async"><figcaption>Recepção</figcaption></figure>
-    <figure><img src="/images/clinica/clinica-05.webp" alt="Sala de espera da MD Frossard" width="1200" height="800" loading="lazy" decoding="async"><figcaption>Sala de espera</figcaption></figure>
-    <figure><img src="/images/clinica/clinica-04.webp" alt="Ambiente interno da clínica" width="1200" height="800" loading="lazy" decoding="async"><figcaption>Ambiente acolhedor</figcaption></figure>
-    <figure><img src="/images/clinica/clinica-07.webp" alt="Consultório com scanner iTero e planejamento digital" width="1200" height="800" loading="lazy" decoding="async"><figcaption>Consultório digital</figcaption></figure>
-    <figure><img src="/images/clinica/clinica-10.webp" alt="Consultório odontológico moderno" width="1200" height="800" loading="lazy" decoding="async"><figcaption>Consultório</figcaption></figure>
-    <figure><img src="/images/clinica/clinica-11.webp" alt="Equipamentos de última geração na MD Frossard" width="1200" height="800" loading="lazy" decoding="async"><figcaption>Tecnologia de ponta</figcaption></figure>
-  </div></div>
-</section>
+  <div style="text-align:center" class="rv d2"><a href="/l/onde-estamos/" class="btn btn-navy"><%- ICO_PIN %>Ver mapa e como chegar</a></div>
+</div></section>
 
-<!-- TECNOLOGIA -->
-<section class="sec-cream">
-  <div class="wrap" style="text-align:center">
-    <span class="eyebrow">Estrutura e tecnologia</span>
-    <h2 class="s-title">Odontologia moderna, do diagnóstico à cirurgia</h2>
-    <p class="s-sub" style="margin:0 auto 36px">Equipamentos que trazem mais conforto, precisão e previsibilidade para cada etapa do seu tratamento.</p>
+<!-- ══ CTA FINAL ══ -->
+<section class="cta-final"><div class="container">
+  <h2 class="section-title rv">Venha conhecer<br>a MD Frossard.</h2>
+  <p class="rv d1">Agende uma avaliação e conheça de perto a estrutura, a equipe e o cuidado que fazem a diferença há 38 anos.</p>
+  <div class="cta-btns rv d2">
+    <a href="<%= WPP %>" target="_blank" rel="noopener" class="btn btn-wpp btn-lg"><%- ICO_WPP %>Agendar pelo WhatsApp</a>
+    <a href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)" class="btn btn-ghost btn-lg"><%- ICO_TEL %>(21) 3217-0430</a>
   </div>
-  <div class="wrap"><div class="grid">
-    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg></div><h3>Scanner iTero®</h3><p>Registro digital da sua boca em minutos, com mais conforto e precisão — sem aquela massinha de moldagem.</p></div>
-    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M2 12h20"/><circle cx="12" cy="12" r="9"/></svg></div><h3>Planejamento 3D</h3><p>Tomografia e simulação do tratamento para cirurgias guiadas e resultados previsíveis.</p></div>
-    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 12l2 2 4-4"/><path d="M21 12c0 4.97-4.03 9-9 9s-9-4.03-9-9 4.03-9 9-9c1.66 0 3.21.45 4.54 1.24"/></svg></div><h3>Biossegurança rigorosa</h3><p>Sala de esterilização dedicada, autoclave classe B e instrumental embalado individualmente a cada paciente.</p></div>
-    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg></div><h3>Salas independentes</h3><p>Ambientes separados para cada especialidade, do diagnóstico à cirurgia, com total privacidade.</p></div>
-    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78L12 21.23l8.84-8.84a5.5 5.5 0 0 0 0-7.78z"/></svg></div><h3>Atendimento humanizado</h3><p>Acolhimento de verdade, no seu tempo, com cada etapa explicada com calma. Ideal para quem tem receio de dentista.</p></div>
-    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div><h3>Pontualidade</h3><p>Atendimento sempre com hora marcada e respeito ao seu tempo — sem esperas na recepção.</p></div>
-  </div></div>
-</section>
+</div></section>
 
-<!-- ONDE ESTAMOS (mini, aponta para LP de localização) -->
-<section>
-  <div class="wrap" style="text-align:center">
-    <span class="eyebrow">Onde estamos</span>
-    <h2 class="s-title">Duas unidades no Rio de Janeiro</h2>
-    <p class="s-sub" style="margin:0 auto 36px">Escolha a mais perto de você — veja o mapa e como chegar na página de localização.</p>
+<!-- ══ FAQ ══ -->
+<section class="faq"><div class="container">
+  <p class="section-eyebrow rv" style="text-align:center">Dúvidas frequentes</p>
+  <h2 class="section-title rv" style="text-align:center;margin-bottom:40px">Tudo sobre<br>a nossa clínica</h2>
+  <div class="faq-list">
+    <div class="faq-item rv"><button class="faq-q">Onde ficam as unidades da MD Frossard?<svg class="faq-chevron" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-a"><div class="faq-a-inner">Temos duas unidades no Rio: na Barra da Tijuca (Av. das Américas, 700, Shopping Città America) e em Botafogo/Humaitá (Rua Marques, 15, ao lado da Cobal do Humaitá). Veja o mapa e como chegar na nossa página de localização.</div></div></div>
+    <div class="faq-item rv d1"><button class="faq-q">Quem são os dentistas da clínica?<svg class="faq-chevron" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-a"><div class="faq-a-inner">A clínica foi fundada pelo Dr. Marcos Frossard (CRO-RJ 8058), referência em reabilitação, prótese e estética, e é conduzida junto ao filho Dr. Davi Frossard (CRO-RJ 36193), especialista em implantodontia, com a Dra. Luciana Peroni (CRO-RJ 38219) em prótese e endodontia.</div></div></div>
+    <div class="faq-item rv d2"><button class="faq-q">A MD Frossard atende convênio?<svg class="faq-chevron" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-a"><div class="faq-a-inner">A clínica trabalha no modelo particular — o que garante tempo dedicado, materiais premium e tecnologia de ponta. Fornecemos documentação para reembolso nas operadoras que cobrem o tratamento.</div></div></div>
+    <div class="faq-item rv"><button class="faq-q">Qual a estrutura e a tecnologia da clínica?<svg class="faq-chevron" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-a"><div class="faq-a-inner">Scanner intraoral iTero, planejamento digital 3D, raio-X digital, salas independentes por especialidade e sala de esterilização com autoclave classe B — tudo dentro de um protocolo de biossegurança rigoroso.</div></div></div>
+    <div class="faq-item rv d1"><button class="faq-q">Como agendar uma visita?<svg class="faq-chevron" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-a"><div class="faq-a-inner">O jeito mais rápido é pelo WhatsApp (21) 97663-7803. Você também pode ligar (21) 3217-0430, de segunda a sexta, das 8h às 18h.</div></div></div>
   </div>
-  <div class="wrap">
-    <div class="locs">
-      <div class="loc-card"><%- PIN %><div><h3>Barra da Tijuca</h3><p>Av. das Américas, 700 — Bloco 2, Sala 143 · Shopping Città América</p></div></div>
-      <div class="loc-card"><%- PIN %><div><h3>Botafogo / Humaitá</h3><p>Rua Marques, 15 — ao lado da Cobal do Humaitá</p></div></div>
-    </div>
-    <div style="text-align:center">
-      <a href="/l/onde-estamos/" class="btn btn-map"><%- PIN %>Ver mapa e como chegar</a>
-    </div>
+</div></section>
+
+<!-- ══ FOOTER ══ -->
+<footer class="lp-footer"><div class="container">
+  <div class="lp-footer-top">
+    <div class="lp-footer-brand"><img src="/images/logo_branco.webp" alt="MD Frossard Odontologia" width="160" height="44" loading="lazy" decoding="async"><p>Odontologia de excelência no Rio de Janeiro há 38 anos. Duas unidades — Barra da Tijuca e Botafogo.</p></div>
+    <div class="lp-footer-links"><a href="/l/onde-estamos/">Onde estamos</a><a href="/privacidade/">Política de Privacidade</a><a href="/contato/">Contato</a><a href="/">Site principal</a></div>
   </div>
-</section>
+  <div class="lp-footer-bottom">&copy; 2026 MD Frossard Odontologia &middot; EPAO 3415 &middot; RT: Dr. Davi H. Frossard &middot; CRO 36193</div>
+</div></footer>
 
-<!-- CTA -->
-<section class="cta">
-  <div class="wrap">
-    <h2>Venha conhecer a MD Frossard</h2>
-    <p>Agende uma avaliação e conheça de perto a estrutura, a equipe e o cuidado que fazem a diferença há 38 anos.</p>
-    <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center">
-      <a href="<%= WPP %>" class="btn btn-wpp" target="_blank" rel="noopener"><%- WPP_SVG %>Agendar pelo WhatsApp</a>
-      <a href="tel:2132170430" class="btn btn-out" onclick="return gtagSendEventTelefone(this.href)">Ligar (21) 3217-0430</a>
-    </div>
-  </div>
-</section>
+<div class="sticky-bar" role="region" aria-label="Atalhos de contato">
+  <a href="<%= WPP %>" target="_blank" rel="noopener" class="sb-wpp"><%- ICO_WPP %>WhatsApp</a>
+  <a href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)" class="sb-tel"><%- ICO_TEL %>Ligar</a>
+</div>
+<a href="<%= WPP %>" target="_blank" rel="noopener" aria-label="WhatsApp" class="sticky-wpp"><%- ICO_WPP %></a>
 
-<footer><div class="wrap">MD Frossard Odontologia · Barra da Tijuca e Botafogo · (21) 97663-7803 · <a href="/">mdfrossard.com.br</a></div></footer>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // ── FAQ accordion ──
+  document.querySelectorAll('.faq-q').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var item = btn.closest('.faq-item');
+      var ans = item.querySelector('.faq-a');
+      var isOpen = btn.classList.contains('open');
+      document.querySelectorAll('.faq-q').forEach(function(b) {
+        b.classList.remove('open');
+        b.closest('.faq-item').querySelector('.faq-a').classList.remove('open');
+      });
+      if (!isOpen) { btn.classList.add('open'); ans.classList.add('open'); }
+    });
+  });
 
-<a href="<%= WPP %>" class="sticky-wpp" aria-label="WhatsApp" target="_blank" rel="noopener"><%- WPP_SVG %></a>
+  // ── Scroll reveal ──
+  var obs = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) {
+      if (e.isIntersecting) { e.target.classList.add('on'); obs.unobserve(e.target); }
+    });
+  }, { threshold: 0.08, rootMargin: '0px 0px -28px 0px' });
+  document.querySelectorAll('.rv').forEach(function(el) { obs.observe(el); });
+
+  // ── Before/After sliders ──
+  document.querySelectorAll('.ba-slider').forEach(function(slider) {
+    var before = slider.querySelector('.ba-before');
+    var handle = slider.querySelector('.ba-handle');
+    if (!before || !handle) return;
+    var dragging = false, rect = null;
+    var setX = function(p) {
+      p = Math.max(0, Math.min(100, p));
+      before.style.clipPath = 'inset(0 ' + (100 - p) + '% 0 0)';
+      handle.style.left = p + '%';
+    };
+    var pct = function(ev) { var x = (ev.touches ? ev.touches[0].clientX : ev.clientX) - rect.left; return (x / rect.width) * 100; };
+    var down = function(ev) { rect = slider.getBoundingClientRect(); dragging = true; setX(pct(ev)); ev.preventDefault(); };
+    var move = function(ev) { if (!dragging) return; setX(pct(ev)); };
+    var up = function() { dragging = false; rect = null; };
+    slider.addEventListener('mousedown', down);
+    slider.addEventListener('touchstart', down, { passive: false });
+    window.addEventListener('mousemove', move);
+    window.addEventListener('touchmove', move, { passive: false });
+    window.addEventListener('mouseup', up);
+    window.addEventListener('touchend', up);
+    var teaser = new IntersectionObserver(function(entries) {
+      entries.forEach(function(e) {
+        if (!e.isIntersecting) return;
+        teaser.unobserve(e.target);
+        var p = 50, dir = -1;
+        var iv = setInterval(function() {
+          if (dragging) { clearInterval(iv); return; }
+          p += dir * 1.4;
+          if (p <= 28) dir = 1;
+          if (p >= 72) { clearInterval(iv); setX(50); return; }
+          setX(p);
+        }, 35);
+      });
+    }, { threshold: 0.4 });
+    teaser.observe(slider);
+  });
+});
+</script>

@@ -1,243 +1,436 @@
 ---
 layout: landing_page
 title: "Onde Ficamos | MD Frossard — Endereço na Barra e Botafogo"
-description: "Endereço, mapa e como chegar às duas unidades da MD Frossard no Rio: Barra da Tijuca (Città América) e Botafogo/Humaitá (ao lado da Cobal). Estacionamento, metrô e horários. Agende sua visita."
+description: "Endereço, mapa e como chegar às duas unidades da MD Frossard no Rio: Barra da Tijuca (Città América) e Botafogo/Humaitá (ao lado da Cobal). Estacionamento, metrô e horários."
 canonical: "https://mdfrossard.com.br/l/onde-estamos/"
 noindex: true
 hero_preload: "/images/hero-img.webp"
 hero_srcset: "/images/hero-img-800.webp 800w, /images/hero-img-1200.webp 1200w, /images/hero-img.webp 1600w"
-hero_sizes: "(max-width: 768px) 100vw, 800px"
+hero_sizes: "(max-width: 768px) 100vw, 651px"
 og_image: "https://mdfrossard.com.br/images/hero-img.webp"
 contact_value: 2000
 content_category: institucional-localizacao
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question","name": "Onde fica a unidade da Barra da Tijuca?","acceptedAnswer": {"@type": "Answer","text": "Av. das Américas, 700 — Bloco 2, Sala 143, dentro do Shopping Città America, Barra da Tijuca (CEP 22640-100). Estacionamento no próprio shopping, perto do Metrô Jardim Oceânico e do BRT Alvorada."}},
+    {"@type": "Question","name": "Onde fica a unidade de Botafogo?","acceptedAnswer": {"@type": "Answer","text": "Rua Marques, 15 — em uma casa ao lado da Cobal do Humaitá, Botafogo/Humaitá, Rio de Janeiro (CEP 22260-240). Fácil acesso de Botafogo, Humaitá e Jardim Botânico."}},
+    {"@type": "Question","name": "Qual o horário de atendimento?","acceptedAnswer": {"@type": "Answer","text": "As duas unidades atendem de segunda a sexta, das 8h às 18h. Agende pelo WhatsApp (21) 97663-7803 ou ligue (21) 3217-0430."}}
+  ]
+}
+</script>
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-:root{--ink:#0d1117;--teal:#0f6e56;--teal2:#1d9e75;--gold:#c9a227;--gold-d:#9a7d12;--cream:#fdf8ec;--muted:#5f6b66;--line:rgba(13,17,23,.08)}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:#fff;line-height:1.6}
-img{max-width:100%;display:block}
-.wrap{max-width:1100px;margin:0 auto;padding:0 20px}
-h1,h2,h3{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;line-height:1.1}
-.btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;font-weight:600;font-size:1rem;padding:15px 26px;border-radius:50px;text-decoration:none;transition:.2s}
-.btn svg{width:20px;height:20px;flex-shrink:0}
-.btn-wpp{background:var(--teal2);color:#fff;box-shadow:0 6px 18px rgba(29,158,117,.28)}
-.btn-wpp:hover{background:#178a64}
-.btn-out{background:transparent;border:1.5px solid rgba(13,17,23,.18);color:var(--ink)}
-.btn-out:hover{border-color:var(--teal);color:var(--teal)}
-.btn-map{background:var(--teal);color:#fff}
-.btn-map:hover{background:#0b5a46}
-section{padding:62px 0}
-.eyebrow{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.75rem;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;color:var(--gold-d);background:#faf0d2;display:inline-block;padding:5px 14px;border-radius:50px;margin-bottom:16px}
-.s-title{font-size:clamp(1.6rem,3.4vw,2.4rem);font-weight:700;margin-bottom:14px}
-.s-sub{color:var(--muted);max-width:620px;margin-bottom:36px;font-size:1.05rem}
-/* hero */
-.hero{background:radial-gradient(ellipse 70% 60% at 12% 12%,rgba(201,162,39,.16),transparent 60%),linear-gradient(180deg,#fdf8ec,#fafaf8 60%,#f4e9c7);overflow:hidden}
-.hero-nav{display:flex;justify-content:space-between;align-items:center;padding:16px 0}
-.hero-logo{height:50px;width:auto}
-.hero-tel{display:inline-flex;align-items:center;gap:7px;font-weight:600;font-size:.9rem;color:var(--ink);border:1px solid rgba(13,17,23,.14);background:rgba(255,255,255,.6);padding:8px 15px;border-radius:50px;text-decoration:none}
-.hero-tel svg{width:16px;height:16px;color:var(--teal)}
-.hero-2-body{display:grid;grid-template-columns:1fr}
-.hero-2-content{padding:26px 20px 50px;display:flex;align-items:center}
-.hero-2-inner{max-width:560px;margin:0 auto;width:100%}
-.hero-2-inner h1{font-size:clamp(2rem,4.6vw,3rem);font-weight:800;letter-spacing:-1px;margin-bottom:18px}
-.hero-2-inner h1 .hl{color:var(--gold-d)}
-.hero-2-inner .sub{font-size:1.12rem;color:#3d4652;margin-bottom:22px;max-width:520px}
-.hero-addr{display:flex;flex-direction:column;gap:8px;margin-bottom:24px}
-.hero-addr a{display:inline-flex;align-items:flex-start;gap:9px;font-size:.98rem;font-weight:600;color:var(--ink);text-decoration:none;padding:10px 15px;background:rgba(255,255,255,.65);border:1px solid rgba(13,17,23,.1);border-radius:12px;transition:.2s}
-.hero-addr a:hover{border-color:var(--teal);color:var(--teal)}
-.hero-addr svg{width:18px;height:18px;color:var(--teal);flex-shrink:0;margin-top:2px}
-.hero-addr b{color:inherit}
-.hero-addr small{display:block;font-weight:500;color:var(--muted);font-size:.85rem}
-.hero-cta{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:24px}
-.proof{display:flex;flex-wrap:wrap;gap:9px 20px}
-.proof span{display:inline-flex;align-items:center;gap:7px;font-size:.86rem;font-weight:600;color:var(--ink)}
-.proof svg{width:15px;height:15px;color:var(--gold-d)}
-.hero-2-visual{position:relative;overflow:hidden;min-height:280px;background:#efe4c4;clip-path:polygon(0 8%,100% 0%,100% 100%,0% 100%)}
-.hero-2-img{width:100%;height:100%;object-fit:cover;object-position:center;display:block}
-@media(min-width:880px){
- .hero-2-body{grid-template-columns:1.05fr .95fr;align-items:stretch}
- .hero-2-content{padding:46px 44px 60px;padding-left:max(20px,calc((100vw - 1100px)/2));align-self:center}
- .hero-2-inner{margin:0}
- .hero-2-visual{min-height:500px;clip-path:polygon(9% 0%,100% 0%,100% 100%,0% 100%)}
+:root{
+  --ivory:#F8F6F1;
+  --ivory-dark:#EDE8DC;
+  --navy:#0C1E3C;
+  --navy-soft:#162D50;
+  --gold:#C4943A;
+  --gold-glow:#DEB55A;
+  --gold-light:#F5ECDA;
+  --gold-dark:#9A6E1E;
+  --ink:#111827;
+  --muted:#6B7480;
+  --white:#fff;
+  --ease:cubic-bezier(.25,.46,.45,.94);
+  --sh-sm:0 2px 8px rgba(0,0,0,.07);
+  --sh-md:0 8px 28px rgba(0,0,0,.11);
+  --sh-lg:0 20px 60px rgba(0,0,0,.16);
+  --r:12px;
 }
-/* trust */
-.trust{background:var(--gold);padding:14px 0}
-.trust .wrap{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 26px}
-.trust span{color:#3a2e00;font-weight:600;font-size:.9rem}
-/* unidades / mapas */
-.sec-cream{background:var(--cream)}
-.units{display:grid;grid-template-columns:1fr;gap:26px}
-@media(min-width:860px){.units{grid-template-columns:1fr 1fr}}
-.unit{background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 10px 30px rgba(13,17,23,.06);display:flex;flex-direction:column}
-.map-embed{position:relative;height:230px;background:#e1f5ee}
-.map-embed iframe{width:100%;height:100%;border:0;display:block;filter:saturate(1.02)}
-.unit .body{padding:24px;display:flex;flex-direction:column;flex:1}
-.unit h3{font-size:1.3rem;font-weight:700;margin-bottom:4px}
-.unit .tag{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.6px;text-transform:uppercase;color:var(--teal);background:#e1f5ee;padding:3px 10px;border-radius:50px;margin-bottom:10px}
-.unit .addr{color:#3d4652;font-size:.98rem;margin-bottom:16px;font-weight:500}
-.unit ul{list-style:none;margin:0 0 20px;font-size:.92rem;color:#3d4652}
-.unit li{display:flex;gap:9px;margin:8px 0;align-items:flex-start}
-.unit li svg{width:17px;height:17px;color:var(--teal);flex-shrink:0;margin-top:3px}
-.unit .u-cta{display:flex;flex-wrap:wrap;gap:10px;margin-top:auto}
-.unit .u-cta .btn{flex:1;min-width:150px;padding:13px 18px;font-size:.94rem}
-/* grid cards */
-.grid{display:grid;grid-template-columns:1fr;gap:18px}
-@media(min-width:640px){.grid{grid-template-columns:1fr 1fr}}
-@media(min-width:960px){.grid{grid-template-columns:1fr 1fr 1fr}}
-.card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:24px}
-.card h3{font-size:1.12rem;font-weight:600;margin-bottom:8px}
-.card p{color:var(--muted);font-size:.95rem}
-.card .ic{width:42px;height:42px;border-radius:11px;background:#e1f5ee;color:var(--teal);display:flex;align-items:center;justify-content:center;margin-bottom:14px}
-.card .ic svg{width:22px;height:22px}
-/* gallery */
-.gallery-grid{display:grid;grid-template-columns:1fr;gap:14px}
-@media(min-width:760px){.gallery-grid{grid-template-columns:1fr 1fr 1fr}}
-.gallery-grid img{width:100%;height:300px;object-fit:cover;object-position:center;border-radius:14px;display:block;border:1px solid var(--line)}
-/* cta */
-.cta{background:linear-gradient(135deg,var(--teal),#064e4b);color:#fff;text-align:center}
-.cta h2{font-size:clamp(1.7rem,3.6vw,2.4rem);font-weight:700;margin-bottom:12px}
-.cta p{color:rgba(255,255,255,.8);max-width:540px;margin:0 auto 28px}
-.cta .btn-out{border-color:rgba(255,255,255,.4);color:#fff}
-.cta .btn-out:hover{background:rgba(255,255,255,.12);color:#fff}
-footer{background:var(--ink);color:rgba(255,255,255,.66);padding:36px 0;font-size:.86rem}
-footer a{color:rgba(255,255,255,.85)}
-.sticky-wpp{position:fixed;right:18px;bottom:18px;width:56px;height:56px;border-radius:50%;background:var(--teal2);display:flex;align-items:center;justify-content:center;box-shadow:0 8px 22px rgba(0,0,0,.3);z-index:50}
-.sticky-wpp svg{width:30px;height:30px;fill:#fff}
-</style>
+html{scroll-behavior:smooth}
 
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--white);-webkit-font-smoothing:antialiased}
+img{display:block;max-width:100%}
+a{text-decoration:none;color:inherit}
+
+/* ── Buttons ── */
+.btn{display:inline-flex;align-items:center;gap:9px;padding:14px 26px;border-radius:50px;font-weight:700;font-size:1rem;cursor:pointer;transition:transform .2s var(--ease),box-shadow .2s var(--ease),background .2s;border:none;white-space:nowrap;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+.btn:hover{transform:translateY(-2px)}
+.btn-wpp{background:#25D366;color:#fff;box-shadow:0 4px 18px rgba(37,211,102,.32)}
+.btn-wpp:hover{background:#1fba59;box-shadow:0 8px 28px rgba(37,211,102,.48)}
+.btn-navy{background:var(--navy);color:#fff;box-shadow:0 4px 16px rgba(12,30,60,.28)}
+.btn-navy:hover{background:var(--navy-soft);box-shadow:0 8px 24px rgba(12,30,60,.38)}
+.btn-gold{background:var(--gold);color:#fff;box-shadow:0 4px 18px rgba(196,148,58,.35)}
+.btn-gold:hover{background:var(--gold-dark);box-shadow:0 8px 24px rgba(196,148,58,.5)}
+.btn-ghost{background:rgba(255,255,255,.1);color:#fff;border:2px solid rgba(255,255,255,.4)}
+.btn-ghost:hover{background:rgba(255,255,255,.2)}
+.btn-lg{padding:16px 34px;font-size:1.08rem}
+
+/* ── Layout ── */
+.container{width:100%;max-width:1100px;margin:0 auto;padding:0 20px}
+section{padding:72px 0}
+
+/* ── Typography ── */
+.section-eyebrow{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.72rem;font-weight:600;text-transform:uppercase;letter-spacing:1.4px;color:var(--gold);margin-bottom:12px}
+.section-title{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-size:clamp(1.9rem,3.8vw,2.8rem);font-weight:700;font-style:italic;line-height:1.15;letter-spacing:-.2px;color:var(--ink);margin-bottom:16px}
+.section-sub{color:var(--muted);font-size:.97rem;line-height:1.8;max-width:560px;margin-bottom:48px}
+
+/* ── Scroll Reveal ── */
+.rv{opacity:0;transform:translateY(22px);transition:opacity .6s var(--ease),transform .6s var(--ease)}
+.rv.on{opacity:1;transform:none}
+.d1{transition-delay:.1s}.d2{transition-delay:.2s}.d3{transition-delay:.3s}
+
+/* Nav — shared */
+.hero-nav{display:flex;justify-content:space-between;align-items:center;padding:18px 32px;position:relative;z-index:10;flex-shrink:0}
+.hero-logo{height:72px;width:auto}
+.hero-nav-tel{display:inline-flex;align-items:center;gap:8px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-weight:600;font-size:.85rem;padding:9px 18px;border-radius:50px;border:1.5px solid rgba(12,30,60,.18);transition:background .2s,border-color .2s;color:var(--navy)}
+.hero-nav-tel:hover{background:rgba(12,30,60,.06);border-color:rgba(12,30,60,.3)}
+.hero-location{display:inline-flex;align-items:center;gap:7px;background:var(--gold-light);border:1px solid rgba(196,148,58,.3);color:var(--gold-dark);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.72rem;font-weight:700;letter-spacing:.7px;text-transform:uppercase;padding:6px 14px;border-radius:50px;margin-bottom:24px}
+.hero-h1{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-size:clamp(1.8rem,3.2vw,2.9rem);font-weight:700;font-style:italic;line-height:1.06;letter-spacing:-.5px;color:var(--ink);margin-bottom:22px}
+.hero-h1 .hl{color:var(--gold)}
+.hero-h1 em{color:var(--ink)}
+.hero-sub{font-size:1.05rem;color:var(--muted);line-height:1.8;margin-bottom:34px;max-width:480px}
+.hero-ctas{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:32px}
+.hero-ctas .btn{flex:1;min-width:190px;justify-content:center}
+.hero-proof{display:flex;flex-wrap:wrap;gap:8px 20px}
+.proof-pill{display:inline-flex;align-items:center;gap:6px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.75rem;font-weight:600;color:var(--muted)}
+.proof-pill svg{color:var(--gold);flex-shrink:0}
+
+/* ════ HERO 2 — Diagonal clip ════ */
+.hero-2{background:var(--ivory);padding:0}
+.hero-2-body{flex:1;display:grid;grid-template-columns:1fr 1fr;position:relative}
+.hero-2-content{display:flex;align-items:center;padding:40px 48px 72px 48px;position:relative;z-index:5}
+.hero-2-visual{overflow:hidden;position:relative;
+  clip-path:polygon(9% 0%, 100% 0%, 100% 100%, 0% 100%)}
+.hero-2-img{width:100%;height:100%;object-fit:cover;object-position:20% center;display:block}
+.hero-2-badge-wrap{position:absolute;bottom:28px;right:24px;z-index:4}
+
+@media(max-width:759px){
+  .hero-2-body{grid-template-columns:1fr;grid-template-rows:auto auto}
+  .hero-2-visual{clip-path:polygon(0 8%,100% 0%,100% 100%,0% 100%)}
+  .hero-2-content{padding:24px 20px 56px;order:1}
+  .hero-2-visual{order:2;height:280px}
+  .hero-ctas{flex-direction:column}
+  .hero-ctas .btn{width:100%}
+}
+@media(min-width:760px) and (max-width:959px){
+  .hero-2-content{padding:32px 32px 60px}
+}
+
+/* ══ REST OF PAGE SHARED STYLES ══ */
+.trust-bar{background:var(--gold);padding:13px 0}
+.trust-bar-inner{display:flex;flex-wrap:wrap;justify-content:center;gap:6px 28px;padding:0 20px}
+.trust-item{display:flex;align-items:center;gap:7px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.8rem;font-weight:700;color:var(--navy)}
+.trust-item svg{flex-shrink:0;color:var(--navy);opacity:.7}
+.numbers{background:var(--navy);padding:60px 0}
+.numbers-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.07);border-radius:var(--r);overflow:hidden}
+.number-card{padding:36px 28px;text-align:center;background:var(--navy-soft)}
+.number-val{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-size:3.2rem;font-weight:700;font-style:italic;line-height:1;color:var(--gold-glow)}
+.number-label{font-size:.82rem;color:rgba(255,255,255,.55);margin-top:8px;line-height:1.45;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-weight:600}
+@media(min-width:640px){.numbers-grid{grid-template-columns:repeat(4,1fr)}}
+.servicos{background:var(--ivory);padding:80px 0}
+.servicos-grid{display:grid;grid-template-columns:1fr;gap:14px}
+.servico-card{background:var(--white);border-radius:var(--r);padding:24px;border:1px solid rgba(0,0,0,.06);box-shadow:var(--sh-sm);display:flex;gap:18px;align-items:flex-start;transition:transform .25s var(--ease),box-shadow .25s var(--ease)}
+.servico-card:hover{transform:translateY(-4px);box-shadow:var(--sh-md)}
+.servico-icon{width:44px;height:44px;flex-shrink:0;background:var(--gold-light);border-radius:10px;display:flex;align-items:center;justify-content:center;color:var(--gold-dark)}
+.servico-card h3{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:1rem;font-weight:700;margin-bottom:5px;color:var(--ink)}
+.servico-card p{font-size:.86rem;color:var(--muted);line-height:1.65}
+@media(min-width:640px){.servicos-grid{grid-template-columns:1fr 1fr}}
+@media(min-width:960px){.servicos-grid{grid-template-columns:1fr 1fr 1fr}}
+.doutores{background:var(--white);padding:80px 0}
+.doutores-grid{display:grid;grid-template-columns:1fr;gap:28px;max-width:860px;margin:0 auto}
+.doutor-card{display:flex;flex-direction:column;background:var(--ivory);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-sm);border:1px solid rgba(0,0,0,.05);transition:transform .3s var(--ease),box-shadow .3s var(--ease)}
+.doutor-card:hover{transform:translateY(-4px);box-shadow:var(--sh-md)}
+.doutor-foto{width:100%;aspect-ratio:4/5;object-fit:cover;object-position:center top}
+.doutor-info{padding:26px 24px}
+.doutor-nome{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-size:1.5rem;font-weight:700;font-style:italic;color:var(--navy);margin-bottom:4px}
+.doutor-titulo{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.72rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.6px;margin-bottom:14px}
+.doutor-bio{font-size:.9rem;color:var(--muted);line-height:1.75}
+@media(min-width:640px){.doutores-grid{grid-template-columns:1fr 1fr}.doutor-foto{aspect-ratio:3/4}}
+.equipe-foto{max-width:900px;margin:0 auto;border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-md);aspect-ratio:16/10;background:var(--ivory-dark)}
+.equipe-foto img{width:100%;height:100%;object-fit:cover;object-position:center 22%}
+.equipe-membros{display:grid;grid-template-columns:1fr;gap:14px;max-width:900px;margin:22px auto 0}
+.membro{background:var(--ivory);border:1px solid rgba(0,0,0,.05);border-radius:var(--r);padding:20px 22px;text-align:center}
+.membro-nome{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-size:1.32rem;font-weight:700;font-style:italic;color:var(--navy);margin-bottom:5px}
+.membro-titulo{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.7rem;font-weight:700;color:var(--gold-dark);text-transform:uppercase;letter-spacing:.5px;line-height:1.6}
+@media(min-width:640px){.equipe-membros{grid-template-columns:repeat(3,1fr)}}
+.transformacoes{background:var(--ivory);padding:72px 0}
+.transf-list{display:flex;flex-direction:column;gap:28px;max-width:560px;margin:36px auto 0}
+.transf-case{background:var(--white);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-sm);border:.5px solid rgba(0,0,0,.06)}
+.ba-slider{position:relative;width:100%;aspect-ratio:16/10;overflow:hidden;cursor:ew-resize;background:#0d1117;user-select:none;touch-action:none}
+.ba-slider picture{position:absolute;inset:0;display:block;pointer-events:none}
+.ba-slider picture img{width:100%;height:100%;object-fit:cover;display:block}
+.ba-before{clip-path:inset(0 50% 0 0);will-change:clip-path}
+.ba-label{position:absolute;top:14px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.65rem;font-weight:700;letter-spacing:.6px;text-transform:uppercase;padding:4px 11px;border-radius:50px;z-index:3;pointer-events:none}
+.ba-label-before{left:14px;background:rgba(12,30,60,.75);color:#fff;backdrop-filter:blur(6px)}
+.ba-label-after{right:14px;background:var(--gold);color:#fff}
+.ba-handle{position:absolute;top:0;bottom:0;left:50%;width:2px;background:#fff;transform:translateX(-50%);z-index:5;pointer-events:none;will-change:left}
+.ba-knob{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:42px;height:42px;border-radius:50%;background:#fff;box-shadow:0 4px 16px rgba(0,0,0,.28);display:flex;align-items:center;justify-content:center;gap:2px;color:#111}
+.transf-info{padding:18px 22px 22px}
+.transf-tag{display:inline-block;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.66rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;color:var(--gold-dark);background:var(--gold-light);padding:3px 10px;border-radius:50px;margin-bottom:8px}
+.transf-info h3{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:1rem;font-weight:700;color:var(--ink);margin-bottom:6px;line-height:1.3}
+.transf-info p{font-size:.84rem;color:var(--muted);line-height:1.65;margin-bottom:12px}
+.transf-meta{display:flex;flex-wrap:wrap;gap:5px 14px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.74rem;color:var(--muted)}
+.transf-meta span{display:inline-flex;align-items:center;gap:5px}
+.transf-meta svg{color:var(--gold-dark);flex-shrink:0}
+.transf-disclaimer{max-width:560px;margin:24px auto 0;font-size:.7rem;color:var(--muted);text-align:center;line-height:1.55;opacity:.85;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+.depoimentos{background:var(--navy);padding:72px 0}
+.depoimentos .section-eyebrow{color:var(--gold-glow)}
+.depoimentos .section-title{color:#fff}
+.dep-grid{display:grid;grid-template-columns:1fr;gap:20px}
+.dep-card{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:var(--r);padding:28px;display:flex;flex-direction:column;gap:16px}
+.dep-stars{color:var(--gold-glow);font-size:.9rem;letter-spacing:2px}
+.dep-text{font-size:.93rem;color:rgba(255,255,255,.82);line-height:1.8;font-style:italic}
+.dep-text::before{content:'\201C'}.dep-text::after{content:'\201D'}
+.dep-author{display:flex;align-items:center;gap:10px;margin-top:auto}
+.dep-avatar{width:38px;height:38px;border-radius:50%;background:linear-gradient(135deg,var(--gold-glow),var(--gold));display:flex;align-items:center;justify-content:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-weight:700;font-size:.85rem;color:#fff;flex-shrink:0}
+.dep-name{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-weight:700;font-size:.88rem;color:#fff}
+.dep-source{font-size:.72rem;color:rgba(255,255,255,.5);display:flex;align-items:center;gap:4px;margin-top:2px}
+.google-badge{text-align:center;margin:24px 0 8px}
+.google-badge-inner{display:inline-flex;align-items:center;gap:14px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.14);border-radius:12px;padding:14px 22px;flex-wrap:wrap;justify-content:center}
+.google-badge-score{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-size:2.2rem;font-weight:700;font-style:italic;color:#fff;line-height:1}
+.google-badge-stars{color:#F59E0B;font-size:1rem;letter-spacing:2px;line-height:1}
+.google-badge-count{font-size:.72rem;color:rgba(255,255,255,.5);margin-top:2px}
+.google-badge-divider{width:1px;height:34px;background:rgba(255,255,255,.15)}
+.google-badge-link{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.78rem;font-weight:700;color:var(--gold-glow);padding:7px 15px;border:1.5px solid var(--gold-glow);border-radius:50px;transition:background .2s,color .2s;display:inline-flex;align-items:center;gap:5px}
+.google-badge-link:hover{background:var(--gold-glow);color:var(--navy)}
+@media(min-width:640px){.dep-grid{grid-template-columns:1fr 1fr}}
+@media(min-width:960px){.dep-grid{grid-template-columns:1fr 1fr 1fr}}
+.bairro{background:var(--white);padding:72px 0}
+.bairro-grid{display:grid;grid-template-columns:1fr;gap:28px;align-items:center}
+.bairro-copy p{font-size:.96rem;color:var(--muted);line-height:1.8;margin-bottom:16px}
+.bairro-facts{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:20px}
+.bairro-fact{background:var(--ivory);border:1px solid rgba(196,148,58,.18);border-radius:10px;padding:14px 16px}
+.bairro-fact strong{display:block;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;color:var(--gold-dark);margin-bottom:4px}
+.bairro-fact span{font-size:.9rem;color:var(--ink);line-height:1.5}
+.bairro-visual{border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-md);aspect-ratio:4/3;background:var(--ivory-dark)}
+.bairro-visual img{width:100%;height:100%;object-fit:cover}
+@media(min-width:840px){.bairro-grid{grid-template-columns:1.1fr 1fr}}
+.cta-final{background:linear-gradient(135deg,var(--navy) 0%,var(--navy-soft) 100%);padding:80px 0;text-align:center;position:relative;overflow:hidden}
+.cta-final::before{content:'';position:absolute;width:500px;height:500px;border-radius:50%;background:radial-gradient(circle,rgba(196,148,58,.18) 0%,transparent 70%);top:-100px;right:-100px;pointer-events:none}
+.cta-final .section-title{color:#fff;margin-bottom:14px}
+.cta-final p{color:rgba(255,255,255,.75);max-width:480px;margin:0 auto 38px;font-size:.97rem;line-height:1.8}
+.cta-btns{display:flex;flex-wrap:wrap;justify-content:center;gap:14px}
+@media(max-width:759px){.cta-btns .btn{flex:1 1 100%}}
+.faq{background:var(--ivory);padding:72px 0}
+.faq-list{max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:8px}
+.faq-item{background:var(--white);border-radius:var(--r);border:1px solid rgba(0,0,0,.07);overflow:hidden}
+.faq-q{width:100%;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:18px 22px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.95rem;font-weight:700;color:var(--ink);background:transparent;border:none;cursor:pointer;text-align:left;transition:background .2s}
+.faq-q:hover,.faq-q.open{background:var(--gold-light);color:var(--gold-dark)}
+.faq-chevron{flex-shrink:0;transition:transform .35s var(--ease);color:var(--muted)}
+.faq-q.open .faq-chevron{transform:rotate(180deg);color:var(--gold-dark)}
+.faq-a{display:grid;grid-template-rows:0fr;transition:grid-template-rows .35s var(--ease)}
+.faq-a.open{grid-template-rows:1fr}
+.faq-a-inner{min-height:0;overflow:hidden;padding:0 22px;transition:padding .35s var(--ease);font-size:.92rem;color:var(--muted);line-height:1.8}
+.faq-a.open .faq-a-inner{padding:0 22px 20px}
+.lp-footer{background:var(--navy);padding:48px 0 28px}
+.lp-footer-top{display:flex;flex-direction:column;gap:28px;margin-bottom:36px}
+.lp-footer-brand img{height:44px;width:auto}
+.lp-footer-brand p{font-size:.8rem;color:rgba(255,255,255,.4);margin-top:10px;max-width:320px;line-height:1.65}
+.lp-footer-links{display:flex;flex-wrap:wrap;gap:8px 24px}
+.lp-footer-links a{font-size:.8rem;color:rgba(255,255,255,.5);transition:color .2s}
+.lp-footer-links a:hover{color:rgba(255,255,255,.85)}
+.lp-footer-bottom{border-top:1px solid rgba(255,255,255,.08);padding-top:20px;font-size:.74rem;color:rgba(255,255,255,.3);text-align:center}
+@media(min-width:760px){.lp-footer-top{flex-direction:row;justify-content:space-between;align-items:flex-start}}
+.sticky-wpp{position:fixed;bottom:32px;right:28px;z-index:100;width:60px;height:60px;border-radius:50%;background:#25D366;box-shadow:0 4px 18px rgba(37,211,102,.5);display:none;align-items:center;justify-content:center;color:#fff;transition:transform .2s,box-shadow .2s;text-decoration:none}
+.sticky-wpp:hover{transform:scale(1.1);box-shadow:0 6px 24px rgba(37,211,102,.65)}
+@media(min-width:760px){.sticky-wpp{display:flex}}
+.sticky-bar{position:fixed;left:0;right:0;bottom:0;z-index:100;display:grid;grid-template-columns:1fr 1fr;gap:8px;padding:7px 12px calc(7px + env(safe-area-inset-bottom));background:rgba(255,255,255,.96);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:.5px solid rgba(0,0,0,.08)}
+.sticky-bar a{display:flex;align-items:center;justify-content:center;gap:6px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.76rem;font-weight:700;padding:9px 6px;border-radius:9px;text-decoration:none;letter-spacing:.1px;line-height:1;min-height:36px;transition:opacity .15s,transform .15s}
+.sticky-bar a:active{transform:scale(.97)}
+.sticky-bar .sb-wpp{background:#25D366;color:#fff}
+.sticky-bar .sb-tel{background:var(--navy);color:#fff}
+@media(min-width:760px){.sticky-bar{display:none}}
+@media(max-width:759px){body{padding-bottom:58px}}
+
+/* segundo bloco invertido */
+@media(min-width:840px){.bairro-grid.alt{grid-template-columns:1fr 1.1fr}.bairro-grid.alt .bairro-copy{order:2}}
+.bairro-visual{aspect-ratio:4/3}
+.uni-badge{display:inline-flex;align-items:center;gap:8px;background:var(--gold);color:#fff;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:.76rem;font-weight:700;letter-spacing:.5px;text-transform:uppercase;padding:8px 16px;border-radius:50px;margin-bottom:20px}
+.uni-cta{display:flex;flex-wrap:wrap;gap:12px;margin-top:24px}
+</style>
 <% var WPP='https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20conhecer%20a%20cl%C3%ADnica%20e%20agendar%20uma%20visita.'; %>
 <% var WPP_BARRA='https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20agendar%20uma%20visita%20na%20unidade%20da%20Barra%20da%20Tijuca.'; %>
 <% var WPP_BOTAFOGO='https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20agendar%20uma%20visita%20na%20unidade%20de%20Botafogo%20%2F%20Humait%C3%A1.'; %>
-<% var WPP_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51l-.57-.01c-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487 2.981 1.287 2.981.858 3.518.803.537-.054 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z"/></svg>'; %>
-<% var STAR='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>'; %>
-<% var PIN='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>'; %>
-<% var CK='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="20 6 9 17 4 12"/></svg>'; %>
-<% var ROUTE='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="3 11 22 2 13 21 11 13 3 11"/></svg>'; %>
+<% var ICO_WPP='<svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>'; %>
+<% var ICO_TEL='<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>'; %>
+<% var ICO_PIN='<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>'; %>
+<% var ICO_STAR='<svg viewBox="0 0 24 24" width="13" height="13" fill="currentColor" aria-hidden="true"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01z"/></svg>'; %>
+<% var ICO_CK='<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>'; %>
+<% var ICO_ROUTE='<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="3 11 22 2 13 21 11 13 3 11"/></svg>'; %>
 
-<section class="hero">
-  <div class="wrap"><nav class="hero-nav">
-    <img src="/images/logo-transparente.webp" alt="MD Frossard Odontologia" class="hero-logo" width="180" height="52" loading="eager" decoding="async">
-    <a href="tel:2132170430" class="hero-tel" onclick="return gtagSendEventTelefone(this.href)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81A2 2 0 0 1 9.36 8.7L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>(21) 3217-0430</a>
-  </nav></div>
+<!-- ══ HERO ══ -->
+<section class="hero-2" aria-label="Hero">
+  <nav class="hero-nav">
+    <a href="/" aria-label="MD Frossard Odontologia"><img src="/images/logo-transparente.webp" alt="MD Frossard Odontologia" class="hero-logo" width="180" height="52" loading="eager" decoding="async"></a>
+    <a href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)" class="hero-nav-tel"><%- ICO_TEL %>(21) 3217-0430</a>
+  </nav>
   <div class="hero-2-body">
-    <div class="hero-2-content"><div class="hero-2-inner">
-      <span class="eyebrow">Onde ficamos · Rio de Janeiro</span>
-      <h1>Duas unidades, <span class="hl">perto de você</span></h1>
-      <p class="sub">A MD Frossard atende na <strong>Barra da Tijuca</strong> e em <strong>Botafogo / Humaitá</strong>. Veja o endereço, o mapa e como chegar — e agende sua visita.</p>
-      <div class="hero-addr">
-        <a href="#barra"><%- PIN %><span><b>Barra da Tijuca</b><small>Av. das Américas, 700 — Città América</small></span></a>
-        <a href="#botafogo"><%- PIN %><span><b>Botafogo / Humaitá</b><small>Rua Marques, 15 — ao lado da Cobal</small></span></a>
+    <div class="hero-2-content"><div>
+      <div class="hero-location"><%- ICO_PIN %> Onde ficamos &middot; Rio de Janeiro</div>
+      <h1 class="hero-h1"><span class="hl">Duas unidades,</span><br><em>perto de você.</em></h1>
+      <p class="hero-sub">A MD Frossard atende na Barra da Tijuca e em Botafogo / Humaitá. Veja o endereço, o mapa e como chegar — e agende sua visita.</p>
+      <div class="hero-ctas">
+        <a href="<%= WPP %>" target="_blank" rel="noopener" class="btn btn-wpp"><%- ICO_WPP %>Agendar pelo WhatsApp</a>
+        <a href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)" class="btn btn-navy"><%- ICO_TEL %>Ligar agora</a>
       </div>
-      <div class="hero-cta">
-        <a href="<%= WPP %>" class="btn btn-wpp" target="_blank" rel="noopener"><%- WPP_SVG %>Agendar pelo WhatsApp</a>
-        <a href="tel:2132170430" class="btn btn-out" onclick="return gtagSendEventTelefone(this.href)">Ligar agora</a>
-      </div>
-      <div class="proof">
-        <span><%- STAR %>5,0 no Google · 114 avaliações</span>
-        <span><%- STAR %>38 anos de tradição</span>
+      <div class="hero-proof">
+        <span class="proof-pill"><%- ICO_CK %>Estacionamento fácil</span>
+        <span class="proof-pill"><%- ICO_PIN %>Perto de metrô e BRT</span>
+        <span class="proof-pill"><%- ICO_STAR %>Seg a Sex · 8h às 18h</span>
       </div>
     </div></div>
-    <div class="hero-2-visual"><img src="/images/hero-img.webp" srcset="/images/hero-img-800.webp 800w, /images/hero-img-1200.webp 1200w, /images/hero-img.webp 1600w" sizes="(max-width: 768px) 100vw, 800px" class="hero-2-img" alt="Atendimento na clínica MD Frossard" width="1600" height="1066" fetchpriority="high" decoding="async"></div>
+    <div class="hero-2-visual">
+      <img src="/images/hero-img.webp" srcset="/images/hero-img-800.webp 800w, /images/hero-img-1200.webp 1200w, /images/hero-img.webp 1600w" sizes="(max-width: 768px) 100vw, 651px" class="hero-2-img" alt="Clínica MD Frossard" loading="eager" decoding="sync" fetchpriority="high" width="1600" height="1066">
+    </div>
   </div>
 </section>
 
-<div class="trust"><div class="wrap">
-  <span>✓ Estacionamento fácil</span><span>✓ Perto de metrô e BRT</span><span>✓ Seg a Sex, 8h às 18h</span><span>✓ Atendimento sem atraso</span>
+<!-- ══ TRUST ══ -->
+<div class="trust-bar"><div class="trust-bar-inner">
+  <div class="trust-item"><%- ICO_CK %>Estacionamento fácil</div>
+  <div class="trust-item"><%- ICO_CK %>Perto de metrô e BRT</div>
+  <div class="trust-item"><%- ICO_CK %>Seg a Sex · 8h às 18h</div>
 </div></div>
 
-<section class="sec-cream">
-  <div class="wrap" style="text-align:center">
-    <span class="eyebrow">Nossos endereços</span>
-    <h2 class="s-title">Como chegar até a MD Frossard</h2>
-    <p class="s-sub" style="margin:0 auto 40px">Escolha a unidade mais perto de você, veja no mapa e trace sua rota em um toque.</p>
-  </div>
-  <div class="wrap"><div class="units">
-
-    <div class="unit" id="barra">
-      <div class="map-embed">
-        <iframe title="Mapa da unidade Barra da Tijuca" src="https://www.google.com/maps?q=Av.%20das%20Am%C3%A9ricas%2C%20700%20-%20Barra%20da%20Tijuca%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%2022640-100&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
-      </div>
-      <div class="body">
-        <span class="tag">Unidade 1</span>
-        <h3>Barra da Tijuca</h3>
-        <p class="addr">Av. das Américas, 700 — Bloco 2, Sala 143<br>Shopping Città América · CEP 22640-100</p>
-        <ul>
-          <li><%- CK %>Metrô Jardim Oceânico e BRT Alvorada a poucos minutos</li>
-          <li><%- CK %>Estacionamento no próprio shopping, com acesso coberto</li>
-          <li><%- CK %>Fácil acesso pela Av. das Américas</li>
-          <li><%- CK %>Segunda a sexta, das 8h às 18h</li>
-        </ul>
-        <div class="u-cta">
-          <a href="https://www.google.com/maps/dir/?api=1&destination=Av.+das+Am%C3%A9ricas+700+-+Barra+da+Tijuca+Rio+de+Janeiro+22640-100" class="btn btn-map" target="_blank" rel="noopener"><%- ROUTE %>Traçar rota</a>
-          <a href="<%= WPP_BARRA %>" class="btn btn-wpp" target="_blank" rel="noopener"><%- WPP_SVG %>Agendar visita</a>
-        </div>
-      </div>
+<!-- ══ UNIDADE 1 — BARRA ══ -->
+<section class="bairro"><div class="container"><div class="bairro-grid">
+  <div class="bairro-copy">
+    <p class="section-eyebrow rv">Unidade 1</p>
+    <h2 class="section-title rv">Barra da Tijuca</h2>
+    <div class="uni-badge rv d1"><%- ICO_PIN %>No Shopping Città América</div>
+    <p class="rv d1">Av. das Américas, 700 — Bloco 2, Sala 143, dentro do Shopping Città América. Estacionamento no próprio shopping e fácil acesso do Recreio, Jacarepaguá, Península e Jardim Oceânico.</p>
+    <div class="bairro-facts rv d2">
+      <div class="bairro-fact"><strong>Endereço</strong><span>Av. das Américas, 700<br>Bloco 2, Sala 143 — RJ</span></div>
+      <div class="bairro-fact"><strong>Transporte</strong><span>Metrô Jardim Oceânico<br>e BRT Alvorada perto</span></div>
+      <div class="bairro-fact"><strong>Estacionamento</strong><span>No próprio<br>shopping</span></div>
+      <div class="bairro-fact"><strong>Horário</strong><span>Seg a sex<br>8h às 18h</span></div>
     </div>
-
-    <div class="unit" id="botafogo">
-      <div class="map-embed">
-        <iframe title="Mapa da unidade Botafogo / Humaitá" src="https://www.google.com/maps?q=Rua%20Marques%2C%2015%20-%20Humait%C3%A1%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%2022260-240&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
-      </div>
-      <div class="body">
-        <span class="tag">Unidade 2</span>
-        <h3>Botafogo / Humaitá</h3>
-        <p class="addr">Rua Marques, 15 — Casa<br>Ao lado da Cobal do Humaitá · CEP 22260-240</p>
-        <ul>
-          <li><%- CK %>Em uma casa, ambiente acolhedor e reservado</li>
-          <li><%- CK %>Ao lado da Cobal do Humaitá, ponto de referência da Zona Sul</li>
-          <li><%- CK %>Fácil acesso de Botafogo, Humaitá e Jardim Botânico</li>
-          <li><%- CK %>Segunda a sexta, das 8h às 18h</li>
-        </ul>
-        <div class="u-cta">
-          <a href="https://www.google.com/maps/dir/?api=1&destination=Rua+Marques+15+-+Humait%C3%A1+Rio+de+Janeiro+22260-240" class="btn btn-map" target="_blank" rel="noopener"><%- ROUTE %>Traçar rota</a>
-          <a href="<%= WPP_BOTAFOGO %>" class="btn btn-wpp" target="_blank" rel="noopener"><%- WPP_SVG %>Agendar visita</a>
-        </div>
-      </div>
-    </div>
-
-  </div></div>
-</section>
-
-<section>
-  <div class="wrap" style="text-align:center">
-    <span class="eyebrow">Por que a MD Frossard</span>
-    <h2 class="s-title">Vale a visita — em qualquer uma das unidades</h2>
-    <p class="s-sub" style="margin:0 auto 36px">Uma clínica conduzida por pai e filho, que une 38 anos de tradição à odontologia mais moderna.</p>
-  </div>
-  <div class="wrap"><div class="grid">
-    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l3 7h7l-5.5 4 2 7L12 16l-6.5 4 2-7L2 9h7z"/></svg></div><h3>38 anos de tradição</h3><p>Quase quatro décadas cuidando de gerações de pacientes no Rio de Janeiro.</p></div>
-    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="7" r="4"/><path d="M3 21v-2a4 4 0 0 1 4-4h4M16 11l2 2 4-4"/></svg></div><h3>Dr. Marcos e Dr. Davi</h3><p>Pai e filho à frente de cada caso, com especialização em prótese, estética e implantodontia.</p></div>
-    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8M12 17v4"/></svg></div><h3>Tecnologia 3D</h3><p>Scanner iTero e planejamento digital: você vê o resultado antes de começar, sem moldagens desconfortáveis.</p></div>
-    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78L12 21.23l8.84-8.84a5.5 5.5 0 0 0 0-7.78z"/></svg></div><h3>Atendimento humanizado</h3><p>Acolhimento de verdade, no seu tempo, com cada etapa explicada com calma.</p></div>
-    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 12l2 2 4-4"/><path d="M21 12c0 4.97-4.03 9-9 9s-9-4.03-9-9 4.03-9 9-9c1.66 0 3.21.45 4.54 1.24"/></svg></div><h3>Particular com reembolso</h3><p>Atendimento particular e fornecemos a documentação para reembolso junto ao seu plano.</p></div>
-    <div class="card"><div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div><h3>Pontualidade</h3><p>Atendimento sempre com hora marcada e respeito ao seu tempo.</p></div>
-  </div></div>
-</section>
-
-<section class="sec-cream">
-  <div class="wrap" style="text-align:center">
-    <span class="eyebrow">Por dentro</span>
-    <h2 class="s-title">Conheça nossos ambientes</h2>
-    <p class="s-sub" style="margin:0 auto 36px">Recepção acolhedora, salas modernas e equipamentos de ponta — um ambiente pensado para o seu conforto.</p>
-  </div>
-  <div class="wrap"><div class="gallery-grid">
-    <img src="/images/clinica/clinica-04.webp" alt="Sala de espera da clínica — MD Frossard" loading="lazy" decoding="async" width="1200" height="900">
-    <img src="/images/clinica/clinica-07.webp" alt="Consultório odontológico — MD Frossard" loading="lazy" decoding="async" width="1200" height="900">
-    <img src="/images/clinica/clinica-10.webp" alt="Recepção da MD Frossard — MD Frossard" loading="lazy" decoding="async" width="1200" height="900">
-  </div></div>
-</section>
-
-<section class="cta">
-  <div class="wrap">
-    <h2>Venha conhecer a MD Frossard</h2>
-    <p>Agende uma avaliação na unidade mais perto de você e conheça de perto a estrutura, a equipe e o cuidado que fazem a diferença há 38 anos.</p>
-    <div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center">
-      <a href="<%= WPP %>" class="btn btn-wpp" target="_blank" rel="noopener"><%- WPP_SVG %>Agendar pelo WhatsApp</a>
-      <a href="tel:2132170430" class="btn btn-out" onclick="return gtagSendEventTelefone(this.href)">Ligar (21) 3217-0430</a>
+    <div class="uni-cta rv d3">
+      <a href="https://www.google.com/maps/dir/?api=1&destination=Av.+das+Am%C3%A9ricas+700+-+Barra+da+Tijuca+Rio+de+Janeiro+22640-100" target="_blank" rel="noopener" class="btn btn-navy" style="font-size:.9rem;padding:12px 22px"><%- ICO_ROUTE %>Traçar rota</a>
+      <a href="<%= WPP_BARRA %>" target="_blank" rel="noopener" class="btn btn-wpp" style="font-size:.9rem;padding:12px 22px"><%- ICO_WPP %>Agendar visita</a>
     </div>
   </div>
-</section>
+  <div class="bairro-visual rv d1">
+    <iframe src="https://maps.google.com/maps?q=Av.%20das%20Am%C3%A9ricas%2C%20700%20-%20Barra%20da%20Tijuca%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%2022640-100&z=15&output=embed" style="width:100%;height:100%;border:0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Mapa — MD Frossard Barra da Tijuca"></iframe>
+  </div>
+</div></div></section>
 
-<footer><div class="wrap">MD Frossard Odontologia · Barra da Tijuca e Botafogo · (21) 97663-7803 · <a href="/">mdfrossard.com.br</a></div></footer>
+<!-- ══ UNIDADE 2 — BOTAFOGO ══ -->
+<section class="bairro" style="background:var(--ivory)"><div class="container"><div class="bairro-grid alt">
+  <div class="bairro-copy">
+    <p class="section-eyebrow rv">Unidade 2</p>
+    <h2 class="section-title rv">Botafogo / Humaitá</h2>
+    <div class="uni-badge rv d1"><%- ICO_PIN %>Ao lado da Cobal do Humaitá</div>
+    <p class="rv d1">Rua Marques, 15 — em uma casa, ambiente acolhedor e reservado, ao lado da Cobal do Humaitá. Fácil acesso de Botafogo, Humaitá, Laranjeiras e Jardim Botânico.</p>
+    <div class="bairro-facts rv d2">
+      <div class="bairro-fact"><strong>Endereço</strong><span>Rua Marques, 15 — Casa<br>Humaitá — RJ</span></div>
+      <div class="bairro-fact"><strong>Referência</strong><span>Ao lado da<br>Cobal do Humaitá</span></div>
+      <div class="bairro-fact"><strong>Acesso</strong><span>Botafogo, Humaitá<br>e Jardim Botânico</span></div>
+      <div class="bairro-fact"><strong>Horário</strong><span>Seg a sex<br>8h às 18h</span></div>
+    </div>
+    <div class="uni-cta rv d3">
+      <a href="https://www.google.com/maps/dir/?api=1&destination=Rua+Marques+15+-+Humait%C3%A1+Rio+de+Janeiro+22260-240" target="_blank" rel="noopener" class="btn btn-navy" style="font-size:.9rem;padding:12px 22px"><%- ICO_ROUTE %>Traçar rota</a>
+      <a href="<%= WPP_BOTAFOGO %>" target="_blank" rel="noopener" class="btn btn-wpp" style="font-size:.9rem;padding:12px 22px"><%- ICO_WPP %>Agendar visita</a>
+    </div>
+  </div>
+  <div class="bairro-visual rv d1">
+    <iframe src="https://maps.google.com/maps?q=Rua%20Marques%2C%2015%20-%20Humait%C3%A1%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%2022260-240&z=15&output=embed" style="width:100%;height:100%;border:0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Mapa — MD Frossard Botafogo Humaitá"></iframe>
+  </div>
+</div></div></section>
 
-<a href="<%= WPP %>" class="sticky-wpp" aria-label="WhatsApp" target="_blank" rel="noopener"><%- WPP_SVG %></a>
+<!-- ══ CTA FINAL ══ -->
+<section class="cta-final"><div class="container">
+  <h2 class="section-title rv">Escolha a unidade<br>mais perto de você.</h2>
+  <p class="rv d1">Agende sua visita na Barra da Tijuca ou em Botafogo. Nossa equipe atende de segunda a sexta, das 8h às 18h.</p>
+  <div class="cta-btns rv d2">
+    <a href="<%= WPP %>" target="_blank" rel="noopener" class="btn btn-wpp btn-lg"><%- ICO_WPP %>Agendar pelo WhatsApp</a>
+    <a href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)" class="btn btn-ghost btn-lg"><%- ICO_TEL %>(21) 3217-0430</a>
+  </div>
+</div></section>
+
+<!-- ══ FAQ ══ -->
+<section class="faq"><div class="container">
+  <p class="section-eyebrow rv" style="text-align:center">Dúvidas frequentes</p>
+  <h2 class="section-title rv" style="text-align:center;margin-bottom:40px">Como chegar<br>até a MD Frossard</h2>
+  <div class="faq-list">
+    <div class="faq-item rv"><button class="faq-q">Onde fica a unidade da Barra da Tijuca?<svg class="faq-chevron" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-a"><div class="faq-a-inner">Av. das Américas, 700 — Bloco 2, Sala 143, dentro do Shopping Città America, Barra da Tijuca (CEP 22640-100). Estacionamento no próprio shopping, perto do Metrô Jardim Oceânico e do BRT Alvorada.</div></div></div>
+    <div class="faq-item rv d1"><button class="faq-q">Onde fica a unidade de Botafogo?<svg class="faq-chevron" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-a"><div class="faq-a-inner">Rua Marques, 15 — em uma casa ao lado da Cobal do Humaitá, Botafogo/Humaitá (CEP 22260-240). Fácil acesso de Botafogo, Humaitá, Laranjeiras e Jardim Botânico.</div></div></div>
+    <div class="faq-item rv d2"><button class="faq-q">Tem estacionamento?<svg class="faq-chevron" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-a"><div class="faq-a-inner">Na Barra, o estacionamento é no próprio Shopping Città America, com acesso coberto. Em Botafogo/Humaitá há estacionamento na região, ao lado da Cobal do Humaitá.</div></div></div>
+    <div class="faq-item rv"><button class="faq-q">Qual o horário de atendimento?<svg class="faq-chevron" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-a"><div class="faq-a-inner">As duas unidades atendem de segunda a sexta, das 8h às 18h. Agende pelo WhatsApp (21) 97663-7803 ou ligue (21) 3217-0430.</div></div></div>
+  </div>
+</div></section>
+
+<!-- ══ FOOTER ══ -->
+<footer class="lp-footer"><div class="container">
+  <div class="lp-footer-top">
+    <div class="lp-footer-brand"><img src="/images/logo_branco.webp" alt="MD Frossard Odontologia" width="160" height="44" loading="lazy" decoding="async"><p>Odontologia de excelência no Rio de Janeiro há 38 anos. Duas unidades — Barra da Tijuca e Botafogo.</p></div>
+    <div class="lp-footer-links"><a href="/l/conheca-a-clinica/">Conheça a clínica</a><a href="/privacidade/">Política de Privacidade</a><a href="/contato/">Contato</a><a href="/">Site principal</a></div>
+  </div>
+  <div class="lp-footer-bottom">&copy; 2026 MD Frossard Odontologia &middot; EPAO 3415 &middot; RT: Dr. Davi H. Frossard &middot; CRO 36193</div>
+</div></footer>
+
+<div class="sticky-bar" role="region" aria-label="Atalhos de contato">
+  <a href="<%= WPP %>" target="_blank" rel="noopener" class="sb-wpp"><%- ICO_WPP %>WhatsApp</a>
+  <a href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)" class="sb-tel"><%- ICO_TEL %>Ligar</a>
+</div>
+<a href="<%= WPP %>" target="_blank" rel="noopener" aria-label="WhatsApp" class="sticky-wpp"><%- ICO_WPP %></a>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // ── FAQ accordion ──
+  document.querySelectorAll('.faq-q').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var item = btn.closest('.faq-item');
+      var ans = item.querySelector('.faq-a');
+      var isOpen = btn.classList.contains('open');
+      document.querySelectorAll('.faq-q').forEach(function(b) {
+        b.classList.remove('open');
+        b.closest('.faq-item').querySelector('.faq-a').classList.remove('open');
+      });
+      if (!isOpen) { btn.classList.add('open'); ans.classList.add('open'); }
+    });
+  });
+
+  // ── Scroll reveal ──
+  var obs = new IntersectionObserver(function(entries) {
+    entries.forEach(function(e) {
+      if (e.isIntersecting) { e.target.classList.add('on'); obs.unobserve(e.target); }
+    });
+  }, { threshold: 0.08, rootMargin: '0px 0px -28px 0px' });
+  document.querySelectorAll('.rv').forEach(function(el) { obs.observe(el); });
+
+  // ── Before/After sliders ──
+  document.querySelectorAll('.ba-slider').forEach(function(slider) {
+    var before = slider.querySelector('.ba-before');
+    var handle = slider.querySelector('.ba-handle');
+    if (!before || !handle) return;
+    var dragging = false, rect = null;
+    var setX = function(p) {
+      p = Math.max(0, Math.min(100, p));
+      before.style.clipPath = 'inset(0 ' + (100 - p) + '% 0 0)';
+      handle.style.left = p + '%';
+    };
+    var pct = function(ev) { var x = (ev.touches ? ev.touches[0].clientX : ev.clientX) - rect.left; return (x / rect.width) * 100; };
+    var down = function(ev) { rect = slider.getBoundingClientRect(); dragging = true; setX(pct(ev)); ev.preventDefault(); };
+    var move = function(ev) { if (!dragging) return; setX(pct(ev)); };
+    var up = function() { dragging = false; rect = null; };
+    slider.addEventListener('mousedown', down);
+    slider.addEventListener('touchstart', down, { passive: false });
+    window.addEventListener('mousemove', move);
+    window.addEventListener('touchmove', move, { passive: false });
+    window.addEventListener('mouseup', up);
+    window.addEventListener('touchend', up);
+    var teaser = new IntersectionObserver(function(entries) {
+      entries.forEach(function(e) {
+        if (!e.isIntersecting) return;
+        teaser.unobserve(e.target);
+        var p = 50, dir = -1;
+        var iv = setInterval(function() {
+          if (dragging) { clearInterval(iv); return; }
+          p += dir * 1.4;
+          if (p <= 28) dir = 1;
+          if (p >= 72) { clearInterval(iv); setX(50); return; }
+          setX(p);
+        }, 35);
+      });
+    }, { threshold: 0.4 });
+    teaser.observe(slider);
+  });
+});
+</script>
