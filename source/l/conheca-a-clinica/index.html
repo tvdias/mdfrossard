@@ -282,6 +282,20 @@ section{padding:72px 0}
 .uni-card svg{color:var(--gold-dark);flex-shrink:0;margin-top:2px}
 .uni-card h3{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:1.02rem;font-weight:700;color:var(--ink);margin-bottom:4px}
 .uni-card p{font-size:.86rem;color:var(--muted);line-height:1.6}
+
+/* ── Equipe (igual clinica v3) ── */
+.team-sec{background:#0a1830;color:#fff;padding:80px 0}
+.team-sec .section-eyebrow{color:var(--gold-glow)}
+.team-sec .section-title{color:#fff}
+.team-sec .section-sub{color:#b9c3d0}
+.team-grid{display:grid;grid-template-columns:1fr;gap:16px;max-width:980px;margin:0 auto}
+@media(min-width:760px){.team-grid{grid-template-columns:1fr 1fr 1fr;gap:18px}}
+.mbr{background:rgba(255,255,255,.035);border:1px solid rgba(222,181,90,.18);border-radius:var(--r);padding:24px 22px}
+.mbr-ph{width:100%;aspect-ratio:4/5;overflow:hidden;border-radius:8px;margin-bottom:16px;border:1px solid rgba(222,181,90,.2);background:#0d2135}
+.mbr-ph img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block}
+.mbr b{font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;font-size:1.16rem;display:block;font-weight:700;color:#fff}
+.mbr .cro{color:var(--gold-glow);font-size:.78rem;font-weight:700;letter-spacing:.04em;margin:5px 0 10px}
+.mbr p{font-size:.9rem;color:#c3ccd8;line-height:1.6}
 </style>
 <% var WPP='https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20conhecer%20a%20cl%C3%ADnica%20e%20agendar%20uma%20visita.'; %>
 <% var ICO_WPP='<svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.132.558 4.133 1.533 5.867L.057 23.5l5.788-1.519A11.934 11.934 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.807 9.807 0 0 1-5.092-1.424l-.365-.217-3.437.901.917-3.348-.237-.38A9.793 9.793 0 0 1 2.182 12C2.182 6.58 6.58 2.182 12 2.182S21.818 6.58 21.818 12c0 5.42-4.398 9.818-9.818 9.818z" fill-rule="evenodd"/></svg>'; %>
@@ -346,26 +360,19 @@ section{padding:72px 0}
   </div>
 </div></div></section>
 
-<!-- ══ DOUTORES (só Marcos, Davi, Luciana) ══ -->
-<section class="doutores"><div class="container">
-  <p class="section-eyebrow rv" style="text-align:center">Quem cuida de você</p>
-  <h2 class="section-title rv" style="text-align:center;margin-bottom:8px">Especialistas à frente<br>de cada tratamento.</h2>
-  <p class="section-sub rv" style="margin:0 auto 40px;text-align:center">Do fundador à nova geração — cada caso conduzido por quem é referência na sua área.</p>
-  <div class="doutores-grid doutores-3">
-    <div class="doutor-card rv">
-      <img class="doutor-foto" src="/images/equipe_marcos_lp.webp" alt="Dr. Marcos Frossard" width="600" height="800" loading="lazy" decoding="async">
-      <div class="doutor-info"><div class="doutor-nome">Dr. Marcos Frossard</div><div class="doutor-titulo">Fundador · CRO-RJ 8058</div><p class="doutor-bio">Há quase quatro décadas dedicado à reabilitação oral, prótese e estética. É a base da tradição que construiu a MD Frossard.</p></div>
-    </div>
-    <div class="doutor-card rv d1">
-      <img class="doutor-foto" src="/images/equipe_davi_lp.webp" alt="Dr. Davi Frossard" width="600" height="800" loading="lazy" decoding="async">
-      <div class="doutor-info"><div class="doutor-nome">Dr. Davi Frossard</div><div class="doutor-titulo">Implantodontia · CRO-RJ 36193</div><p class="doutor-bio">Filho do Dr. Marcos, trouxe a implantodontia e a odontologia digital — cirurgia guiada 3D, scanner iTero e carga imediata.</p></div>
-    </div>
-    <div class="doutor-card rv d2">
-      <img class="doutor-foto" src="/images/equipe_luciana_lp.webp" alt="Dra. Luciana Peroni" width="600" height="800" loading="lazy" decoding="async">
-      <div class="doutor-info"><div class="doutor-nome">Dra. Luciana Peroni</div><div class="doutor-titulo">Prótese &amp; Endodontia · CRO-RJ 38219</div><p class="doutor-bio">Especialista em prótese e endodontia, cuida da função e da longevidade de cada tratamento realizado na clínica.</p></div>
+<!-- ══ EQUIPE (igual clinica v3) ══ -->
+<section class="team-sec">
+  <div class="container">
+    <p class="section-eyebrow rv">Corpo clínico</p>
+    <h2 class="section-title rv">Quem vai cuidar de você</h2>
+    <p class="section-sub rv">Formação, especialização e registro no CRO — informações públicas e verificáveis.</p>
+    <div class="team-grid">
+      <div class="mbr rv"><div class="mbr-ph"><img src="/images/equipe_marcos.webp" width="400" height="500" alt="Dr. Marcos Frossard" loading="lazy" decoding="async"></div><b>Dr. Marcos Frossard</b><div class="cro">CRO-RJ 8058</div><p>Reabilitação Oral, Prótese e Estética. Fundador da clínica, com mais de 30 anos de experiência.</p></div>
+      <div class="mbr rv d1"><div class="mbr-ph"><img src="/images/equipe_davi.webp" width="400" height="500" alt="Dr. Davi Frossard" loading="lazy" decoding="async"></div><b>Dr. Davi Frossard</b><div class="cro">CRO-RJ 36193</div><p>Implantodontia e Cirurgia. Formação pela UERJ e São Leopoldo Mandic; atua em pós-graduação.</p></div>
+      <div class="mbr rv d2"><div class="mbr-ph"><img src="/images/equipe_luciana_nova_cropped.webp" width="400" height="500" alt="Dra. Luciana Peroni" loading="lazy" decoding="async"></div><b>Dra. Luciana Peroni</b><div class="cro">CRO-RJ 38219</div><p>Prótese Dentária e Endodontia. Graduação e Mestrado pela UERJ.</p></div>
     </div>
   </div>
-</div></section>
+</section>
 
 <!-- ══ AMBIENTES ══ -->
 <section class="servicos" style="background:var(--white)"><div class="container">
