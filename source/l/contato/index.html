@@ -240,8 +240,8 @@ section{padding:72px 0}
 
 /* canais de contato */
 .canais{background:var(--ivory)}
-.canais-grid{display:grid;grid-template-columns:1fr;gap:16px;max-width:960px;margin:0 auto}
-@media(min-width:760px){.canais-grid{grid-template-columns:1fr 1fr 1fr}}
+.canais-grid{display:grid;grid-template-columns:1fr;gap:16px;max-width:680px;margin:0 auto}
+@media(min-width:760px){.canais-grid{grid-template-columns:1fr 1fr}}
 .canal{background:var(--white);border:1px solid rgba(0,0,0,.06);border-radius:var(--r);padding:30px 24px;text-align:center;box-shadow:var(--sh-sm);display:flex;flex-direction:column;align-items:center;transition:transform .25s var(--ease),box-shadow .25s var(--ease)}
 .canal:hover{transform:translateY(-4px);box-shadow:var(--sh-md)}
 .canal-ic{width:56px;height:56px;border-radius:15px;background:var(--gold-light);color:var(--gold-dark);display:flex;align-items:center;justify-content:center;margin-bottom:16px}
@@ -315,8 +315,7 @@ section{padding:72px 0}
       <div class="canal rv">
         <div class="canal-ic"><%- ICO_WPP_BIG %></div>
         <h3>WhatsApp</h3>
-        <div class="val">(21) 97663-7803</div>
-        <p>O jeito mais rápido de agendar e tirar dúvidas.</p>
+        <p>O jeito mais rápido de agendar e tirar dúvidas — resposta no mesmo dia.</p>
         <a href="<%= WPP %>" target="_blank" rel="noopener" class="btn btn-wpp"><%- ICO_WPP %>Chamar agora</a>
       </div>
       <div class="canal rv d1">
@@ -325,13 +324,6 @@ section{padding:72px 0}
         <div class="val">(21) 3217-0430</div>
         <p>Prefere ligar? Fale com a recepção de segunda a sexta.</p>
         <a href="tel:2132170430" onclick="return gtagSendEventTelefone(this.href)" class="btn btn-navy"><%- ICO_TEL %>Ligar agora</a>
-      </div>
-      <div class="canal rv d2">
-        <div class="canal-ic"><%- ICO_MAIL %></div>
-        <h3>E-mail</h3>
-        <div class="val">contato@mdfrossard.com</div>
-        <p>Para mensagens, documentos e reembolso de convênio.</p>
-        <a href="mailto:contato@mdfrossard.com" class="btn btn-gold"><%- ICO_MAIL %>Enviar e-mail</a>
       </div>
     </div>
   </div>
