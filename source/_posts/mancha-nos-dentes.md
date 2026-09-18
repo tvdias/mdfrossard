@@ -40,6 +40,17 @@ Quando um dente sofre um trauma, o tecido interno (polpa) pode sofrer necrose. O
 **Como Resolvemos:**
 Aqui, o clareamento externo comum não funciona. Realizamos o **clareamento interno** ou, em casos de maior fragilidade estrutural, protegemos o dente com uma sofisticada {% post_link coroa-dentaria "Coroa de Porcelana" %} ou faceta.
 
+
+<div class="post-mid-cta">
+  <p class="post-mid-cta__eyebrow">MD Frossard Odontologia</p>
+  <p class="post-mid-cta__headline">Incomodado com manchas no sorriso?</p>
+  <p class="post-mid-cta__sub">Cada tipo de mancha pede um tratamento diferente. Avaliamos o seu caso e indicamos a opção mais suave — na Barra da Tijuca e em Botafogo.</p>
+  <a href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20li%20o%20artigo%20sobre%20manchas%20nos%20dentes%20e%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o." class="post-mid-cta__btn" target="_blank" rel="noopener">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.127.558 4.122 1.532 5.854L.057 23.882a.5.5 0 0 0 .611.611l6.086-1.458A11.945 11.945 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.891 0-3.659-.513-5.177-1.407l-.371-.217-3.85.922.937-3.785-.235-.386A9.954 9.954 0 0 1 2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
+    Avaliar meu sorriso no WhatsApp
+  </a>
+</div>
+
 ## 3. Sombras de Amálgama: O Reflexo do Metal
 Antigamente, as restaurações de "prata" (amálgama) eram o padrão. Com o tempo, o metal oxida e solta pigmentos que impregnam o dente ao redor, criando uma **mancha no dente** cinzenta ou azulada.
 
