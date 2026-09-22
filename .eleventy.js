@@ -281,6 +281,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addGlobalData("format_date", () => formatDate);
   eleventyConfig.addGlobalData("format_date_xml", () => dateXml);
   eleventyConfig.addGlobalData("build_post", () => buildPost);
+  eleventyConfig.addGlobalData("inlineCss", () => fs.readFileSync(path.join(__dirname, "source/css/styles.css"), "utf8"));
   eleventyConfig.addGlobalData("open_graph", () => renderOpenGraph);
 
   // Retorna {width, height} de uma imagem em /source a partir do caminho público (ex: "/images/foo.webp").

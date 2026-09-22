@@ -51,8 +51,8 @@
     <!-- Icons (Lucide) -->
     <script defer src="https://unpkg.com/lucide@0.383.0/dist/umd/lucide.min.js"></script>
 
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/styles.css">
+    <!-- Custom CSS (inline p/ eliminar bloqueio de renderização) -->
+    <style><%- inlineCss %></style>
 
     <link rel="canonical" href="<%= new URL(pageUrl, config.url).toString() %>" />
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>  
