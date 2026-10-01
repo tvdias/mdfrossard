@@ -18,7 +18,7 @@ faqs:
     answer: "A base é a higiene correta diária: escovação suave e uso do fio dental com a técnica adequada. O tártaro, porém, só é removido com limpeza profissional. Evite a automedicação e procure o dentista se o sangramento não melhorar."
 ---
 
-Ver a **gengiva sangrando** ao escovar os dentes ou ao passar o fio assusta muita gente. Mas o sangramento não é um sinal para você parar a higiene — é um aviso de que algo precisa de atenção.
+Ver a **gengiva sangrando** ao escovar os dentes ou ao passar o fio é um motivo comum de preocupação. Mas o sangramento não é sinal para parar a higiene — é um aviso de que algo precisa de atenção.
 
 Na prática, uma gengiva saudável, firme e bem cuidada **não sangra**. Quando o sangramento aparece, quase sempre ele indica uma inflamação chamada gengivite, provocada pelo acúmulo de placa bacteriana e tártaro na linha da gengiva. A boa notícia é que, identificada cedo, essa é uma condição **reversível**.
 
