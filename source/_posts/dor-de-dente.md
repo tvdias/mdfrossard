@@ -22,10 +22,13 @@ Se você não quer mais sofrer em casa, este guia vai explicar de forma clara **
 * As causas mais comuns que estão por trás da sua dor.
 * Quando a situação é uma emergência real.
 
-**Para dores urgentes, não perca tempo lendo. Fale conosco imediatamente:**
-
-* <i data-lucide="message-circle" class="icon-xs"></i> **[Plantão via WhatsApp (Clique Aqui)](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-xs"></i> **Ligue Direto:** [(21) 97663-7803](tel:2197663-7803)
+<div class="post-cta">
+  <p class="post-cta__title">Para dores urgentes, não perca tempo lendo. Fale conosco imediatamente</p>
+  <div class="post-cta__actions">
+    <a class="cta-btn cta-wa" href="https://api.whatsapp.com/send?phone=5521976637803" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.8-.9-2-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.2-.2.2-.3.3-.5.1-.2.1-.4 0-.5-.1-.1-.7-1.6-.9-2.2-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.1-.3-.2-.6-.3z"/><path d="M12 0C5.4 0 0 5.4 0 12c0 2.1.6 4.1 1.5 5.9L.1 23.9l6.1-1.5c1.7.9 3.6 1.4 5.8 1.4 6.6 0 12-5.4 12-12S18.6 0 12 0zm0 22c-1.9 0-3.7-.5-5.2-1.4l-.4-.2-3.8.9.9-3.8-.2-.4C2.5 15.7 2 13.9 2 12 2 6.5 6.5 2 12 2s10 4.5 10 10-4.5 10-10 10z"/></svg>Agendar pelo WhatsApp</a>
+    <a class="cta-btn cta-call" href="tel:2197663-7803"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Ligar (21) 97663-7803</a>
+  </div>
+</div>
 
 ---
 
@@ -42,7 +45,6 @@ Para entender esse desespero, precisamos visualizar a estrutura interna do dente
 Quando uma bactéria ou uma fratura atinge essa polpa, ela responde imediatamente com inchaço. O grande problema é que a polpa está completamente **emparedada** pelo dente. Como não há para onde o nervo inflamado expandir, a pressão se acumula ali dentro e esmaga tudo. É exatamente essa pressão sem saída que gera a dor aguda e pulsante que você sente irradiando pelo rosto.
 
 ---
-
 
 <div class="post-mid-cta">
   <p class="post-mid-cta__eyebrow">MD Frossard Odontologia</p>
@@ -158,11 +160,11 @@ A boa notícia é que a odontologia moderna permite controle total da dor desde 
 
 Nossa equipe atende nas unidades da **[Barra da Tijuca](/dentista-barra-da-tijuca/)** e de **[Botafogo](/dentista-em-botafogo/)**, com disponibilidade para casos urgentes. Entre em contato e agende sua avaliação:
 
-* <i data-lucide="message-circle" class="icon-sm"></i> **[WhatsApp — Fale Conosco Agora](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Telefone:** [(21) 97663-7803](tel:2197663-7803)
-
-<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
-  <a target="_blank" rel="noopener" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Acabar Com a Dor no Meu Dente Agora</a>
+<div class="post-cta">
+  <div class="post-cta__actions">
+    <a class="cta-btn cta-wa" href="https://api.whatsapp.com/send?phone=5521976637803" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.8-.9-2-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.2-.2.2-.3.2-.6.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.2-.2.2-.3.3-.5.1-.2.1-.4 0-.5-.1-.1-.7-1.6-.9-2.2-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.5s1.1 2.9 1.2 3.1c.1.2 2.1 3.2 5.1 4.5.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.4.2-.7.2-1.3.2-1.4-.1-.1-.3-.2-.6-.3z"/><path d="M12 0C5.4 0 0 5.4 0 12c0 2.1.6 4.1 1.5 5.9L.1 23.9l6.1-1.5c1.7.9 3.6 1.4 5.8 1.4 6.6 0 12-5.4 12-12S18.6 0 12 0zm0 22c-1.9 0-3.7-.5-5.2-1.4l-.4-.2-3.8.9.9-3.8-.2-.4C2.5 15.7 2 13.9 2 12 2 6.5 6.5 2 12 2s10 4.5 10 10-4.5 10-10 10z"/></svg>Agendar pelo WhatsApp</a>
+    <a class="cta-btn cta-call" href="tel:2197663-7803"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Ligar (21) 97663-7803</a>
+  </div>
 </div>
 
 ---

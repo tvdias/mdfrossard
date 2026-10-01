@@ -505,6 +505,42 @@ var readingTime = Math.max(1, Math.round(wordCount / 200));
     }
 }
 
+/* ── CTA inline (card de ação, topo/fim do post) ── */
+.post-cta{
+    background:#faf7ee;
+    border:1px solid #ecdfbf;
+    border-left:4px solid #c9a84c;
+    border-radius:14px;
+    padding:1.6rem 1.75rem;
+    margin:3rem 0;
+}
+.content .post-cta p{margin:0 0 1rem !important;line-height:1.5;}
+.post-cta__title{
+    font-size:1.1rem;
+    font-weight:700;
+    color:#0C1E3C !important;
+    font-family:var(--font-heading);
+}
+.post-cta__actions{display:flex;gap:0.75rem;flex-wrap:wrap;}
+.content a.cta-btn,.content a.btn{text-decoration:none !important;}
+.cta-btn{
+    display:inline-flex;align-items:center;gap:0.55rem;
+    padding:0.8rem 1.4rem;border-radius:50px;
+    font-family:var(--font-heading);font-weight:700;font-size:1rem;line-height:1;
+    text-decoration:none !important;transition:all 0.2s ease;
+}
+.cta-btn svg{width:19px;height:19px;flex-shrink:0;}
+.cta-wa{background:#25D366;color:#fff !important;box-shadow:0 4px 14px rgba(37,211,102,.3);}
+.cta-wa:hover{background:#1da851;transform:translateY(-2px);color:#fff !important;}
+.cta-call{background:#fff;color:#0C1E3C !important;border:2px solid #c9a84c;}
+.cta-call:hover{background:#c9a84c;color:#0C1E3C !important;transform:translateY(-2px);}
+.post-cta-final{text-align:center;margin:2.5rem 0;}
+@media (max-width:760px){
+    .post-cta{padding:1.3rem 1.3rem;border-left-width:3px;border-radius:12px;}
+    .post-cta__actions{flex-direction:column;}
+    .cta-btn{justify-content:center;width:100%;}
+}
+
 /* ── Botão flutuante WhatsApp (mobile only) ── */
 .post-float-wa {
     display: none;

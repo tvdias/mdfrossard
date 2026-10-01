@@ -130,6 +130,4 @@ A comunicação entre dentista e paciente é a melhor solução, tanto no pré o
 
 Caso ainda tenha alguma dúvida, deixe seu comentário abaixo.
 
-<div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
-  <a target="_blank" rel="noopener" href="https://api.whatsapp.com/send?phone=5521976637803&text=Oi%2C%20gostaria%20de%20marcar%20uma%20avalia%C3%A7%C3%A3o." class="btn btn-primary btn-lg">Agendar Avaliação pelo WhatsApp</a>
-</div>
+

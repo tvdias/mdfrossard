@@ -56,7 +56,5 @@ Assim, no damage to your trip occur. If you are identified with the situations d
 *  **WhatsApp:** [Click here to message us](https://api.whatsapp.com/send?phone=5521976637803)
 *  **Phone:** +55 (21) 97663-7803
 
-<div style="margin-top: 2rem; text-align: center;">
-  <a target="_blank" rel="noopener" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Schedule via WhatsApp</a>
-</div>
+
 

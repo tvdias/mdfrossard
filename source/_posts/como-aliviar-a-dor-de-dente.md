@@ -147,8 +147,4 @@ Nossa equipe atende nas unidades da **[Barra da Tijuca](/dentista-barra-da-tijuc
 - <i data-lucide="message-circle" class="icon-xs"></i> **[WhatsApp — Fale Conosco](https://api.whatsapp.com/send?phone=5521976637803)**
 - <i data-lucide="phone" class="icon-xs"></i> **Ligue:** [(21) 97663-7803](tel:2197663-7803)
 
-<div style="margin-top: 2rem; margin-bottom: 2rem; text-align: center;">
-  <a href="https://api.whatsapp.com/send?phone=5521976637803" target="_blank" rel="noopener" class="btn btn-primary btn-lg">Quero Resolver a Minha Dor de Dente</a>
-</div>
-
 ---

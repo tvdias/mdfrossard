@@ -73,7 +73,5 @@ Se você precisa de uma avaliação sobre enxerto ósseo ou implantes, entre em 
 *  **WhatsApp:** [Clique aqui para enviar uma mensagem](https://api.whatsapp.com/send?phone=5521976637803)
 *  **Telefone:** (21) 97663-7803
 
-<div style="margin-top: 2rem; text-align: center;">
-  <a target="_blank" rel="noopener" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Agendar Consulta via WhatsApp</a>
-</div>
+
 
