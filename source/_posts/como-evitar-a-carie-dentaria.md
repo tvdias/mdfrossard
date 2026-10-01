@@ -4,7 +4,7 @@ description: "A cárie é a doença bucal mais comum do mundo, mas é fácil de 
 date: 2014-06-20T07:49:19.000Z
 updated: 2026-10-01
 featured_image: /images/a38f22b8-210d-4ced-9cb2-e04840d0b9b4_Carie-dentaria-1.webp
-intro_text: "A **cárie dentária** é a doença bucal mais comum do mundo — e também uma das mais fáceis de prevenir. Ela surge quando as bactérias da placa transformam o açúcar em ácido, que desmineraliza o esmalte do dente. No começo é apenas uma mancha branca, sem dor; por isso o diagnóstico precoce e a prevenção em casa fazem toda a diferença. Veja o que é a cárie, como identificá-la cedo e 10 dicas práticas para evitá-la."
+intro_text: "A **cárie dentária** é a doença bucal mais comum do mundo, e também uma das mais fáceis de prevenir. Ela surge quando as bactérias da placa transformam o açúcar em ácido, que desmineraliza o esmalte do dente. No começo é apenas uma mancha branca, sem dor; por isso o diagnóstico precoce e a prevenção em casa fazem toda a diferença. Veja o que é a cárie, como identificá-la cedo e 10 dicas práticas para evitá-la."
 faqs:
   - question: "O que causa a cárie dentária?"
     answer: "A cárie é causada pelos ácidos produzidos por bactérias da placa quando elas se alimentam dos açúcares e carboidratos da dieta. Esse ácido desmineraliza o esmalte, formando a cavidade com o tempo."
@@ -18,7 +18,7 @@ faqs:
     answer: "Não. O canal só é necessário quando a cárie atinge a polpa do dente. Diagnosticada cedo, a cárie costuma ser resolvida com uma restauração simples."
 ---
 
-A **cárie dentária** e a [doença periodontal](/gengiva-sangrando/) estão entre as principais causas de perda de dentes no mundo. A cárie também é uma das maiores responsáveis pelas [dores de dente](/dor-de-dente/) — e a boa notícia é que ela é, ao mesmo tempo, uma das doenças mais fáceis de prevenir.
+A **cárie dentária** e a [doença periodontal](/gengiva-sangrando/) estão entre as principais causas de perda de dentes no mundo. A cárie também é uma das maiores responsáveis pelas [dores de dente](/dor-de-dente/). A boa notícia é que ela também é uma das mais fáceis de prevenir.
 
 Com hábitos simples de higiene e acompanhamento regular, a cárie pode ser evitada na rotina de toda a família. Neste guia você vai entender o que é a cárie, como identificá-la cedo e 10 dicas práticas para proteger o seu sorriso em casa.
 
@@ -51,7 +51,7 @@ Por isso a escovação e o fio dental são tão importantes: eles removem a plac
 
 ![Primeiros sinais da cárie](/images/9220d1fb-072b-428d-afb0-090be874bdca_como-clarear-os-dentes-bicarbonato.webp)
 
-Sim — mas é preciso atenção, porque no começo a cárie **não dói**. A fase inicial aparece como uma **mancha branca opaca**, sinal de que o esmalte começou a perder minerais.
+Sim, mas é preciso atenção, porque no começo a cárie **não dói**. A fase inicial aparece como uma **mancha branca opaca**, sinal de que o esmalte começou a perder minerais.
 
 * Enquanto a lesão está apenas no esmalte, o dente não sente dor. É justamente aí que muita gente negligencia o problema.
 * Quando a cárie avança e atinge a **dentina** (camada mais interna), surge a [sensibilidade a quente e frio](/sensibilidade-nos-dentes/) e, depois, a dor.
@@ -79,7 +79,7 @@ Como os primeiros sinais passam despercebidos, as visitas regulares ao dentista 
 
 Não. O que define o tratamento é a profundidade da lesão, avaliada clinicamente e por radiografia.
 
-Quando a cárie é rasa, o tratamento é simples: o dentista remove a parte afetada e restaura o dente. O canal só entra quando a cárie é profunda e atinge a polpa do dente — nesse caso, pode ser necessário o [tratamento de canal (endodôntico)](/tratamento-de-canal/). Mais um motivo para não deixar a cárie avançar.
+Quando a cárie é rasa, o tratamento é simples: o dentista remove a parte afetada e restaura o dente. O canal só entra quando a cárie é profunda e atinge a polpa do dente. Nesse caso, pode ser necessário o [tratamento de canal (endodôntico)](/tratamento-de-canal/). Mais um motivo para não deixar a cárie avançar.
 
 ---
 

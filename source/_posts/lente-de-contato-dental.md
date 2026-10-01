@@ -9,7 +9,7 @@ faqs:
   - question: "Lente de contato dental desgasta o dente?"
     answer: "Em geral, o desgaste é mínimo ou inexistente, justamente por a lâmina ser ultrafina. Cada caso é avaliado individualmente para preservar ao máximo a estrutura natural do dente."
   - question: "Quem pode usar lentes de contato dental?"
-    answer: "Pacientes que desejam corrigir cor, pequenos espaçamentos, formato ou desgastes dos dentes. A indicação é confirmada em avaliação clínica — casos com apinhamento severo ou bruxismo não controlado podem exigir outras abordagens antes."
+    answer: "Pacientes que desejam corrigir cor, pequenos espaçamentos, formato ou desgastes dos dentes. A indicação é confirmada em avaliação clínica, já que casos com apinhamento severo ou bruxismo não controlado podem exigir outras abordagens antes."
   - question: "Quanto tempo dura uma lente de contato dental?"
     answer: "Com higiene adequada e manutenção periódica, a durabilidade média é de 10 anos ou mais. O acompanhamento profissional regular é essencial para a longevidade do trabalho."
 ---
@@ -127,7 +127,7 @@ Em muitos casos ambiciosos de construção de personalidade, cobrir dez dentes i
 
 ![Lente de contato dental desvantagens](/images/83ccbeab-da3f-43de-b42c-177fef8e511b_lente-de-contato-dental-desvantagens.webp) 
 
-A porcelana é resistente a tudo, não pega cor de café, e é indestrutível ao tempo. Mas o cimento adesivo invisível da borda de baixo precisa seguir normas biológicas humanas. E isso exige total comprometimento do nosso paciente em higienização daquele novo patrimônio, ou perderá todo o investimento!
+A porcelana é resistente, não escurece com o café e mantém a aparência ao longo do tempo. Mas o cimento adesivo invisível da borda de baixo precisa seguir normas biológicas humanas. E isso exige total comprometimento do nosso paciente em higienização daquele novo patrimônio, ou perderá todo o investimento!
 
 * **Higienizar Não é Opcional:** Assim como um dente natural, se a higiene falha a inflamação atinge a gengiva e o cimento adesivo que fixa a lente, o que pode levar ao descolamento da peça.
 * **Controle Mecânico Total:** Se você destrói blocos por sofrer crises fortes na cabeça mordendo durante o sono (o famoso "Bruxismo"), precisará firmar o pacto de dormir usando a placa rígida de acrílico miorelaxante para que não esmague a beleza da **lente de contato dental**.

@@ -4,7 +4,7 @@ description: "Aprenda tudo sobre o tratamento de canal: quando é indicado, se d
 date: 2016-06-06T10:10:42.000Z
 updated: 2026-10-01
 featured_image: /images/5da5cc7d-9d5c-4cfb-a768-a74665fac085_tratamento-de-canal.webp
-intro_text: "O **tratamento de canal** (endodontia) salva um dente cuja polpa — o nervo e os vasos do seu interior — foi infectada ou danificada, geralmente por uma cárie profunda ou um trauma. Ao contrário do que muita gente pensa, com a anestesia moderna o procedimento é confortável e, na maioria dos casos, resolvido em uma única sessão. Veja quando ele é indicado, como é feito e por que preservar o dente natural é a melhor escolha."
+intro_text: "O **tratamento de canal** (endodontia) salva um dente cuja polpa (o nervo e os vasos do seu interior) foi infectada ou danificada, geralmente por uma cárie profunda ou um trauma. Ao contrário do que muita gente pensa, com a anestesia moderna o procedimento é confortável e, na maioria dos casos, resolvido em uma única sessão. Veja quando ele é indicado, como é feito e por que preservar o dente natural é a melhor escolha."
 faqs:
   - question: "O que é o tratamento de canal?"
     answer: "É o procedimento da endodontia que remove a polpa (o nervo e os vasos) infectada ou morta de dentro do dente, limpa e desinfeta os canais da raiz e os sela, preservando o dente natural em função."
@@ -18,7 +18,7 @@ faqs:
     answer: "Sempre que possível, preservar o dente natural com o canal é a melhor opção. A extração leva à perda do dente e pode exigir, mais tarde, um implante ou outra reposição."
 ---
 
-Já passou noites mal dormidas por causa de uma dor de dente forte e latejante? Essa é uma das dores mais incômodas que existem — e, muitas vezes, o sinal de que você precisa de um **[tratamento de canal](/tratamentos/endodontia/)**.
+Já passou noites mal dormidas por causa de uma dor de dente forte e latejante? Essa é uma das dores mais incômodas que existem, e muitas vezes o sinal de que você precisa de um **[tratamento de canal](/tratamentos/endodontia/)**.
 
 Quase sempre tudo começa com uma [cárie](/como-evitar-a-carie-dentaria/) que não foi tratada a tempo. Quando ela ultrapassa o esmalte e chega perto da polpa (o centro do dente, onde ficam o nervo e os vasos), o dente reage com sensibilidade e, depois, com dor. O tratamento de canal resolve esse problema preservando o dente, em vez de extraí-lo.
 
@@ -44,7 +44,7 @@ Em termos simples: o tratamento de canal **remove a polpa do dente** (o nervo e 
 
 Para entender melhor:
 
-1. Por dentro, o dente tem uma câmara com um tecido vivo — a polpa — responsável por nutri-lo e dar sensibilidade.
+1. Por dentro, o dente tem uma câmara com um tecido vivo, a polpa, responsável por nutri-lo e dar sensibilidade.
 2. Quando uma cárie profunda ou um trauma atinge essa polpa, ela inflama e pode morrer (a chamada **necrose pulpar**).
 3. O tecido morto dentro da raiz pode infeccionar e causar a [dor de dente latejante](/dor-de-dente/).
 4. No tratamento, o dentista remove esse tecido, desinfeta os canais e os preenche com **guta-percha**, um material que veda a raiz. O dente é então restaurado e segue em função normalmente.
@@ -53,7 +53,7 @@ Para entender melhor:
 
 ## Como sei que posso precisar de um canal?
 
-Nem sempre há dor intensa — às vezes a lesão evolui de forma silenciosa. Procure uma avaliação se notar:
+Nem sempre há dor intensa; às vezes a lesão evolui de forma silenciosa. Procure uma avaliação se notar:
 
 * Dor espontânea ou que demora a passar depois de algo quente ou gelado.
 * Dor ao mastigar ou ao pressionar o dente.
@@ -61,7 +61,7 @@ Nem sempre há dor intensa — às vezes a lesão evolui de forma silenciosa. Pr
 * Um dente que escureceu, às vezes após um trauma antigo ou movimentação por [ortodontia](/tratamentos/ortodontia/).
 * Uma [cárie profunda](/como-evitar-a-carie-dentaria/) visível ou já diagnosticada.
 
-Se uma infecção na raiz não é tratada, ela pode se espalhar para o osso ao redor. Por isso, diante desses sinais, o certo é procurar o dentista — e não apenas mascarar a dor com analgésicos.
+Se uma infecção na raiz não é tratada, ela pode se espalhar para o osso ao redor. Por isso, diante desses sinais, o certo é procurar o dentista, e não apenas mascarar a dor com analgésicos.
 
 ---
 
@@ -73,7 +73,7 @@ Se uma infecção na raiz não é tratada, ela pode se espalhar para o osso ao r
 
 ## Afinal, tratamento de canal dói?
 
-Essa é a maior lenda sobre o procedimento — herança de uma época em que a anestesia era limitada.
+Essa é a maior lenda sobre o procedimento, herança de uma época em que a anestesia era limitada.
 
 Hoje a realidade é outra. O tratamento de canal é feito **sob anestesia local eficaz**, que elimina a dor durante todo o procedimento. É comum o paciente ficar relaxado na cadeira. Depois, pode haver um desconforto leve por alguns dias, controlado com os anti-inflamatórios prescritos.
 
@@ -87,7 +87,7 @@ A exceção fica para infecções agudas, com presença de pus: nesses casos pod
 
 ## Existe alternativa ao canal?
 
-A principal alternativa seria a [extração do dente](/siso-porque-extrair/) — mas ela deve ser o último recurso. Perder o dente cria um espaço que pode desalinhar os demais e, mais tarde, exigir a reposição com um [implante dentário](/implante-dentario/).
+A principal alternativa seria a [extração do dente](/siso-porque-extrair/), mas ela deve ser o último recurso. Perder o dente cria um espaço que pode desalinhar os demais e, mais tarde, exigir a reposição com um [implante dentário](/implante-dentario/).
 
 Por isso, sempre que o dente tem condições de ser mantido, preservá-lo com o tratamento de canal é a escolha mais conservadora e vantajosa a longo prazo.
 
