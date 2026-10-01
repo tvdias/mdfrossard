@@ -356,7 +356,7 @@ module.exports = function(eleventyConfig) {
     // Se o post já contém um CTA renderizado (contextual ou hardcoded no markdown),
     // não injeta o genérico. Checa a classe no atributo HTML (class="post-mid-cta"),
     // e não o seletor CSS (.post-mid-cta) que existe inline em todos os posts.
-    if (content.includes('class="post-mid-cta"')) return content;
+    if (content.includes('class="post-mid-cta"') || content.includes('class="post-cta"')) return content;
 
     const ctaHtml = `<div class="post-mid-cta"><p class="post-mid-cta__eyebrow">MD Frossard Odontologia</p><p class="post-mid-cta__headline">Tem dúvidas sobre esse tratamento?</p><p class="post-mid-cta__sub">Fale com nossos especialistas e agende sua avaliação — respondemos no mesmo dia.</p><a href="https://api.whatsapp.com/send?phone=5521976637803&amp;text=Ol%C3%A1%2C%20gostaria%20de%20tirar%20d%C3%BAvidas%20sobre%20um%20tratamento." onclick="return gtagSendEventWhatsapp(this.href)" class="post-mid-cta__btn">💬 Falar no WhatsApp</a></div>`;
 
