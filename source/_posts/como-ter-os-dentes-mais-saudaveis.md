@@ -18,7 +18,7 @@ Através dela, detectamos problemas na fase inicial, possibilitando ter menos do
 Continue lendo esse texto para saber :
 
 *  Quais são as 3 principais práticas que devemos adotar
-*  O uso correto da escovar dental
+*  O uso correto da escova dental
 *  Como prevenir que se tenha um problema bucal
 
 ## Escovação e saúde dentária

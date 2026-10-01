@@ -14,7 +14,7 @@ Sim, eu sei, você já ouviu essa frase várias vezes do seu dentista.
 
 Mesmo assim, vale lembrar, já que muitos ignoram completamente esse hábito saudável. 
 
-Entretanto, nesse texto, eu não quer discutir sobre a {% post_link escovacao-dos-dentes "técnica de escovação" %} nem sobre o uso do Fio Dental. 
+Entretanto, nesse texto, eu não quero discutir sobre a {% post_link escovacao-dos-dentes "técnica de escovação" %} nem sobre o uso do Fio Dental. 
 
 Mas quero falar com você sobre um terceiro aspecto da nossa higiene diária. 
 

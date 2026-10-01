@@ -21,7 +21,7 @@ Pouca gente lembra da [saliva](https://pt.wikipedia.org/wiki/Saliva) ou até esq
 
 Mas esse líquido claro viscoso e alcalino, tem funções muito importantes para a nossa alimentação e conforto no dia-a-dia. 
 
-Ela é composta principalmente por água, mas também temos enzimas, mineiras e aminoácidos. 
+Ela é composta principalmente por água, mas também temos enzimas, minerais e aminoácidos. 
 
 _Já imaginou se alimentar sem a saliva ? _ 
 

@@ -15,7 +15,7 @@ Olá a todos! Hoje gostaria de abordar um assunto muito comum no atendimento aos
 
 O uso de chupetas é algo cultural, introduzido pelos pais para acalmar seu bebê em momentos nos quais a criança encontra-se chorosa, aparentemente incontrolável. 
 
-De fato a chupeta possui papel gerador de segurança e conforto, pois simula o aconchego que o bebê encontra quanto está em contato com a mãe no momento da amamentação.
+De fato a chupeta possui papel gerador de segurança e conforto, pois simula o aconchego que o bebê encontra quando está em contato com a mãe no momento da amamentação.
 
 ## Problemas causados pela chupeta nos dentes
 

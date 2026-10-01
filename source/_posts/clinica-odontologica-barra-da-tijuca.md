@@ -18,7 +18,7 @@ Nossa unidade da Barra está no **Shopping Città América**, na Av. das Améric
 
 ## Salas e equipamentos
 
-A clínica ocupa **6 salas clínicas** independentes, cada uma equipada para procedimentos de baixa, média e alta complexidade:
+A clínica é equipada para procedimentos de baixa, média e alta complexidade:
 
 - **Cadeiras odontológicas** com sistema de iluminação LED e instrumentação digital
 - **Raio-X digital** integrado a software de planejamento

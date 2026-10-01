@@ -14,7 +14,7 @@ Todos esses tratamentos são eficazes e importantes para a nossa correta mastig
 
 Porém existe um fator que faz uma tremenda diferença para você, **o sorriso**. 
 
-O sorriso é o nosso "cartão de visitas", com ele demostramos a nossa alegria, simpatia e entusiamo com a vida e com os amigos. 
+O sorriso é o nosso "cartão de visitas", com ele demostramos a nossa alegria, simpatia e entusiasmo com a vida e com os amigos. 
 
 Além disso, ele pode abrir portas no trabalho, já que é um dos fatores mais lembrados ao se conhecer novas pessoas. 
 

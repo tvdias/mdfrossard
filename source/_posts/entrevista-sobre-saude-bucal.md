@@ -12,8 +12,6 @@ A comunicação direta com o paciente e a disseminação de informações de qua
 
 Hoje, compartilhamos a entrevista que o **Dr. Davi Frossard** concedeu ao canal Boas Novas, onde abordou temas cruciais para quem busca qualidade de vida através de um sorriso saudável.
 
-noindex: true
----
 
 ### **Destaques da Entrevista**
 Neste bate-papo, dividimos o conteúdo em 4 partes para facilitar seu acesso a cada tema:
@@ -22,8 +20,6 @@ Neste bate-papo, dividimos o conteúdo em 4 partes para facilitar seu acesso a c
 2.  **Estética e Clareamento:** O que realmente traz resultados sem agredir o esmalte.
 3.  **A Cultura da Prevenção:** Por que o acompanhamento regular economiza tempo e evita dor.
 
-noindex: true
----
 
 ## Assista agora à entrevista completa:
 
@@ -39,8 +35,6 @@ noindex: true
 #### Parte 04: Conclusão e Dicas de Saúde Oral
 {% youtube jAhvObatd0U %}
 
-noindex: true
----
 
 > [!TIP]
 > **Quer tirar suas dúvidas pessoalmente com o Dr. Davi?**

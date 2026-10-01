@@ -24,7 +24,7 @@ Diversas pessoas vem visitar e conhecer os encantos da cidade maravilhosa. Devid
 
 Se esse é o seu caso e você precise de um dentista no Rio de Janeiro, entre em contato conosco pelo telefone **(21) 97663-7803** ou mande uma [msg via WhatsApp](https://api.whatsapp.com/send?phone=5521976637803) para marcar sua consulta.
 
-Nossa clínica odontológica na cidade do Rio de Janeiro possui mais de 37 anos de atendimento e possui dois endereços. Uma no bairro de [Botafogo](/dentista-em-botafogo/) e outra na [Barra da tijuca.](/dentista-barra-da-tijuca/)
+Nossa clínica odontológica na cidade do Rio de Janeiro possui mais de 38 anos de atendimento e possui dois endereços. Uma no bairro de [Botafogo](/dentista-em-botafogo/) e outra na [Barra da tijuca.](/dentista-barra-da-tijuca/)
 
 ## O que dizem sobre nossa clínica no Rio de Janeiro
 

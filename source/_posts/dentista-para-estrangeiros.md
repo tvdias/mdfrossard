@@ -12,7 +12,7 @@ Esse texto é voltado para pessoas **procurando dentista para estrangeiros** na 
 
 Com a necessidade de deslocamento entre cidades e até países, muitos profissionais permanecem mais tempo longe de casa ou do trabalho, ou seja, longe de seus locais de referência.  
 
-Assim, o que fazer caso haja alguma emergência odontotólogica nesse período? 
+Assim, o que fazer caso haja alguma emergência odontológica nesse período? 
 
 E se a pessoa em questão necessitar de atendimento especial por conta da diferença de idioma? 
 
@@ -39,7 +39,7 @@ De curiosidade coloquei [essa reportagem](https://noticias.uol.com.br/saude/ulti
 
 Hello everyone, With the need to travel between cities and even countries, many professionals remain more time away from home or work, or away from their places of reference. 
 
-So, what to do if any odontotólogica emergency during this period? And if the person in question need special care because of the language difference? 
+So, what to do if any odontológica emergency during this period? And if the person in question need special care because of the language difference? 
 
 Nobody is free from a situation like this and know how much a toothache or loss it can disrupt a tour or a business meeting. 
 

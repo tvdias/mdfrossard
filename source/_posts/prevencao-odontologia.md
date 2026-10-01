@@ -14,7 +14,7 @@ A odontologia atualmente tem voltado muito para a manutenção e principalmente 
 
 Através da compreensão de muitas patologias que acometem a boca, como a doença periodontal, a freqüência desses problemas tem diminuído. 
 
-Em nossa clínica, sempre quando realizamos algum tratamento, orientamos ao nosso paciente a importância da manutenção do trabalho, ocasioando maior durabilidade dele. 
+Em nossa clínica, sempre quando realizamos algum tratamento, orientamos ao nosso paciente a importância da manutenção do trabalho, ocasionando maior durabilidade dele. 
 
 Para isso, sempre quando terminamos o caso, deixamos marcado a consulta de retorno. 
 

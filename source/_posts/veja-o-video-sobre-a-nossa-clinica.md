@@ -12,8 +12,6 @@ Na MD Frossard Odontologia, acreditamos que um tratamento de excelência começa
 
 Operando há **38 anos no Rio de Janeiro**, com unidades em **[Botafogo](/dentista-em-botafogo/)** e na **[Barra da Tijuca](/dentista-barra-da-tijuca/)**, nossa missão é aliar a tecnologia de ponta (como o Scanner iTero e o planejamento digital) a um atendimento humanizado e atencioso.
 
-noindex: true
----
 
 ## Onde a Tradição Encontra a Inovação
 
@@ -21,8 +19,6 @@ Gostaríamos de compartilhar com você o nosso vídeo institucional. Ele resume 
 
 {% youtube Yh-6jaONlqI %}
 
-noindex: true
----
 
 ### **O que você encontrará na nossa clínica?**
 * **Tradição Familiar:** Conheça a nossa [equipe](/equipe/) de especialistas.
