@@ -1,8 +1,21 @@
 ---
 title: 'Dente Siso Inflamado: Sintomas, Dor e Quando Extrair'
-description: "Está sofrendo com o dente siso inflamado? Entenda os sintomas da pericoronarite, como aliviar a dor e por que a extração segura é a melhor solução para o."
+description: "Está sofrendo com o dente siso inflamado? Entenda os sintomas da pericoronarite, como aliviar a dor e por que a extração segura é a melhor solução para o seu caso."
 date: 2017-05-29T10:00:14.000Z
 featured_image: /images/be5df36b-1524-4f94-a657-c32ade393dc7_dente-siso-inflamado.webp
+updated: 2026-10-01
+intro_text: "O **dente siso inflamado** (pericoronarite) ocorre quando a gengiva cobre parte do terceiro molar e acumula bactérias, causando dor, inchaço e vermelhidão. O alívio definitivo não vem da automedicação: é preciso controlar a infecção com um dentista e, na maioria dos casos, extrair o siso. Abaixo você vê os sintomas, o tratamento correto e os cuidados pós-operatórios."
+faqs:
+  - question: "O que causa o dente siso inflamado?"
+    answer: "A causa mais comum é a pericoronarite: um capuz de gengiva cobre parte do siso e acumula restos de comida e bactérias que a escova não alcança. A posição incorreta do dente e a falta de espaço na boca agravam o quadro."
+  - question: "Quais são os sintomas do siso inflamado?"
+    answer: "Dor aguda que pode irradiar para o ouvido ou a garganta, inchaço na gengiva ou no rosto, vermelhidão e calor na região, gosto ruim na boca e dificuldade ou dor ao abrir a boca (trismo)."
+  - question: "O que fazer para aliviar o siso inflamado?"
+    answer: "Evite se automedicar, porque o analgésico apenas mascara a dor e ela volta mais forte. O tratamento correto combate a infecção com medicação prescrita pelo dentista e, após controlar a fase aguda, remove o siso. Procure um dentista, sobretudo se houver febre ou dificuldade para engolir."
+  - question: "Siso inflamado precisa ser extraído?"
+    answer: "Depois de controlada a inflamação, a extração costuma ser a única forma de garantir que o problema não volte. Na MD Frossard a cirurgia é feita com planejamento digital, de forma rápida e segura."
+  - question: "Siso inflamado é perigoso?"
+    answer: "Pode ser. Infecções no siso podem se espalhar rapidamente. Se a inflamação vier acompanhada de febre ou dificuldade para engolir, procure um dentista imediatamente."
 ---
 
 Você já deve ter ouvido relatos sobre a dor intensa de um **dente siso inflamado**. Esse dente, o terceiro molar, costuma ser o último a nascer, geralmente entre o final da adolescência e o início da fase adulta.
@@ -70,7 +83,23 @@ Para que você volte à sua rotina rapidamente, o pós-operatório é fundamenta
 ---
 
 ## Dúvidas frequentes sobre o Siso
-Assista a este guia rápido para perder o medo:
+
+**O que causa o dente siso inflamado?**
+A causa mais comum é a pericoronarite: um capuz de gengiva cobre parte do siso e acumula restos de comida e bactérias que a escova não alcança. A posição incorreta do dente e a falta de espaço na boca agravam o quadro.
+
+**Quais são os sintomas do siso inflamado?**
+Dor aguda que pode irradiar para o ouvido ou a garganta, inchaço na gengiva ou no rosto, vermelhidão e calor na região, gosto ruim na boca e dificuldade ou dor ao abrir a boca (trismo).
+
+**O que fazer para aliviar o siso inflamado?**
+Evite se automedicar, porque o analgésico apenas mascara a dor e ela volta mais forte. O tratamento correto combate a infecção com medicação prescrita pelo dentista e, após controlar a fase aguda, remove o siso. Procure um dentista, sobretudo se houver febre ou dificuldade para engolir.
+
+**Siso inflamado precisa ser extraído?**
+Depois de controlada a inflamação, a extração costuma ser a única forma de garantir que o problema não volte. Na MD Frossard a cirurgia é feita com planejamento digital, de forma rápida e segura.
+
+**Siso inflamado é perigoso?**
+Pode ser. Infecções no siso podem se espalhar rapidamente. Se a inflamação vier acompanhada de febre ou dificuldade para engolir, procure um dentista imediatamente.
+
+Assista também a este guia rápido para perder o medo:
 
 {% youtube C20z6hZOjHo %}
 
