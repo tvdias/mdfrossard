@@ -14,19 +14,19 @@ faqs:
     answer: "A porcelana oferece maior durabilidade, estabilidade de cor e naturalidade; a resina tem custo menor, porém mancha e desgasta com o tempo, exigindo manutenções mais frequentes. A escolha ideal é definida na avaliação clínica."
 ---
 
-A demanda pela **faceta dental** (ou [facetas de porcelana](/tratamentos/estetica-dental/)) explodiu nos últimos tempos nas clínicas estéticas modernas. 
+A procura pela **faceta dental** (ou [facetas de porcelana](/tratamentos/estetica-dental/)) cresceu bastante nos últimos anos.
 
-Isso se deve ao fato maravilhoso de que esses tratamentos artísticos melhoram absurdamente a aparência e a assimetria do nosso sorriso com extrema rapidez! 
+Elas melhoram a aparência e a simetria do sorriso em pouco tempo, com uma vantagem importante: são um tratamento conservador.
 
-Com o uso impecável das **[facetas dentais](/tratamentos/facetas-de-porcelana/)**, focamos em um tratamento cada vez menos invasivo. Ao contrário das coroas totais, a fina faceta dental demandará pouquíssimo ou quase nenhum desgaste no esmalte original do seu dente.
+Ao contrário das coroas totais, a **[faceta dental](/tratamentos/facetas-de-porcelana/)** exige pouco ou, em alguns casos, quase nenhum desgaste do esmalte original.
 
-Essa solução fantástica pode corrigir a aparência de apenas um dente que sofreu acidente, ou a anatomia por inteira do sorriso completo. Entretanto, precisamos entender que nem todos os cenários bucais permitem criar a **faceta dental**, pois exigem critérios importantes. 
+Ela pode corrigir desde um único dente que sofreu um acidente até a estética do sorriso inteiro. Vale lembrar que nem todo caso é indicado para facetas, e isso é definido em avaliação clínica.
 
-Continue lendo esse guia rápido e aprenda os segredos da técnica:
+Neste guia você vai ver:
 
-* Como são esculpidas e coladas as **facetas dentais** na boca.
-* As 6 indicações onde elas salvam a estética facial.
-* Quais os cenários onde a técnica esbarra em desvantagens.
+* Como as **facetas dentais** são feitas e aplicadas.
+* As 6 principais indicações.
+* As desvantagens e os pontos de atenção.
 
 ---
 
@@ -75,57 +75,55 @@ return false;
 </script>
 </div>
 
-## Como é a Confecção das Facetas Dentais?
+## Como as facetas são feitas
 
 ![Faceta dental](/images/e0bc58b2-2b81-460f-b0dc-4f2f7bd7ee0b_faceta-dental.webp) 
 
-As famosas **facetas dentais** consistem em escudos levíssimos, como autênticas lâminas de cerâmica. São muito finas, transparentes mas de extrema resistência ao impacto e atrito da mastigação! 
+As **facetas dentais** são lâminas finas de cerâmica, resistentes ao desgaste da mastigação. Elas são coladas na parte frontal do dente e reproduzem a aparência natural do esmalte.
 
-Eles são colados e abraçam com exatidão matemática à parte frontal dos nossos dentes para a plateia. O seu resultado mimetiza perfeitamente aquele lindo brilho natural da coroa humana.
+Ainda que o material seja fino, o tratamento tem etapas cuidadosas, para que o resultado não fique com aparência artificial:
 
-Embora o material da **faceta dental** fique pronto nas lentes rapidamente, o tratamento artesanal possui etapas super minuciosas para evitar o ar de "sorriso artificial falso":
-
-1. **A Análise Digital:** Efetuamos dezenas de fotos artísticas, análises tridimensionais, modelos de estudo e exames profundos pela Tomografia e Raios-X.
-2. **O Test-Drive (Enceramento / Mockup):** Com base no visual aprovado da sua face, inserimos no paciente o "protótipo" ou molde virtual sobre os dentes sem arranhar nada. É a prova de que a cor e alinhamento trarão harmonia.
-3. **Preparo e Provisórios:** Ocorrem microscópicos recondicionamentos no esmalte original para abraçar o adesivo resinoso do escudo, colocando temporários. 
-4. **Cimentação Exclusiva:** Posicionamento definitivo da resistente porcelana fixada à laser e resina. Lindo, polido e duradouro!
+1. **Análise digital:** fotos, análise do rosto, modelos de estudo e exames de imagem (radiografia e, quando necessário, tomografia).
+2. **Mockup (enceramento/prova):** um protótipo do novo sorriso é posicionado sobre os dentes, sem desgaste, para você ver a cor e o alinhamento antes de decidir.
+3. **Preparo e provisórios:** quando necessário, faz-se um preparo mínimo no esmalte e colocam-se facetas provisórias.
+4. **Cimentação:** a porcelana é fixada de forma definitiva com adesivo e resina, e depois polida.
 
 ---
 
-## As 6 Maiores Indicações da Faceta Dental
+## As 6 principais indicações da faceta dental
 
 ![Lente de contato dental na ponta dos dedos](/images/5fb7372e-8268-4215-8889-8430c8e897e5_lente-de-contato-dentista-300x174.webp)
 
-Na dúvida se esse investimento em si mesmo foi feito pra você? Veja os casos mais clássicos corrigidos por nós:
+Veja os casos mais comuns em que as facetas são indicadas:
 
-#### **1) Dentes Escurecidos ou Desgastados**
-Quando o natural do seu dente cede ao desgaste pela terceira idade avançando ou por sofrer de compulsivo mal hábito ranger como o [Bruxismo](/bruxismo-tratamento/). A placa invisível devolve inteiramente não só o clarão, mas reconstitui a altura mecânica perdida para proteger sua mandíbula de estalos!
+#### 1) Dentes escurecidos ou desgastados
+Com o tempo, ou por hábitos como o [bruxismo](/bruxismo-tratamento/), o dente pode escurecer e perder altura. A faceta devolve a cor e ajuda a recompor o formato e a função da mordida.
 
-#### **2) Dentes Desalinhados "Ao Extremo"**
-Muitas vezes o esmalte mal posicionado cobra um lento percurso usando o discreto [Aparelho Invisível Invisalign](/invisalign-saiba-tudo-sobre-esse-tipo-de-aparelho-dentario/). Pacientes imediatistas de alta idade muitas vezes rejeitam ortodontia pelas burocracias limitantes do tempo! A reabilitação cosmética nas facetas alinha falsas percepções contornando rapidamente o posicionamento errado com a curvatura desenhada reta do protético sem dores. 
+#### 2) Dentes levemente desalinhados
+Dentes levemente desalinhados podem ser corrigidos com ortodontia, como o [Invisalign](/invisalign-saiba-tudo-sobre-esse-tipo-de-aparelho-dentario/). Em casos de pequenos desalinhamentos, as facetas também podem melhorar a aparência do alinhamento. O caminho ideal é definido na avaliação.
 
-#### **3) Pequenos Espaços Entre Frente de Dentes (Diastemas)**
-Esse "buraco central" nos da frente deixa os pacientes estigmatizados. E ainda que para nós especialistas muitas assimetrias sejam naturais ao nascer; resolver pela leve largura excedente que as facetas entregam bloqueia magicamente a sombra criando um impacto linear perfeito de revistas famosas.
+#### 3) Espaços entre os dentes (diastemas)
+O espaço entre os dentes da frente (diastema) pode ser fechado com facetas, ajustando levemente a largura dos dentes e harmonizando o sorriso.
 
-#### **4) Fraturou ou Ruiu Parcialmente**
-Escorregar e rachar parte incisal é clássico! Enquanto massinhas básicas resolvem rascunhos rasos, reconstruções incisivas usando a inteira **[Faceta em Porcelana](/tratamentos/facetas-de-porcelana/)** formam laços coláveis quase irrompíveis protegendo contra futuras falhas fáceis em sorrisos vitais frontais.
+#### 4) Fraturas e lascas
+Fraturas na borda do dente são comuns. Enquanto pequenas lascas podem ser resolvidas com resina, fraturas maiores podem ser restauradas com a **[faceta de porcelana](/tratamentos/facetas-de-porcelana/)**, que recompõe o dente e protege a região.
 
-#### **5) Restaurações Deficientes**
-Os antigos procedimentos deixavam remendos feios compostos. As resinas porosas pigmentam café fortemente escurecendo nos anos. Quando isolamos de uma ponta à base inteira por facetas dentais unificamos completamente o disfarce opaco da superfície, resgatando a cor de criança viva que brilha muito!
+#### 5) Restaurações antigas ou manchadas
+Restaurações antigas de resina tendem a manchar e escurecer com o tempo. As facetas padronizam a superfície do dente e devolvem uma cor uniforme.
 
-#### **6) Manchas Fortes e Descolorações Radicais Dentárias**
-Certos acinzentados agem fundo bloqueando o tratamento interno como vimos em problemas descritos em nosso guia sobre a [Mancha no Dente](/mancha-nos-dentes/). Com a nova armadura fina de Porcelana recobrindo toda face visível conseguimos esconder todo esse visual apagado do passado e renascer tons translúcidos!
+#### 6) Manchas que não respondem ao clareamento
+Algumas manchas internas não respondem ao clareamento, como explicamos no guia sobre [mancha no dente](/mancha-nos-dentes/). Nesses casos, a faceta recobre a face visível do dente e disfarça a descoloração.
 
 ---
 
-## E Quais as Melhores Vantagens Dessa Tecnologia Estética? 
+## Vantagens das facetas
 
 ![Sorriso incrivel com as Facetas Dentais](/images/94bdc549-478d-43ec-8cce-11026b353ccf_facetas-dentais-1.webp) 
 
-1. **Impulso Explosivo à Auto-estima:** O principal retorno não é físico; é a autoconfiança colossal no relacionamento sorridente profissional das conversas!
-2. **Baixa Mutilação de Originais:** Em diversos arranjos estilizamos a anatomia lixando absurdamente nada da base sadia, uma biológica revolução conservadora.
-3. **Mimetiza Esmaltes Humanos:** Nenhuma plástica emula o reflexo luminoso cristalino aquoso molhado das finas facetas puramente cerâmicas! Sua opalescência visual confunde a distância um olhar.
-4. **Resistência às Cores e Corredores Rápidos:** Concluídos os acertos prévios em dias diretos a cimentação completa altera na sessão toda sua aparência por inteira (as porcelanas vítreas não colhem chás amarelos nunca). Veja diversos clientes com reações incríveis deixadas. 
+1. **Ganho estético e de autoestima:** além da aparência, muitos pacientes relatam mais confiança para sorrir.
+2. **Preparo conservador:** em muitos casos, o desgaste do dente é mínimo ou quase nulo.
+3. **Aparência natural:** a cerâmica reproduz bem a translucidez e o brilho do esmalte natural.
+4. **Estabilidade de cor:** a porcelana é resistente a manchas e não escurece como a resina com o tempo.
 
 ---
 
@@ -135,35 +133,34 @@ Certos acinzentados agem fundo bloqueando o tratamento interno como vimos em pro
 
 ---
 
-## Atenção Especial às Desvantagens da Faceta Dental 
+## Pontos de atenção e desvantagens
 
-* Como citamos o distúrbio da ação destrutiva ao amassar nervosamente maxilas ([Bruxismo Noturno](/bruxismo-tratamento/)), ele exigirá da adoção noturna permanente do protetor duro de acrílicos (Placas Miorelaxantes) por toda a viabilização se não elas acabarão soltando cacos quebrados pelo paciente sem ver! 
-* Limites de correção graves exigem que pacientes respeitem antes ou correções profundas no eixo via alinhadores invisíveis ou a utilização espessa da mais grossa [Coroa Dentária Protetora Total](/coroa-dentaria/). 
-* Destacar firmemente que seu investimento ralo nas higienizações domésticas destrói a base viva no limite da colagem gerando infiltrações perigosas em qualquer odontologia cara investida mundialmente!
-
----
-
-## Qual Avaliação Determina o Preço da Faceta em Porcelana?
-
-A sua desconfiança principal na decisão final está centrada totalmente nos investimentos financeiros para a sua sonhada vida social. E como todo pilar estético biológico autêntico na MD Frossard, alertamos sobre falsificações simplórias em vendas de massa da rede. O seu design e anatomia humana demandarão análises fotográficas puramente raras no atendimento Frossard RJ! 
-
-Para criarmos precisamente o plano seguro de quanto será desembolsado e dimensionar a real utilidade deste requinte, iremos na base investigar profundamente na própria Cadeira Dental se envolveremos a escultura base em 2, focaremos no conjunto simétrico de 6, ou unificaremos todos os caninos na extensa margem de 10 unidades finíssimas contíguas!
-
-E somente as investigações diretas de alinhamentos e desnível marginal podem calcular as despesas. Agendado o processo em nosso refinado atendimento estético as surpresas com tratamentos baratos em refazimento não atormentarão mais seus espelhos em casa!
+* Quem tem [bruxismo](/bruxismo-tratamento/) precisa usar uma placa de proteção noturna, caso contrário as facetas podem trincar.
+* Casos com desalinhamentos ou desgastes maiores podem exigir ortodontia antes, ou o uso de uma [coroa dentária](/coroa-dentaria/) em vez da faceta.
+* A durabilidade depende da higiene diária. Sem cuidado adequado, pode haver infiltração na margem da colagem.
 
 ---
 
-### **Um Sorriso Magnético: Agende Agora Seu Retorno Conosco!**
+## Como é definido o preço da faceta
 
-Inicie esse mergulho no autoconhecimento hoje de maneira rápida via mensagens diretas aos consultores abertos do conforto digital online:
+O valor das facetas depende do número de dentes envolvidos e do planejamento de cada caso. Por isso, só pode ser definido após uma avaliação clínica.
 
-* <i data-lucide="message-circle" class="icon-sm"></i> **Envie Mensagem No WhatsApp Clínico:** **[Abrir Atendimento WhatsApp Imediato](https://api.whatsapp.com/send?phone=5521976637803)**
-* <i data-lucide="phone" class="icon-sm"></i> **Ramal Tradicional da Clínica (Fixo):** (21) 97663-7803
+Na avaliação, define-se quantos dentes serão tratados (por exemplo, 2, 6 ou 10 unidades) e analisa-se o alinhamento e a adaptação. A partir disso, é possível apresentar o plano de tratamento e o orçamento.
+
+---
+
+### Agende sua avaliação
+
+Se você está pensando em facetas, uma avaliação define se elas são indicadas para o seu caso e como seria o planejamento:
+
+* <i data-lucide="message-circle" class="icon-sm"></i> **Fale pelo WhatsApp:** **[Agendar avaliação agora](https://api.whatsapp.com/send?phone=5521976637803)**
+* <i data-lucide="phone" class="icon-sm"></i> **Telefone:** (21) 97663-7803
 
 <div style="margin-top: 3rem; margin-bottom: 2rem; text-align: center;">
-  <a target="_blank" rel="noopener" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero Planejar Minha Faceta Dental</a>
+  <a target="_blank" rel="noopener" href="https://api.whatsapp.com/send?phone=5521976637803" class="btn btn-primary btn-lg">Quero avaliar o meu caso</a>
 </div>
 
-**Atenciosamente, Dr. Davi Frossard.**
+**Dr. Davi Frossard - MD Frossard Odontologia**
+*Estética dental com planejamento digital na [Barra da Tijuca](/dentista-barra-da-tijuca/) e em [Botafogo](/dentista-em-botafogo/).*
 
 ---

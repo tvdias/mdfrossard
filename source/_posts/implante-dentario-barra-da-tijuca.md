@@ -12,7 +12,7 @@ category: Implante
 
 Perder um dente é algo que ainda acontece — por cárie profunda, doença periodontal ou trauma — e o impacto vai além da mastigação. Afeta a autoestima, a forma de falar e até a saúde dos dentes vizinhos, que começam a se mover para preencher o espaço vazio.
 
-O **[implante dentário](/tratamentos/implante-dentario/) na Barra da Tijuca** é o tratamento que oferece a substituição mais próxima de um dente natural: fixo, estável e com estética que se integra perfeitamente ao restante do sorriso.
+O **[implante dentário](/tratamentos/implante-dentario/) na Barra da Tijuca** é o tratamento que oferece a substituição mais próxima de um dente natural: fixo, estável e com estética que se integra ao restante do sorriso.
 
 Neste guia, vamos responder as dúvidas mais comuns: quem pode fazer, como é o processo, quanto tempo leva e quais cuidados são necessários.
 

@@ -82,7 +82,7 @@ Existem três pilares onde um novo sorriso abre portas imediatas:
 
 1.  **No Trabalho:** Profissionais que sorriem com confiança transmitem mais credibilidade e simpatia, facilitando o networking e o crescimento na carreira.
 2.  **Nos Relacionamentos:** O sorriso é a nossa primeira e mais poderosa forma de conexão humana. Um sorriso bonito atrai e gera conforto em quem está ao nosso redor.
-3.  **Qualidade de Vida:** Livrar-se da vergonha de sorrir ou de esconder a boca com a mão muda sua postura diante do mundo. É libertador!
+3.  **Qualidade de Vida:** Deixar de ter vergonha de sorrir ou de esconder a boca com a mão muda a forma como a pessoa se relaciona no dia a dia.
 
 ### **Veja o impacto da transformação no vídeo abaixo:**
 {% youtube prnqO-svMFo %}
@@ -100,13 +100,13 @@ São finas lâminas de porcelana aplicadas sobre os dentes. Elas corrigem cor, f
 Indicadas para casos onde os dentes possuem grandes restaurações, manchas profundas ou precisam de uma mudança estrutural maior. Oferecem uma durabilidade e estética inigualáveis. {% post_link facetas-dentais "Conheça os detalhes" %}.
 
 ### **3. Invisalign (Aparelho Invisível)**
-Não há sorriso perfeito sem alinhamento. O {% post_link [invisalign](/tratamentos/ortodontia/)-saiba-tudo-sobre-esse-tipo-de-aparelho-dentario "Invisalign" %} permite alinhar seus dentes usando placas transparentes, sem o desconforto e a aparência dos brackets metálicos tradicionais.
+Não há sorriso perfeito sem alinhamento. O {% post_link invisalign-saiba-tudo-sobre-esse-tipo-de-aparelho-dentario "Invisalign" %} permite alinhar os dentes com placas transparentes, sem o desconforto e a aparência dos braquetes metálicos tradicionais.
 
 ### **4. Clareamento Dental Profissional**
 Muitas vezes, um dente bem posicionado precisa apenas de luminosidade. Nosso clareamento de consultório remove anos de {% post_link mancha-nos-dentes "manchas" %} de café e vinho em poucas sessões. {% post_link clareamento-dental "Veja os tipos" %}.
 
 ### **5. Implantes Dentários**
-O sorriso só é perfeito se estiver completo. Os implantes devolvem a segurança mastigatória e a estética para quem perdeu um ou mais dentes, sendo a solução definitiva para falhas no sorriso. {% post_link implante-dentario "Tudo sobre implantes" %}.
+O sorriso só é perfeito se estiver completo. Os implantes devolvem a segurança na mastigação e a estética para quem perdeu um ou mais dentes, sendo uma das principais opções para repor dentes. {% post_link implante-dentario "Tudo sobre implantes" %}.
 
 ---
 
@@ -123,7 +123,7 @@ Assista a este guia do **Dr. Davi Frossard** sobre como preservar seu investimen
 
 ## **Sua Jornada para o Novo Sorriso Começa Agora**
 
-Na **MD Frossard**, não apenas consertamos dentes; nós construímos histórias de sucesso através do sorriso. Estamos localizados em pontos estratégicos do Rio de Janeiro para oferecer o melhor da odontologia mundial a você.
+Na **MD Frossard**, cuidamos da saúde e da estética do sorriso. Atendemos na Barra da Tijuca e em Botafogo, no Rio de Janeiro.
 
 ### **Fale Conosco e Transforme Seu Sorriso**
 Nossas consultoras estão prontas para te ajudar a dar o primeiro passo:
@@ -136,7 +136,5 @@ Nossas consultoras estão prontas para te ajudar a dar o primeiro passo:
 </div>
 
 **Equipe MD Frossard Odontologia**
-*Referência Internacional em Estética Dental no Rio de Janeiro.*
-
-**E você, quer ter um sorriso perfeito ?**   
+*Odontologia estética na [Barra da Tijuca](/dentista-barra-da-tijuca/) e em [Botafogo](/dentista-em-botafogo/).*
 
