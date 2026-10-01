@@ -18,7 +18,7 @@ Estética, beleza e a confiança de um lindo sorriso aberto: quem não quer ter?
 
 A odontologia moderna, aliada à tecnologia digital, adquiriu o incrível poder de harmonizar quase que instantaneamente o rosto de uma pessoa. O especialista atua esculpindo um dos pontos de maior impacto inicial na sua simpatia: a moldura do seu sorriso.
 
-Atualmente, a estrela máxima dos consultórios de luxo é, sem dúvidas, a **[lente de contato dental](/tratamentos/lentes-de-contato-dental/).** 
+Atualmente, uma das opções mais procuradas na odontologia estética é a **[lente de contato dental](/tratamentos/lentes-de-contato-dental/).** 
 
 Mas o que esse recurso tem de tão revolucionário em relação aos tratamentos do passado? E quais vantagens reais (sem falsas promessas) ele traz para a sua mastigação e beleza? 
 
@@ -129,7 +129,7 @@ Em muitos casos ambiciosos de construção de personalidade, cobrir dez dentes i
 
 A porcelana é resistente a tudo, não pega cor de café, e é indestrutível ao tempo. Mas o cimento adesivo invisível da borda de baixo precisa seguir normas biológicas humanas. E isso exige total comprometimento do nosso paciente em higienização daquele novo patrimônio, ou perderá todo o investimento!
 
-* **Higienizar Não é Opcional:** Como uma coroa natural orgânica, se o uso da escova falha e a inflamação sobe pelas gengivas atacando a "cola" invisível do molde, as bactérias esburacam até soltar a mais linda obra de porcelana pelo ralo.
+* **Higienizar Não é Opcional:** Assim como um dente natural, se a higiene falha a inflamação atinge a gengiva e o cimento adesivo que fixa a lente, o que pode levar ao descolamento da peça.
 * **Controle Mecânico Total:** Se você destrói blocos por sofrer crises fortes na cabeça mordendo durante o sono (o famoso "Bruxismo"), precisará firmar o pacto de dormir usando a placa rígida de acrílico miorelaxante para que não esmague a beleza da **lente de contato dental**.
 
 Tais medidas formam a revisão mecânica profilática exigida anualmente. Seguiu nosso combinado e compareceu para ver a limpeza da cola das suas porcelanas perfeitamente? O lindo sorriso estará intacto na vida inteira guiando a sua brilhante comunicação diária!
