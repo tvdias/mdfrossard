@@ -14,7 +14,7 @@ Hoje o tema do nosso post é sobre **odontopediatria**, ou seja, a área voltada
 
 ## Importância da odontopediatria
 
-A primeira ida da criança ao dentista (odontopediatria) e as visitas subseqüentes geram dúvidas a muitos pais/ responsáveis. 
+A primeira ida da criança ao dentista (odontopediatria) e as visitas subsequentes geram dúvidas a muitos pais/ responsáveis. 
 
 Em algumas situações, ela está relacionada ao fato de a criança ter sofrido algum trauma bucal ou ainda, quando se desconfia de que a criança possa estar com alguma lesão cariosa. 
 
@@ -92,7 +92,7 @@ Logo, algumas **precauções** podem ser tomadas e desenvolvidas desde os 6 mese
 
 **5-** Pastas de dente com flúor podem ser utilizadas a partir do momento que a criança já consiga cuspir (não engula mais a pasta). A quantidade deve se limitar ao tamanho de um grão de ervilha na ponta da escova.   
 
-**6-** O uso de escova e fio dental deve ser freqüente. As crianças começam a aprender por imitação. Logo, é importante que os responsáveis ensinem e incentivem o uso da correta escovação. Vale lembrar que em algumas fases a criança não conseguirá cumprir esta tarefa sozinha e o adulto terá que ajudá-la realizando este procedimento por ela. Porém, conforme a criança vai crescendo, é importante que isto se torne uma responsabilidade dela e que a cumpra sozinha e de forma correta, porém, a supervisão de um adulto é importante pelo menos na escovação que é feita antes de dormir.   
+**6-** O uso de escova e fio dental deve ser frequente. As crianças começam a aprender por imitação. Logo, é importante que os responsáveis ensinem e incentivem o uso da correta escovação. Vale lembrar que em algumas fases a criança não conseguirá cumprir esta tarefa sozinha e o adulto terá que ajudá-la realizando este procedimento por ela. Porém, conforme a criança vai crescendo, é importante que isto se torne uma responsabilidade dela e que a cumpra sozinha e de forma correta, porém, a supervisão de um adulto é importante pelo menos na escovação que é feita antes de dormir.   
 
 **7-** Criança também tem [gengivite](/tratamentos/periodontia/) e mau hálito e ambos podem estar relacionados com a dificuldade de higienização ou com algum problema instalado nos dentes. Assim, ao perceber estes problemas, busque atendimento odontológico para solucionar o problema da melhor forma.   
 

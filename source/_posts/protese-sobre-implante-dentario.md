@@ -26,9 +26,9 @@ _Portanto continue lendo para saber sobre :_
 
 Talvez a principal dúvida sobre esse tema seja a confusão que existe entre a prótese e o [implante dental.](/implante-dentario/) 
 
-Apesar de um tratamento depender do outro, eles ainda continuam sendo procedimentos diferentes. Ou seja, primeiro se faz a cirugia para a instalação do implante dental e depois se coloca a prótese. 
+Apesar de um tratamento depender do outro, eles ainda continuam sendo procedimentos diferentes. Ou seja, primeiro se faz a cirurgia para a instalação do implante dental e depois se coloca a prótese. 
 
-Além disso, a prótese (mesmo que provisória) sobre o implante pode ser colocada no mesmo dia da cirugia ou até 6 meses depois. 
+Além disso, a prótese (mesmo que provisória) sobre o implante pode ser colocada no mesmo dia da cirurgia ou até 6 meses depois. 
 
 No Brasil, ainda existem duas especialidades diferentes, uma chamada de Implantodontia e outra de Prótese Dental. 
 

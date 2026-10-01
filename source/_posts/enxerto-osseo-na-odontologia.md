@@ -50,7 +50,7 @@ Eles podem ser usados em cirurgia como o {% post_link levantamento-do-seio-maxil
 
 Antes de tudo, nosso blog {% post_link perda-ossea-dentaria "possui um texto" %} bem detalhado explicando esse problema.
 
-Entretanto, o principal fator relacionado a perda de osso nos dentes é devido a {% post_link gengiva-sangrando "[periodontite](/tratamentos/periodontia/)" %}. 
+Entretanto, o principal fator relacionado a perda de osso nos dentes é devido a [periodontite](/gengiva-sangrando/). 
 
 Esse doença acontece pela inflamação da gengiva, devido ao acúmulo de alimentos e a falta da correta higienização. 
 

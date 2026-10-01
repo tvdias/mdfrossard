@@ -80,7 +80,7 @@ return false;
 
 ## Saúde bucal como base para dentes perfeitos
 
-Muitos querem mudar o sorriso, fazer {% post_link 5-razoes-para-usar-faceta-de-porcelana "[facetas de porcelana](/tratamentos/estetica-dental/)" %} ou {% post_link clareamento-dental "clareamento dentário" %}, mas esquecem do básico, a saúde gengival dos dentes. 
+Muitos querem mudar o sorriso, fazer [facetas de porcelana](/5-razoes-para-usar-faceta-de-porcelana/) ou {% post_link clareamento-dental "clareamento dentário" %}, mas esquecem do básico, a saúde gengival dos dentes. 
 
 Sim, se não existir o cuidado básico dos dentes, toda a parte estética é perdida. Para se ter um belo sorriso, é preciso antes de tudo saber realizar a correta escovação dos dentes e o uso do fio dental. 
 

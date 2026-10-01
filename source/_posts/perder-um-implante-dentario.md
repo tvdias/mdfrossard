@@ -73,7 +73,7 @@ Mantenha sua saúde bucal em dia com um check-up preventivo na MD Frossard:
 
 Diferente de transplantes de órgãos (coração, rim), onde o corpo pode identificar o tecido como "estranho", o implante dentário é feito de **Titânio**. 
 
-O titânio é um material **biocompatível**. Isso significa que o organismo não o reconhece como um inimigo, mas sim como uma base sobre a qual o osso pode crescer e se fixar — um processo chamado de **osseeointegração**. 
+O titânio é um material **biocompatível**. Isso significa que o organismo não o reconhece como um inimigo, mas sim como uma base sobre a qual o osso pode crescer e se fixar — um processo chamado de **osseointegração**. 
 
 Portanto, a "rejeição" imunológica não existe na implantodontia. O que ocorre são falhas causadas por fatores externos.
 

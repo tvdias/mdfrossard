@@ -11,7 +11,7 @@ Com o passar dos anos, é comum passarmos por diversos {% post_link tratamento-d
 
 Somado a isso, o desgaste natural, a retração gengival e o amarelamento podem fazer com que o sorriso perca sua força e beleza. Quando o problema deixa de ser um dente apenas e passa a envolver toda a boca, entramos no campo da **Reabilitação Oral**.
 
-Na **MD Frossard**, a reabilitação oral é tratada como uma obra de arte da engenharia biológica: devolvemos a você a capacidade de mastigar com segurança e o prazer de sorrir sem restrições.
+Na **MD Frossard**, a reabilitação oral busca devolver a mastigação com segurança e a estética do sorriso, com um planejamento que integra função e aparência.
 
 ---
 
@@ -25,11 +25,11 @@ Se você sente que seu sorriso precisa de um novo começo, fale com nossos espec
 
 ## O que é, afinal, a Reabilitação Oral?
 
-Diferente de um tratamento pontual, a **Reabilitação Oral** é um planejamento global. Ela consiste na reformulação total da dentição para adquirir a melhor mastigação (função) combinada a um visual impecável (estética).
+Diferente de um tratamento pontual, a **Reabilitação Oral** é um planejamento global. Ela consiste na reformulação total da dentição para adquirir a melhor mastigação (função) combinada a uma boa estética.
 
 **As duas principais frentes de atuação são:**
 
-1.  **Funcional:** Quando existem perdas de dentes ou "mordida errada" (oclusão ineficiente). Precisamos reequilibrar as forças para evitar dores na face e garantir uma digestão perfeita.
+1.  **Funcional:** Quando existem perdas de dentes ou "mordida errada" (oclusão ineficiente). Precisamos reequilibrar as forças da mordida para evitar dores na face e melhorar a mastigação.
 2.  **Estética:** Quando o foco é rejuvenescer o sorriso, corrigindo dentes pequenos, amarelados ou com a {% post_link gengiva-sangrando "saúde gengival" %} comprometida.
 
 ## Como funciona o processo na MD Frossard?
@@ -39,9 +39,9 @@ Por ser um procedimento complexo, a reabilitação exige um diagnóstico meticul
 
 *   **Exames Digitais:** Utilizamos tomografias, raios-x e escaneamentos intraorais.
 *   **Análise Sistêmica:** Verificamos sua saúde geral para garantir que o organismo responda bem aos implantes ou próteses.
-*   **Equipe Multidisciplinar:** O Dr. Davi Frossard coordena diferentes especialistas ([periodontia](/tratamentos/periodontia/), implantodontia, prótese) para que cada etapa seja perfeita.
+*   **Equipe Multidisciplinar:** O Dr. Davi Frossard coordena diferentes especialistas ([periodontia](/tratamentos/periodontia/), implantodontia, prótese) para que cada etapa seja bem executada.
 
-### **Assista ao vídeo e entenda os segredos da Reabilitação:**
+### Assista ao vídeo sobre a Reabilitação Oral:
 {% youtube eVJrVZTowJI %}
 
 ---
@@ -51,19 +51,19 @@ Para reconstruir um sorriso de forma definitiva, geralmente integramos:
 
 *   **Periodontia:** Garantir que a "base" (gengiva e osso) esteja saudável.
 *   **Implantodontia:** Repor raízes perdidas com implantes de alta tecnologia.
-*   **Prótese e Estética:** Finalizar com coroas, facetas ou lentes de contato que imitam a perfeição dos dentes naturais.
+*   **Prótese e Estética:** Finalizar com coroas, facetas ou lentes de contato que reproduzem a aparência dos dentes naturais.
 *   **[Ortodontia](/tratamentos/ortodontia/):** Alinhar dentes para que a reabilitação seja estável a longo prazo.
 
 ## Quanto tempo demora o tratamento?
 ![Resultado de reabilitação oral](/images/c2df1b99-aed9-4ecf-97b2-07bcced39cad_reablitacao-dentaria.webp) 
 
-Cada caso é único. A duração depende de três pilares: o tempo técnico de cada procedimento, a resposta biológica do seu corpo (cicatrização) e a sua frequência nas consultas. O importante é saber que **o resultado final é um investimento para a vida toda.**
+Cada caso é único. A duração depende de três pilares: o tempo técnico de cada procedimento, a resposta biológica do seu corpo (cicatrização) e a sua frequência nas consultas. O importante é saber que o resultado é um investimento de longo prazo para a sua saúde bucal.
 
 ---
 
-## **Conclusão: Invista no seu bem-estar**
+## Conclusão
 
-A reabilitação dos dentes vai muito além da vaidade; é sobre recuperar a harmonia do rosto e a saúde do corpo. Um sorriso reabilitado devolve a autoestima e a liberdade social que muitos pacientes acreditavam ter perdido para sempre.
+A reabilitação dos dentes vai muito além da vaidade; é sobre recuperar a harmonia do rosto e a saúde do corpo. Um sorriso reabilitado também costuma devolver a autoestima e o conforto no convívio social.
 
 Na **MD Frossard**, aliamos tecnologia de ponta a um atendimento humanizado para que sua jornada de transformação seja a mais confortável possível.
 
@@ -78,4 +78,4 @@ Converse com nossa equipe no Rio de Janeiro e descubra o que a odontologia moder
 </div>
 
 **Equipe MD Frossard Odontologia**
-*Referência em Reabilitação Oral e Implantes no Rio de Janeiro.*
+*Reabilitação oral e implantes na [Barra da Tijuca](/dentista-barra-da-tijuca/) e em [Botafogo](/dentista-em-botafogo/).*

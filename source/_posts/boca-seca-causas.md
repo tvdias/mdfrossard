@@ -82,7 +82,7 @@ O tratamento depende do problema diagnosticado.
 
 Nos casos mais simples, como vistos acima, devemos corrigir ou melhorar algum hábito. 
 
-A higienização deve ser feita de forma correta, a ingestão de água deve ser freqüente, o uso do álcool e do fumo deve ser diminuído ou até eliminado. 
+A higienização deve ser feita de forma correta, a ingestão de água deve ser frequente, o uso do álcool e do fumo deve ser diminuído ou até eliminado. 
 
 Se a medicação ministrada pelo paciente causar a xerostomia, o médico deve ser contactado para saber se o remédio pode ser modificado. Nos casos mais graves, um acompanhamento médico deve ser feito. 
 
