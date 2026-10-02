@@ -20,7 +20,7 @@ A odontologia moderna, aliada à tecnologia digital, permite harmonizar o sorris
 
 Atualmente, uma das opções mais procuradas na odontologia estética é a **[lente de contato dental](/tratamentos/lentes-de-contato-dental/).** 
 
-Mas o que esse recurso tem de tão revolucionário em relação aos tratamentos do passado? E quais vantagens reais (sem falsas promessas) ele traz para a sua mastigação e beleza? 
+Mas o que esse recurso tem de diferente em relação aos tratamentos do passado? E quais vantagens reais (sem falsas promessas) ele traz para a sua mastigação e beleza? 
 
 Continue conosco neste artigo e descubra:
 

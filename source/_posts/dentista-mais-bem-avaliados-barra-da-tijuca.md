@@ -1,6 +1,6 @@
 ---
 title: "Avaliações dos Pacientes — MD Frossard na Barra da Tijuca"
-description: "Depoimentos reais de pacientes da MD Frossard na Barra da Tijuca: implantes, facetas e reabilitação oral. Veja por que somos referência em atendimento."
+description: "Depoimentos reais de pacientes da MD Frossard na Barra da Tijuca: implantes, facetas e reabilitação oral. Conheça a experiência de quem já se tratou conosco."
 date: 2024-06-25T10:00:15.000Z
 featured_image: /images/blog_clinica_barra.webp
 hero_srcset: "/images/blog_clinica_barra-800.webp 800w, /images/blog_clinica_barra.webp 1600w"
@@ -42,7 +42,7 @@ Nossa equipe é composta por profissionais que são referência em suas especial
 
 **Dra. Luciana Peroni:** Especialista em Prótese dentária e [endodontia](/tratamentos/endodontia/), com um olhar atento tanto para a saúde quanto para a estética dental.
 
-E o melhor? Todos são também experts em estética dental. Afinal, saúde e beleza podem (e devem) andar juntas!
+Além disso, todos têm atuação em estética dental, unindo a saúde e a aparência do sorriso.
 
 Conheça mais sobre a nossa [equipe](/equipe/)
 

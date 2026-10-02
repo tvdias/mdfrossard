@@ -2,7 +2,7 @@
 title: 'Dentista no Rio de Janeiro com 38 Anos de Experiência'
 author: Davi Heringer Frossard
 description: >-
- Precisa de dentista no Rio de Janeiro? Possuímos duas clinica de alto padrão nessa cidade. Realize seu tratamento com conforto e segurança em nossa clínica.
+ Precisa de dentista no Rio de Janeiro? Temos duas unidades na cidade. Realize seu tratamento com conforto e segurança.
 date: 2015-08-28T09:20:36.000Z
 featured_image: /images/d5bbe970-79ea-4846-8f8d-8fbdccb08046_dentista-rio-de-janeiro.webp
 hero_srcset: "/images/d5bbe970-79ea-4846-8f8d-8fbdccb08046_dentista-rio-de-janeiro-800.webp 800w, /images/d5bbe970-79ea-4846-8f8d-8fbdccb08046_dentista-rio-de-janeiro.webp 1600w"
@@ -50,9 +50,9 @@ Nossa clínica odontológica na cidade do Rio de Janeiro possui mais de 38 anos 
 
 [![dentista Rio de Janeiro](/images/65635117-1e31-4d07-8a91-56553ab40b70_dentista-Rio-de-Janeiro.webp)](/images/65635117-1e31-4d07-8a91-56553ab40b70_dentista-Rio-de-Janeiro.webp) 
 
-O seu tratamento será realizado com alta performance, através de uma odontologia contemporânea focada em 3 pilares: Relacionamento, Confiança e Pontualidade.
+O seu tratamento é conduzido com uma odontologia atual, focada em três pilares: relacionamento, confiança e pontualidade.
 
-Buscando o melhor atendimento para o nosso cliente, possuímos duas clinica dentárias no rio de janeiro. 
+Temos duas clínicas no Rio de Janeiro para melhor atender os nossos pacientes. 
 
 A primeira clinica esta localizada no bairro de [**Botafogo**](/dentista-em-botafogo/), ao lado da Cobal do Humaitá. 
 
@@ -77,7 +77,7 @@ Como tratamentos possuímos tratamentos:
 - [Tratamento de canal](/tratamentos/endodontia/); 
 - Entre outros.   
 
-## Por que a MD Frossard é referência em odontologia no Rio de Janeiro
+## Por que escolher a MD Frossard no Rio de Janeiro
 
 Com 38 anos de atuação contínua no Rio de Janeiro, a MD Frossard Odontologia construiu uma reputação baseada em resultados consistentes e relacionamentos duradouros com os pacientes. Muitas famílias passam o atendimento de geração em geração — pais que começaram a tratar com o Dr. Marcos Frossard hoje levam os filhos para se consultar com o Dr. Davi Frossard.
 

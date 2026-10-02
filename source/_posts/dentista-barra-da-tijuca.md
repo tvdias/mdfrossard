@@ -27,7 +27,7 @@ faqs:
 
 ## Sobre a nossa unidade na Barra da Tijuca
 
-Se você procura uma excelente **clínica odontológica na Barra da Tijuca** que combine tradição familiar com o que há de mais moderno na odontologia, a **MD Frossard Odontologia** é o seu destino ideal. Com mais de 38 anos de atuação no Rio de Janeiro, nossa unidade na Barra foi planejada para oferecer um padrão de atendimento diferenciado, focado em resultados estéticos e funcionais de alta performance.
+Se você procura uma **clínica odontológica na Barra da Tijuca** que una tradição familiar e tecnologia moderna, conheça a **MD Frossard Odontologia**. Com mais de 38 anos de atuação no Rio de Janeiro, nossa unidade na Barra oferece atendimento particular, com foco em resultados estéticos e funcionais e no conforto do paciente.
 
 Localizada no conceituado **Shopping Città America** (Bloco 2, Sala 143), nossa clínica oferece conveniência, segurança e uma infraestrutura tecnológica completa para cuidar do seu sorriso. Atendemos pacientes da Barra da Tijuca, Recreio dos Bandeirantes, Jacarepaguá, São Conrado, Itanhangá e Joá.
 
@@ -118,7 +118,7 @@ Atendemos todas as necessidades odontológicas na nossa **clínica dentária na 
 - 🔸 **[Tratamento de Canal (Endodontia) ➔](/tratamentos/endodontia/)**
 - 🔸 **[Tratamento de Gengiva (Periodontia) ➔](/tratamentos/periodontia/)**
 - 🔸 **[Prótese Dentária ➔](/tratamentos/protese-dentaria/)**
-- 🔸 **[Clareamento Dental Premium ➔](/tratamentos/estetica-dental/)**
+- 🔸 **[Clareamento Dental ➔](/tratamentos/estetica-dental/)**
 
 <br>
 
@@ -193,7 +193,7 @@ Se você valoriza pontualidade, tecnologia de ponta e um atendimento que entende
 - **💬 WhatsApp:** **[Falar agora pelo WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)**
 - **📍 Endereço:** **[Shopping Città America – Bloco 2, Sala 143 – Barra da Tijuca ➔](/localizacao/)**
 
-A MD Frossard Odontologia está pronta para oferecer o melhor cuidado ao seu sorriso!
+A MD Frossard Odontologia está à disposição para cuidar do seu sorriso.
 
 <script type="application/ld+json">
 {

@@ -23,7 +23,7 @@ faqs:
 
 ## Dentista em Botafogo: Tradição e Especialização no Coração da Zona Sul
 
-Se você procura um **dentista em Botafogo** que una experiência consolidada e odontologia de alta performance, a **MD Frossard Odontologia** está a poucos passos de você. Com mais de 38 anos de presença no bairro, nossa clínica atende pacientes de Botafogo, Humaitá, Flamengo, Laranjeiras e toda a Zona Sul do Rio de Janeiro.
+Se você procura um **dentista em Botafogo** que una experiência consolidada e tecnologia moderna, a **MD Frossard Odontologia** está a poucos passos de você. Com mais de 38 anos de presença no bairro, nossa clínica atende pacientes de Botafogo, Humaitá, Flamengo, Laranjeiras e toda a Zona Sul do Rio de Janeiro.
 
 Nossa unidade fica na **Rua Marques, 15**, ao lado da Cobal do Humaitá e próximo ao Largo dos Leões — um endereço fácil de acessar tanto de metrô quanto de carro.
 
@@ -107,7 +107,7 @@ Veja mais **[depoimentos de pacientes reais ➔](/depoimentos/)**.
 
 ## Tratamentos disponíveis na unidade de Botafogo
 
-- 🔸 **[Implante Dentário ➔](/tratamentos/implante-dentario/)** — Reposição de dentes perdidos com implantes de titânio de alta performance e resultado natural.
+- 🔸 **[Implante Dentário ➔](/tratamentos/implante-dentario/)** — Reposição de dentes perdidos com implantes de titânio e resultado natural.
 - 🔸 **[Prótese Dentária ➔](/tratamentos/protese-dentaria/)** — Coroas, pontes e próteses sobre implante para restaurar função e estética.
 - 🔸 **[Facetas e Lentes de Contato Dental ➔](/tratamentos/estetica-dental/)** — Transformação do sorriso com resultado natural e duradouro.
 - 🔸 **[Tratamento de Canal (Endodontia) ➔](/tratamentos/endodontia/)** — Procedimentos realizados com anestesia eficaz e tecnologia de precisão.
