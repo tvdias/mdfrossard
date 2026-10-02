@@ -63,9 +63,9 @@ Também temos causas mais graves, onde deve-se prestar mais atenção e ter acom
 
 Além disso, deve-se lembrar que os idosos apresentam mais a sensação de boca seca, já que com o passar da idade, ocorre uma diminuição da quantidade de saliva produzida.
 
-## Conseqüências da boca seca na saúde
+## Consequências da boca seca na saúde
 
-As principais conseqüências são: 
+As principais consequências são: 
 
 * O aumento da quantidade de cáries; 
 * Ardência na gengiva;

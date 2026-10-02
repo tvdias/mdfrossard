@@ -1,5 +1,5 @@
 ---
-title: 'Bruxismo: Causas, Sintomas e o Tratamento Definitivo'
+title: 'Bruxismo: Causas, Sintomas e Tratamento'
 description: "Acordando com tensão no rosto e dor de cabeça? O Bruxismo destrói o sono e os dentes de forma silenciosa. Entenda as suas causas ocultas e veja como se."
 date: 2014-08-25T10:00:54.000Z
 updated: 2026-05-20T00:00:00.000Z

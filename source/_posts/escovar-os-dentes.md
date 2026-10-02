@@ -24,7 +24,7 @@ Pelo contrário, a força excessiva na escovação dos dentes poderá levar a le
 #### **3 - Não usar o fio dental ou usá-lo com muita frequência** 
 O uso do fio dental é essencial para completa limpeza dos dentes. As áreas entre os dentes não são completamente limpas somente com a correta técnica de escovação, essa área deve ser higienizada com o fio dental. 
 
-Por isso o {% post_link como-passar-o-fio-dental "fio dental" %} faz parte da rotina de escovar os dentes. Porém, existem casos onde a grande freqüência de uso do fio pode lesionar a gengiva. 
+Por isso o {% post_link como-passar-o-fio-dental "fio dental" %} faz parte da rotina de escovar os dentes. Porém, existem casos onde a grande frequência de uso do fio pode lesionar a gengiva. 
 
 Aliado a isso, o uso de força excessiva do fio dental pode ocasionar dor e retração. Portanto, usando o fio uma vez ao dia e antes de dormir já é um grande feito para a correta escovação dos dentes.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Como Clarear os Dentes de Forma Segura: O Guia Definitivo'
+title: 'Como Clarear os Dentes de Forma Segura: O Guia Completo'
 description: >-
  Quer saber como clarear os dentes sem colocar sua saúde em risco? Conheça os 
  métodos profissionais, fuja de receitas caseiras e tenha um sorriso radiante.

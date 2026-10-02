@@ -12,7 +12,7 @@ noindex: true
 
 A odontologia atualmente tem voltado muito para a manutenção e principalmente para a prevenção de doenças bucais. 
 
-Através da compreensão de muitas patologias que acometem a boca, como a doença periodontal, a freqüência desses problemas tem diminuído. 
+Através da compreensão de muitas patologias que acometem a boca, como a doença periodontal, a frequência desses problemas tem diminuído. 
 
 Em nossa clínica, sempre quando realizamos algum tratamento, orientamos ao nosso paciente a importância da manutenção do trabalho, ocasionando maior durabilidade dele. 
 

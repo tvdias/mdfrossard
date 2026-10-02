@@ -74,7 +74,7 @@ Resumimos os principais pontos para você entender o procedimento de forma visua
 
 ## **Sua Recuperação Começa com Planejamento**
 
-Trocar uma prótese antiga ou colocar uma nova coroa de porcelana pura pode mudar completamente sua segurança ao comer em público e ao sorrir. Na **MD Frossard**, garantimos um ajuste perfeito para que você esqueça que está usando uma prótese.
+Trocar uma prótese antiga ou colocar uma nova coroa de porcelana pura pode mudar completamente sua segurança ao comer em público e ao sorrir. Na **MD Frossard**, buscamos um ajuste preciso para que a prótese fique confortável e natural.
 
 ### **Marque sua Consulta com Especialistas**
 Estamos prontos para devolver a função e a estética ao seu sorriso no Rio de Janeiro:

@@ -13,7 +13,7 @@ Muitos pacientes que perderam os dentes posteriores superiores a bastante tempo 
 
 Boa parte da população não conhece este procedimento. 
 
-Assim, com este artigo busco explicar da forma mais simples possível como é feito esse tipo de cirurgia, suas indicações e contra-indicações.
+Assim, com este artigo busco explicar da forma mais simples possível como é feito esse tipo de cirurgia, suas indicações e contraindicações.
 
 ## O que o levantamento do seio maxilar é ?
 
@@ -70,13 +70,13 @@ Podemos usar os enxertos autógenos, que retiramos do próprio paciente ou podem
 
 A principal indicação é quando perdemos um elemento dentário e temos pouco osso na região posterior de maxila e desejamos instalar um implante dentário.
 
-## Quais são as contra-indicações ?
+## Quais são as contraindicações ?
 
 As contra indicações são quando a pessoa apresenta sinusite crônica, infecção ativa no seio, diabetes descontrolada, neoplasia entre outros.
 
 ## Quais problemas podemos ter ?
 
-O problema que acontece com mais freqüência é a perfuração do membrana do seio maxilar, porém ela é de fácil resolução. 
+O problema que acontece com mais frequência é a perfuração do membrana do seio maxilar, porém ela é de fácil resolução. 
 
 Em menor escala, podemos ter ainda uma infecção ( que irá ser controlada através de antibióticos).   
 

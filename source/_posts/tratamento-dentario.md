@@ -9,7 +9,7 @@ featured_image: /images/5d522b8b-7cf0-46a6-b1f2-1181a33a47f7_Tratamento-dentario
 
 Todos sabem que o cuidado com o corpo é importante para termos uma boa qualidade de vida, e isso inclui um bom tratamento dentário. 
 
-Por isso, buscamos realizar atividades físicas, procuramos médicos de qualidade, tentamos evitar comidas calóricas e nos {% post_link 5-alimentos-que-previnem-caries "alimentamos de comidas mais saudáveis" %}. (sim eu sei, nem sempre fazemos isso, mas tentamos ! ;-)). 
+Por isso, buscamos realizar atividades físicas, procuramos médicos de qualidade, tentamos evitar comidas calóricas e nos {% post_link 5-alimentos-que-previnem-caries "alimentamos de comidas mais saudáveis" %} (nem sempre conseguimos, mas tentamos). 
 
 De uma maneira geral, todos nós queremos viver bem e bastante tempo. Assim, além da saúde do corpo e da mente necessitamos ter saúde dos dentes. O **tratamento dentário** é essencial para se conseguir ter uma [correta alimentação](https://www.minhavida.com.br/alimentacao/materias/17780-alimentacao-correta-e-aliada-para-evitar-o-envelhecimento-precoce).
 

@@ -14,6 +14,6 @@ Olá a todos, Semana passada tive a oportunidade de participar com IN 2013.
 
 Para quem não sabe, é o maior congresso de implantodontia do Brasil. 
 
-Foram momentos muito bons, onde pude participar de diversos cursos, sempre trocando idéias e informações. 
+Foram momentos muito bons, onde pude participar de diversos cursos, sempre trocando ideias e informações. 
 
 Abraços a todos, Davi Frossard
