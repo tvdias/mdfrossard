@@ -3,15 +3,27 @@ title: 'Coroa Dentária: Guia Completo sobre Próteses e Porcelanas'
 author: Davi Heringer Frossard
 description: "A coroa dentária é a solução ideal para recuperar dentes quebrados ou fragilizados. Conheça os tipos de porcelana (Metal-Free) e veja como devolver a."
 date: 2015-07-21T10:14:17.000Z
-updated: 2026-05-20T00:00:00.000Z
+updated: 2026-10-02T00:00:00.000Z
 featured_image: /images/3e904c62-2a01-4d3b-86bc-ba9ac7dd2f0f_Coroa-dentaria.webp
+intro_text: "A **coroa dentária** (também chamada de coroa de dente ou \"pivô\") é uma prótese fixa que recobre toda a parte visível de um dente muito danificado, devolvendo forma, cor e resistência. É indicada após tratamento de canal, em grandes fraturas ou sobre implantes. Os modelos mais usados hoje são as coroas de porcelana sem metal (zircônia e dissilicato de lítio), pela aparência natural. Abaixo você vê os tipos, as indicações e as dúvidas mais comuns."
+faqs:
+  - question: "Qual a diferença entre coroa dentária e pivô?"
+    answer: "No dia a dia, as duas palavras costumam ser usadas como sinônimos. Tecnicamente, a coroa é a prótese que recobre o dente; o antigo \"pivô\" era um pino fixado dentro da raiz. Hoje, o mais comum é a coroa de porcelana sobre o dente preparado ou sobre um implante."
+  - question: "Quanto tempo dura uma coroa de porcelana?"
+    answer: "Com boa higiene e acompanhamento, uma coroa pode durar muitos anos. A durabilidade depende do cuidado diário, da saúde da gengiva e de hábitos como o bruxismo. Consultas regulares ajudam a prolongar a vida útil da prótese."
+  - question: "Colocar uma coroa no dente dói?"
+    answer: "O preparo e a colocação são feitos sob anestesia local, sem dor durante o procedimento. Pode haver uma sensibilidade leve nos primeiros dias, que costuma passar naturalmente."
+  - question: "Qual a melhor coroa: metal-free ou metalocerâmica?"
+    answer: "Depende do caso. As coroas metal-free (zircônia ou dissilicato de lítio) têm melhor estética para os dentes da frente. As metalocerâmicas são bastante resistentes e úteis em dentes posteriores. O dentista indica a opção conforme a mordida e a região do dente."
+  - question: "A coroa dentária serve para implante?"
+    answer: "Sim. No implante, a coroa de porcelana é a parte visível, instalada sobre o pilar do implante fixado no osso. É ela que devolve a aparência e a função de mastigação."
 ---
 
 Quando um dente sofre uma grande fratura, uma cárie profunda ou passa por um [tratamento de canal](/tratamentos/endodontia/), muitas vezes uma restauração simples não é suficiente para suportar a força da mastigação. É nesse momento que utilizamos a **Coroa Dentária**.
 
 Também conhecida popularmente como "pivô", a coroa é uma prótese fixa que recobre toda a parte visível do dente, devolvendo sua forma, cor e, principalmente, sua resistência original.
 
-Na **MD Frossard**, utilizamos o que há de mais moderno em cerâmicas e zircônia para que sua coroa seja indistinguível de um dente natural.
+Na **MD Frossard**, utilizamos cerâmicas e zircônia modernas para que sua coroa tenha aparência natural, próxima à de um dente saudável.
 
 ---
 
@@ -29,7 +41,7 @@ Se você tem um dente quebrado ou precisa trocar uma prótese antiga, fale conos
 
 ## O que é exatamente uma Coroa Dentária?
 
-Imagine a coroa como um "escudo" de porcelana de alta resistência. Para instalá-la, o dentista prepara a base do dente (ou utiliza um implante) para que a peça se encaixe com perfeição milimétrica.
+Imagine a coroa como um "escudo" de porcelana de alta resistência. Para instalá-la, o dentista prepara a base do dente (ou utiliza um implante) para que a peça se encaixe com precisão.
 
 Este tratamento é o pilar de qualquer {% post_link reabilitacao-oral "reabilitação oral" %} de sucesso, pois protege o que restou da estrutura dentária e impede novas fraturas.
 
@@ -41,7 +53,7 @@ A escolha do material é fundamental para o sucesso estético e funcional:
 ### **1. Coroas Metal-Free (Sem Metal)**
 São a tendência mundial. Feitas de Zircônia ou Dissilicato de Lítio (E.max), elas são brancas por dentro e por fora. 
 
-*   **Vantagem:** Não deixam aquela "linha cinza" na gengiva com o passar dos anos e possuem uma translucidez idêntica ao esmalte natural.
+*   **Vantagem:** Não deixam aquela "linha cinza" na gengiva com o passar dos anos e possuem uma translucidez semelhante à do esmalte natural.
 
 ### **2. Coroas Metalocerâmicas**
 Possuem uma estrutura interna de metal revestida por porcelana. 
@@ -58,7 +70,7 @@ As coroas são versáteis e essenciais nas seguintes situações:
 
 *   **Dentes fragilizados por canal:** Após o tratamento endodôntico, o dente fica mais "seco" e propenso a quebrar.
 *   **Substituição de grandes restaurações:** Quando a resina começa a infiltrar ou quebrar com frequência.
-*   **[Implantes Dentários](/tratamentos/implante-dentario/):** A coroa é a parte que parafusamos sobre o implante para você poder mastigar.
+*   **[Implantes Dentários](/tratamentos/implante-dentario/):** A coroa é a parte instalada sobre o pilar do implante para você poder mastigar.
 
 ### **Vídeo: Veja como uma Coroa é confeccionada:**
 {% youtube EcEafFl0xSo %}
@@ -72,9 +84,27 @@ Resumimos os principais pontos para você entender o procedimento de forma visua
 
 ---
 
+---
+## Perguntas frequentes
+
+### Qual a diferença entre coroa dentária e pivô?
+No dia a dia, as duas palavras costumam ser usadas como sinônimos. Tecnicamente, a coroa é a prótese que recobre o dente; o antigo "pivô" era um pino fixado dentro da raiz. Hoje, o mais comum é a coroa de porcelana sobre o dente preparado ou sobre um implante.
+
+### Quanto tempo dura uma coroa de porcelana?
+Com boa higiene e acompanhamento, uma coroa pode durar muitos anos. A durabilidade depende do cuidado diário, da saúde da gengiva e de hábitos como o bruxismo. Consultas regulares ajudam a prolongar a vida útil da prótese.
+
+### Colocar uma coroa no dente dói?
+O preparo e a colocação são feitos sob anestesia local, sem dor durante o procedimento. Pode haver uma sensibilidade leve nos primeiros dias, que costuma passar naturalmente.
+
+### Qual a melhor coroa: metal-free ou metalocerâmica?
+Depende do caso. As coroas metal-free (zircônia ou dissilicato de lítio) têm melhor estética para os dentes da frente. As metalocerâmicas são bastante resistentes e úteis em dentes posteriores. O dentista indica a opção conforme a mordida e a região do dente.
+
+### A coroa dentária serve para implante?
+Sim. No implante, a coroa de porcelana é a parte visível, instalada sobre o pilar do implante fixado no osso. É ela que devolve a aparência e a função de mastigação.
+
 ## **Sua Recuperação Começa com Planejamento**
 
-Trocar uma prótese antiga ou colocar uma nova coroa de porcelana pura pode mudar completamente sua segurança ao comer em público e ao sorrir. Na **MD Frossard**, buscamos um ajuste preciso para que a prótese fique confortável e natural.
+Trocar uma prótese antiga ou colocar uma nova coroa de porcelana pura pode melhorar sua segurança ao comer em público e ao sorrir. Na **MD Frossard**, buscamos um ajuste preciso para que a prótese fique confortável e natural.
 
 ### **Marque sua Consulta com Especialistas**
 Estamos prontos para devolver a função e a estética ao seu sorriso no Rio de Janeiro:
@@ -87,4 +117,4 @@ Estamos prontos para devolver a função e a estética ao seu sorriso no Rio de 
 </div>
 
 **Equipe MD Frossard Odontologia**
-*Referência em Próteses e Reabilitação Oral de Alta Performance.*
+*Próteses e Reabilitação Oral no Rio de Janeiro.*
