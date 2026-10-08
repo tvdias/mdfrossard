@@ -16,6 +16,7 @@ faqs:
     answer: "Rejeição imunológica ao titânio não ocorre, pois é um material biocompatível. As raras perdas de implante estão associadas a infecção, tabagismo, higiene inadequada ou sobrecarga mastigatória precoce, fatores que o acompanhamento profissional ajuda a controlar."
   - question: "Quanto custa um implante dentário?"
     answer: "O valor depende do número de implantes, da necessidade de enxerto ósseo e do tipo de prótese, por isso só pode ser definido após avaliação clínica com tomografia. Fornecemos documentação para pedido de reembolso junto ao seu plano odontológico, quando aplicável."
+canonical: https://mdfrossard.com.br/tratamentos/implante-dentario/
 ---
 
 O **[implante dentário](/tratamentos/implante-dentario/)** é uma das soluções mais consolidadas e seguras da odontologia moderna para repor dentes perdidos, com boa estabilidade e aparência natural.

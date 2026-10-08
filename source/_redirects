@@ -37,9 +37,9 @@
 # Limpeza SEO — Grupo 2: canibalização (redirect para versão mais completa)
 /escovacao-dos-dentes/ /escovar-os-dentes/ 301
 /canal-no-dente/ /tratamento-de-canal/ 301
-/como-ter-os-dentes-mais-brancos/ /clareamento-dental/ 301
-/5-dicas-para-clarear-os-dentes/ /clareamento-dental/ 301
-/como-clarear-os-dentes/ /clareamento-dental/ 301
+/como-ter-os-dentes-mais-brancos/ /tratamentos/clareamento-dental/ 301
+/5-dicas-para-clarear-os-dentes/ /tratamentos/clareamento-dental/ 301
+/como-clarear-os-dentes/ /tratamentos/clareamento-dental/ 301
 
 # URL antiga indexada (404) -> home (Caminho A)
 /dentista-barra-da-tijuca-3 / 301
@@ -49,6 +49,6 @@
 /facetas-barra-da-tijuca/ /tratamentos/facetas-de-porcelana/ 301
 
 # Consolidacao de Implante (duplicatas -> canonicas)
-/implante-dentario-mitos-e-verdades/ /implante-dentario/ 301
+/implante-dentario-mitos-e-verdades/ /tratamentos/implante-dentario/ 301
 /implante-dentario-barra-da-tijuca/ /tratamentos/implante-dentario/ 301
-/vantagens-do-uso-do-implante-dentario/ /implante-dentario/ 301
+/vantagens-do-uso-do-implante-dentario/ /tratamentos/implante-dentario/ 301
