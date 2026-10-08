@@ -13,6 +13,7 @@ faqs:
     answer: "Em média de 1 a 3 anos, variando conforme hábitos como consumo de café, vinho e tabaco. Retoques periódicos ajudam a manter o tom conquistado."
   - question: "Clareamento em consultório ou caseiro: qual escolher?"
     answer: "O de consultório usa géis mais concentrados e oferece resultado mais rápido; o caseiro supervisionado, com moldeiras, é gradual. Muitas vezes as duas técnicas são combinadas, e a indicação depende da avaliação do seu caso."
+canonical: https://mdfrossard.com.br/tratamentos/clareamento-dental/
 ---
 
 O **clareamento dental** é um dos tratamentos estéticos mais procurados em odontologia, porque melhora bastante a aparência do sorriso de forma relativamente simples.

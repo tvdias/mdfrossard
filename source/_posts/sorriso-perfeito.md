@@ -106,7 +106,7 @@ Indicadas para casos onde os dentes possuem grandes restaurações, manchas prof
 Não há sorriso perfeito sem alinhamento. O {% post_link invisalign-saiba-tudo-sobre-esse-tipo-de-aparelho-dentario "Invisalign" %} permite alinhar os dentes com placas transparentes, sem o desconforto e a aparência dos braquetes metálicos tradicionais.
 
 ### **4. Clareamento Dental Profissional**
-Muitas vezes, um dente bem posicionado precisa apenas de luminosidade. Nosso clareamento de consultório remove anos de {% post_link mancha-nos-dentes "manchas" %} de café e vinho em poucas sessões. {% post_link clareamento-dental "Veja os tipos" %}.
+Muitas vezes, um dente bem posicionado precisa apenas de luminosidade. Nosso clareamento de consultório remove anos de {% post_link mancha-nos-dentes "manchas" %} de café e vinho em poucas sessões. [Veja os tipos de clareamento](/tratamentos/clareamento-dental/).
 
 ### **5. Implantes Dentários**
 O sorriso só é perfeito se estiver completo. Os implantes devolvem a segurança na mastigação e a estética para quem perdeu um ou mais dentes, sendo uma das principais opções para repor dentes. {% post_link implante-dentario "Tudo sobre implantes" %}.

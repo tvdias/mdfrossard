@@ -21,6 +21,11 @@ class SiteMap {
         if (url === "/robots.txt") return false;
         // Excluir páginas que tenham noindex explícito no frontmatter
         if (item.data && item.data.noindex === true) return false;
+        // Excluir páginas que canonicalizam para OUTRA URL (consolidação)
+        if (item.data && item.data.canonical) {
+          const canon = new URL(item.data.canonical, data.config.url).pathname;
+          if (canon !== url) return false;
+        }
         return true;
       })
       .sort((a, b) => {

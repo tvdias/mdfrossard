@@ -54,7 +54,7 @@
     <!-- Custom CSS (inline p/ eliminar bloqueio de renderização) -->
     <style><%- inlineCss %></style>
 
-    <link rel="canonical" href="<%= new URL(pageUrl, config.url).toString() %>" />
+    <link rel="canonical" href="<%= (typeof canonical !== 'undefined' && canonical) ? canonical : new URL(pageUrl, config.url).toString() %>" />
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>  
     <link rel="alternate" type="application/atom+xml" title="Feed para <%= config.title %>" href="<%= config.url %>/atom.xml" />
     

@@ -11,7 +11,7 @@ Hoje quero compartilhar 5 dicas para **clarear os dentes.** São dicas fáceis d
 
 ## **1- Mantenha uma higiene adequada**
 
-O [clareamento dental](/clareamento-dental/) possibilita ter os dentes brancos e com estética. A escovação e o uso do fio dental mantêm por mais tempo o dente claro e saudável. 
+O [clareamento dental](/tratamentos/clareamento-dental/) possibilita ter os dentes brancos e com estética. A escovação e o uso do fio dental mantêm por mais tempo o dente claro e saudável. 
 
 Quando se realiza a {% post_link 7-dicas-faceis-para-a-sua-higiene-bucal "higiene dos dentes" %} corretamente, eliminamos substâncias que ficariam "presas" ao dentes, a chamada placa dental.
 

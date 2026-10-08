@@ -79,7 +79,7 @@ Assim, a correta indicação de cada caso é importante.
 
 Diversos pacientes apresentam a coloração alterada do dente. 
 
-Na maioria dos casos conseguimos melhorar a cor com {% post_link clareamento-dental "clareamento dentário" %}, porém existem alterações onde são necessários tratamentos mais invasivos. 
+Na maioria dos casos conseguimos melhorar a cor com [clareamento dentário](/tratamentos/clareamento-dental/), porém existem alterações onde são necessários tratamentos mais invasivos. 
 
 Alguns exemplos de [alteração de cor](/mancha-nos-dentes/) indicados para faceta de porcelana são:
 
