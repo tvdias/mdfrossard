@@ -598,9 +598,9 @@ section{padding:72px 0}
     <h2 class="section-title rv">Prefere que a gente<br>entre em contato?</h2>
     <p class="section-sub rv" style="margin:0 auto 30px">Deixe seu nome e WhatsApp. Nossa equipe da Barra retorna para agendar sua avaliação — no seu tempo.</p>
     <form class="lp-form-card rv" onsubmit="return mdfFormGo(this)">
-      <input name="nome" type="text" placeholder="Seu nome" required>
-      <input name="whatsapp" type="tel" placeholder="Seu WhatsApp (com DDD)" required>
-      <select name="tratamento">
+      <input name="nome" type="text" placeholder="Seu nome" aria-label="Seu nome" autocomplete="name" required>
+      <input name="whatsapp" type="tel" placeholder="Seu WhatsApp (com DDD)" aria-label="Seu WhatsApp (com DDD)" autocomplete="tel" inputmode="tel" required>
+      <select name="tratamento" aria-label="Tratamento de interesse (opcional)">
         <option value="">Tratamento de interesse (opcional)</option>
         <option>Implante dentário</option>
         <option>Tratamento de canal</option>
