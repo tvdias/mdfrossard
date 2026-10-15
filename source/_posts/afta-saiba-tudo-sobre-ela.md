@@ -73,7 +73,7 @@ Nem toda **afta** é igual. Elas variam em tamanho e tempo de recuperação:
 Na maioria absoluta dos casos, a **afta** cicatriza sozinha. O tratamento foca em aliviar a dor e acelerar o processo:
 
 * **Evite Irritantes:** Corte pimenta, álcool e alimentos ácidos enquanto a ferida estiver aberta.
-* **Higiene Impecável:** Mantenha uma [excelente higiene bucal](/escovacao-dos-dentes/) para evitar que bactérias infectem a ferida.
+* **Higiene Impecável:** Mantenha uma [excelente higiene bucal](/escovar-os-dentes/) para evitar que bactérias infectem a ferida.
 * **Medicação Tópica:** Pomadas específicas sob orientação do dentista podem criar uma película protetora que isola o nervo e alivia a dor na hora.
 
 > [!IMPORTANT]

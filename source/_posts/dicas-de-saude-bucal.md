@@ -19,7 +19,7 @@ Apesar de todos saberem a necessidade da correta escovação, muitos não pratic
 
 Além disso, quando o fazem, realizam da forma errada ou não dão a devida importância. 
 
-Na escovação dos nossos dentes, existe uma técnica correta para a sua higienização. [Você pode saber mais sobre ela aqui](/escovacao-dos-dentes/). 
+Na escovação dos nossos dentes, existe uma técnica correta para a sua higienização. [Você pode saber mais sobre ela aqui](/escovar-os-dentes/). 
 
 Se essa forma de escovação não for realizada, podemos não limpar os dentes de forma satisfatória. 
 
