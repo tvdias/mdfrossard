@@ -85,6 +85,8 @@
     /* Dark Gold */
     --brand-accent: #f9d876;
     /* Light Gold */
+    --brand-gold-text: #7a5c14;
+    /* Gold legivel em fundo claro (WCAG AA) */
 
     --bg-dark: #191816;
     /* Soft Chic Warm Black */
@@ -426,7 +428,7 @@ img {
 .nav-links>li>a:hover,
 .nav-links>li>a.active {
     opacity: 1;
-    color: var(--brand-primary);
+    color: var(--brand-gold-text);
 }
 
 .nav-links>li>a::after {
