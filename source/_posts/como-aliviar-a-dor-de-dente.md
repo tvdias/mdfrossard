@@ -2,7 +2,7 @@
 title: 'Como Aliviar a Dor de Dente: O Que Funciona (e O Que Piora)'
 author: Davi Heringer Frossard
 description: >-
-  Aprenda como aliviar a dor de dente em casa com segurança: gelo, analgésico, bochecho com sal e mais. Saiba o que funciona, o que é mito e quando ir ao dentista com urgência.
+  Como aliviar a dor de dente em casa com segurança: gelo, analgésico e bochecho com sal. Veja o que funciona, o que é mito e quando procurar o dentista.
 date: 2017-01-30T09:23:19.000Z
 updated: 2026-06-12T00:00:00.000Z
 featured_image: /images/9c134bd5-95a4-42f9-93bf-cea61ad74079_como-aliviar-a-dor-de-dente.webp

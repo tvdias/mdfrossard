@@ -1,7 +1,7 @@
 ---
-title: 'Clínica Odontológica na Barra da Tijuca — Città América | MD Frossard'
+title: 'Clínica Odontológica na Barra da Tijuca | MD Frossard'
 author: Davi Heringer Frossard
-description: "Clínica odontológica na Barra da Tijuca há 38 anos, no Shopping Città América. Implantes, facetas e reabilitação oral com 3 especialistas titulados. Agende sua avaliação."
+description: "Clínica odontológica na Barra da Tijuca há 38 anos, no Shopping Città América. Implantes, facetas e reabilitação oral. Agende sua avaliação."
 date: 2014-05-12T11:02:32.000Z
 updated: 2026-05-17T00:00:00.000Z
 featured_image: /images/uploads/2024/dentista_barra_da_tijuca_md.webp
@@ -143,6 +143,7 @@ Nossa clínica fica no **Shopping Città América — Av. das Américas, 700, Bl
 
 <p style="text-align: center;">
   <iframe
+    title="Mapa — Dentista na Barra da Tijuca, MD Frossard (Shopping Città América)"
     src="https://maps.google.com/maps?q=Shopping+Citt%C3%A0+Am%C3%A9rica+Av+das+Am%C3%A9ricas+700+Barra+da+Tijuca+Rio+de+Janeiro&t=m&z=15&output=embed&iwloc=near"
     width="100%"
     height="300"

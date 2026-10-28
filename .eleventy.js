@@ -318,6 +318,7 @@ module.exports = function(eleventyConfig) {
     rendered = rendered.replace(/(?:<p>|<h\d>)\s*{%\s*youtube\s+([a-zA-Z0-9_-]+)\s*%}\s*(?:<\/p>|<\/h\d>)/g, (match, id) => {
       return `<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 40px 0; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
         <iframe src="https://www.youtube.com/embed/${id}" 
+                title="Vídeo do YouTube — MD Frossard Odontologia" 
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
                 allowfullscreen 
                 loading="lazy">
@@ -329,6 +330,7 @@ module.exports = function(eleventyConfig) {
     rendered = rendered.replace(/{%\s*youtube\s+([a-zA-Z0-9_-]+)\s*%}/g, (match, id) => {
       return `<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 40px 0; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
         <iframe src="https://www.youtube.com/embed/${id}" 
+                title="Vídeo do YouTube — MD Frossard Odontologia" 
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
                 allowfullscreen 
                 loading="lazy">

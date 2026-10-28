@@ -1,9 +1,7 @@
 ---
 title: Como passar o fio dental corretamente — e por que isso muda tudo
 description: >-
-  Usar o fio dental corretamente é tão importante quanto escovar os dentes. Saiba
-  a técnica certa, por que tantos pacientes ignoram esse hábito e como isso leva
-  às cáries interproximais, as mais difíceis de detectar.
+  Usar o fio dental corretamente é tão importante quanto escovar. Saiba a técnica certa e como evitar as cáries interproximais, as mais difíceis de detectar.
 date: 2016-09-26T10:00:11.000Z
 featured_image: /images/b8b93044-cb6e-4b48-80a9-e254ad96249f_uso-fio-dental.webp
 ---

@@ -130,6 +130,7 @@ Nossa clínica fica na **Rua Marques, 15**, ao lado da Cobal do Humaitá, próxi
 
 <p style="text-align: center;">
   <iframe
+    title="Mapa — Dentista em Botafogo, MD Frossard (Rua Marques, 15 — Humaitá)"
     src="https://maps.google.com/maps?q=-22.9542345,-43.1964878&t=m&z=16&output=embed&iwloc=near"
     width="100%"
     height="300"
