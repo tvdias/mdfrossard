@@ -1,12 +1,10 @@
 ---
 title: 'Dentista em Ipanema: atendimento na MD Frossard (Humaitá)'
 author: Davi Heringer Frossard
-description: "Mora em Ipanema e procura dentista? A MD Frossard atende no Humaitá, ao lado da Cobal, a poucos minutos pela Lagoa. Estética, facetas, implante e prótese."
+description: "Procura dentista em Ipanema? A MD Frossard fica no Humaitá, do outro lado da Lagoa. Facetas, lentes, clareamento e implante com a mesma equipe."
 date: 2026-10-28T10:00:00.000Z
 updated: 2026-10-29T10:00:00.000Z
-featured_image: /images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp
-hero_srcset: "/images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo-800.webp 800w, /images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp 1600w"
-hero_sizes: "(min-width: 780px) 780px, 100vw"
+featured_image: /images/0e386db3-b00a-43ce-861a-5c52561818c1_dentes-de-porcelana-estetica.webp
 is_location_page: true
 faqs:
   - question: A MD Frossard tem unidade em Ipanema?
@@ -112,7 +110,7 @@ Conheça também a nossa [unidade da Barra da Tijuca](/dentista-barra-da-tijuca/
   "@id": "https://mdfrossard.com.br/dentista-ipanema/#dentist-ipanema",
   "name": "MD Frossard Odontologia — Atendimento para Ipanema",
   "url": "https://mdfrossard.com.br/dentista-ipanema/",
-  "image": "https://mdfrossard.com.br/images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp",
+  "image": "https://mdfrossard.com.br/images/0e386db3-b00a-43ce-861a-5c52561818c1_dentes-de-porcelana-estetica.webp",
   "logo": "https://mdfrossard.com.br/images/logo-MD.jpg",
   "description": "Clínica odontológica no Humaitá, próxima a Ipanema, com 38 anos de experiência. Estética dental, facetas, implantes, prótese, ortodontia, endodontia e periodontia.",
   "telephone": "+5521976637803",

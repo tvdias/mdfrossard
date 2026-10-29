@@ -1,12 +1,10 @@
 ---
 title: 'Dentista no Leblon: atendimento na MD Frossard (Humaitá)'
 author: Davi Heringer Frossard
-description: "Mora no Leblon e procura dentista? A MD Frossard atende no Humaitá, ao lado da Cobal, a poucos minutos pela Lagoa. Implante, reabilitação oral, prótese e canal."
+description: "Dentista para quem é do Leblon: a MD Frossard atende no Humaitá, perto pela Lagoa. Implante, reabilitação, prótese e canal com equipe fixa."
 date: 2026-10-28T10:05:00.000Z
 updated: 2026-10-29T10:05:00.000Z
-featured_image: /images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp
-hero_srcset: "/images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo-800.webp 800w, /images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp 1600w"
-hero_sizes: "(min-width: 780px) 780px, 100vw"
+featured_image: /images/4600868e-5918-4fc5-af50-58508b12afea_reabilitacao-dos-dentes.webp
 is_location_page: true
 faqs:
   - question: A MD Frossard tem unidade no Leblon?
@@ -112,7 +110,7 @@ Conheça também a nossa [unidade da Barra da Tijuca](/dentista-barra-da-tijuca/
   "@id": "https://mdfrossard.com.br/dentista-leblon/#dentist-leblon",
   "name": "MD Frossard Odontologia — Atendimento para o Leblon",
   "url": "https://mdfrossard.com.br/dentista-leblon/",
-  "image": "https://mdfrossard.com.br/images/ddc9a145-b8f8-4708-a1fe-472d04233071_Dentista-botafogo.webp",
+  "image": "https://mdfrossard.com.br/images/4600868e-5918-4fc5-af50-58508b12afea_reabilitacao-dos-dentes.webp",
   "logo": "https://mdfrossard.com.br/images/logo-MD.jpg",
   "description": "Clínica odontológica no Humaitá, próxima ao Leblon, com 38 anos de experiência. Implante dentário, reabilitação oral, prótese, endodontia, periodontia e ortodontia.",
   "telephone": "+5521976637803",
