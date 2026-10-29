@@ -21,27 +21,15 @@ faqs:
     answer: "Atendemos de segunda a sexta-feira, das 8h às 18h. Para urgências fora desse horário, mantemos canal de atendimento pelo WhatsApp (21) 97663-7803."
 ---
 
-## Dentista em Botafogo: Tradição e Especialização no Coração da Zona Sul
+## Dentista em Botafogo: a MD Frossard no Humaitá
 
-Se você procura um **dentista em Botafogo** que una experiência consolidada e tecnologia moderna, a **MD Frossard Odontologia** está a poucos passos de você. Com mais de 38 anos de presença no bairro, nossa clínica atende pacientes de Botafogo, Humaitá, Flamengo, Laranjeiras e toda a Zona Sul do Rio de Janeiro.
+A MD Frossard atende em Botafogo há mais de 38 anos. A clínica fica na Rua Marques, 15, ao lado da Cobal do Humaitá e perto do Largo dos Leões, de fácil acesso de metrô ou de carro. Recebemos pacientes de Botafogo, Humaitá, Flamengo, Laranjeiras e de toda a Zona Sul do Rio.
 
-Nossa unidade fica na **Rua Marques, 15**, ao lado da Cobal do Humaitá e próximo ao Largo dos Leões — um endereço fácil de acessar tanto de metrô quanto de carro.
+Para falar com a equipe, ligue para **(21) 97663-7803** ou mande uma [mensagem no WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).
 
-Ligue para **(21) 97663-7803** ou envie uma **[mensagem via WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)** para falar com nossa equipe.
+## Por que escolher a clínica
 
----
-
-## Por que escolher nossa clínica de Dentista em Botafogo?
-
-Escolher o dentista certo envolve confiança, qualidade técnica e respeito ao seu tempo. Nossa unidade de Botafogo se destaca por:
-
-- ✅ **Localização Central:** Rua Marques, 15 — ao lado da Cobal do Humaitá, a 10 minutos da estação de metrô Botafogo.
-
-- ✅ **Equipe Estável:** Você é atendido pelos mesmos especialistas do início ao fim do tratamento. Sem rotatividade de profissionais.
-
-- ✅ **Atendimento sem Atraso:** Trabalhamos com hora marcada e pontualidade é um valor inegociável da clínica.
-
-- ✅ **Odontologia Completa:** Implantes, estética, canal, gengiva, prótese e ortodontia — tudo em um único lugar.
+Escolher dentista tem a ver com confiança e com respeito ao seu tempo. Na unidade de Botafogo você é atendido pelos mesmos especialistas do começo ao fim do tratamento, sem troca de profissional no meio do caminho. Trabalhamos com hora marcada e levamos a pontualidade a sério. E é uma clínica completa: [implante](/tratamentos/implante-dentario/), estética, canal, gengiva, prótese e ortodontia ficam no mesmo lugar, a cerca de dez minutos a pé da Estação Botafogo.
 
 <br>
 
@@ -51,34 +39,15 @@ Escolher o dentista certo envolve confiança, qualidade técnica e respeito ao s
 
 <br>
 
----
+## A equipe
 
-## Especialistas à sua disposição em Botafogo
+Nossa [equipe](/equipe/) é formada por especialistas titulados, cada um na sua área.
 
-Nossa [equipe](/equipe/) é formada por especialistas titulados, cada um com foco em sua área de atuação:
+O [Dr. Marcos Frossard](/equipe/marcos/), formado pela UEL, atua há mais de 30 anos em reabilitação oral, prótese e estética, com foco em casos complexos. O [Dr. Davi Frossard](/equipe/davi/), formado pela UERJ e especialista em Implantodontia pela São Leopoldo Mandic, cuida de cirurgias guiadas, implantes e reabilitação, e dá aula em cursos de pós-graduação. A [Dra. Luciana Vieira Peroni](/equipe/luciana/), formada pela UERJ e com mestrado pela FO-UERJ, atende prótese e endodontia de adultos e crianças. A [Dra. Carolina Ganimi](/equipe/carolina/), formada pela UNESA, conduz a ortodontia, com aparelhos fixos, estéticos e alinhadores transparentes. E a [Dra. Magali Ribeiro](/equipe/magali/), professora de Periodontia no IOPUC-RJ, com mestrado e doutorado pela UERJ, cuida da gengiva.
 
-- 👨‍⚕️ **[Dr. Marcos Frossard ➔](/equipe/marcos/):** Formado pela UEL, com mais de 30 anos de experiência em Reabilitação Oral, Prótese e Estética. Referência no tratamento de casos complexos.
+## A primeira consulta
 
-- 👨‍⚕️ **[Dr. Davi Frossard ➔](/equipe/davi/):** Formado pela UERJ, especialista em Implantodontia pela São Leopoldo Mandic. Atua em cirurgias guiadas, implantes e reabilitação. Docente em cursos de pós-graduação.
-
-- 👩‍⚕️ **[Dra. Luciana Vieira Peroni ➔](/equipe/luciana/):** Formada pela UERJ, com especialização em Prótese Dentária e Mestrado pela FO-UERJ. Atua em prótese e endodontia para adultos e crianças.
-
-- 👩‍⚕️ **[Dra. Carolina Ganimi ➔](/equipe/carolina/):** Formada pela UNESA, ortodontista da clínica. Conduz tratamentos de alinhamento dentário com aparelhos fixos, estéticos e alinhadores transparentes.
-
-- 👩‍⚕️ **[Dra. Magali Ribeiro ➔](/equipe/magali/):** Graduação PUC-RS, especialização UFRGS, Mestrado e Doutorado pela UERJ. Professora de Periodontia no IOPUC-RJ. Referência no tratamento de gengiva.
-
----
-
-## Sua primeira consulta: diagnóstico transparente
-
-Em sua primeira visita ao nosso **dentista em Botafogo**, você recebe uma avaliação completa que inclui:
-
-1. 🔎 Análise da **[saúde gengival e tecidos de suporte ➔](/tratamentos/periodontia/)**.
-2. 🦷 Verificação das restaurações e próteses existentes.
-3. ✨ Avaliação da **[estética do sorriso ➔](/tratamentos/estetica-dental/)** em relação à harmonia facial.
-4. 🗣️ Discussão honesta sobre expectativas e opções de tratamento.
-
-Você sai da consulta com um plano claro em mãos — sem surpresas.
+Na primeira visita fazemos uma avaliação completa. Olhamos a [saúde da gengiva e dos tecidos de suporte](/tratamentos/periodontia/), conferimos as restaurações e próteses que você já tem e avaliamos a [estética do sorriso](/tratamentos/estetica-dental/) em relação ao rosto. No fim, conversamos de forma honesta sobre o que dá para fazer e sobre o que você espera. Você sai com um plano claro em mãos e sem compromisso de fechar na hora.
 
 <br>
 
@@ -88,49 +57,36 @@ Você sai da consulta com um plano claro em mãos — sem surpresas.
 
 <br>
 
----
-
 ## O que nossos pacientes dizem
 
 > "Minha experiência foi maravilhosa, aumentou muito minha autoestima. Antes eu não sorria nas fotos, meus dentes não apareciam. Depois do trabalho executado por Dr. Marcos, Dr. Davi e equipe, vivo sorrindo. Profissionais competentes e abençoados."
-> — **Célia Regina Paiva**
+> — Célia Regina Paiva
 
-> "Fiquei super satisfeito com o processo e resultado do tratamento estético que fiz na MD Frossard. Nota 10 em todos os quesitos. Além da expertise profissional, destaque para o clima de gentileza, pontualidade e responsabilidade."
-> — **Otávio Azevedo**
+> "Fiquei super satisfeito com o processo e resultado do tratamento estético que fiz na MD Frossard. Nota 10 em todos os quesitos. Destaque para o clima de gentileza, pontualidade e responsabilidade."
+> — Otávio Azevedo
 
-> "Sou cliente do Dr. Marcos Frossard desde 2003. Tive a oportunidade de fazer diversos trabalhos, muitos dos quais complexos, com resultados que me deixaram 100% satisfeita. Além de excelente profissional, tornou-se um dileto amigo da família."
-> — **Andrea Bastianelli Maciel**
+> "Sou cliente do Dr. Marcos Frossard desde 2003. Fiz diversos trabalhos, muitos complexos, com resultados que me deixaram muito satisfeita. Além de excelente profissional, virou um amigo da família."
+> — Andrea Bastianelli Maciel
 
-Veja mais **[depoimentos de pacientes reais ➔](/depoimentos/)**.
+Veja mais relatos na página de [depoimentos](/depoimentos/).
 
----
+## Tratamentos na unidade de Botafogo
 
-## Tratamentos disponíveis na unidade de Botafogo
+Aqui você encontra [implante dentário](/tratamentos/implante-dentario/) para repor dentes perdidos, [prótese](/tratamentos/protese-dentaria/) (coroas, pontes e prótese sobre implante), [facetas e lentes de contato dental](/tratamentos/estetica-dental/), [tratamento de canal](/tratamentos/endodontia/) feito com anestesia e tecnologia de precisão, [tratamento de gengiva](/tratamentos/periodontia/) com a Dra. Magali, e [ortodontia](/tratamentos/ortodontia/) para todas as idades.
 
-- 🔸 **[Implante Dentário ➔](/tratamentos/implante-dentario/)** — Reposição de dentes perdidos com implantes de titânio e resultado natural.
-- 🔸 **[Prótese Dentária ➔](/tratamentos/protese-dentaria/)** — Coroas, pontes e próteses sobre implante para restaurar função e estética.
-- 🔸 **[Facetas e Lentes de Contato Dental ➔](/tratamentos/estetica-dental/)** — Transformação do sorriso com resultado natural e duradouro.
-- 🔸 **[Tratamento de Canal (Endodontia) ➔](/tratamentos/endodontia/)** — Procedimentos realizados com anestesia eficaz e tecnologia de precisão.
-- 🔸 **[Tratamento de Gengiva (Periodontia) ➔](/tratamentos/periodontia/)** — Controle de gengivite e doença periodontal com a Dra. Magali, doutora pela UERJ.
-- 🔸 **[Ortodontia ➔](/tratamentos/ortodontia/)** — Aparelhos fixos metálicos, estéticos e alinhadores transparentes para todas as idades.
+Também atendemos na [unidade da Barra da Tijuca](/dentista-barra-da-tijuca/), com a mesma equipe e a mesma estrutura.
 
-Também atendemos em nossa **[unidade da Barra da Tijuca ➔](/dentista-barra-da-tijuca/)** com a mesma infraestrutura e equipe.
+## Como chegar
 
----
+A clínica fica na Rua Marques, 15, ao lado da Cobal do Humaitá, perto do Largo dos Leões.
 
-## Como chegar à nossa clínica em Botafogo
-
-Nossa clínica fica na **Rua Marques, 15**, ao lado da Cobal do Humaitá, próxima ao Largo dos Leões.
-
-- **De metrô:** Estação Botafogo (Linha 1 — laranja), aproximadamente 10 minutos a pé.
-- **De ônibus:** Diversas linhas circulam pela Rua Voluntários da Pátria e pela Rua Humaitá.
-- **De carro:** Estacionamento disponível na Rua Marques e redondezas.
+De metrô, a Estação Botafogo (Linha 1) fica a cerca de dez minutos a pé. De ônibus, várias linhas passam pela Rua Voluntários da Pátria e pela Rua Humaitá. De carro, há estacionamento na Rua Marques e nas redondezas.
 
 <br>
 
 <p style="text-align: center;">
   <iframe
-    title="Mapa — Dentista em Botafogo, MD Frossard (Rua Marques, 15 — Humaitá)"
+    title="Mapa — Dentista em Botafogo, MD Frossard (Rua Marques, 15, Humaitá)"
     src="https://maps.google.com/maps?q=-22.9542345,-43.1964878&t=m&z=16&output=embed&iwloc=near"
     width="100%"
     height="300"
@@ -141,31 +97,27 @@ Nossa clínica fica na **Rua Marques, 15**, ao lado da Cobal do Humaitá, próxi
   </iframe>
 </p>
 
----
-
 ## Perguntas frequentes
 
 **Vocês atendem por convênio em Botafogo?**
-Nosso atendimento é particular em ambas as unidades. Trabalhamos com parcelamento e fornecemos documentação para reembolso junto ao plano odontológico, quando aplicável.
+O atendimento é particular nas duas unidades. Há parcelamento, e fornecemos a documentação para quem quer pedir reembolso ao plano odontológico.
 
 **Qual o horário de atendimento?**
-De segunda a sexta, das 8h às 18h. Agendamentos pelo telefone **(21) 97663-7803** ou pelo **[WhatsApp (21) 97663-7803 ➔](https://api.whatsapp.com/send?phone=5521976637803)**.
+De segunda a sexta, das 8h às 18h. O agendamento é pelo telefone (21) 97663-7803 ou pelo [WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).
 
-**Preciso marcar consulta ou posso ir sem agendamento?**
-O atendimento é sempre com hora marcada, garantindo pontualidade e dedicação exclusiva ao seu caso.
+**Preciso marcar ou posso aparecer?**
+Sempre com hora marcada. É assim que a gente garante pontualidade e tempo dedicado ao seu caso.
 
 **A clínica atende crianças?**
-Sim. A Dra. Luciana Vieira Peroni realiza atendimento infantil e adulto na unidade.
+Sim. A Dra. Luciana Vieira Peroni faz atendimento infantil e adulto na unidade.
 
----
+## Agende sua avaliação
 
-## Agende sua avaliação hoje mesmo
+Se você mora em Botafogo, no Humaitá, no Flamengo ou na Zona Sul e procura um dentista em Botafogo com experiência de verdade e equipe fixa, venha conhecer a clínica.
 
-Se você mora em Botafogo, Humaitá, Flamengo ou na Zona Sul e procura um **dentista em Botafogo** com experiência real e equipe estável, venha nos conhecer.
-
-- **📞 Telefone:** (21) 97663-7803
-- **💬 WhatsApp:** **[Falar agora ➔](https://api.whatsapp.com/send?phone=5521976637803)**
-- **📍 Endereço:** **[Rua Marques, 15 — Botafogo ➔](/localizacao/)**
+- Telefone: (21) 97663-7803
+- WhatsApp: [falar agora](https://api.whatsapp.com/send?phone=5521976637803)
+- Endereço: [Rua Marques, 15, Humaitá](/localizacao/)
 
 <script type="application/ld+json">
 {
