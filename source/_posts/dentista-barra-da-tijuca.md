@@ -23,29 +23,15 @@ faqs:
     answer: "Sim. Atendemos pacientes de toda a região Oeste do Rio: Barra da Tijuca, Recreio dos Bandeirantes, Jacarepaguá, São Conrado, Itanhangá e Joá. Nossa localização no Shopping Città América (Av. das Américas, 700) facilita o acesso por todas essas regiões."
 ---
 
-> Procurando um **[dentista na Barra da Tijuca](/)**? Esta página apresenta a nossa unidade no Shopping Città América. Conheça a estrutura e a equipe abaixo, ou fale agora pelo **[WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)**.
+## Clínica odontológica na Barra da Tijuca: a unidade da MD Frossard
 
-## Sobre a nossa unidade na Barra da Tijuca
+A MD Frossard atende na Barra da Tijuca dentro do Shopping Città América, na Av. das Américas, 700 (Bloco 2, Sala 143). São mais de 38 anos de odontologia no Rio, no modelo particular, com os mesmos especialistas acompanhando cada paciente do começo ao fim do tratamento. Recebemos quem é da Barra, do Recreio dos Bandeirantes, de Jacarepaguá, São Conrado, Itanhangá e Joá.
 
-Se você procura uma **clínica odontológica na Barra da Tijuca** que una tradição familiar e tecnologia moderna, conheça a **MD Frossard Odontologia**. Com mais de 38 anos de atuação no Rio de Janeiro, nossa unidade na Barra oferece atendimento particular, com foco em resultados estéticos e funcionais e no conforto do paciente.
+Para falar com a equipe, ligue para **(21) 97663-7803** ou mande uma [mensagem no WhatsApp](https://api.whatsapp.com/send?phone=5521976637803).
 
-Localizada no conceituado **Shopping Città America** (Bloco 2, Sala 143), nossa clínica oferece conveniência, segurança e uma infraestrutura tecnológica completa para cuidar do seu sorriso. Atendemos pacientes da Barra da Tijuca, Recreio dos Bandeirantes, Jacarepaguá, São Conrado, Itanhangá e Joá.
+## Por que escolher a clínica
 
-Ligue para **(21) 97663-7803** ou envie uma **[mensagem via WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)** para falar diretamente com nossa equipe.
-
----
-
-## Por que escolher nossa clínica odontológica na Barra da Tijuca?
-
-Escolher uma **clínica dentária na Barra da Tijuca** envolve avaliar minuciosamente a facilidade de acesso, as recomendações e a qualidade do suporte oferecido. Nossa unidade se destaca por:
-
-- ✅ **Localização Estratégica:** Situada na Av. das Américas, com fácil acesso pelo Metrô Jardim Oceânico e BRT.
- 
-- ✅ **Conforto e Conveniência:** Estacionamento amplo no próprio **[Città America ➔](https://cittaofficemall.com.br/site/)** e proximidade com o shopping Downtown.
- 
-- ✅ **Equipe Presente:** Aqui, você é atendido pelos sócios-diretores. Não há rotatividade de profissionais; seu tratamento é acompanhado do início ao fim pelo mesmo especialista.
- 
-- ✅ **Tecnologia Digital:** Utilizamos scanners intraorais e planejamento digital para maior precisão em implantes e estética.
+O acesso é simples: o [Città América](https://cittaofficemall.com.br/site/) fica na Av. das Américas, a poucos metros do metrô Jardim Oceânico, perto do Downtown, e tem estacionamento coberto no próprio shopping. Dentro da clínica, quem te atende são os sócios da casa, não há troca de profissional no meio do tratamento, e o planejamento de implantes e de estética é feito com scanner intraoral e imagem digital.
 
 <br>
 
@@ -55,32 +41,13 @@ Escolher uma **clínica dentária na Barra da Tijuca** envolve avaliar minuciosa
 
 <br>
 
----
+## A equipe
 
-## Especialistas à sua disposição
+O [Dr. Marcos Frossard](/equipe/marcos/) (CRO-RJ 8058) cuida de prótese e reabilitação oral. O [Dr. Davi Frossard](/equipe/davi/) (CRO-RJ 36193) é especialista em Implantodontia pela São Leopoldo Mandic e atua em cirurgias guiadas e reabilitações mais complexas. A [Dra. Luciana Peroni](/equipe/luciana/) (CRO-RJ 38219) faz prótese e endodontia. As especialidades trabalham juntas, para que a parte funcional e a estética andem no mesmo plano. EPAO 3415. Responsável técnico: Dr. Davi Frossard (CRO-RJ 36193).
 
-Como sua **clínica dentária na Barra da Tijuca**, nossa equipe é liderada por uma equipe de especialistas apaixonados pela odontologia:
+## A primeira consulta
 
-- 👨‍⚕️ **[Dr. Marcos Frossard ➔](/equipe/marcos/)** (CRO-RJ 8058): Referência em Prótese e Reabilitação Oral.
- 
-- 👨‍⚕️ **[Dr. Davi Frossard ➔](/equipe/davi/)** (CRO-RJ 36193): Especialista em Implantodontia, focado em cirurgias guiadas e reabilitação complexa.
- 
-- 👩‍⚕️ **[Dra. Luciana Peroni ➔](/equipe/luciana/)** (CRO-RJ 38219): Especialista em Prótese dentária e Endodontia, com vasta experiência em atendimento humanizado.
-
-A integração entre as diversas especialidades nos permite oferecer uma visão 360º do seu tratamento, garantindo que a saúde bucal e a estética caminhem sempre juntas. **EPAO 3415 — Responsável Técnico: Dr. Davi Frossard (CRO-RJ 36193).**
-
----
-
-## Sua primeira consulta: Um diagnóstico Transparente
-
-Acreditamos que a base de um bom tratamento é um diagnóstico detalhado. Em sua primeira visita à nossa **clínica odontológica na Barra da Tijuca**, realizamos uma avaliação rigorosa que inclui:
-
-1. 🔎 Análise aprofundada da **[saúde da gengiva e tecidos de suporte ➔](/tratamentos/periodontia/)**.
-2. 🦷 Verificação da integridade das restaurações e próteses existentes.
-3. ✨ Avaliação da **[estética do sorriso ➔](/tratamentos/estetica-dental/)** em relação à harmonia facial.
-4. 🗣️ Discussão aberta e honesta sobre as suas expectativas e necessidades.
-
-Nosso objetivo principal é que você saia da consulta com todas as suas dúvidas esclarecidas e um plano de tratamento claro em mãos.
+A primeira visita é de diagnóstico. Avaliamos a [saúde da gengiva e dos tecidos de suporte](/tratamentos/periodontia/), conferimos as restaurações e próteses que você já tem e analisamos a [estética do sorriso](/tratamentos/estetica-dental/) em relação ao rosto. Depois conversamos de forma aberta sobre o que você espera. Você sai com as dúvidas esclarecidas e com um plano de tratamento claro.
 
 <br>
 
@@ -90,35 +57,27 @@ Nosso objetivo principal é que você saia da consulta com todas as suas dúvida
 
 <br>
 
----
+## O que nossos pacientes dizem
 
-## O que nossos pacientes compartilham
+> "Sempre tive pânico de dentista, o que me afastou das consultas por 15 anos. Na MD Frossard, fui acolhida com tanto carinho e profissionalismo que superei meu medo. O resultado estético foi ótimo."
+> — Larissa Rodrigues
 
-Nada nos orgulha mais do que os sorrisos e a gratidão de nossos pacientes. Veja por que somos considerados uma das **clínicas odontológicas na Barra da Tijuca** mais bem avaliadas:
+> "A competência técnica do Dr. Davi e do Dr. Marcos é indiscutível, mas o que impressiona mesmo é a pontualidade e o respeito com o tempo do paciente. Nota 10."
+> — Otávio Azevedo
 
-> "Sempre tive pânico de dentista, o que me afastou das consultas por 15 anos. Na MD Frossard, fui acolhida com tanto carinho e profissionalismo que superei meu medo. O resultado estético foi transformador!"
-> — **Larissa Rodrigues**
+> "Sou paciente há décadas e não troco por nada. A delicadeza e o cuidado são constantes na MD Frossard."
+> — Sofia Ardo
 
-> "A competência técnica do Dr. Davi e do Dr. Marcos é indiscutível, mas o que realmente impressiona é a pontualidade e o respeito com o tempo do paciente. Nota 10!"
-> — **Otávio Azevedo**
+Tem mais relatos na página de [depoimentos](/depoimentos/).
 
-> "Sou paciente há décadas e não troco por nada. A delicadeza e o padrão de excelência são constantes na MD Frossard."
-> — **Sofia Ardo**
+## Tratamentos na unidade da Barra
 
-Deseja ver mais relatos? **[Acesse nossa página de depoimentos reais ➔](/depoimentos/)**.
-
----
-
-## Soluções Completas para o seu Sorriso
-
-Atendemos todas as necessidades odontológicas na nossa **clínica dentária na Barra da Tijuca**:
-
-- 🔸 **[Implantes de Alta Carga ➔](/tratamentos/implante-dentario/)**
-- 🔸 **[Lentes de Contato e Facetas ➔](/tratamentos/estetica-dental/)**
-- 🔸 **[Tratamento de Canal (Endodontia) ➔](/tratamentos/endodontia/)**
-- 🔸 **[Tratamento de Gengiva (Periodontia) ➔](/tratamentos/periodontia/)**
-- 🔸 **[Prótese Dentária ➔](/tratamentos/protese-dentaria/)**
-- 🔸 **[Clareamento Dental ➔](/tratamentos/estetica-dental/)**
+- [Implante dentário](/tratamentos/implante-dentario/), de unitário a reabilitação completa com carga imediata
+- [Facetas e lentes de contato dental](/tratamentos/estetica-dental/)
+- [Clareamento dental](/tratamentos/clareamento-dental/)
+- [Tratamento de canal](/tratamentos/endodontia/)
+- [Tratamento de gengiva](/tratamentos/periodontia/)
+- [Prótese dentária](/tratamentos/protese-dentaria/)
 
 <br>
 
@@ -128,16 +87,14 @@ Atendemos todas as necessidades odontológicas na nossa **clínica dentária na 
 
 <br>
 
----
+## Como chegar
 
-## Como chegar ao nosso consultório na Barra da Tijuca
+A clínica fica no Shopping Città América, na Av. das Américas, 700 (Bloco 2, Sala 143).
 
-Nossa clínica fica no **Shopping Città América — Av. das Américas, 700, Bloco 2, Sala 143**, com fácil acesso por diferentes meios de transporte:
-
-- 🚇 **Metrô:** Estação Jardim Oceânico (Linha 4 — amarela), a poucos metros do shopping.
-- 🚌 **BRT:** Estação Alvorada (corredor Transoeste), com conexão direta para a Av. das Américas.
-- 🚍 **Ônibus:** Diversas linhas circulam pela Av. das Américas com parada em frente ao Shopping Città América.
-- 🚗 **De carro:** Estacionamento amplo e coberto no próprio shopping, com entrada pela Av. das Américas.
+- Metrô: Estação Jardim Oceânico (Linha 4, amarela), a poucos metros do shopping.
+- BRT: Estação Alvorada, no corredor Transoeste.
+- Ônibus: várias linhas passam pela Av. das Américas, com parada em frente ao shopping.
+- Carro: estacionamento coberto no próprio Città América, com entrada pela Av. das Américas.
 
 <br>
 
@@ -154,47 +111,39 @@ Nossa clínica fica no **Shopping Città América — Av. das Américas, 700, Bl
   </iframe>
 </p>
 
----
-
-## Perguntas Frequentes
+## Perguntas frequentes
 
 **Onde fica a clínica de dentista na Barra da Tijuca?**
-Nossa clínica fica no Shopping Città América — Av. das Américas, 700, Bloco 2, Sala 143, Barra da Tijuca, Rio de Janeiro. Acesso fácil pelo Metrô Jardim Oceânico (Linha 4 — amarela), pelo BRT Alvorada e estacionamento próprio no shopping.
+No Shopping Città América, na Av. das Américas, 700, Bloco 2, Sala 143, Barra da Tijuca. O acesso é fácil pelo metrô Jardim Oceânico (Linha 4, amarela), pelo BRT Alvorada e pelo estacionamento do shopping.
 
 **Qual o horário de atendimento na Barra da Tijuca?**
-Atendemos de segunda a sexta, das 8h às 18h. O agendamento é feito pelo telefone (21) 97663-7803 ou pelo WhatsApp (21) 97663-7803.
+De segunda a sexta, das 8h às 18h. O agendamento é pelo telefone (21) 97663-7803 ou pelo WhatsApp.
 
 **Vocês atendem por convênio na Barra da Tijuca?**
-Nosso atendimento é particular. Trabalhamos com parcelamento e fornecemos documentação para reembolso junto ao seu plano odontológico, quando aplicável.
+O atendimento é particular. Há parcelamento, e fornecemos a documentação para quem quer pedir reembolso ao plano odontológico.
 
-**Como agendar consulta com o dentista na Barra da Tijuca?**
-Pelo telefone (21) 97663-7803 ou pelo WhatsApp (21) 97663-7803. O atendimento é sempre com hora marcada para garantir pontualidade e dedicação exclusiva ao seu caso.
+**Como agendar consulta?**
+Pelo telefone (21) 97663-7803 ou pelo WhatsApp. O atendimento é sempre com hora marcada, para garantir pontualidade e tempo dedicado ao seu caso.
 
 **Vocês fazem implante dentário na Barra da Tijuca?**
-Sim. O Dr. Davi Frossard é especialista em Implantodontia pela São Leopoldo Mandic e realiza desde implantes unitários até reabilitações completas com carga imediata, com planejamento digital e guia cirúrgico.
+Sim. O Dr. Davi Frossard é especialista em Implantodontia pela São Leopoldo Mandic e faz desde implantes unitários até reabilitações completas com carga imediata, com planejamento digital e guia cirúrgico.
 
 **Atendem pacientes do Recreio, Jacarepaguá e São Conrado?**
-Sim. Atendemos pacientes de toda a região Oeste do Rio: Barra da Tijuca, Recreio dos Bandeirantes, Jacarepaguá, São Conrado, Itanhangá e Joá. Nossa localização no Shopping Città América (Av. das Américas, 700) facilita o acesso por todas essas regiões.
+Sim. Atendemos toda a região Oeste do Rio: Barra da Tijuca, Recreio dos Bandeirantes, Jacarepaguá, São Conrado, Itanhangá e Joá. A localização no Città América facilita o acesso de todas essas regiões.
 
----
+## Conheça mais sobre a clínica na Barra
 
-## Conheça mais sobre a nossa clínica na Barra
+- [Como escolher um dentista na Barra da Tijuca](/dentistas-na-barra-da-tijuca/): o que avaliar antes da primeira consulta.
+- [Estrutura da clínica na Barra](/clinica-odontologica-barra-da-tijuca/): salas, equipamentos e biossegurança.
+- [Avaliações dos nossos pacientes](/dentista-mais-bem-avaliados-barra-da-tijuca/): nota 5,0 no Google.
 
-- [Como escolher um dentista na Barra da Tijuca: 7 critérios](/dentistas-na-barra-da-tijuca/) — o que avaliar antes de marcar a primeira consulta.
-- [Estrutura da clínica odontológica na Barra](/clinica-odontologica-barra-da-tijuca/) — salas, equipamentos e biossegurança.
-- [Avaliações reais dos nossos pacientes](/dentista-mais-bem-avaliados-barra-da-tijuca/) — nota 5,0 no Google.
+## Agende sua visita
 
----
+Se você mora na Barra, no Recreio ou em Jacarepaguá e procura um dentista com equipe fixa e hora marcada, venha conhecer a clínica no Città América.
 
-## Agende sua visita hoje mesmo
-
-Se você valoriza pontualidade, tecnologia de ponta e um atendimento que entende de verdade as suas necessidades, venha conhecer nossa **clínica odontológica na Barra da Tijuca**. 
-
-- **📞 Telefone:**(21) 97663-7803
-- **💬 WhatsApp:** **[Falar agora pelo WhatsApp ➔](https://api.whatsapp.com/send?phone=5521976637803)**
-- **📍 Endereço:** **[Shopping Città America – Bloco 2, Sala 143 – Barra da Tijuca ➔](/localizacao/)**
-
-A MD Frossard Odontologia está à disposição para cuidar do seu sorriso.
+- Telefone: (21) 97663-7803
+- WhatsApp: [falar agora](https://api.whatsapp.com/send?phone=5521976637803)
+- Endereço: [Shopping Città América, Bloco 2, Sala 143, Barra da Tijuca](/localizacao/)
 
 <script type="application/ld+json">
 {
